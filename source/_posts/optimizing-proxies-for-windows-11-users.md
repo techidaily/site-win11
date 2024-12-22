@@ -1,7 +1,7 @@
 ---
 title: Optimizing Proxies for Windows 11 Users
-date: 2024-09-05T08:26:29.082Z
-updated: 2024-09-06T08:26:29.082Z
+date: 2024-12-16T16:27:37.554Z
+updated: 2024-12-22T17:03:57.185Z
 tags:
   - windows10
   - windows11
@@ -14,22 +14,10 @@ keywords: Win11 Proxy Opt,Proxies in Win11,Windows 11 Speedup,Win11 Performance,
 thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070a4884d479fae689522aa348.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Optimizing Proxies for Windows 11 Users
 
  If you're unsure whether you're connected to a proxy server or need to check your proxy settings for any other reason, you've come to the right place. Here, we'll explore different ways to find your proxy server settings on Windows 11\. We'll also see how to reset the WinHTTP proxy server.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is a Proxy Server?
 
  A proxy server acts as a gateway between your computer and the internet. When you connect to a proxy server and send a request to a website, your system directs the request to the proxy server. This request could be anything like playing a video, downloading a file, or opening a webpage.
@@ -51,18 +39,6 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  There are various methods to check your proxy server settings on Windows 11\. Let's explore each of them in detail.
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How to Check Your Proxy Server Settings Using the Settings App
 
  The fastest way to find your proxy server settings is by using the Windows Settings app. Here's what you need to do:
@@ -72,7 +48,15 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 3. Click the **Set up** button next to **Use a proxy server**.  
 ![Set up button in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-up-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see the proxy server details in the **Edit proxy server** window that crops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to Check Your Proxy Server Settings Using Internet Options
 
@@ -82,20 +66,8 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 2. Switch to the **Connections** tab and click **LAN settings**.  
 ![Proxy server section in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/proxy-server-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll get the details of your proxy server in the **Proxy Server** section.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Check Your Proxy Server Settings Using Different Browsers
 
  You also use your browser to view your proxy server settings. To check in Google Chrome, type **chrome://net-internals/#proxy** in the address bar and press **Enter**.
@@ -109,11 +81,9 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 ![Connections server section in Firefox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/connections-server.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A **Connection Settings** window will crop up where you can view and configure the proxy server settings.
 
 ### 4\. Check Your Proxy Server Settings Using Command-Line Tools
@@ -126,20 +96,22 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
 ![Command Prompt with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/command-prompt-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check your proxy server settings using PowerShell, launch Windows PowerShell as an administrator (see how to [run Windows PowerShell with administrative rights](https://www.makeuseof.com/windows-11-powershell-administrator/)), type the following command, and hit **Enter**.
 
 `Get-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings' | findstr ProxyServer`
 
 ![PowerShell window with command to check proxy server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PowerShell will display the proxy server details in the result.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reset the WinHTTP Proxy Settings
 
  WinHTTP or Windows HTTP Services allows the desktop applications and Windows services to communicate with the HTTP server. However, there may be times when you need to reset the WinHTTP proxy.
@@ -155,19 +127,11 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 ![Direct access (no proxy server) message in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/direct-access-no-proxy-server.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the command is successfully executed, you will see a message that says **Direct access (no proxy server)**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset the WinINET Proxy Settings Using Internet Options
 
  Most UWP apps use the WinINET library instead of WinHTTP. So, to reset the WinINET proxy using the Internet Options, follow these steps:
@@ -179,11 +143,9 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 ![Automatically detect settings box in Internet Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/automatically-detect-settings-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You've successfully reset the WinINET proxy.
 
 ## Manage Your Proxy Server Settings on Windows
@@ -198,21 +160,17 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
 
  Windows 11 doesn't come with a proxy server built-in, but you can [add your own server](https://www.makeuseof.com/tag/create-online-proxy-server-minutes/) settings to route your internet traffic via your proxy. You can configure a proxy server on your PC using the Settings app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: Should I Set Proxy On or Off?
 
  Whether to enable or disable your proxy server depends on how you want to access the internet. If you want to route your internet data via a proxy server, you should keep the option enabled on your PC. If you don't want to route your internet traffic, you can [turn off your proxy server](https://www.makeuseof.com/windows-11-disable-proxy/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: Are Proxy Servers Safe?
 
  There are both good as well as bad [proxy servers out there](https://www.makeuseof.com/tag/best-free-online-proxy-server/). As long as you get your proxy server from a trusted company, your data should be safe with it. You shouldn't trust any random proxy server on the web.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -220,3 +178,22 @@ thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-cartooncraft-detailed-24-app-audit/"><u>[New] CartoonCraft Detailed '24 App Audit</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-best-video-rank-trackers-for-youtube/"><u>[New] Unveiling Best Video Rank Trackers for YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-scoring-of-toolwizs-photography-software/"><u>[Updated] Inside the Scoring of Toolwiz's Photography Software</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/and-wmv/"><u>最適化&縮小: WMV動画容量減少技術</u></a></li>
+<li><a href="https://win11.techidaily.com/decipher-windows-11-pc-eligibility-quickly/"><u>Decipher Windows 11 PC Eligibility Quickly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-20-proplus-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 20 Pro+ to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-y100a-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo Y100A Location | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-windows-registry-management-edit-remove-and-add-keys/"><u>Mastering Windows Registry Management: Edit, Remove & Add Keys</u></a></li>
+<li><a href="https://games-able.techidaily.com/mojang-mayhem-five-friendly-multiplayer-mc-tactics/"><u>Mojang Mayhem: Five Friendly Multiplayer MC Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-non-responsive-ctrl-issues-on-modern-pcs/"><u>Navigating Through Non-Responsive CTRL Issues on Modern PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cure-overcome-failed-boot-virtual-machines-in-wm11plus/"><u>Quick Cure: Overcome Failed Boot Virtual Machines in WM11+</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-shortcut-functionality-to-snip-tool/"><u>Restoring Shortcut Functionality to Snip Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/shield-your-pc-blocking-wi-fi-broadcast-in-windows/"><u>Shield Your PC: Blocking Wi-Fi Broadcast in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-unruly-0x800f0831-beast-winos-edition/"><u>Taming the Unruly 0X800f0831 Beast: WinOS Edition</u></a></li>
+</ul></div>
+

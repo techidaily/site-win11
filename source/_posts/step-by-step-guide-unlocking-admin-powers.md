@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Unlocking Admin Powers"
-date: 2024-12-10T22:47:07.556Z
-updated: 2024-12-12T21:26:48.225Z
+date: 2024-12-19T17:16:50.909Z
+updated: 2024-12-22T17:42:53.006Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Modify the User Account Control (UAC) Settings
 
  User Account Control (UAC) is a security feature that prevents users from making unauthorized changes to the computer. It typically appears as a dialog box, prompting you to confirm the action by clicking the "Yes" or "No" option.
@@ -38,15 +42,19 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, close the Command Prompt and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
 
@@ -80,13 +88,13 @@ net user administrator /active:yes
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
@@ -95,10 +103,6 @@ net user administrator /active:yes
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
 ## 5\. Create a New Administrator Account
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
@@ -111,49 +115,26 @@ net user administrator /active:yes
 3. Hit the **Add account** button for **Add other users** in the following window.  
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
 7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 8. Expand the Account type dropdown and choose **Administrator** from the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Administrative Access to Your Windows System
 
  The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
 
  Below, we explore various effective fixes to resolve this problem permanently.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-transform-your-youtube-channel-url-in-minutes/"><u>[New] 2024 Approved Transform Your YouTube Channel URL in Minutes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-quick-steps-to-clear-the-exterior-of-your-photos-in-affinity/"><u>[New] Quick Steps to Clear the Exterior of Your Photos in Affinity</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-10-apps-to-boost-audio-velocity/"><u>[New] Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-record-twitch-stream-5-solutions-for-2024/"><u>[Updated] Record Twitch Stream [5 Solutions] for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-understanding-image-validity-on-insta-for-2024/"><u>[Updated] Understanding Image Validity on Insta for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comment-synchronisez-vous-des-fichiers-en-temps-reel-sur-windows-11-8-ou-7/"><u>Comment Synchronisez-Vous Des Fichiers en Temps Réel Sur Windows 11, 8 Ou 7 ?</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-home-interface-in-windows-11/"><u>Enable Home Interface in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonizing-irq-settings-for-pure-audio/"><u>Harmonizing IRQ Settings for Pure Audio</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reinstate-missing-mcuicntexe-file-on-windows/"><u>How To Reinstate Missing McUICnt.exe File on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-docx-by-digital-signature-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .docx by digital signature</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-media-maker-error-x90017-on-windows/"><u>Solving Media Maker Error: X.90017 On Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/transform-your-speech-in-a-music-video-ultimate-guide-to-using-a-voice-changer/"><u>Transform Your Speech in a Music Video: Ultimate Guide to Using a Voice Changer</u></a></li>
-<li><a href="https://win11.techidaily.com/win-adjusting-screensaver-and-lock-delay/"><u>Win: Adjusting Screensaver & Lock Delay</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-leap-forward-navigating-an-ai-driven-world/"><u>Windows 11'S Leap Forward: Navigating an AI-Driven World</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-drive-letter-dilemma-why-they-arent-available-and-how-to-rectify/"><u>Windows' Drive Letter Dilemma: Why They Aren’t Available & How to Rectify</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +143,17 @@ net user administrator /active:yes
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-directory-top-10-sources-for-free-graphics-for-2024/"><u>[Updated] The Ultimate Directory Top 10 Sources for Free Graphics for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-time-saving-ways-to-log-vimeo-media/"><u>2024 Approved Time-Saving Ways to Log Vimeo Media</u></a></li>
+<li><a href="https://win11.techidaily.com/add-on-troubleshooters-for-improved-software-functionality/"><u>Add-On Troubleshooters for Improved Software Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-tactics-to-optimize-your-daily-routine-and-save-time/"><u>ChatGPT Tactics to Optimize Your Daily Routine and Save Time</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y100i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y100i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-turn-off-unsolicited-game-suggestions-for-w11/"><u>Learn to Turn Off Unsolicited Game Suggestions for W11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-way-to-clean-clear-notes/"><u>The Obsidian Way to Clean, Clear Notes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pc-potential-by-clearing-windows-temp-files/"><u>Unlock Your PC Potential by Clearing Windows Temp Files</u></a></li>
+</ul></div>
+

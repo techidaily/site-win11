@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Transfer: Protecting Data Through Windows OS"
-date: 2024-12-08T23:54:36.726Z
-updated: 2024-12-13T11:03:41.741Z
+date: 2024-12-18T17:45:57.869Z
+updated: 2024-12-22T17:32:32.891Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 5. Choose**Yes** when the warning message appears.  
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 ## 2\. Hide a Drive in Windows With Diskpart Command
@@ -57,7 +53,7 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 5. Note down the letter of the drive you want to hide from the**Ltr** column.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Type the following command to select your drive. Make sure you replace**X** in the command with the drive letter noted in the last step.  
@@ -67,7 +63,7 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
@@ -91,13 +87,17 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -119,7 +119,7 @@ Here's what you need to do:
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
@@ -151,17 +151,22 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-directly-embedding-google-meet-in-youtubes-video-library/"><u>[Updated] 2024 Approved Directly Embedding Google Meet in YouTube's Video Library</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-framelock-the-future-of-screen-capturing/"><u>[Updated] In 2024, 'Framelock' – The Future of Screen Capturing?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-choices-full-sweep-video-recording-systems/"><u>2024 Approved Top Choices Full Sweep Video Recording Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/collectors-paradise-unlocked-free-windows-11-for-keys-fan-year-round/"><u>Collector’s Paradise Unlocked: Free Windows 11 For Keys Fan, Year-Round</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-file-explorer-experience-with-onedrive-connection/"><u>Enhance File Explorer Experience with OneDrive Connection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-achieve-full-screen-display-in-social-media-videos/"><u>In 2024, Achieve Full-Screen Display in Social Media Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-c50-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco C50 Fingerprint Lock</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-creative-a-comprehensive-guide-to-the-best-free-slideshow-patterns/"><u>In 2024, Get Creative A Comprehensive Guide to the Best Free Slideshow Patterns</u></a></li>
-<li><a href="https://fox-links.techidaily.com/navigating-virtual-realms-iphone-vr-video-playback/"><u>Navigating Virtual Realms IPhone VR Video Playback</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-error-0x80073cf3-in-windows-microsoft-shop/"><u>Resolving Error 0X80073CF3 in Windows' Microsoft Shop</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-a-non-functional-spotify-client-in-windows-10/"><u>Troubleshooting a Non-Functional Spotify Client in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-windows-print-service/"><u>Troubleshooting Non-Operational Windows Print Service</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-structuring-complex-topics-in-youtube-content-a-chapter-by-chapter-approach/"><u>[New] In 2024, Structuring Complex Topics in YouTube Content A Chapter by Chapter Approach</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-optimizing-video-content-with-perfect-youtube-titles/"><u>[New] Optimizing Video Content with Perfect YouTube Titles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-polishing-resilience-for-online-criticism/"><u>[Updated] 2024 Approved Polishing Resilience for Online Criticism</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-camera-roundup-top-picks-for-superior-videography/"><u>[Updated] Camera Roundup Top Picks for Superior Videography</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-solving-microsoft-store-error-x800704cf/"><u>Expert Tips for Solving Microsoft Store Error (X800704CF)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-chrome-warnings-on-windows-10/"><u>How to Stop Chrome Warnings on Windows 10</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/identifying-common-hardware-issues-a-guide-for-your-pc-insights-from-yl-computing/"><u>Identifying Common Hardware Issues: A Guide for Your PC - Insights From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pubg-2024-how-to-overcome-and-resolve-game-launch-failures-quickly-and-easily/"><u>PUBG 2024 - How to Overcome and Resolve Game Launch Failures Quickly & Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/purge-outdated-wallpapers-simple-trio-techniques/"><u>Purge Outdated Wallpapers: Simple Trio Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-scheduling-pc-shutdown-in-windows-11/"><u>Quick Guide: Scheduling PC Shutdown in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-other-users-from-windows-11-network/"><u>Removing Other Users From WIndows 11 Network</u></a></li>
+<li><a href="https://win11.techidaily.com/runtime-broker-explained-how-it-shapes-your-system-experience/"><u>Runtime Broker Explained: How It Shapes Your System Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strengthening-student-outcomes-with-ai-5-essential-uses-of-chatgpt-in-school/"><u>Strengthening Student Outcomes with AI: 5 Essential Uses of ChatGPT in School</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-to-unseen-operations-in-start-menu/"><u>The Secret to Unseen Operations in Start Menu</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-white-pc-boards-reviewed/"><u>Top White PC Boards Reviewed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-tecno-spark-20-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Tecno Spark 20 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-note-taking-simplified-no-software/"><u>Windows 11 Note-Taking Simplified, No Software</u></a></li>
 </ul></div>
 

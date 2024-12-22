@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows 11 Compatibility Rejection on Your PC
-date: 2024-12-08T00:34:03.949Z
-updated: 2024-12-13T09:16:59.832Z
+date: 2024-12-21T16:07:42.874Z
+updated: 2024-12-22T16:28:10.715Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Windows 11 Upgrade Error Message?
 
 The full error message reads:
@@ -37,10 +41,6 @@ Additionally, you may also see the following error:
 * This PC must support Secure Boot.
 
  If you are experiencing similar errors, it is possible that your PC doesn't have the minimum system requirements to run Windows 11\. That said, the error can be a false flag as well as it will not detect a Secure Boot and TMP 2.0-supported systems if the features are disabled in BIOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are the System Requirements to Install Windows 11?
 
@@ -59,20 +59,20 @@ Additionally, you may also see the following error:
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What Is UEFI Boot Mode?
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -89,7 +89,7 @@ Additionally, you may also see the following error:
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Secure Boot in Windows 10
@@ -112,6 +112,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
@@ -154,10 +158,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing the This PC Can't Run Windows 11 Error
 
  Windows computers with the BIOS legacy firmware enabled won't be able to install Windows 11\. Fortunately, you can easily fix the error by tweaking your BIOS setup utility to enable UEFI firmware mode to enable Secure Boot and TPM 2.0.
@@ -177,22 +177,21 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-unleash-luxury-top-10-accessories-for-the-sj4000-for-2024/"><u>[New] Unleash Luxury Top 10 Accessories for the SJ4000 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-a-comparative-analysis-of-top-10-budget-friendly-video-calls-for-2024/"><u>[Updated] A Comparative Analysis of Top 10 Budget-Friendly Video Calls for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-streamline-your-video-capture-on-youtube/"><u>[Updated] In 2024, Streamline Your Video Capture on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-samsung-galaxy-f54-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Samsung Galaxy F54 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-windows-11-tackling-issues-head-on/"><u>Combatting Windows 11: Tackling Issues Head-On</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-event-log-issues-in-win-11/"><u>Correcting Event Log Issues in Win 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-the-influence-of-runtime-broker-on-pcs/"><u>Demystifying the Influence of Runtime Broker on PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/fixing-iphone-x-overcoming-face-id-malfunction-for-2024/"><u>Fixing iPhone X Overcoming Face ID Malfunction for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/funimate-essentials-for-the-avid-gamer/"><u>Funimate Essentials for the Avid Gamer</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-the-top-10-windows-camera-apps-reviewed/"><u>In 2024, The Top 10 Windows Camera Apps - Reviewed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210727708-9781782400295-mindfulness-for-black-dogs-and-blue-days/"><u>Mindfulness for Black Dogs and Blue Days | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-crash-0x800f0831-explained/"><u>Navigating Through Windows Crash: 0X800F0831 Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-optimal-performance-in-win11-learn-the-top-availability-verification-steps/"><u>Secure Optimal Performance in Win11 - Learn the Top Availability Verification Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-non-responsive-xbox-mic-for-windows-11-users/"><u>Solving Non-Responsive Xbox Mic for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-dxgidll-file-lack-in-windows-11/"><u>Steps to Address Dxgi.dll File Lack in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/sticky-notes-mastery-entering-the-world-of-win11/"><u>Sticky Notes Mastery: Entering the World of Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-and-correcting-system-calls-in-windows-1111/"><u>Unraveling and Correcting System Calls in Windows 11/11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-utilize-vlc-to-archive-live-webcam-data/"><u>[New] In 2024, Utilize VLC to Archive Live Webcam Data</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-windows-11s-fresh-perspectives-explored/"><u>[Updated] 2024 Approved Windows 11'S Fresh Perspectives Explored</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-savor-the-spectacle-best-practices-for-cooking-channel-titling/"><u>[Updated] Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://win11.techidaily.com/a-quick-fix-for-inadvertent-chrome-tab-openings-on-pc/"><u>A Quick Fix for Inadvertent Chrome Tab Openings on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/deletion-dilemma-is-removing-pagefilesys-advisable/"><u>Deletion Dilemma: Is Removing Pagefile.sys Advisable?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oneplus-ace-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Ace 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mac-users-top-5-mkv-decoders/"><u>Mac Users Top 5 MKV Decoders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/macwebcam-tutorial-filming-basics-decoded/"><u>MacWebCam Tutorial Filming Basics Decoded</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-pcs-to-prevent-windows-11-overheats/"><u>Regulating PCs to Prevent Windows 11 Overheats</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-admin-oversight-of-chromium-and-microsoft-edge-browsing-experience/"><u>Revamping Admin-Oversight of Chromium & Microsoft Edge Browsing Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-the-w11-desktop-step-by-step-guide/"><u>Revamping the W11 Desktop: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/the-guide-to-creating-a-unique-terminal-theme/"><u>The Guide to Creating a Unique Terminal Theme</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-youtube-spots-for-video-marketing-success/"><u>Top YouTube Spots for Video Marketing Success</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-git-with-github-desktop-and-windows-11/"><u>Unveiling the Power of Git with GitHub Desktop & Windows 11</u></a></li>
 </ul></div>
 

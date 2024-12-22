@@ -1,7 +1,7 @@
 ---
 title: Enhance Your PC Query Experience with EverythingApp
-date: 2024-12-06T16:16:19.036Z
-updated: 2024-12-13T07:56:37.096Z
+date: 2024-12-16T16:34:41.091Z
+updated: 2024-12-22T17:38:36.403Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Everything?
 
  Everything is a[free search utility for your Windows PC](https://www.makeuseof.com/tag/10-best-free-search-tools-windows-10/) . It works by indexing all the files and folders on your computer's file system to create a database, after which, when you search for a file/folder, it looks it up in that database and returns relevant results instantly.
@@ -41,25 +45,25 @@ thumbnail: https://thmb.techidaily.com/08bfc68ca7424de532f1e4f97e0746486dfe84c13
 
 ![Everything app install options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-everything-on-windows-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, click**Yes** on the**User Account Control** prompt and tap**Finish** to close the installer and launch Everything.
 
  Wait for a few seconds, and Everything will create a database by indexing all the files and folders on your computer
 
 ![Everything search indexed database](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Perform Basic Everything Configuration
 
  Everything works just fine out of the box. However, there are some settings and options, which you should modify to get more out of the program. Head over to**Everything Options** by clicking on**Tools > Options** or pressing the**Ctrl + P** keyboard shortcut, and you'll see a bunch of these options.
 
 ![Everything search options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-search-app-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 We recommend enabling the following options from here:
 
@@ -69,10 +73,6 @@ We recommend enabling the following options from here:
 4. **Automatically include new removable volumes:** To index new removable volumes and search items on it. Go to**Indexes > NTFS** and tick the**Automatically include new removable volumes** option.
 
  Finally, click**Apply** to apply the settings and click**OK** to close the window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Find Files and Folders on Windows With Everything
 
@@ -95,26 +95,18 @@ We recommend enabling the following options from here:
 ![view details about a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/get-details-about-a-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, you can double-click on a file or folder to open it in File Explorer. Or right-click on it to bring up the context menu.
 
  Depending on what file or folder you're doing this on, you'll see a range of options in this menu, like rename, copy full path, open path, cut, copy, delete, and more. Most of the actions you perform here will apply directly to the file/folder on the file system and reflect in the File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Sort Your Results
 
  If Everything returns multiple files and folders matching your query, you can sort them by different properties to quickly get to the item you need. To do this, click on**View** , select**Sort by** , and select a sorting option.
 
 ![Everything sorting options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/everything-sort-options.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Filter Results by Type
 
@@ -124,10 +116,14 @@ We recommend enabling the following options from here:
 
 ![filter results by type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/filter-everything-results-by-type.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Everything will filter the results and only show you files and folders that match the specified type.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Match Case to Find Accurate Results
@@ -137,6 +133,10 @@ We recommend enabling the following options from here:
  To avoid this, you can try matching the case style with the original file or folder name. Simply type the name of the file or folder as it's actually styled in the search box and select**Search > Match Case** .
 
 ![match case option in Everything](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/match-case-in-everything-search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Everything will then return only those files and folders that match the specified case style.
 
@@ -189,17 +189,15 @@ We recommend enabling the following options from here:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-obs-studio-for-gamers-ps4-screenshots-and-recordings-guide/"><u>[Updated] 2024 Approved OBS Studio for Gamers PS4 Screenshots & Recordings Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-outstanding-book-trailer-samples/"><u>[Updated] 2024 Approved Outstanding Book Trailer Samples</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-sustaining-system-stability-returning-to-el-capitan/"><u>[Updated] In 2024, Sustaining System Stability Returning to El Capitan</u></a></li>
-<li><a href="https://win11.techidaily.com/aligning-files-and-directories-in-modern-windows/"><u>Aligning Files & Directories in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-the-critical-windows-c0000022-bug/"><u>Confronting the Critical Windows C0000022 Bug</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-effortless-video-integration-into-instagram-feed/"><u>In 2024, Effortless Video Integration Into Instagram Feed</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-v29e-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo V29e to Gmail | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/iphone-video-editors-cameo-vs-filmorago-showdown-for-2024/"><u>IPhone Video Editors Cameo Vs. FilmoraGo Showdown for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-resolving-common-windows-os-issues/"><u>Quick Guide to Resolving Common Windows OS Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-disabled-email-banners-in-windows-os/"><u>Solving Disabled Email Banners in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-terminal-and-powershell-a-comparative-analysis-on-their-uniqueness/"><u>Windows Terminal & PowerShell: A Comparative Analysis on Their Uniqueness</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-easy-steps-how-to-record-on-vimeo-for-2024/"><u>[Updated] Easy Steps How to Record on Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-scaling-success-the-tactics-for-increasing-youtube-audiences/"><u>2024 Approved Scaling Success The Tactics for Increasing YouTube Audiences</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/basic-procedure-swapping-video-playback-in-vlc-media-player/"><u>Basic Procedure Swapping Video Playback in VLC Media Player</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eight-powerful-devices-for-prospective-filmora-alternatives-for-2024/"><u>Eight Powerful Devices for Prospective Filmora Alternatives for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-20-premier-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 20 Premier 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oneplus-ace-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your OnePlus Ace 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/precise-clipping-pains-solutions-for-immediate-relief/"><u>Precise Clipping Pains? Solutions for Immediate Relief</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-techniques-keeping-taskview-hidden-in-win-11/"><u>Stealth Techniques: Keeping TaskView Hidden in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-resolve-error-unable-to-locate-windows-lsass/"><u>Tips to Resolve Error: Unable to Locate Windows Lsass</u></a></li>
+<li><a href="https://win11.techidaily.com/win10w11-avoiding-the-soon-to-expire-license-warnings/"><u>Win10/W11: Avoiding the “Soon to Expire License” Warnings</u></a></li>
 </ul></div>
 

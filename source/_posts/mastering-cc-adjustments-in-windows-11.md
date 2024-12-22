@@ -1,7 +1,7 @@
 ---
 title: Mastering CC Adjustments in Windows 11
-date: 2024-09-05T08:26:27.443Z
-updated: 2024-09-06T08:26:27.443Z
+date: 2024-12-20T17:05:46.508Z
+updated: 2024-12-22T17:10:55.255Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
 ![CC option on a video player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cc-option-on-a-video-player.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see a Closed Captioning button or icon, try right-clicking on the video player and selecting **Show Closed Captioning** or a similar option. If Closed Captioning is unavailable for the video you're watching, you won't see these options.
 
  If you have confirmed that the video you are watching has Closed Captioning enabled, and you are still not seeing the captions, you should ensure that Closed Captioning is turned on in your Windows 10 settings.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
  To turn on Closed Captioning in Windows 10, press **Win + I** to open the **Settings** app. Then, click on **Ease of Access** from the available options. On the left-hand menu, click on **Closed captions**. From here, check that the **Closed captions** toggle is turned on.
 
  Once the toggle is turned on, you should see captions on videos with Closed Captioning enabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Closed Captioning Is Not Syncing Properly in Windows 10
 
@@ -55,65 +63,31 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 ![Update Drivers Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-drivers-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If none of the above steps resolve the issue, a bug in the operating system may have caused the problem. Microsoft regularly releases updates to fix bugs and improve the performance of Windows 10\.
 
  To check for updates, Open the Settings app and select **Update & Security.** Click on **WindowsUpdate** on the left-hand side. Then select **Check for updates** and install any available updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Update and Check for update
 
 ![Windows Update and Check for update](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-update-and-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 10 offers several options for customizing the closed captioning font and style. But, many users still have issues leveraging this feature.
 
  To adjust the closed captioning font and style, open the Settings app and select **Ease of Access.** Then, click the **Closed captions** option on the left-hand side.
 
 ![Adjusting the closed captioning font and style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adjusting-the-closed-captioning-font-and-style.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you're in the caption settings, you can choose from several font and style options to customize the closed captions to your liking. You can change the caption color, transparency, size, and effects.
 
  After adjusting the font and style options to your liking, preview your changes by playing a video with closed captions. If you're happy with the changes, click **Save** to apply them to all future videos.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Closed Captioning Is Not Working in Windows 10 Presentations
 
  There are several reasons why Closed Captioning is not working on your Windows 10 presentation. For example, you may have incorrect settings in the presentation software or video player, outdated drivers, or a bug in the system.
@@ -127,17 +101,9 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
  If none of the above steps resolve the issue, you can try updating your drivers. Outdated drivers can cause issues with closed captioning in presentations. To update your drivers, follow the steps outlined in the previous section.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Closed Captioning Not Appearing in Live Events on Windows 10
 
  If you're having trouble with closed captioning not appearing in live events on Windows 10, your viewers—especially those with hearing disabilities—would have difficulty following the event.
@@ -154,11 +120,28 @@ thumbnail: https://thmb.techidaily.com/4f656e715f1d971ec63a65c3318a7fb3ef5419888
 
  Whether you're trying to watch a movie, a presentation, or attend a live event, closed captioning that doesn't appear, sync properly, or have font and style issues can be a major inconvenience. So, let's get you up to date on how to troubleshoot these common issues, helping you get the most out of your Closed Captioning in Windows 10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-green-filmmaking-made-simple-with-smart-tech/"><u>[New] 2024 Approved Green Filmmaking Made Simple with Smart Tech</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtubes-earnings-go-up-with-500-subs/"><u>[New] 2024 Approved YouTube's Earnings Go Up With 500 Subs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-auditsound-scrutiny/"><u>[Updated] AuditSound Scrutiny</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/fy-your-music-experience-with-youtubes-playlist-guide/"><u>Amplify Your Music Experience with YouTube's Playlist Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-windows-push-notifications/"><u>Halt Windows Push Notifications</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G23 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-poco-c50-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-airpod-connectivity-prevents-automatic-linking-between-multiple-mac-devices/"><u>Mastering AirPod Connectivity: Prevents Automatic Linking Between Multiple Mac Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-to-find-the-calculator/"><u>Navigating Windows 11 to Find the Calculator</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-method-for-activatingdeactivating-windows-key/"><u>Step-by-Step Method for Activating/Deactivating Windows Key</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-prevent-auto-start-of-spotify-in-windows/"><u>Techniques to Prevent Auto-Start of Spotify in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tidy-up-your-taskbar-group-no-more/"><u>Tidy Up Your Taskbar: Group No More</u></a></li>
+</ul></div>
+

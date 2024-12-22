@@ -1,7 +1,7 @@
 ---
 title: Masterclass on Device Serial Number Extraction for Windows Users
-date: 2024-12-09T03:05:29.771Z
-updated: 2024-12-13T05:18:25.818Z
+date: 2024-12-20T16:36:31.403Z
+updated: 2024-12-22T17:18:40.278Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use the Device Manager
@@ -50,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
@@ -98,6 +94,10 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the Hardware ID option in the Command Prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-in-the-command-prompt-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use PowerShell
 
  Alternatively, you can also check the hardware IDs using[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
@@ -120,10 +120,6 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the Keyboard option from the PowerShell command options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-keyboard-option-from-the-powershell-command-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For the keyboard, the Instance ID is**ACPI\\IDEA0102\\4&15E808EC&0** .
 
  Now that you've found the Instance ID, here’s how you can use it to find the hardware ID:
@@ -142,10 +138,6 @@ Let’s check out the steps you need to follow:
  Next, look for the corresponding value in the "Data" category. The value that appears in this section is the hardware ID.
 
 ![Selecting the hardware ID option on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-on-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
@@ -170,11 +162,19 @@ Once you’re in the correct folder, follow these steps:
 
 ![Typing the CMD command in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-the-cmd-command-in-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, type the following command into the Command Prompt and press**Enter** :
 
 `devcon hwids *`
 
 ![Displaying hardware IDs using DevCon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/displaying-hardware-ids-using-devcon.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will show you the details of all the devices on your computer. The results will also contain the hardware IDs.
 
@@ -187,7 +187,7 @@ Once you’re in the correct folder, follow these steps:
  If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You've Successfully Found the Hardware IDs of Your Devices
@@ -211,19 +211,21 @@ Once you’re in the correct folder, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-ecological-architecture-merging-nature-and-city-planning/"><u>[New] Ecological Architecture Merging Nature and City Planning</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-captivate-audiences-and-gain-traction-with-youtube-shorts/"><u>[New] In 2024, How to Captivate Audiences and Gain Traction with YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leveraging-popularity-a-comprehensive-guide-to-instagram-influencer-advertising/"><u>[New] In 2024, Leveraging Popularity A Comprehensive Guide to Instagram Influencer Advertising</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-gradual-amplitude-reduction-guide-for-2024/"><u>[Updated] Gradual Amplitude Reduction Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-tiktok-audio-transform-into-phone-ringtones/"><u>[Updated] In 2024, Mastering TikTok Audio Transform Into Phone Ringtones</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-critical-winerror-upgrade-fault-0xc004f050/"><u>Fixing Critical WinError: Upgrade Fault #0XC004F050</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/keeping-track-archiving-chatgpt-dialogues/"><u>Keeping Track: Archiving ChatGPT Dialogues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-windows-system-preferences-to-adjust-after-dark-mode/"><u>Mastery of Windows System Preferences to Adjust After Dark Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-obs-studio-audio-silence-fixes-for-w11-pcs/"><u>Reverse OBS Studio Audio Silence: Fixes for W11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-large-group-renames-with-powertoys/"><u>Simplify Large Group Renames with PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-extended-monitor-lag-in-windows/"><u>Strategies to Combat Extended Monitor Lag in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-cannot-end-task-on-your-computer/"><u>Tackling 'Cannot End Task' On Your Computer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-guide-where-to-position-your-ps4s-webcam-for-best-results/"><u>Ultimate Guide: Where to Position Your PS4's Webcam for Best Results</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-journey-into-the-future-of-video-clarity-in-depth-vce-22-review/"><u>[New] 2024 Approved Journey Into the Future of Video Clarity - In-Depth VCE 2.2 Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-your-secret-to-popularity-choosing-best-thumbnail-fonts/"><u>[New] In 2024, Your Secret to Popularity Choosing Best Thumbnail Fonts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-movavi-plus-unveiled-the-latest-edition/"><u>[New] Movavi Plus Unveiled – The Latest Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-youtube-file-transfer-techniques/"><u>[Updated] 2024 Approved Easy YouTube File Transfer Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-11-connectivity-the-5g-challenge/"><u>Addressing Windows 11 Connectivity: The 5G Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/alert-systems-top-7-windows-processes-for-infection-scrutiny/"><u>Alert Systems: Top 7 Windows Processes for Infection Scrutiny</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-ipad-air-with-m2-a-comprehensive-review-and-buyers-guide-to-the-ultimate-2023-tablet-selection-zdnet-analysis/"><u>Apple's iPad Air with M2: A Comprehensive Review and Buyer's Guide to the Ultimate 2023 Tablet Selection | ZDNet Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-windows-camera-app-malfunctions/"><u>Fixing Common Windows Camera App Malfunctions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-ott-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .ott file electronically</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-non-changeable-energy-modes-in-windows-11/"><u>Navigating Non-Changeable Energy Modes in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/nintendo-switch-visual-memories-a-users-guide-to-screen-shotting-and-sharing-games/"><u>Nintendo Switch Visual Memories: A User's Guide to Screen Shotting and Sharing Games</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-the-core-of-windows-11s-problem-solving-tools/"><u>Resurrecting the Core of Windows 11'S Problem-Solving Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-process-to-configure-pc-manager/"><u>The Complete Process to Configure PC Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-art-of-photo-transformation-in-windows/"><u>The Hidden Art of Photo Transformation in Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-tech-secrets-with-toms-gadget-gazette-authoritative-reviews-and-buying-advice/"><u>Unveiling Tech Secrets with Tom's Gadget Gazette: Authoritative Reviews & Buying Advice</u></a></li>
 </ul></div>
 

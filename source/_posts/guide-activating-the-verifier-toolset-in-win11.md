@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating the Verifier Toolset in Win11"
-date: 2024-12-10T10:38:36.076Z
-updated: 2024-12-12T21:04:49.869Z
+date: 2024-12-16T16:54:42.413Z
+updated: 2024-12-22T17:10:21.296Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opening the Driver Verifier Manager With Task Manager
@@ -57,7 +57,16 @@ To open Driver Verifier Manager using Task Manager, do the following:
 4. Type “verifier” into the text box and check the "Create this task with administrative privileges” box.  
 ![Open Driver Vefifier Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-task-manager.jpg)
 5. Now click**OK** to launch Driver Verifier Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. When UAC prompts, click**Yes** to grant administrative rights.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
 
@@ -78,10 +87,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 ![Open Driver Vefifier With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-with-desktop-shortcut.jpg)
 2. Type the below command into the "Create Shortcut" window and click**Next** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\WINDOWS\system32\verifier.exe`
 3. Then, type a name for your shortcut (such as "Driver Verifier") and hit**Finish** .
 
@@ -97,14 +102,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Getting the Driver Verifier Manager Open, the Easy Way
 
@@ -125,20 +126,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-affordable-airborium-wonders-best-bargain-drones-list/"><u>[New] 2024 Approved Affordable Airborium Wonders Best Bargain Drones List</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-ultimate-checklist-for-adding-effective-on-screen-captions-to-your-videos/"><u>[New] 2024 Approved The Ultimate Checklist for Adding Effective On-Screen Captions to Your Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precise-guide-to-navigating-adobe-cloud-then-comparing-other-methods/"><u>[Updated] Precise Guide to Navigating Adobe Cloud, Then Comparing Other Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-active-recorder-assessment-industry-standards-met/"><u>2024 Approved Active Recorder Assessment Industry Standards Met?</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-access-10-fast-methods-to-control-center/"><u>Accelerate Access: 10 Fast Methods to Control Center</u></a></li>
-<li><a href="https://win11.techidaily.com/disguising-or-displaying-time-win-1011-tutorial/"><u>Disguising or Displaying Time: Win 10/11 Tutorial</u></a></li>
-<li><a href="https://extra-information.techidaily.com/explore-google-chromes-advanced-multiscreen-capabilities/"><u>Explore Google Chrome's Advanced Multiscreen Capabilities</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-netgear-c3cable-modemrouter-duo-time-for-an-update/"><u>Exploring the Features of the Netgear C3Cable Modem/Router Duo – Time for an Update?</u></a></li>
-<li><a href="https://win11.techidaily.com/google-nearby-share-vs-windows-nearby-sharing-which-should-you-use/"><u>Google Nearby Share Vs. Windows Nearby Sharing: Which Should You Use?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/highest-quality-live-tv-and-community-broadcasting-guide-2esecurity-for-2024/"><u>Highest-Quality Live TV & Community Broadcasting Guide, 2Esecurity for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-troubles-fix-the-end-of-text-stream-mistake-with-ease/"><u>IPhone Troubles? Fix the 'End of Text Stream' Mistake with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-cutting-down-cpu-load-on-windows-hosts/"><u>Mastery of Cutting Down CPU Load on Windows Hosts</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-onedrive-servers-errors-easily/"><u>Navigating Through OneDrive Servers Errors Easily</u></a></li>
-<li><a href="https://games-able.techidaily.com/revive-nintendo-switch-online-accessibility/"><u>Revive Nintendo Switch Online Accessibility</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-disable-your-it-admin-limited-access-warning/"><u>Solutions to Disable 'Your IT Admin Limited Access' Warning</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[New] 2024 Approved Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-addition-of-youtube-video-selections-for-sites-for-2024/"><u>[Updated] Seamless Addition of YouTube Video Selections for Sites for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-color-correction-best-practices-top-11/"><u>[Updated] The Art of Color Correction Best Practices (Top 11)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>2024 Approved Chromebook Voice Overhaul Guide Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity/"><u>Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-out-the-epic-game-hub-clutter-from-windows-11/"><u>Clear Out the Epic Game Hub Clutter From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-techniques-to-effectively-modify-software-sizes-in-win11/"><u>Keyboard Techniques to Effectively Modify Software Sizes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-virtual-boxs-capabilities-with-v70-on-windows-11-systems/"><u>Maximize Virtual Box's Capabilities with v7.0 on Windows 11 Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-stabilize-your-video-in-the-final-cut-pro/"><u>New 2024 Approved How to Stabilize Your Video in the Final Cut Pro?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/next-gen-gaming-horizon-upcoming-bests-in-playstation-vr-for-2024/"><u>Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-initial-load-issues-in-lol/"><u>Overcoming Initial Load Issues in LOL</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-keyboard-issues-in-the-windows-snipper/"><u>Resolving Keyboard Issues in the Windows Snipper</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-network-defenses-with-5-tweaks-to-firewall/"><u>Revitalizing Network Defenses with 5 Tweaks to Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-craft-an-invisible-taskbar-on-windows-11/"><u>Steps to Craft an Invisible Taskbar on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-right-way-to-find-someones-work-or-private-email-address/"><u>The Right Way to Find Someone's Work or Private Email Address</u></a></li>
 </ul></div>
 

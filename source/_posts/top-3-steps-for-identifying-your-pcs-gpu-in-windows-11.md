@@ -1,7 +1,7 @@
 ---
 title: Top 3 Steps for Identifying Your PC's GPU in Windows 11
-date: 2024-12-07T01:40:22.020Z
-updated: 2024-12-13T05:53:38.960Z
+date: 2024-12-15T17:49:22.928Z
+updated: 2024-12-22T18:08:23.553Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,13 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 3. The Task Manager window will list the name of your graphics card in the top right corner. You can also find the**Driver** and**DirectX** versions in the bottom right corner.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check out[how to use the Windows Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) for more in-depth instructions on this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Find Your GPU Model Using DirectX on Windows 11
@@ -57,11 +57,11 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 2. Select the**Display** tab to view details of your GPU, including the GPU manufacturer, chip type, dedicated display memory, etc. If you have more than one GPU on your PC, you will see multiple**Display** tabs with details of each GPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Confirm Your Graphics Card Model via the Windows 11 Settings App
@@ -79,7 +79,7 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 5. For more details, select**Display adapter properties for Display** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get to Know Your GPU Model Better on Windows 11
@@ -101,22 +101,22 @@ To check the installed graphics card or GPU of your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-epic-moments-in-gameplay-with-casters-for-2024/"><u>[New] Epic Moments in Gameplay with Casters for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-seamless-timelapse-footage-with-ios-technology/"><u>[New] Seamless Timelapse Footage with iOS Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-endless-memories-free-saving-on-instagram-stories/"><u>[Updated] In 2024, Endless Memories FREE Saving on Instagram Stories</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-tips-for-iphones-screen-recording/"><u>[Updated] In 2024, Quick Tips for iPhones Screen Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-secret-to-exceptional-instagram-reels/"><u>[Updated] The Secret to Exceptional Instagram Reels</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-down-clutter-save-space-tips-for-tracking-big-files-on-pc/"><u>Cut Down Clutter, Save Space: Tips for Tracking Big Files on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/executing-high-privilege-tasks-via-powershell-on-w11/"><u>Executing High-Privilege Tasks via PowerShell on W11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-dynamic-action-sequences-on-iphone/"><u>In 2024, Capturing Dynamic Action Sequences on iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-sound-quality-installing-dolby-atmos-on-windows-11/"><u>Mastering Sound Quality: Installing Dolby Atmos on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-disabling-winos-gfx-tasking/"><u>Step-by-Step: Disabling WinOS GFX Tasking</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-library-loading-problem-87-in-windows/"><u>Steps to Resolve Library Loading Problem 87 in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-15-budget-friendly-online-editors-for-stunning-images/"><u>Top 15 Budget-Friendly Online Editors for Stunning Images</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-chrome-and-youtube-lag-connection/"><u>Troubleshooting Chrome and YouTube Lag Connection</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unboxing-the-innocn-27c1u-a-look-at-its-vibrant-4k-screen-and-swift-connection-process-expert-review-by-zdnet/"><u>Unboxing the Innocn 27C1U: A Look at Its Vibrant 4K Screen and Swift Connection Process - Expert Review by ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-pc-potential-the-best-windows-tools/"><u>Unleash PC Potential: The Best Windows Tools</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-beat-architect-techniques-for-isolating-and-repurposing-kernels-in-audio/"><u>Updated The Beat Architect Techniques for Isolating and Repurposing Kernels in Audio</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-over-windows-fixing-failed-nvidia-geforce-scans/"><u>Winning Over Windows: Fixing Failed Nvidia GeForce Scans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-guide-to-capturing-your-screens-stepwise-approach-for-2024/"><u>[New] Essential Guide to Capturing Your Screens - Stepwise Approach for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elite-8s-imagery-merging-digital-software/"><u>[New] In 2024, Elite 8’S Imagery Merging Digital Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-displays-for-picture-perfect-editing-choices/"><u>[New] In 2024, Essential Displays for Picture Perfect Editing [Choices]</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dissecting-the-revenue-sharing-mechanisms-in-youtube-shorts-economy/"><u>[Updated] In 2024, Dissecting the Revenue-Sharing Mechanisms in YouTube Shorts Economy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-when-worlds-collapse-premium-zombie-video-game-guide/"><u>2024 Approved When Worlds Collapse Premium Zombie Video Game Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/7-obstacles-hindering-windows-11-upgrade-traction/"><u>7 Obstacles Hindering Windows 11 Upgrade Traction</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-windows-mail-glitches-the-0x80072746-fix-guide/"><u>Combatting Windows Mail Glitches: The 0X80072746 Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/darkmodetoggleforwin-basedtexteditor/"><u>DarkModeToggleForWin-basedTextEditor</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/data-recovery-essentials-how-to-find-and-access-your-backups-with-guidance-from-yl-software-solutions/"><u>Data Recovery Essentials: How to Find & Access Your Backups with Guidance From YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-your-printer-on-windows-11-step-by-step/"><u>Fixing Your Printer on Windows 11: Step by Step</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-k70e-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi K70E Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-ink-to-paper-translation-selecting-best-windows-tabs/"><u>Ideal Ink-to-Paper Translation: Selecting Best Windows Tabs</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/learning-curve-to-funimate-excellence/"><u>Learning Curve to Funimate Excellence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-fixes-combatting-elevated-cpu-drain-by-wudfhostexe-on-windows-10-systems/"><u>Master the Fixes: Combatting Elevated CPU Drain by WUDFHost.exe on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-coding-in-windows-a-guide-to-using-microsoft-copilot/"><u>Mastering Coding in Windows: A Guide to Using Microsoft Copilot</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-dark-screen-quandary-in-window-8/"><u>Overcoming the Dark Screen Quandary in Window 8</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-11-start-up-with-these-simple-ideas/"><u>Streamline Windows 11 Start-Up with These Simple Ideas</u></a></li>
 </ul></div>
 

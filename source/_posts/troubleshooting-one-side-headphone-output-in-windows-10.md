@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting One-Side Headphone Output in Windows 10
-date: 2024-09-05T08:26:31.052Z
-updated: 2024-09-06T08:26:31.052Z
+date: 2024-12-17T16:14:25.745Z
+updated: 2024-12-22T16:17:27.041Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Windows 10 Headphone Sound,Troubleshoot One-Side Audio,Diagnose HP
 thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152db90ae5a3b63c07a0dcd2fd7.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting One-Side Headphone Output in Windows 10
 
  Have you stopped hearing any sound from one side of your headphones? In most cases, this is due to a hardware issue where one side of your headphones is broken before the other. However, other factors can also cause one side of your headphones to become unresponsive, including some Windows settings.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Perform Some Preliminary Checks
 
  Before you begin troubleshooting the issue, perform the following checks first, as they may resolve the problem right away:
@@ -43,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  If the above checks don't work, start applying the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check for Hardware Issues
 
 ![A person wearing headphones next to a microphone and PC screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-person-wearing-headphones-next-to-a-microphone-and-pc-screen.jpeg)
@@ -60,11 +46,9 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
  In contrast, if you hear audio as usual when connecting your headphones to another device, it's a device-specific issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check the Audio Jack or Port for Issues
 
 ![An RCA jack with a broken pin inside](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/an-rca-jack-with-a-broken-pin-inside.jpg)
@@ -77,12 +61,6 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Audio jacks often get clogged with dust and dirt, which can block signal transmission. Therefore, make sure that the jacks are clean.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Ensure One Side of Your Headphones Isn't Muted
 
  The sound balance feature in Windows makes it possible to control the audio intensity from both the left and right sides of headphones. If the sound isn't coming from one side, that side could be muted in the settings. Therefore, you should make sure that isn't the case.
@@ -94,27 +72,25 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Under **Advanced**, click **More sound settings**.  
 ![Open More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 4. Navigate to the **Playback** tab, right-click your headphones device, then select **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Open Properties by Right-clicking on Your Device in the Playback Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/2-open-properties-by-right-clicking-on-your-device-in-the-playback-tab.jpg)
 5. Navigate to the **Levels** tab of the properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the **Balance** button.  
 ![Click the Balance Button in the Levels Tab of the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-click-the-balance-button-in-the-levels-tab-of-the-properties-window.jpg)
 7. Make sure neither the left nor right side is muted. If both sides are at different levels at the moment, balance them.  
 ![Balance the Sound Levels of Both the Right and Left Side of Your Headphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-balance-the-sound-levels-of-both-the-right-and-left-side-of-your-headphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully you can now hear from both sides of your headphones.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Audio Enhancements
 
  The audio enhancement feature makes the output of audio as clean as possible. By adding additional processing, this feature can create a significant improvement in the quality of your audio.
@@ -143,22 +119,18 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 3. Under **Hearing**, click on **Audio**.  
 ![Open Audio Settings in the Accessibility Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-open-audio-settings-in-the-accessibility-tab-of-the-windows-settings-app.jpg)
 4. Turn off the toggle next to **Mono audio** if it's already selected.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Mono Audio in Audio Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-disable-mono-audio-in-audio-settings-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this doesn't fix the issue, remember to turn the mono audio setting off again before continuing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Check for App-Specific Issues
 
  If you don't hear any voice from one side of your headphones only when running a particular app, chances are that app offers a setting to control the output from each side of your headphones Therefore, check the audio settings and ensure both sides are unmuted, and the volume levels are balanced.
@@ -179,11 +151,29 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Here're a few checks and fixes to find out if the issue is hardware-related or caused by misconfigured settings and resolve it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/-compreayers-guide-to-growth-updating-youtube-metadata/"><u>[New] A Compreayer's Guide to Growth Updating YouTube Metadata</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-streamlining-media-with-apple-music-and-video-mixes-for-2024/"><u>[New] Streamlining Media with Apple Music & Video Mixes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-creating-dynamic-content-with-youtube-playlist-embedding/"><u>[Updated] Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-crystal-curtain-calls-olympic-showcase/"><u>[Updated] In 2024, Crystal Curtain Calls Olympic Showcase</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/202amino-acids-and-proteins-so-they-do-not-need-to-consume-them-directly-instead-ruminants-rely-on-the-microbial-fermentation-in-their-gut-to-convert-non-pr42/"><u>最佳圖片加上文字編輯器：創意書寫照片的方法 202Amino Acids and Proteins, so They Do Not Need to Consume Them Directly. Instead, Ruminants Rely on the Microbial Fermentation in Their Gut to Convert Non-Protein Nitrogen Sources Into Protein.</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-event-management-with-the-new-windows-11-calendar/"><u>Effortless Event Management with the New Windows 11 Calendar</u></a></li>
+<li><a href="https://win11.techidaily.com/examining-platforms-for-seamless-local-data-exchange/"><u>Examining Platforms for Seamless Local Data Exchange</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-record-audio-on-windows-10-in-2024/"><u>How To Record Audio on Windows 10, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-shift-to-secure-display-without-pin-in-win-11/"><u>How to Shift to Secure Display without PIN in Win 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-leading-websites-for-buying-enigma-boxes/"><u>In 2024, Explore the Leading Websites for Buying Enigma Boxes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-techniques-for-calc-prominence-in-win/"><u>Optimal Techniques for Calc Prominence in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/rename-users-home-path-on-windows-11-easily/"><u>Rename User's Home Path on Windows 11 Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-prevent-device-name-conflicts-in-windows-environments/"><u>Strategies to Prevent Device Name Conflicts in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-top-4-windows-friendly-webp-viewers/"><u>Unveiling the Top 4 Windows-Friendly WebP Viewers</u></a></li>
+</ul></div>
+

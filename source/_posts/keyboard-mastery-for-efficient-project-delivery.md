@@ -1,7 +1,7 @@
 ---
 title: Keyboard Mastery for Efficient Project Delivery
-date: 2024-12-06T09:47:33.587Z
-updated: 2024-12-12T16:23:40.609Z
+date: 2024-12-15T16:47:12.142Z
+updated: 2024-12-22T16:54:57.993Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Project Keyboard Shortcuts
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open a Project File
@@ -53,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Open a New Window
 
 **Shift + F11:** This will open up a blank window that can be used for any tasks or projects that need to be created.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Activate the Project Control Menu
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Show Task Information
@@ -89,23 +89,19 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 **Ctrl + X:** This will remove the data from its current location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 13\. Set the Task to Auto Schedule
 
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 14\. Set the Task To Manually Schedule
 
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -209,6 +205,10 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 | Extend the selection to the start of the text        | Shift + Home                  |
 | Turn on or off Overtype mode                         | Insert                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Most Out of Microsoft Project
 
  Here you will find a comprehensive overview of the most common Project keyboard shortcuts to help you get more done. These shortcuts can help you save time while using Microsoft Project and focus on the relevant tasks at hand.
@@ -228,22 +228,19 @@ thumbnail: https://thmb.techidaily.com/3386d85b267514cfab16005f295bb530706ad69ae
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-blurring-identity-erasing-faces-from-video-content-for-2024/"><u>[New] Blurring Identity Erasing Faces From Video Content for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>[Updated] In 2024, Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-strategies-that-accelerate-youtube-followers-acquisition/"><u>[Updated] Strategies That Accelerate YouTube Followers Acquisition</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/5-strategien-zur-reparatur-und-datenwiederherstellung-von-nicht-bootbaren-festplatten/"><u>5 Strategien Zur Reparatur Und Datenwiederherstellung Von Nicht Bootbaren Festplatten</u></a></li>
-<li><a href="https://win11.techidaily.com/double-down-on-efficiency-speeding-up-mouse-closings/"><u>Double Down on Efficiency: Speeding Up Mouse Closings</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-setting-up-your-computers-startup-routines-in-win11/"><u>Efficiently Setting Up Your Computer's Startup Routines in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-routines-for-elevating-virtual-memory-settings-on-windows-11/"><u>Essential Routines for Elevating Virtual Memory Settings on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bring-back-photo-viewer-in-modern-windows-1111/"><u>How to Bring Back Photo Viewer in Modern Windows 11/11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leveraging-vlc-media-player-for-remote-streaming-for-2024/"><u>Leveraging VLC Media Player for Remote Streaming for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ip-configuration-windows-11-focus/"><u>Mastering IP Configuration: Windows 11 Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/no-more-lockouts-windows-11-pin-recovery-steps/"><u>No More Lockouts: Windows 11 PIN Recovery Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/rethinking-performance-entering-a-new-standard-with-16gb-ram/"><u>Rethinking Performance: Entering a New Standard with 16GB RAM</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-irreversibly-close-your-yahoo-email-account/"><u>Step-by-Step Instructions to Irreversibly Close Your Yahoo Email Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-achieving-verification-badge-on-the-revamped-social-platform-formerly-known-as-twitter/"><u>The Ultimate Guide: Achieving Verification Badge on the Revamped Social Platform, Formerly Known as Twitter</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-macos-with-out-of-operating-system-tools/"><u>Transforming macOS with Out-of-Operating System Tools</u></a></li>
-<li><a href="https://win-bits.techidaily.com/windows-10-oemhddssd/"><u>Windows 10 OEMリカバリディスクでHDD/SSDへのシステム移動手順</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/zte-nubia-z60-ultra-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>ZTE Nubia Z60 Ultra ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-projector-vs-tv-showdown-which-prevails-in-4k-clarity-for-2024/"><u>[New] Projector vs TV Showdown Which Prevails in 4K Clarity for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-efficient-techniques-for-capturing-google-voice-calls/"><u>[Updated] 2024 Approved Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-sorbet-surveillance-complete-guide-to-ice-cream-screen-capture/"><u>[Updated] Sorbet Surveillance Complete Guide to Ice Cream Screen Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-enable-startup-diagnostics/"><u>A Step-by-Step Guide to Enable Startup Diagnostics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capture-every-pixel-of-pc-gaming-bliss-6-ways-for-2024/"><u>Capture Every Pixel of PC Gaming Bliss (6 Ways) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-steam-read-only-barrier-errors-in-windows-11/"><u>Eliminating Steam Read-Only Barrier Errors in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-your-digital-life-restarting-apps-in-windows-11/"><u>Managing Your Digital Life: Restarting Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quickening-boot-process-windows-11-timeout-reduction-guide/"><u>Quickening Boot Process: Windows 11 Timeout Reduction Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/riconverti-il-tuo-video-da-wma-a-mkv-senza-costi-lutilissimo-software-di-movavi/"><u>Riconverti Il Tuo Video Da WMA a MKV Senza Costi - L'utilissimo Software Di Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/solve-activation-limit-reached-in-manycam-a-comprehensive-guide-to-increasing-your-usage/"><u>Solve 'Activation Limit Reached' In ManyCam: A Comprehensive Guide to Increasing Your Usage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/streamline-your-fb-feeds-with-these-5-video-grabbers-for-2024/"><u>Streamline Your FB Feeds with These 5 Video Grabbers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719368082467-switch-off-windows-11-defender-firewall-now/"><u>Switch Off Windows 11 Defender Firewall Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpts-potential-for-android-applications-a-comprehensive-guide/"><u>Unlocking ChatGPT's Potential for Android Applications – A Comprehensive Guide</u></a></li>
 </ul></div>
 

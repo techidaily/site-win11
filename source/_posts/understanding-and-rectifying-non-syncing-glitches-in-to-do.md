@@ -1,7 +1,7 @@
 ---
 title: Understanding and Rectifying Non-Syncing Glitches in To Do
-date: 2024-12-11T01:01:32.169Z
-updated: 2024-12-13T03:12:30.683Z
+date: 2024-12-21T16:41:05.458Z
+updated: 2024-12-22T16:02:04.606Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check the Microsoft To Do Server Status
 
  There’s a chance there’s nothing wrong with the app, but Microsoft is doing some maintenance or troubleshooting work on its servers. Which is why Microsoft To Do isn’t syncing.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Stop Microsoft To Do from running with Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/restart-microsoft-to-do-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update Microsoft To Do
@@ -61,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  For Microsoft To Do on mobile, you can update the app through the [Google Play Store](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030136/https://play.google.com/store/apps/details?id=com.microsoft.todos&hl=en&gl=US) or [Apple Store](https://apps.apple.com/us/app/microsoft-to-do/id1212616790). If there’s an update available, you’ll see the **Update** button next to the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Log Out and Back Into Microsoft To Do
 
  Microsoft To Do might fail to sync if there’s an authentication issue with your account. To fix it, click on your profile icon and head to **Manage accounts**. Then, click on **Sign out**.
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ![Sign out of Microsoft To Do](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sign-out-to-do-1.jpg)
 
  Sign back in and check if the problem is now fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Let the App Run in the Background
 
@@ -89,11 +77,16 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 4. Select **Advanced options**.  
 ![Allow Microsoft To Do to run in the background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-background-1.jpg)
 5. Extend the **Let this app run in background** menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Choose **Always**.  
 ![Give Microsoft To Do permission to run in the background on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/to-do-permissions-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair Microsoft To Do
@@ -102,36 +95,21 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
 ![Repair the Microsoft To Do app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/repair-to-do-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re still facing the sync issue, go through the instructions above and, in the app settings menu, click **Reset**. Microsoft To Do will revert to its default settings and delete all the app data. This will fix any incorrect settings that stop the app from working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Microsoft To Do Syncing Again
 
  Microsoft To Do not syncing anymore can be a major issue, especially if you share and assign tasks with your coworkers. Fortunately, you can quickly fix it and keep track of your daily assignments.
 
  Either way, you shouldn’t let Microsoft To Do syncing issues affect your productivity. Here's how to fix it.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exclusive-list-of-premium-screen-free-gaming-on-android-devices/"><u>[New] In 2024, Exclusive List of Premium Screen-Free Gaming on Android Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-optimal-visual-branding-best-practices-for-youtube-channel-size/"><u>[Updated] Optimal Visual Branding Best Practices for YouTube Channel Size</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-comfortable-cinematography-amidst-the-chill/"><u>2024 Approved Crafting Comfortable Cinematography Amidst the Chill</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sifting-through-cloud-costs-for-maximum-savings/"><u>2024 Approved Sifting Through Cloud Costs for Maximum Savings</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-common-obstacles-when-installing-java/"><u>Addressing Common Obstacles When Installing Java</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-made-easy-essential-windows-fixers-guide/"><u>Debugging Made Easy: Essential Windows Fixers Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On iPhone 8?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-exploring-mobile-youtube-usage-on-different-oses/"><u>In 2024, Exploring Mobile YouTube Usage on Different OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/key-techniques-to-refresh-windows-group-policy-settings/"><u>Key Techniques to Refresh Windows Group Policy Settings</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-ideapad-y470-w7drivers-handbook/"><u>Lenovo IdeaPad-Y470 W7Drivers Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-reinitializing-unwanted-apps/"><u>Mastering Window 11: Reinitializing Unwanted Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-windows-based-podcast-options-for-2024/"><u>Premium Windows-Based Podcast Options for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quality-control-best-free-lut-selections-and-links-reviewed-for-2024/"><u>Quality Control Best Free LUT Selections & Links Reviewed for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-11-taskbar-discrepan-marketplace/"><u>Rectifying Windows 11 Taskbar Discrepan Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-computing-10-top-alternatives-to-windows-defaults/"><u>Redefining Computing: 10 Top Alternatives to Windows' Defaults</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-memory-efficiency-for-device-interaction-windows/"><u>Streamlining Memory Efficiency for Device Interaction Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/top-rated-family-wifi-protectors-the-ultimate-router-selection/"><u>Top-Rated Family WiFi Protectors: The Ultimate Router Selection</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-quick-solutions-for-cursor-on-black-screen/"><u>Win10/11: Quick Solutions for Cursor on Black Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-adjustment-the-six-essential-techniques/"><u>Windows 11 Image Adjustment: The Six Essential Techniques</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +118,23 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-titans-the-ultimate-list-of-30-stellar-handle-ideas/"><u>[New] TikTok Titans The Ultimate List of 30 Stellar Handle Ideas</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimize-your-facebook-streaming-experience-with-these-methods/"><u>[Updated] 2024 Approved Optimize Your Facebook Streaming Experience with These Methods</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-watch-nba-in-real-time-15-effective-strategies/"><u>[Updated] How to Watch NBA in Real Time 15 Effective Strategies</u></a></li>
+<li><a href="https://fox-place.techidaily.com/3-metodi-innovativi-per-ritrovare-le-tue-dati-eliminate-su-dispositivi-periferici/"><u>3 Metodi Innovativi per Ritrovare Le Tue Dati Eliminate Su Dispositivi Periferici</u></a></li>
+<li><a href="https://win11.techidaily.com/5-quick-wins-to-tackle-your-window-writes-woes/"><u>5 Quick Wins to Tackle Your Window' Writes Woes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ai-driven-nomenclature-best-10-name-generators-online/"><u>AI-Driven Nomenclature Best 10 Name Generators Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/efficient-overwatch-recording-techniques-exposed/"><u>Efficient Overwatch Recording Techniques Exposed</u></a></li>
+<li><a href="https://win11.techidaily.com/guarding-against-hidden-threats-in-these-7-windows-processes/"><u>Guarding Against Hidden Threats in These 7 Windows Processes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>In 2024, How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pova-5-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pova 5 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-microsoft-store-error-solving-in-windows/"><u>Mastery of Microsoft Store Error Solving in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-gaming-glitches-keeping-df-playtime-uninterrupted/"><u>Navigating Gaming Glitches: Keeping DF Playtime Uninterrupted</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-strategies-optimizing-linux-experience-in-windows/"><u>Pro WLS 2 Strategies: Optimizing Linux Experience in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-11-menu-glitches-a-step-by-step-guide/"><u>Solving Windows 11 Menu Glitches: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-the-non-operational-escape-button-on-your-desktop/"><u>Swiftly Solve the Non-Operational Escape Button on Your Desktop</u></a></li>
+</ul></div>
+

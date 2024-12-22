@@ -1,7 +1,7 @@
 ---
 title: Simplified Techniques to Purge Image Borders
-date: 2024-08-28T00:56:32.415Z
-updated: 2024-08-29T00:56:32.415Z
+date: 2024-12-21T17:10:06.583Z
+updated: 2024-12-22T16:41:08.699Z
 tags:
   - windows10
   - windows11
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 ---
 
 ## Simplified Techniques to Purge Image Borders
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,20 +36,18 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 
  In this article, we show you how to use Microsoft Paint or Paint 3D to remove a background from an image.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update Microsoft Paint or Paint 3D App From the Microsoft Store
 
 ![Microsoft Paint app in Microsoft Store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-in-microsoft-store-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Remove background feature in MS Paint was part of the [Windows 11 Moment 4 update](https://www.makeuseof.com/new-windows-11-features-moment-4-update/). To get started, make sure you have the latest Windows 11 updates installed. To do this, go to **Settings > Windows Update** and choose **Check for updates**. You should also update [Microsoft Paint](https://apps.microsoft.com/detail/paint/9PCFS5B6T72H) and [Paint 3D](https://apps.microsoft.com/detail/paint-3d/9NBLGGH5FV99) from the Microsoft Store to receive new features.
 
  After the update is installed, launch any of the apps, and you'll see the **Remove background** or the **Magic select** option in the respective apps' toolbar. Using them is straightforward, as you can see below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove the Background of an Image Using Microsoft Paint
 
  The [background removal tool](https://www.makeuseof.com/tag/3-easy-ways-to-remove-backgrounds-from-images-without-specialized-software/) in the standard Paint app is powered by AI. You can import any images onto your Paint canvas and click the Remove background feature to clean up the background with a single click.
@@ -55,15 +57,13 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 1. Launch **Paint** and import the image you want to edit.  
 ![Microsoft Paint App With a Bird Image and Remove Background Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/microsoft-paint-app-with-a-bird-image-and-remove-background-option-selected-in-windows-11-2.jpg)
 2. In the **Command bar**, click the **Remove background** option. Microsoft Paint uses AI to process and detect the image elements and remove the background.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Microsoft Paint App Showing an Image Without Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-app-showing-an-image-without-background.jpg)
 3. You can also use the selection tool to specify only part of the image to remove and then click the **Remove background** option.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. To save the image, go to **File > Save as**, then choose the **PNG** or **JPEG** format. Enter a name for the file and click **Save**. The Paint app will save the file with a transparent background.
 
  As with most AI tools, the remove background feature is not perfect, but more often than not, it does a decent enough job.
@@ -77,9 +77,11 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 1. Launch the **Paint 3D** app and import the image you want to edit.  
 ![Paint 3D App With the Magic Select Option Selected In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-option-selected-in-windows-11.jpg)
 2. Click the **Magic select** option in the toolbar.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Paint 3D App With the Magic Select Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-cutout-selection-in-windows-11.jpg)
 3. Adjust the focus area to fit around the area of the image you want to retain. Even if you want to keep a large part of the image, a slight adjustment is necessary for the app to determine the background.
 4. Click **Next**.  
@@ -89,9 +91,11 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 1. Click **Done**.  
 ![Paint 3D App Delete Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-delete-background-canvas-in-windows-11.jpg)
 2. Now, select the cutout and drag it to the side of the canvas.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Using the selection tool, click and drag over the canvas and press **Delete** to remove the background.
 4. Now select the **Canvas** option in the toolbar.  
 ![Paint 3D App Showing a Deleted Bird Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-showing-a-deleted-bird-background-canvas-in-windows-11.jpg)
@@ -101,11 +105,30 @@ thumbnail: https://thmb.techidaily.com/6c0a15a3d6083cf4363045e7514d3f4e9e6ab2b47
 
  The AI-powered Paint and Paint 3D app in Windows 11 may not produce perfect results. Especially if the image has a busy background. However, both do a nice job and produce consistent backgrounds. They also save you from the hassle of owning and using a more sophisticated image editing tool for quick edits.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-navigating-instagram-hashtags-maximizing-post-exposure-and-engagement/"><u>[Updated] 2024 Approved Navigating Instagram Hashtags Maximizing Post Exposure & Engagement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-art-of-antiquated-visuals-for-modern-audienciplines/"><u>2024 Approved The Art of Antiquated Visuals for Modern Audienciplines</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-edits-text-paste-and-mouse-jump-tips/"><u>Essential Edits: Text Paste & Mouse Jump Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/hack-proof-guide-for-stripping-emails-post-logon/"><u>Hack-Proof Guide for Stripping Emails Post Logon</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-reacquire-lost-copilot-in-ws11-journeys/"><u>How To Reacquire Lost Copilot In WS11 Journeys</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-audio-recording-download-the-latest-focusrite-scarlett-18i20-windows-sound-drivers/"><u>Improve Audio Recording: Download the Latest Focusrite Scarlett 18I20 Windows Sound Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>In 2024, Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-pc-at-its-best-with-these-pivotal-windows-11-uptime-tests/"><u>Keep Your PC at Its Best with These Pivotal Windows 11 Uptime Tests</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-output-fixing-wireless-speaker-volumes/"><u>Maximizing Output: Fixing Wireless Speaker Volumes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outube-feed-how-to-merge-multiple-videos/"><u>One YouTube Feed How to Merge Multiple Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-and-type-instantly-mastering-windows-with-whisper/"><u>Speak & Type Instantly: Mastering Windows with Whisper</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-playstation-5s-digital-shelf/"><u>Streamlining PlayStation 5'S Digital Shelf</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-unresponsive-wi-fi-hotspot/"><u>Troubleshooting Windows 11'S Unresponsive Wi-Fi Hotspot</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-breakthrough-5-revolutionary-intel-granite-rapids-cpus-sporting-up-to-128-cores-and-500w-tdp/"><u>Unveiling the Latest Breakthrough: 5 Revolutionary Intel Granite Rapids CPUs Sporting Up to 128 Cores & 500W TDP</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-realme-narzo-60x-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Realme Narzo 60x 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-errors-decoded-10-must-have-solutions/"><u>Win Errors Decoded: 10 Must-Have Solutions</u></a></li>
+</ul></div>
+

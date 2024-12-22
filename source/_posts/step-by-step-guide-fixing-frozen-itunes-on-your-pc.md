@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing Frozen iTunes on Your PC"
-date: 2024-08-28T00:56:12.802Z
-updated: 2024-08-29T00:56:12.802Z
+date: 2024-12-17T16:20:50.363Z
+updated: 2024-12-22T18:01:38.763Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Close All of iTunes' Processes in the Task Manager
 
  Sometimes iTunes freezes when users try to start it because a background process for that software is already running. Ending the iTunes process in Task Manager before selecting to run the software is a potential fix many users confirm works.
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 3. If you can see an iTunes process under Apps, select it and click **End task**.  
 ![The Processes tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/processes-tab.jpg)
 4. Look for and disable any other iTunes-related tasks under **Background processes**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Utilize the Windows Store App Troubleshooter
 
@@ -50,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/9494fa406dacd27bc0a8399abf0f5c2cdeea0b8aa
 
  However, you can’t set the iTunes UWP app to always run with elevated rights because its installation folder is not accessible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Run iTunes in Safe Mode
 
  If you’ve installed the iTunes desktop software, try fixing its startup error by running the app in safe mode. Doing so will launch iTunes with plugins disabled. You can activate safe mode by pressing and holding the **Ctrl** \+ **Shift** keys when you click to launch iTunes. Then click **Continue** on the safe mode dialog box that appears.
@@ -75,24 +79,18 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 5. Select the **Windows 7** compatibility setting on the drop-down menu.  
 ![The Compatibility mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/compatibility-mode-settings.jpg)
 6. Click on the **Apply** button to set your selected options.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Select **OK** to leave the iTunes Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Use Windows' Repair Feature to Fix iTunes
 
  Repair options are worth trying when iTunes isn’t working. You can select to repair iTunes via Settings or the Programs and Features Control Panel applet, depending on whether you’re utilizing the UWP app or desktop software.
 
  Our guide to [repairing apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) tells you how to repair iTunes using either way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset the iTunes App
 
  The iTunes UWP app has a **Reset** option you can select via Apps & features in Settings. That troubleshooting option clears the app’s data, which is worth trying when iTunes isn’t working right.
@@ -101,9 +99,6 @@ The ultimate burning program for all your needs!</a>
 
 ![The Repair and Reset options for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-and-reset-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 8\. Turn Off Any Active Third-Party Security Software
 
  Third-party security apps are those that incorporate antivirus shields and firewalls. Those software packages are the most likely ones to cause issues for launching iTunes primarily due to the security restrictions they can enforce on apps.
@@ -112,9 +107,6 @@ The ultimate burning program for all your needs!</a>
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reinstall iTunes
 
  Reinstalling iTunes is a final troubleshooting method to try if nothing else works. This troubleshooting method will refresh the app’s files and likely resolve installation issues causing iTunes startup errors.
@@ -123,16 +115,25 @@ The ultimate burning program for all your needs!</a>
 
 ![The Uninstall option for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’ve uninstalled iTunes, you can either install the UWP app or older Windows desktop software. To do so, click **Download iTunes for Windows 10 from the Microsoft Store** or **Download iTunes 12.10.11** on the [Apple page](https://support.apple.com/en-gb/HT210384). If you select the 12.10.11 option, you’ll need to open the installation file for iTunes in the folder it downloaded and install the software with that.
 
 ![The download links for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/itunes-download-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Installing iTunes from the Microsoft Store is recommended because you can be sure that it's the Windows-supported app and the latest version. 12.10.11 is the last version of the desktop software Apple hasn’t updated since 2020\.
 
  However, users have confirmed uninstalling iTunes and installing an older version of that software can resolve certain issues. To be more specific, the “iTunes cannot run” error message is one such issue users confirm installing older versions fixes. You can install an older version of iTunes by downloading its installation file from the [Apple Support page](https://support.apple.com/downloads/itunes).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get iTunes Fixed on Your Windows PC
 
@@ -140,11 +141,28 @@ The ultimate burning program for all your needs!</a>
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-easy-peasy-automating-the-repetitive-view-of-youtube-videos/"><u>[New] 2024 Approved Easy Peasy Automating the Repetitive View of YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-a-look-at-the-future-leading-photo-framing-apps/"><u>[New] In 2024, A Look at the Future Leading Photo Framing Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-theme-crafting-for-gaming-channels-a-visual-journey/"><u>[Updated] 2024 Approved Theme Crafting for Gaming Channels A Visual Journey</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-generate-sharable-gifs-with-a-laugh-twist-giphy/"><u>[Updated] Generate Sharable Gifs with a Laugh Twist, Giphy</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-updates-blocked-by-windows-access-deficiency/"><u>Fixing Updates Blocked by Windows' Access Deficiency</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-safely-update-your-ipad-to-the-latest-ios-version-without-facing-bricking-problems/"><u>How to Safely Update Your iPad to the Latest iOS Version Without Facing Bricking Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210974364-9781088251928-la-intrusa/"><u>La Intrusa | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-logins-a-simple-guide-to-windows-11-issues/"><u>Navigating Logins: A Simple Guide to Windows 11 Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reverse-action-how-to-remove-an-accidental-repost-from-your-tiktok-profile/"><u>Reverse Action: How to Remove an Accidental Repost From Your TikTok Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-dims-knowledge-for-restoring-win11-images/"><u>The Essential DIMS Knowledge for Restoring Win11 Images</u></a></li>
+<li><a href="https://win11.techidaily.com/toggle-off-intense-contrast-for-windows-users/"><u>Toggle Off Intense Contrast for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-visual-potential-with-generative-photo-erasing/"><u>Unlocking Visual Potential with Generative Photo Erasing</u></a></li>
+<li><a href="https://win11.techidaily.com/unveil-excellence-essential-windows-picks-for-you/"><u>Unveil Excellence: Essential Windows Picks for You</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Perfectly Configure the Win11's DNS Service
-date: 2024-12-11T02:08:30.679Z
-updated: 2024-12-13T04:08:36.035Z
+date: 2024-12-19T16:43:24.529Z
+updated: 2024-12-22T17:41:45.729Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable the DNS Client Service Using the Registry Editor
 
  Even if you try to use the Command Prompt and run the command to stop the service, it responds with a “the requested pause, continue, or stop is not valid for this service.” message. So, you need to edit the registry settings of the DNS Client service to disable it.
@@ -42,7 +46,7 @@ Repeat the following steps to disable the DNS client service:
 5. Close the Registry editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Press**Win + S** and type**services.msc** . Click on the**Run as administrator** option.
@@ -50,18 +54,18 @@ Repeat the following steps to disable the DNS client service:
 ![Disable the DNS Client Service Using Registry Editor 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-2.jpg)
 8. Close the Services utility and restart your system to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Relaunch the Services panel and find the DNS Client service. It will have a blank status and Startup Type as disabled.  
 ![Disable the DNS Client Service Using Registry Editor 3-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-the-dns-client-service-using-registry-editor-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, DNS Client Service won’t start until you manually tweak its registry key again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is It Possible to Configure the DNS Client Service Without the Registry Editor?
 
@@ -91,11 +95,7 @@ Repeat the following steps to disable the DNS client service:
 4. **Restart** your system for the changes to take effect. DNS Client Service will remain disabled on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tweak Your DNS Client Service Easily
@@ -117,20 +117,21 @@ Repeat the following steps to disable the DNS client service:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-charting-a-path-to-success-exploring-15-top-youtube-beginnings/"><u>[New] 2024 Approved Charting a Path to Success Exploring 15 Top YouTube Beginnings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-secrets-to-composing-compelling-video-blogging-plots/"><u>[New] Secrets to Composing Compelling Video Blogging Plots</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-global-exploration-by-channel/"><u>[New] The Ultimate Guide to Global Exploration, By Channel</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-10-nintendo-switch-fighting-games/"><u>[Updated] 2024 Approved Top 10 Nintendo Switch Fighting Games</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazons-strategic-partnership-with-singaporean-e-commerce-expanding-small-businesses-worldwide/"><u>Amazon's Strategic Partnership with Singaporean E-Commerce: Expanding Small Businesses Worldwide</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-error-zero-eighty-three-one-in-windows/"><u>Conquering Error Zero-Eighty-Three-One in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-the-ideal-display-elevate-your-xbox-series-x-gaming/"><u>Discover the Ideal Display - Elevate Your Xbox Series X Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-recover-from-failed-printer-spooler-on-windows/"><u>Guide to Recover From Failed Printer Spooler on Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-features-to-improve-visuals/"><u>In 2024, Leveraging YouTube's Features to Improve Visuals</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-sudo-for-enhanced-windows-security/"><u>Leveraging Sudo for Enhanced Windows Security</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-windows-camera-app-issues-quickly/"><u>Solving Windows Camera App Issues Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-directx-update-procedures-uncovered/"><u>Step-by-Step DirectX Update Procedures Uncovered</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-unfreeze-utorrent-downloads-in-windows/"><u>Steps to Unfreeze uTorrent Downloads in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-linux-setup-skip-wsl/"><u>Streamlined Linux Setup: Skip WSL</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-your-tech-experience-top-3-exclusive-features-of-the-new-iphone-16-revealed-by-zdnet/"><u>Upgrade Your Tech Experience: Top 3 Exclusive Features of the New iPhone 16 Revealed by ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-how-to-make-picture-in-picture-video-on-macos-sierra-for-2024/"><u>[New] How to Make Picture in Picture Video on macOS Sierra for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-master-the-switch-making-your-graphic-style-a-sticker-on-every-platform-for-2024/"><u>[Updated] Master the Switch Making Your Graphic Style a Sticker on Every Platform for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transformative-techniques-for-capturing-on-iphone-for-2024/"><u>[Updated] Transformative Techniques for Capturing on iPhone for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-professional-looking-colors-in-gopro-editing/"><u>2024 Approved The Path to Professional-Looking Colors in GoPro Editing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-14-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 14 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bmw-car-owners-rejoice-how-ios-17-fixes-previous-issues-with-wireless-chargers-for-iphone-15-insights-from-zdnet/"><u>BMW Car Owners Rejoice: How iOS 17 Fixes Previous Issues with Wireless Chargers for iPhone 15 - Insights From ZDNet</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-repairs-a-new-dawn-for-dbs/"><u>Celestial Repairs: A New Dawn for DBs</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-devhome-navigating-windows-11-with-ease/"><u>Introducing DevHome: Navigating Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-microsoft-store-sign-in-blocks/"><u>Navigate Through Microsoft Store Sign-In Blocks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-errors-with-windows-event-logger/"><u>Overcoming Errors with Windows Event Logger</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-task-manager-unresponsiveness/"><u>Overcoming Windows Task Manager Unresponsiveness</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ps5-and-dvd-compatibility-can-you-watch-movies-from-disc-learn-the-steps/"><u>PS5 and DVD Compatibility: Can You Watch Movies From Disc? Learn the Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-non-responsive-shift-in-windows/"><u>Streamline Non-Responsive Shift in Windows.</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-t2-pro-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo T2 Pro 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-photoshop-wont-launch-in-windows-1011/"><u>Troubleshooting PhotoShop Won't Launch in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-username-modification-in-windows-11/"><u>Unlocking the Secrets of UserName Modification in Windows 11</u></a></li>
 </ul></div>
 

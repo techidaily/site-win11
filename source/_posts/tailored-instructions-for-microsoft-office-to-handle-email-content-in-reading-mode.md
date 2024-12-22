@@ -1,7 +1,7 @@
 ---
 title: Tailored Instructions for Microsoft Office to Handle Email Content in Reading Mode
-date: 2024-12-09T23:27:36.078Z
-updated: 2024-12-13T01:03:51.279Z
+date: 2024-12-21T16:49:01.984Z
+updated: 2024-12-22T16:18:25.422Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
@@ -41,14 +41,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
 
@@ -63,7 +59,11 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -83,11 +83,11 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 7. Click**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
- Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 ## Opening Email Attachments in Microsoft Word's Reading View
 
@@ -108,24 +108,17 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/a-closer-look-six-wins-of-win11-over-macos/"><u>A Closer Look: Six Wins of Win11 Over MacOS</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-smooth-windows-11-transitions-in-place-methods/"><u>Achieving Smooth Windows 11 Transitions: In-Place Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-recently-accessed-windows-documents/"><u>Deciphering Recently Accessed Windows Documents</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-device-health-check-up-the-ultimate-guide-for-windows-11s-uptime/"><u>Dive Into Device Health Check-Up: The Ultimate Guide for Windows 11'S Uptime</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-poco-c55-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Poco C55 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-xs-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone XS When Its Locked Within Seconds</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-13c-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi 13C 5G Face Lock?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-infinix-note-30-vip-racing-edition-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Infinix Note 30 VIP Racing Edition Device</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-90-lite-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor 90 Lite Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reliability-monitor-vs-performance-monitor-comparing-two-underutilized-windows-tools/"><u>Reliability Monitor Vs. Performance Monitor: Comparing Two Underutilized Windows Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-advanced-solutions-to-end-game-crashes/"><u>Rocket League Stability Hacks: Advanced Solutions to End Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stability-achieved-how-to-prevent-constant-crashing-in-age-of-wonders-planetfall-game-pc/"><u>Stability Achieved: How to Prevent Constant Crashing in Age of Wonders: Planetfall Game (PC)</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-mitigate-winerror-0x80780119/"><u>Strategies to Mitigate WinError 0X80780119</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-swapping-screen-orientation-by-90-degrees/"><u>The Ultimate Guide to Swapping Screen Orientation by 90 Degrees</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-factors-to-evaluate-when-purchasing-pre-owned-ipads/"><u>Top 5 Factors to Evaluate When Purchasing Pre-Owned iPads</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/top-8-real-life-strategies-to-increase-youtube-reach-for-2024/"><u>Top 8 Real-Life Strategies to Increase YouTube Reach for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-6-typical-windows-display-issues/"><u>Troubleshooting 6 Typical Windows Display Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-wisdom-mastering-the-method-of-making-dossiers/"><u>Win11 Wisdom: Mastering the Method of Making Dossiers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-craft-your-photos-in-minutes-learning-lunapic-for-2024/"><u>[New] Craft Your Photos in Minutes Learning LunaPic for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cultivating-a-positive-mindset-against-cyberbullying/"><u>[Updated] In 2024, Cultivating a Positive Mindset Against Cyberbullying</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-visualizer-screen-recorder-3000/"><u>[Updated] In 2024, Visualizer Screen Recorder 3000</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023s-elite-list-of-eco-friendly-bluetooth-wireless-speakers-expert-review-roundup-engadget/"><u>2023'S Elite List of Eco-Friendly Bluetooth Wireless Speakers: Expert Review Roundup | Engadget</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-solutions-to-the-missing-or-not-found-msstdfmtdll-error/"><u>Effective Solutions to the 'Missing' Or 'Not Found' Msstdfmt.dll Error</u></a></li>
+<li><a href="https://win11.techidaily.com/elongate-your-windows-11-pin-code-for-enhanced-safety/"><u>Elongate Your Windows 11 Pin Code for Enhanced Safety</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-go-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark Go (2023) Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/leverage-extended-power-in-windows-11-through-advanced-run-tools/"><u>Leverage Extended Power in Windows 11 Through Advanced Run Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/liberating-your-computers-files-using-powershell-skills/"><u>Liberating Your Computer's Files Using PowerShell Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-xbox-app-for-game-installation/"><u>Navigating Windows Xbox App for Game Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-accessibility-even-as-a-beginner/"><u>Unlocking Windows Accessibility, Even as a Beginner</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upcoming-ai-integration-in-smartphones-clues-from-apples-recent-acquisition-strategy/"><u>Upcoming AI Integration in Smartphones? Clues From Apple's Recent Acquisition Strategy</u></a></li>
 </ul></div>
 

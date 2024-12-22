@@ -1,7 +1,7 @@
 ---
 title: Redo Windows 11'S Classic Folder Display Mode
-date: 2024-12-12T05:24:19.745Z
-updated: 2024-12-12T22:56:55.613Z
+date: 2024-12-18T16:27:45.387Z
+updated: 2024-12-22T16:53:26.983Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset Folder View Settings to Default on Windows
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
@@ -71,6 +71,10 @@ start explorer.exe`
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -81,7 +85,7 @@ start explorer.exe`
 3. Click**Yes** when prompted to confirm your action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Finally, hit**OK** and the window will close.
@@ -89,7 +93,7 @@ start explorer.exe`
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
@@ -106,10 +110,6 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
 6. Similarly, delete the**Bags** folder and close the Registry window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Reset Folder View Settings to Default
 
@@ -132,21 +132,22 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-android-freedom-the-most-popular-top-10-fb-video-extraction-tools-for-2024/"><u>[New] Android Freedom The Most Popular Top 10 FB Video Extraction Tools for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimizing-image-storage-with-google-photos-expertise/"><u>[New] Optimizing Image Storage with Google Photos Expertise</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-whimsical-logging-in-and-out-guide-for-2024/"><u>[New] Whimsical Logging in & Out Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ace-the-pre-prime-day-savings-top-bargains-at-best-buy-before-prime-day-2024-insights-from-zdnet/"><u>Ace the Pre-Prime Day Savings: Top Bargains at Best Buy Before Prime Day 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/conjuring-powerful-tools-for-windows-users/"><u>Conjuring Powerful Tools for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-high-cpu-usage-a-guide-via-windows-resource-monitor/"><u>Conquering High CPU Usage: A Guide via Windows Resource Monitor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-mpe-a-formato-ogg-codifica-on-line-di-movavi/"><u>Conversione Gratuita MPE a Formato OGG - Codifica On-Line Di Movavi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-driver-installation-guide-for-hewlett-packard-computers/"><u>Effortless Driver Installation Guide for Hewlett-Packard Computers!</u></a></li>
-<li><a href="https://win11.techidaily.com/key-apps-for-seamless-windows-android-integration/"><u>Key Apps for Seamless Windows-Android Integration</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/laptop-to-television-reconnect-overcoming-hdmi-deadlock/"><u>Laptop-to-Television Reconnect: Overcoming HDMI Deadlock</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-the-lost-startup-window-in-windows/"><u>Reclaiming the Lost Startup Window in Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restore-touchpads-right-click-capability-in-windows-11/"><u>Restore Touchpad's Right-Click Capability in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-windows-default-pdf-viewer/"><u>Switching Windows' Default PDF Viewer</u></a></li>
-<li><a href="https://win11.techidaily.com/total-extraction-of-wsl-from-windows-11-screens/"><u>Total Extraction of WSL From Windows 11 Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-viewing-vistas-backdrop-recommendations-for-2024/"><u>Ultimate Viewing Vistas Backdrop Recommendations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-user-errors-fixing-invalid-profiles-in-w1111/"><u>Unraveling User Errors: Fixing Invalid Profiles in W11/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-effortless-methods-to-archive-slideshows-for-2024/"><u>[Updated] Effortless Methods to Archive Slideshows for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-swift-solution-for-effortless-srt-to-text-txt-transform/"><u>[Updated] The Swift Solution for Effortless SRT to Text (TXT) Transform</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-maximizing-fb-instream-ad-impact-configuration-techniques-and-metrics/"><u>2024 Approved Maximizing FB Instream Ad Impact Configuration Techniques and Metrics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-premier-free-tools-for-easy-jpggif-transformation/"><u>2024 Approved Premier Free Tools for Easy JPG/GIF Transformation</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-examining-microsoft-vs-standard-windows-user-accounts/"><u>Cross-Examining Microsoft vs Standard Windows User Accounts</u></a></li>
+<li><a href="https://facebook.techidaily.com/discover-how-six-factors-make-facebook-indispayer-for-modern-life/"><u>Discover How Six Factors Make Facebook Indispayer for Modern Life</u></a></li>
+<li><a href="https://win11.techidaily.com/displaying-networked-storage-options-on-screen/"><u>Displaying Networked Storage Options on Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-deactivation-four-proven-methods-to-cut-off-users-in-win11/"><u>Easy Deactivation: Four Proven Methods to Cut Off Users in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-powertoys-on-win11/"><u>Enhancing User Experience: PowerToys on Win11</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-12-pro-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 12 Pro Max Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ntfs-enablingdisabling-file-compression/"><u>Mastering NTFS: Enabling/Disabling File Compression</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/peak-hours-for-releasing-podcasts-for-2024/"><u>Peak Hours for Releasing Podcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-outlook-folder-unreadable-error-steps-for-personal-computers/"><u>Resolve 'Outlook Folder Unreadable' Error: Steps for Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-surfing-steps-for-windows-based-network-speed-verification/"><u>Swift Surfing: Steps for Windows-Based Network Speed Verification</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-malwarebytess-failed-execution-calls-on-windows-1011/"><u>Tackling Malwarebytes's Failed Execution Calls on Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-eliminates-fall-guys-lag-and-freeze-problems-during-gameplay-on-personal-computers/"><u>Update Eliminates Fall Guys Lag and Freeze Problems During Gameplay on Personal Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11
-date: 2024-12-08T20:06:57.177Z
-updated: 2024-12-12T16:25:38.980Z
+date: 2024-12-18T17:24:40.834Z
+updated: 2024-12-22T17:32:37.326Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
@@ -41,10 +41,14 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 6. Enable the toggle next to**Metered connection** to set the Wi-Fi network as metered. If you want to set the network as an unmetered connection, disable the toggle.  
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Network Profiles in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-profiles-in-windows.jpg)
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
 `netsh wlan show profile name="Wi-Fi Name"`  
  Make sure you replace**Wi-Fi Name** in the above command with the actual name of the network noted in the last step.
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable the metered connection for a network, run the following command instead.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
@@ -108,24 +108,24 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-keep-your-snaps-alive-strategies-for-longevity/"><u>[New] Keep Your Snaps Alive – Strategies for Longevity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-visual-storytelling-crafting-impressive-imovie-video-intros/"><u>[New] Visual Storytelling Crafting Impressive iMovie Video Intros</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-smiling-screens-top-15-funny-mobile-photography-tools/"><u>[Updated] 2024 Approved Smiling Screens Top 15 Funny Mobile Photography Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-enabled-mac-video-recorder/"><u>[Updated] In 2024, Audio-Enabled Mac Video Recorder</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pixelated-prowess-celebrating-the-best-shooter-classics/"><u>[Updated] Pixelated Prowess Celebrating the Best Shooter Classics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-finish-to-start-the-art-of-negative-playback-on-instagram/"><u>2024 Approved From Finish to Start The Art of Negative-Playback on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/a-novices-guide-to-windows-11-sound-capture/"><u>A Novice's Guide to Windows 11 Sound Capture</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/discovering-greatness-a-complete-analysis-of-the-2019-tcl-50s425-the-ultimate-blend-of-quality-and-affordability-in-a-50-4k-roku-setup/"><u>Discovering Greatness: A Complete Analysis of the 2019 TCL 50S425 - The Ultimate Blend of Quality and Affordability in a 50 4K Roku Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/expanding-windows-hard-drive-sustainably/"><u>Expanding Windows Hard Drive Sustainably</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-websites-for-extracting-text-visual-upgrades-for-2024/"><u>Ideal Websites for Extracting Text Visual Upgrades for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-lustrous-frameworks-structuring-illumination-in-film/"><u>In 2024, Lustrous Frameworks Structuring Illumination in Film</u></a></li>
-<li><a href="https://win11.techidaily.com/lightening-windows-11-startup-latency-tips-for-a-speedy-launch/"><u>Lightening Windows 11 Startup Latency – Tips for a Speedy Launch</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-edge-with-microsofts-advanced-protection-technology-aguard-on-windows-11/"><u>Secure Edge with Microsoft's Advanced Protection Technology (Aguard) on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-win-error-no-access-to-network-paths/"><u>Solving WIN Error: No Access to Network Paths</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-getting-fortnite-up-and-running-on-android-phones/"><u>Step-by-Step Tutorial: Getting Fortnite Up and Running on Android Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-10-file-organization-hacks-max-156/"><u>Streamlining Windows: 10 File Organization Hacks (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/trouble-with-file-explorer-on-win11-effective-repair-methods/"><u>Trouble with File Explorer on Win11? Effective Repair Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-interruptexception-solution-for-win11/"><u>Unveiling INTERRUPT_EXCEPTION Solution for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-excel-is-running-slow-on-windows/"><u>What to Do if Excel Is Running Slow on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-choosing-the-best-portable-microphones-for-macos-users/"><u>[New] Choosing the Best Portable Microphones for MacOS Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-snap-and-share-the-brief-vlog-age/"><u>[New] In 2024, Snap & Share The Brief Vlog Age</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-iphone-x-handbook-for-users-for-2024/"><u>[New] The Ultimate iPhone X Handbook for Users for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>2024 Approved Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10)</u></a></li>
+<li><a href="https://win11.techidaily.com/credential-manager-breaking-the-open-barrier/"><u>Credential Manager: Breaking the Open Barrier</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cross-platform-harmony-transferring-your-curated-playlists-between-apple-music-and-youtube-music-unveiled/"><u>Cross-Platform Harmony: Transferring Your Curated Playlists Between Apple Music and YouTube Music Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-0x8004def5-nine-fixes-for-onedrive-issues-win11/"><u>Deciphering 0X8004DEF5 - Nine Fixes for Onedrive Issues, Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-6-task-assistants-that-work-with-windows-11/"><u>Discover the Leading 6 Task Assistants That Work with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fps-counters-in-windows-11-landscape/"><u>Essential FPS Counters in Windows 11 Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/get-back-whats-gone-enhance-your-windows-functionality/"><u>Get Back What's Gone: Enhance Your Window's Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-perfectly-configure-the-win11s-dns-service/"><u>How to Perfectly Configure the Win11's DNS Service</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-xr-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone XR Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x6frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X6FRP Lock</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-personalized-instagram-notification-melodies/"><u>In 2024, Personalized Instagram Notification Melodies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-secrets-of-the-trade-in-sourcing-professional-filmmakers/"><u>In 2024, Secrets of the Trade in Sourcing Professional Filmmakers</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-full-charge-indicators-for-modern-wins/"><u>Optimize Full Charge Indicators for Modern WINs</u></a></li>
+<li><a href="https://win11.techidaily.com/the-invisible-hand-hidden-descriptors-for-folders-in-windows/"><u>The Invisible Hand: Hidden Descriptors for Folders in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintet-of-top-tier-write-enhancers-windows-edition/"><u>The Quintet of Top-Tier Write Enhancers (Windows Edition)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-efficient-communication-5-no-cost-ai-utilities-to-compose-elite-emails-using-chatgpt-and-summarize-messages/"><u>Unleash Efficient Communication: 5 No-Cost AI Utilities to Compose Elite Emails Using ChatGPT & Summarize Messages</u></a></li>
 </ul></div>
 

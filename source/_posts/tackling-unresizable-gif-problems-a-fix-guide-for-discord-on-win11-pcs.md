@@ -1,7 +1,7 @@
 ---
 title: "Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs"
-date: 2024-12-09T12:14:26.115Z
-updated: 2024-12-13T08:48:21.897Z
+date: 2024-12-15T16:40:45.872Z
+updated: 2024-12-22T17:25:57.776Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Optimize the GIF
 
  On Discord, file uploads are limited to a maximum of 8 MB. However, GIF emotes must not be more than 256 KB and should have dimensions of 128x128 pixels or less. If you try to upload a GIF that surpasses these size restrictions, you will encounter the "cannot resize GIF" error.
@@ -39,15 +35,21 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 2. Click the **Choose** **File** button and select the GIF that's throwing the error on uploading on Discord.  
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
-6. Click the **Save** button.  
-![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click the **Save** button.  
+![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
 
@@ -58,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 4. Click the **Save** icon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Log Out and Back Into the Discord App
@@ -70,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
 3. Enter your credentials and click the **Log In** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try to upload the GIF and check if you still face the error.
 
 ## 3\. Clear the Discord Cache Data
@@ -83,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
@@ -91,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Contact Discord Support
 
@@ -102,25 +104,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-selecting-superior-hdr-cameras-a-buyers-guide/"><u>[New] 2024 Approved Selecting Superior HDR Cameras A Buyer's Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-melody-meets-momentum-harmonizing-sound-with-imagery/"><u>[New] In 2024, Melody Meets Momentum Harmonizing Sound with Imagery</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-secrets-of-squaring-up-making-square-format-videos-with-imovie-for-instagram/"><u>[Updated] The Secrets of Squaring Up Making Square-Format Videos with iMovie for Instagram</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cracking-the-code-no-more-freezing-in-rocket-league/"><u>Cracking the Code: No More Freezing in Rocket League</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/essential-malware-inspection-instruments-leading-solutions-for-effective-cybersecurity-defense/"><u>Essential Malware Inspection Instruments: Leading Solutions for Effective Cybersecurity Defense</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-value-cannot-be-determined-problem-on-windows-pcs/"><u>Fixing 'Value Cannot Be Determined' Problem on Windows PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/getting-assistance-from-genius-bar-staff-how-to-arrange-a-visit-to-apple-store/"><u>Getting Assistance From Genius Bar Staff: How to Arrange a Visit to Apple Store</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tackle-windows-error-0xc0000001-efficiently/"><u>How To Tackle Windows Error 0xC0000001 Efficiently</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-simple-steps-keeping-a-record-of-google-voice-calls/"><u>In 2024, Simple Steps Keeping a Record of Google Voice Calls</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-top-8-troubleshooting-steps/"><u>Mastering Windows: Top 8 Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-time-performance-top-5-wins-speed-up-solutions/"><u>Prime Time Performance: Top 5 Win's Speed-Up Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-your-chrome-on-win11-with-ease/"><u>Resurrect Your Chrome on Win11 with Ease!</u></a></li>
-<li><a href="https://win11.techidaily.com/the-definitive-guide-on-defeating-windows-11s-0x8007045d-error/"><u>The Definitive Guide on Defeating Windows 11'S 0X8007045D Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/ux3405-vs-macbooks-asuss-oled-showdown/"><u>UX3405 vs MacBooks: Asus's OLED Showdown</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -128,3 +111,27 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/raft-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast/"><u>[New] Craft Engaging Streams for Success The Ultimate Youtube Broadcast Blueprint Using WireCast</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-previewed-fb-activity-is-it-safe-or-not-for-2024/"><u>[Updated] Navigating Previewed FB Activity Is It Safe or Not for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-remote-access-in-windows-11-bypassing-passwords/"><u>Easy Remote Access in Windows 11, Bypassing Passwords</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-quality-and-stability-of-live-steam-on-pc/"><u>Enhancing Quality and Stability of Live Steam on PC</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723862817375-experience-unparalleled-gaming-with-dell-s3222dgm-now-at-an-amazing-price-only-229/"><u>Experience Unparalleled Gaming with Dell S3222DGM: Now at an Amazing Price - Only $229!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-avoid-window-roundness-in-win11/"><u>How to Avoid Window Roundness in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-remediation-for-a-frozen-epic-games-launcher/"><u>Immediate Remediation for a Frozen Epic Games Launcher</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-kinks-how-to-awaken-sleeping-windows-1011-pcs/"><u>Keyboard Kinks: How to Awaken Sleeping Windows 10/11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-machine-how-to-optimize-windows-11-settings/"><u>Master Your Machine: How to Optimize Windows 11 Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-upgrades-try-these-windows-solutions/"><u>No More Upgrades? Try These Windows Solutions</u></a></li>
+<li><a href="https://some-tips.techidaily.com/online-free-tool-convert-your-videos-from-flv-format-to-wma-with-ease-using-movavi/"><u>Online FREE Tool: Convert Your Videos From FLV Format to WMA with Ease Using Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/prose-perfection-best-writing-software-for-windows-users/"><u>Prose Perfection: Best Writing Software for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-roblox-crashes-on-pc/"><u>Resolving Roblox Crashes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-zerosevenerror/"><u>Resolving Windows ZeroSevenError</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-c12-plus-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia C12 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-get-ready-to-amaze-top-rated-3d-video-creation-tools/"><u>Updated In 2024, Get Ready to Amaze Top-Rated 3D Video Creation Tools</u></a></li>
+</ul></div>
+

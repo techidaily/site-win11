@@ -1,7 +1,7 @@
 ---
 title: Strategies for Correcting Network Access Error
-date: 2024-12-06T18:29:45.208Z
-updated: 2024-12-13T12:07:07.703Z
+date: 2024-12-16T16:06:00.065Z
+updated: 2024-12-22T18:02:59.532Z
 tags:
   - windows10
   - windows11
@@ -37,21 +37,17 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
 
- You can now check if the drive is accessible after following the steps above.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can now check if the drive is accessible after following the steps above.
 
 ## 2\. Temporarily Disable Your Antivirus
 
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
  If you are using a third-party security program on your operating system, we recommend that you disable it temporarily and then try connecting to the remote computer and sharing files. If the antivirus was causing the problem, disabling it should fix the issue for you. If this happens, you can consider switching to a better security program to avoid such issues in the future. See our guide on [the best antivirus apps for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to make an informed decision.
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Try to Connect Using an IP Address
 
@@ -82,12 +74,12 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
 
@@ -103,11 +95,24 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 5. In the following dialog, click on the **Stop** button.  
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-automatic.jpg)
 8. Click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, check if that fixes the issue for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable SMB 1.0
 
@@ -122,18 +127,10 @@ thumbnail: https://thmb.techidaily.com/9f78d218ca56a8e977ac9c156c6d3df029b653f49
 ![Programs option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-programs.jpg)
 3. Choose **Turn Windows features on or off** from the left pane.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
 
@@ -148,7 +145,7 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset TCP/IP
@@ -157,32 +154,15 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
  This fix is known to fix almost all the network-related issues that pop up in Windows now and then, and will hopefully fix the error at hand for you as well.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Windows Network Path Error, Resolved
 
  Connecting to another device over the network and sharing files should be a seamless process. Hopefully, the troubleshooting methods mentioned above will help you get the network functionality up and running in no time. However, if the error persists, you can consider using another file-sharing service like Google Drive till Microsoft launches an official fix for this issue.
 
  One such common issue is the "network path name was not found" error, which occurs when users attempt to connect to a remote device. If you are facing a similar problem, we have discussed six troubleshooting methods below that will help you fix the error in no time.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-daily-movie-storage-hours-to-gb-calculation/"><u>[New] In 2024, Daily Movie Storage Hours to GB Calculation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-your-first-adobe-presenter-video/"><u>[New] In 2024, The Ultimate Guide to Your First Adobe Presenter Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beginners-guide-to-mastering-ai-join-these-9-expert-led-forums/"><u>Beginner's Guide to Mastering AI: Join These 9 Expert-Led Forums</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-budget-efficiency-windows-11-pro-discounts/"><u>Boost Budget Efficiency: Windows 11 Pro Discounts</u></a></li>
-<li><a href="https://win11.techidaily.com/create-a-distinctive-color-scheme-in-wt-terminal/"><u>Create a Distinctive Color Scheme in WT Terminal</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-management-navigating-through-network-tools-on-window/"><u>Effortless Management: Navigating Through Network Tools on Window</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>In 2024, Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>In 2024, The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
-<li><a href="https://win11.techidaily.com/recover-missing-wireless-signal-a-windows-10-solution-guide/"><u>Recover Missing Wireless Signal: A Windows 10 Solution Guide</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/step-by-step-guide-navigating-through-the-windows-firewall-configuration-tips-by-yl-computing/"><u>Step-by-Step Guide: Navigating Through the Windows Firewall Configuration - Tips by YL Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streamlining-video-editing-convert-avis-to-gifs-on-mac-and-pc-with-filmora/"><u>Streamlining Video Editing Convert AVIs to GIFs on Mac and PC with Filmora</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-disconnection-methods-non-operational-printer-removal/"><u>Swift Disconnection Methods: Non-Operational Printer Removal</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-steps-for-windows-sandbox-configuration-in-11/"><u>The Essential Steps for Windows Sandbox Configuration in 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-swift-way-to-access-control-panel/"><u>The Swift Way to Access Control Panel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-reactivating-your-non-responsive-roku-tv-set/"><u>Troubleshooting Guide: Reactivating Your Non-Responsive Roku TV Set</u></a></li>
-<li><a href="https://article-posts.techidaily.com/vivavideo-app-review-for-2024/"><u>VivaVideo App Review for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-the-gains-from-dxvk-adoption/"><u>Windows Users - The Gains From DXVK Adoption</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +171,25 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-core-auditory-stimulation-channels-for-2024/"><u>[New] Core Auditory Stimulation Channels for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sound-symphony-music-within-whatsapp-statuses/"><u>[Updated] 2024 Approved Sound Symphony Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media-for-2024/"><u>[Updated] A Tutorial for Adding Vintage Touches Instagram Filters on Existing Media for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ning-your-blog-journey-for-financial-gain/"><u>Beginning Your Blog Journey for Financial Gain</u></a></li>
+<li><a href="https://win-special.techidaily.com/debunking-the-myth-system-restore-with-f11-not-supported-in-windows-81011/"><u>Debunking the Myth: System Restore with F11 Not Supported in Windows 8/10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/funimate-pro-unboxed-your-essential-apk-guide/"><u>Funimate Pro Unboxed Your Essential APK Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-settings-in-windows-11/"><u>Mastering the Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-no-save-photoerror-in-windows-11/"><u>Overcoming the 'No Save' PhotoError in Windows 11</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/resize-and-customize-your-books-effortlessly-using-flipbuilders-features/"><u>Resize and Customize Your Books Effortlessly Using FlipBuilder's Features</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-keeping-the-taskbar-ready-while-maximized/"><u>Strategies for Keeping the Taskbar Ready While Maximized</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-irq-issues-for-audio-devices/"><u>Taming Windows' IRQ Issues for Audio Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/time-tested-techniques-bringing-back-lost-windows-time-services/"><u>Time-Tested Techniques: Bringing Back Lost Windows Time Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zoom-unable-to-play-videos/"><u>Top 5 Solutions for Resolving 'Zoom Unable to Play Videos'</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-cause-for-windows-11-icon-reduction/"><u>Uncover Cause for Windows 11 Icon Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-repair-top-10-methods/"><u>Unlocking Windows Repair: Top 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/win-the-battle-against-credential-lockup/"><u>Win the Battle Against Credential Lockup</u></a></li>
+</ul></div>
+

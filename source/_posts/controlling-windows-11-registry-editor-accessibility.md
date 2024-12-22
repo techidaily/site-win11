@@ -1,7 +1,7 @@
 ---
 title: Controlling Windows 11 Registry Editor Accessibility
-date: 2024-12-08T03:14:05.886Z
-updated: 2024-12-12T21:53:23.150Z
+date: 2024-12-21T17:11:06.225Z
+updated: 2024-12-22T17:06:06.145Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable or Enable Registry Editor Access via the Group Policy Editor
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Following this, users will see the “Registry editing has been disabled by your administrator” message when they attempt to access the Registry Editor. If you want to re-enable Registry Editor later, repeat the above steps and set the **Prevent access to registry editing tools** policy to **Not configured** or **Disabled**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Disable or Enable Registry Editor Access via the Registry Editor
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 ![Block Registry Editor Access via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/block-registry-editor-access-via-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the Registry Editor will be disabled on your PC.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 4. Click the **File** menu and select **Save as**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select **Desktop** in the **Save as** dialog box.
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  Once you run the above command, the Registry Editor will become accessible again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Allowing or Disallowing Registry Editor Access on Windows
@@ -100,25 +100,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  Fortunately, it’s possible to disable (or enable) Registry Editor access on your Windows 11 PC. Let's see how.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-insiders-guide-to-snapchats-spotlight-feature/"><u>[New] The Insider's Guide to Snapchat's Spotlight Feature</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[Updated] 2024 Approved Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-masterclass-top-10-recorder-options-on-spotify-for-2024/"><u>[Updated] Masterclass Top 10 Recorder Options on Spotify for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-everlasting-trash-can-icon-for-windows-1011/"><u>Crafting an Everlasting Trash Can Icon for Windows 10/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discovering-cutting-edge-hardware-with-toms-technology-hub/"><u>Discovering Cutting-Edge Hardware with Tom's Technology Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/five-keys-to-a-streamlined-firewall-configuration/"><u>Five Keys to a Streamlined Firewall Configuration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-insight-into-potential-release-dates-and-prices-for-the-expected-tesla-smartphone-what-we-know-so-far/"><u>Getting Insight Into Potential Release Dates and Prices for the Expected Tesla Smartphone - What We Know So Far</u></a></li>
-<li><a href="https://win11.techidaily.com/ignoring-the-windows-lsa-protection-deactivation/"><u>Ignoring the Windows LSA Protection Deactivation</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-social-crosslink-instagram-and-tiktok-guide/"><u>Mastering Social Crosslink Instagram & TikTok Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-biometric-settings-of-w11-for-domains/"><u>Mastering the Biometric Settings of W11 for Domains</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavi-auwav/"><u>MOVAVI 免費線上服務: AU轉WAV音效修改工具</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-solutions-how-to-resolve-the-youtube-black-screen-issue-with-ease/"><u>Quick Solutions: How to Resolve the YouTube Black Screen Issue with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/should-you-embrace-windows-11s-secure-environment/"><u>Should You Embrace Windows 11'S Secure Environment?</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-process-for-downloading-adobe-on-microsoft-store/"><u>The Complete Process for Downloading Adobe on Microsoft Store</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-digital-outreach-insights-into-facebook-twitter-instagram-and-youtubes-impact/"><u>Understanding Digital Outreach: Insights Into Facebook, Twitter, Instagram & YouTube's Impact</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -126,3 +107,27 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-creating-engaging-gaming-broadcasts-using-ai-faces/"><u>[Updated] 2024 Approved Creating Engaging Gaming Broadcasts Using AI Faces</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-download-and-relive-a-compreran-review-of-top-youtube-playlist-extractors/"><u>[Updated] In 2024, Download and Relive A Compreran Review of Top YouTube Playlist Extractors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mobile-security-focused-the-leading-10-free-video-calling-applications/"><u>2024 Approved Mobile Security-Focused The Leading 10 Free Video Calling Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-breakdown-of-windows-startup-setup-options/"><u>A Step-by-Step Breakdown of Windows Startup Setup Options</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/backing-up-an-ios-device-directly-on-windowsmac-alternatives-to-itunes-explained-in-detail/"><u>Backing Up an iOS Device Directly on Windows/Mac: Alternatives to iTunes, Explained in Detail</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/behebt-systemwiederherstellungsfehler-in-windows-11-wahrend-der-start-und-wiederherstellungsphase/"><u>Behebt Systemwiederherstellungsfehler in Windows 11 Während Der Start- Und Wiederherstellungsphase</u></a></li>
+<li><a href="https://win11.techidaily.com/decorate-your-screen-space-saving-spotlight-images-as-walls/"><u>Decorate Your Screen Space: Saving Spotlight Images as Walls</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-success-elevating-winning-frames/"><u>Fast-Track to Success: Elevating Winning Frames</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-unused-disk-space-in-windows-efficiently/"><u>Harnessing Unused Disk Space in Windows Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-a-digital-to-analog-converter-enhance-your-music-experience-and-is-it-worth-the-investment/"><u>How Does a Digital-to-Analog Converter Enhance Your Music Experience, and Is It Worth the Investment?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-video-editing-battle-sony-vegas-vs-adobe-premiere-pro-features-pricing-and-more/"><u>In 2024, Video Editing Battle Sony Vegas vs Adobe Premiere Pro - Features, Pricing, and More</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-cybersecurity-essential-windows-protection-tips/"><u>Mastery in Cybersecurity: Essential Windows Protection Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ps5-multiplayer-magic-a-step-by-step-guide-to-game-sharing/"><u>PS5 Multiplayer Magic: A Step-by-Step Guide to Game Sharing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-how-to-get-your-windows-11-microphone-working-again/"><u>Quick Fixes: How to Get Your Windows 11 Microphone Working Again</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-the-antique-ribbon-interface-of-explorer/"><u>Restoring the Antique Ribbon Interface of Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-your-microphone-usage-with-keyboard-techniques-for-win-11/"><u>Speeding Up Your Microphone Usage with Keyboard Techniques for Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-on-top-of-your-windows-11-devices-with-our-5-crucial-uptime-methods/"><u>Stay on Top of Your Windows 11 Devices with Our 5 Crucial Uptime Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-top-contenders-in-mesh-wi-fi-networks-expert-insights-and-rankings/"><u>Unveiling the Top Contenders in Mesh Wi-Fi Networks - Expert Insights and Rankings</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-blues-troubleshooting-rare-system-crashes/"><u>Windows Blues: Troubleshooting Rare System Crashes</u></a></li>
+</ul></div>
+

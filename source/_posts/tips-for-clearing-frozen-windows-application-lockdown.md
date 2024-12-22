@@ -1,7 +1,7 @@
 ---
 title: Tips for Clearing Frozen Windows Application Lockdown
-date: 2024-09-05T08:26:29.349Z
-updated: 2024-09-06T08:26:29.349Z
+date: 2024-12-15T16:58:38.429Z
+updated: 2024-12-22T16:11:48.322Z
 tags:
   - windows10
   - windows11
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  While Windows is designed to keep your computer secure, sometimes it can be overly zealous in its protection and block an app you know is safe. If you’re seeing the “This app has been blocked for your protection” error on Windows, your system has restricted the application from running for security reasons. This article clarifies the reasons behind the problem and guides you toward resolving it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Restart Your Computer
 
  When you experience the “This app has been blocked for your protection” error, the first step is to restart your computer. A simple reboot can often do the trick and allow you run a previously blocked application.
@@ -38,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  If you prefer command line tools, you can [scan and remove malicious components using Windows PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). You should also use a [reputable anti-spyware program](https://www.makeuseof.com/windows-11-antivirus-apps/) to check for malicious programs that could be causing the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Program as an Administrator
 
  Some programs require administrator privileges to function properly. If you try to launch them without elevated access, Windows will block their execution and display the error message. In such a case, you can right-click on the app’s shortcut or the executable file and select **Run as administrator**.
@@ -45,11 +43,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
  If it runs successfully, you can adjust the app properties to [always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/). Don't forget to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable the SmartScreen Filter
 
  SmartScreen is a security feature that protects your computer from unknown and potentially malicious applications. If it’s enabled, SmartScreen may block an application from running. To disable the feature, follow these steps.
@@ -61,14 +57,12 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 ![Disable the SmartScreen Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-smartscreen-filter.jpg)
 5. Toggle off **Potentially unwanted app blocking** and **SmartScreen for Microsoft Store apps**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will stop the system from blocking apps, but you should be careful with any programs you download. Once you do it, close the Windows Security app and try running the application again.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Modify the Group Policy Settings
 
  The group policy editor allows you to adjust security settings on Windows and control which applications are blocked. If the other steps didn’t work, you can try to modify the group policy settings and unblock the application that triggered the error. Here's how to do it:
@@ -77,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 2. Type **gpedit.msc** and press Enter to open the Local Group Policy Editor.  
 ![User Account Control Run all administrators in Admin Approval Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/user-account-control-run-all-administrators-in-admin-approval-mode.jpg)
 3. Once you're in the Local Group Policy Editor window, navigate to the following:  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Local Computer Policy > Computer Configuration > Windows Settings > Security Settings > Local Policies > Security Options.`
 4. From the list of settings, double-click on **User Account Control: Run all administrators in Admin Approval Mode** and set it to **Disabled**.
 5. After making the changes, click **Apply > OK** and restart your computer to apply it.
@@ -101,21 +89,13 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 5. In the right pane, double-click on **EnableLUA** and set its value to **0** (zero).  
 ![Disable the EnableLUA key in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-the-enablelua-key-in-registry-editor.jpg)
 6. Click **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making the changes, close the Registry Editor and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset Windows Update Components
 
  If the issue persists, you can reset the Windows Update components, which means restarting certain services that manage the update process and enable you to launch the application.
@@ -188,13 +168,15 @@ net start cryptsvc`
 
  Wait for the process to finish and restart your computer. After the reboot, try running the blocked app again. It should now work without issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Access to Your Apps and Files on Windows
 
  Windows is known for its tight security which prevents malicious applications from launching and infecting your PC. However, sometimes even legitimate programs are blocked by the operating system and leave an error message saying “This app has been blocked for your protection.”
 
  There are several reasons why this error occurs. It includes outdated security software, the firewall interfering with the program, or the application not trusted by Windows. Read this guide to learn more about this error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -202,3 +184,27 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-gratitude-archive-complete-collection-freepaid-for-2024/"><u>[Updated] Gratitude Archive Complete Collection (Free/Paid) for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-shaping-narratives-through-text-effects-for-2024/"><u>[Updated] Shaping Narratives Through Text Effects for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlocking-photo-magic-intro-to-snapseed-features-for-2024/"><u>[Updated] Unlocking Photo Magic Intro to Snapseed Features for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtubes-creator-hub-explained-simply-for-2024/"><u>[Updated] YouTube's Creator Hub Explained Simply for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-nail-art-masterclass-series/"><u>2024 Approved Nail Art Masterclass Series</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/camouflaged-consumer-of-facebook-feeds-for-2024/"><u>Camouflaged Consumer of Facebook Feeds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-browser-desktop-applications-on-pc/"><u>Crafting Browser Desktop Applications on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-11s-operation-elevation-dilemma-740/"><u>Demystifying Windows 11’S Operation Elevation Dilemma #740</u></a></li>
+<li><a href="https://win11.techidaily.com/expediting-boot-cycle-modifying-windows-11s-wait-time/"><u>Expediting Boot Cycle: Modifying Windows 11'S Wait Time</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-unlocking-the-features-and-benefits-of-the-ring-video-doorbell-pro/"><u>Expert Evaluation: Unlocking the Features and Benefits of the Ring Video Doorbell Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-onedrive-cloud-failures-in-windows-os/"><u>Fixing OneDrive Cloud Failures in Windows OS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-the-sweet-spot-top-5-tips-for-channel-growth-for-2024/"><u>Hitting the Sweet Spot Top 5 Tips for Channel Growth for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-blurry-photos-top-tools-reviewed/"><u>In 2024, Blurry Photos Top Tools Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-hardware-hurdles-the-d3d11-guide-for-w11-and-w10-users/"><u>Overcoming Hardware Hurdles: The D3D11 Guide for W11 & W10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-updater-problem-error-0x8024800c/"><u>Overcoming Windows Updater Problem (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11.techidaily.com/pull-the-plug-on-print-devices-abruptly-in-windows-os/"><u>Pull the Plug on Print Devices Abruptly in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/purge-outdated-wallpapers-simple-trio-techniques/"><u>Purge Outdated Wallpapers: Simple Trio Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-made-simple-your-guide-to-windows-help/"><u>Troubleshooting Made Simple: Your Guide to Windows Help!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unsighted-cddvd-in-win11-solution-found/"><u>Unsighted CD/DVD in Win11, Solution Found</u></a></li>
+</ul></div>
+

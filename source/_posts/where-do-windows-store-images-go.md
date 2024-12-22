@@ -1,7 +1,7 @@
 ---
 title: Where Do Windows Store Images Go?
-date: 2024-12-08T16:09:38.185Z
-updated: 2024-12-13T03:11:27.278Z
+date: 2024-12-16T17:00:11.119Z
+updated: 2024-12-22T16:29:18.466Z
 tags:
   - windows10
   - windows11
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 * [Can You Change Where Screenshots Are Saved on Windows?](#can-you-change-where-screenshots-are-saved-on-windows)
 * [What to Do if You Can't Find Your Screenshots](#what-to-do-if-you-can-39-t-find-your-screenshots)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Screenshots taken using the Prt Sc key are saved to the clipboard and must be manually saved to your drive using an image editor.
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 * Third-party tools might save screenshots to different default locations. You should check the Pictures and Documents folders, as well as the installation location of the program.
 
  You've taken a screenshot, and now you're wondering, "where do my screenshots go on Windows?" It can be hard to know where to find screenshots since it depends on the method used to take them, but there are a few common places to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Where Do Screenshots Go on Windows 10 and 11?
 
@@ -54,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Snipping Tool (Windows Key + Shift + S)
 
@@ -69,20 +69,20 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Xbox Game Bar (Windows Key + G)
 
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
 
@@ -94,11 +94,11 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 ![The Game Bar gallery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gallery-game-bar-windows.jpg)
 
- In the pop-up, click **Continue**, and it will open the folder with the screenshots.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In the pop-up, click **Continue**, and it will open the folder with the screenshots.
 
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
@@ -130,23 +130,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-technique-to-capture-fb-videos-flawlessly-on-both-systems/"><u>[New] Technique to Capture FB Videos Flawlessly on Both Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-window-11-apps-essential-tips/"><u>Fast-Track Window 11 Apps: Essential Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-expert-advice-to-recover-missing-thumbnails-from-videos/"><u>In 2024, Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-mac-efficiency-the-ultimate-guide-to-setting-up-and-utilizing-hot-corners-boost-your-productivity-with-zdnet/"><u>Mastering Mac Efficiency: The Ultimate Guide to Setting Up & Utilizing Hot Corners - Boost Your Productivity with ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/no-drive-letters-investigating-the-causes-and-remedies-for-windows-users/"><u>No Drive Letters: Investigating the Causes & Remedies for Windows Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenating-computers-without-the-windows-lockdown/"><u>Rejuvenating Computers Without the Windows Lockdown</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlinked-file-program-resolution-for-windows-pc-users/"><u>Unlinked File Program Resolution for Windows PC Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/upgrade-windows-to-use-intels-me/"><u>Upgrade Windows to Use Intel's ME</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -154,3 +137,19 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-insta-influence-made-simple/"><u>[New] Insta-Influence Made Simple</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-undead-uprising-a-comprehensive-list-of-favorites-for-2024/"><u>[Updated] Undead Uprising A Comprehensive List of Favorites for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-omnipresent-iptv-networking-model/"><u>2024 Approved Omnipresent IPTV Networking Model</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/breathtaking-natural-landscapes-in-high-definition-4k-portrait-background-images-and-wallpapers-from-yl-software/"><u>Breathtaking Natural Landscapes in High Definition (4K): Portrait, Background Images and Wallpapers From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-program-conflicts-the-four-step-fix/"><u>Decoding Program Conflicts: The Four-Step Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-approach-to-reviving-your-windows-update-status/"><u>Direct Approach to Reviving Your Windows Update Status</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-management-app-collapses/"><u>Prevent Windows Management App Collapses</u></a></li>
+<li><a href="https://win11.techidaily.com/sound-sufferers-fix-your-fading-keyboard-tone/"><u>Sound Sufferers! Fix Your Fading Keyboard Tone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tier-photographic-archives/"><u>Top Tier Photographic Archives</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-the-transfer-to-ios-feature-complete-solution-tutorial/"><u>Troubleshooting the 'Transfer to iOS' Feature - Complete Solution Tutorial</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210866914-9780008606077-you-must-be-psychic-secrets-to-unlock-your-inner-power-and-reveal-your-future/"><u>You Must Be Psychic: Secrets to unlock your inner power and reveal your future | Free Book</u></a></li>
+</ul></div>
+

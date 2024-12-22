@@ -1,7 +1,7 @@
 ---
 title: Essential Tweaks for an Improved Windows 11 Installation Experience
-date: 2024-12-11T13:45:09.964Z
-updated: 2024-12-13T02:51:35.701Z
+date: 2024-12-21T16:34:23.385Z
+updated: 2024-12-22T16:48:30.077Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Clipboard History to Move Content Efficiently
 
  The copy and paste function is helpful for everyone because it helps you move your content from one location to another. Windows 11 offers an advanced copy-paste tool that will save you a lot of time, but unfortunately, it is not enabled by default.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clipboard-history-screenshot-edit.jpg)
 3. Turn on the**Clipboard history** toggle.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can press**Win + V** on your keyboard to bring the Clipboard history and select the desired item from all the previous strings of text or photos you copied previously. And much like previous iterations, Windows 11 Clipboard will forget everything you copied when you turn off your device.
 
 ## 2\. Set Up Nearby Sharing
@@ -50,25 +50,25 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. A Cleaner Desktop Experience
 
  All your important files and folders should be at your fingertips. By creating app or folder shortcuts in Desktop, you can access everything important to you in the fastest way possible. However, these shortcuts should not be so much in number that your Desktop starts looking cluttered.
 
 ![Delete Desktop Shortcuts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-desktop-shortcuts.jpg)
 
- You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
 ## 4\. Enable Storage Sense to Manage Your Memory Better
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  If you are not using a Windows 11 desktop, you should enable the Find My Device toggle from the Settings app. If your Windows 11 laptop or tablet is lost or stolen, Find My Device can help you find your device’s location. For the setting to work, check out[how to configure location services on Windows](https://www.makeuseof.com/windows-11-configure-location-services/) and enable them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Tweak the Night Light Setting to Get Better Sleep
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Set Active Hours
@@ -122,7 +122,7 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 4. In**Choose your mode** radio menu, select**Dark** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
@@ -146,18 +146,15 @@ Here is how you can enable Dark mode on your Windows 11 PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-quadcopter-efficiency-with-best-motor-selection-tips/"><u>[Updated] 2024 Approved Mastering Quadcopter Efficiency with Best Motor Selection Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-open-source-tranquility-tracks/"><u>[Updated] In 2024, Open Source Tranquility Tracks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/decoding-podcast-access-a-detailed-iphone-guidebook-for-2024/"><u>Decoding Podcast Access A Detailed iPhone Guidebook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/deepcool-hit-by-us-sanctions-pc-cooling-and-power-supplies-banned-for-russian-markets-during-ukraine-war/"><u>DeepCool Hit by U.S. Sanctions: PC Cooling and Power Supplies Banned for Russian Markets During Ukraine War</u></a></li>
-<li><a href="https://win11.techidaily.com/game-hacks-directories-revealed-in-windows/"><u>Game Hacks: Directories Revealed in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-smart-7-hd-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/how-to-select-and-download-the-right-audio-for-your-video-for-2024/"><u>How to Select and Download the Right Audio for Your Video for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-gpus-stress-test-with-these-top-windows-apps/"><u>Master Your GPU's Stress Test with These Top Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-domain-services-printer-fixes-in-windows-11/"><u>Mastering Domain Services Printer Fixes in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-power-mode-locks-in-windows-11/"><u>Overcoming Power Mode Locks in Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/protect-and-restore-on-mac-a-comprehensive-video-walkthrough-of-drive-encryption/"><u>Protect and Restore on Mac: A Comprehensive Video Walkthrough of Drive Encryption</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-a-translucent-taskbar-in-win11/"><u>Techniques for a Translucent Taskbar in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-audio-setup-made-easy/"><u>Windows 11 Audio Setup Made Easy</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-aesthetic-alignment-for-online-glamour-content/"><u>[New] 2024 Approved Aesthetic Alignment for Online Glamour Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-success-with-spotify-marketing-tips/"><u>[New] Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-quickfix-for-podcast-broadcasts/"><u>[Updated] Master Quickfix for Podcast Broadcasts</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-se-2020-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone SE (2020) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-energy-visibility-personalized-notifications-for-fully-charged-batteries-on-win11/"><u>Enhanced Energy Visibility: Personalized Notifications for Fully Charged Batteries on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-vanishing-steam-game-images/"><u>How to Revive Vanishing Steam Game Images</u></a></li>
+<li><a href="https://win11.techidaily.com/nullify-non-compliance-notifications-in-win11/"><u>Nullify Non-Compliance Notifications in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mail-service-halt-fixing-0x800713f-in-win11/"><u>Overcoming Mail Service Halt: Fixing 0X800713F in Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-choosing-top-8-free-srt-services/"><u>The Ultimate Guide to Choosing Top 8 Free SRT Services</u></a></li>
 </ul></div>
 

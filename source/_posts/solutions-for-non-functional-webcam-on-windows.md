@@ -1,7 +1,7 @@
 ---
 title: Solutions for Non-Functional Webcam on Windows
-date: 2024-12-06T02:48:23.960Z
-updated: 2024-12-12T22:10:50.032Z
+date: 2024-12-18T17:54:54.053Z
+updated: 2024-12-22T16:48:39.385Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 
  If these generic fixes don't work, it's time to try something more specific.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Webcam Hardware and Connections
 
  If your Windows webcam displays a black screen, first check the hardware and connections. Make sure the cable connecting your webcam to your computer is not damaged or loose. If you have a wireless webcam, check its battery level and Bluetooth connections.
@@ -49,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
 
  So, if your webcam was working fine before but suddenly shows a black screen, [reboot your computer](http://www.makeuseof.com/windows-restart-methods/) and see if that works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update Webcam Drivers
 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Roll Back Drivers
 
  If you recently updated your webcam drivers and now get a black screen, try reverting to the previous version. Here's how to do it:
@@ -84,17 +80,13 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 3. In the Properties window, switch to the **Driver** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
 
  A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reinstall Webcam Drivers
 
@@ -112,14 +104,10 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
 7. Select **Scan for hardware changes**. This will prompt Windows to detect your webcam and install drivers automatically.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once that's done, test your webcam again. It shouldn't show a black screen anymore.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check App Permissions
@@ -132,14 +120,19 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 2. In the Settings window, click **Privacy & security**.  
 ![Camera in Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-in-privacy-settings.jpg)
 3. On the right panel, scroll down to **App permissions** and select **Camera**. Here, you'll see a list of apps that access your webcam.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
 
- After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
 
 ## 8\. Scan for Malicious Programs
 
@@ -158,32 +151,24 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
 3. If the UAC prompt appears, click **Yes** to grant administrative privileges.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. In the Command Prompt window, enter the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving Windows Webcam Black Screen Issues
 
  It doesn't matter how fancy your computer is or what OS it runs on, things are bound to go wrong. One common issue Windows users encounter is a black screen on their webcam. But with the solutions listed in this guide, you can troubleshoot and fix it quickly.
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-navigating-virtual-conversations-a-google-meet-handbook/"><u>[New] 2024 Approved Navigating Virtual Conversations A Google Meet Handbook</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-pixelated-punchlines-design-with-kapwing/"><u>[New] Pixelated Punchlines Design with Kapwing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-strategic-tips-to-enhance-your-gmeet-ppt-presentations-on-mobilelaptop/"><u>[Updated] 2024 Approved Strategic Tips to Enhance Your GMeet PPT Presentations on Mobile/Laptop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-a-ultimate-guide-to-podcast-names/"><u>[Updated] In 2024, A Ultimate Guide to Podcast Names</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/dive-into-vimeos-free-premium-and-pro-plans-and-their-benefits/"><u>Dive Into Vimeo's Free, Premium & Pro Plans and Their Benefits</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-capture-experience-recording-sound-with-snipping-tools-screen-feature-max-156/"><u>Enhance Your Capture Experience: Recording Sound with Snipping Tool's Screen Feature (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/escalate-your-win11-wi-fi-reach-using-these-9-tricks/"><u>Escalate Your Win11 Wi-Fi Reach Using These 9 Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-lava-yuva-2-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Lava Yuva 2 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-shortcut-expansion-in-modern-windows-operating-systems/"><u>Mastering Shortcut Expansion in Modern Windows Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-in-wsl-2-enhancing-the-power-of-docker-tools/"><u>Mastery in WSL 2: Enhancing the Power of Docker Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/narrowing-the-net-speed-divide-between-windows-and-android/"><u>Narrowing the Net Speed Divide Between Windows & Android</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sonos-era-100-vs-sonos-one-showdown-the-ultimate-guide-to-choosing-the-right-smart-speaker-for-your-home-techadvisor/"><u>Sonos Era 100 Vs. Sonos One Showdown: The Ultimate Guide to Choosing the Right Smart Speaker for Your Home | TechAdvisor</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-of-onedrive-server-problems/"><u>Unraveling the Mystery of OneDrive Server Problems</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +177,25 @@ thumbnail: https://thmb.techidaily.com/a2ba2cec543d3cb7d73549581bf87f628b1caa22c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-practical-ways-keeping-a-record-of-google-voice-interactions/"><u>[New] 2024 Approved Practical Ways Keeping a Record of Google Voice Interactions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/utube-financial-experts-you-can-trust/"><u>15 YouTube Financial Experts You Can Trust</u></a></li>
+<li><a href="https://facebook.techidaily.com/constructive-methods-for-cultivating-collaborative-communities-fb/"><u>Constructive Methods for Cultivating Collaborative Communities (FB)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cultural-mosaic-benefits-of-embracing-multiple-languages/"><u>Cultural Mosaic: Benefits of Embracing Multiple Languages</u></a></li>
+<li><a href="https://fox-links.techidaily.com/explore-15-essential-skills-for-recording-digital-music-for-2024/"><u>Explore 15 Essential Skills for Recording Digital Music for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/forecasting-with-finesse-windows-11s-prime-weather-tools/"><u>Forecasting with Finesse: Windows 11'S Prime Weather Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-a23-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy A23 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-assistance-in-development-an-introduction-to-microsoft-copilot/"><u>Leveraging AI Assistance in Development: An Introduction to Microsoft Copilot</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reset-windows-11-search-bar-aesthetics/"><u>Method to Reset Windows 11 Search Bar Aesthetics</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-the-on-hold-battery-charge-dilemma-with-these-8-methods/"><u>Overcome the On-Hold Battery Charge Dilemma with These 8 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-to-try-connections-glitch-on-windows-pcs/"><u>Quick Fix to 'Try Connections' Glitch on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-disk-management-virtual-disk-hiccups/"><u>Rectifying Disk Management Virtual Disk Hiccups</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ining-your-viewing-experience-youtube-playlist-shuffle/"><u>Redefining Your Viewing Experience YouTube Playlist Shuffle</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-window-resolution-on-windows-11/"><u>Tailoring Window Resolution on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-link-between-edge-and-irrelevant-taskers/"><u>The Link Between Edge and Irrelevant Taskers</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-wsl-a-guide-to-windows-linux-integration/"><u>Turn on WSL: A Guide to Windows' Linux Integration</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/wu-zetians-rule-defined-pioneering-triumphs-and-contributions-analyzed-with-yl-solutions/"><u>Wu Zetian's Rule Defined: Pioneering Triumphs and Contributions – Analyzed with YL Solutions</u></a></li>
+</ul></div>
+

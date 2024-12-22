@@ -1,7 +1,7 @@
 ---
 title: Crafting Browser Desktop Applications on PC
-date: 2024-12-11T00:49:46.891Z
-updated: 2024-12-13T05:33:15.958Z
+date: 2024-12-20T17:06:41.291Z
+updated: 2024-12-22T16:14:52.721Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Use a Web App as a Desktop App?
 
  Desktop apps are easier and faster to access than web apps that require you to use a web browser. You can also add these apps to the Start menu and taskbar for quicker access.
@@ -48,6 +44,11 @@ To install a website and app using Microsoft Edge:
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Install** and wait for the app to be installed.
 
  Once installed, the app will auto-start with a few options to customize. The app will now run safely in its own window. You can launch it from the Start menu, Windows taskbar, or your desktop.
@@ -59,10 +60,6 @@ To install a website and app using Microsoft Edge:
 ### Uninstall An App in Microsoft Edge
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
@@ -78,15 +75,24 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
  Your new app will automatically start in a new window. You can launch the app from the Start menu, taskbar, and Windows search. Furthermore, open the three-dots menu within the app to access essential features such as zoom, print, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Assign an Icon to a Website App
 
@@ -98,10 +104,6 @@ To change the app icon:
 2. In the**Properties** dialog, open the**Shortcut** tab.  
 ![website app properties shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut.jpg)
 3. Click the**Change icon** button at the bottom.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
@@ -121,10 +123,6 @@ To install a website as an app using WebCatalog:
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
@@ -140,6 +138,10 @@ To install a website as an app using WebCatalog:
  Conversely, WebCatalog takes more space than an Edge or Chrome app. Also, the free version lets you use ten apps with two sessions per app.
 
 **Download** :[WebCatalog](https://webcatalog.io/pricing/) (Free, Premium $5 per month)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Convert Websites to Windows Apps Using Web2Desk
 
@@ -162,7 +164,7 @@ To create a desktop app using Web2Desk:
  Apps Created using the service feature a Web2Desk splash screen. You can remove it for a premium of $45.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Websites as Desktop Apps on Windows
@@ -186,24 +188,18 @@ To create a desktop app using Web2Desk:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-maps-to-mastery-terrarias-quintessential-gold-hunt/"><u>[New] 2024 Approved Maps to Mastery Terraria's Quintessential Gold Hunt</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-innovations-in-vr-a-deep-dive-into-the-best-engine-updates/"><u>[New] Innovations in VR A Deep Dive Into the Best Engine Updates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweetvid-to-mp4-quick-conversion-tool/"><u>[Updated] In 2024, TweetVid to MP4 - Quick Conversion Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unmatched-melodies-selector-android-companion/"><u>[Updated] Unmatched Melodies Selector, Android Companion</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-your-ultimate-guide-to-mac-audio-capture-via-audacity/"><u>[Updated] Your Ultimate Guide to Mac Audio Capture via Audacity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-essential-5-platforms-beyond-twitter/"><u>2024 Approved Essential 5 Platforms Beyond Twitter</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-offer-top-business-cloud-solutions-for-2024/"><u>Best Offer Top Business Cloud Solutions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-efficient-access-connecting-win-prefixes-and-microsoft-accounts/"><u>Enabling Efficient Access: Connecting Win Prefixes & MICROSOFT ACCOUNTS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-quintessential-conclusion-to-vr-adventures/"><u>In 2024, Quintessential Conclusion to VR Adventures</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-mouse-interaction-unlocking-potential-with-clicklock/"><u>Mastering Mouse Interaction: Unlocking Potential with ClickLock</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-fixing-common-closed-caption-issues-in-win11/"><u>Navigating & Fixing Common Closed Caption Issues in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-cc-errors-in-windows-11-easily/"><u>Navigating Through CC Errors in Windows 11 Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/patching-forward-exploring-innovations-in-windows-11-update-xx/"><u>Patching Forward: Exploring Innovations in Windows 11 Update X.x</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-update-error-0x80242016/"><u>Quick Fixes for Windows Update Error 0X80242016</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/regain-data-with-winrecovery-suite/"><u>Regain Data with WinRecovery Suite</u></a></li>
-<li><a href="https://win11.techidaily.com/top-strategies-to-overcome-hyper-v-blue-screen-on-windows/"><u>Top Strategies to Overcome Hyper-V Blue Screen on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-secrets-of-ai-driven-image-creation-in-paint-cocreator-win11-edition/"><u>Unraveling the Secrets of AI-Driven Image Creation in Paint Cocreator, Win11 Edition</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-11-hd-audio-crisis-averted/"><u>Windows 11: HD Audio Crisis Averted</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-terminal-implementing-a-new-color-scheme/"><u>Windows Terminal: Implementing a New Color Scheme</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-recorder-quality-test-for-2024/"><u>[New] StreamLine Recorder Quality Test for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transforming-industries-via-vr/"><u>2024 Approved Transforming Industries via VR</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-clumped-up-windows-11-icon-grouping/"><u>Adjusting Clumped-Up Windows 11 Icon Grouping</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-for-updated-drivers-of-hp-officejet-5255/"><u>Easy Installation Guide for Updated Drivers of HP OfficeJet 5255</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-identifiable-usb-port-error-on-windows-11/"><u>Fixing Non-Identifiable USB Port Error on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-desktop-trash-bin-for-permanently-deleting-files-on-windows-11-and-11/"><u>How to Add a Desktop Trash Bin for Permanently Deleting Files on Windows 11 & 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-distance-doesnt-matter-advanced-podcast-capturing/"><u>In 2024, Distance Doesn't Matter Advanced Podcast Capturing</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-t2-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965895379-resolve-your-hp-envy-7640-driver-issues-instantly-expert-tips-inside/"><u>Resolve Your HP ENVY 7640 Driver Issues Instantly – Expert Tips Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-stop-laptops-internal-keystrokes/"><u>Step-by-Step: Stop Laptop's Internal Keystrokes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-pre-buying-your-ideal-win-pc/"><u>The Ultimate Guide to Pre-Buying Your Ideal Win PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-restore-pen-and-touch-interaction-on-your-screen/"><u>Troubleshooting: How to Restore Pen & Touch Interaction on Your Screen</u></a></li>
 </ul></div>
 

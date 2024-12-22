@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' Missing Updater Files Problem (Error Code: 0X80070003)"
-date: 2024-12-06T00:16:57.780Z
-updated: 2024-12-13T10:16:32.898Z
+date: 2024-12-17T17:05:46.712Z
+updated: 2024-12-22T16:25:37.160Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Are Update Files Missing From Your PC?
 
  One or more of the following reasons might explain why you are experiencing the problem on your computer:
@@ -39,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 4. The Windows Update service and other relevant services required by the system to install the pending updates are disabled or have become corrupt. In this case, you can simply restart the services to resolve the issue.
 
  Now that you know what might be causing the problem let’s see how to resolve this case of missing update files in Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Delete the Contents of the DataStore Folder
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![Software distribution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-software-distribution.jpg)
 2. Locate the**DataStore** folder in the SoftwareDistribution folder and right-click on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Choose**Delete** from the context menu.  
 ![Delete the DataStore folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/software-distribution-datastore-delete-1.jpg)
 4. Click**Yes** in the confirmation prompt to proceed.
@@ -64,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  Once the folder is deleted, open the Settings app and try installing the updates again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run System Scans
@@ -88,7 +84,7 @@ Here is all that you need to do:
 5. Next, proceed with the following command:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Dism /Online /Cleanup-Image /RestoreHealth`  
@@ -96,7 +92,7 @@ Here is all that you need to do:
 6. Once this command is executed, close the Command Prompt window and check if you can now download the targeted updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While you are at it, you can also[run the Windows Update troubleshooter](https://www.makeuseof.com/tag/windows-update-troubleshooter/) . This tool also works like the utilities we just described above. It will scan the system for errors and suggest you relevant fixes that can be applied using the troubleshooter as well.
@@ -131,6 +127,10 @@ net start appidsvc`
 ![Restart the update services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-the-services.jpg)
 7. After the commands are executed, restart your computer. Hopefully, you will be able to install the pending updates on reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get the Missing Update Files Back on Windows
 
  Hopefully, by now, you should have successfully resolved the annoying update error. In case you are still facing the issue, you can use the Microsoft update catalog to install the updates manually. It may also be a good idea to report this issue to the Microsoft support team so they can launch an official fix for the problem.
@@ -150,21 +150,21 @@ net start appidsvc`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unleash-picture-potential-with-premium-online-grids/"><u>[New] 2024 Approved Unleash Picture Potential with Premium Online Grids</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mastering-iphone-ios-voice-memos-recording-guide-for-2024/"><u>[New] Mastering iPhone IOS Voice Memos Recording Guide for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-trusted-6-platforms-supporting-biz-success-stories/"><u>[New] Trusted 6 Platforms Supporting Biz Success Stories</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>[New] Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-service-repairing-sql-hubs/"><u>Celestial Service: Repairing SQL Hubs</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-insufficient-storage-warning-in-vmware-hosts/"><u>Dealing with Insufficient Storage Warning in VMware Hosts</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-strategies-for-resolving-password-hash-misalignment-on-windows/"><u>Essential Strategies for Resolving Password Hash Misalignment on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x50iplus-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X50i+</u></a></li>
-<li><a href="https://win11.techidaily.com/make-windows-11-shine-a-holiday-system-guide/"><u>Make Windows 11 Shine: A Holiday System Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-from-zero-to-done-first-steps-in-using-audacity-with-ubuntu/"><u>New 2024 Approved From Zero to Done First Steps in Using Audacity with Ubuntu</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-resolve-solving-bcm2045a0-driver-errors-in-minutes/"><u>Quick Resolve: Solving BCM2045A0 Driver Errors in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-it-administrator-cant-do-more-warning-in-winsec/"><u>Resolving 'IT Administrator Can’t Do More' Warning in WinSec</u></a></li>
-<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
-<li><a href="https://win11.techidaily.com/turbo-charging-your-app-downloads-from-microsoft/"><u>Turbo-Charging Your App Downloads From Microsoft</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/tutorial-paso-a-paso-para-transferir-archivos-pst-de-microsoft-outlook-al-almacenamiento-en-linea-de-onedrive/"><u>Tutorial Paso a Paso Para Transferir Archivos PST De Microsoft Outlook Al Almacenamiento en Línea De OneDrive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-adjusting-visuals-in-teams-conversations-at-any-time/"><u>[New] Adjusting Visuals in Teams Conversations at Any Time</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-revolutionary-tools-for-downloading-facebook-content-on-firefox-updated/"><u>[New] Revolutionary Tools for Downloading Facebook Content on Firefox, Updated</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-immediate-stop-of-automatic-video-capture-in-qt-player/"><u>[Updated] 2024 Approved Immediate Stop of Automatic Video Capture in QT Player</u></a></li>
+<li><a href="https://win11.techidaily.com/8-ways-to-fix-windows-11-when-you-cant-rename-folders/"><u>8 Ways to Fix Windows 11 When You Can’t Rename Folders</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95818637-9781944529079-a-history-of-parapsychology/"><u>A History of Parapsychology | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-dual-logins-eliminating-mixed-account-errors/"><u>Conquering Dual Logins: Eliminating Mixed Account Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-your-system-taming-cpu-hits-using-windows-monitor/"><u>Easing Your System: Taming CPU Hits Using Window's Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/hidden-window-hacks-restore-off-screen-on-windows-1011/"><u>Hidden Window Hacks: Restore Off-Screen on Windows 10/11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/high-performance-in-fb-video-streaming-for-2024/"><u>High Performance in FB Video Streaming for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-poco-f5-pro-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Poco F5 Pro 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 with 3 Methods</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/laptops-with-advanced-snapdragon-chips-exceeding-15-hour-battery-test-results-and-keeping-pace-with-leading-intel-models/"><u>Laptops with Advanced Snapdragon Chips: Exceeding 15-Hour Battery Test Results and Keeping Pace with Leading Intel Models</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-lost-ms-store-access-on-windows-11-and-11/"><u>Reactivating Lost MS Store Access on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-installation-restrictions-in-windows-11/"><u>Resolving Installation Restrictions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/retro-redesign-challenge-windows-11-for-the-90s/"><u>Retro Redesign Challenge: Windows 11 for the ‘90S</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-application-of-ping-for-optimal-pc-performance/"><u>Strategic Application of Ping for Optimal PC Performance</u></a></li>
 </ul></div>
 

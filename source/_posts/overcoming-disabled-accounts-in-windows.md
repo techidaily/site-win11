@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2024-12-09T09:16:43.207Z
-updated: 2024-12-12T16:28:05.849Z
+date: 2024-12-20T17:12:20.950Z
+updated: 2024-12-22T16:39:40.352Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Causes the "Sign-In Option Is Disabled Because of Failed Sign-In Attempts" Error?
 
@@ -63,15 +59,11 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
 
@@ -95,6 +87,11 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 4. Locate and right-click on your user account name.  
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
 7. Here, uncheck Account is disabled, and Account is locked out option.
@@ -131,10 +128,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Change the Account Lockout Threshold Policy
 
  Like the dictionary attack mitigation feature, the administrator can configure a local computer to specify the maximum number of incorrect login attempts. This is done by modifying the Account lockout threshold policy in Group Policy Editor.
@@ -152,11 +145,19 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 5. Type **0** in the **Account will not lock out** field.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -174,12 +175,13 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close Registry Editor and reboot your computer to apply the changes.
 
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
@@ -192,27 +194,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  Windows may show this error for various reasons, including a temporary glitch, corrupted login PIN, or incorrect account configuration. Here, we guide you through a few troubleshooting steps to resolve the error and regain access to your computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-the-potential-of-youtube-shorts-advertising/"><u>[New] In 2024, Harnessing the Potential of YouTube Shorts Advertising</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-fast-track-on-friend-finding-in-facebook-land-for-2024/"><u>[New] Unlocking Fast Track on Friend-Finding in Facebook Land for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/address-fixing-non-responsive-function-keys-in-win-11-os/"><u>Address: Fixing Non-Responsive Function Keys in Win 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/dealing-with-windows-update-failure-0x800f0845/"><u>Dealing with Windows Update Failure - 0X800F0845</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reverse-error-code-0x80780119-in-windows/"><u>Guide to Reverse Error Code 0X80780119 in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-mix-fold-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Mix Fold 3 Through Google Earth?</u></a></li>
-<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-desktop-preservation-on-windows-8-for-2024/"><u>Mastering Desktop Preservation on Windows 8 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-correct-office-365-problem-code-30015-26/"><u>Methods to Correct Office 365 Problem Code 30015-26</u></a></li>
-<li><a href="https://common-error.techidaily.com/pam-varies-amplitude-but-not-pulse-width-or-frequency/"><u>PAM Varies Amplitude but Not Pulse Width or Frequency.</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/recognizing-excellence-apples-top-10-ed-tech-with-mondly/"><u>Recognizing Excellence: Apple's Top 10 Ed-Tech with Mondly</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-your-flight-comrade-copilot-in-ws11/"><u>Restore Your Flight Comrade (Copilot) in WS11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/splitting-scripts-crafting-7-hilarious-youtube-scenes/"><u>Side-Splitting Scripts Crafting 7 Hilarious YouTube Scenes</u></a></li>
-<li><a href="https://win11.techidaily.com/the-most-reliable-windows-photo-organizer-list/"><u>The Most Reliable Windows Photo Organizer List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-ranked-desktop-pcs-for-gamers/"><u>Top-Ranked Desktop PCs for Gamers</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-imovies-acoustic-arena-insider-tips-to-achieve-flawless-audio-mixes/"><u>Updated IMovies Acoustic Arena Insider Tips to Achieve Flawless Audio Mixes</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -220,3 +201,27 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-live-stream-to-youtube-with-wirecast/"><u>[New] 2024 Approved How to Live Stream to Youtube with Wirecast?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-hidden-footage-techniques-redacting-personal-information-effectively-for-2024/"><u>[New] Hidden Footage Techniques Redacting Personal Information Effectively for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-spectacular-ultra-hd-screens-for-playing-games/"><u>[Updated] Spectacular Ultra HD Screens for Playing Games</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-windows-1011-camera-errors/"><u>Essential Fixes for Windows 10/11 Camera Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-actions-to-rectify-verify-pin-bluetooth-error-in-windows-oses/"><u>Immediate Actions to Rectify Verify Pin Bluetooth Error in Windows OSes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-iphone-6-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your iPhone 6 Plus on MetroPCS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-content-easy-downloads-of-vimeo-hd-videos-mp4/"><u>In 2024, Unlocking Content Easy Downloads of Vimeo HD Videos (MP4)</u></a></li>
+<li><a href="https://win11.techidaily.com/minimize-high-gpu-impact-7-windows-11-wm-tips/"><u>Minimize High GPU Impact: 7 Windows 11 WM Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/overcoming-the-usb-flash-drive-is-full-deleting-oversized-files-method/"><u>Overcoming the 'USB Flash Drive Is Full: Deleting Oversized Files Method</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-avoid-constant-login-interruptions/"><u>Quick Fixes to Avoid Constant Login Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-directory-emptiness-issue-0x80070091/"><u>Resolving Windows 11: Directory Emptiness Issue #0X80070091</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-kfx-files-into-editable-pdf-documents/"><u>Step-by-Step Guide: Transforming KFX Files Into Editable PDF Documents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streaming-tech-simplified-an-in-depth-look-at-your-ultimate-guide-to-streaming-hardware/"><u>Streaming Tech Simplified: An In-Depth Look at Your Ultimate Guide to Streaming Hardware.</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-made-context-menu-adding-move-and-copy-in-windows-11/"><u>Tailor-Made Context Menu: Adding Move & Copy in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1168805-9781577313113-the-power-of-now/"><u>The Power of Now | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-steps-for-identifying-your-pcs-gpu-in-windows-11/"><u>Top 3 Steps for Identifying Your PC's GPU in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-file-types-effortlessly-with-windows/"><u>Transforming File Types Effortlessly with Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-y02t-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Y02T.</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-settings-for-spatial-sound-optimization/"><u>Windows 11 Settings for Spatial Sound Optimization</u></a></li>
+</ul></div>
+

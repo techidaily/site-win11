@@ -1,7 +1,7 @@
 ---
 title: Navigating the Next Frontier of Computers with AI
-date: 2024-12-07T21:05:56.903Z
-updated: 2024-12-12T21:18:44.567Z
+date: 2024-12-16T16:14:40.555Z
+updated: 2024-12-22T17:46:38.569Z
 tags:
   - windows10
   - windows11
@@ -29,19 +29,11 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 
  Microsoft first began to push the idea of AI-powered Windows in 2024 as the "New Era of Work" — but what is Windows 11 AI? It's a complex mix of innovation and includes AI-powered PCs, integrated Copilot, and Windows AI Studio. Here's some of what you can expect.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is the Future of Windows 11 AI?
 
  It's true that[part of the push for AI is just hype](https://www.makeuseof.com/myths-artificial-intelligence-arent-true/) , but looking at upcoming AI-powered PCs makes it clear why the future of Windows 11 is AI. Simply put, AI provides incredible productivity boosts. Just as Word processors made writing more efficient, Microsoft wants to use AI to help you work better.
 
  The push for new AI-powered devices equipped with powerful NPUs is evidence that some major shifts are coming to Windows 11 and in the near future. While the craze for AI-powered devices might seem to have come out of nowhere, they may soon become as familiar as touchscreen 2-in-1 laptops or ever-sleeker chassis designs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Will Windows 11 Use AI?
 
@@ -52,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
 ![Microsoft Copilot key on the Tecno Megabook T16 Pro](https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe58471df92be6395b51c092b0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Justin Duino / MakeUseOf
@@ -62,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/f61e0cf06b5f94c52331e7280bfea34d0fc7a11fe
  Many other laptops feature NPUs (for example, the ASUS Zenbook Duo), but the promotion of the Surface Laptop 6 and Surface Pro 10 is one of the most conspicuous pushes for AI-focused hardware yet. As these devices hit the market, many familiar apps on Windows 11 will integrate AI features.
 
  Microsoft Paint recently incorporated[AI features like Paint Cocreator](https://www.makeuseof.com/paint-cocreator-ai-images-windows-11/) and[AI background removal](https://www.makeuseof.com/windows-photos-generative-erase/) , while AI in Snipping Tool allows you to quickly copy or redact text from screenshots. Even Clipchamp is incorporating AI, as the new auto-assembly feature provides immediate editing suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adaptive Accessories and 3D-printed Attachments
 
@@ -73,21 +69,17 @@ Microsoft
 
  These accessories are already game-changing for people with disabilities who need custom solutions. But they're also helpful for anyone who wants to augment their PC setup. Currently, you can purchase designs pre-made by Microsoft through vendors like Shapeways — but[3D AI generators](https://www.makeuseof.com/chatgpt-how-to-use-for-3d-printing/) are becoming increasingly capable of providing their own solutions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Integrated Copilot for Microsoft 365
 
 ![a user prepares to click on a prompt from microsoft copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/a-user-prepares-to-click-on-a-prompt-from-microsoft-copilot.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows Copilot is meant to enhance productivity and creativity through convenience — and soon, you're likely to see the AI tool integrated into Microsoft 365 products. Currently, you can quickly[access Windows Copilot](https://www.makeuseof.com/what-is-microsoft-365-copilot/) at any time by clicking on it in the application's toolbar.
 
  Fantastic integration is what makes Copilot truly stand out, however. You can summarize long email threads or draft emails with Copilot in Outlook or quickly generate meeting notes with Copilot for Teams. In the future, we're likely to see more Copilot integrations as the product expands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows AI Studio
 
@@ -95,9 +87,17 @@ Microsoft
 
  Essentially, Windows AI Studio will provide an aggregated catalog of tools from Azure AI Studio and other sources, making it simpler for you to find and fine-tune the right SLM. With all of that heavy lifting out of the way, you'll have more time to focus on the heart of your project.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do Current and Older PCs Support Windows AI?
 
 ![Copilot preview on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-03-161057.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Considering that Windows 10 still holds a majority of the market share and that its share increased as recently as May 2024, it's easy to wonder whether we'll get Windows 10 AI. It looks like older PCs will support Windows AI — integrated Copilot in Windows 10 is available on some devices, and Microsoft is planning on a phased launch for Copilot in Windows 10 in the future.
 
@@ -122,21 +122,22 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>[New] Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-strategies-to-skyrocket-your-fb-video-ad-impact/"><u>[Updated] In 2024, Strategies to Skyrocket Your FB Video Ad Impact</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essentials-for-transforming-your-google-meet-into-youtube-live-for-2024/"><u>[Updated] The Essentials for Transforming Your Google Meet Into Youtube Live for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>2024 Approved Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-for-bulk-folder-formation-in-windows-1011/"><u>Efficient Methods for Bulk Folder Formation in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-file-damaged-message-error-0x80070570-in-windows-oses/"><u>Eliminating 'File Damaged' Message (Error 0X80070570) in Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disable-permission-restrictions-and-open-hidden-folders/"><u>How to Disable Permission Restrictions and Open Hidden Folders</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c55-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco C55 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-astonishing-critique-and-comparable-products/"><u>In 2024, Astonishing Critique & Comparable Products</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-updated-drivers-for-enhanced-performance-on-your-epson-xp-310/"><u>Install Updated Drivers for Enhanced Performance on Your Epson XP-310</u></a></li>
-<li><a href="https://facebook.techidaily.com/optimizing-online-discussions-with-fb-page-polls/"><u>Optimizing Online Discussions with FB Page Polls</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-power-user-permissions-issues-in-windows-os/"><u>Resolving Power-User Permissions Issues in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/silence-windows-software-update-messages/"><u>Silence Windows Software Update Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10plus-users-unlocking-the-secrets-of-your-ram-type/"><u>Windows 10+ Users: Unlocking the Secrets of Your RAM Type</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-struggles-lack-of-drive-letters-explained-and-cured/"><u>Windows Struggles: Lack of Drive Letters Explained & Cured</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-studio-optimization-device-agnostic-approaches-for-2024/"><u>Youtube Studio Optimization Device-Agnostic Approaches for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-effortlessly-convert-youtube-audio-top-4-low-cost-apps-for-2024/"><u>[New] Effortlessly Convert YouTube Audio - Top 4 Low-Cost Apps for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-budget-friendly-edits-made-easy-with-vimeos-free-tools/"><u>[Updated] Budget-Friendly Edits Made Easy with Vimeo's Free Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-setting-up-snapchat-on-apple-computers-step-by-step/"><u>[Updated] In 2024, Setting Up Snapchat on Apple Computers Step by Step</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-download-process-for-asus-wireless-network-interface-card-wifi-drivers/"><u>Easy Download Process for ASUS Wireless Network Interface Card (WiFi) Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-incorporate-google-maps-into-windows/"><u>Effortlessly Incorporate Google Maps Into Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/elevating-my-green-thumb-master-the-art-of-gardening-with-perplexity/"><u>Elevating My Green Thumb: Master the Art of Gardening with Perplexity</u></a></li>
+<li><a href="https://win11.techidaily.com/from-minuscule-to-monumental-boosting-windows-11-icon-sizes/"><u>From Minuscule to Monumental - Boosting Windows 11 Icon Sizes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-adjusting-windows-11s-safety-and-security-filter/"><u>Guide: Adjusting Windows 11'S Safety & Security Filter</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x8b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X8b</u></a></li>
+<li><a href="https://win11.techidaily.com/master-system-configurations-optimizing-usage-options/"><u>Master System Configurations: Optimizing Usage Options</u></a></li>
+<li><a href="https://win11.techidaily.com/next-steps-for-mobile-connectivity-in-windows-11/"><u>Next Steps for Mobile Connectivity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-disconnect-solution-non-operative-printer-removal-in-win-1011/"><u>Quick Disconnect Solution: Non-Operative Printer Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-unable-to-open-on-ges-sharing-feature/"><u>Remedy for Unable to Open on GE's Sharing Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-reactivating-razer-device-detection-by-synapse-software/"><u>Solutions for Reactivating Razer Device Detection by Synapse Software</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-disrupted-photo-packaging-in-windows-10-and-11/"><u>Tackling Disrupted Photo Packaging in Windows 10 & 11</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/toms-tech-insights-expert-computer-and-gadget-reviews/"><u>Tom's Tech Insights: Expert Computer and Gadget Reviews</u></a></li>
 </ul></div>
 

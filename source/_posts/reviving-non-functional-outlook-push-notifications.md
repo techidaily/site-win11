@@ -1,7 +1,7 @@
 ---
 title: Reviving Non-Functional Outlook Push Notifications
-date: 2024-09-05T08:26:31.955Z
-updated: 2024-09-06T08:26:31.955Z
+date: 2024-12-16T16:23:07.636Z
+updated: 2024-12-22T17:26:14.932Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
  Microsoft Outlook, like any other email client, keeps you up to date with your most recent emails by sending you timely notification alerts. However, if these Outlook notifications stop working, you may miss important emails and alerts.
 
  Fortunately, there are several ways to fix this problem. So, let's get started and discover the various ways for fixing Outlook's notifications on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Offline Mode in Outlook
 
@@ -56,6 +60,10 @@ Follow these steps to check Outlook’s notification settings:
 
  Optionally, you can also enable sound alerts for Outlook notifications from the same menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Do Not Disturb
 
  Do Not Disturb is a useful feature in Windows that allows you to work in a distraction-free environment. When enabled, this feature silences notifications for all apps unless specified otherwise. To avoid any confusion, it's best to disable Do Not Disturb in Windows.
@@ -65,14 +73,12 @@ Follow these steps to check Outlook’s notification settings:
 3. Turn off the toggle next to**Do not distrub** .  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Battery Saver
 
  Another reason Outlook may fail to send you notifications is if the battery saver is enabled on your laptop. If it is, apps like Outlook will fail to sync data in the background, and you may not receive notifications from Outlook unless you open the app. To avoid this, you must disable the battery saver mode on Windows by following the steps below.
@@ -83,11 +89,9 @@ Follow these steps to check Outlook’s notification settings:
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check Outlook's Rules
 
  The rules in Outlook allow you to specify how different types of emails should be handled. If you have previously set any notification rules in the Outlook app, this may cause them to not show. If unsure, you can go through Outlook’s rules to disable any rules related to notifications.
@@ -100,17 +104,9 @@ Here's how you can access Outlook's rules:
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -123,25 +119,11 @@ Follow these steps to delete Outlook's cache data on Windows:
 ![RoamCache Folder in File Explorer Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Delete-Outlook-Cache-Data-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart Outlook after this and check if the notifications are working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Update the Outlook App
 
  Using an outdated version of the Outlook app can result in a variety of problems, including the one discussed here. You can try updating the Outlook app to the most recent version to see if that helps. Here's how you can go about it.
@@ -150,20 +132,8 @@ Follow these steps to delete Outlook's cache data on Windows:
 2. In the pane on the right, select**Update Options > Update Now** .  
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Repair Your Email Account
 
  If Outlook is failing to display notifications only for a specific email account, you can try repairing it. Here are the steps for the same.
@@ -175,24 +145,6 @@ Follow these steps to delete Outlook's cache data on Windows:
 5. Click**Repair** to confirm.  
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Repair the Microsoft Office Suite
 
  Microsoft Office comes with a handy repair tool that can prove useful when Office apps fail to work correctly. You can repair the Microsoft Office suite in case the above solutions don't help. Here’s what you’ll need to do.
@@ -203,28 +155,23 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Never Miss an Outlook Notification Again
 
  Being a Microsoft product, you’d expect Outlook to work flawlessly on Windows. However, that may not always be the case. Hopefully, going through the above fixes has helped you fix Outlook’s notification issue on Windows and things are back to normal.
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,4 +180,21 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-secrets-to-efficient-itunes-video-capturing/"><u>[New] In 2024, Secrets to Efficient iTunes Video Capturing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-superior-sd-cards-that-power-up-your-gopro-hero-78/"><u>[Updated] Superior SD Cards that Power Up Your GoPro Hero 7/8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-optimize-your-telegram-web-experience/"><u>2024 Approved How to Optimize Your Telegram Web Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-top-rated-karaoke-equipment-buyers-guide-and-reviews/"><u>Discover the Top-Rated Karaoke Equipment : Buyer's Guide & Reviews</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-infinix-note-30-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Infinix Note 30 5Gwith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-missing-banners-in-taskbars/"><u>How To Solve Missing Banners in Taskbars</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-13-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 13 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-settings-in-windows-11/"><u>Mastering the Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-no-save-photoerror-in-windows-11/"><u>Overcoming the 'No Save' PhotoError in Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tech-trial-vlle-outlook-on-apps/"><u>Tech Trial VLLE Outlook on Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-tips-stop-code-vein-from-freezing-during-play/"><u>Troubleshooting Tips: Stop 'Code Vein' From Freezing During Play</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-cause-for-windows-11-icon-reduction/"><u>Uncover Cause for Windows 11 Icon Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-repair-top-10-methods/"><u>Unlocking Windows Repair: Top 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/win-the-battle-against-credential-lockup/"><u>Win the Battle Against Credential Lockup</u></a></li>
+</ul></div>
 

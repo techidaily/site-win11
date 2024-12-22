@@ -1,7 +1,7 @@
 ---
 title: "Surgical Steps for Error Code Fix: 0X80072f8f-0x20000"
-date: 2024-12-11T05:18:45.384Z
-updated: 2024-12-13T04:10:13.681Z
+date: 2024-12-16T16:45:28.137Z
+updated: 2024-12-22T18:00:49.755Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Media Creation Tool as an Administrator
 
  Certain programs and processes on Windows operating system need administrative privileges to perform their jobs properly. If they are not allowed these extra permissions, you are likely to run into error codes such as this one.
@@ -41,16 +45,24 @@ Follow these steps to run the file as administrator:
 ![Yes button in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/user-account-control-yes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the error persists, it indicates that there is another cause behind it. In that case, proceed with the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use a Different USB Port
 
  Often, faulty ports cause issues during the creation of the installation media. There are[several ways to test if the USB port is faulty](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) . You can begin by switching to another port and checking if the USB works fine there.
 
  You can also try using the same USB on another device and see if it works fine there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Modify the Windows Registry
 
@@ -71,10 +83,6 @@ When you have created a backup, follow these steps.
 ![New DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/auto-update-new-dword.jpg)
 5. Name this value as**AllowOSUpgrade** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AllowOSUpgrade value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade.jpg)
 6. Double-click on**AllowOSUpgrade** and type**1** under Value data.  
 ![Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/allow-os-upgrade-value-data.jpg)
@@ -93,17 +101,9 @@ When you have created a backup, follow these steps.
 ![Software Distribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/software-distribution-download.jpg)
 2. Select all the contents of the Download folder and right-click on them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on the**bin icon** in the context menu to delete them.  
 ![Delete icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/delete-download.jpg)
 4. Once you delete the files, type**cmd** in the search area of the taskbar and select**Run as administrator** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Type the following command in the Command Prompt window and hit**Enter** .  
 `wuauclt.exe /updatenow`  
@@ -111,11 +111,11 @@ When you have created a backup, follow these steps.
 6. Then, restart your PC and try launching Media Creation Tool again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Relevant Services
@@ -141,10 +141,6 @@ When you have created a backup, follow these steps.
 4. ![Windows update service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/services-windows-update-properties.jpg)
 5. In the Properties dialog, change the Startup type to**Automatic** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Startup type as automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/startup-type-automatic.jpg)
 6. If the service is stopped, click on the**Start button** and select**Apply** \>**OK** to save the changes.  
 ![Start button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/start-service-status.jpg)
@@ -166,16 +162,22 @@ Here is how you can perform a clean boot in Windows:
 5. Now, navigate to the**Startup** tab and click on**Open Task Manager** .  
 ![Open the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-open-task-manager.jpg)
 6. In the Startup tab, right-click on all the items and choose**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on the Disable button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-program.jpg)
 7. Once done, close the Task Manager and go back to the System Configuration window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Apply** \>**OK** to save the changes.
 9. Finally, restart your computer.
 
  If the error code 0x80072f8f - 0x20000 is not present after a clean boot, it suggests that the issue was caused by a software or driver conflict. If this situation is applicable, you can either manually remove the recently installed software that you think might be leading to the issue, or[perform a system restore](https://www.makeuseof.com/tag/windows-system-restore-works/) to return to an older functioning state of the system.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Disable Your Antivirus
 
@@ -202,22 +204,24 @@ Here is how you can perform a clean boot in Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-ascending-with-asmr-top-strategies-for-video-creation-for-2024/"><u>[New] Ascending with ASMR Top Strategies for Video Creation for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-fb-video-ads-with-a-complimentary-kit/"><u>[New] Master the Art of FB Video Ads with a Complimentary Kit</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>2024 Approved Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-raspberry-pi-400-assessment-all-in-one-keyboard-computer-explored/"><u>Comprehensive Raspberry Pi 400 Assessment - All-in-One Keyboard Computer Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-grayed-boot-prompt-issues/"><u>Fixing Grayed BOOT Prompt Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-vivo-v27-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Vivo V27</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-y200e-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-12-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi 12 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-unlocking-earnings-a-step-by-step-guide-to-youtubes-monetization-on-mobile/"><u>In 2024, Unlocking Earnings A Step-by-Step Guide to YouTube's Monetization on Mobile</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-concealing-windows-11s-bar/"><u>Mastering the Art of Concealing Windows 11'S Bar</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/navigating-pc-world-with-tom-comprehensive-reviews-and-advice/"><u>Navigating PC World with Tom - Comprehensive Reviews & Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/next-level-windows-paving-the-ai-way-forward/"><u>Next-Level Windows: Paving the AI Way Forward</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-repairing-renderer-failures-in-overwatch-2/"><u>Preventing and Repairing Renderer Failures in Overwatch 2</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-11s-opengl-glitch-no-3/"><u>Rectifying Windows 11'S OpenGL Glitch No. 3</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-read-only-accessibility-on-windows-11-drives/"><u>Remedying Read-Only Accessibility on Windows 11 Drives</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-old-user-credentials-error-in-windows-1011/"><u>Tackling Old User Credentials Error in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11-easy-ms-work-installation/"><u>Unlocking Windows 11: Easy MS Work Installation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comedy-crafters-codex-free-to-unleash-humor/"><u>[Updated] Comedy Crafters' Codex Free to Unleash Humor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-updating-your-meet-name-easy-steps-for-pc-and-mobile/"><u>[Updated] Updating Your Meet Name Easy Steps for PC & Mobile</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-indie-filmmakers-online-youtube-tutorials-for-growth/"><u>2024 Approved Indie Filmmakers Online YouTube Tutorials for Growth</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-digital-comedy-in-the-metaverse/"><u>2024 Approved Mastering the Art of Digital Comedy in the Metaverse</u></a></li>
+<li><a href="https://win11.techidaily.com/archive-your-cortana-trails-on-a-pc-operating-system/"><u>Archive Your Cortana Trails on a PC Operating System</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-fix-restoring-functionality-to-windows-charmap/"><u>Comprehensive Fix: Restoring Functionality to Windows CharMap</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnose-and-repair-cannot-connect-to-the-server-in-minecraft-expert-tips-and-tricks/"><u>Diagnose and Repair 'Cannot Connect to the Server' In Minecraft - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-downfalls-of-modern-standby-in-windows-os/"><u>Dissecting the Downfalls of Modern Standby in Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-no-speakers-or-headphones-are-plugged-in-issue-in-windows-1187/"><u>Fix No Speakers or Headphones Are Plugged in Issue in Windows 11/8/7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/grab-your-bargain-priced-85-inch-tcl-smart-tv-before-its-gone-just-900-during-the-holiday-weekend-exclusive-deals-at-zdnet/"><u>Grab Your Bargain-Priced 85-Inch TCL Smart TV Before It's Gone! Just $900 During the Holiday Weekend - Exclusive Deals at ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-counter-strike-global-offensive-not-opening-in-windows-11/"><u>How to Fix Counter-Strike: Global Offensive Not Opening in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/interfacing-with-the-core-of-windows-print-system/"><u>Interfacing with the Core of Windows Print System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/master-the-art-of-video-editing-complimentary-top-pp-tools-for-2024/"><u>Master the Art of Video Editing Complimentary, Top PP Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-ethernet-connection-fixes/"><u>Navigating Through Ethernet Connection Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-transition-from-stuck-in-windows-1011-s-mode/"><u>Tactics to Transition From Stuck in Windows 10/11 S Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-transformation-of-heic-files-into-jpeg/"><u>Uncomplicated Transformation of HEIC Files Into JPEG</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-joy-essential-list-of-free-media-players-for-windows/"><u>Unleash Joy: Essential List of Free Media Players for Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unsubscribe-from-gpt-communication/"><u>Unsubscribe From GPT Communication</u></a></li>
 </ul></div>
 

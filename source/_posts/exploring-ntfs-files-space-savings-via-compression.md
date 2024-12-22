@@ -1,7 +1,7 @@
 ---
 title: Exploring NTFS Files' Space Savings via Compression
-date: 2024-12-05T23:12:24.905Z
-updated: 2024-12-12T16:20:25.578Z
+date: 2024-12-15T17:38:08.548Z
+updated: 2024-12-22T18:02:02.749Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 4. Under the**Compress or Encrypt attributes** section, check the**Compress contents to save disk space** box and click**OK** .  
 ![Compress content to save disk option in Folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/compress-content-to-save-disk-option.jpg)
 5. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the confirmation dialog box that crops up, choose the **Apply changes to this folder, subfolders, and files option** .  
 ![Apply changes option in folder properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apply-changes-option.jpg)
 7. Click**OK.**
@@ -53,11 +58,7 @@ Similarly, you can compress an entire drive. Here's how:
 3. Click**Apply** and then click**OK** on the confirmation box that crops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable NTFS File Compression Using the Command Prompt
@@ -77,10 +78,6 @@ Similarly, you can compress an entire drive. Here's how:
 
 `fsutil behavior set disablecompression 1`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Enable NTFS File Compression Using the Registry Editor
 
  Another quick way to enable compression is through the Registry Editor. Follow the below steps to do it:
@@ -92,6 +89,11 @@ Similarly, you can compress an entire drive. Here's how:
 4. Right-click on the**Policies** folder in the left sidebar, hover the cursor to**New,** and choose**DWORD** **(32-bit) Value** from the context menu.  
 ![Choosing DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-dword.jpg)
 5. Right-click on the newly created value and choose**Rename** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type**Ntfsenablecompression** in the text field.
 7. Select and right-click on**Ntfsenablecompression** again, and choose**Modify** .
 8. Type**1** in the**Value data** .  
@@ -99,7 +101,7 @@ Similarly, you can compress an entire drive. Here's how:
 9. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File compression is now enabled on your computer. If you want to disable it, type 0 in Value data and save the changes.
@@ -119,7 +121,7 @@ Similarly, you can compress an entire drive. Here's how:
  You can disable the file compression by choosing the**Enabled** option in the**Do not allow compression on all NTFS volumes policy** properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Up Space on Windows 11 With File Compression
@@ -143,14 +145,22 @@ Similarly, you can compress an entire drive. Here's how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-a-quick-guide-secure-your-instagram-stories-with-screen-record/"><u>[Updated] 2024 Approved A Quick Guide Secure Your Instagram Stories with Screen Record</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-root-user-access-in-the-windows-terminal/"><u>Ensuring Root User Access in the Windows Terminal</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-recover-from-or-resolve-the-msstdfmtdll-not-found-issue/"><u>How to Recover From or Resolve the Msstdfmt.dll Not Found Issue</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-action-sequence-showdown-hero5-black-versus-hero4-silver/"><u>In 2024, Action Sequence Showdown Hero5 Black Versus Hero4 Silver</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/inside-the-garmin-venu-review-advanced-24-hour-activity-and-health-tracking-device/"><u>Inside the Garmin Venu Review: Advanced 24-Hour Activity and Health Tracking Device</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-in-nullifying-windows-11s-eyes-on-you/"><u>Mastery in Nullifying Windows 11'S Eyes on You</u></a></li>
-<li><a href="https://win11.techidaily.com/overhaul-your-inbox-and-calendar-use-custom-images/"><u>Overhaul Your Inbox and Calendar: Use Custom Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-information-unveiling-the-9-deceptive-chatgpt-apps-pretending-to-be-viruses-and-malware/"><u>Protect Your Information: Unveiling the 9 Deceptive ChatGPT Apps Pretending to Be Viruses and Malware</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-windows-11s-printer-interface-max-52-chars/"><u>Streamline Windows 11'S Printer Interface (Max 52 Chars)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-tapping-income-through-thoughtful-product-examinations/"><u>[Updated] 2024 Approved Tapping Income Through Thoughtful Product Examinations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevate-view-count-prime-hashtags-strategy/"><u>[Updated] In 2024, Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-infusing-audio-from-yt-into-video-artistry/"><u>[Updated] Infusing Audio From YT Into Video Artistry</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-sketching-the-perfect-end-credits-scene-for-your-tiktok/"><u>2024 Approved Sketching the Perfect End-Credits Scene for Your TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-in-use-errors-unique-device-names-on-windows-pcs/"><u>Clearing Up In Use Errors: Unique Device Names on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-mouse-experience/"><u>Customize Your Windows Mouse Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/historical-code-to-contemporary-computing-windows-7-to-11-activation/"><u>Historical Code to Contemporary Computing: Windows 7 to 11 Activation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-oculus-rift-adventures-for-gamers/"><u>In 2024, Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-iphones-last-line-disappeared-obstacle-tips-and-techniques-for-success/"><u>Overcoming iPhone's 'Last Line Disappeared' Obstacle - Tips and Techniques for Success</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/pioneering-tiktok-creations-with-foundational-tools-for-2024/"><u>Pioneering TikTok Creations with Foundational Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pixel-perfection-embedding-zip-files-in-windows-images-unseen/"><u>Pixel Perfection: Embedding Zip Files in Windows Images Unseen</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-your-esc-key-woes-in-a-flash-with-this-guide/"><u>Reboot Your Esc Key Woes in a Flash With This Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/synthesize-and-add-videos-to-your-listing/"><u>Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-error-adjusting-gif-sizes-for-discord-games-on-windows-11/"><u>Taming the Error: Adjusting GIF Sizes for Discord Games on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-0x800f0922-update-problem-in-windows-11/"><u>Troubleshoot 0X800f0922 Update Problem in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-procedure-of-sfc-scanning/"><u>Unraveling the Procedure of SFC Scanning</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-lego-animators-to-watch/"><u>Updated In 2024, Top Lego Animators to Watch</u></a></li>
 </ul></div>
 

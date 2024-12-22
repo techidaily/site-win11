@@ -1,7 +1,7 @@
 ---
 title: "Masterful Display Setup: Pinning 'This PC' Icon to Desktop"
-date: 2024-12-12T08:42:21.151Z
-updated: 2024-12-12T18:36:56.067Z
+date: 2024-12-17T16:17:23.865Z
+updated: 2024-12-22T16:20:43.761Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add the "This PC" Icon to Your Windows Desktop
@@ -40,16 +40,21 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 4. Click on**Desktop icon settings** under**Related settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on Desktop Icon Settings Under Related Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-on-desktop-icon-settings-under-related-settings-in-windows-settings-app.jpg)
 5. In the**Desktop Icon Settings** window, check the box beside**Computer** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Then, click on**Apply** and hit**OK** .  
 ![Click OK After Checking the Box Besides Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-ok-after-checking-the-box-besides-computer-in-desktop-icons-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's all. Following the above steps will add the "This PC" icon to your desktop. If you wish to remove the icon again, follow the same steps outlined above, but this time uncheck the box beside**Computer** (that you checked), click**Apply** , and hit**OK** .
@@ -57,16 +62,12 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 ![Click OK After Unchecking the Box Beside Computer in Desktop Icons Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-click-ok-after-unchecking-the-box-beside-computer-in-desktop-icons-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similar to how we have added the "This PC" icon, you can[add other icons to your desktop in Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) , such as Recycle Bin, Network, and Control Panel.
 
  Don't restore the icon settings after making this change. This will reverse our recent change, and the "This PC" icon will again disappear.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Easily Add the "This PC" Icon to Your Desktop
 
@@ -87,21 +88,18 @@ thumbnail: https://thmb.techidaily.com/5cf7e45072025cfbbdb41e62586d386e0a0a7b211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-gamers-guide-to-exceptional-video-sessions/"><u>[New] In 2024, The Gamers' Guide to Exceptional Video Sessions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/implified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices-for-2024/"><u>[New] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-prime-windows-snipper-apps-listed-at-5/"><u>[Updated] 2024 Approved Prime Windows Snipper Apps Listed at #5</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-exiting-with-impact-mastering-podcast-conclusions-beyond-the-basics-for-2024/"><u>[Updated] Exiting with Impact Mastering Podcast Conclusions Beyond the Basics for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-resurrecting-windows-photo-viewer-windows-10-techniques-1-and-2/"><u>[Updated] Resurrecting Windows Photo Viewer Windows 10 Techniques #1 & #2</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-step-by-step-guide-to-fixing-samsung-printer-issues-in-windows-environments/"><u>A Step-by-Step Guide to Fixing Samsung Printer Issues in Windows Environments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/beyerdynamic-mmx-300-pro-assessment-excellent-audio-quality-with-simple-features/"><u>BeyerDynamic MMX 300 Pro Assessment - Excellent Audio Quality with Simple Features</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-microsoft-family-safetys-core-functions/"><u>Decoding Microsoft Family Safety's Core Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-voice-typing-failure-in-windows-11-error-code-0x80049dd3/"><u>Fixing Voice Typing Failure in Windows 11 (Error Code: 0X80049DD3)</u></a></li>
-<li><a href="https://win11.techidaily.com/make-ms-word-defaultly-use-reading-pane-for-email-attachments-no-editing/"><u>Make MS Word Defaultly Use Reading Pane for Email Attachments, No Editing</u></a></li>
-<li><a href="https://win11.techidaily.com/1719293621682-mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC.</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-your-windows-11-efficiency-with-these-5-reliability-checks/"><u>Maximize Your Windows 11 Efficiency with These 5 Reliability Checks</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-launch-failures-fixing-windows-speech-recognition/"><u>Overcoming Launch Failures: Fixing Windows Speech Recognition</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamlessly-change-your-gif-images-to-png-files-for-free-discover-how-with-movavi/"><u>Seamlessly Change Your GIF Images to PNG Files For Free – Discover How with Movavi</u></a></li>
-<li><a href="https://media-tips.techidaily.com/step-by-step-tutorial-transform-ogg-audiovideo-into-mp4-for-seamless-compatibility/"><u>Step-by-Step Tutorial: Transform OGG Audio/Video Into MP4 for Seamless Compatibility</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-update-issue-0x800f0845/"><u>Steps to Overcome Update Issue - 0X800F0845</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android-for-2024/"><u>[Updated] The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android) for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissolving-barriers-with-artificial-insight/"><u>Dissolving Barriers with Artificial Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-static-speakers-after-disabling-default-sounds/"><u>Fix Static Speakers After Disabling Default Sounds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-hot-40-pro-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Hot 40 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-virtual-forum-transcription/"><u>In 2024, Virtual Forum Transcription</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leading-iphone-email-apps-reviewed-our-selections/"><u>Leading iPhone Email Apps Reviewed: Our Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/quicker-battlenet-file-syncing-on-windows-devices/"><u>Quicker Battle.net File Syncing on Windows Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-personal-exchanges-methods-to-keep-chatgpt-from-recording-your-talks/"><u>Securing Personal Exchanges: Methods to Keep ChatGPT From Recording Your Talks</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-usage-options-on-windows-11-devices-and-systems/"><u>Streamlining Usage Options on Windows 11 Devices and Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-life-balancing-using-chatgpt-as-your-secret-weapon/"><u>The Art of Life Balancing: Using ChatGPT as Your Secret Weapon</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttered-windows-desktop-at-a-glance/"><u>Uncluttered Windows Desktop at a Glance</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-a-strategy-to-resolve-locked-windows-update/"><u>Unveiling a Strategy to Resolve Locked Windows Update</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-webm-video-editing-tools/"><u>Updated Top-Rated Free WebM Video Editing Tools</u></a></li>
 </ul></div>
 

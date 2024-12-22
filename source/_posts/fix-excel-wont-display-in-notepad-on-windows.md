@@ -1,7 +1,7 @@
 ---
 title: "Fix: Excel Won't Display in Notepad on Windows"
-date: 2024-12-05T22:26:31.845Z
-updated: 2024-12-12T21:28:24.693Z
+date: 2024-12-17T16:25:21.513Z
+updated: 2024-12-22T17:24:32.004Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the "Open With" Option
 
  The easiest way to open a file in the app of your choice when Windows is not sure how to handle it is by using the “Open with” option.
@@ -34,16 +38,12 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 ![Open with option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-with-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to ensure that all files of a particular format open in Excel automatically, you can use the "Open with" option to set a default program as well. Simply right-click on the file, select **Open with** \> **Choose another app**. From there, select **Excel** and check the "Always use this app to open files" option.
 
 ![Set the file as default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/always-use-this-app-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Change the Default Settings for File Types
 
@@ -59,17 +59,17 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, you will be able to open the Excel files in Excel successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 3. Expand the **View** option in the top pane and choose **Show** \> **File name extensions**. You can now check if the file extension type is compatible with Excel.  
 ![Show file extensions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-name-extensions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can also [use the Command Prompt to check the file extension type](https://www.makeuseof.com/windows-11-see-file-extensions/). If the file extension type is not correct, you can rename the file to fix the problem. Here is how:
 
 1. Right-click on the file and choose **Rename**.
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 3. Enter the correct file extension after the file name, separated by a dot.  
 ![Rename the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-file-extension.jpg)
 4. Press **Enter** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Click **Yes** in the User Account Control prompt to proceed.
 
@@ -123,23 +123,6 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-tips.techidaily.com/void-the-backtrack-blunder-with-these-tips-for-2024/"><u>[New] Avoid the Backtrack Blunder with These Tips for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-essential-techniques-for-writing-irresistible-vlog-narratives/"><u>2024 Approved Essential Techniques for Writing Irresistible Vlog Narratives</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-video-editing-on-imac-with-m1-processor/"><u>2024 Approved Video Editing on iMac with M1 Processor</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/aacsbdpluscinavia/"><u>最新テクノロジーで無料・有料ブルーレイコピーガード解除ソフトを見つける! 安全かつ確実なAACS、BD+、Cinaviaの耐久性解析方法！</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-the-apple-watch-series-10-track-blood-pressure-accurately-insights/"><u>Can the Apple Watch Series 10 Track Blood Pressure Accurately? Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unallocated-vram-on-hogwarts-legacy-platform/"><u>Correcting Unallocated VRAM on Hogwarts Legacy Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unauthorized-nvidia-panel-errors-in-ws1110/"><u>Correcting Unauthorized Nvidia Panel Errors in WS11/10</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/perfecting-film-editing-final-cut-pro-101/"><u>Perfecting Film Editing Final Cut Pro 101</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-eliminating-not-attached-usb-error-from-your-virtualbox/"><u>Quick Guide: Eliminating 'Not Attached USB Error' From Your VirtualBox</u></a></li>
-<li><a href="https://win11.techidaily.com/severing-non-primary-users-in-the-windows-ecosystem/"><u>Severing Non-Primary Users in the Windows Ecosystem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993810426-starfield-audio-problems-solved-no-more-skips-or-freezes/"><u>Starfield Audio Problems Solved - No More Skips or Freezes!</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-tricks-for-unfreezing-right-click-menus-on-windows/"><u>Top 6 Tricks for Unfreezing Right-Click Menus on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11s-bluetooth-woes-try-these-9-simple-cures/"><u>Win 11'S Bluetooth Woes? Try These 9 Simple Cures</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -147,3 +130,20 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-transformative-guide-avian-video-avi-to-graphic-image-gif-in-filmora/"><u>2024 Approved Transformative Guide Avian Video (AVI) to Graphic Image (GIF) in Filmora</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boundless-conversations-how-to-leverage-chatgpt-with-chatgpt-everywhere-for-247-access/"><u>Boundless Conversations: How to Leverage ChatGPT with ChatGPT Everywhere for 24/7 Access</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-settings-for-better-device-control/"><u>Navigating Windows 11 Settings for Better Device Control</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/parrot-powered-prowess-a-fresh-lens-on-bebop-2-for-2024/"><u>Parrot-Powered Prowess – A Fresh Lens on Bebop 2 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-remote-work-fast-and-memory-friendly/"><u>Revitalizing Remote Work: Fast and Memory-Friendly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-iphone-wireless-charge-issues-top-7-quick-fixes/"><u>Solving iPhone Wireless Charge Issues: Top 7 Quick Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-resolving-windows-update-defeat-error-0x800736cc/"><u>Swiftly Resolving Windows Update: Defeat Error 0X800736CC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-prompt-engineering-is-it-the-future-for-job-seekers/"><u>The Ins and Outs of AI Prompt Engineering – Is It the Future for Job Seekers?</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-for-your-windows-predicaments/"><u>Troubleshooting Tips for Your Windows Predicaments</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-fun-factor-in-depth-look-at-the-syma-s111g-rc-aircraft/"><u>Unveiling the Fun Factor: In-Depth Look at the Syma S111G RC Aircraft</u></a></li>
+</ul></div>
+

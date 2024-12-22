@@ -1,7 +1,7 @@
 ---
 title: Insights Into User Complaints About Windows 11
-date: 2024-12-11T22:51:10.121Z
-updated: 2024-12-13T01:51:42.530Z
+date: 2024-12-19T17:31:19.065Z
+updated: 2024-12-22T17:19:46.241Z
 tags:
   - windows10
   - windows11
@@ -23,16 +23,12 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Windows 11 Has Strict Hardware Requirements
 
 ![Prepare the TPM in TPM Management Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Prepar-the-TPM.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When Windows 10 debuted, Microsoft offered a free upgrade for PCs running Windows 7 and 8.1\. Windows 10 users can also upgrade to Windows 11 for free, but not everyone is eligible because of the stringent hardware requirement.
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  Many users feel that Microsoft should bring back the old system where a Microsoft account was not mandatory during the setup process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Windows 11 Does Not Offer Significant Benefits Over Windows 10 for Many
 
  For Many people, Windows 11 is worth the upgrade because of its plethora of new features, design changes, and improvements. But for many people, the changes are not practical and are something they will never use. Also, Windows 10 gives users a sense of familiarity because they have been using it for a long time.
@@ -58,20 +58,20 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![A Windows 11 laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-windows-11-desktop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is important to keep devices updated with the latest version of the software. Doing so will make devices more secure and give you other benefits. But when users feel that the new features don't significantly improve their workflow, they don't want to upgrade to a new version of the OS. If you want a comparison for clarity, here are[the biggest differences between Windows 10 and Windows 11](https://www.makeuseof.com/windows-10-11-major-changes/) .
 
  Many Windows 10 users have complaints that Windows 11 does not offer significant new features that are beneficial to them. The only way to help those people is by adding more practical features to Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Changing Default Apps Is Too Hard
 
 ![Windows 11 Settings Default Apps Mailto](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-Settings-Default-Apps-Mailto.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft came under fierce criticism for making it harder to change default apps. In Windows 10, you have a Default apps interface on the Settings page for configuring default apps for email, music, photo viewing, web browser, and more. All it requires is a couple of clicks to change the default apps in Windows 10.
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  Users want Microsoft to introduce an easier way of changing default apps in Windows 11\. Of all the complaints users have about Windows 11, the issue of changing default apps is likely to be fixed first. Microsoft had already announced that it would introduce[a new Settings deep link URI for applications](https://blogs.windows.com/windowsexperience/2023/03/17/a-principled-approach-to-app-pinning-and-app-defaults-in-windows/) to allow users to change defaults quickly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Limited Functionality of the Windows 11 Taskbar
@@ -110,15 +110,22 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-vfx-essentials-unlocked-top-8-sites-for-free-high-quality-green-screen-imagery/"><u>[New] VFX Essentials Unlocked Top 8 Sites for FREE High-Quality Green Screen Imagery</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-leaders-in-likeability-the-best-app-list-on-androidiphone-for-2024/"><u>[Updated] Leaders in Likeability The Best App List on Android/iPhone for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-winrars-summation-oversights-a-6-step-approach/"><u>Correcting WinRAR's Summation Oversights: A 6-Step Approach</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/establish-contact-with-top-tier-tech-innovators-partner-with-digiarty-now/"><u>Establish Contact with Top-Tier Tech Innovators - Partner with Digiarty Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/expertly-restoring-erased-data-in-a-microsoft-world/"><u>Expertly Restoring Erased Data in a Microsoft World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-blend-soundscape-into-ppt-narratives/"><u>In 2024, Blend Soundscape Into PPT Narratives</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-the-future-of-videos-assessing-av1s-edge-over-vp9/"><u>In 2024, The Future of Videos Assessing AV1's Edge over VP9</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-digital-footprint-master-the-art-of-disabling-trackers-in-safari-for-macos-with-tips-from-zdnets-experts/"><u>Protect Your Digital Footprint: Master the Art of Disabling Trackers in Safari for macOS with Tips From ZDNET's Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-turning-on-copy-and-paste-operations-in-edges-security-shield-w11/"><u>Steps for Turning on Copy & Paste Operations in Edge's Security Shield W11</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-inner-gamer-strategic-play-and-success-at-zero-cost/"><u>Unleash Your Inner Gamer: Strategic Play & Success at Zero-Cost</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>[Updated] All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-masterclass-transition-to-mixer-broadcast-on-macos/"><u>[Updated] Masterclass Transition to Mixer Broadcast on macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-read-only-on-windows-folders-amidst-issues/"><u>Bypassing Read-Only on Windows Folders Amidst Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-through-content-clutter-youtube-shorts-essentials/"><u>Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/cutting-edge-approaches-to-virtual-reality-gaming-documentation/"><u>Cutting-Edge Approaches to Virtual Reality Gaming Documentation</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-file-properties-a-windowayers-manual/"><u>Fine-Tuning File Properties: A Window'ayer's Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/from-sealed-boxes-to-digital-realm-unlocking-windows-11-with-a-window-7-key/"><u>From Sealed Boxes to Digital Realm: Unlocking Windows 11 With a Window 7 Key</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-corsair-h80i-v2-driver-for-your-pc/"><u>Get the Latest Corsair H80i V2 Driver for Your PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/getting-your-gone-facebook-comments-back/"><u>Getting Your Gone Facebook Comments Back</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imovie-rhythms-a-sound-experts-handbook-for-2024/"><u>IMovie Rhythms A Sound Expert's Handbook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revitalize-your-shots-10-cost-free-expandable-with-additional-luts/"><u>In 2024, Revitalize Your Shots 10 Cost-Free, Expandable With Additional LUTs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-winning-strategies-for-selecting-best-windows-emulators/"><u>Master Guide: Winning Strategies for Selecting Best Windows Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-shrinking-windows-11-icons-quickly/"><u>Resolve Shrinking Windows 11 Icons Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/secret-start-screen-tactics-vanish-power-buttons-from-windows-11/"><u>Secret Start Screen Tactics: Vanish Power Buttons From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reinstate-lunar-client-after-launch-failed/"><u>Strategies to Reinstate Lunar Client After Launch Failed</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-linux-vm-setup-with-windows-and-hyper-v-integration/"><u>Streamlining Linux VM Setup with Windows and Hyper-V Integration</u></a></li>
 </ul></div>
 

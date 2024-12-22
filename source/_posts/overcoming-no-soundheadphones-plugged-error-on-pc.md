@@ -1,7 +1,7 @@
 ---
 title: Overcoming No Sound/Headphones Plugged Error on PC
-date: 2024-12-08T20:57:36.519Z
-updated: 2024-12-13T04:29:33.262Z
+date: 2024-12-15T16:50:24.868Z
+updated: 2024-12-22T17:13:36.677Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/a929b0d993c705dcd1293af7219e5e597567df393
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Audio Troubleshooter
 
  You can troubleshoot sound problems on Windows using the built-in audio troubleshooter. It scans your Windows system for common audio issues and tries to fix them automatically.
@@ -46,7 +42,7 @@ To run the troubleshooter:
 5. Select your device speaker and click**Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**NO** ,**Do not open Audio Enhancements** in the**Turn off Sound Effects and Enhancements** dialog.
@@ -59,10 +55,6 @@ To run the troubleshooter:
  If a Windows or driver update has messed up your audio device, you can perform a driver rollback to reinstall the last known good driver. You can use the Device Manager to[roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) .
 
  To roll back an audio device driver, follow our guide on[how to roll back a driver in Windows](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . You'll likely find your audio drivers in the**Sound, video, and game controllers** section of Device Manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Add Network Service and Local Services to the Local Administrator Group
 
@@ -79,7 +71,7 @@ To run the troubleshooter:
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
@@ -93,7 +85,7 @@ To run the troubleshooter:
 4. Click**OK** to add network service to the local user group.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
@@ -125,15 +117,21 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
 
@@ -144,6 +142,10 @@ To uninstall an audio device:
  If the issue persists, change the device installation settings and then reinstall the driver. To change device installation settings:
 
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Press the**Win** key, and type**device installation settings.**
 2. Next, click on**Change device installation settings** from the search result.
@@ -171,22 +173,16 @@ To uninstall an audio device:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1722212256665-chatgpt-desktop-still-coming-soon-discover-exceptional-open-source-counterparts-now/"><u>ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dark-realm-explorations-dos-and-donts-of-nocturnal-shooting-for-2024/"><u>Dark Realm Explorations Do's & Don'ts of Nocturnal Shooting for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-integration-websites-as-windows-friendly-software/"><u>Digital Integration: Websites as Windows-Friendly Software</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-audio-dimension-with-windows-11-configurations/"><u>Enriching Audio Dimension with Windows 11 Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-win-pcs-discord-errors/"><u>Essential Tips to Overcome Win PC's Discord Errors</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-oculus-headset-ready-drivers-download-for-windows-versions-including-11-10-8-and-7/"><u>Get Your Oculus Headset Ready: Drivers Download for Windows Versions Including 11, 10, 8, & 7</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-resolving-blocked-program-notice-on-pc/"><u>Guide: Resolving Blocked Program Notice on PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-halo-infinity-from-skipping-frames-and-freezing-up/"><u>How to Stop Halo Infinity From Skipping Frames and Freezing Up</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-infinix-smart-7-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Infinix Smart 7 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p40plus-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Itel P40+ Phone Without Password?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-top-6-best-4k-full-frame-camera/"><u>In 2024, Top 6 Best 4K Full Frame Camera</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-using-mentions-in-your-microsoft-office-365-feedback/"><u>Mastering the Art of Using @Mentions in Your Microsoft Office 365 Feedback</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-ms-store-hiccups-overcoming-error-0x80072f17/"><u>Mending MS Store Hiccups: Overcoming Error 0X80072f17</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/pioneering-communication-3-methods-of-chatgpt-wolfram-alpha-synergy/"><u>Pioneering Communication: 3 Methods of ChatGPT-Wolfram Alpha Synergy</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-update-with-error-0x8024800c/"><u>Rectifying Windows Update with Error 0X8024800C</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-discord-errors-during-windows-11-installation-process/"><u>Solving Discord Errors During Windows 11 Installation Process</u></a></li>
-<li><a href="https://win11.techidaily.com/speeding-up-steam-downloads-on-windows-pcs/"><u>Speeding Up Steam Downloads on Windows PCs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-complete-premiere-pro-full-screen-insight/"><u>[New] Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-link-it-up-sharing-youtube-on-ig-snapshots-for-2024/"><u>[New] Link It Up! Sharing YouTube on IG Snapshots for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-balance-of-swiftness-and-security-on-spotify-sounds/"><u>2024 Approved The Balance of Swiftness and Security on Spotify Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-auto-play-in-spotify-for-windows-pcs/"><u>Disabling Auto-Play in Spotify for Windows PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-loves-linguistic-tapestry/"><u>Exploring Love's Linguistic Tapestry</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-zoom-error-code-1132-in-windows-10-and-11/"><u>How to Fix Zoom Error Code 1132 in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/joining-the-dots-win-keys-and-microsoft-login-registration/"><u>Joining the Dots: WIN KEYS and MICROSOFT LOGIN REGISTRATION</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-tools-to-assist-in-making-your-pc-to-mac-os-transition-easier/"><u>Proven Tools to Assist in Making Your PC-to-Mac OS Transition Easier</u></a></li>
+<li><a href="https://win11.techidaily.com/ready-for-success-testing-your-meeting-tech-on-windows/"><u>Ready for Success: Testing Your Meeting Tech on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-secret-free-apps-best-macos-text-transcribers/"><u>Top Secret Free Apps Best macOS Text Transcribers</u></a></li>
 </ul></div>
 

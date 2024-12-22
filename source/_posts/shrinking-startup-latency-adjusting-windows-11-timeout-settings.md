@@ -1,7 +1,7 @@
 ---
 title: "Shrinking Startup Latency: Adjusting Windows 11 Timeout Settings"
-date: 2024-12-11T22:43:52.301Z
-updated: 2024-12-12T18:00:38.360Z
+date: 2024-12-20T16:16:30.371Z
+updated: 2024-12-22T17:37:31.001Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,18 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 3. Choose **System protection**.  
 ![System protection option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection.jpg)
 4. Switch to the **Advanced** tab and click the **Settings** button under the **Startup and Recovery** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the drop-down icon under the **Default operating system** option and choose your default OS.
 6. Check the **Time to display list of operating systems** option and select the timeout value. The value can range from **0** to **999**.  
 ![Time to display list of operating systems option in System Protection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/time-to-display-list-of-operating-systems-option.jpg)
 7. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Change Boot Menu Timeout Using System Configuration
@@ -54,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 4. Click **Apply.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Yes** to confirm your changes.  
 ![Yes option in msconfig window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option-1.jpg)
 6. Choose the **Restart** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Change Boot Menu Timeout Using the Command Prompt
 
@@ -72,15 +81,7 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 `bcdedit /timeout SECONDS`  
 ![Timeout change command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/timout-change-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it! From the next boot, the boot manager will appear for the specified duration of time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Boot Menu Timeout Using the Boot Options
 
@@ -96,7 +97,7 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 4. Choose a time between the given options.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Choose time in the Boot Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-time.jpg)
@@ -107,23 +108,6 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
 
  Fortunately, you can configure the wait time as per your choice. In this article, we'll explore four quick ways to change the boot menu timeout in Windows 11\. So, let's begin.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>[New] Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-inside-a-virtual-reality-device-a-basic-overview/"><u>[New] Inside a Virtual Reality Device A Basic Overview</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-unveiling-the-leading-mac-speech-recorders-our-curated-list-of-5/"><u>[Updated] 2024 Approved Unveiling The Leading Mac Speech Recorders Our Curated List of 5</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-windows-11-tips-for-effective-sound-recording/"><u>[Updated] 2024 Approved Windows 11 Tips for Effective Sound Recording</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-system-hurdles-a-complete-solution-to-fixing-xbox-game-passs-error-code-0x800700e9/"><u>Conquering System Hurdles: A Complete Solution to Fixing Xbox Game Pass’s Error Code 0X800700E9</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210367692-9781662432866-conscious-exploration-for-the-advanced-soul/"><u>Conscious Exploration for the Advanced Soul | Free Book</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/vering-potential-youtubes-role-in-modern-education-strategies/"><u>Discovering Potential YouTube's Role in Modern Education Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-response-time-for-gesture-inputs-in-windows-devices/"><u>Improving Response Time for Gesture Inputs in Windows Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-creative-storytelling-vault/"><u>In 2024, Creative Storytelling Vault</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/movavi-video-suite-a-simplified-path-to-professional-video-creation/"><u>Movavi Video Suite: A Simplified Path to Professional Video Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unmatched-features-of-windows-10-why-its-better-than-win11/"><u>The Unmatched Features of Windows 10: Why It's Better than Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-novelty-of-windows-11-bar-functions/"><u>Unlocking Novelty of Windows 11 Bar Functions</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -131,3 +115,24 @@ thumbnail: https://thmb.techidaily.com/d3c3a020a8c3e31354179c514456d8a6b689ea566
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-photo-fidelity-larger-not-lesser/"><u>[New] 2024 Approved Elevate Photo Fidelity - Larger, Not Lesser</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-soundstage-viewing/"><u>[New] Leading Soundstage Viewing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dominate-youtube-with-effective-content-strategies/"><u>[Updated] 2024 Approved Dominate YouTube with Effective Content Strategies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-software-practices-for-transforming-pictures-into-films/"><u>Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://win-answers.techidaily.com/borderlands-e-experiencing-fps-dips-expert-solutions-and-tweaks-for-your-pc/"><u>Borderlands E Experiencing FPS Dips? Expert Solutions and Tweaks for Your PC</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/effortlessly-convert-and-import-mtsm2ts-videos-into-adobe-premiere-pro-for-smooth-editing-flow/"><u>Effortlessly Convert and Import MTS/M2TS Videos Into Adobe Premiere Pro for Smooth Editing Flow</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-x6-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find X6 to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-to-do-management-in-the-microsoft-ecosystem/"><u>Mastering To-Do Management in the Microsoft Ecosystem</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/pictureperfect-tips-for-instagrams-image-sizing-for-2024/"><u>PicturePerfect Tips for Instagram's Image Sizing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-real-time-update-of-task-manager-in-win-11/"><u>Quicken Real-Time Update of Task Manager in Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio/"><u>Sculpting Softness A Guide to Quieter Mixes with FL Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-windows-11-help-application-use/"><u>Steps to Regain Windows 11 Help Application Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-devhome-transforming-your-w11-experience/"><u>The Essence of DevHome: Transforming Your W11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-powershell-on-windows-system/"><u>Troubleshooting: No PowerShell on Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-halted-by-error-2e-solutions-here/"><u>Windows Update Halted by Error 2E? Solutions Here</u></a></li>
+<li><a href="https://win11.techidaily.com/your-quick-reference-to-fixing-windows-photo-application/"><u>Your Quick Reference to Fixing Window's Photo Application</u></a></li>
+</ul></div>
+

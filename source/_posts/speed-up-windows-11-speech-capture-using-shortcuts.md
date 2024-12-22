@@ -1,7 +1,7 @@
 ---
 title: Speed Up Windows 11 Speech Capture Using Shortcuts
-date: 2024-12-09T22:42:29.828Z
-updated: 2024-12-12T19:33:51.650Z
+date: 2024-12-16T17:01:40.207Z
+updated: 2024-12-22T16:59:10.146Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Start a New Recording
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
  The**Ctrl + R** keyboard shortcut is especially useful for voice recorders. It starts a new recording without having to open the application and hit record manually. It's great for speeding up workflows, as it can save significant time when compared to manually starting a recording each time.
 
  If your recording sounds a little low-quality, it may be time to upgrade your microphone. Fortunately, we have a guide on[what to look for when buying a studio microphone](https://www.makeuseof.com/buying-studio-microphone-what-to-look-for/) to help you pick the right one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Add a New Marker to the Recording
 
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
  When a sound file is open in Windows Media Player, hitting the Spacebar once will play it from where it left off. Pressing it again pauses whatever is currently playing; then pressing it again resumes the song from that point forward. With this convenient feature, you can increase your productivity while staying focused on your tasks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Go Back
@@ -67,13 +63,25 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  For recording voice, this key has another important purpose: allowing them to quickly go back and review their recordings without having to start over from the beginning each time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Rename a Recording
 
  With the help of the**F2** keyboard shortcut, it is easy to rename any recording you have in your library. You can use this shortcut to personalize the titles of your recordings for easier identification and organization. Not only does this help you find specific recordings faster, but it also categorizes related material better.
 
 ![Rename a file in Voice Recorder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/rename-a-file-in-voice-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To use this feature, simply choose the desired file, then press F2 on your keyboard. After that, give the file a name and click**Rename** to save it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Show in Folder
 
@@ -84,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 ![Show Recording in Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-recording-in-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To open a folder, select the recording you want to open and then press O – this will launch an Explorer window displaying all of your audio recordings. With this shortcut, you do not have to search through numerous files to find what you need. It takes just one quick keystroke to access all of your recorded audio files!
@@ -107,17 +115,9 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
  Using the shift right arrow key will take you forward 5 seconds at a time while using the shift left arrow key will take you backward. It is especially helpful when dealing with long blocks of audio since it eliminates the need to scroll around in the timeline bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Jump to the Start of the Recording
 
  It is very useful to have the**Home** key shortcut in Windows Voice Recorder, which allows you to quickly jump to the start of the recording. To use it, just press the**Home** key while playing or recording a clip, and it will jump back to the beginning instantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. Jump to the End of the Recording
 
@@ -142,18 +142,17 @@ thumbnail: https://thmb.techidaily.com/79265524b64a96a355aa9c66ef040a78b4c61cd77
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-the-secrets-of-valorant-video-thumbnail-designs/"><u>[Updated] 2024 Approved Unlocking the Secrets of Valorant Video Thumbnail Designs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-visual-producer-studio/"><u>[Updated] 2024 Approved Visual Producer Studio</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-shorts-video-editor-tools-for-ios-and-android-devices/"><u>[Updated] In 2024, Best YouTube Shorts Video Editor Tools for iOS & Android Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-masterful-multiplatform-apps-for-dynamic-media-collage-for-2024/"><u>[Updated] Masterful Multiplatform Apps for Dynamic Media Collage for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/as-melhores-ferramentas-de-edicao-livre-de-video-top-10-em-2024-guia-completo/"><u>As Melhores Ferramentas De Edição Livre De Vídeo Top 10 Em 2024: Guia Completo</u></a></li>
-<li><a href="https://win-tips.techidaily.com/expert-advice-on-fixing-incorrectly-functioning-printers-at-home-and-office-yl-software-tips-and-tricks/"><u>Expert Advice on Fixing Incorrectly Functioning Printers at Home and Office - YL Software Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-operate-and-access-windows-component-services-console/"><u>How to Operate and Access Windows’ Component Services Console</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-rectify-missing-data-in-the-windows-1011-search-feature/"><u>Methods to Rectify Missing Data in the Windows 10/11 Search Feature</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-pokemon-go-in-tandem-a-guide-to-shared-quests-and-battles/"><u>Navigating the World of 'Pokémon Go' In Tandem: A Guide to Shared Quests and Battles</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-editing-mastering-windows-photo-keys/"><u>Speedy Editing: Mastering Windows Photo Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unjamming-the-amd-195-pipeline-on-windows-systems/"><u>Unjamming the AMD 195 Pipeline on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-network-issues-windows-error-code-0x800704b3/"><u>Unlocking Network Issues: Windows Error Code 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-tactics-for-disguising-language-line-feature/"><u>Windows 11: Tactics for Disguising Language Line Feature</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-integrating-zoom-into-your-daily-schedule/"><u>[New] Integrating Zoom Into Your Daily Schedule</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-leveraging-tiktok-videos-for-twitter-audiences-for-2024/"><u>[New] Leveraging TikTok Videos for Twitter Audiences for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enriched-tv-experience-seamlessly-looping-online-content/"><u>[Updated] In 2024, Enriched TV Experience Seamlessly Looping Online Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-unleashing-creativity-filming-timelapse-videography-on-ipad/"><u>2024 Approved Unleashing Creativity Filming Timelapse Videography on iPad</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-process-how-to-setup-google-maps-on-pc/"><u>A Step-by-Step Process: How to Setup Google Maps on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-windows-lockout-duration-post-failed-logon/"><u>Altering Windows Lockout Duration Post-Failed Logon</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-a-distraction-free-start-with-win-11/"><u>Embrace a Distraction-Free Start with Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y100i-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y100i to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-look-at-the-xiaomi-mi-smart-band-review-why-its-a-standout-budget-fitness-tracker/"><u>In-Depth Look at the Xiaomi Mi Smart Band ^ Review - Why It's a Standout Budget Fitness Tracker</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-skaldic-odyssey-ragnarok-awakens-for-2024/"><u>The Skaldic Odyssey Ragnarök Awakens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-adding-gmaps-in-windows-os/"><u>The Ultimate Guide to Adding GMaps in Windows OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-perfect-streaming-choice-the-latest-from-lifewires-movie-selection/"><u>Your Perfect Streaming Choice: The Latest From Lifewire's Movie Selection</u></a></li>
 </ul></div>
 

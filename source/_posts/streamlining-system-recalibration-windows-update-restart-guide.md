@@ -1,7 +1,7 @@
 ---
 title: "Streamlining System Recalibration: Windows Update Restart Guide"
-date: 2024-09-05T08:26:27.160Z
-updated: 2024-09-06T08:26:27.160Z
+date: 2024-12-16T16:32:42.922Z
+updated: 2024-12-22T16:15:17.638Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Windows Update Fix Guide,Quick Windows Relaunch Tips,Streamline OS Upd
 thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6ae22dbb42da5be064fc57fa.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Streamlining System Recalibration: Windows Update Restart Guide
 
  When addressing errors and issues associated with a system update, you may need to reset the Windows Update components. You can achieve this by running a few commands in the Command Prompt or by creating and executing a batch file.
@@ -33,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Reset the Windows Update Components Manually
 
  The most common method for resetting Windows Update components is through the Command Prompt. Here are the steps you can follow.
@@ -51,12 +37,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -115,12 +100,6 @@ net start cryptsvc`
 
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
  Another way to reset Windows Update components is to [create and run a batch file in Windows](https://www.makeuseof.com/tag/write-simple-batch-bat-file/). Here are the steps to make one:
@@ -184,38 +163,31 @@ net start cryptsvc`
 4. Click the **File** menu at the top, then **Save as**.  
 ![Save a Notepad File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg)
 5. Enter **Reset Windows Components.bat** in the name field and specify your preferred location for saving the file.
+
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Click the **Save as type** drop-down menu to select **All files**, then click on **Save**.
 7. Locate the saved batch file on your PC. Right-click on it and select **Run as administrator** from the context menu.
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
 ![Reset Windows Update Components Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-a-batch-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -223,3 +195,27 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pinnacle-choices-top-30-mac-videograbbers-reviewed/"><u>[New] In 2024, Pinnacle Choices Top 30 Mac Videograbbers Reviewed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-embarking-on-the-av1-coding-journey-for-2024/"><u>[Updated] Embarking on the AV1 Coding Journey for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-razer-camera-evaluation/"><u>[Updated] In-Depth Razer Camera Evaluation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024-solutions-to-fix-voicemod-functionality-problems/"><u>2024 Solutions to Fix Voicemod Functionality Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-cr2-images-to-jpg-format-no-cost-with-movavis-web-tool/"><u>Convert CR2 Images to JPG Format - No Cost with Movavi's Web Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11-a-detailed-look-at-the-registry/"><u>Delving Into Windows 11: A Detailed Look at the Registry</u></a></li>
+<li><a href="https://win11.techidaily.com/disconnecting-onedrive-from-your-windows-microsoft-profile/"><u>Disconnecting OneDrive From Your Windows Microsoft Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-startup-items-vanished/"><u>Fixing Windows Error: Startup Items Vanished</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-language-models-creating-presentations/"><u>Harnessing the Power of Language Models: Creating Presentations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-resolve-fortnite-account-access-problems-step-by-step-guide/"><u>Instantly Resolve Fortnite Account Access Problems - Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-a-quick-checkup-menu-option-to-win1111-systems/"><u>Introducing a Quick Checkup Menu Option to Win11/11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/mac-dvd-duplication-guide-achieving-perfect-bit-by-bit-replicas/"><u>Mac DVD Duplication Guide: Achieving Perfect Bit-by-Bit Replicas</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-reestablishing-access-to-pc-management-in-windows-11/"><u>Mastery Guide: Reestablishing Access to PC Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-browser-experience-chrome-for-windows-11-users/"><u>Optimizing Browser Experience: Chrome for Windows 11 Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-guide-accelerate-your-mobile-internet-with-these-10-essential-speed-boosting-strategies/"><u>Quick Guide: Accelerate Your Mobile Internet with These 10 Essential Speed-Boosting Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-shifting-printers-on-desktop-systems/"><u>Regulating Shifting Printers on Desktop Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/smile-and-shine-enhance-photos-at-zero-cost-for-2024/"><u>Smile & Shine Enhance Photos at Zero Cost for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-swiftly-restoring-failed-operations-in-winos-office/"><u>Steps for Swiftly Restoring Failed Operations in WinOS Office</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-dismissing-winos-hardware-acceleration-scheduling/"><u>Strategies for Dismissing WinOS Hardware Acceleration Scheduling</u></a></li>
+</ul></div>
+

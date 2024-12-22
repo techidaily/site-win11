@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: ITunes Crashes on Windows"
-date: 2024-09-05T08:26:29.574Z
-updated: 2024-09-06T08:26:29.574Z
+date: 2024-12-16T16:51:52.782Z
+updated: 2024-12-22T17:55:11.478Z
 tags:
   - windows10
   - windows11
@@ -21,17 +21,9 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Close All of iTunes' Processes in the Task Manager
 
  Sometimes iTunes freezes when users try to start it because a background process for that software is already running. Ending the iTunes process in Task Manager before selecting to run the software is a potential fix many users confirm works.
@@ -44,12 +36,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 ![The Processes tab in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/processes-tab.jpg)
 4. Look for and disable any other iTunes-related tasks under **Background processes**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Utilize the Windows Store App Troubleshooter
 
  The Windows Store App troubleshooter can fix UWP apps when they’re not working right. So, that tool could be useful for troubleshooting the iTunes MS Store app.
@@ -58,6 +44,14 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
 ![The Windows Store Apps window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-store-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set iTunes to Run With Administrator Rights
 
  Some users have said running iTunes with admin rights can help to fix that app when it’s not working. So, that’s another potential resolution worth trying. To do so, right-click iTunes on your Start menu and select **More** \> **Run as administrator**.
@@ -65,21 +59,13 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 ![run-as-administrator-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also set the iTunes desktop software to always run as an administrator from its file location. Check out this guide about how to [always run programs with admin rights](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) for further instructions.
 
  However, you can’t set the iTunes UWP app to always run with elevated rights because its installation folder is not accessible.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run iTunes in Safe Mode
 
  If you’ve installed the iTunes desktop software, try fixing its startup error by running the app in safe mode. Doing so will launch iTunes with plugins disabled. You can activate safe mode by pressing and holding the **Ctrl** \+ **Shift** keys when you click to launch iTunes. Then click **Continue** on the safe mode dialog box that appears.
@@ -91,11 +77,9 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 Note that this potential resolution doesn’t apply to the iTunes UWP app downloaded from Microsoft Store. Holding the **Ctrl** \+ **Shift** keys when clicking the iTunes UWP app will bring up a Restrictions window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run iTunes in Compatibility Mode
 
  Setting iTunes to run in compatibility mode is a resolution users confirm can fix the “iTunes has stopped working” startup error. However, you can only apply this fix for the iTunes desktop software (version 12.10.11) with an accessible installation folder. These are the steps for running iTunes in compatibility mode:
@@ -107,26 +91,8 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 5. Select the **Windows 7** compatibility setting on the drop-down menu.  
 ![The Compatibility mode setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/compatibility-mode-settings.jpg)
 6. Click on the **Apply** button to set your selected options.
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Select **OK** to leave the iTunes Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Use Windows' Repair Feature to Fix iTunes
 
  Repair options are worth trying when iTunes isn’t working. You can select to repair iTunes via Settings or the Programs and Features Control Panel applet, depending on whether you’re utilizing the UWP app or desktop software.
@@ -141,6 +107,10 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![The Repair and Reset options for iTunes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-and-reset-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Turn Off Any Active Third-Party Security Software
 
  Third-party security apps are those that incorporate antivirus shields and firewalls. Those software packages are the most likely ones to cause issues for launching iTunes primarily due to the security restrictions they can enforce on apps.
@@ -149,12 +119,6 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reinstall iTunes
 
  Reinstalling iTunes is a final troubleshooting method to try if nothing else works. This troubleshooting method will refresh the app’s files and likely resolve installation issues causing iTunes startup errors.
@@ -171,19 +135,11 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
 
  However, users have confirmed uninstalling iTunes and installing an older version of that software can resolve certain issues. To be more specific, the “iTunes cannot run” error message is one such issue users confirm installing older versions fixes. You can install an older version of iTunes by downloading its installation file from the [Apple Support page](https://support.apple.com/downloads/itunes).
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get iTunes Fixed on Your Windows PC
 
  Some users may be tempted to try other alternative multimedia software like PodTrans or doubleTwist when iTunes won’t open. However, the troubleshooting methods above will likely fix most iTunes launch errors that arise on Windows PCs. So, give them a try before ditching iTunes.
 
  When iTunes doesn’t work, it throws up messages like “iTunes has stopped working” or “cannot run” and doesn’t launch. Its startup error messages can vary, but the result is the same with iTunes not opening. Users can’t access and utilize iTunes on Windows 11/10 PCs when that software doesn’t start.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +147,27 @@ Note that this potential resolution doesn’t apply to the iTunes UWP app downlo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-elite-gameplay-in-simulated-fluids-and-flows/"><u>[New] 2024 Approved Elite Gameplay in Simulated Fluids & Flows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ffortless-media-incorporation-youtube-to-slides-for-2024/"><u>[New] Effortless Media Incorporation YouTube to Slides for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-the-veil-of-invisibility-during-instagram-livestreams/"><u>[New] In 2024, Mastering the Veil of Invisibility During Instagram Livestreams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-blueprint-fashioning-timer-functionality-with-video-editors-for-2024/"><u>[Updated] Expert Blueprint Fashioning Timer Functionality with Video Editors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-capitalize-on-youtube-shorts-must-knows-earning-prospects/"><u>[Updated] In 2024, How to Capitalize on Youtube Shorts Must-Knows, Earning Prospects</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-camera-setup-for-aspiring-cinephiles/"><u>[Updated] Journey Camera Setup for Aspiring Cinephiles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cutting-edge-8-streaming-selectors/"><u>2024 Approved Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-windows-1011-camera-errors/"><u>Essential Fixes for Windows 10/11 Camera Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-honor-magic-6-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Honor Magic 6?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-streaming-twitter-videos-on-snapchat-platform/"><u>In 2024, Streaming Twitter Videos on Snapchat Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-windows-11-for-seamless-device-connectivity/"><u>Leveraging Windows 11 for Seamless Device Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/minimize-high-gpu-impact-7-windows-11-wm-tips/"><u>Minimize High GPU Impact: 7 Windows 11 WM Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-avoid-constant-login-interruptions/"><u>Quick Fixes to Avoid Constant Login Interruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11-directory-emptiness-issue-0x80070091/"><u>Resolving Windows 11: Directory Emptiness Issue #0X80070091</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/setting-up-your-windows-11-firewall-a-step-by-step-guide-by-yl-computing/"><u>Setting Up Your Windows 11 Firewall: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-blockage-of-chromium-network-usage/"><u>Tackling Windows' Blockage of Chromium Network Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-made-context-menu-adding-move-and-copy-in-windows-11/"><u>Tailor-Made Context Menu: Adding Move & Copy in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-file-types-effortlessly-with-windows/"><u>Transforming File Types Effortlessly with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-windows-preemptive-ram-use/"><u>Unraveling the Mysteries of Windows’ Preemptive RAM Use</u></a></li>
+</ul></div>
+

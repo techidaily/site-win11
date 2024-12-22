@@ -1,7 +1,7 @@
 ---
 title: Steps for Eliminating Windows Generic Sound Problem
-date: 2024-12-06T19:25:33.208Z
-updated: 2024-12-13T12:31:34.318Z
+date: 2024-12-16T18:03:14.109Z
+updated: 2024-12-22T17:04:25.239Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Background App Processes
 
  Disabling background app processes is the first thing you should try when you see the “Windows can’t stop your generic volume device” error. Even the error message suggests closing programs that could still be using the device.
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![System tray icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/system-tray-programs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Beyond the taskbar and system tray, you’ll need to look for and disable background app processes with Task Manager. Task Manager is a tool that provides a comprehensive overview of app and service background processes.
 
  Our guide on [fixing too many background processes running](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides more detail on how to terminate unneeded background apps and services with Task Manager.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. End and Restart the Windows Explorer Process
 
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Right-click Windows Explorer and select **End task**. Your desktop will go blank, but restarting Explorer will restore it.  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/end-task-option.jpg)
 4. Click Task Manager’s **File** menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select **Run new task** on the menu.
 6. Then input **explorer** in Create new task.  
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
@@ -94,6 +94,11 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Click the **Hardware** tab.  
 ![The Hardware tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-hardware-tab.jpg)
 4. Then press the **Properties** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Change settings** to bring up another window.  
 ![The Change settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-settings-button.jpg)
 6. Select **Policies** in the second window.
@@ -102,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 8. Select **OK** to exit the device properties window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Deselect the Index Drive Setting
@@ -116,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Deselect the **Allow files on this drive to have contents indexed in addition to file properties** option.  
 ![The Allow files on this drive to have contents indexed box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/index-option.jpg)
 4. Select **Apply** and **OK** to set the drive’s new setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
 
@@ -138,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 `offline disk`  
 ![The offline command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/offline-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will need to replace **<drive number>** for the select disk command with the actual number of your USB drive listed by Diskpart. For example, if your USB drive is disk 1, the required command would look like this:
 
 `select disk 1`
@@ -145,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  Setting a drive offline changes its status to missing. You can set the same drive back to an online status by repeating steps one to five above and then executing this command:
 
 `online disk`
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Assign a Different Letter to the USB Drive
 
@@ -159,7 +160,7 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-management-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Safely Eject Your USB Drive
@@ -170,29 +171,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
  Of course, you can still safely remove a USB drive with a PC off. However, many users still prefer to be able to safely eject their connected drives without shutting down their computer. This is how you can fix the “Windows can’t stop your generic volume device” error.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram-for-2024/"><u>[New] Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>[New] The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-soundscapes-in-hd-techniques-for-precision-recording/"><u>[Updated] 2024 Approved Soundscapes in HD Techniques for Precision Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-system-how-to-add-and-protect-your-bios-hyperlink-on-tiktok/"><u>2024 Approved Perfect System How to Add and Protect Your Bio's Hyperlink on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-err0r-code-e1-in-w10w11/"><u>Fixing Err0r: Code E1 in W10/W11</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/how-to-add-effects-on-tiktok/"><u>How to Add Effects on TikTok</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reactivate-an-inactive-itunes-on-your-pc/"><u>How to Reactivate an Inactive iTunes on Your PC</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-sculpting-waterway-content-with-flair/"><u>In 2024, Sculpting Waterway Content with Flair</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-nokia-c32-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Nokia C32 Phone Hassle-Free</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-flexibility-in-your-windows-environment-with-alomware/"><u>Maximize Flexibility in Your Windows Environment with AlomWare</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-resolving-read-only-windows-folder-problems/"><u>Navigating and Resolving Read-Only Windows Folder Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-unidentified-hdd-situations/"><u>Navigating Through Unidentified HDD Situations</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-and-enhance-desktop-usage-by-adding-win-11-widgets/"><u>Personalize and Enhance Desktop Usage by Adding Win 11 Widgets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-non-responsive-media-on-pc-guide/"><u>Solving Non-Responsive Media on PC: Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-rdp-connectivity-issues-in-win10plus/"><u>Solving RDP Connectivity Issues in Win10+</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/1-youtube-seo-techniques-for-video-enhancement/"><u>Top 11 YouTube SEO Techniques for Video Enhancement</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/why-youtubes-viewer-numbers-matter-more-than-you-think-for-2024/"><u>Why YouTube's Viewer Numbers Matter More Than You Think for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/xbox-games-on-windows-avoid-common-setup-pitfalls/"><u>Xbox Games on Windows: Avoid Common Setup Pitfalls</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,3 +178,25 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-fan-favorite-films-reimagined-7-replacements-for-2024/"><u>[New] Fan-Favorite Films Reimagined - #7 Replacements for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-auto-play-youtube-iphoneandroid-no-notification/"><u>[Updated] 2024 Approved Auto-Play YouTube IPhone/Android, No Notification</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-5-tools-for-viewing-insta-stories-unseen/"><u>[Updated] 2024 Approved Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dimming-mystery-device-dilemma/"><u>Dimming Mystery: Device Dilemma</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-steps-to-set-up-and-enjoy-pokemon-unite-on-pc-gaming-platforms/"><u>Easy Steps to Set Up and Enjoy Pokémon Unite on PC Gaming Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/escalate-steam-transfer-rates-avoiding-sudden-slowdowns/"><u>Escalate Steam Transfer Rates: Avoiding Sudden Slowdowns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/foremost-sites-for-digital-type-creation-for-2024/"><u>Foremost Sites for Digital Type Creation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-prioritize-calculator-position-in-windows/"><u>Guidelines to Prioritize Calculator Position in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-mute-issues-while-capturing-powerpoint-presentations/"><u>Overcoming Mute Issues While Capturing PowerPoint Presentations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pro-camera-selection-guide-top-10-films-tools-ranked/"><u>Pro Camera Selection Guide - Top 10 Films Tools Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-missing-audio-saving-options-on-windows-10/"><u>Reinstate Missing Audio Saving Options on Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-network-access-error/"><u>Strategies for Correcting Network Access Error</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unresizable-gif-problems-a-fix-guide-for-discord-on-win11-pcs/"><u>Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-6-retailers-where-youll-find-the-perfect-laptop/"><u>Top 6 Retailers Where You'll Find the Perfect Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/what-defines-an-exe-from-a-standard-msi-software-package/"><u>What Defines an EXE From a Standard Msi Software Package?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-strategies-to-correct-active-directory-print-problems/"><u>Windows 11: Strategies to Correct Active Directory Print Problems</u></a></li>
+</ul></div>
+

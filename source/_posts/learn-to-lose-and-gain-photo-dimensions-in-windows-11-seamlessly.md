@@ -1,7 +1,7 @@
 ---
 title: Learn to Lose and Gain Photo Dimensions in Windows 11 Seamlessly
-date: 2024-12-09T02:44:39.756Z
-updated: 2024-12-13T08:45:38.109Z
+date: 2024-12-16T17:23:19.607Z
+updated: 2024-12-22T17:53:00.145Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Resize Images With Photos
 
  Photos is primarily a default image viewer app that comes with Windows 11, but it does include some basic editing options. You can use that app to resize your images in pixels and percentage terms. These are the steps for resizing pictures with Photos:
@@ -41,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 5. Select the**Resize image** option.  
 ![The Resize image option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-resize-image-option.jpg)
 6. Select the**Pixels** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then input different pixel values in the**Width** and**Height** boxes. If you only modify one value, the other one will be automatically proportionally changed to retain the same aspect ratio.  
 ![Image resize options in Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/resize-image-options.jpg)
 8. Click**Save** to apply the resize.
@@ -48,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
  Users who select the alternative**Percentage** option need to enter percentage values in the**Width** and**Height** boxes. Entering values like 80 and 90 will reduce the size of the image by 20 and 10 percent. Inputting higher numbers like 110 and 120 will increase the image’s size by 10 and 20 percent. Thus, the percentage size change amounts to how much the values are above or below 100.
 
  The**Resize** box in Photos also includes a**Quality** bar setting. However, you can only use that setting for JPG output. Select the .**jpg** option in the**File extensio** n drop-down menu. Then drag the bar’s slider left or right to set the picture quality in the resized image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Resize Images With Paint
 
@@ -58,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
  The resize image options in Paint
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Resize Images With Paint 3D
@@ -76,19 +81,25 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 2. Then click**Open** and**Browse** **files** .  
 ![The Browse files button in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-files-button.jpg)
 3. Select an image to resize, and click the**Open** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**View more** options (three-dot) menu button.
 5. Select**Canvas options** to access options for resizing the image’s dimensions.  
 ![The resize image options in Paint 3D](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-s-canvas-options.jpg)
 6. Click the**Resize image** with canvas checkbox to select that option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now left-click a corner of the image, hold the mouse button, and drag the mouse cursor left/right to reduce or expand the picture. The values in the**Height** and**Width** boxes change as you drag the mouse.
 8. When you’re done resizing, click the**Menu** button.
 9. Select the**Save** option. Or you can select**Save as** if you prefer not to overwrite the original file.
 
  You can also enter different values in the**Width** and**Height** boxes to resize the image. Select**Pixels** or**Percentage** on the drop-down menu to change the value type. Deselect the**Lock aspect ratio** option if you don’t want to retain the image’s proportions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. How to Resize Images With Edge
 
@@ -104,19 +115,16 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
-9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
  Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
@@ -142,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
  FastStone Photo Resizer also includes additional**In Percentage** ,**In Print Size** , and**Resize based on one side** options for resizing. You can select quarter, half, double, or triple options on the percentage preset drop-down menu. The**In Print Size** option enables you to resize images in centimeters and inches for printing purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Make Your Images Fit Better by Resizing Them in Windows 11
 
  So, there are various ways you can resize photographs and pictures with different Windows 11 apps. The pre-installed Photos and Paint apps are sufficient for resizing images in pixels and percentages. However, you can resize images with your mouse in Paint 3D. FastStone Photo Resizer is an especially useful app for users who need to resize single or multiple images for printing. Or check out CoolTweak to resize your photos from the context menu.
@@ -165,20 +169,22 @@ thumbnail: https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-interpreting-single-photos-as-video-chronicles/"><u>[New] In 2024, Interpreting Single Photos as Video Chronicles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-nintendos-best-hd-recorders-for-enthusiasts/"><u>[Updated] 2024 Approved Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
-<li><a href="https://win-community.techidaily.com/boost-your-playlists-in-delaware-and-beyond-new-party-tyme-collection-awaits-you-in-dex-3-and-lyrx-ready-to-amplify-every-celebration/"><u>Boost Your Playlists in Delaware and Beyond - New Party Tyme Collection Awaits You in DEX 3 and LYRX, Ready to Amplify Every Celebration!</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-success-setting-up-and-using-outlook-preview/"><u>Guide to Success: Setting Up and Using Outlook Preview</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-xcover-7-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy XCover 7 FRP Bypass Instantly</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-c53-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Realme C53 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-the-cheapest-cloud-storage-service-for-mass-file/"><u>In 2024, The Cheapest Cloud Storage Service for Mass File</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-file-explorer-strategies-for-windows-11/"><u>Reviving File Explorer: Strategies for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-systems-a-detailed-look-at-13-recovery-steps/"><u>Reviving Systems: A Detailed Look at 13 Recovery Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-attempt-connection-failure-on-windows-devices/"><u>Stop Attempt Connection Failure on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-imaginary-hardware-name-error-in-windows-11/"><u>Tackling Imaginary Hardware Name Error in Windows 11</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-20-vuejs-examples-using-apis-showcase-by-creative-tim/"><u>Top 20 Vue.js Examples Using APIs - Showcase by Creative Tim</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-creativity-with-these-windows-11-customizations/"><u>Unleash Creativity with These Windows 11 Customizations</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-cure-hidden-second-screen/"><u>Windows 11: Cure Hidden Second Screen</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>[New] Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-compreayers-guide-to-monetizing-videos-critical-view-figures/"><u>[New] In 2024, A Compreayer's Guide to Monetizing Videos Critical View Figures</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-secure-swift-airdrop-connections-on-all-apple-devices-fix-guide/"><u>[Updated] Secure Swift Airdrop Connections on All Apple Devices - Fix Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-by-wmi-service/"><u>Addressing High Cpu Usage by WMI Service</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-error-0x0000004e-on-windows-11-systems/"><u>Conquering Error 0X0000004E on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/debating-choco-and-wslm-top-pick-for-windows-software/"><u>Debating Choco and WSLM: Top Pick for Windows Software</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-and-solutions-how-to-overcome-battlefield-4s-launch-issues-on-pc/"><u>Fixes and Solutions: How to Overcome Battlefield 4'S Launch Issues on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-onedrive-files-offline-on-a-windows-pc/"><u>How to Access OneDrive Files Offline on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-0x800713f-error-on-the-windows-mail-service/"><u>How to Repair 0X800713f Error on the Windows Mail Service</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-x887a0006-dxgi-error-in-windows-11/"><u>Quick Fixes for X887A0006: DXGI Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-trouble-with-updates-code-0x80246007/"><u>Tackling the Trouble with Update's Code 0X80246007</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-to-remove-resistant-folders-permanently-from-windows-11-computers/"><u>The Ultimate Tutorial to Remove Resistant Folders Permanently From Windows 11 Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-review-for-the-sumind-bt7-fm-transmitter-the-perfect-bluetooth-adapter-for-on-the-go-listeners/"><u>Top Rated Review for the Sumind BT7# FM Transmitter - The Perfect Bluetooth Adapter for On-The-Go Listeners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-best-of-the-best-10-webcam-recording-programs-for-windows-10/"><u>Updated 2024 Approved Best of the Best 10 Webcam Recording Programs for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-understanding-and-turning-off-system-lockdown/"><u>Windows 11: Understanding & Turning Off System Lockdown</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top Methods When Windows Security Is Off-Limits
-date: 2024-12-10T06:37:14.243Z
-updated: 2024-12-13T01:36:12.466Z
+date: 2024-12-15T16:17:41.543Z
+updated: 2024-12-22T16:08:45.259Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Firewall Troubleshooter
 
  If you are having trouble enabling Firewall in Windows, it is a good idea to start troubleshooting using the official Firewall troubleshooter released by Microsoft Automated Troubleshooting Services.
@@ -37,12 +41,12 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 ![Download firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-troubleshooter.jpg)
 2. Click on the downloaded file and proceed with the on-screen instructions to start the scan.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/firewall-troubleshooter.jpg)
 3. Once the scan completes, check the results and apply the solutions suggested by the troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now close the troubleshooter and check if the issue is resolved.
 
@@ -54,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
- After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After disabling the antivirus, try enabling the Windows Firewall and check if it functions properly now.
 
 ## 3\. Reset the Windows Firewall settings
 
@@ -74,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 5. Head over to the left pane and choose **Restore defaults**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
@@ -115,14 +119,10 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click **Apply** to save the changes and check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Additional Generic Fixes to Try
 
@@ -138,27 +138,6 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
 
  Below, we explore the different solutions you can try to fix this issue for good.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-5-best-dvd-creators-on-mac-os/"><u>[New] 5 Best DVD Creators on Mac OS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-fearless-filming-mastering-your-first-10-clips/"><u>[Updated] Fearless Filming Mastering Your First 10 Clips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-navigating-through-the-10-leading-countdown-clock-apps-for-your-big-day-androidios/"><u>[Updated] Navigating Through the 10 Leading Countdown Clock Apps for Your Big Day (Android/iOS)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-box-it-up-right-10-online-haunts-for-tailored-gift-boxes/"><u>2024 Approved Box It Up Right 10 Online Haunts for Tailored Gift Boxes</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-guide-to-troubleshoot-function-keys-in-win-11/"><u>Fix: Guide to Troubleshoot Function Keys in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-windows-11-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 11 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-podcast-prominence-with-advanced-seo-techniques/"><u>In 2024, Unlock Podcast Prominence with Advanced SEO Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/innovation-at-your-fingertips-windows-erase-feature/"><u>Innovation at Your Fingertips: Window's Erase Feature</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximize-content-experience-why-you-should-join-netflix/"><u>Maximize Content Experience: Why You Should Join Netflix</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-productivity-configuring-multimonitors-in-win11/"><u>Maximize Productivity: Configuring Multimonitors in Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-methods-for-viewing-nba-games-online/"><u>Optimal Methods for Viewing NBA Games Online</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unauthorized-save-errors-in-windows/"><u>Overcoming Unauthorized Save Errors in Windows</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/perfecting-your-mobile-video-recordings-on-snapchat-for-2024/"><u>Perfecting Your Mobile Video Recordings on Snapchat for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-windows-ram-cache-cleanse-procedures/"><u>Step-by-Step: Windows RAM Cache Cleanse Procedures</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamlined-editing-best-apps-compatible-with-macos-big-sur-for-2024/"><u>Streamlined Editing Best Apps Compatible with macOS Big Sur for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-storage-windows-1011-automatic-file-deletion/"><u>Streamlining Storage: Windows 10/11 Automatic File Deletion</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-gateway-command-windows-11s-appsunlocked/"><u>Unlock the Gateway: Command Windows 11'S AppsUnlocked</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -166,3 +145,22 @@ thumbnail: https://thmb.techidaily.com/4718cfe78df90fc96fd0823cd6a47f148478c5d53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[New] 2024 Approved Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-live-streaming-selection-guide/"><u>[Updated] 2024 Approved Ultimate Live Streaming Selection Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastery-of-image-warping-made-simple-for-2024/"><u>[Updated] Mastery of Image Warping Made Simple for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-streamlined-approach-to-using-azures-transcription-technology/"><u>A Streamlined Approach to Using Azure's Transcription Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-toshiba-dynabook-driver-software-on-windows/"><u>Download & Update Toshiba Dynabook Driver Software on Windows</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/enhanced-performance-via-cookiebot-integration/"><u>Enhanced Performance via Cookiebot Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-run-the-sfc-tool-successfully/"><u>Essential Tips to Run the SFC Tool Successfully</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-safe-communication-connect-via-duckduckgos-ai-chat-for-encrypted-exchanges-with-chats-like-gpt-and-others/"><u>Experience Safe Communication - Connect via DuckDuckGo's AI Chat for Encrypted Exchanges With Chats Like GPT and Others</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-update-problem-with-error-0xca00a009/"><u>Mitigating Update Problem with Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-updater-code-0x8019-issue-on-xp/"><u>Removing Updater Code 0X8019 Issue on XP</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-stalled-email-notifications-in-windows-environment/"><u>Reviving Stalled Email Notifications in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-experience-7-fixes-for-broken-apps/"><u>Seamless Windows Experience: 7 Fixes for Broken Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-boot-on-windows-sound-service-reboot-needs/"><u>Troubleshooting Boot-On Windows Sound Service Reboot Needs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-magic-of-apple-vision-pro-a-riveting-experience-with-my-beloved-tv-series-insights-from-zdnet/"><u>Unveiling the Magic of Apple Vision Pro: A Riveting Experience with My Beloved TV Series - Insights From ZDNet</u></a></li>
+</ul></div>
+

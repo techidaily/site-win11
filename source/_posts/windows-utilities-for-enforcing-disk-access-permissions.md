@@ -1,7 +1,7 @@
 ---
 title: Windows Utilities for Enforcing Disk Access Permissions
-date: 2024-12-11T16:00:10.747Z
-updated: 2024-12-13T03:45:21.255Z
+date: 2024-12-19T16:04:01.837Z
+updated: 2024-12-22T18:00:35.622Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Any Removable Storage Devices
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using the Local Group Policy Editor
 
@@ -52,18 +48,26 @@ thumbnail: https://thmb.techidaily.com/abb5b783422357ac326d246e72e8c7f9c8f3c9e30
 
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
@@ -86,10 +90,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, follow these steps:
 
 1. Double-click on the **DenyRemovableDevices** value.
@@ -97,7 +97,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 3. Close the Registry Editor and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Specific Removable Storage Devices
@@ -119,19 +119,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-sound-seekers-free-beats-detection-tools-for-2024/"><u>[New] Sound Seekers Free Beats Detection Tools for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-lifesaver-for-free-video-editors/"><u>[Updated] 2024 Approved Vimeo's Lifesaver for Free Video Editors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-networking-of-photos-from-iphone-to-snapchat-for-2024/"><u>[Updated] Navigating the Networking of Photos From iPhone to Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pair-off-in-perfection-7-stunning-wedding-films-from-youtube-plus-vimeo-for-2024/"><u>[Updated] Pair Off in Perfection 7 Stunning Wedding Films From Youtube + Vimeo for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-understanding-av1-your-initial-compre-point/"><u>2024 Approved Understanding AV1 Your Initial Compre Point</u></a></li>
-<li><a href="https://win11.techidaily.com/evaluating-the-disparity-between-remote-windows-upgrades-and-purchases/"><u>Evaluating the Disparity Between Remote Windows Upgrades & Purchases</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-watchlist-with-easy-remote-access-setup-for-samsung-smart-tvs/"><u>Expand Your Watchlist with Easy Remote Access Setup for Samsung Smart TVs</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-repairing-windows-based-pen-tablets/"><u>Guide: Repairing Windows-Based Pen Tablets</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/master-your-pc-upgrades-tips-and-tricks-from-the-experts-at-toms-hardware/"><u>Master Your PC Upgrades: Tips & Tricks From the Experts at Tom's Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-taskbar-size-tweaks/"><u>Mastering Windows 11 Taskbar Size Tweaks</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-rectify-semaphore-timeout-period-ended-in-windows-1011/"><u>Steps to Rectify 'Semaphore Timeout Period Ended' In Windows 10/11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-value-metas-latest-offer-on-the-512gb-quest-3-top-virtual-reality-bargain-at-moment/"><u>Unbeatable Value: Meta's Latest Offer on the 512GB Quest 3 - Top Virtual Reality Bargain at Moment</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-textual-form-from-vocal-input-in-windows-via-whisper/"><u>Unlock Textual Form From Vocal Input in Windows via Whisper</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-harmony-hub-next-gen-unveiled/"><u>[New] 2024 Approved Harmony Hub Next Gen Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-spark-dialogue-with-personalized-and-creative-story-inquiries-for-2024/"><u>[New] Spark Dialogue with Personalized and Creative Story Inquiries for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-straightforward-guide-for-instagram-chat-beginners-for-2024/"><u>[New] The Straightforward Guide for Instagram Chat Beginners for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-discover-your-new-favorites-with-our-best-offline-ios-games-list/"><u>[Updated] 2024 Approved Discover Your New Favorites with Our Best Offline iOS Games List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-boost-your-movie-magic-free-text-animation-basics/"><u>[Updated] In 2024, Boost Your Movie Magic Free Text Animation Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-faulty-windows-update-error/"><u>Correcting Faulty Windows Update Error</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-macx-dvd-ripper-effortless-mac-os-x-software-to-transform-dvds-into-high-quality-flv-files/"><u>Download the Ultimate MacX DVD Ripper: Effortless Mac OS X Software to Transform DVDs Into High-Quality FLV Files</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-system-failures-code-0xc0000001/"><u>Eradicating System Failures: Code 0xC0000001</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-win-10s-internet-safety-mechanism/"><u>How to Set Win 10’S Internet Safety Mechanism</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/level-up-your-console-setup-expert-analysis-on-the-ideal-apg-uninterruptible-power-supply-for-gamers/"><u>Level Up Your Console Setup: Expert Analysis on the Ideal APG Uninterruptible Power Supply for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/mellowing-down-post-high-life-hectic-windows-routine/"><u>Mellowing Down Post-High Life Hectic Windows Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-lost-flight-buddy-copilot-in-windows-11/"><u>Reclaiming Lost Flight Buddy (Copilot) in Windows 11</u></a></li>
+<li><a href="https://discover-help.techidaily.com/step-by-step-guide-restoring-your-pc-with-a-fresh-windows-os-installation-tips-from-yl-software/"><u>Step-by-Step Guide: Restoring Your PC with a Fresh Windows OS Installation - Tips From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5plus-windows-1011-productivity-boosters-for-maximum-output/"><u>Top 5+ Windows 10/11 Productivity Boosters for Maximum Output</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-special-traits-of-ai-machines/"><u>Understanding the Special Traits of AI Machines</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-shorts-thumbnail-dilemnas-and-quick-fixes/"><u>YouTube's Shorts Thumbnail Dilemnas & Quick Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep Your Tasks at the Forefront: Top Notifications Techniques"
-date: 2024-12-06T00:56:41.637Z
-updated: 2024-12-12T19:06:55.858Z
+date: 2024-12-20T16:00:31.130Z
+updated: 2024-12-22T16:50:04.005Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/190bc8b4a2b2c75fb28f94e31b443bd5a1a2add3f
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -77,12 +77,13 @@ To pin Sticky Notes using DeskPins:
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
@@ -90,7 +91,7 @@ To pin Sticky Notes using DeskPins:
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -112,19 +113,18 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-compreenhensive-guide-to-selecting-and-cultivating-valheim-seeds/"><u>[New] 2024 Approved Compreenhensive Guide to Selecting & Cultivating Valheim Seeds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-iphone-7-screen-save-made-simple/"><u>[Updated] IPhone 7 Screen Save Made Simple</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-reducing-loudness-gradually-techniques-for-logic-pro-users-for-2024/"><u>[Updated] Reducing Loudness Gradually Techniques for Logic Pro Users for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>2024 Approved Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/effective-techniques-for-creating-stunning-time-lapse-videos-capturing-every-detail-efficiently/"><u>Effective Techniques for Creating Stunning Time-Lapse Videos: Capturing Every Detail Efficiently</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-successful-utorrent-installation-after-failure-on-windows/"><u>Ensuring Successful uTorrent Installation After Failure on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-picart-a-guide-to-clear-backgrounds/"><u>Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
-<li><a href="https://win11.techidaily.com/modify-image-positioning-on-windows-pcs/"><u>Modify Image Positioning on Windows PCs</u></a></li>
-<li><a href="https://win-docs.techidaily.com/seamless-automated-client-communication-with-atomic-autoresponders-leveraging-massmails-innovative-solutions/"><u>Seamless Automated Client Communication with Atomic Autoresponders: Leveraging MassMail's Innovative Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-directdraw-errors-in-w10w11/"><u>Troubleshooting DirectDraw Errors in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-msresourceapptext-error-in-win11/"><u>Troubleshooting MsResource/AppText Error in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/winos-protocols-to-prevent-unwanted-shrinkage/"><u>WinOS Protocols to Prevent Unwanted Shrinkage</u></a></li>
-<li><a href="https://win11.techidaily.com/wintoys-explained-your-intuitive-guide-to-windows-mastery/"><u>WinToys Explained: Your Intuitive Guide to Windows Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discover-the-top-8-android-platforms-for-large-gatherings/"><u>[New] Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-simple-steps-unlocking-your-pcs-clownfish-talk-switcher-for-2024/"><u>[New] Simple Steps Unlocking Your PC's Clownfish Talk Switcher for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/best-lighter-browsing-options-tested-for-memory-conservation/"><u>Best Lighter Browsing Options Tested For Memory Conservation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-my-financial-security-at-risk-can-ai-like-chatgpt-be-used-by-hackers/"><u>Is My Financial Security at Risk: Can AI Like ChatGPT Be Used by Hackers?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-isdonedll-isarcextract-failures/"><u>Overcoming Common ISDone.dll (ISArcExtract) Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-systemsettings-crashes-in-windows-11/"><u>Overcoming SystemSettings Crashes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-system-sounds-in-windows-11-by-activating-mixer-feature/"><u>Perfect System Sounds in Windows 11 by Activating Mixer Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-window-11-dual-screen-usage/"><u>Perfecting Window 11 Dual Screen Usage</u></a></li>
+<li><a href="https://win-webster.techidaily.com/reorganizing-images-sequence-with-flipbuilder-a-comprehensive-guide/"><u>Reorganizing Images Sequence with FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-benefits-of-windows-11-overtaking-macos/"><u>Top Benefits of Windows 11 Overtaking macOS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-revolutionize-your-videos-best-quality-improvement-tools/"><u>Updated 2024 Approved Revolutionize Your Videos Best Quality Improvement Tools</u></a></li>
 </ul></div>
 

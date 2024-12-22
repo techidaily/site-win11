@@ -1,7 +1,7 @@
 ---
 title: "Script to System: Making Your .bat Into an EXE"
-date: 2024-12-06T02:14:30.582Z
-updated: 2024-12-13T05:00:44.434Z
+date: 2024-12-19T17:25:56.821Z
+updated: 2024-12-22T18:00:27.876Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9828bf793f93780e9596bdf90064698c2faf8ab44
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Convert Your Batch Files Into an EXE File
@@ -45,10 +45,6 @@ To launch the IExpress app, follow the steps below:
 ![iexpress wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/iexpress-wizard.JPG)
 4. Enter a name for the**Package** **title** and hit**Next** again.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
 5. Select**No prompt** and hit**Next** .
 6. Select**Do not display** **a license** and click on**Next** .
@@ -58,22 +54,22 @@ cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
 
  Stick with the default option in the**Show window** and**Finished message** menu, and click**Next** . Now, in the**Package Name and Options** menu, select**Browse** to pick a target path, name the file anything you’d like, and click on**Next** . In the following few pages, click on**Next** without changing anything.
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Convert Batch Files to EXE With a Converter
@@ -89,10 +85,14 @@ cmd /c Calculator.bat
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Converting Batch Files to EXEs on Windows
@@ -114,20 +114,18 @@ cmd /c Calculator.bat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-5-mac-mkv-players-ranked/"><u>[Updated] 2024 Approved Top 5 Mac MKV Players Ranked</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-naming-rules-and-guidelines-how-to-ensure-originality-in-streaming/"><u>[Updated] Naming Rules and Guidelines How to Ensure Originality in Streaming</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-complete-guide-to-voiced-ppt-mastery/"><u>[Updated] The Complete Guide to Voiced PPT Mastery</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/broadcom-wireless-driver-download/"><u>Broadcom Wireless Driver Download</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-installing-huion-tablet-software-on-your-pc/"><u>Easy Guide: Installing Huion Tablet Software on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/explaining-and-correcting-essential-required-complications-in-w10w11/"><u>Explaining & Correcting Essential Required Complications in W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-vmm-selection-to-maximize-windows-11-capabilities/"><u>Ideal VMM Selection to Maximize Windows 11 Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-xbox-mic-fixes-within-windows-11-environment/"><u>Implementing Xbox Mic Fixes Within Windows 11 Environment</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G24 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-spark-20-proplus-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Spark 20 Pro+ Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/rehabilitate-your-systems-windows-control-center/"><u>Rehabilitate Your System's Windows Control Center</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-the-past-integrating-awards-in-vintage-titles-through-retroarch/"><u>Reviving the Past: Integrating Awards in Vintage Titles Through Retroarch</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/rhythm-and-pixels-recording-in-a-mac-studio-for-2024/"><u>Rhythm and Pixels Recording in a Mac Studio for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-the-future-swapping-aged-window-drivers/"><u>Transitioning to the Future: Swapping Aged Window Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-connection-overcoming-ea-service-errors/"><u>Winning Back Connection: Overcoming EA Service Errors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-gamers-paradise-leading-5-hdmi-21-monitors-for-ps5/"><u>[Updated] In 2024, Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/a-comparative-review-of-filmmaking-apps-filmora-and-democracy-creator/"><u>A Comparative Review of Filmmaking Apps Filmora & Democracy Creator</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-issue-code-0x80071a90/"><u>Decoding Windows Issue: Code 0X80071a90</u></a></li>
+<li><a href="https://win11.techidaily.com/file-compression-excellence-utilizing-cli-commands-in-windows/"><u>File Compression Excellence: Utilizing CLI Commands in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-paste-issues-across-popular-browsers/"><u>How to Rectify Paste Issues Across Popular Browsers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-mix-fold-3-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Mix Fold 3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-splice-video-editor-on-mac-download-guide-and-best-alternative/"><u>New 2024 Approved Splice Video Editor on Mac Download Guide and Best Alternative</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-10-best-free-video-hosting-services-for-personal-and-professional-use/"><u>New In 2024, 10 Best Free Video Hosting Services for Personal and Professional Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sarah-silverman-leads-fight-over-creative-control-vs-tech-companies/"><u>Sarah Silverman Leads Fight Over Creative Control Vs. Tech Companies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/screen-size-snafus-in-windows-how-to-correct-them/"><u>Screen Size Snafus in Windows: How to Correct Them</u></a></li>
+<li><a href="https://win11.techidaily.com/top-desk-features-add-your-favorite-apps-to-the-taskbar/"><u>Top Desk Features: Add Your Favorite Apps to the Taskbar</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unlocking-creativity-producing-original-and-entertaining-reels-on-facebook/"><u>Unlocking Creativity Producing Original and Entertaining Reels on Facebook</u></a></li>
 </ul></div>
 

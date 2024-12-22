@@ -1,7 +1,7 @@
 ---
 title: How to Stop Chrome Warnings on Windows 10
-date: 2024-12-11T01:30:27.189Z
-updated: 2024-12-13T07:41:33.706Z
+date: 2024-12-21T17:37:34.685Z
+updated: 2024-12-22T17:49:05.572Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Google Chrome Notifications From Windows Settings
@@ -43,6 +43,14 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 ![Customize Google Chrome Notifications on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Customize-Google-Chrome-Notifications-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off Notifications in Google Chrome
 
  You can also enable or disable Google Chrome notifications from its settings menu. Here are the steps for the same.
@@ -56,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 ![Disable Google Chrome Notifications From Browser Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-From-Browser-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn Off Notifications for Specific Sites in Google Chrome
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
  Not all notifications are useless. If you don't wish to disable Google Chrome notifications entirely, you can disable them for specific websites. To do so, open Google Chrome and navigate to the website for which you want to disable notifications. Click the**padlock icon** on the left of the website URL at the top. Then, toggle off the switch next to**Notifications** .
 
 ![Disable Google Chrome Notifications for a Specific Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Site.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The method outlined above is ideal if you only want to disable notifications for one or two websites. However, if you want to turn off Chrome notifications for several websites, you can visit the notifications section in Chrome settings. Here are the steps you need to follow.
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 5. Enter the URL of the website for which you want to turn off notifications and click on**Add** .  
 ![Disable Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you complete the above steps, the website will appear under the**Not allowed to send notifications** section.
 
  If you've previously enabled notifications for any sites, you’ll find them under the**Allowed to send notifications** section. To disable notifications for those websites, click the**three-dot menu icon** next to the website URL and select**Block** .
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 ![Block Google Chrome Notifications for a Specific Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Block-Google-Chrome-Notifications-for-a-Specific-Website.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disabling Google Chrome Notifications on Windows
@@ -113,20 +113,24 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-efficiently-transmit-via-obs-on-fb-live-for-2024/"><u>[Updated] Efficiently Transmit via OBS on FB Live for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-get-your-tweets-right-comply-with-aspect-ratio-standards/"><u>[Updated] In 2024, Get Your Tweets Right Comply with Aspect Ratio Standards</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-professional-tips-for-enhancing-your-youtube-videos-with-captions/"><u>[Updated] In 2024, Professional Tips for Enhancing Your YouTube Videos with Captions</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/1-iphone-xs-and-x-comparative-review-with-enhanced-scanning-features-on-the-abbeyy-blog/"><u>1. IPhone Xs & X: Comparative Review with Enhanced Scanning Features on the ABBEYY Blog</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-prime-mp4-fb-file-enhancer/"><u>2024 Approved Prime MP4-FB File Enhancer</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-for-a-dead-windows-11-wi-fi-hotspot/"><u>Essential Fixes for a Dead Windows 11 Wi-Fi Hotspot</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-overturn-custom-power-plans-in-windows/"><u>Guide: Overturn Custom Power Plans in WIndows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-adjust-windows-battery-usage-backwards/"><u>How To Adjust Window's Battery Usage Backwards</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-securitys-unexpected-error-in-windows-10-and-11/"><u>How to Fix Windows Security’s “Unexpected Error” In Windows 10 & 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/peer-to-peer-pro-winning-torrent-apps-for-your-pc/"><u>Peer-to-Peer Pro: Winning Torrent Apps for Your PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-start-guide-downloading-the-latest-samsung-adb-driver-software/"><u>Quick-Start Guide: Downloading the Latest Samsung ADB Driver Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-excel-2019-files-from-virus-infected-pen-drives-for-free-stellar-by-stellar-guide/"><u>Recover Excel 2019 Files from Virus-Infected Pen Drives for Free | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-off-switched-network-notifications-windows/"><u>Resolving Off Switched Network Notifications Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-to-evade-gpts-input-caps/"><u>Strategies to Evade GPT's Input Caps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-achieving-harmony-selecting-ideal-aspect-ratios-for-2024/"><u>[New] Achieving Harmony Selecting Ideal Aspect Ratios for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ace-list-of-low-cost-youtube-caption-tools/"><u>[Updated] 2024 Approved Ace List of Low-Cost YouTube Caption Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-podcasting-made-simple-easy-steps-to-capture-live-streams-for-2024/"><u>[Updated] Podcasting Made Simple Easy Steps to Capture Live Streams for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smooth-soundscape-fading-techniques-with-lumafusion/"><u>2024 Approved Smooth Soundscape Fading Techniques with Lumafusion</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-home-the-fun-smartphone-games-to-desktop-with-win-11-and-google-play/"><u>Bring Home the Fun: Smartphone Games to Desktop with Win 11 & Google Play</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-the-barriers-to-switching-out-of-s-mode/"><u>Dismantling the Barriers to Switching Out of S Mode</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/elegant-dark-blue-geometric-designs-high-quality-images-and-wallpapers-by-yl-computing/"><u>Elegant Dark Blue Geometric Designs: High-Quality Images & Wallpapers by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/end-session-of-unknown-windows-users-effectively/"><u>End Session of Unknown Windows Users Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-yuzu-gameplay-on-windows/"><u>Fast-Tracking Yuzu Gameplay on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-enable-widgets-on-windows-11-system/"><u>Harness the Power: Enable Widgets on Windows 11 System</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-pc-graphics-fix-in-windows-1011/"><u>Mastering PC Graphics Fix in Windows 10/11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-standard-studio-or-beta-progress/"><u>Mastering YouTube Standard Studio or Beta Progress</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-visual-impact-with-auto-color-settings-in-windows-11/"><u>Maximize Visual Impact with Auto Color Settings in Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715859976081-quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-complete-sen/"><u>Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters. For 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-memory-shortage-error-in-windows-based-vms/"><u>Solutions for 'Memory Shortage' Error in Windows-Based VMs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategizing-domain-users-biometric-use-on-w11/"><u>Strategizing Domain Users' Biometric Use on W11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-techniques-for-clear-audio-playback-via-bluetooth-in-windows-1011/"><u>Troubleshooting Techniques for Clear Audio Playback via Bluetooth in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unleash-the-power-of-stories-free-online-and-mobile-solutions/"><u>Unleash the Power of Stories – Free, Online & Mobile Solutions</u></a></li>
 </ul></div>
 

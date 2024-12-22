@@ -1,7 +1,7 @@
 ---
 title: The Comprehensive CLI Guide to Zipping & Decompressing Files
-date: 2024-12-08T19:07:57.762Z
-updated: 2024-12-13T08:12:35.641Z
+date: 2024-12-19T18:03:17.799Z
+updated: 2024-12-22T16:01:25.516Z
 tags:
   - windows10
   - windows11
@@ -39,25 +39,17 @@ Here's how to zip files using Command Prompt:
 4. Type**dir** and press**Enter** . It'll show the files inside the selected folder.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Dir command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dir.jpg)
 5. To zip all the files inside the selected folder, type the following command and press**Enter** . Replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored. Also, replace '**FileExt** ' with the extension of the file you're zipping.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `tar -a -c -f Compressed.zip *.FileExt`  
 ![Tar command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tar.jpg)
 6. To zip a single file, execute the following command. Again, replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored, '**FileExt** ' with your file's extension, and '**FileName** ' with the name of the file you want to zip.  
 `tar -a -c -f Compressed.zip FileName.FileExt`  
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Zip Files Using Windows PowerShell
 
@@ -70,10 +62,6 @@ Here's how to zip files using Windows PowerShell:
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
 
 `Compress-Archive -LiteralPath 'file destination\file name', 'file destination 1\file name 2 -DestinationPath 'target location\destination name'  
@@ -82,7 +70,7 @@ Here's how to zip files using Windows PowerShell:
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -95,7 +83,15 @@ Here's how to zip files using Windows PowerShell:
 `tar -xf Name.zip`  
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You've successfully unzipped the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unzip Files Using Windows PowerShell
 
@@ -105,6 +101,10 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Save Up Space on Windows 11 by Zipping Your Files
 
@@ -127,19 +127,20 @@ You've successfully unzipped the file.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-story-viewers-uncharted-territory-explored/"><u>[New] 2024 Approved Instagram Story Viewers Uncharted Territory Explored</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-exploring-high-resolution-with-lgs-digital-cinema-31mu97-b/"><u>[New] In 2024, Exploring High-Resolution with LG's Digital Cinema 31MU97-B</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-30-marketing-moments-that-can-transform-your-fb-game/"><u>[Updated] The 30 Marketing Moments That Can Transform Your FB Game</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/experience-virtual-reality-like-never-before-with-metas-premium-quest-ebody-in-512gb-the-unrivaled-deal-of-the-moment-nextgenvr-review/"><u>Experience Virtual Reality Like Never Before with Meta’s Premium Quest Ebody in 512GB – The Unrivaled Deal of the Moment | NextGenVR Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maplestory-and-windows-nt-troubleshooting-guide-to-stop-freezing/"><u>MapleStory and Windows nT- Troubleshooting Guide to Stop Freezing</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-rectifying-non-operational-tab-keys/"><u>Methods for Rectifying Non-Operational Tab Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-speaker-function-in-non-responsive-os/"><u>Reactivate Speaker Function in Non-Responsive OS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/web-of-classics-best-backdrops-for-your-lap/"><u>Web of Classics Best Backdrops for Your Lap</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-audio-device-issue-resolved-usb-headset/"><u>Win10 Audio Device Issue: Resolved USB Headset</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-biggest-upgrades-from-february-2023/"><u>Win11's Biggest Upgrades From February 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-second-monitor-not-detected-5-fixes/"><u>Windows 11 Second Monitor Not Detected: 5 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/workaround-for-windows-systems-with-missing-msvcr120dll/"><u>Workaround for Windows Systems with Missing Msvcr120.dll</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-presentation-boost-adding-bb-and-lc-frameworks-for-2024/"><u>[New] Facebook Video Presentation Boost Adding BB and LC Frameworks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-colors-top-11-grading-and-correction-techniques/"><u>2024 Approved Unveiling Colors Top 11 Grading & Correction Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-non-functional-cortana-on-windows-11/"><u>Addressing Non-Functional Cortana on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-fatal-error-code-0x8007007e/"><u>Addressing Windows Fatal Error: Code 0X8007007E</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowering-sites-to-attract-more-viewers-and-engagement/"><u>Cookiebot - Empowering Sites to Attract More Viewers and Engagement</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-a-secure-hardware-removal-window-tip/"><u>Designing a Secure Hardware Removal Window Tip</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-blank-spaces-in-windows-explorer/"><u>Eliminating Blank Spaces in Windows Explorer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-graphic-driver-crashes-in-valorant-issue-quickly/"><u>Fix the 'Graphic Driver Crashes in Valorant' Issue Quickly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-ai-assistant-chatgpt-with-voice-command-for-your-benz/"><u>Introducing AI Assistant: ChatGPT with Voice Command for Your Benz</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premier-comedy-photo-stylist-tool/"><u>Premier Comedy Photo Stylist Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-device-unreachable-errors/"><u>Resolving Windows Device Unreachable Errors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-y78-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo Y78 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-not-empty-directory-problem-in-windows-os/"><u>Steps to Overcome Not Empty Directory Problem in Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-flip-side-of-chatgpt-plus/"><u>Unveiling the Flip Side of ChatGPT Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/wired-for-security-swiftly-repairing-windows-features/"><u>Wired for Security: Swiftly Repairing Windows Features</u></a></li>
 </ul></div>
 

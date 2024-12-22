@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 11: Directory Emptiness Issue #0X80070091"
-date: 2024-12-07T22:48:38.948Z
-updated: 2024-12-13T06:56:42.771Z
+date: 2024-12-18T16:54:28.627Z
+updated: 2024-12-22T17:38:58.845Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Try Erasing the Folder With the Command Prompt
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 `rmdir /s "C:\Users\New folder"`
 
 ![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart Windows File Explorer
 
@@ -59,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Check for Errors With a Disk Scan
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
 4. Click**Start** and select**Power** \>**Restart** to reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
 
 ## 5\. Modify the Affected Folder’s Permissions
@@ -84,16 +92,12 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 2. Click the window’s**Security** tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Next, press the**Advanced** button.  
 ![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
 4. Click**Change** beside the owner’s name.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
 5. Enter your Windows user account name inside the object name text box.  
@@ -101,15 +105,11 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 6. Then select the**Check Names** option and**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Replace owner on subcontainers and objects** to select that setting.
 8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run an Antivirus Scan
 
@@ -143,24 +143,24 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-journey-to-the-heart-of-windows-11s-newest-gems/"><u>[New] 2024 Approved Journey to the Heart of Windows 11'S Newest Gems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-premier-streamers-ultimate-concert-selection/"><u>[Updated] Premier Streamers Ultimate Concert Selection</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/aeiusys-compact-solar-generator-review-the-ideal-inverter-choice-for-essential-medical-equipment-care/"><u>Aeiusy's Compact Solar Generator Review: The Ideal Inverter Choice for Essential Medical Equipment Care</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/basic-screen-capture-windows-10-version-for-2024/"><u>Basic Screen Capture, Windows 10 Version for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/command-mastery-positioning-custom-shortcuts-by-power-button-in-windows-11/"><u>Command Mastery: Positioning Custom Shortcuts by Power Button in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-list-of-superior-screenshot-tools-excluding-windows/"><u>Comprehensive List of Superior Screenshot Tools Excluding Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-crashes-winning-strategy-for-windows-11s-full-screen-in-sonic-games/"><u>Conquering Crashes: Winning Strategy for Windows 11'S Full-Screen in Sonic Games</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-chromes-file-upload-issues-a-windows-fix-guide/"><u>Eradicate Chrome's File Upload Issues: A Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-hardware-not-found-error-on-w11w10-system/"><u>Fixing 'Hardware Not Found' Error on W11/W10 System</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-logitech-g510-gamepad-drives-for-pcs-running-windows-7-to-10/"><u>Get Logitech G510 Gamepad Drives for PCs Running Windows 7 to 10</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/i-primissimi-6-convertitori-di-formato-mp4-gratis-e-piu-efficienti-scambio-video-con-facilita/"><u>I Primissimi 6 Convertitori Di Formato MP4 Gratis E Più Efficienti: Scambio Video Con Facilità!</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-magic-vs-2-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Magic Vs 2 Phones with/without a PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-the-language-of-respectful-communication-in-japan/"><u>Learn the Language of Respectful Communication in Japan</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-dual-monitor-configuration-a-compre-written-by-michael-nguyen-phd/"><u>Mastering Dual Monitor Configuration: A Compre Written by Michael Nguyen, PhD</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/precision-tech-selection-inside-scoop-by-toms-specialists/"><u>Precision Tech Selection - Inside Scoop by Tom's Specialists</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-the-day-reversing-blank-login-on-windows-11/"><u>Saving the Day: Reversing Blank Login on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/smart-collaboration-at-your-fingertips-microsofts-ai-copilot-for-windows-11/"><u>Smart Collaboration at Your Fingertips: Microsoft's AI Copilot for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-xc0f1103f-nvidia-software-glitches/"><u>Troubleshooting XC0F1103F Nvidia Software Glitches</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-skagen-falster-3-timeless-design-amidst-cutting-edge-smartwatch-innovations/"><u>Unveiling the Skagen Falster 3: Timeless Design Amidst Cutting-Edge Smartwatch Innovations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies-for-2024/"><u>[Updated] Grip It Right Tips for Eliminating Jitter in Action Cam Movies for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leveraging-hashtags-in-twitter-advertising/"><u>[Updated] In 2024, Leveraging Hashtags in Twitter Advertising</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/videodownloadhelper-firefox/"><u>「VideoDownloadHelper Firefox 拡張機能の詳細：ダウンロード手順・安全性に関する包括的解説！」</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-must-have-mice-to-upgrade-your-mac-workstation-a-curated-list/"><u>5 Must-Have Mice to Upgrade Your Mac Workstation : A Curated List</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/boosting-efficiency-tackling-sluggish-ssd-write-velocity-challenges/"><u>Boosting Efficiency: Tackling Sluggish SSD Write Velocity Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-navigate-and-enhance-text-via-the-snipping-tool/"><u>Expertly Navigate and Enhance Text via the Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/from-start-menu-to-control-panel-a-guide/"><u>From Start Menu to Control Panel: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enabling-windows-11-toolbar-elements/"><u>Guide to Enabling Windows 11 Toolbar Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-github-desktop-for-windows-os-devops/"><u>Harness the Power of GitHub Desktop for Windows OS DevOps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-data-recovery-recover-lost-data-from-honor-x8b-by-fonelab-android-recover-data/"><u>Honor Data Recovery – recover lost data from Honor X8b</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-voice-capture-top-recorders-of-2023/"><u>In 2024, Cutting-Edge Voice Capture Top Recorders of 2023</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-very-best-storytelling-yt-channels-of-2023/"><u>In 2024, Unveiling the Very Best Storytelling YT Channels of 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-analysis-hibernations-role-in-windows/"><u>Insightful Analysis: Hibernation's Role in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavi-scaricare-e-conversione-webp-gratuita-il-guida-completa/"><u>Movavi - Scaricare E Conversione WEBP Gratuita: Il Guida Completa</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-maximizing-speed-and-efficiency-in-3d-painting/"><u>Pro Tips for Maximizing Speed and Efficiency in 3D Painting</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-show-more-pins-on-windows-11-start/"><u>Pro Tips: Show More Pins on Windows 11 Start</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-code-0x0000004e-hiccups/"><u>Resolving Windows Code 0X0000004E Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-nvidias-geforce-error-x0001-on-windows-1011/"><u>Steps to Fix Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updating-and-downloading-essential-drivers-for-your-lenovo-ideapad-ebook-100-on-a-windows-10-pc-a-comprehensive-tutorial/"><u>Updating and Downloading Essential Drivers for Your Lenovo IdeaPad eBook 100 on a Windows 10 PC: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

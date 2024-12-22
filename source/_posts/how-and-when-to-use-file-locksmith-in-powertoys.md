@@ -1,7 +1,7 @@
 ---
 title: How and When to Use File Locksmith in PowerToys
-date: 2024-08-28T00:56:18.710Z
-updated: 2024-08-29T00:56:18.710Z
+date: 2024-12-15T16:16:01.419Z
+updated: 2024-12-22T17:05:24.582Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
  If you are struggling to work out why a file is refusing to be deleted, File Locksmith could be the utility you need. This new addition to the PowerToys suite can help you understand unusual file behavior in a few clicks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the File Locksmith?
 
  File Locksmith is a relatively new addition to the PowerToys suite of tools. It is a Windows Shell extension used for checking up on the files in use at a particular moment. It also lets you check which system processes are using those files.
@@ -28,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
  If this is your first counter with PowerToys, check out[how to do more with Windows using PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) for some beginner's advice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Is File Locksmith Most Useful?
 
  Although it might not seem so at first glance, File Locksmith is a very useful utility. Firstly, it can help you better understand which files are being used at any particular moment. It can also tell you why a file you are unsuccessfully trying to delete is being blocked.
 
  It can also be used to troubleshoot the apps and files that slow down your PC and find performance bottlenecks. When you use it alongside other[ways to troubleshoot and improve PC performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) , it can help speed up your PC by quite a bit.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## How to Check Files and Processes in File Locksmith
 
  You can either check a single file or scan every file in a folder. If a folder has subdirectories, these will also be examined.
@@ -47,34 +52,36 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 2. Right-click on the file/folder, and select**Show more options > What's using this file?**  
 ![Opening a file in File Locksmith on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-scan.jpg)
 3. File Locksmith will open a window and begin scanning the file. Any processes being used will be displayed in the window.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Stop the processes directly from the File Locksmith window by clicking the End Process button.  
 ![the file list in the File Locksmith utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-filelist.jpg)
 5. You can click the arrow to expand each process listed to see the Process ID, User, and the path to the individual file being used.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. To refresh the list of processes in File Locksmith, click the Reload button at the top-right of the open window.
 
  To see processes being run by a different user, you will need to open File Locksmith as an administrator. If you are already running PowerToys as an administrator, click the**Restart as Administrator** button at the top-right of the File Locksmith window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using the PowerToys File Locksmith Utility, Made Easy
 
  File Locksmith probably won't be a tool you use every day, but it is still a useful addition to PowerToys. You can learn more about the files used by your PC, and also work out which process is preventing a stubborn file from being closed or deleted. As such, we believe that FIle Locksmith should be a handy tool to have on hand when you need it most.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +90,24 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>[New] Showcasing Creativity An Assortment of Top 5 Book VTTs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unmatched-download-experience-with-our-top-tools-list/"><u>[New] Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-overhauls-product-rating-display-a-step-backwards/"><u>Amazon Overhauls Product Rating Display: A Step Backwards?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/building-a-strong-online-presence-through-engaging-content-social-media-interaction-and-search-engine-optimization-to-enhance-visibility-and-customer-reach.101/"><u>Building a Strong Online Presence Through Engaging Content, Social Media Interaction, and Search Engine Optimization to Enhance Visibility and Customer Reach.</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-key-combinations-for-windows-programs/"><u>Customizing Key Combinations for Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-rectifying-muted-outputs-on-pc/"><u>Diagnosing and Rectifying Muted Outputs on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-canon-mg2520-drivers-for-windows-to-enhance-printing-functionality/"><u>Get the Newest Canon MG2520 Drivers for Windows to Enhance Printing Functionality</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95829423-9781507150351-kombinationen-der-tarockkarten-zwischen-grossen-und-kleinen-arkana/"><u>Kombinationen der Tarockkarten zwischen großen und kleinen Arkana | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-stubborn-zip-operations-in-win-11/"><u>Master the Art of Fixing Stubborn Zip Operations in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-windows-11-camera-issue-code-f429f/"><u>Preventive Measures for Windows 11 Camera Issue Code F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-open-win11s-print-settings-max-46-chars/"><u>Quick Tips: Open Win11's Print Settings (Max 46 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-steam-service-errors-on-windows-11/"><u>Resolving Steam Service Errors on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-files-overcoming-the-read-only-challenge-in-windows/"><u>Reviving Files: Overcoming the Read-Only Challenge in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-aerospace-the-international-space-station-welcomes-its-first-metal-3d-printer-engineered-by-airbus-and-the-esa/"><u>Revolutionizing Aerospace: The International Space Station Welcomes Its First Metal 3D Printer, Engineered by Airbus and the ESA</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-guide-to-windows-11-terminal-redoing/"><u>Simple Guide to Windows 11 Terminal Redoing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transform-your-ideas-into-engaging-presentations-via-chatgpt/"><u>Transform Your Ideas Into Engaging Presentations via ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-pathways-to-invest-in-facebooks-settlement-fund/"><u>Unveiling Pathways to Invest in Facebook's Settlement Fund</u></a></li>
+</ul></div>
 

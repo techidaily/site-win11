@@ -1,7 +1,7 @@
 ---
 title: "The Next Evolution of Windows 11: Advanced Widget Techniques"
-date: 2024-12-10T08:03:50.306Z
-updated: 2024-12-12T22:30:18.638Z
+date: 2024-12-19T16:30:22.064Z
+updated: 2024-12-22T17:52:18.780Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Allow Users to Open the Widgets Panel From the Right Side
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
@@ -46,16 +50,12 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  Again, Microsoft should keep the mouse hover and click option for the Widgets icon to give users more control over the functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Windows 11 Users to Turn Off the News Section in Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows 11 can provide you with news headlines of what is happening around the world through the Widgets panel. You can also customize the Widgets board in such a way that it will only show news on topics that interest you.
 
@@ -66,22 +66,22 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
 
  However, Windows 11 Widgets panel is still missing useful first-party widgets like Sticky Notes and Calculator (here are the[steps for keeping Sticky Notes always on top on Windows 10 and 11](https://www.makeuseof.com/sticky-notes-always-on-top-windows/) ). Microsoft can't force third-party developers to bring their widgets to Windows 11, but it can play its part in making the panel more "widget-rich."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Bring the Ability to Pin Widgets to the Desktop and Lockscreen
 
  To view widgets, you have to open the Widgets board. Unfortunately, there is no other way. Microsoft can fix this by adding the ability to pin widgets to the desktop or lock screen. This way, you can always stay updated with timely information from your favorite apps at a glance on your desktop and lock screen.
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Allow Users to Change the Default Browser for Widgets
@@ -128,22 +128,17 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-ultimate-guide-best-zero-cost-image-editors-online/"><u>[New] In 2024, Ultimate Guide Best Zero-Cost Image Editors Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-creating-characterful-images-with-animated-filters/"><u>[Updated] In 2024, Creating Characterful Images with Animated Filters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-4k-televisions-the-ultimate-showdown/"><u>[Updated] In 2024, Elite 4K Televisions – The Ultimate Showdown</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-source-of-windows-parse-error-0xc00ce556/"><u>Dissecting the Source of Windows' Parse Error 0xC00CE556</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-workflow-adding-tasks-to-file-context-menus/"><u>Elevate Your Workflow: Adding Tasks to File Context Menus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-3-troubleshooting-overcoming-crashes-on-your-windows-10-pc/"><u>Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-slow-download-issues-in-steam-on-windows-platform/"><u>Fix Slow Download Issues in Steam on Windows Platform</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-instant-thumbnails-for-fortnite-gameplay/"><u>In 2024, Instant Thumbnails for Fortnite Gameplay</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-audience-reach-sharing-twitch-live-for-2024/"><u>Maximizing Audience Reach Sharing Twitch Live for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/microsoft-and-ai-merge-for-next-gen-bing-searches/"><u>Microsoft and AI Merge for Next-Gen Bing Searches</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-app-changes-in-the-latest-windows-11-update/"><u>Navigating App Changes in the Latest Windows 11 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unable-to-detect-camera-in-win11/"><u>Overcoming Unable to Detect Camera in Win11</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfecting-ultimate-canon-sequence-crafts-for-2024/"><u>Perfecting Ultimate Canon Sequence Crafts for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-group-policy-management-in-windows-108/"><u>Simplifying Group Policy Management in Windows 10/8</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-your-vm-workflow-6-expert-tips-for-windows-users/"><u>Supercharge Your VM Workflow: 6 Expert Tips for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-program-install-pathways-in-windows/"><u>Unveiling Program Install Pathways in Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-m1-chip-wins-smoothness-in-every-edit-every-time/"><u>[New] In 2024, M1 Chip Wins Smoothness in Every Edit, Every Time</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streamlining-video-transfer-from-imovie-to-youtube-platform/"><u>[Updated] Streamlining Video Transfer From iMovie to YouTube Platform</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-seamlessly-transfer-spotify-songs-to-youtube-with-these-tools/"><u>2024 Approved Seamlessly Transfer Spotify Songs to YouTube with These Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/2024ai/"><u>2024頂級AI音樂作曲機器人：你不可能會想失去的前十二位</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-phonelinkexes-purpose-and-safety-for-windows-users/"><u>Deciphering PhoneLinkExe's Purpose and Safety for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-fix-realtek-hd-graphics-card-drivers-a-comprehensive-guide/"><u>How to Fix Realtek HD Graphics Card Drivers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-sonic-frontiers-crashing-when-going-full-screen-on-windows-11/"><u>How to Fix Sonic Frontiers Crashing When Going Full-Screen on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-printer-connection-challenges/"><u>Navigating Windows 11 Printer Connection Challenges</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prepare-for-severe-winter-weather-and-save-big-get-40-off-on-anker-generators-zdnet/"><u>Prepare for Severe Winter Weather & Save Big – Get 40% Off on Anker Generators | ZDNet</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-strategies-for-beauty-streams/"><u>Profit Strategies for Beauty Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-the-skewed-discord-game-detector-for-windows-users/"><u>Realigning the Skewed Discord Game Detector for Windows Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-essentials-to-establish-a-singular-hashtag-on-tiktok/"><u>The Essentials to Establish a Singular Hashtag on TikTok</u></a></li>
 </ul></div>
 

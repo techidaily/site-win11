@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows to Extract Device Info
-date: 2024-12-12T06:02:07.216Z
-updated: 2024-12-13T08:19:11.034Z
+date: 2024-12-15T16:56:35.174Z
+updated: 2024-12-22T16:51:04.624Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Device Manager
 
  The Device Manager is a tool that helps you tweak the settings for almost all the devices that are connected to your PC. You can also use this tool to update or reinstall the device drivers.
@@ -47,23 +43,19 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 ![Clicking the Property drop-down menu and selecting Hardware Ids](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-property-drop-down-menu-and-selecting-hardware-ids.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might often see more than one ID in the "Value" box. In such instances, you should only focus on the hardware ID that appears at the top.
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
@@ -78,16 +70,16 @@ Let’s check out the steps you need to follow:
 
 ![Displaying device information on the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/displaying-device-information-on-the-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, let’s say you want the hardware ID for the mouse. Here’s how you can search for it:
 
 1. Scroll down on the Command Prompt results and locate**Mouse** in the "Class Name" category.
 2. In the same row, check the option that appears in the "Published Name" category.
 
 ![Selecting the mouse option "msmouse" in the Command Prompt results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-mouse-option-in-the-command-prompt-results-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In this case, the option in the "Published Name" category is**msmouse.inf** .
 
@@ -128,6 +120,10 @@ Let’s check out the steps you need to follow:
 
 ![Selecting the Keyboard option from the PowerShell command options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-keyboard-option-from-the-powershell-command-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For the keyboard, the Instance ID is**ACPI\\IDEA0102\\4&15E808EC&0** .
 
  Now that you've found the Instance ID, here’s how you can use it to find the hardware ID:
@@ -146,10 +142,6 @@ Let’s check out the steps you need to follow:
  Next, look for the corresponding value in the "Data" category. The value that appears in this section is the hardware ID.
 
 ![Selecting the hardware ID option on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-on-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
@@ -186,9 +178,17 @@ Once you’re in the correct folder, follow these steps:
 
 ![Selecting the hardware ID for the Standard PS2 Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-for-the-standard-ps2-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Remember, if there’s more than one hardware ID, always pick the first option. This means the hardware ID for the keyboard, in the example above, is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
  If you want to explore the Device Console in detail, check out[the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You've Successfully Found the Hardware IDs of Your Devices
 
@@ -211,20 +211,17 @@ Once you’re in the correct folder, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-editprox-compilation-review-expert-feedback/"><u>[New] EditProX Compilation Review – Expert Feedback</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-for-professional-use-of-screen-recorder-by-zd-soft/"><u>[New] The Ultimate Guide for Professional Use of Screen Recorder by ZD Soft</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unlocking-metaverse-potential-top-7-innovations-to-master/"><u>[Updated] In 2024, Unlocking Metaverse Potential - Top 7 Innovations to Master</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-avoiding-instagrams-false-facade-for-a-solid-stature/"><u>2024 Approved Avoiding Instagram's False Facade for a Solid Stature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-shifting-images-from-ios-devices-straight-into-usb-flash-storage-including-pc-free-options/"><u>Comprehensive Strategies for Shifting Images From iOS Devices Straight Into USB Flash Storage, Including PC-Free Options</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-warhammer-gaming-on-windows-eradicate-latency-problems/"><u>Elevate Warhammer Gaming on Windows - Eradicate Latency Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-epic-games-login-with-ease-on-windows-pcs/"><u>Enabling Epic Games Login with Ease on Windows PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-why-opting-for-a-vpn-boosts-security-on-vision-pro-and-similar-xr-headsets-insights-from-zdnet/"><u>Essential Guide: Why Opting for a VPN Boosts Security on Vision Pro and Similar XR Headsets - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-1011s-error-code-0x8007045d/"><u>Fixing Windows 10/11'S Error Code: 0X8007045D</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/how-much-wealth-can-you-generate-on-youtube-using-cpm-for-2024/"><u>How Much Wealth Can You Generate on YouTube Using CPM for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-recovery-steps-for-windows-11s-safe-mode-access/"><u>Rapid Recovery Steps for Windows 11'S Safe Mode Access</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-stalled-gpu-fan-motions/"><u>Resolving Stalled GPU Fan Motions</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-list-for-pen-tablet-users-on-windows-os/"><u>Ultimate List for Pen Tablet Users on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-bsod-interrupt-fix-a-step-by-step-guide/"><u>Win11's BSOD Interrupt Fix: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-voice-recorder-mac-5-best-voice-recorders-for-mac-devices-for-2024/"><u>[New] Voice Recorder Mac - 5 Best Voice Recorders for Mac Devices for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/beat-the-buzz-expert-tips-to-fix-popping-noises-from-logitech-g-pro-x/"><u>Beat the Buzz: Expert Tips to Fix Popping Noises From Logitech G Pro X</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/bring-your-airpods-back-to-life-with-our-expert-guide-on-nine-charging-solutions/"><u>Bring Your AirPods Back to Life with Our Expert Guide on Nine Charging Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-latest-advancements-in-visionos-2-revealed-at-apples-worldwide-developers-conference-insights-and-surprises/"><u>Exploring the Latest Advancements in VisionOS 2 Revealed at Apple's Worldwide Developers Conference – Insights & Surprises</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-windows-11-vm-reset/"><u>Guidelines for Windows 11 VM Reset</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-earning-equation-finns-financial-frequency/"><u>In 2024, Earning Equation Finn's Financial Frequency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-calls-the-elite-selection-of-12-zero-cost-voip-apps-for-this-year/"><u>Revolutionize Your Calls: The Elite Selection of 12 Zero-Cost VoIP Apps for This Year</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-missing-windows-phone-link-notifications/"><u>Steps to Reactivate Missing Windows Phone Link Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/terminal-vs-powershell-pinpointing-the-distinguishing-aspects/"><u>Terminal Vs. PowerShell: Pinpointing the Distinguishing Aspects</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-hidden-cameras-fix-their-absence-in-dm/"><u>Uncover Hidden Cameras: Fix Their Absence in DM</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-samsungs-future-tech-key-dates-latest-updates-and-anticipated-innovations/"><u>Unveiling Samsung's Future Tech : Key Dates, Latest Updates & Anticipated Innovations</u></a></li>
 </ul></div>
 

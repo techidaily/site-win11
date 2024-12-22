@@ -1,7 +1,7 @@
 ---
 title: Strategies for Addressing Write-Restricted Errors in Windows 11
-date: 2024-12-11T03:59:46.851Z
-updated: 2024-12-13T14:02:26.747Z
+date: 2024-12-18T17:06:20.822Z
+updated: 2024-12-22T17:37:48.103Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Download the Setup File Again
 
  First, try downloading the software’s setup file a second time. This time select to download the file to a different folder. Also, make sure you’ve selected to download the right installation file for your PC if the software is available for different platforms and has alternative 32 and 64-bit versions.
@@ -36,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change a Standard User Account to Admin One
@@ -49,18 +53,14 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 3. Select the**Administrator** radio button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Administrator account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/admin-account-option.jpg)
 4. Click the**Change Account Type** option to switch it to an admin account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Installation Drive
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 5. Select**Try recommended** settings to bring up a**Test this program** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Test this program** to bring up the setup wizard with the applied compatibility settings.  
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 7. Then try installing the software again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Delete Temporary Files
@@ -97,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  Another possibility is that corrupted temporary file data on your PC could be causing this installation issue. So, it’s recommended to eradicate temporary files. You can do that with the Disk Cleanup tool, Settings app, Command Prompt, or other methods outlined in our guide to[deleting temporary data on Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
 ![The Temporary files checkbox in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/temporary-files-checkbox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Change the Security Settings for the Installation File
 
@@ -119,10 +123,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/full-control-checkbox.jpg)
 7. Then click**Apply** to save the new permission settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Select**OK** twice to exit the permission and properties windows.
 
 ## 8\. Turn Off User Account Control
@@ -143,15 +143,15 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controlled-folder-access-option.jpg)
 4. Click the**Controlled folder access** toggle switch to set that option to off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 10\. Uninstall the Old Version of the Software
 
  If you’re trying to install a new version of the software already on your PC, uninstall the existing (old) program version. You can uninstall software with the Programs and Features applet as instructed within our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
  However, it would be even better to uninstall the old program version with one of the[best third-party uninstaller utilities](https://www.makeuseof.com/windows-11-uninstallers-stubborn-apps/) that thoroughly eradicate leftover files and registry entries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the Software You Need on Windows
 
@@ -172,22 +172,20 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-webcam-wizardry-crafting-ultimate-gamer-footage/"><u>[New] 2024 Approved WebCam Wizardry Crafting Ultimate Gamer Footage</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-expert-tips-for-dealing-with-youtube-copyright-notifications/"><u>[New] Expert Tips for Dealing With YouTube Copyright Notifications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-pick-a-youtube-channel-name-for-2024/"><u>[Updated] How To Pick a YouTube Channel Name for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-art-of-float-engaging-with-netflixs-picture-in-picture/"><u>[Updated] The Art of Float Engaging with Netflix's Picture-in-Picture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-the-art-of-imitation-crafting-parody-videos/"><u>2024 Approved The Art of Imitation Crafting Parody Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unwanted-yellow-discoloration-in-windows-pcs/"><u>Correcting Unwanted Yellow Discoloration in Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-keyboard-utilities-for-enhanced-accessibility-on-windows-pcs/"><u>Essential Keyboard Utilities for Enhanced Accessibility on Windows PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-3gpp-inpakket-naar-wmv-online-verwerken-met-movavi-vrijetijd-bestemmen/"><u>Gratis 3GPP-Inpakket Naar WMV Online Verwerken Met Movavi - Vrijetijd Bestemmen</u></a></li>
-<li><a href="https://win11.techidaily.com/hear-you-now-troubleshooting-microphone-noise-in-google-meet-windows/"><u>Hear You Now? Troubleshooting Microphone Noise in Google Meet (Windows)</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-transforming-your-spotify-list-into-a-youtube-music-collection/"><u>In 2024, Transforming Your Spotify List Into a YouTube Music Collection</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-control-over-windows-admin-managed-lockdown/"><u>Mastering Control Over Windows Admin-Managed Lockdown</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-network-activity-monitoring-with-netstat-usage/"><u>Mastering Windows 11 Network Activity Monitoring with Netstat Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-file-names-in-windows-settings-max-156/"><u>Optimizing File Names in Windows Settings (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-1110s-onedrive-glitch/"><u>Quick Fixes for Windows 11/10'S OneDrive Glitch</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-power-behind-snapchats-my-ai-explored-in-6-aspects/"><u>The Power Behind Snapchat's My AI Explored in 6 Aspects</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-back-online-fixing-fall-guys-link-losses/"><u>Winning Back Online: Fixing Fall Guys Link Losses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discover-the-leading-tools-for-fb-video-downloads-in-minutes-for-2024/"><u>[Updated] Discover the Leading Tools for FB Video Downloads in Minutes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boosted-performance-with-smart-use-of-windows-11s-bar/"><u>Boosted Performance with Smart Use of Windows 11'S Bar</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209920790-9781071518618-como-pensar-por-ti-mismo/"><u>Como pensar por ti mismo | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-error-4294967295-a-comprehensive-guide/"><u>Eliminating WSL Error 4294967295: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/filter-out-superfluous-updates-from-your-windows-pc/"><u>Filter Out Superfluous Updates From Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-10-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 10 & 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign .dotx file document with Electronic Digital Signature - (Tutorial)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-tecno-pova-5-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Tecno Pova 5 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sky-high-picture-preservation-discover-ultimate-cloud-options/"><u>In 2024, Sky-High Picture Preservation Discover Ultimate Cloud Options</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tales-of-timeless-togetherness-this-seasons-top-10/"><u>In 2024, Tales of Timeless Togetherness This Season's Top 10</u></a></li>
+<li><a href="https://win11.techidaily.com/1719361152872-lowest-black-friday-keys-fan-discount-on-windows-11-free-forever/"><u>Lowest Black Friday Keys Fan Discount on Windows 11, Free Forever!</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-family-safety-key-features-and-uses/"><u>Microsoft Family Safety: Key Features and Uses</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-gpu-capabilities-the-6-best-testers-in-windows/"><u>Navigate Through GPU Capabilities: The 6 Best Testers in Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ome-video-tiny-hiccups-not-visible-for-2024/"><u>Overcome Video Tiny Hiccups Not Visible for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocketing-youtube-views-strategies-to-dodge-bots-for-2024/"><u>Skyrocketing YouTube Views Strategies to Dodge Bots for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mending Inadequate Video RAM Issues in Witchcraft & Wizardry Simulation
-date: 2024-09-05T08:26:30.330Z
-updated: 2024-09-06T08:26:30.330Z
+date: 2024-12-19T16:52:29.306Z
+updated: 2024-12-22T16:10:49.167Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  The error message suggests lowering the game's resolution and closing other applications, but those suggestions don't always work. Therefore, in this article, we'll discuss the fixes that actually resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does Your PC Meet the Minimum Requirements for Hogwarts Legacy?
 
  First, ensure your system has the required hardware to run Hogwarts Legacy. To do that, go to the[Hogwarts Legacy website](https://www.hogwartslegacy.com/en-us/pc-specs) and note the required specs. Then, compare these specifications with those of your computer.
@@ -32,16 +36,14 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
  However, if you already have a system that meets the minimum game requirements, you can begin applying the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 Ways to Fix the "Out of Video Memory" Error in Hogwarts Legacy
 
  To fix the "Out of video memory" error in Hogwarts Legacy, you will have to force the game to use your dedicated GPU, update your graphics drivers, increase your dedicated VRAM, close resource-hungry processes, disable GPU overclocking, and adjust the game resolution. Let's see how you apply these fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
  First off, apply some preliminary fixes, which may resolve the issue quickly:
@@ -52,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 If the above fixes don't help, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Force the Game to Use Your Dedicated GPU
 
  If you're experiencing the error despite having a GPU with higher specs than required, chances are that Hogwarts Legacy is not using it. Possibly, it's using your integrated GPU, whose specifications aren't that high, thus resulting in the error. Therefore, force the game to always use the dedicated GPU.
@@ -77,11 +73,9 @@ If the above fixes don't help, proceed to the next fix.
  If you're using Windows 10, follow the steps outlined in our guide on[how to choose the most suitable GPU for apps](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Increase the Dedicated VRAM
 
  VRAM stands for video RAM, the memory referenced in the error message. If you have a powerful GPU, the game is using it, and you believe that your VRAM is higher than what's required, you should ensure it is properly allocated to the GPU.
@@ -101,30 +95,12 @@ If the above fixes don't help, proceed to the next fix.
 
  Changing these three settings will make the game work better with the available VRAM resources. If the problem persists, you can optimize other in-game display and graphics settings to get a less pleasing display but smoother performance.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Update Your Graphics Driver
 
  If changing the game settings makes no difference, you should[update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . Doing so will allow the game to use GPU resources more efficiently and run more smoothly.
 
  According to some users on a[Steam community thread](https://steamcommunity.com/app/990080/discussions/0/3761104682799019592/) , reinstalling the graphics driver also fixes the issue. If updating the driver doesn't work, uninstall the existing driver, download its fresh copy from your GPU manufacturer's website, and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Report the Problem to Warner Bros
 
  If none of these fixes work, you should report the issue to Warner Bros., the game's publisher. To do that, follow these steps:
@@ -133,22 +109,19 @@ If the above fixes don't help, proceed to the next fix.
 2. Click on**Report a Bug** in the website's top-right corner.  
 ![Click on the Report a Bug Button on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4.jpg)
 3. If you are not yet logged in, do so now. If you don't already have an account, create one.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. After logging in, browse the problems that have already been reported. Most likely, you will see the same error reported by other users. You can also search for it using the search bar. Once you find it, open it and click the**Vote** button.  
 ![Click on the Vote Button After Finding the Error on Warner Bros Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5.jpg)
 5. After that, provide details about your hardware in the comments section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix the "Out of Video Memory" Error in Hogwarts Legacy
 
  Getting the "out of video memory" error despite having a powerful GPU can be frustrating. Hopefully, you now have a better understanding of why this error occurs. Also, you should be able to fix the error by tweaking the game or system settings. If your hardware doesn't meet the minimum game requirements, consider upgrading it.
@@ -161,8 +134,6 @@ If the above fixes don't help, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +141,19 @@ If the above fixes don't help, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-ultimate-guide-7-prime-free-video-tag-extractors/"><u>[Updated] 2024 Approved Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-live-footage-at-its-best-gamers-recording-tips/"><u>2024 Approved Live Footage at Its Best Gamers' Recording Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-failed-tasks-error-0x8007000f-solution-guide/"><u>Handling Failed Tasks: Error 0X8007000F Solution Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-image-edition-excellence-tutorial-insights/"><u>In 2024, Image Edition Excellence Tutorial Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/level-up-your-gameplay-the-winning-combo-of-win-11s-best-7-tips/"><u>Level Up Your Gameplay: The Winning Combo of Win 11'S Best 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-network-efficiency-with-dns-setup-in-windows-11/"><u>Maximizing Network Efficiency with DNS Setup in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/no-you-dont-need-microsoft-windows-subsystem-for-linux-wsl-and-heres-why/"><u>No, You Don't Need Microsoft Windows Subsystem for Linux (WSL), and Here's Why</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/solutions-when-your-gpu-is-not-detected-by-windows-device-manager-expert-advice-from-yl-computing/"><u>Solutions When Your GPU Is Not Detected by Windows Device Manager - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-definitive-guide-to-resolving-windows-photo-app-fails/"><u>The Definitive Guide to Resolving Windows Photo App Fails</u></a></li>
+</ul></div>
 

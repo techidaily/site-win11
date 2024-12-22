@@ -1,7 +1,7 @@
 ---
 title: "Navigating Non-Functioning Windows Apps: Top 7 Remedies"
-date: 2024-12-10T12:22:10.009Z
-updated: 2024-12-12T20:50:43.884Z
+date: 2024-12-20T17:10:36.095Z
+updated: 2024-12-22T16:07:22.771Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the scan has started running, wait patiently for the utility to look for potential errors in the system and generate a report based on those. If any issues are found, the troubleshooter will notify you and in most cases, will also suggest relevant fixes you can try.
 
  Although this tool effectively recognizes certain frequently encountered problems, it may have limited usefulness when dealing with complex issues. If the troubleshooter fails to help, move to the next methods below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Apps
 
@@ -59,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  You can install the latest available updates using the Microsoft Store if the program is available on the platform. Otherwise, you can also head over to the official website of the app and install the latest version from there. Several third-party apps also have a built-in update option within the interface that you can use.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Reset App Cache
 
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cache is the temporary data stored by programs to access the information they need, quickly without reloading it from the local storage. However, there are times when this data can get corrupt and lead to several performance issues.
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  Fortunately, this is easy to fix. You can reset the app cache to resolve issues like crashes, slow performance, and other minor glitches. Doing so won’t harm any important data, but you are likely to lose any login information or custom settings that you may have configured in the app.
 
  To reset app cache,[launch the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) . Type wsreset.exe in the CMD window and hit Enter. Wait for the process to complete and once it is done, check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update Drivers
 
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  You can[update the drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) using the Device Manager utility in Windows. In case this tool fails to find an updated driver version in the system, you can download it via the manufacturer’s website and install it manually as well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Check for Conflicting Programs
@@ -109,15 +109,15 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![Reset Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-or-repair-settings-app-edit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall the App
 
  Finally, if none of the troubleshooting methods help, you can uninstall the app and then reinstall it. This will clear any corrupt files alongside the old or problematic settings that might be causing the issue.
 
  However, since this action will delete all data associated with the app, make sure you create a backup of the important data. Once that is done, you can[use the Control Panel to uninstall the app](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and then reinstall a fresh version using the Microsoft Store or your browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Windows Apps Back on Track
 
@@ -138,24 +138,21 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-your-daily-diary-staying-fresh-and-avoiding-common-mistakes/"><u>[New] In 2024, Your Daily Diary Staying Fresh & Avoiding Common Mistakes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-skybound-innovations-with-djis-latest-pro-drone-review/"><u>[Updated] 2024 Approved Skybound Innovations with DJI's Latest Pro Drone Review</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-xs-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone XS Online</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-pathway-errors-with-windows-devices/"><u>Addressing Pathway Errors with Windows Devices</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/buy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-disparities-an-in-depth-look-at-mac-vs-pc-systems/"><u>Decoding the Disparities: An In-Depth Look at Mac Vs. PC Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-remedies-to-address-instantaneous-failure-when-adding-a-folder-in-the-windows-onedrive-environment/"><u>Efficient Remedies to Address Instantaneous Failure when Adding a Folder in the Windows OneDrive Environment</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-link-your-windows-product-key-to-a-microsoft-account/"><u>How to Link Your Windows Product Key to a Microsoft Account</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-map-a-network-drive-in-windows-11/"><u>How to Map a Network Drive in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-voice-with-images-online/"><u>In 2024, Syncing Voice with Images Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-dvd-decryption-how-to-safely-remove-drm-restrictions-with-leading-software-of-2nd4/"><u>Mastering DVD Decryption: How to Safely Remove DRM Restrictions with Leading Software of 2nD4</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-dont-make-these-top-8-mistakes/"><u>Mastering Windows 11: Don't Make These Top 8 Mistakes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-erroneous-non-existing-device-alert-on-win-11/"><u>Overcoming Erroneous Non-Existing Device Alert on Win 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/seamless-gameplay-in-cyberpunk-2077-no-more-frame-drops-just-pure-action/"><u>Seamless Gameplay in Cyberpunk 2077: No More Frame Drops, Just Pure Action!</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-essentials-of-real-time-tweets-on-twitter-for-2024/"><u>The Essentials of Real-Time Tweets on Twitter for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quintessential-4-password-sentinels-of-windows-11-era/"><u>The Quintessential 4 Password Sentinels of Windows 11 Era</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharge-your-printer-fast-windows-fixes/"><u>Turbocharge Your Printer: Fast Windows Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-key-differences-between-windows-terminal-and-powershell/"><u>Understanding Key Differences Between Windows Terminal and PowerShell</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-art-of-audio-blend-with-audacity-techniques-for-2024/"><u>Unveiling the Art of Audio Blend with Audacity Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-identity-design-icons-and-thumbnails-essentials/"><u>[New] In 2024, Channel Identity Design Icons & Thumbnails Essentials</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-sharing-excellence-twitch-live-to-your-facebook-circle/"><u>[New] In 2024, Sharing Excellence Twitch Live to Your Facebook Circle</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-10-youtube-havens-for-entrepreneurs-and-business-gurus/"><u>[Updated] 10 YouTube Havens for Entrepreneurs & Business Gurus</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>[Updated] 2024 Approved Step 1 to 50 Building a Foundation for Mukbang Creation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>[Updated] Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>2024 Approved Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/facon-facile-de-copier-et-proteger-un-disque-dur-sur-windows-et-macos-une-approche-simple/"><u>Façon Facile De Copier Et Protéger Un Disque Dur Sur Windows Et macOS : Une Approche Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-paint-cocreator-to-create-ai-images-in-windows-11/"><u>How to Use Paint Cocreator to Create AI Images in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fax-cover-page-customization-in-windows-11/"><u>Mastering Fax Cover Page Customization in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-potential-with-every-chatgpt-token-used/"><u>Maximizing Potential with Every ChatGPT Token Used</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80780119-system-image-issue/"><u>Overcoming Windows Error: 0X80780119 System Image Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/post-installation-web-steps-and-strategies/"><u>Post-Installation Web: Steps and Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-connection-between-synapse-and-razer-devices/"><u>Reestablishing Connection Between Synapse & Razer Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-vram-a-comprehensible-guide-for-win-users/"><u>Skyrocket VRAM: A Comprehensible Guide for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-causes-of-virtualboxs-efail-error/"><u>Unraveling the Causes of VirtualBox's E_FAIL Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-hot-30-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Hot 30 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

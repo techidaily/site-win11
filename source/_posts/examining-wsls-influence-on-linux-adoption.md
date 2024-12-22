@@ -1,7 +1,7 @@
 ---
 title: Examining WSL's Influence on Linux Adoption
-date: 2024-09-05T08:26:28.790Z
-updated: 2024-09-06T08:26:28.790Z
+date: 2024-12-20T17:04:41.353Z
+updated: 2024-12-22T16:15:47.188Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Linux Adoption Trends,WSL Impact Analysis,DevOps with WSL,Linux in Bus
 thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60e59b4a6159a2401dabd161b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Examining WSL's Influence on Linux Adoption
 
  Since desktop Linux has existed, fans and detractors alike have either hoped for or laughed about the "year of the Linux desktop." Now it seems that desktop Linux is starting to slowly gain market share, but why?
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  Do we have Microsoft and the Windows Subsystem for Linux to thank for introducing Linux to more people and getting them interested in it? Is Microsoft creating its own competition?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Desktop Linux Is (Finally) Gaining Market Share
 
  While many people assumed the year of the Linux desktop is far away and may never come, the little operating system that could has gotten closer than ever before.
@@ -43,11 +35,9 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
  It's unlikely that people completely new to computers are choosing a Linux install as their first foray into computing, and hopping between different Linux distributions wouldn't count. So the answer must lie elsewhere.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Do We Have Microsoft to Thank for This Linux Boost?
 
  2016 was when Microsoft first launched the Windows Subsystem for Linux. But at launch, it wasn't particularly easy to use and it had some usability issues. While some people (like myself) dove in right away, it wasn't until the launch of WSL 2 that the use of Linux on Windows became popular. This made it simple to [run Linux commands on Windows](https://www.makeuseof.com/run-linux-commands-windows-wsl-2/).
@@ -59,31 +49,15 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 ![Linux distributions in the Windows Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/linux-distributions-in-the-windows-store.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With this ease of sampling different varieties of Linux, it's easy to see how those who end up liking Linux could want to go to the next step and install it on their computer in the traditional sense.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is WSL Actually the Linux Desktop We Need?
 
  The final question is, if some of these new Linux users are coming from Windows, how many will stick around? One of the biggest problems with Linux has always been software compatibility, and that's still an issue. Even though more games than ever run on Linux, there are still plenty that only run on Windows.
@@ -92,11 +66,30 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
  Do we have Microsoft and the Windows Subsystem for Linux to thank for introducing Linux to more people and getting them interested in it? Is Microsoft creating its own competition?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-antique-cinematography-in-the-digital-realm/"><u>[New] 2024 Approved Antique Cinematography in the Digital Realm</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-vanishing-acts-how-to-blur-faces-and-objects-online-for-2024/"><u>[Updated] Vanishing Acts How to Blur Faces and Objects Online for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/easy-steps-to-retrieve-lost-shortcut-icons-from-the-hard-disk-in-various-versions-of-windows/"><u>Easy Steps to Retrieve Lost Shortcut Icons From the Hard Disk in Various Versions of Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-failed-capture-on-your-pc-writes/"><u>Eliminating Failed Capture on Your PC' Writes</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-offline-windows-maintenence-and-improvement/"><u>Empowering Offline Windows Maintenence and Improvement</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-conflicting-camera-use-0xa00f4243/"><u>Eradicating Windows' Conflicting Camera Use (0xA00F4243)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-issue-in-elden-ring-at-launch/"><u>Fixing the 'Black Screen' Issue in Elden Ring at Launch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-to-rejuvenate-drag-and-drop-on-win11-pcs/"><u>Reboot to Rejuvenate Drag & Drop on Win11 PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/reimagine-your-digital-life-4-key-strategies-to-refine-your-facebook-viewing/"><u>Reimagine Your Digital Life: 4 Key Strategies to Refine Your Facebook Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-family-safety-overcoming-common-windows-hurdles/"><u>Revitalize Family Safety: Overcoming Common Windows Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-depleted-windows-time-servers-essential-strategies/"><u>Reviving Depleted Windows Time Servers: Essential Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-disabling-impending-license-expiry-in-windows/"><u>Solutions for Disabling Impending License Expiry in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/speed-up-your-startup-experience-on-windows-11-proven-methods-revealed/"><u>Speed Up Your Startup Experience on Windows 11 - Proven Methods Revealed</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-download-and-set-up-displaylink-on-windows-10/"><u>Step-by-Step Tutorial: Download and Set Up DisplayLink on Windows 10</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/tips-for-restoring-hp-print-functionality/"><u>Tips for Restoring HP Print Functionality</u></a></li>
+</ul></div>
+

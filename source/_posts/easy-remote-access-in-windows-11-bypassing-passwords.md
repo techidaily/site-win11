@@ -1,7 +1,7 @@
 ---
 title: Easy Remote Access in Windows 11, Bypassing Passwords
-date: 2024-12-09T04:20:31.475Z
-updated: 2024-12-12T20:00:10.533Z
+date: 2024-12-15T16:48:14.199Z
+updated: 2024-12-22T17:31:16.730Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,22 @@ Windows Settings > Security Settings > Local Policies > Security Options
 5. In the right panel, double-click on **Accounts: Limit local account use of blank passwords to console logon only**. The Properties window will pop up.  
 ![Remote desktop connections without a password Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remote-desktop-connections-without-a-password-using-group-policy.jpg)
 6. Choose **Disabled** and click **OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Limit local account use of blank passwords to console logon only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/limit-local-account-use-of-blank-passwords-to-console-logon-only.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will allow users to connect remotely without using a password. If you want to enable the password prompt again, just follow the same steps and select **Enabled** instead of **Disabled** in the last step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using Security Policy
 
@@ -58,17 +71,9 @@ Security Settings > Local Policies > Security Options
 ![Use Security Policy to Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-security-policy-to-connect-remote-desktop-without-a-password.jpg)
 6. Select **Disabled** and click on **Apply > OK** to save changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you save this setting, remote connections are possible without passwords.
 
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Using Registry Editor
 
@@ -87,13 +92,13 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Make remote desktop connections using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-remote-desktop-connections-using-registry.jpg)
 6. Change the **Value data** field to **0** and click **OK** to save changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will prevent Windows from requiring a password when connecting remotely.
 
  If you ever want to re-enable the password prompt, navigate back to the same registry key and change the value data field to **1**. Now close the Registry Editor and you are ready to connect remotely without a password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Using Command Prompt
 
@@ -107,10 +112,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
 
  Running this command will change the value data field to **0** and disable the remote password prompt.
@@ -118,10 +119,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
  If you ever want to re-enable the password prompt, run the same command but replace the **0** at the end with a **1**. This way the command will look like this.
 
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Using a Reg File
 
@@ -149,26 +146,13 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Now save the file as **enabled\_password.reg** and double-click it to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enjoy Password-Free Remote Access
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-pro-rated-apple-compreran-of-the-best-screen-recorders/"><u>[New] Pro-Rated Apple Compreran of the Best Screen Recorders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>[Updated] Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
-<li><a href="https://win11.techidaily.com/best-vm-options-compatible-with-windows-11-pcs/"><u>Best VM Options Compatible With Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-pc-inquiry-speed-using-everythingapp/"><u>Boost PC Inquiry Speed Using EverythingApp</u></a></li>
-<li><a href="https://win11.techidaily.com/choco-vs-wslm-optimal-windows-software-downloader/"><u>Choco vs WSLM: Optimal Windows Software Downloader</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-windows-n-series-what-you-need-to-know/"><u>Delving Into Windows N Series: What You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easily-update-dell-drivers-for-windows-10/"><u>Easily Update Dell Drivers for Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/framing-emotions-through-color-grading-for-2024/"><u>Framing Emotions Through Color Grading for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/free-guide-converting-dvds-to-mp4-format-on-windows-11/"><u>Free Guide: Converting DVDs to MP4 Format on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-find-x6-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Find X6 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722966327335-step-by-step-tutorial-update-your-amd-smbus-driver-today/"><u>Step-by-Step Tutorial: Update Your AMD SMBus Driver Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/tips-for-resolving-repeated-hiccups-in-your-warframe-gaming-experience/"><u>Tips for Resolving Repeated Hiccups in Your Warframe Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/winfreedomgpt-guide-launching-unrestricted-chatbots/"><u>WinFreedomGPT Guide: Launching Unrestricted ChatBots</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +161,27 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-xsplit-versus-obs-ultimate-livestream-guide/"><u>[New] 2024 Approved XSplit versus OBS – Ultimate Livestream Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pixelprofilers-picks-top-tools-for-your-screen-snapping-needs-for-2024/"><u>[New] PixelProfiler's Picks Top Tools for Your Screen Snapping Needs for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-quickshot-maker-for-videoplusimage-sync/"><u>[New] QuickShot Maker for Video+Image Sync</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outube-revenue-verification-confirming-pro-rated-earnings-for-2024/"><u>[New] YouTube Revenue Verification Confirming Pro-Rated Earnings for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-optimizing-your-video-images-for-instagram-highlights/"><u>[Updated] 2024 Approved Optimizing Your Video Images for Instagram Highlights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-integrating-timestamps-in-youtube-content/"><u>[Updated] In 2024, Integrating Timestamps in YouTube Content</u></a></li>
+<li><a href="https://win11.techidaily.com/decreasing-power-drain-windows-extender-optimization/"><u>Decreasing Power Drain: Windows Extender Optimization</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workspace-integrating-spotlight-images-into-wallpaper/"><u>Elevate Your Workspace: Integrating Spotlight Images Into Wallpaper</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-methods-purging-directdraw-problems-from-win1011-systems/"><u>Expert Methods: Purging DirectDraw Problems From WIN10/11 Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-set-up-4k-gaming-on-your-xbox-series-x/"><u>How to Set Up 4K Gaming on Your Xbox Series X</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-curve-concepts-for-text-visualization/"><u>In 2024, Crafting Curve Concepts for Text Visualization</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-6s-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 6s</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-0x00000001-restoring-xbox-playability/"><u>Remedy for 0X00000001: Restoring Xbox Playability</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-tasks-using-supercharged-run-tool-in-windows-1011/"><u>Streamline Tasks Using Supercharged Run Tool in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-critical-failures-in-windows-with-error-code-c0000022/"><u>Tackling Critical Failures in Windows with Error Code C0000022</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-an-improved-taskbar-on-windows-11/"><u>Tips for an Improved Taskbar on Windows 11</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transfer-films-directly-onto-your-ipad-without-using-itunes/"><u>Transfer Films Directly Onto Your iPad Without Using iTunes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-office-overcoming-activation-failures/"><u>Troubleshooting Office: Overcoming Activation Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-efficiency-getting-acquainted-with-window-11s-search-tool/"><u>Unleash Efficiency: Getting Acquainted With Window 11’S Search Tool</u></a></li>
+</ul></div>
+

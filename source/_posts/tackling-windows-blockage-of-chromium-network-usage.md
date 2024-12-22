@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows' Blockage of Chromium Network Usage
-date: 2024-12-11T09:28:18.672Z
-updated: 2024-12-12T19:25:29.958Z
+date: 2024-12-21T16:49:47.464Z
+updated: 2024-12-22T18:08:38.362Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Don't Give Chrome Exclusive Access Just Yet
 
  Before you give Chrome exclusive access through the firewall or antivirus, you must investigate why the connection is being blocked. Your browser may have been infected with malware or hijacked. Therefore, it is imperative to rule out both possibilities.
@@ -48,11 +44,16 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 3. In the right pane, click **Windows Security**.  
 ![Opening Windows Security window by Clicking on Privacy and Security in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-3-Opening-Windows-Security-Option-by-Clicking-on-Privacy-and-Security-in-Windows-Settings-App.jpg)
 4. Click **Firewall & network protection**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. On the right side of the **Windows Security** window, click on **Allow an app through firewall**.  
 ![Clicking on Allow an App Through Firewall in Windows Security Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-4-Clicking-on-Allow-an-App-Through-Firewall-in-Windows-Security-Settings-in-Windows-Settings-App.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Check if Chrome is already listed in the **Allowed applications** window. If it has already been added, select the app and click **Remove**. Afterward, add Chrome again by following the steps below. If Chrome has not been added yet, follow the steps below to add it for the first time.
@@ -62,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 4. In the **Add an app** window, click the **Browse** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Select Chrome's executable file by going to **C: drive > Program Files > Google > Chrome > Application**.  
@@ -74,10 +75,14 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 ![Checking the Boxes for Public and Private Options Next to Google Chrome to Whitelist It in Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-8-Checking-the-Boxes-for-Public-and-Private-Options-Next-to-Google-Chrome-to-Whitelist-It-in-Windows-Defender-Firewall.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use [other ways to make an exception in Windows 11](https://www.makeuseof.com/windows-11-security-exclusions/). Once Chrome is added, try opening the webpage again. If the browser still throws the same error, your antivirus is likely to blame. Therefore, you should also add an exception to your antivirus program for Chrome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Make an Exception for Chrome in an Antivirus
 
@@ -85,31 +90,11 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
 
  Check the documentation on the official websites of [Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/#pc), [Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows), [McAfee](https://www.mcafee.com/support/?articleId=TS102056&page=shell&shell=article-view), and [Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/) for instructions on creating an exception for any program in each antivirus. If you use a different program than those listed above, refer to your antivirus documentation for instructions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Help Chrome Establish a Successful Connection
 
  Allowing Chrome exclusive access to firewall and antivirus should help the browser establish a successful connection. You would, therefore, visit the webpage where you encountered the error before. In case the issue persists, you can change your browser since there are many great options available.
 
  As the error suggests, it's possible that your antivirus or firewall has detected malware in your browser or that the website you're visiting isn't safe. In this article, we will show you how to proceed when you encounter this error and how to whitelist Chrome in firewall and antivirus settings.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-adjusting-settings-for-audible-obs-broadcasts/"><u>[Updated] Adjusting Settings for Audible OBS Broadcasts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-what-lies-beneath-the-core-of-asmr-videos/"><u>2024 Approved What Lies Beneath The Core of ASMR Videos</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/comparative-analysis-of-german-vs-french-languages-usability/"><u>Comparative Analysis of German vs French Languages' Usability</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-exclusive-security-on-pcs-with-self-designed-pins/"><u>Crafting Exclusive Security on PCs with Self-Designed Pins</u></a></li>
-<li><a href="https://win11.techidaily.com/determining-the-necessity-do-windows-11-widgets-simplify-life/"><u>Determining the Necessity: Do Windows 11 Widgets Simplify Life?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-top-techniques-for-capturing-virtual-reality-gaming/"><u>In 2024, Top Techniques for Capturing Virtual Reality Gaming</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-nokia-105-classic-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Nokia 105 Classic Phone FRP Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/journey-to-top-level-user-rights-in-windows-control/"><u>Journey to Top-Level User Rights in Windows Control</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-dismissal-of-windows-11-pop-ups/"><u>Rapid Dismissal of Windows 11 Pop-Ups</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/streamline-fb-video-downloads-the-best-firefox-plugins-and-tools-of-the-year-for-2024/"><u>Streamline FB Video Downloads The Best Firefox Plugins and Tools of the Year for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-find-x6-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo Find X6 on Mac?</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +103,20 @@ thumbnail: https://thmb.techidaily.com/bbb97d5449382acc8b92ab96bfb70e5ca97a93f11
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-power-of-youtube-studio-for-ultimate-edits/"><u>[New] 2024 Approved Harness the Power of YouTube Studio for Ultimate Edits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-in-depth-training-on-googles-automatic-transcription-tool/"><u>[New] 2024 Approved In-Depth Training on Google's Automatic Transcription Tool</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-laptop-screen-recording-a-dell-guide/"><u>[New] In 2024, Mastering Laptop Screen Recording A Dell Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-5-secure-methods-to-maximize-instagram-earnings/"><u>2024 Approved Top 5 Secure Methods to Maximize Instagram Earnings</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-journey-10-key-windows-store-tools/"><u>Boost Your Journey: 10 Key Windows Store Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-disastrous-dism-0x800f082f-error/"><u>Demystifying Windows' Disastrous DISM 0X800F082F Error</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-ultimate-web-destinations-for-legally-acquiring-hit-hindi-movie-soundtracks/"><u>Discover the Ultimate Web Destinations for Legally Acquiring Hit Hindi Movie Soundtracks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fundamentals-of-crafting-engaging-stories/"><u>Fundamentals of Crafting Engaging Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-interface-effective-process-filtering-and-customizing-themes-in-w11/"><u>Navigating the Interface: Effective Process Filtering & Customizing Themes in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-grouped-taskbars-win-11-edition/"><u>No More Grouped Taskbars: Win 11 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-dreaded-steamvr-error-308/"><u>Troubleshooting Guide: Fixing the Dreaded SteamVR Error #308</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-affordable-entertainment-with-karaoke-usa-less-than-150-for-endless-singing-joy/"><u>Unlock Affordable Entertainment with Karaoke USA: Less Than $150 for Endless Singing Joy!</u></a></li>
+</ul></div>
+

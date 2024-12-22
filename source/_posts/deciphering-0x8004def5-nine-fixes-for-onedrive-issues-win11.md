@@ -1,7 +1,7 @@
 ---
 title: Deciphering 0X8004DEF5 - Nine Fixes for Onedrive Issues, Win11
-date: 2024-12-10T04:53:25.100Z
-updated: 2024-12-13T03:24:02.477Z
+date: 2024-12-16T16:29:35.453Z
+updated: 2024-12-22T18:06:49.808Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Terminate OneDrive and Restart the App
@@ -43,7 +43,11 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 5. Open the Start menu and type OneDrive. Click on the**Open** option and check if the error pops up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check if OneDrive Servers Are Down
@@ -62,7 +66,16 @@ thumbnail: https://thmb.techidaily.com/2ceae87a9b9364e8de7f8199f6943542799e9e444
 2. Now, type the following command and press the enter key:**shutdown /s /f /t 0**  
 ![Perform a complete system shutdown](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/perform-a-complete-system-shutdown.jpg)
 3. A complete shutdown will take longer than usual. Wait for the system to Restart and boot to the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Now, launch OneDrive and check if you can access your files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Switch Network Connections
 
@@ -82,6 +95,11 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 5. Return to the logs folder and**delete** the**userTelemetryCache.otc** file.  
 ![Clear OneDrive Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clear-onedrive-logs.jpg)
 6. Close the File Explorer and restart your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Launch OneDrive and then check if it encounters the same error code.
 
 ## 6\. Reset OneDrive
@@ -95,10 +113,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 ![Reset OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-1.jpg)
 4. Close the app after you see the "Reset completed" message. Restart your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall OneDrive Using Winget
 
  If resetting the app didn't work, consider a complete reinstall. It will fix any underlying corruption with the app files and install the latest version on your system. Here's how to do it with the Winget tool:
@@ -109,10 +123,6 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 4. Wait for winget to remove OneDrive from your system. To confirm the uninstallation, type the following command:**winget list onedrive**
 5. You will see that no package named OneDrive is not present on your system.  
 ![Reinstall OneDrive 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reinstall-onedrive-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 1. Type**cls** to clear the command prompt window.
 2. Now, input the following command and press the enter key:**winget install Microsoft.OneDrive**  
@@ -126,17 +136,9 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
  New Windows updates can sometimes wreck your system and break app compatibility. If OneDrive runs fine before installing a new update,[roll back the Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) . It could take longer if the update file is too big and not all Windows updates can be undone. After that, restart your system and try running the OneDrive app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Restore or Reset the PC
 
  If you still face the OneDrive error code, it's time to[perform a System Restore or a Windows Reset](https://www.makeuseof.com/windows-reset-system-restore-difference/) . It will help you revert to an old but working system configuration when OneDrive was working fine. Look for the most recent restore point in the wizard and use that.[Perform a factory reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) only if you don't have any Windows Restore points available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make OneDrive Functional Again
 
@@ -157,24 +159,19 @@ C:\Users\UserName\AppData\Local\Microsoft\OneDrive\setup\logs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-dodgingdullnessaftermycam/"><u>[New] 2024 Approved DodgingDullnessAfterMyCam</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-harnessing-the-power-of-visual-appeal-in-your-youtube-advertising/"><u>[New] In 2024, Harnessing the Power of Visual Appeal in Your YouTube Advertising</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-most-innovative-arvr-iphoneandroid-apps/"><u>[Updated] 2024 Approved Most Innovative AR/VR iPhone/Android Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-tips-uncovering-12-prime-websites-for-affordable-images/"><u>2024 Approved Pro Tips Uncovering 12 Prime Websites for Affordable Images</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722999664695-beat-zooms-heavy-cpu-usage-with-these-effective-fixes/"><u>Beat Zoom's Heavy CPU Usage with These Effective Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-the-worst-aspects-of-windows-11-for-users/"><u>Dissecting the Worst Aspects of Windows 11 for Users</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-graphics-with-these-top-6-stress-test-apps/"><u>Elevate Graphics with These Top 6 Stress Test Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-8-customizations-with-bubble-ui/"><u>Enhance Your Windows Experience: 8 Customizations with Bubble UI</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-reliable-operation-with-essential-windows-11-device-uptime-methods/"><u>Ensuring Reliable Operation with Essential Windows 11 Device Uptime Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/experience-brilliant-outdoor-visuals-with-sunbritetvs-sturdy-and-high-definition-veranda-screen-55-inch-4k-hdr/"><u>Experience Brilliant Outdoor Visuals with SunBriteTV’s Sturdy and High-Definition Veranda Screen, 55-Inch 4K HDR</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-high-dynamic-range-on-windows-an-essential-handbook/"><u>Exploring High Dynamic Range on Windows: An Essential Handbook</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-frequencies-fused-mac-studios-soundscapes/"><u>In 2024, Frequencies Fused Mac Studios Soundscapes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-sculpting-the-visual-narrative-a-composers-approach-to-transition-craftsmanship/"><u>In 2024, Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-share-the-laughter-mastering-kinemaster/"><u>In 2024, Share the Laughter Mastering KineMaster</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/inside-ussd-how-does-unstructured-supplementary-service-data-work/"><u>Inside USSD: How Does Unstructured Supplementary Service Data Work?</u></a></li>
-<li><a href="https://win11.techidaily.com/master-access-in-windows-11-11-tips-for-credential-manager/"><u>Master Access in Windows 11: 11 Tips for Credential Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-fine-tuning-ntfs-file-compression/"><u>The Essential Guide to Fine-Tuning NTFS File Compression</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cannot-find-powershell/"><u>What to Do When Windows Cannot Find PowerShell</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-netstat-command-your-gateway-to-network-analysis/"><u>Windows 11 Netstat Command: Your Gateway to Network Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigate-the-maze-of-gopro-4k-an-editors-manual/"><u>[New] Navigate the Maze of GoPro 4K An Editor's Manual</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-crafting-artful-pictures-on-android-devices/"><u>[Updated] 2024 Approved Crafting Artful Pictures on Android Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-wi-fi-disconnect-in-win-11/"><u>Best Practices for Wi-Fi Disconnect in Win 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-and-powerful-an-in-depth-review-of-the-monoprice-graphic-tablet/"><u>Budget-Friendly and Powerful: An In-Depth Review of the Monoprice Graphic Tablet</u></a></li>
+<li><a href="https://discover-data.techidaily.com/come-recuperare-una-partizione-cancellata-in-windows-che-non-si-avvia/"><u>Come Recuperare Una Partizione Cancellata in Windows Che Non Si Avvia</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-uninstalling-apps-on-windows-11/"><u>Efficiently Uninstalling Apps on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-note-12-proplus-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi Note 12 Pro+ 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100-phone-without-pin-by-drfone-android/"><u>How to Unlock Vivo Y100 Phone without PIN</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-film-frenzy-top-picks-of-free-and-paid-movies-on-iphones/"><u>In 2024, Film Frenzy Top Picks of Free & Paid Movies on iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-live-gaming-streams-on-windows-via-intels-toolkit/"><u>Optimize Live Gaming Streams on Windows via Intel's Toolkit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/real-life-tests-of-chatgpts-potential/"><u>Real-Life Tests of ChatGPT's Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-shopkeepers-integrating-covert-window-11-menus/"><u>Silent Shopkeepers: Integrating Covert Window 11 Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-workflow-5-best-windows-11-productivity-tools/"><u>Skyrocket Workflow: 5 Best Windows 11 Productivity Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-ios-175s-unexpected-feature-auto-recovery-of-lost-images-learn-how-apple-did-it-and-next-steps-for-users/"><u>Understanding iOS 17.5'S Unexpected Feature: Auto-Recovery of Lost Images! Learn How Apple Did It & Next Steps for Users</u></a></li>
 </ul></div>
 

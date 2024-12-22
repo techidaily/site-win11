@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Managing Tasks & Customizing Themes"
-date: 2024-12-08T04:06:48.354Z
-updated: 2024-12-13T03:28:51.471Z
+date: 2024-12-16T17:55:49.108Z
+updated: 2024-12-22T18:10:16.179Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Filter Processes Using the Task Manager Filter
 
  You no longer need a third-party app to install a search bar in the Task Manager.
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  Check what Windows build your PC has by typing**About your PC** in the search bar and exploring your PC info, as you can see in the screenshot below.
 
 ![About Your PC Page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/about-your-pc-settings-page-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your Windows OS build is 22621.1344 or higher, you'll see a Filter or Search Bar in the Task Manager.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![Task Manager With Search Filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-manager-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  So, you can filter the processes by searching for a specific program or an app. Or maybe bring up all the Microsoft apps running in a single search by just typing Microsoft in the App history.
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![Search Result of Microsoft Apps In Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-microsoft-apps-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Undoubtedly, it will make things easy and speedy by instantly bringing up your search results—no more sifting through processes to find the one you need information on. It can be handy, especially if you are a Windows power user who likes to explore what's going on with your computer.
@@ -66,13 +66,13 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 ![Search Result of a Specific Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-manager-filter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Moreover, the Task Manager filter works across various pages—Processes, App history, Startup apps, Details, and Services.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set a Task Manager Theme Different From the Windows Theme
@@ -116,14 +116,19 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-audio-best-practices-for-5-windows-11-applications/"><u>[New] 2024 Approved Mastering Audio Best Practices for 5 Windows 11 Applications</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/1-how-to-install-and-run-windows-defender-on-your-mac-a-step-by-step-guide-by-yl-computing/"><u>1. How to Install and Run Windows Defender on Your Mac - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd-mp4aviwmvmkv/"><u>DVDへの移行 - MP4、AVI、WMV、MKVで効率的変換手順</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-closing-several-programs-at-once-in-windows/"><u>Efficient Methods: Closing Several Programs at Once in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/final-cut-pros-top-10-vfx-power-players/"><u>Final Cut Pro’s Top 10 VFX Power Players</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/powerful-tactics-for-using-windows-explorer-not-ls/"><u>Powerful Tactics for Using Windows Explorer, Not LS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-9-methods-for-altering-windows-sound-settings/"><u>Unlock 9 Methods for Altering Windows Sound Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-control-panel-lost-find-unlisted-system-configurations/"><u>Win11 Control Panel Lost, Find Unlisted System Configurations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-picks-for-professional-4k-reflective-tech/"><u>[New] 2024 Approved Top Picks for Professional 4K Reflective Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/acks-for-preventing-youtube-short-failures-for-2024/"><u>[New] Hacks for Preventing YouTube Short Failures for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[New] In 2024, Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-video-constructor-suite/"><u>[New] In 2024, Video Constructor Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-devices-in-the-dormant-system-state/"><u>Controlling Devices in the Dormant System State</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-ratio-valorant-optimization-guide/"><u>Enhancing Win Ratio: Valorant Optimization Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/fix-your-crashing-file-explorer-7-essential-troubleshooting-steps/"><u>Fix Your Crashing File Explorer: 7 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-9-metaverse-blueprints-illuminating-virtual-realities/"><u>In 2024, 9 Metaverse Blueprints Illuminating Virtual Realities</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-intermittent-default-printer-choice/"><u>Managing Intermittent Default Printer Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-t5-ssd-massive-discount-on-amazon-up-to-50-savings-before-the-big-prime-event-insider-deal/"><u>Samsung T5 SSD Massive Discount on Amazon: Up to 50% Savings Before the Big Prime Event - Insider Deal</u></a></li>
+<li><a href="https://win-special.techidaily.com/securely-transitioning-from-windows-881-to-an-ssd-drive-a-comprehensive-guide/"><u>Securely Transitioning From Windows 8/8.1 to an SSD Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-11s-mail-app-converting-html-in-emails-back-to-plain-text/"><u>Solutions for Windows 11'S Mail App: Converting HTML in Emails Back to Plain Text</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-ending-the-gpsvc-hang-up-loop/"><u>Strategies for Ending the GPSVC Hang-Up Loop</u></a></li>
 </ul></div>
 

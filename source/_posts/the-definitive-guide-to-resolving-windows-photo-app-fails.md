@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to Resolving Windows Photo App Fails
-date: 2024-12-06T01:54:42.021Z
-updated: 2024-12-13T03:41:36.374Z
+date: 2024-12-18T18:05:44.255Z
+updated: 2024-12-22T16:02:17.157Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try Some General Fixes First
 
  Before taking you to the troubleshooting methods, we recommend trying out these quick and eassy tips:
@@ -43,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  Trying the above-listed quick tips may resolve many minor camera app glitches. But, if you're still unable to use the Camera app, let's see some troubleshooting methods to fix that.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Adjust the Camera Privacy Settings
 
  Issues launching the camera often arise from incorrect privacy permissions. We believe you may have mistakenly denied permission for the Camera app, when your system asked you for it, first. In this case, you'll see an error saying "**We need your permission**".
@@ -53,18 +53,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Camera App Permission Error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-app-permission-error.jpg)
 2. Toggle on or enable the **Camera access** and then, **Camera options** to resolve the permission issue.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows Camera Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-privacy-settings.jpg)
 3. Once you grant the permission, re-open the Camera app.
 
  This should work for you if the Camera app is opening properly but asking for permission. Besides the Camera app, you can toggle permission on any other trusted apps you want to use your camera in.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Restart or Enable the Camera-Related Windows Services
 
@@ -77,8 +69,17 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 3. Right-click on the service name and click on **Start**. If that service is already running, then choose the **Restart** option.  
 ![Windows Camera Frame Server Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-frame-server-service.jpg)
 4. Repeat the same steps to restart the **Windows Camera Frame Server Monitor** as well as the **Windows Image Acquisition (WIA)** service.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Camera Frame Server Monitor Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-camera-frame-server-monitor-service.jpg)
 5. After you start all the given services, restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, now the Camera app should work as normally it would. You can try clicking a picture or recording a quick video for testing.
 
@@ -92,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  Outdated, or no drivers frequently disrupt the camera and so, the Camera app refuses to open. But, once you update the drivers, it can clear up many camera problems caused by buggy drivers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Modify the Group Policy Settings
 
  If you've used some kind of Windows tweaking tool recently, like O&O ShutUp10++, chances are the Group Policy settings are modified too. This may be the major reason why the Camera app is showing you a blank screen.
@@ -104,13 +109,18 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Camera Group Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-group-policy-setting.jpg)
 4. Then choose the **Enabled** option and click on **OK** to apply the selected settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Camera Properties In Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/camera-properties-in-group-policy.jpg)
 5. Similarly, go to **App Privacy** under **Windows Components** and enable the **Let Windows apps access the camera** setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Group Policy Editor App Privacy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/group-policy-editor-app-privacy-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the "Get Help" App for Troubleshooting
 
@@ -125,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 2. Once done, it will walk you through some automated steps to fix your camera problems. You need to click on any one option that you consider the best.  
 ![Get Help App Questions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/get-help-app-questions.jpg)
 3. After the last question, restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The best thing about Get Help is that it automatically performs the required troubleshooting measures. You need not do anything technical on your own. Besides the camera app issue, learn [what you can do with the Get Help app](https://www.makeuseof.com/troubleshooters-get-help-app-windows/).
 
@@ -145,18 +151,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 ![Repair Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/repair-camera-app-option.jpg)
 4. Once you see the tick or check mark, click on **Reset** to reinstall a fresh copy of the app and wipe all previous data and settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Reset Camera App Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/reset-camera-app-option.jpg)
 5. After a reset, reopen the Camera app and check for the issue you were facing earlier.
 
  The Camera app is good for taking casual pictures and recording short videos. But, if you need more than just the basic features, try out any of the [best webcam apps for Windows](https://www.makeuseof.com/windows-best-webcam-apps/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Set Up Your Smartphone as a Camera
 
@@ -166,6 +164,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  Once you set up your device with your computer, you should be able to use the Camera app for all the camera-related tasks. Though, as mentioned earlier, it's a temporary method so, you may surely require a [good quality webcam for your computer](https://www.makeuseof.com/best-webcams-for-remote-work/) in the future for the long run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## All Your Windows Camera Troubles, Solved
 
  After following our guide, you should hopefully get the Camera app working again. Remember that the Camera app relies on a working webcam, so make sure to take care of your webcam properly. Also, consider upgrading your webcam if you face screen freezing issues with your current one.
@@ -174,22 +176,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  Don't worry; in this article, we'll walk through all the common fixes for camera app-related problems on Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-convenient-methods-for-macbook-pros-video-recording/"><u>[New] Convenient Methods for MacBook Pro's Video Recording</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-the-best-approach-to-enhancing-your-4k-vision-with-a-new-lens-for-2024/"><u>[New] The Best Approach to Enhancing Your 4K Vision with a New Lens for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-starting-a-youtube-channel-the-ultimate-blueprint/"><u>[Updated] 2024 Approved Starting a YouTube Channel The Ultimate Blueprint</u></a></li>
-<li><a href="https://win11.techidaily.com/5-hacks-for-accessing-windows-repair-options/"><u>5 Hacks for Accessing Windows Repair Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-m34-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy M34 Through Google Earth?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-compelling-channel-names-simplified/"><u>In 2024, Creating Compelling Channel Names Simplified</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-note-13-pro-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi Note 13 Pro 5G Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-mkv-conversion-to-mp4-in-windows-systems/"><u>Simplifying MKV Conversion to MP4 in Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-issues-with-ccleaner-not-working-on-windows-1011/"><u>Solving Issues with CCleaner Not Working on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-secure-entry-into-windows-admin-console/"><u>Steps for Secure Entry Into Windows' Admin Console</u></a></li>
-<li><a href="https://facebook.techidaily.com/tech-titans-takedown-unpacking-government-regulatory-actions/"><u>Tech Titans Takedown: Unpacking Government Regulatory Actions</u></a></li>
-<li><a href="https://win11.techidaily.com/the-unseen-power-in-photo-erasing-on-windows/"><u>The Unseen Power in Photo Erasing on Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -197,3 +183,25 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-are-reviews-on-merchandise-streamed-for-cash-in-2024/"><u>[New] Are Reviews on Merchandise Streamed for Cash, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-disable-live-recording-in-quicktime-player-for-2024/"><u>[New] How to Disable Live Recording in QuickTime Player for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-snap-fast-moments-iphone-methods-for-blur-effects-for-2024/"><u>[New] Snap Fast Moments IPhone Methods for Blur Effects for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-f14-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy F14 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/analyzing-windows-n-options-for-home-users/"><u>Analyzing Windows N Options for Home Users</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-team-productivity-with-smaller-footprint/"><u>Boosting Team Productivity with Smaller Footprint</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-extract-zip-files-in-windows-11-heres-how-to-fix-it/"><u>Can’t Extract ZIP Files in Windows 11? Here’s How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-uninterrupted-youtube-streaming-on-chrome/"><u>Ensuring Uninterrupted YouTube Streaming on Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-common-issues-with-winservicesexe-on-windows/"><u>Fixing Common Issues with Winservices.exe on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/1719337024529-get-chrome-back-in-windows-11-quick-recovery-methods/"><u>Get Chrome Back in Windows 11 – Quick Recovery Methods.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-camon-20-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Camon 20 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-masterpiece-creation-in-ae-with-top-tier-plugin-selection/"><u>In 2024, Masterpiece Creation in AE with Top-Tier Plugin Selection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oppo-a2-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Oppo A2</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/synchronize-subtitles-navigating-textual-glitches-with-prime-and-windows-11/"><u>Synchronize Subtitles: Navigating Textual Glitches with Prime & Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-microsoft-outlook-errors-on-desktops/"><u>Tackling Microsoft Outlook Errors on Desktops</u></a></li>
+</ul></div>
+

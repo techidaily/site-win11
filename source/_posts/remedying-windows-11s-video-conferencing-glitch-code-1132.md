@@ -1,7 +1,7 @@
 ---
 title: "Remedying Windows 11'S Video Conferencing Glitch: Code 1132"
-date: 2024-12-11T00:48:52.332Z
-updated: 2024-12-13T07:20:24.005Z
+date: 2024-12-16T16:32:42.518Z
+updated: 2024-12-22T17:54:38.391Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Reboot Your Router
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -66,23 +66,24 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 5. Double-click any Zoom rule you find listed there.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
  Aside from that, consider checking if Zoom is permitted to communicate through the firewall. Windows Defender Firewall has an allowed app list in which you can select to authorize or disable Zoom and other software to establish connections through it. Select the**Private** and**Public** checkboxes for Zoom in that allowed app list. See our guide about[allowing apps through the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
 
@@ -102,13 +103,14 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
@@ -121,16 +123,16 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
 3. When you’ve set up a new local Windows user account, log out of your current one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
 6. Then open and sign in to the Zoom app.
 7. Select to join a Zoom meeting again.
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Join Your Zoom Meetings Again on Windows
 
@@ -151,16 +153,16 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-immersive-tech-critical-review-of-vr-gadgets/"><u>[New] Immersive Tech Critical Review of VR Gadgets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-capture-and-save-windows-screen-shots-made-simple/"><u>[New] In 2024, Capture and Save Windows Screen Shots Made Simple</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-advanced-shade-realist-app/"><u>2024 Approved Advanced Shade Realist App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-itel-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Itel S23+</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-familiarity-migrating-custom-powertoys-on-a-new-device/"><u>Bringing Familiarity: Migrating Custom PowerToys on a New Device</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-tips-setting-up-outlook-preview-app-on-winoss/"><u>Efficient Tips: Setting Up Outlook Preview App on WinOSs</u></a></li>
-<li><a href="https://win11.techidaily.com/from-zero-to-zenith-master-desktop-design-in-wins/"><u>From Zero To Zenith: Master Desktop Design in Wins</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Passcode Screen?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-startup-program-management-for-a-flawless-windows-11-start/"><u>Mastering Startup Program Management for a Flawless Windows 11 Start</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-landscape-of-windows-filter-keys/"><u>Navigating the Landscape of Windows' Filter Keys</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-microsoft-office-alternatives-ranked/"><u>The Ultimate Guide to Microsoft Office Alternatives - Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategies-for-selecting-and-syncing-music-with-visuals/"><u>[New] Strategies for Selecting and Syncing Music with Visuals</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-tutorial-on-setting-up-and-configuring-echo-dot/"><u>Beginner's Tutorial on Setting Up and Configuring Echo Dot</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/diy-troubleshooting-ensuring-your-windows-webcam-works-properly/"><u>DIY Troubleshooting: Ensuring Your Windows Webcam Works Properly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-ms-store-malfunctions-error-code-0x80072f17-solution/"><u>Mending MS Store Malfunctions: Error Code 0X80072f17 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-script-setbacks-winerror-solutions-revealed/"><u>Navigating Script Setbacks: WinError Solutions Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-with-windows-11-rebuild/"><u>New Horizons with Windows 11 Rebuild</u></a></li>
+<li><a href="https://win11.techidaily.com/reasons-behind-non-existent-drive-letters-and-fix-methods/"><u>Reasons Behind Non-Existent Drive Letters and Fix Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-rpg-sessions-with-ai-creating-dandd-characters-using-chatgpt-and-dall-e/"><u>Revolutionize Your RPG Sessions with AI: Creating D&D Characters Using ChatGPT and DALL-E</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-downloading-and-updating-insignias-bluetooth-receiver-software-for-windows-users/"><u>Step-by-Step Guide: Downloading & Updating Insignia's Bluetooth Receiver Software for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/team-meeting-screens-not-showing-up/"><u>Team Meeting Screens Not Showing Up?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Full Potential: Chromium Setup for Windows 11"
-date: 2024-09-05T08:26:25.529Z
-updated: 2024-09-06T08:26:25.529Z
+date: 2024-12-16T17:51:43.498Z
+updated: 2024-12-22T16:26:55.023Z
 tags:
   - windows10
   - windows11
@@ -30,56 +30,24 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
 ![selecting the about section in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By default, when you visit the[download Chrome webpage](https://www.google.com/chrome/browser/) , it will offer up the 32-bit version of Chrome. This is because the 32-bit version will run on 64-bit computers (the inverse, however, is not true—64-bit Chrome will not run on 32-bit Windows).
 
  So if you have a 32-bit system, simply click the**Download** button on this page. The download of the .exe file will begin after you accept Google's terms and conditions and choose if you want it as your default browser or not.
 
 ![System details in settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/about-system.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Those with a 64-bit system will want to visit the[64-bit Chrome download page](https://www.google.com/chrome/browser/?platform=win64) , which is specifically for 64-bit Windows. Once the download is complete, just run the .exe file as you normally would, and presto: you've got 64-bit Windows that can fully take advantage of all the perks of your system.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 64-bit Users: It's Time to Update
 
  You can verify which version you're running by clicking on the vertical ellipsis in the top-right corner of the Chrome browser and selecting**Settings** . You’ll be redirected to a new page. Here, choose**About Chrome** . Here, you can check if you're running 32-bit or 64-bit Chrome.
 
 ![checking the chrome version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/chrome-version.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're running 32-bit Chrome, don't worry; the transition is seamless. Simply download 64-bit Chrome as detailed above and run the installer. Once the installer is done, close Chrome completely.
 
  Then reopen Chrome. You can go back to the**About Google Chrome** screen to verify that you're running 64-bit Chrome now. All your bookmarks and synced info should remain exactly as it was, and you can even open the last tabs you were using by clicking on the vertical ellipsis once again, and hovering over the**History** option.
@@ -92,11 +60,19 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  Chrome Canary, on the other hand, is much riskier than the Beta. Canary is for the bleeding edge folks who want the latest and greatest and are willing to sacrifice stability. Thankfully, Canary runs as a separate app from stable Chrome, so you can have both running side-by-side. That way, if a major bug renders Canary unusable, you have stable Chrome as a backup.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What if Windows SmartScreen Can't Be Reached?
 
  If during the installation of your chosen version of Chrome, you get a large green bar across your screen that says**Windows SmartScreen Can't Be Reached** and won't allow you to run the installer, there's a simple fix.
 
 ![windows-64-5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/windows-64-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows Smartscreen is one of the many[security features of Windows 11](https://www.makeuseof.com/windows-11-quick-security-guide/) , and it's meant to protect you from viruses. When connected to the internet, Smartscreen scans any executable files (like the .exe that installs Chrome) and compares them to a list of known malware. This is a great last defense if you've accidentally downloaded malware and it has tried to install itself, but Chrome is obviously not malware.
 
@@ -108,14 +84,12 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
 ![selecting reputation-based protection in security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/reputation-based-protection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Doing this will disable Windows SmartScreen, although this is not recommended.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Trouble With Your Internet Connection?
 
  The Chrome installer needs the internet to properly install, but not everyone has a consistent and strong enough connection for it to work well. If that's the case, go ahead and download the[offline Chrome installer](https://support.google.com/chrome/answer/126299?hl=en) . After downloading the file, you can share it with another PC or install it on the PC you downloaded it to. Launch the installer and follow the on-screen instructions to install Chrome.
@@ -126,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  If your Chrome installation fails, it should give you an error number for why it failed. Remember that number, and you can look it up on[Google's Chrome support website](https://support.google.com/chrome/table/3097092?hl=en) for specific instructions on how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Start Menu and Taskbar Icons
 
  With Chrome installed, the icon will appear in your list of apps. You can see this list by pressing the Windows Key to get to the Start menu, and then either swiping up (on a touchscreen) or searching for**Chrome** (on a non-touchscreen).
@@ -134,52 +112,35 @@ thumbnail: https://thmb.techidaily.com/46562a4985b29bb04ac045f40f195ad5a81e8c6a7
 
  If you prefer to stay in the desktop environment, you can pin it to the Taskbar to keep it pinned to the bar that runs along the bottom of your desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Master the Chrome Keyboard Shortcuts
 
  We've provided a list of all the[keyboard shortcuts for Chrome](https://www.makeuseof.com/tag/google-chrome-shortcuts-pdf/) on Windows, and they're incredibly helpful for increasing the speed at which you can use your browser. Keep a list of the most useful ones for yourself and work on memorizing them—you won't regret it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Are You Using a Touchscreen? Enable Pinch-to-Zoom
 
  If your device has a touchscreen, pinch-to-zoom will be an invaluable feature. If it isn't working when you start Chrome, you can enable it by navigating to**chrome://flags/#enable-pinch** in the address bar and selecting**Enabled** from the drop-down menu for**Enable pinch scale** .
 
 If it ever gives you issues, you can always go back and disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Uninstall Chrome
 
  Switching to another browser and no longer want Chrome? Uninstallation is easy. Press the**Windows key** to get back to the Start menu and type**Uninstall** . Select**Apps & features** from the search results that appear on the left side.
 
  This will open a window on the desktop with a list of all your installed desktop applications. Find Chrome, select the vertical ellipsis to the app's right, and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Getting the Most Out of Chrome on Windows 11
 
  Chrome is the most-used browser on the market right now, and for good reason. Hopefully, by now, you've got Chrome all set up and working perfectly on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -188,4 +149,24 @@ If it ever gives you issues, you can always go back and disable it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-etiology-of-fetal-alcohol-syndrome/"><u>[New] 2024 Approved Etiology of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-boundless-gallery-of-forgotten-artists/"><u>[Updated] The Boundless Gallery of Forgotten Artists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel-for-2024/"><u>Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tweaks-for-an-improved-windows-11-installation-experience/"><u>Essential Tweaks for an Improved Windows 11 Installation Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/excellent-spots-for-tamil-ringtones-acquisition-guide-for-2024/"><u>Excellent Spots for Tamil Ringtones Acquisition Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011-unsigned-update-errors-quickly/"><u>Fixing Windows 10/11 Unsigned Update Errors Quickly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-upgrading-to-ultimate-a-wise-decision/"><u>Is Upgrading to Ultimate a Wise Decision?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-effortlessly-with-microsofts-gesture-control-feature-edge-edition/"><u>Navigate Effortlessly with Microsoft's Gesture Control Feature, Edge Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/script-to-system-making-your-bat-into-an-exe/"><u>Script to System: Making Your .bat Into an EXE</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-of-ms-office-works-on-win-11/"><u>Seamless Setup of MS Office Works on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-addressing-write-restricted-errors-in-windows-11/"><u>Strategies for Addressing Write-Restricted Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-sticky-note-opening/"><u>The Insider's Guide to Sticky Note Opening</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-the-best-tablets-of-2-tech-trends-detailed-analysis-and-ratings/"><u>The Ultimate Guide to the Best Tablets of 2# Tech Trends - Detailed Analysis and Ratings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transferring-knowledge-in-ai-an-insight-into-transfer-learning/"><u>Transferring Knowledge in AI: An Insight Into Transfer Learning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ucinne-metody-hnuti-souboru-klicovych-slozek-pro-konverzace-vozovky-na-zvuci-movavi/"><u>Účinné Metody Hnutí Souboru Klíčových Složek Pro Konverzace Vozovky Na Zvuci - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-wireless-mouse-unplugging-and-plugging-it-back-in-windows/"><u>USB Wireless Mouse - Unplugging and Plugging It Back In (Windows)</u></a></li>
+</ul></div>
 

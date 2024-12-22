@@ -1,7 +1,7 @@
 ---
 title: How to Fix Dwarf Fortress Crashing on Windows
-date: 2024-12-10T09:15:35.653Z
-updated: 2024-12-12T17:24:41.843Z
+date: 2024-12-19T16:55:55.777Z
+updated: 2024-12-22T16:46:36.292Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Is Dwarf Fortress Crashing?
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Dwarf Fortress is most likely to crash due to a corrupted save file or a world going on for too long. This can cause instability when loading information which leads to a crash.
@@ -48,16 +44,12 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
  The game being on the Steam platform brings with it another share of troubleshooting steps. Take a look at our guide on[troubleshooting Steam issues on Windows](https://www.makeuseof.com/troubleshoot-windows-steam-games-not-playing/) and make sure you at least verify the integrity of the game files. That, combined with a system restart, is sometimes all you need to do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Force Dwarf Fortress to Use Dedicated Graphics
 
@@ -68,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
 
  This process varies depending on what brand or model your graphics card is. We have a guide that explains[how to make games use your dedicated GPU](https://www.makeuseof.com/how-to-set-default-gpu/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations
 
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 3. Click into the**Compatibility** tab and tick the box next to**Disable fullscreen optimizations.**
 
  Now give it a go. This option doesn't actually affect the visuals or gameplay in any way, so this option is safe to turn on as a "just in case" measure.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set the Resolution to Non-Widescreen
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
@@ -136,16 +136,18 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-reviving-brands-through-customer-video-appeals/"><u>[New] 2024 Approved Reviving Brands Through Customer Video Appeals</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/converti-il-tuo-file-caf-in-formato-wav-online-gratuito-con-movavi/"><u>Converti Il Tuo File CAF in Formato WAV Online Gratuito Con Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-sound-device-errors-with-audacity-windows/"><u>How to Resolve Sound Device Errors with Audacity (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/post-bsod-the-quest-for-system-logs-on-windows/"><u>Post-BSOD: The Quest for System Logs on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-madden-nfl-22-persistent-loading-issues/"><u>Resolved: Fixes for Madden NFL 22 Persistent Loading Issues</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/seamless-mp4-extraction-your-fb-video-fix-for-2024/"><u>Seamless MP4 Extraction – Your FB Video Fix for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/filmed-flair-tips-for-captivating-solo-videos/"><u>Self-Filmed Flair Tips for Captivating Solo Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-success-with-these-powerhouses-of-win-11-productivity/"><u>Skyrocketing Success with These Powerhouses of Win 11 Productivity</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-unwritable-file-problems-on-windows-11-platform/"><u>Steps to Fix Unwritable File Problems on Windows 11 Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-winmedia-errors/"><u>Strategies for Addressing WinMedia Errors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>[Updated] In 2024, The Tech Whiz's Playbook How to Nail Screen Recording on macOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-secrets-of-instagrams-latest-filters-for-2024/"><u>[Updated] Unlock the Secrets of Instagram's Latest Filters for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1732518230684-yl-computingu/"><u>通过内心修为与智慧对话：YL Computing的新文章，解开千亿个孤独者的心——U兄</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016459970-clear-sound-ahead-solve-cracking-noises-in-headphones-effectively-and-swiftly/"><u>Clear Sound Ahead! Solve Cracking Noises in Headphones Effectively & Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-rectifying-webcam-error-code-a00f4289-on-windows-11/"><u>Deciphering and Rectifying Webcam Error Code A00F4289 on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decode-the-benefits-in-depth-analysis-of-tp-link-deco-p9s-user-friendly-mesh-networking/"><u>Decode the Benefits: In-Depth Analysis of TP-Link Deco P9's User-Friendly Mesh Networking</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immersing-the-future-assessing-the-water-resilient-features-of-the-iphone-15-pro-max/"><u>Immersing the Future: Assessing the Water-Resilient Features of the iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-emoji-essentials-tips-and-tricks-for-effective-communication/"><u>IPhone Emoji Essentials: Tips and Tricks for Effective Communication</u></a></li>
+<li><a href="https://win11.techidaily.com/is-voice-access-not-working-on-windows-11-heres-how-to-fix-it/"><u>Is Voice Access Not Working on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-vivo-v30-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo V30 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ripristina-video-asf-a-formato-mp4-di-fatto-proprio-convertitore-online-gratuito/"><u>Ripristina Video ASF a Formato MP4 Di Fatto Proprio - Convertitore OnLine Gratuito</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-mouse-click-rate-with-just-a-few-tweaks/"><u>Skyrocket Mouse Click Rate with Just a Few Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-np-settings-a-simple-fix-guide/"><u>Windows NP Settings: A Simple Fix Guide</u></a></li>
 </ul></div>
 

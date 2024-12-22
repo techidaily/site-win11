@@ -1,7 +1,7 @@
 ---
 title: Remedying Failures in Windows Defrag Process
-date: 2024-09-05T08:26:26.119Z
-updated: 2024-09-06T08:26:26.119Z
+date: 2024-12-20T17:15:29.357Z
+updated: 2024-12-22T16:34:22.676Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fixing Defrag Issues,Windows Defrag Troubleshooting,Optimizing Defrag 
 thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5dfd6eae7e41b861cd70dad021.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remedying Failures in Windows Defrag Process
 
  The Disk Defragmenter tool is a Windows user's best friend. This tool fixes fragmentation issues so that your hard drive runs smoother, but it itself sometimes comes across problems of its own. If you're having trouble with your disk defragmenter, there are a few things you can do to resolve the problem.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  In this article, you will learn how to fix the Disk Defragmenter so it works properly again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Disk Defragmenter? Why Does It Stop Working?
 
  The Disk Defragmenter tool rearranges files on your hard drive so that they are stored in a contiguous manner. This helps to improve file access speed and overall system performance. Disk fragmentation can occur over time as you add, remove, and modify files on your hard drive.
@@ -43,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 3. Corrupt system files can also cause the service to malfunction. In such a case, it may be worthwhile running an SFC (System File Checker) scan as a way to diagnose the problem.
 
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Disk Defragmenter's Status
 
@@ -59,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the System File Checker tool
 
  Another way to fix your disk defragmenter is to run the System File Checker tool. This tool will scan all of your system files and replace any that are corrupt or missing.
@@ -87,18 +77,6 @@ To run the System File Checker, follow these steps:
 
  Once the scan is complete, restart your computer and try defragmenting again.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the CHKDSK Utility
 
  If your computer's Disk Defragmenter is still not working, you can try[running the CHKDSK utility](http://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) . This is a computer program designed to check the integrity of your hard drive, identify errors, and fix them.
@@ -110,12 +88,11 @@ To run the CHKDSK utility, follow the below steps:
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
 4. When you're in Command Prompt, type the following command and press Enter:  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -135,26 +112,25 @@ To run the CHKDSK utility, follow the below steps:
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -163,4 +139,19 @@ To run the CHKDSK utility, follow the below steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-essential-guide-to-editing-full-degree-videos-with-premiere-pro/"><u>[New] 2024 Approved Essential Guide to Editing Full Degree Videos with Premiere Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-raw-to-refined-mastering-the-art-of-pc-video-editing-on-windows-for-2024/"><u>[Updated] From Raw to Refined Mastering the Art of PC Video Editing on Windows for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-underwater-gopro-filter-setup/"><u>2024 Approved Ultimate Underwater Gopro Filter Setup</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-video-filter-installation-in-zoom-the-simplified-method/"><u>2024 Approved Video Filter Installation in Zoom The Simplified Method</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-0x800704b3-error-a-comprehensive-guide/"><u>Decoding Windows' 0X800704B3 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/from-failure-to-functionality-how-to-fix-windows-with-13-steps/"><u>From Failure to Functionality: How to Fix Windows with 13 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-ways-to-dive-into-your-windows-11-appsdirectory/"><u>Quick Ways to Dive Into Your Windows 11 AppsDirectory</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-ccleaner-on-win11-and-11/"><u>Rejuvenate CCleaner on Win11 & 11</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/selektive-datensicherung-fur-optimale-wiederherstellungsfahigkeit-entdecken-sie-die-power-von-onekey-backup-auf-der-partition-zur-wiederherstellung/"><u>Selektive Datensicherung Für Optimale Wiederherstellungsfähigkeit - Entdecken Sie Die Power Von OneKey Backup Auf Der Partition Zur Wiederherstellung</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-versatile-3-in-1-magsafe-charging-companion-for-effortless-tech-travel/"><u>The Ultimate Guide to the Versatile 3-in-1 MagSafe Charging Companion for Effortless Tech Travel</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-regain-network-connections/"><u>Win 10: Regain Network Connections</u></a></li>
+</ul></div>
 

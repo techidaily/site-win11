@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Method for Activating/Deactivating Windows Key
-date: 2024-12-08T09:43:53.586Z
-updated: 2024-12-12T22:57:31.129Z
+date: 2024-12-21T17:47:59.330Z
+updated: 2024-12-22T16:46:08.868Z
 tags:
   - windows10
   - windows11
@@ -46,17 +46,23 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 3. Click **Remap a key** under the **Keys** section.  
 ![powertoys keyboard manager remap key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-key.jpg)
 4. Click the **Add (+)** icon under **Select**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![powertoys keyboard manager remap keys add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-add.jpg)
 5. Next, click the **Select** button and press the **Windows key** on your keyboard. Assuming you want to disable the Win(Left) key, you’ll see Windows (Left) as the selected option. Click **OK**.
 6. Alternatively, click the drop-down menu and select the **Windows** key from the list of keyboard keys.  
 ![powertoys keyboard manager remap keys select win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-select-win-key.jpg)
 7. Next, click the **To Send** drop-down menu. Scroll to the top and select **Disable**. Alternatively, press **D** on your keyboard to locate the Disable option.  
-![powertoys keyboard manager remap keys disable win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-disable-win-key.jpg)
-8. Click the **OK** button in the top-right corner to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![powertoys keyboard manager remap keys disable win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-disable-win-key.jpg)
+8. Click the **OK** button in the top-right corner to save the changes.
 
 9. Click **Continue anyway** if a warning prompt appears.
 
@@ -69,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 2. Click the **Delete** (trashcan) icon to remove the remapping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Click **OK** to save the changes.
@@ -110,14 +116,14 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 6. Next, right-click on **Scancode Map** and select **Modify**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![modify keyboard layout scancode map binary value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-keyboard-layout-scancode-map-binary-value-registry-editor.jpg)
 7. Type the following binary value in the **Value data** field:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `00, 00, 00, 00, 00, 00, 00, 00  
@@ -127,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 9. Restart your computer to apply the changes.
 
  To enable the Windows key again, delete the **Scancode Map** binary value using the Registry Editor. This will disable the policy and restore the Windows key function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable the Windows Key Using the Group Policy Editor
 
@@ -145,17 +155,9 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![enable turn off windows key hotkeys group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-turn-off-windows-key-hotkeys-group-policy-editor.jpg)
 5. Select **Enabled** and click **Apply** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To apply the changes, you’ll need to restart your computer; alternatively, open Command Prompt as administrator, type gpupdate /force, and hit Enter to apply the changes immediately.
 
  If you need to re-enable the policy, open the **Turn off Windows key hotkeys** policy and set it to **Not Configured**. Click **Apply** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Taking Control of Your Windows Key
 
@@ -167,23 +169,6 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  Here's a step-by-step guide on how to turn the Windows key on and off in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-sure.techidaily.com/igital-domain-decision-which-platform-for-your-videos-in-2024/"><u>[New] Digital Domain Decision Which Platform for Your Videos, In 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-xiaomis-flight-tech-unveiled-in-4k-review-for-2024/"><u>[New] Xiaomi's Flight Tech Unveiled in 4K Review for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-amazing-appraisal-and-backup-options/"><u>[Updated] In 2024, Amazing Appraisal & Backup Options</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-guide-to-perfecting-your-yt-visual-footprint/"><u>[Updated] In 2024, The Ultimate Guide to Perfecting Your YT Visual Footprint</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-starting-a-sports-network-with-your-mac/"><u>[Updated] Starting a Sports Network with Your Mac</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-configure-youtube-pip-on-iphone-quickly/"><u>2024 Approved Configure YouTube PIP on iPhone Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-navigation-crafting-windows-11-links-for-uwp-apps/"><u>Effortless Navigation: Crafting Windows 11 Links for UWP Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-resolving-isdonedll-crashes-on-w11-os/"><u>Essential Tips: Resolving ISDone.dll Crashes on W11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/guidance-to-fix-erratic-time-estimate-indicator-on-win-11-os/"><u>Guidance to Fix Erratic Time Estimate Indicator on Win 11 OS</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/make-sure-people-can-find-you-with-airdrop-on-mac-a-guide-to-increased-connectivity/"><u>Make Sure People Can Find You with AirDrop on Mac: A Guide to Increased Connectivity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-fixing-failed-utorrent-setup-on-windows-devices/"><u>Preventing and Fixing Failed uTorrent Setup on Windows Devices</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-walkthrough-for-turning-on-administrator-account-in-windows-1178-easy-steps-inside/"><u>Ultimate Walkthrough for Turning On Administrator Account in Windows 11/7/8 - Easy Steps Inside!</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -191,3 +176,21 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-10-gratuitous-video-chats-with-desktop-viewing/"><u>[New] Top 10 Gratuitous Video Chats with Desktop Viewing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>[Updated] 2024 Approved Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>[Updated] 2024 Approved Pixel Perfect Photography Excelling in the Best 6 4K DSLRs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-cyberlink-the-pinnacle-of-digital-recording/"><u>[Updated] Cyberlink The Pinnacle of Digital Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/alternate-escapades-where-the-gta-v-lives-are-missing/"><u>Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-pro-and-regular-ipad-is-upgrading-worth-your-money/"><u>Choosing Between iPad Pro and Regular iPad: Is Upgrading Worth Your Money?</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-read-only-folders-without-compromise-in-windows/"><u>Correcting Read-Only Folders Without Compromise in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-intensity-the-ultimate-guide-to-video-audio/"><u>In 2024, Instagram Intensity The Ultimate Guide to Video Audio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-mastering-video-segmentation-the-easy-fades-way/"><u>In 2024, Mastering Video Segmentation The Easy Fades Way</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-your-pcs-dead-hub-a-windows-fix-guide/"><u>Resurrecting Your PC's Dead Hub: A Windows Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-microsoft-offices-0x80041015-problematic-error/"><u>Solutions to Microsoft Office's 0X80041015 Problematic Error</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-game-access-issues-windows-and-xbox-edition/"><u>Tackling Game Access Issues - Windows and Xbox Edition</u></a></li>
+</ul></div>
+

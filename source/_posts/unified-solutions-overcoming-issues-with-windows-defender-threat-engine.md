@@ -1,7 +1,7 @@
 ---
 title: "Unified Solutions: Overcoming Issues with Windows Defender Threat Engine"
-date: 2024-08-28T00:56:15.153Z
-updated: 2024-08-29T00:56:15.153Z
+date: 2024-12-15T17:17:48.440Z
+updated: 2024-12-22T16:37:19.664Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Regardless of what might be leading to the problem, the solutions we have listed below are sure to help you get the Virus & Threat Protection engine up and running for good. We suggest that before you proceed, restart your computer and retry installing the update. In some cases, a temporary system glitch can lead to the problem and a simple reboot can clear it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart the Security Center Service
 
  The Security Center service in Windows is responsible for managing security-related services, including Windows Defender. If the service is not functioning properly, it can prevent you from updating the Defender or using it at all
@@ -45,10 +49,19 @@ Here is how you can restart the Security Center Service:
 4. Choose**Properties** from the context menu.  
 ![Launch the properties of Security Center service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/security-center-properties.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and click**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Expand the dropdown for Startup type and choose**Automatic** .
 7. Click**Apply** \>**OK** to save the changes and then close the Services utility.
 
  You can now retry installing the Defender update and check if restarting the service fixed the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Edit the Relevant Registry Keys
 
@@ -68,21 +81,17 @@ Once that is done, proceed with the steps below:
 1. Double-click on it and under Value data, type**0** .  
 ![Change the value data to 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disableantispyware-key.jpg)
 2. Do the same with the**DisableAntiVirus** value in the same window.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. After this, navigate to the following location in the Registry Editor:  
 `HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`
 4. Here, right-click on the MSASCui.exe, MpCmdRun.exe, and MsMpEng.exe values one by one and choose**Delete** .  
 ![Delete the Registry entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-key.jpg)
 5. Finally, close the Registry Editor and restart your computer. Upon reboot check if the issue is resolved.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 3\. Manually Install the Update
 
  If the system cannot install the Windows Defender update automatically, you can also manually install it.
@@ -103,13 +112,7 @@ Here is how you can reset the Windows Security app:
 `Get-AppxPackage Microsoft.SecHealthUI -AllUsers | Reset-AppxPackage`  
 ![Command to Reset Windows Security in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Command-to-Reset-Windows-Security-.jpg)
 4. Once the command is executed, exit Powershell and check if the issue is resolved.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Remove Any Conflicting Software
 
  In case you have a third party installed on the system, it might be interfering with the processes of Windows Defender, preventing it from updating or functioning properly.
@@ -119,20 +122,18 @@ Here is how you can reset the Windows Security app:
  If you can successfully update Windows Defender after removing the third-party software, then it implies that the program was indeed the culprit. In this case, you can switch to a better third-party alternative. Here are some[best free antivirus programs](https://www.makeuseof.com/tag/ten-best-antivirus-programs/) that you can consider installing.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Windows Defender Up and Running Again
 
  Issues with the Windows Defender can be frustrating and expose your system to security threats. Hopefully, the solutions we have described above will help you fix the engine unavailable problem and use the security program to its full potential. If the problem occurs repeatedly in the future, you can report the issue to the official Microsoft support team and switch to a third-party solution until an official fix is released.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +142,23 @@ Here is how you can reset the Windows Security app:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channeling-success-navigating-the-new-youtube-membership-model/"><u>[New] In 2024, Channeling Success Navigating the New YouTube Membership Model</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-efficiently-isolate-key-moments-in-youtube-footage-for-2024/"><u>[Updated] Efficiently Isolate Key Moments in YouTube Footage for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/assessing-sns-hdr-pro-habits-and-alternative-options/"><u>Assessing SNS HDR Pro’ Habits & Alternative Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beeper-integration-boosted-by-automattic-takeover-the-future-of-messaging-services-under-new-management/"><u>Beeper Integration Boosted by Automattic Takeover – The Future of Messaging Services Under New Management</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discerning-the-good-and-bad-in-virtual-space/"><u>Discerning the Good & Bad in Virtual Space</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-0x0000011b-error-on-win11-operations/"><u>Eliminating the 0X0000011B Error on Win11 Operations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-managed-users-and-groups-in-win1110-homes/"><u>Enabling Managed Users and Groups in Win11/10 Homes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expertise-guide-for-effective-text-overlays-on-images/"><u>Expertise Guide for Effective Text Overlays on Images</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-x7e1-step-by-written-guide/"><u>Fixing Windows Error X7E1: Step-By Written Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimizing-hashtags-for-youtube-traffic-triplets/"><u>In 2024, Optimizing Hashtags for YouTube Traffic Triplets</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-tackle-unsuccessful-sync-with-onedrive-win1011/"><u>Methods to Tackle Unsuccessful Sync with OneDrive Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discord-installation-hurdles-on-pc-and-laptops/"><u>Overcoming Discord Installation Hurdles on PC & Laptops</u></a></li>
+<li><a href="https://win11.techidaily.com/refine-windows-defense-measures-add-ons-and-filters-for-context-menu/"><u>Refine Window's Defense Measures: Add-Ons and Filters for Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-off-high-contrast-in-windows-os/"><u>Switching Off High Contrast in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-system-repairs-with-keyboard-shortcuts-on-windows-11/"><u>Unlock System Repairs with Keyboard Shortcuts on Windows 11</u></a></li>
+</ul></div>
 

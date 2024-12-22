@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Hypothetical Device Mistake in Win 11
-date: 2024-12-08T17:46:50.350Z
-updated: 2024-12-13T13:19:59.512Z
+date: 2024-12-18T17:04:18.811Z
+updated: 2024-12-22T17:42:15.274Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,11 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 
  If you need to resolve this error for an internal drive, check the drive’s internal connections. To do that, you’ll need to open the case for a desktop PC. Then make sure none of the drive’s connection cables are in any way loose.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC Tool
 
  Users have confirmed the System File Checker tool can resolve this drive error. That highlights system file corruption can cause this issue, which an SFC scan will likely resolve. Our guide to[running a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to execute the SFC command in Windows.
 
 ![The sfc /scannow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run a Check Disk Scan for the Drive
 
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 `chkdsk X: /f /r`  
 ![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chkdsk-scan.jpg)
 5. Press**Enter** to initiate the scan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll need to replace X in the above command with the actual letter of the affected drive you need to scan. For example, the command for a drive labeled D would be:
 
@@ -70,15 +66,25 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 3. Right-click the affected drive and select**Change Drive Letter and Paths** .  
 ![The Change Drive Letter and Paths option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-paths.jpg)
 4. Press the**Change** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Change Drive Letter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-drive-letter-window.jpg)
 5. Click the drop-down menu for the**Assign the following drive lette** r option.  
 ![The Assign the following drive letter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/assign-the-following-drive-letter.jpg)
 6. Select a drive letter that you’ve never used.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**OK** on the Change Drive Letter or Path window.
 8. Select**Yes** on the Disk Management confirmation dialog.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Rescan a Drive
@@ -93,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 5. Select**Rescan Disks** on the menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Select the Full Control Option for a Drive Location
@@ -125,10 +131,6 @@ Insert the affected drive into one of your PC’s USB ports.
 5. Disconnect the drive plugged into the PC.
 6. Plug the drive back into the computer to reinstall its driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Update Your Motherboard’s Chipset Driver
 
  It might be necessary for some users to update motherboard drivers to fix this issue. To do so manually, you’ll need the motherboard model and manufacturer details. You can check those details as follows:
@@ -138,21 +140,22 @@ Insert the affected drive into one of your PC’s USB ports.
 3. Note down the**BaseBand Product** and**BaseBand Manufacturer** details.  
 ![Baseboard specs in System Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-specs.jpg)
 4. [Open the Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) if the System Information app doesn’t include a serial number for the motherboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Execute this baseboard command:  
 `wmic baseboard get product,Manufacturer,version,serialnumber`  
 ![The baseboard command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/baseboard-command.jpg)
 6. Copy and paste the serial number for the motherboard shown within the Command Prompt into Notepad or another text editor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then open the download section of your motherboard manufacturer’s website. Select your motherboard model and download its latest chipset driver from there. You can install the new driver for your motherboard with the downloaded driver (setup.exe) package file.
 
  The driver package might be included within a ZIP archive, which you’ll need to extract as outlined within this guide to[unzipping files in Windows](https://www.makeuseof.com/unzip-files-windows-10/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Access Your Drive Again on Windows
@@ -174,20 +177,24 @@ Insert the affected drive into one of your PC’s USB ports.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-downloading-facebook-videos-to-mp4-no-hassle/"><u>[New] Downloading Facebook Videos to MP4 - No Hassle</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-thriving-in-thumbnails-creating-impressive-youtube-on-macos/"><u>[New] In 2024, Thriving in Thumbnails Creating Impressive Youtube on macOS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-amplify-reach-todays-most-effective-instagram-tag-strategies/"><u>[Updated] Amplify Reach Today's Most Effective Instagram Tag Strategies</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-hero-4-vs-hero-5-performance-face-off/"><u>[Updated] Hero 4 VS Hero 5 Performance Face-Off</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow/"><u>[Updated] Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unifying-media-files-from-desktop-to-iphone/"><u>[Updated] Unifying Media Files From Desktop to iPhone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-custom-subscribe-urls-for-online-content/"><u>2024 Approved Creating Custom Subscribe URLs for Online Content</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-flawless-powerpoint-outputs-9-steps-for-windows-users/"><u>Achieving Flawless PowerPoint Outputs: 9 Steps for Windows Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-canon-mf4500-driver-for-optimal-printing-performance/"><u>Download and Install Canon MF4500 Driver for Optimal Printing Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-move-your-qbittorrent-installation-to-a-different-windows-pc/"><u>How to Move Your qBittorrent Installation to a Different Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-labyrinth-of-identities-finding-sids-on-win11/"><u>Navigating the Labyrinth of Identities: Finding SIDs on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-setup-utilize-windows-11s-troubleshooting/"><u>Streamline Your Setup: Utilize Windows 11'S Troubleshooting</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-attaching-notes-to-windows-apps/"><u>The Art of Attaching Notes to Windows Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-and-resolving-0x800704cf-error-in-windows-store/"><u>Unraveling and Resolving 0X800704CF Error in Windows' Store</u></a></li>
-<li><a href="https://win11.techidaily.com/winoses-mastery-of-local-policies-applied-to-single-users/"><u>WinOSes: Mastery of Local Policies Applied to Single Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-perfecting-the-art-of-itunes-video-recording/"><u>[New] In 2024, Perfecting the Art of iTunes Video Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-efficiency-in-action-rapid-removal-of-youtube-discussions/"><u>[Updated] 2024 Approved Efficiency in Action Rapid Removal of YouTube Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-browser-desktop-applications-on-pc/"><u>Crafting Browser Desktop Applications on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-windows-11s-operation-elevation-dilemma-740/"><u>Demystifying Windows 11’S Operation Elevation Dilemma #740</u></a></li>
+<li><a href="https://win11.techidaily.com/expediting-boot-cycle-modifying-windows-11s-wait-time/"><u>Expediting Boot Cycle: Modifying Windows 11'S Wait Time</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-onedrive-cloud-failures-in-windows-os/"><u>Fixing OneDrive Cloud Failures in Windows OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-11-proplus-by-drfone-android/"><u>Full Guide to Unlock Your Realme 11 Pro+</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-obtaining-and-installing-epson-xp-430-drivers-for-windows-users/"><u>Guide to Obtaining and Installing Epson XP-430 Drivers for Windows Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-google-pixel-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-12-mini-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 12 mini & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-hardware-hurdles-the-d3d11-guide-for-w11-and-w10-users/"><u>Overcoming Hardware Hurdles: The D3D11 Guide for W11 & W10 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-updater-problem-error-0x8024800c/"><u>Overcoming Windows Updater Problem (Error 0X8024800C)</u></a></li>
+<li><a href="https://win11.techidaily.com/pull-the-plug-on-print-devices-abruptly-in-windows-os/"><u>Pull the Plug on Print Devices Abruptly in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-discord-install-failure-on-windows-11/"><u>Resolving Discord Install Failure on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-acoustic-synthesis-leveraging-chatgpt-for-unique-sounds-in-digital-audio-workstations/"><u>The Art of Acoustic Synthesis: Leveraging ChatGPT for Unique Sounds in Digital Audio Workstations</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-made-simple-your-guide-to-windows-help/"><u>Troubleshooting Made Simple: Your Guide to Windows Help!</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728465273145-windows-11-3/"><u>Windows 11向けローカルユーザーアカウント設定手順: 3コツのガイド</u></a></li>
 </ul></div>
 

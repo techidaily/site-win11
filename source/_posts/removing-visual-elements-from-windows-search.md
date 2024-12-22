@@ -1,7 +1,7 @@
 ---
 title: Removing Visual Elements From Windows Search
-date: 2024-12-11T20:51:44.922Z
-updated: 2024-12-13T13:30:37.416Z
+date: 2024-12-21T18:00:14.549Z
+updated: 2024-12-22T16:25:42.942Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are There Pictures in Your Search Box?
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  This content is typically related to the illustrations on display. For instance, if you see a boots icon on the taskbar, the content is most likely going to be related to hiking, trails, or something similar. The pop-up window will then show options like trials near you, hiking tips, and tent shops.
 
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
 
@@ -51,10 +47,6 @@ Here is how you can do that:
 2. Choose**Search** \>**Show Search Highlights** .  
 ![Taskbar menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/search-highlights-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you have unchecked the Search highlights option, the illustrations will disappear immediately. If this does not work for you, you can also[use the Group Policy to disable search highlights](https://www.makeuseof.com/windows-10-remove-search-highlights/) .
 
 If you are a Windows 11 user, you can use these steps as well:
@@ -64,18 +56,27 @@ If you are a Windows 11 user, you can use these steps as well:
 2. Click on**Search permissions** .  
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
@@ -97,24 +98,24 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-becoming-an-instagram-reel-prodigy/"><u>[New] Becoming an Instagram Reel Prodigy</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-strategies-to-enhance-your-viewing-experience-on-facebook/"><u>[New] In 2024, Strategies to Enhance Your Viewing Experience on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-list-of-instagram-video-converters-windowsos-x/"><u>[New] The Ultimate List of Instagram Video Converters (Windows/OS X)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>[New] Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-walkthrough-for-proficient-use-of-green-screen-in-kinemaster/"><u>[Updated] In-Depth Walkthrough for Proficient Use of Green Screen in Kinemaster</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-windows-melodies/"><u>2024 Approved Masterful Windows Melodies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/enabling-iphone-navigation-essential-features-for-users-with-visual-challenges/"><u>Enabling iPhone Navigation: Essential Features for Users with Visual Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/get-across-taskbar-and-tile-adjustments-fast/"><u>Get Across Taskbar & Tile Adjustments Fast</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-error-code-0x80d03801-in-microsoft-store-on-windows-pc/"><u>How to Fix Error Code 0X80d03801 in Microsoft Store on Windows PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-a-thorough-examination-recmeisters-screen-capture-innovations/"><u>In 2024, A Thorough Examination Recmeister's Screen Capture Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/instituting-a-new-pdf-reader-standard-on-os/"><u>Instituting a New PDF Reader Standard on OS</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-remote-display-issue-darkened-screen/"><u>Resolving Windows Remote Display Issue: Darkened Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/rethinking-upgrades-windows-11s-improvement-focus/"><u>Rethinking Upgrades: Windows 11’S Improvement Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/reverting-system-backups-to-standard-configurations/"><u>Reverting System Backups to Standard Configurations</u></a></li>
-<li><a href="https://win-superb.techidaily.com/secure-your-digital-investments-a-comprehensive-guide-on-buying-crypto-safely-with-yl-computing-solutions/"><u>Secure Your Digital Investments: A Comprehensive Guide on Buying Crypto Safely with YL Computing Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-your-virtual-world-steps-for-epic-save-safety/"><u>Securing Your Virtual World: Steps for Epic Save Safety</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-day-wins-best-time-management-solutions/"><u>Streamline Your Day: Win's Best Time Management Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-overcoming-stuck-windows-update-fixer/"><u>Swiftly Overcoming Stuck Windows Update Fixer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unboxing-the-secrets-of-successful-youtubers-like-ajey/"><u>[New] 2024 Approved Unboxing the Secrets of Successful YouTubers Like Ajey</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-chromebook-snapshot-tool/"><u>[Updated] 2024 Approved Ultimate Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elite-gopro-hero5-black-charger-kits-genuine-and-counterparts/"><u>[Updated] Elite GoPro Hero5 Black Charger Kits, Genuine and Counterparts</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-crash-reports-following-a-bsod-event/"><u>Decoding Windows Crash Reports Following a BSOD Event</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-windows-11-registry-for-unseen-themes/"><u>Exploring the Windows 11 Registry for Unseen Themes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-windows-activation-failure-code-0x803f700f/"><u>How to Rectify Windows Activation Failure: Code 0X803f700f</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcasting-innovations-combining-tv-and-social-media/"><u>In 2024, Broadcasting Innovations Combining TV & Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-utilizing-telegram-web-services/"><u>In 2024, Comprehensive Guide to Utilizing Telegram Web Services</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-x50-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor X50 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-top-stop-motion-animation-software-for-mac-and-pc/"><u>New 2024 Approved The Best of the Best Top Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avs-video-editor-a-detailed-look-at-its-features-and-performance/"><u>New In 2024, AVS Video Editor A Detailed Look at Its Features and Performance</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/online-alter-ego-artistry-drawing-a-fancy-profile/"><u>Online Alter-Ego Artistry Drawing a Fancy Profile</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-ways-to-dive-into-your-windows-11-appsdirectory/"><u>Quick Ways to Dive Into Your Windows 11 AppsDirectory</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenate-ccleaner-on-win11-and-11/"><u>Rejuvenate CCleaner on Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-supercharged-window-11-usage/"><u>The Ultimate Guide to Supercharged Window 11 Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-win11-activation-keys/"><u>Troubleshooting Non-Functional Win11 Activation Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-managing-windows-odbc-sources/"><u>Understanding and Managing Windows ODBC Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/win-10-regain-network-connections/"><u>Win 10: Regain Network Connections</u></a></li>
 </ul></div>
 

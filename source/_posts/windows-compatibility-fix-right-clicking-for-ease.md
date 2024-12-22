@@ -1,7 +1,7 @@
 ---
 title: "Windows Compatibility Fix: Right-Clicking for Ease"
-date: 2024-12-09T23:05:14.130Z
-updated: 2024-12-13T13:48:09.851Z
+date: 2024-12-18T16:30:49.586Z
+updated: 2024-12-22T16:46:02.021Z
 tags:
   - windows10
   - windows11
@@ -23,12 +23,16 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do Before Tweaking the Registry Editor
 
  Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on[creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add a "Troubleshoot Compatibility" Option to the Context Menu With the Registry Editor
@@ -43,13 +47,13 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 4. Select the**Compatibility** key, double-click**Default** on the right, and set**Value data** to**{1d27f844-3a1f-4410-85ac-14651078412d}** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Entering value data for a string value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enter-value-data.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, you’re going to repeat the steps above to add the**Troubleshoot Compatibility** to the context menu of other BAT and CMD files. Just replace the key path in step two with**HKEY\_CLASSES\_ROOT\\batfile\\shellEx\\ContextMenuHandlers\\** for BAT files and**HKEY\_CLASSES\_ROOT\\cmdfile\\shellEx\\ContextMenuHandlers\\** for CMD files.
@@ -59,14 +63,10 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 ![The Troubleshoot compatibility option in the context menu on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-compatibility-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you have one more way to[run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Run the Program Compatibility Troubleshooter Easily
 
@@ -87,21 +87,19 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-magnifymaster-x7-resizing-photos-to-perfection-for-2024/"><u>[New] MagnifyMaster X7 Resizing Photos to Perfection for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-upgrading-your-cinematic-story-with-video-edges/"><u>[Updated] Upgrading Your Cinematic Story with Video Edges</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-blurring-backgrounds-a-visual-hideaway-guide/"><u>2024 Approved Blurring Backgrounds A Visual Hideaway Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pros-hunters-rate-action-camera-winners/"><u>2024 Approved Pros Hunters Rate Action Camera Winners</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-starting-strong-with-these-trendy-15-video-intros/"><u>2024 Approved Starting Strong with These Trendy 15 Video Intros</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/guide-securitaire-modifier-le-partitionnement-dans-lenvironnement-de-sauvegarde-de-windows/"><u>Guide Sécuritaire : Modifier Le Partitionnement Dans L'environnement De Sauvegarde De Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-restore-mobile-connection-solutions-for-iphoneipad-cellular-data-problems/"><u>How to Restore Mobile Connection: Solutions for iPhone/iPad Cellular Data Problems</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-play-8t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Play 8T Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-over-icon-placement/"><u>Regaining Control Over Icon Placement</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-fixing-pin-verification-errors-on-w11w10-systems/"><u>Solutions for Fixing PIN Verification Errors on W11/W10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/step-up-your-task-juggling-skills-a-guide-to-mastering-windows-11-multitasking/"><u>Step Up Your Task Juggling Skills: A Guide to Mastering Windows 11 Multitasking</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-cab-files-explanations-and-steps-for-installation/"><u>Understanding Windows Cab Files: Explanations & Steps for Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-mysteries-a-guide-to-finding-and-fixing-error-messages-using-commands/"><u>Unraveling Windows Mysteries: A Guide to Finding and Fixing Error Messages Using Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-art-of-app-migration-from-older-windows-versions/"><u>Unveiling the Art of App Migration From Older Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-missing-tab-button-on-your-machine/"><u>Unveiling the Missing Tab Button on Your Machine</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>[New] In 2024, Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-top-mic-lists-tailored-for-high-definition-4k-cameras/"><u>[New] In 2024, Top Mic Lists Tailored for High-Definition 4K Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-get-the-most-out-of-your-content-facebooks-full-screen-tutorial-2023/"><u>[Updated] In 2024, Get the Most Out of Your Content Facebook's Full-Screen Tutorial 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unveiling-hidden-techniques-for-clear-ppt-transcriptions/"><u>2024 Approved Unveiling Hidden Techniques for Clear PPT Transcriptions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-pc-display-switch-to-advanced-wmlayouts/"><u>Elevate PC Display: Switch to Advanced WMLayouts</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo A79 5G FRP</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-czech-with-online-simplicity-techniques/"><u>Mastering Czech with Online Simplicity Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-scale-adjustments/"><u>Mastering the Art of Windows Scale Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-battle-against-keygen-malware-in-windows-systems/"><u>Mastering the Battle Against Keygen Malware in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-widget-notifications-for-windows-11-users/"><u>Optimizing Widget Notifications for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/screenshot-stickers-best-non-writing-notebook-apps-on-windows/"><u>Screenshot Stickers: Best Non-Writing Notebook Apps on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-ultimate-playlist-best-sandbox-game-choices/"><u>The Ultimate Playlist Best Sandbox Game Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-call-failed-errors-in-windows/"><u>Tips for Dealing with Call Failed Errors in Windows</u></a></li>
 </ul></div>
 

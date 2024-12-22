@@ -1,7 +1,7 @@
 ---
 title: "Hyper-V Layers: Virtualizing Linux Within Windows"
-date: 2024-12-10T13:16:57.716Z
-updated: 2024-12-13T12:38:09.404Z
+date: 2024-12-16T18:01:10.259Z
+updated: 2024-12-22T18:00:01.586Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
 
 To enable Virtualization, do as follows:
@@ -52,7 +48,15 @@ To enable Virtualization, do as follows:
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
 5. Click on the**OK** button to apply changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Install Hyper-V on the Windows Virtual Machine
 
@@ -67,7 +71,7 @@ To enable Virtualization, do as follows:
 6. Click on the**OK** button to install the feature on your system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. **Restart** your system to apply changes when the installation completes.
@@ -93,15 +97,11 @@ To create an Ubuntu virtual machine, do as follows:
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
 
@@ -116,6 +116,10 @@ To create an Ubuntu virtual machine, do as follows:
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Few Things to Remember
 
  Creating a virtual machine inside a virtual machine is possible. But you have to remember that the underlying configuration of the host system must be such that it can run a virtual machine inside a virtual machine without any issue. If you attempt this experiment on a low-end system with 4GB RAM and a dual-core processor, it will choke the system.
@@ -123,10 +127,6 @@ To create an Ubuntu virtual machine, do as follows:
  So, you need to use a system that can devote ample hardware resources to the Windows virtual machine. Only, then you would be able to use Hyper-V and create a Linux virtual machine and allocate run it without any issues. After you try our Ubuntu using Hyper-V, you can power off the virtual machine. Or you can take the extra step and delete the virtual machine from Hyper-V Manager. It will free up a lot of space inside the Windows virtual machine.
 
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
@@ -147,18 +147,19 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/asterful-monetization-crafting-a-revenue-driven-youtube-presence/"><u>[New] Masterful Monetization Crafting a Revenue-Driven Youtube Presence</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-hits-for-hardcore-home-fitness-enthusiasts/"><u>2024'S Hits for Hardcore Home Fitness Enthusiasts</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminate-highlighted-desktop-symbol-on-windows-11/"><u>Eliminate Highlighted Desktop Symbol on Windows 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-proplus-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi Note 12 Pro+ 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-bare-essentials-for-relaxation/"><u>In 2024, Bare Essentials for Relaxation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-movie-choices-the-chatgpt-guide/"><u>Mastering Movie Choices: The ChatGPT Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-system-written-to-err-on-the-proper-side/"><u>Mastery Over System' Written to Err on the Proper Side</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-low-audio-resonance-in-windows-11-devices/"><u>Overcoming Low Audio Resonance in Windows 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-control-over-screen-brightness-using-function-keys-on-win-11/"><u>Reestablishing Control Over Screen Brightness Using Function Keys on Win 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-into-profitability-on-youtube-beginners-guide/"><u>Step Into Profitability on YouTube - Beginner's Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-for-cmd-administrator-mode/"><u>Step-by-Step for CMD Administrator Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-error-when-importing-iphones-to-windows-pclaptop/"><u>Tackling the Error When Importing iPhones to Windows PC/Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/these-5-apps-made-my-switch-from-mac-to-windows-possible/"><u>These 5 Apps Made My Switch From Mac to Windows Possible</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-non-standard-video-editing-applications-on-windows/"><u>[New] 2024 Approved Non-Standard Video Editing Applications on WIndows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-understanding-the-meta-and-omni-spaces/"><u>[New] Understanding the Meta and Omni Spaces</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-googles-flat-cube-and-samsungs-headset/"><u>[Updated] Comparing Google's Flat Cube and Samsung's Headset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-toolwiz-for-professionals-a-thorough-app-assessment/"><u>[Updated] Toolwiz for Professionals A Thorough App Assessment</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-best-recording-equipment-for-creating-youtube-masterpieces/"><u>2024 Approved Best Recording Equipment For Creating YouTube Masterpieces</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/7-practicas-para-capturar-tu-voz-en-tu-mac-guia-del-software-de-grabacion-inalambrico-con-movavi/"><u>7 Prácticas Para Capturar Tu Voz en Tu Mac: Guía Del Software De Grabación Inalámbrico Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-invisible-icons-menu-on-modern-windows-11/"><u>Accessing Invisible Icons Menu on Modern Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-3d-paint-efficiency-with-these-tricks/"><u>Boost Your 3D Paint Efficiency With These Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-command-line-experience-with-terminal-preference/"><u>Enhance Your Command Line Experience with Terminal Preference</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/machddtime-machine/"><u>Macデータをスムーズに外付けHDDに転送しバックアップできるTime Machineガイド</u></a></li>
+<li><a href="https://video-capture.techidaily.com/streamline-your-classic-gaming-with-optimal-ps2-android-emulators/"><u>Streamline Your Classic Gaming with Optimal PS2 Android Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-management-cli-integration-into-taskmgr/"><u>Streamlining Windows Management: CLI Integration Into TaskMgr</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-java-failure-in-windows-installation/"><u>Troubleshooting Java Failure in Windows Installation</u></a></li>
 </ul></div>
 

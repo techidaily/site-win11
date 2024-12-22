@@ -1,7 +1,7 @@
 ---
 title: Mastering Screen Size in Windows, With This Fix Guide
-date: 2024-09-05T08:26:27.670Z
-updated: 2024-09-06T08:26:27.670Z
+date: 2024-12-21T17:24:35.144Z
+updated: 2024-12-22T17:44:02.895Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Regardless of the reason for your viewing perils, we're going to help troubleshoot the display issue, so you can go back to enjoying high-quality viewing. We'll talk about the problems that can lead to a screen resolution issue and how you can fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Incorrect Resolution Settings
 
  Resolution can often change by itself on Windows because of a corrupted graphics driver, a new Windows update, or a conflicting third-party app. If this is the case with your display, you can easily fix it by changing the resolution settings.
@@ -34,18 +28,16 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 ![changing resolution from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/settings-resolution.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Incorrect App-Specific Settings
 
  A third-party app may override the screen resolution you set on Windows and apply a resolution it requires to properly run and display its content. The most common example is games. Games typically have an option to change the resolution within their settings, and that's where you'll be able to control it.
 
  It doesn't require much fixing after you exit the app, though. In most cases, the resolution should revert to what you've set in Windows by default. If it doesn't, just go to Setting and change the resolution as explained in the previous section.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Problems With the Hardware
 
  The resolution issue could also result from hardware issues. There are two components you need to check: the graphics card, and the display cable.
@@ -72,27 +64,13 @@ msdt.exe -id DeviceDiagnostic
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Faulty or Corrupt Display Drivers
 
  Drivers are necessary for your hardware to function properly. If your display driver is corrupt or outdated, it could lead to a problem with your display. Fortunately, it's easy to update the display or graphics driver. Below, we walk you through the steps of both updating and reinstalling drivers in detail.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update Drivers
 
  Press **Win + R**, type **devmgmt.msc**, and press **Enter** to launch Device Management. Expand the category called **Display adapters** by clicking on the tiny arrow to its left. Right-click on the display adapter you want to update and select **Update driver**.
@@ -106,17 +84,13 @@ msdt.exe -id DeviceDiagnostic
 ![updating the drivers manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/update-manual.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rollback or Reinstall Drivers
 
  In some cases, the updated driver can cause a problem instead of fixing it. If you started encountering the resolution issue after an update, consider rolling back the updated driver. Doing so uninstalls the updated driver and reverts to the previous driver.
@@ -125,12 +99,6 @@ msdt.exe -id DeviceDiagnostic
 
 ![rolling back the driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/roll-back-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Finally, if updating the driver or rolling it back to a previous version has not worked for you, you can consider reinstalling the driver using the manufacturer's website. Follow the steps in our guide on [cleanly installing and reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) for step-by-step instructions on this.
 
 ## 5\. An Incorrect Display Adapter Mode
@@ -144,11 +112,9 @@ msdt.exe -id DeviceDiagnostic
 ![changing the display mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/display-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Incorrect Font and Icon Sizes
 
  If you've set the correct resolution, but the text and icons on your screen appear too small, you might consider [tweaking the DPI](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) (Dots Per Inch). Usually, this happens on small-sized high-resolution screens, like a 4K screen 15.6-inch.
@@ -160,18 +126,14 @@ msdt.exe -id DeviceDiagnostic
 ![changing DPI scaling on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/custom-scaling.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Resolution Issues Resolved
 
  Hopefully, you were able to identify the issue and fix it. If you're facing a resolution issue while gaming, you might be tempted to choose the highest resolution from within the game. However, for you to be able to run the game at that resolution, your hardware will need to support it. It's best to get a basic idea of the best gaming resolution for your PC before you change it.
 
  Regardless of the reason for your viewing perils, we're going to help troubleshoot the display issue, so you can go back to enjoying high-quality viewing. We'll talk about the problems that can lead to a screen resolution issue and how you can fix them.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -179,3 +141,27 @@ msdt.exe -id DeviceDiagnostic
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-escalate-your-tiktok-clout-top-30-unique-username-ideas/"><u>[New] 2024 Approved Escalate Your TikTok Clout Top 30 Unique Username Ideas</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-online-meeting-transcriptions/"><u>[New] 2024 Approved Online Meeting Transcriptions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-videography-on-android/"><u>[New] Elevate Your Videography on Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-charting-the-course-visual-content-in-educational-endeavors/"><u>[Updated] In 2024, Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-visual-quality-and-smooth-playback-on-roblox-win-devices/"><u>Enhance Visual Quality and Smooth Playback on Roblox Win Devices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-flash-sale-snag-the-msi-summit-e13-flip-for-an-unbeatable-price-of-600-zdnet-alert/"><u>Exclusive Flash Sale: Snag the MSI Summit E13 Flip for an Unbeatable Price of $600 - ZDNET Alert</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-enhance-your-tumblr-with-sound-three-affordable-strategies/"><u>How to Enhance Your Tumblr with Sound: Three Affordable Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-smart-8-plus-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Smart 8 Plus?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-unable-to-open-issue-with-geforce/"><u>How to Repair Unable to Open Issue with GeForce</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-pro-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Nokia C12 Pro Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-no-connection-found-error-on-vpn-client/"><u>Mending No Connection Found Error on VPN Client</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-alleviate-install-net-core-application-failure/"><u>Steps to Alleviate Install .NET Core Application Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-isdonedll-error-in-win-1011-pcs/"><u>Steps to Resolve ISDone.dll Error in Win 10/11 PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlined-techniques-blur-background-on-chrome-os-and-ios-for-2024/"><u>Streamlined Techniques Blur Background on Chrome OS & iOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-new-enhancements-in-windows-11-feb-update/"><u>Top 9 New Enhancements in Windows 11 Feb Update</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-techniques-for-a-spotless-windows-11-update/"><u>Transition Techniques for a Spotless Windows 11 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-wows-deadly-glitch-132-on-modern-oses/"><u>Troubleshooting WoW's Deadly Glitch #132 on Modern OSes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-top-vsdc-video-editor-replacements-for-mac-users-for-2024/"><u>Updated Top VSDC Video Editor Replacements for Mac Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-the-battle-top-windows-11-fps-trackers/"><u>Winning the Battle: Top Windows 11 FPS Trackers</u></a></li>
+</ul></div>
+

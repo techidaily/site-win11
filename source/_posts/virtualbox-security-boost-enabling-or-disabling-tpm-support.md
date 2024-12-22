@@ -1,7 +1,7 @@
 ---
 title: "VirtualBox Security Boost: Enabling or Disabling TPM Support"
-date: 2024-12-08T12:23:54.202Z
-updated: 2024-12-13T00:38:57.165Z
+date: 2024-12-18T16:56:47.587Z
+updated: 2024-12-22T17:16:53.545Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Windows 11 Need TPM and Secure Boot?
 
  Windows 11 needs both a TPM chip and Secure Boot to offer robust protection against threats and not allow any malware to run when the system boots up. Secure Boot only allows signed drivers to load and the TPM chip helps in BitLocker drive data protection. So, both these features are pretty important from a security standpoint. Check out our guide on[what Secure Boot is and how it works](https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/) for more information.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 8. Now, click on the**OK** button. The settings window will close automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Go to the top area and click on the**Start** button to power on the Windows virtual machine.
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/8144bf8226080671f18a2bf4e92c933c6cecfac8b
 12. To disable TPM and Secure Boot, reopen the virtual machine settings and set the TPM version to**None** . Uncheck the**Enable EFI (special OSes only)** option check box. Click on**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### An Alternative Method to Check if TPM Is Active in the Windows Virtual Machine
@@ -67,18 +71,14 @@ Here's how to check TPM on Windows 11 virtual machine:
 2. TPM utility will launch. Navigate to the Manufacturer Information section.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![check TPM on Windows 11 virtual machine 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-2.jpg)
 3. If the Specification version entry showcases 2.0, it means that TPM chip emulation is successful.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manage TPM and Secure Boot Features in VirtualBox With Ease
@@ -100,24 +100,19 @@ Here's how to check TPM on Windows 11 virtual machine:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bring-your-messages-to-life-on-tiktok-with-text-effects/"><u>[New] 2024 Approved Bring Your Messages to Life on TikTok with Text Effects</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-elevate-videography-with-youtube-music-features/"><u>[New] 2024 Approved Elevate Videography with YouTube Music Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-tuning-into-emotion-background-melodies-in-film/"><u>[New] In 2024, Tuning Into Emotion Background Melodies in Film</u></a></li>
-<li><a href="https://win11.techidaily.com/achieving-an-unadulterated-system-restart-in-windows-11/"><u>Achieving an Unadulterated System Restart in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ancestry-unveiled-7-enduring-features-of-windows-11/"><u>Ancestry Unveiled: 7 Enduring Features of Windows 11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-loyalists-rejoice-lg-tvs-now-offer-superior-audio-quality-upgrades-discovered/"><u>Apple Loyalists Rejoice: LG TVs Now Offer Superior Audio Quality Upgrades - Discovered</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-errors-with-proper-use-of-winservicesexe/"><u>Avoiding Errors with Proper Use of Winservices.exe</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-onboard-drivers-download-at-no-cost-quick-and-easy-how-tos/"><u>HP Onboard Drivers - Download at No Cost! Quick & Easy How To’s</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-effortless-share-of-igtv-on-your-stories/"><u>In 2024, Effortless Share of IGTV on Your Stories</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-basics-windows-system-configuration/"><u>Master the Basics: Windows System Configuration</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-create-engaging-videos-online-with-wevideo-for-2024/"><u>New Create Engaging Videos Online with WeVideo for 2024</u></a></li>
-<li><a href="https://discover-best.techidaily.com/online-conversion-guide-change-your-avi-files-to-mp4-for-compatible-viewing-across-all-devices/"><u>Online Conversion Guide: Change Your AVI Files to MP4 for Compatible Viewing Across All Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/organize-your-workspace-attaching-this-pc-icon-to-desktop/"><u>Organize Your Workspace: Attaching 'This PC' Icon to Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/procedures-for-resolving-unresponsive-installation-on-windows-os/"><u>Procedures for Resolving Unresponsive Installation on Windows OS</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-displaying-issue-in-windows-10-fullview/"><u>Screen Displaying Issue in Windows 10 Fullview</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-flickering-mouse-immediate-troubleshooting-guide/"><u>Stop Flickering Mouse - Immediate Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/suppress-sound-enhancement-in-windows-os/"><u>Suppress Sound Enhancement in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-mitigating-roblox-error-403-for-pc-users/"><u>Understanding & Mitigating Roblox Error 403 for PC Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-linguistic-blindspots-in-ai-the-reason-behind-chatgpts-inability-to-recognize-its-text/"><u>Understanding Linguistic Blindspots in AI: The Reason Behind ChatGPT’s Inability to Recognize Its Text</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-visual-identity-mastery-crafting-business-symbols-with-tailored-templates/"><u>[New] 2024 Approved Visual Identity Mastery Crafting Business Symbols with Tailored Templates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>[New] Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-an-offline-windows-update-plan/"><u>Crafting an Offline Windows Update Plan</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-videos-from-photobucket-efficiently-step-by-step-guide-for-windows-and-macos/"><u>Download Videos From Photobucket Efficiently: Step-by-Step Guide for Windows & macOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-edge-40-neo-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win11.techidaily.com/get-icloud-running-without-glitches-on-your-windows-device/"><u>Get iCloud Running Without Glitches on Your Window's Device</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-note-visibility-in-win-11/"><u>Maximizing Note Visibility in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x0000004e-on-win11-devices/"><u>Remedying Error 0X0000004E on Win11 Devices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-converting-wav-files-to-mp3-format-using-audacity/"><u>Step-by-Step Guide: Converting WAV Files to MP3 Format Using Audacity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-expert-review-of-peak-designs-best-smartphone-holders-for-samsung-google-and-iphone-users-cnet/"><u>The Expert Review of Peak Design's Best Smartphone Holders for Samsung, Google & iPhone Users | CNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-10-heartening-films-for-optimism-and-power-for-2024/"><u>Top 10 Heartening Films for Optimism & Power for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-admin-blocked-application-issue/"><u>Troubleshooting Admin-Blocked Application Issue</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/troubleshooting-dvd-read-errors-solutions-from-yl-computing/"><u>Troubleshooting DVD Read Errors - Solutions From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

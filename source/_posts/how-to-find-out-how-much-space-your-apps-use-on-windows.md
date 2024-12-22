@@ -1,7 +1,7 @@
 ---
 title: How to Find Out How Much Space Your Apps Use on Windows
-date: 2024-12-11T19:28:16.740Z
-updated: 2024-12-13T12:16:49.748Z
+date: 2024-12-18T17:48:18.148Z
+updated: 2024-12-22T16:00:32.021Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check How Much Space Your Apps or Programs Are Using via the Settings App
 
  The Storage section within the Settings app gives you a complete breakdown of the disk space occupied by the system, apps, media files, and more. To find out how much space your apps are using, use these steps:
@@ -34,11 +38,11 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 3. Click on **Installed apps** to check the storage used by each of your apps. Use the drop-down menu next to **Sort by** to arrange apps based on their size.  
 ![Check App Storage Usage From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-from-windows-settings.jpg)
 
- If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you want to check the storage usage of apps on a specific drive, click the drop-down menu next to **Filter by** and choose the desired drive.
 
 ## 2\. Check How Much Space Your Apps or Programs Are Using via the Control Panel
 
@@ -58,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  Like using the Control Panel in Windows? Why not [set up Control Panel shortcuts](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) on your desktop or the Start menu to access it quickly?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check How Much Space Your Apps or Programs Are Using via File Explorer
 
  Although the Settings app and Control Panel make it easy to check the storage usage of your apps and programs, they might not provide storage information for all desktop apps. To check the storage usage of such programs, you will have to [use the File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tips/). Here are the steps you can follow.
@@ -74,11 +74,11 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 ![Check App Storage Usage via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-app-storage-usage-via-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Easily Check App Storage Usage on Windows
@@ -87,21 +87,6 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
 
  Whether you want to check the storage usage of your Microsoft Store apps or traditional desktop programs, this guide will help you with both.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-price-guide-for-cloud-storage-services/"><u>[New] Ultimate Price Guide for Cloud Storage Services</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-snapshots-to-spectacular-exploring-polarrs-edits-deeply/"><u>From Snapshots to Spectacular Exploring Polarr's Edits Deeply</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/guide-to-premium-podcasting-top-mic-picks/"><u>Guide to Premium Podcasting Top Mic Picks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-terminal-resurfacing-techniques/"><u>Mastering Windows Terminal Resurfacing Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-precise-assessment-of-cpu-utilization-in-windows/"><u>Methods for Precise Assessment of CPU Utilization in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-steam-interface-failure-issue/"><u>Remedying Steam Interface Failure Issue</u></a></li>
-<li><a href="https://article-helps.techidaily.com/simplified-sound-adjustments-achieve-a-unique-voice-in-online-gaming/"><u>Simplified Sound Adjustments Achieve a Unique Voice in Online Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reset-and-stabilize-windows-post-restart/"><u>Steps to Reset and Stabilize Windows Post-Restart</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-6-biggest-risks-in-leveraging-facebook-for-your-brand-insights-by-massmail/"><u>The 6 Biggest Risks in Leveraging Facebook for Your Brand - Insights by MassMail</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-p55-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Itel P55 5G Users</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -109,3 +94,25 @@ thumbnail: https://thmb.techidaily.com/bcbbbb17c516407e41023c9df84564d9e208249f4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-best-and-free-facebook-picture-video-maker/"><u>[New] 2024 Approved Best And Free Facebook Picture Video Maker</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-ultimate-20-country-chill-out-playlist-for-relaxing-dance-moves-tiktok-for-2024/"><u>[New] Ultimate 20 Country Chill-Out Playlist for Relaxing Dance Moves (TikTok) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/7-windows-utilities-to-update-file-timestamps/"><u>7 Windows Utilities To Update File Timestamps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-words-troublesome-winwordexe-glitch-simple-steps-inside/"><u>Fixing WORD's Troublesome WINWORD.EXE Glitch – Simple Steps Inside</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-7-types-of-color-grading-for-you-to-try/"><u>In 2024, 7 Types of Color Grading for You to Try</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-laugh-out-loud-crafting-humorous-video-ideas-for-short-films/"><u>In 2024, Laugh Out Loud Crafting Humorous Video Ideas for Short Films</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-integrating-dynamic-desktop-backgrounds/"><u>Mastering Windows 11: Integrating Dynamic Desktop Backgrounds</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-best-video-blur-apps-for-iphone-and-android/"><u>New Best Video Blur Apps for iPhone and Android</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-no-go-areas-for-novice-windows-11-users/"><u>Nine No-Go Areas for Novice Windows 11 Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-nvidia-installation-hurdles-completely/"><u>Resolving NVIDIA Installation Hurdles Completely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-up-to-greater-ai-efficiency-with-these-top-browser-plugins/"><u>Step Up to Greater AI Efficiency with These Top Browser Plugins</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-changing-your-mind-after-sending-an-instagram-message/"><u>Step-by-Step Guide: Changing Your Mind After Sending an Instagram Message</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-instructions-fully-removing-wsl/"><u>Step-By-Step Instructions: Fully Removing WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-11-cannot-open-for-writing/"><u>Steps to Overcome Windows 11: Cannot Open For Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-renaissance-atlasos-for-obsolete-systems/"><u>Tech Renaissance: AtlasOS for Obsolete Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1011s-aural-output-via-audacity/"><u>Troubleshooting Windows 10/11'S Aural Output, via Audacity</u></a></li>
+<li><a href="https://win11.techidaily.com/unclouding-your-display-secrets-to-a-sharp-windows-11-screen/"><u>Unclouding Your Display: Secrets to a Sharp Windows 11 Screen</u></a></li>
+</ul></div>
+

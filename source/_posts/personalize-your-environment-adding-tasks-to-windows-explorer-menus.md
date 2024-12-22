@@ -1,7 +1,7 @@
 ---
 title: "Personalize Your Environment: Adding Tasks to Windows Explorer Menus"
-date: 2024-12-09T09:08:03.878Z
-updated: 2024-12-12T19:25:38.428Z
+date: 2024-12-18T17:08:49.165Z
+updated: 2024-12-22T17:29:46.004Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 5. Click**Key** on the submenu.  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-key-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Enter**Move to folder** for the new key’s name.
 2. Select the new**Move to folder** key in the Registry Editor’s sidebar.
 3. Double-click the**(Default)** string for the selected key.
@@ -49,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 ![The Move to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-to-folder-context-menu-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A small Move Items window will then appear from which you can select a destination folder. Choose a folder to move the file to in that window. Then click**Move** to place the file in the selected directory.
 
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Copy to Folder Context Menu Option
 
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
 7. Click the**OK** button to apply the value.
@@ -80,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
  Then you can select the**Copy to folder** context menu option much the same as the move one. Right-click a file in Explorer, select**Show more options** (in Windows 11), and click**Copy to folder** . A Copy Items window will open from which you can choose a folder to include the copied file. Clicking**Copy** will paste the item into the selected folder.
 
 ![The Copy to folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
@@ -102,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
@@ -111,22 +115,18 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Minimize or exit the WinBubble window.
 
  Now look at your new context menu options for copying and moving items to different locations. WinBubble adds them to the classic context menu like the manual registry tweak methods. So, you’ll still need to select**Show more options** or press**Shift** +**F10** to access those options in Windows 11.
 
  You can also utilize WinBubble to remove the "Copy/Move to Folder" options. Uncheck the selected**Move to** and**Copy to** checkboxes on its**General** tab. Click**Apply** to set the new options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Move and Copy Files to Folders With Your New Context Menu Options
 
@@ -147,19 +147,24 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>[New] In 2024, Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-streamline-your-meetings-with-these-tools/"><u>[Updated] 2024 Approved Streamline Your Meetings with These Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-the-perfect-tone-accessible-software-for-effortless-vocal-transformation/"><u>[Updated] In 2024, Crafting the Perfect Tone Accessible Software for Effortless Vocal Transformation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-empowering-your-editing-skills-free-luts-and-their-use-in-obs-studio/"><u>2024 Approved Empowering Your Editing Skills Free LUTs & Their Use in OBS Studio</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-iphoneipad-uploads-to-youtube-platforms/"><u>2024 Approved Navigating iPhone/iPad Uploads to YouTube Platforms</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/diy-guide-how-to-fix-a-malfunctioning-optical-drive-tips-from-yl-computing/"><u>DIY Guide: How to Fix a Malfunctioning Optical Drive - Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-strategies-to-recover-and-fix-broken-system-files-on-windows-11/"><u>Effective Strategies to Recover and Fix Broken System Files on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-batch-scripts-creating-windows-exes/"><u>Elevating Your Batch Scripts: Creating Windows EXEs</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-natural-windows-file-sorting-settings/"><u>Restoring Natural Windows File Sorting Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-device-interaction-with-windows-and-galaxy/"><u>Revolutionizing Device Interaction with Windows & Galaxy</u></a></li>
-<li><a href="https://win11.techidaily.com/shrouded-functionality-unveiling-hidden-context-menus-in-win11/"><u>Shrouded Functionality: Unveiling Hidden Context Menus in Win11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-screen-recorder-companion-for-windows-10-for-2024/"><u>Ultimate Screen Recorder Companion for Windows 10 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
-<li><a href="https://win11.techidaily.com/1719363401331-win10-troubleshooting-make-functions-work-again/"><u>WIN10 Troubleshooting: Make Functions Work Again!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-high-performance-drone-gimbals/"><u>[Updated] High-Performance Drone Gimbals</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-social-stream-wars-fb-live-vs-yt-live-and-tweetstreams/"><u>[Updated] In 2024, Social Stream Wars FB LIVE Vs. YT Live & TweetStreams</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-novel-window-11-secrets-for-enhanced-usage/"><u>[Updated] Unveiling Novel WINDOW 11 Secrets for Enhanced Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/12-must-try-gratis-typing-tutorials-that-cater-to-people-young-and-old/"><u>12 Must-Try Gratis Typing Tutorials That Cater to People Young and Old</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-methods-for-obtaining-free-picture-screens/"><u>2024 Approved Proven Methods for Obtaining Free Picture Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/command-prompt-wizardry-admin-skills-unveiled/"><u>Command Prompt Wizardry: Admin Skills Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-error-0x800700e1-in-windows-11-os/"><u>Essential Fixes for Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://media-tips.techidaily.com/in-depth-analysis-of-videopads-editing-capabilities-and-how-to-on-creative-transitions/"><u>In-Depth Analysis of VideoPad's Editing Capabilities & How-To on Creative Transitions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/intuitive-methods-to-log-your-google-voice-conversations/"><u>Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/irecorder-unleashed-a-review-revealed/"><u>IRecorder Unleashed A Review Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-rescuing-flaky-windows-programs/"><u>Mastering the Art of Rescuing Flaky Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-clear-obstacles-no-access-allowed-windows-errors/"><u>Methods to Clear Obstacles: No Access Allowed Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-strategies-your-file-explorer-fixes/"><u>Rebooting Strategies: Your File Explorer Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-oneplus-ace-2-pro-by-fonelab-android-recover-data/"><u>Recover lost data from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vanished-hardware-on-windows/"><u>Resolving Vanished Hardware on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionary-driver-solutions-at-no-cost-to-optimize-windows-cars/"><u>Revolutionary Driver Solutions at No Cost to Optimize Windows Cars</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>Step-by-Step Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://win11.techidaily.com/underrated-windows-11-themes-worth-appreciating/"><u>Underrated Windows 11 Themes Worth Appreciating</u></a></li>
+<li><a href="https://win11.techidaily.com/winupgrade-hurdles-overcoming-error-code-xc004f050/"><u>WinUpgrade Hurdles: Overcoming Error Code Xc004f050</u></a></li>
 </ul></div>
 

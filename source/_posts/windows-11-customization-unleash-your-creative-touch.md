@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Customization: Unleash Your Creative Touch"
-date: 2024-09-05T08:26:29.391Z
-updated: 2024-09-06T08:26:29.391Z
+date: 2024-12-18T16:39:55.853Z
+updated: 2024-12-22T17:39:04.276Z
 tags:
   - windows10
   - windows11
@@ -22,12 +22,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
  In this article, we will explore some of the ways to help you achieve more personalized search results on your Windows 11 PC, beginning from privacy settings to managing search indexes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Turn On Safe Search
 
  Considering the amount of inappropriate content on the internet, it might be necessary to put mechanisms in place to block out any adult content in your search, especially if you have little ones around.
@@ -41,17 +35,20 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 2. Under**Windows permissions,** click**Search permissions** .  
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
 
  The**Strict** setting will filter out all adult content in texts, images, and videos from web previews. On the other hand, the**Moderate** setting will only filter out adult images and videos, excluding text. Lastly, the**Off** option will disable the filter entirely from your web results.
 
  Choose any of the**SafeSearch** categories, depending on the level of filtering you want to apply to your search.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Include Search Results From Your Other Accounts
 
@@ -61,26 +58,12 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 2. Then, by clicking your profile in the top right corner, you see a list of the accounts connected to Windows Search.  
 ![Screenshot of windows search on taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-search-on-taskbar.jpg)
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
@@ -88,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 2. Beneath**Accounts Used by other apps** , click**Add a Microsoft Account** to add one, or**Add a Workplace or School Account** .  
 ![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clear Search History on Your Device
 
  Search history is stored by default on your device to help you get faster results and recommendations based on your search patterns.
@@ -117,17 +94,9 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -140,38 +109,31 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Harnessing the Power of Windows Search
 
  Search tools make finding things much easier, and your Windows 11 PC is no exception. With a few tweaks, you can improve search results on your PC and take your experience to a whole different level.
 
  Windows 11 brings even more improvements to the search feature. Aside from being able to access it right from the taskbar, it also brings you the power of search highlights, with more content and insights to your search.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +142,24 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/utting-edge-pc-editing-techniques-enhancing-your-youtube-presence/"><u>[New] Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-premier-applications-for-video-conferencing-for-2024/"><u>[New] Premier Applications for Video Conferencing for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-visual-branding-with-professional-grade-fb-covers/"><u>[Updated] In 2024, The Art of Visual Branding with Professional-Grade FB Covers</u></a></li>
+<li><a href="https://win11.techidaily.com/determine-active-tcp-ports-on-your-windows-pc/"><u>Determine Active TCP Ports on Your Windows PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exemplar-storyboard-creators-circle/"><u>Exemplar Storyboard Creator's Circle</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-tp-link-re505x-range-extender-a-comprehensive-guide/"><u>Expert Analysis: TP-Link RE505X Range Extender - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-find-out-how-much-space-your-apps-use-on-windows/"><u>How to Find Out How Much Space Your Apps Use on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/icloud-issues-conquer-them-with-these-windows-tips/"><u>ICloud Issues? Conquer Them With These Windows Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gently-reducing-sound-levels-in-operating-systems/"><u>In 2024, Gently Reducing Sound Levels in Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokejigsaw-crafting-comedy-graphics/"><u>JokeJigsaw Crafting Comedy Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-works-installation-on-win11-pro/"><u>Mastering Microsoft Works Installation on Win11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-avoiding-windows-error-code-0xc00000f/"><u>Preventive Measures for Avoiding Windows Error Code: 0Xc00000f</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-other-users-from-windows-11-network/"><u>Removing Other Users From WIndows 11 Network</u></a></li>
+<li><a href="https://win11.techidaily.com/runtime-broker-explained-how-it-shapes-your-system-experience/"><u>Runtime Broker Explained: How It Shapes Your System Experience</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-best-5-programs-for-snagging-facebook-feeds/"><u>The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://win11.techidaily.com/the-secret-to-unseen-operations-in-start-menu/"><u>The Secret to Unseen Operations in Start Menu</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-has-the-era-of-effective-chatgpt-jailbreaks-come-to-an-end-exploring-7-reasons/"><u>Why Has the Era of Effective ChatGPT Jailbreaks Come to an End? Exploring 7 Reasons</u></a></li>
+</ul></div>
 

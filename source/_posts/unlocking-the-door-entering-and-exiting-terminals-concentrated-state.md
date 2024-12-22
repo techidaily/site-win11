@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Door: Entering & Exiting Terminal's Concentrated State"
-date: 2024-12-07T23:26:40.055Z
-updated: 2024-12-13T02:40:41.937Z
+date: 2024-12-16T16:16:32.307Z
+updated: 2024-12-22T17:44:27.412Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Windows Terminal Settings
 
  Entering Focus Mode in Windows Terminal is easy. all you need to do is make a few adjustments to the settings. Here's how:
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  After saving your changes, the Windows Terminal will automatically enter Focus Mode and hide the tabs and title bar every time you launch it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Run Command
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 
  This will open the Windows Terminal with Focus Mode enabled. To turn off Focus Mode, press**Ctrl + Shift + P** on your keyboard. Then search for**Toggle focus mode** and click on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use the Command Palette
 
  If you prefer using commands, you can enter Focus Mode in the Windows Terminal through the Command Palette. Here's how to do it:
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 3. Type "focus mode" in the text box and select**Toggle focus mode** from the list of options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. The Windows Terminal will then enter Focus Mode and hide all unnecessary information from the window.
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
  If you need to access the tabs and title bar, you can press the same shortcut again. It will switch back to the normal mode.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Create a Shortcut Key
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/f08dc21bbe4d87c7feaed766d5b5d15f455fe6dbd
 3. Next, scroll down and select**Toggle focus mode** from the option list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Now, assign your preferred shortcut (e.g.,**Ctrl + Alt + F**) to the Toggle focus mode command.
@@ -123,20 +123,18 @@ wt.exe /focus
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-channel-growth-hacks-the-ultimate-list-of-5-youtube-strategies/"><u>[New] 2024 Approved Channel Growth Hacks – The Ultimate List of 5 YouTube Strategies</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhancing-chats-adding-tunes-via-whatsapp-status/"><u>[New] 2024 Approved Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-quick-tips-adding-captions-in-youtube-videos/"><u>[New] Quick Tips Adding Captions in YouTube Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-techniques-for-enhancing-vimeo-videos-with-subtitles-for-2024/"><u>[New] Ultimate Techniques for Enhancing Vimeo Videos with Subtitles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Addressing High CPU Usage From Dropbox on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/blowing-up-gpu-usage-7-remedies-for-wm-in-win11/"><u>Blowing Up GPU Usage: 7 Remedies for WM in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-update-fault-x8019/"><u>Eliminating Windows Update Fault X8019</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-print-on-edge-security-mode-windows-11/"><u>Enabling Print on Edge Security Mode Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-functionality-of-component-services-utility-in-windows/"><u>Exploring the Functionality of Component Services Utility in Windows</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/guide-steps-to-wipe-all-information-off-your-iphone-or-ipad-from-afar/"><u>Guide: Steps to Wipe All Information Off Your iPhone or iPad From Afar</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-productivity-with-slack-a-guide-for-professional-collaboration/"><u>Maximizing Productivity with Slack: A Guide for Professional Collaboration</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/mka-mkv-converter-vrije-online-tool-voor-formatconversie-movavi/"><u>MKA-MKV Converter: Vrije Online Tool Voor Formatconversie - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revolutionary-technology-breakthroughs-since-1844-a-countdown/"><u>Revolutionary Technology Breakthroughs Since 1844: A Countdown</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-steps-for-purging-microsoft-defender-traces-from-win-11/"><u>Strategic Steps for Purging Microsoft Defender Traces From Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/1719326965126-unravel-windows-troubles-step-by-step-support-guide/"><u>Unravel Windows Troubles: Step-by-Step Support Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-maximizing-impact-on-ig-understanding-ideal-posting-times/"><u>[New] In 2024, Maximizing Impact on IG Understanding Ideal Posting Times</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook/"><u>[New] Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sound-digitization-audiovisual-preservation/"><u>[Updated] Sound Digitization Audiovisual Preservation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-optimal-msoffice-functionality-on-w11/"><u>Achieving Optimal MSOffice Functionality on W11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-electric-vs-gasoline-vehicles-can-evs-match-the-durability-of-traditional-cars/"><u>Comparing Electric Vs. Gasoline Vehicles: Can EVs Match the Durability of Traditional Cars?</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-long-start-ups-in-windows-11-easily-and-swiftly/"><u>Conquering Long Start-Ups in Windows 11 Easily and Swiftly</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enter-sonic-wave-gameplay-transformed-by-pro-x/"><u>Enter Sonic Wave: Gameplay Transformed by Pro X</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/frei-verfugbare-methoden-zum-ubertragen-von-filmen-von-einer-dvd-auf-einen-flash-laufwerkstick-professionelle-tipps-und-tricks/"><u>Frei Verfügbare Methoden Zum Übertragen Von Filmen Von Einer DVD Auf Einen Flash-Laufwerkstick: Professionelle Tipps Und Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-essential-camera-techniques-for-novice-filmmakers/"><u>In 2024, Essential Camera Techniques for Novice Filmmakers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-lava-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Lava Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-potential-with-microsofts-pc-manager-in-win11/"><u>Unlocking Potential with Microsoft's PC Manager in Win11</u></a></li>
 </ul></div>
 

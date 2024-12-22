@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Permanently Silencing Microsoft's Security Guard"
-date: 2024-08-28T00:57:00.868Z
-updated: 2024-08-29T00:57:00.868Z
+date: 2024-12-21T17:03:52.976Z
+updated: 2024-12-22T17:54:29.855Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,14 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![Disable Tamper Protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Disable-Tamper-Protection-2.jpg)
 5. Close the Windows Security app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable Microsoft Defender in Windows 11
 
  We have already disabled Tamper Protection, so it won't interfere when you disable Microsoft Defender using GPE, Registry Editor, or any third-party tool. Here are the following methods that work flawlessly to disable the inbuilt security app on Windows 11:
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### 1\. Disable Microsoft Defender Using Group Policy Editor
 
  Group Policy Editor is an excellent tool using which you can customize Windows settings with ease. However, it is only reserved for Windows Pro and Enterprise users. Check out[how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you're using that version.
@@ -61,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![Disable Windows Defender Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-policy-editor.jpg)
 5. Select the**Enabled** radio button and click on the**Apply** button.
 6. Lastly, click on the**OK** button and close the Group Policy Editor. Restart your system and open Windows Security.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Disable Microsoft Defender Using Registry Editor
 
@@ -76,11 +81,13 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 5. Double-click on the DisableAntiSpyware value and set the**Value Dat** a to**1** . Keep the**Base** as**Hexadecimal** .  
 ![Disable Windows Defender Using Group Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-registry-editor.jpg)
 6. Close the Registry Editor and restart your system to apply changes.
-7. Launch Windows Security and visit the Virus and threat protection section. You will see a “ **No active antivirus provider. Your device is vulnerable.** ” message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Launch Windows Security and visit the Virus and threat protection section. You will see a “ **No active antivirus provider. Your device is vulnerable.** ” message.
+
 ### 3\. Disable Microsoft Defender Using CMD
 
  You can even use the Command Prompt app to disable Microsoft Defender. All you need to do is paste a registry modification command, and it will keep Microsoft’s default antivirus solution out of the picture. Here’s how to do it:
@@ -91,14 +98,11 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender" /v D
 3. You will see a “**The operation completed successfully.** ” message after the successful execution of the above command.  
 ![Disable Windows Defender Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-cmd.jpg)
 4. Type**exit** to close the Command Prompt window and restart your system.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Disable Microsoft Defender Using Winaero Tweaker
 
  If you hate tweaking the registry or find running commands too complex, you can use a Windows customization program like Winaero Tweaker. It is a GUI application, so you will find it easier to search for various Windows settings and disable them in a few clicks.
@@ -110,14 +114,13 @@ Repeat the following steps:
 3. Click on the search icon and type Defender. Click on the**Microsoft Defender \\ Disable Microsoft Defender** search result.  
 ![Disable Windows Defender Using Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-winaero-tweaker.jpg)
 4. Then, click on the**Disable Microsoft Defender** checkbox. Scroll down and click on the**Reboot now** button.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
-5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
+
 ### 5\. Disable Microsoft Defender Using Ultimate Windows Tweaker
 
  Like Winaero Tweaker, the Ultimate Windows Tweaker is also a Windows customization app. You can easily enable and disable multiple Windows operating system settings and features which are otherwise very difficult to locate. Repeat the following steps:
@@ -133,14 +136,11 @@ Repeat the following steps:
 
  Microsoft Defender is a pain to disable on your system because of multiple fail-safe methods built into Windows Security. So, disable Tamper Protection and then process with a method to disable Microsoft Defender. However, do not leave your system open to malware infestation, and use a third-party antivirus if you don’t like Defender.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +149,24 @@ Repeat the following steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/apturing-the-unseen-9-must-have-camgear-for-aspiring-vloggers/"><u>[New] Capturing the Unseen 9 Must-Have CamGear for Aspiring Vloggers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-prodigy-machines-top-quality-computers-available-for-2024/"><u>[Updated] Prodigy Machines Top-Quality Computers Available for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensible-guide-restoring-synapse-control-in-pcs/"><u>Comprehensible Guide: Restoring Synapse Control in PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-windows-11s-fatal-0xf0831-challenge/"><u>Dismantling Windows 11'S Fatal 0XF0831 Challenge</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-could-not-create-windows-snap-error/"><u>Dissecting 'Could Not Create' Windows Snap Error</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-experience-level-up-gameplay/"><u>Elevate Experience, Level Up Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-jotting-down-strategies-with-windows-11/"><u>Immediate Jotting Down Strategies with Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-moto-g13-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Motorola Moto G13 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-30-free-mac-speech-to-text-software-youve-missed/"><u>In 2024, Top 30 Free Mac Speech-to-Text Software You've Missed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722163139650-interact-with-intelligence-engage-in-conversations-using-chatgpt-today/"><u>Interact With Intelligence: Engage in Conversations Using ChatGPT Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-bings-artificial-intelligence-search-now-accessible-across-android-and-apple-platforms/"><u>Introducing Bing's Artificial Intelligence Search Now Accessible Across Android and Apple Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-top-tier-video-editors-for-your-win11-pc/"><u>Nine Top-Tier Video Editors for Your Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-boost-essential-speed-up-strategies-for-windows-pcs/"><u>Quick Boost: Essential Speed-Up Strategies for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/redo-windows-11s-classic-folder-display-mode/"><u>Redo Windows 11'S Classic Folder Display Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-laptop-speakers/"><u>Troubleshooting Guide: Fixing Non-Functional Laptop Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/where-do-windows-store-images-go/"><u>Where Do Windows Store Images Go?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211412883-9780645878059-zen-demystified/"><u>Zen Demystified | Free Book</u></a></li>
+</ul></div>
 

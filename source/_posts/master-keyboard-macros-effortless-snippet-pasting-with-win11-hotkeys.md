@@ -1,7 +1,7 @@
 ---
 title: "Master Keyboard Macros: Effortless Snippet Pasting with Win11 Hotkeys"
-date: 2024-12-12T13:14:22.522Z
-updated: 2024-12-12T19:14:30.932Z
+date: 2024-12-17T16:37:37.930Z
+updated: 2024-12-22T18:06:36.976Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Up Hotkeys for Pasting Pre-Defined Text With QuickTextPaste
 
  QuickTextPaste is freeware software for Windows 11, 10, 8.1, and 7\. It’s a lightweight program that enables you to set up and save custom[hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) with which you can always paste pre-defined text whenever needed. Plus, you can set custom hotkeys for opening apps with that software. You can set up a hotkey for pasting pre-defined text with QuickTextPaste as follows:
@@ -41,12 +37,17 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 5. Double-click**QuickTextPaste\_x64.exe** to run QuickTextPaste.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Now input some text you want to set up a custom paste hotkey for within the**Add** **text** box.  
 ![The QuickTextPaste window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-quicktextpaste-window.jpg)
 7. Select the keys to include within your hotkey on the two drop-down menus at the bottom of the QuickTextPaste window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Press the**Add** button. You should see your new hotkey listed within the Keyboard Shortcuts column.
 
  You can now try out your new custom paste hotkey. Click QuickTextPaste’s**To-Tray** button to minimize the app to the system tray area. Open Notepad, or any other text editor or word processor, to paste in. Then press whatever custom hotkey you set up to paste in its predefined text snippet.
@@ -60,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
@@ -83,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select one or more**Ctrl** ,**Alt** ,**Win** , and**Shift** checkboxes.
@@ -101,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -133,17 +134,24 @@ thumbnail: https://thmb.techidaily.com/d3f8a164ff7cec81bd719ff1860ad4b428bdab1ff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-quick-fixes-for-missing-sound-in-obs/"><u>[New] 2024 Approved Quick Fixes for Missing Sound in OBS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-premiers-choice-5-best-slow-motion-cams/"><u>[New] In 2024, Premier's Choice 5 Best Slow-Motion Cams</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-beyond-ustream-an-examination-of-video-streaming-for-2024/"><u>[Updated] Beyond Ustream An Examination of Video Streaming for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-extract-and-save-video-previews-free-and-easy-for-2024/"><u>[Updated] Extract and Save Video Previews, Free & Easy for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-sonic-showcase-audio-updates/"><u>[Updated] In 2024, Sonic Showcase Audio Updates</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-turning-your-instagram-movies-inside-out/"><u>2024 Approved Turning Your Instagram Movies Inside Out</u></a></li>
-<li><a href="https://win11.techidaily.com/does-the-geforce-experience-scan-fail-on-windows-heres-how-to-fix-it/"><u>Does the GeForce Experience Scan Fail on Windows? Here’s How to Fix It</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-team-chats-on-windows-1110/"><u>Ensuring Smooth Team Chats on Windows 11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-addressing-printer-errors-linked-to-domain-services/"><u>Essential Guide: Addressing Printer Errors Linked to Domain Services</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-storing-passwords-windows-file-integration-guide/"><u>Securely Storing Passwords: Windows File Integration Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-git-management-harnessing-power-with-github-desktop-and-windows-11/"><u>The Art of Git Management: Harnessing Power with GitHub Desktop & Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-steam-cant-connect-to-cloud-servers/"><u>Troubleshooting Tips: Steam Can't Connect to Cloud Servers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-green-screens-for-cinematic-artists/"><u>[Updated] Free Green Screens for Cinematic Artists</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-mkv-player-apps-windows-pc/"><u>2024 Approved Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/a-dual-analysis-underutilized-windows-system-health-metrics/"><u>A Dual Analysis: Underutilized Windows System Health Metrics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722965456391-enhance-your-gaming-experience-with-updated-rtx-2080-super-graphics-card-drivers-on-windows-11-download-now/"><u>Enhance Your Gaming Experience with Updated RTX 2080 Super Graphics Card Drivers on Windows 11 - Download Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a18-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A18 Phone that is Locked?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-gt-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme GT 5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-xiaomi-civi-3-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Xiaomi Civi 3 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-and-fine-tune-windows-with-ease-using-alomware-suite/"><u>Navigate & Fine-Tune Windows with Ease Using AlomWare Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obtrusive-quit-request-error-in-roblox-players-computers/"><u>Overcoming Obtrusive Quit Request Error in Roblox Players' Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-configurations-for-an-excellent-windows-11-experience/"><u>Precision Configurations for an Excellent Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-read-only-mode-on-windows-folders/"><u>Preventing Read-Only Mode on Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-web-experience-implementing-mouse-gestures-in-ms-edge-win-11/"><u>Reimagine Your Web Experience: Implementing Mouse Gestures in MS Edge (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-zero-empty-directories-issue-in-windows-11-and-11/"><u>Tackling the Zero-Empty Directories Issue in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-skip-recurring-enter-credentials-messages/"><u>Techniques to Skip Recurring 'Enter Credentials' Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/ten-simple-steps-for-fixing-def5-onedrive-woes-on-win11/"><u>Ten Simple Steps for Fixing DEF5: OneDrive Woes on Win11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-linksys-ea9500-a-comprehensive-review-of-its-cutting-edge-intelligence-and-power/"><u>The Linksys EA9500 - A Comprehensive Review of Its Cutting-Edge Intelligence and Power</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unraveling-loyalty-the-enduring-appeal-of-firefox-over-googles-dominant-chrome/"><u>Unraveling Loyalty: The Enduring Appeal of Firefox Over Google's Dominant Chrome</u></a></li>
 </ul></div>
 

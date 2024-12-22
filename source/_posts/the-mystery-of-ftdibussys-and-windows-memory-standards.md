@@ -1,7 +1,7 @@
 ---
 title: The Mystery of ftdibus.sys & Windows Memory Standards
-date: 2024-08-28T00:56:24.653Z
-updated: 2024-08-29T00:56:24.653Z
+date: 2024-12-16T17:17:37.570Z
+updated: 2024-12-22T17:19:06.719Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 
  If you are facing this specific problem, the fixes below should help you get back on track in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Update the FTDI Drivers
 
  Many users face difficulties when enabling Memory Integrity due to outdated FTDI drivers on their systems. This happens because these drivers, when outdated or corrupted, are not fully compatible with the latest Windows versions and their security features, including Memory Integrity.
@@ -42,15 +46,17 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 4. Choose **Update driver** from the context menu.  
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 5. Now, select **Search automatically for drivers** and let the utility scan for any updated driver versions on the system. If it finds any, you can proceed with the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If the latest available version is already installed, you can click on the **Search for updated drivers on Windows Update** and see if that helps. You can also head over to the Settings app to install the latest driver updates.
 
  Another way to get the latest available drivers on the system is by heading over to the manufacturer’s website (Future Technology Devices International, in this case) and searching for the latest driver versions there.
 
  If you find a suitable version, click on it to download it on the system. Then, follow the steps 1-4 we have listed above again, and this time, choose **Browse my computer for drivers**. You can now head over to the download location of the new driver and install it manually by following the instructions on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable the Driver
 
  If updating the driver does not help, you can try disabling it temporarily. It is, however, important to note that this can affect the functionality of associated hardware, rendering it unusable.
@@ -63,31 +69,26 @@ thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0
 2. Right-click on the targeted driver and choose **Disable device** from the context menu.  
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 3. Confirm your action in the next prompt. You might need administrative access to the system to proceed with this.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the driver is disabled, try enabling memory integrity again. You can enable the driver back by following the same steps once the issue is resolved.
 
  In case you do not need the driver on your system at all, it is best to uninstall it. For that, right-click on the driver in the Device Manager and choose **Uninstall device**. Follow the on-screen prompts to complete the process and perform a system restart to complete the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restore Your System
 
 ![Restore Points in System Restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-points-in-system-restore.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you suspect that recent changes to your system might have caused this issue, you have the option to [utilize the built-in system restore tool](https://www.makeuseof.com/use-system-restore-windows/) in Windows to undo those changes.
 
  This tool periodically creates restore points on your system, allowing you to return your system to a prior state when such a restore point was generated. This can be an effective method for resolving problems associated with recent system alterations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Force Enable Memory Integrity
 
@@ -95,9 +96,6 @@ No advertising on the website.
 
  If you decide to proceed with this method, we highly recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/), just to be safe. Once that is done, head over to our guide on [the different ways to enable memory integrity in Windows](https://www.makeuseof.com/windows-11-memory-integrity-disabled/) and follow the step-by-step instructions carefully.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Contact FTDI Support
 
  Finally, if none of the solutions help, we recommend reaching out to the [official FTDI support](https://ftdichip.com/technical-support/) and reporting the problem to them. Hopefully, they will be able to suggest you a fix.
@@ -105,15 +103,14 @@ No advertising on the website.
  You can also seek assistance from the Microsoft Support team by utilizing the "Get Help" app included with Windows or accessing Bing Chat for AI-guided support.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows' Hidden Processes: Stay Informed for a Smooth Experience
 
  Although the 'ftdibus.sys' process is not inherently malicious, it can occasionally disrupt your system. Fortunately, the solutions provided in this guide can resolve these issues. To safeguard against future problems, ensure your system and drivers remain up-to-date. We also recommend conducting regular system scans with a trusted security program for additional security.
 
  Below, we'll explore the identity and role of "ftdibus.sys" and provide guidance on addressing any problems it might trigger within your system.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,3 +118,18 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-avatar-makeover-building-your-cartoon-personality/"><u>[New] 2024 Approved Avatar Makeover Building Your Cartoon Personality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-capture-chuckles-through-adobe-media/"><u>[Updated] Capture Chuckles Through Adobe Media</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-galaxy-s8-review-a-new-era-for-superior-smartphones/"><u>[Updated] Galaxy S8 Review - A New Era for Superior Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-overlooked-yet-best-free-speech-transcribers-for-mac/"><u>2024 Approved Top 10 Overlooked, Yet Best Free Speech Transcribers for Mac</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/effective-strategies-for-reducing-the-size-of-your-m4v-videos-without-loser-quality/"><u>Effective Strategies for Reducing the Size of Your M4V Videos without Loser Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-windows-11s-glitch-empty-spots-for-file-images/"><u>Fix Windows 11'S Glitch: Empty Spots for File Images</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-key-features-youre-missing-out-on/"><u>Mastering Windows 11: Key Features You're Missing Out On</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smooth-image-shift-exclusive-selection-of-the-top-1-mantle/"><u>Smooth Image Shift Exclusive Selection of the Top 1 Mantle</u></a></li>
+<li><a href="https://win11.techidaily.com/tweak-context-menus-for-streamlined-software-use-on-pcs/"><u>Tweak Context Menus for Streamlined Software Use on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-cause-of-chromes-dark-display/"><u>Unveiling the Cause of Chrome's Dark Display</u></a></li>
+</ul></div>
+

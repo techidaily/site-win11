@@ -1,7 +1,7 @@
 ---
 title: "Unlock Windows Update: 9 Tactics Against Steady Verify Failures"
-date: 2024-09-05T08:26:30.668Z
-updated: 2024-09-06T08:26:30.668Z
+date: 2024-12-20T16:20:55.037Z
+updated: 2024-12-22T17:13:41.628Z
 tags:
   - windows10
   - windows11
@@ -14,17 +14,15 @@ keywords: Fixing WinUpdate Issues,Bypassing VerifyFail,Overcoming Update Blocks,
 thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab79994ca4fd6fd7629b24545.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlock Windows Update: 9 Tactics Against Steady Verify Failures
 
  Do you see a "verifying installation" prompt whenever you launch Steam? This prompt appears when Steam is cross-checking the game files in its database with those on your computer. Normally, this process should take only a few seconds.
 
  However, if Steam takes an unusually long time to verify the files, it's a sign that something is amiss. This can happen due to corrupt Steam files, weak internet connection, or lack of administrative permissions. As such, if Steam gets stuck in the "verifying installation" process, use the following solutions to get it fixed
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Restart the Steam Client
 
@@ -33,11 +31,9 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
  So, restart and check if it makes any difference. If not, then try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
 ![Internet router with cable on white surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-router-with-cable-on-white-surface.jpg)
@@ -77,11 +73,9 @@ To launch Steam as an administrator, follow the below instructions:
 ![Disabling Real time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-real-time-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After disabling the security app, launch the Steam client and check if it still gets stuck on the verifying installation screen. If yes, re-enable the security app, as corruption in the Steam client might be causing the problem.
 
 ## 5\. Clear Out Any Potential Corruption in Steam's Files
@@ -102,32 +96,18 @@ To launch Steam as an administrator, follow the below instructions:
 
 ![Repair Folder option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-folder-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Updating the Steam client is another quick way to eliminate any corruption that might be causing the issue. To update, click the Steam option at the top-left corner and choose the**Check for Steam Client Updates** option.
 
 ![Check for Steam Client Updates option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-steam-client-updates-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After downloading the update, click the**Restart Steam** option to install the update.
 
 ![Restart Steam option in the Steam client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-steam-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Change the Download Region in the Steam Client
 
  Steam lets you choose the download region manually. However, if there's some issue with Steam servers in your reason, you might face the issue at hand.
@@ -138,31 +118,7 @@ To launch Steam as an administrator, follow the below instructions:
 2. Click the drop-down icon under**Download Region** and choose a different download region.  
 ![Download Region option in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/download-region.jpg)
 3. Click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Clear the Steam Content Folder
 
  Steam stores its temporary data in the Depotcache and Appcache folder. But the data of these folders can also get corrupted and interrupt the verification process.
@@ -174,17 +130,9 @@ To launch Steam as an administrator, follow the below instructions:
 ![Deleting folders in the Steam installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deleting-folders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 8\. Change Steam Services Priority
 
  Increasing the Steam services priority is another quick solution you can try to eliminate the issue. You can do that by following the below steps:
@@ -194,24 +142,29 @@ To launch Steam as an administrator, follow the below instructions:
 3. Right-click on**steamservice.exe,** hover the cursor to**Set priority,** and choose**High** from the context menu.  
 ![Set priority option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-priority.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Reinstall the Steam Client
 
  Are you still struggling with the verifying installation prompt? If yes, then you're left with no option other than to reinstall the Steam client.
 
  First, uninstall the app from your computer. Then, head to the[Steam official website](https://store.steampowered.com/) and download the latest version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Back to Verifying Your Steam Games Again
 
  If Steam has issues verifying your game files, hopefully one of the fixes we covered can get it fixed again. Once done, Steam can get back to checking if your game's files are working as they should.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -220,4 +173,23 @@ To launch Steam as an administrator, follow the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-enriching-the-instagram-experience-with-background-sounds-for-2024/"><u>[Updated] Enriching the Instagram Experience with Background Sounds for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-cost-effective-camera-guidebook/"><u>[Updated] In 2024, The Cost-Effective Camera Guidebook</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-companions-for-podcast-lovers-activities-and-tasks/"><u>2024 Approved Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-c12-pro-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chatgpt-acknowledgement-guide-correct-referencing-techniques-explained/"><u>ChatGPT Acknowledgement Guide: Correct Referencing Techniques Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-default-mobility-settings-on-windows-11/"><u>Eliminate Default Mobility Settings on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-nord-n30-se-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Nord N30 SE in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-metered-connection-for-a-wi-fi-network-in-windows-11/"><u>How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-to-overcome-madden-22-launch-hang-up-problems/"><u>Quick Solutions to Overcome Madden 22 Launch Hang-Up Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-smooth-play-banishing-win-crashing-during-df/"><u>Restoring Smooth Play: Banishing Win Crashing During DF</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2007-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2007</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-correcting-windows-file-corruption-for-update-10-and-11-users/"><u>Step-by-Step Tutorial: Correcting Windows File Corruption for Update 10 and 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-streaming-youtube-videos-on-windows-chrome/"><u>Swiftly Streaming YouTube Videos on Windows Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgierrorcode-zerox887a0006-device-hang-fixes/"><u>Tackling DXGIErrorCode ZeroX887A0006: Device Hang Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-changing-username-in-windows-11/"><u>The Insider's Look: Changing UserName in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-evolution-of-windows-11-advanced-widget-techniques/"><u>The Next Evolution of Windows 11: Advanced Widget Techniques</u></a></li>
+</ul></div>
 

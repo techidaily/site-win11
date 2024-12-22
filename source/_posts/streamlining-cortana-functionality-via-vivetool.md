@@ -1,7 +1,7 @@
 ---
 title: Streamlining Cortana Functionality via ViveTool
-date: 2024-12-07T21:02:27.747Z
-updated: 2024-12-12T18:43:59.498Z
+date: 2024-12-16T18:03:24.062Z
+updated: 2024-12-22T16:16:40.184Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is ViveTool and Why Do You Need It to Enable Windows Copilot?
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![Screenshot-showing-Windows-Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The third-party tool you need is ViveTool, a software that can enable hidden features or ones limited to select Windows users. Windows Copilot is one such functionality: at the time of writing, the feature is limited to select Windows users running Windows 11 Dev Insider builds.
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
  To enable Windows Copilot using ViveTool, you'll need to install Windows 11 Dev build 23493 or later.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Windows Copilot Using ViveTool
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![Screenshot showing Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/command-prompt-enabling-windows-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you've successfully installed ViveTool, you're halfway through enabling the Windows Copilot on your PC. All you have to do now is enable some IDs using Command Prompt and update the Microsoft Edge browser. Below is the step-by-step guide on enabling those feature IDs and updating the browser.
@@ -76,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
  When Windows Copilot becomes available for everyone, you will no longer need ViveTool to enable it. You'll be able to enable it from the Taskbar page in the Settings app. You'll find the **Copilot** toggle in the Taskbar items on the Taskbar page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Copilot Makes Things Easier... but It's Not Nearly as Powerful as Bing Chat
@@ -87,24 +87,6 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
  In this article, we will guide you through enabling Windows Copilot AI on Windows 11, though you'll need a third-party tool.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-15-timeless-classics-in-stop-motion-cinema-history/"><u>[New] In 2024, Top 15 Timeless Classics in Stop-Motion Cinema History</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-return-engineer-toolkit/"><u>[New] Return Engineer Toolkit</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-speech-to-text-magic-in-your-next-presentation/"><u>[New] Speech-to-Text Magic in Your Next Presentation</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-step-by-step-producing-shareable-videos-as-memes-on-social-media-for-2024/"><u>[New] Step-by-Step Producing Shareable Videos as Memes on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-key-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>[New] The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unleashing-potential-in-virtual-film-worlds/"><u>[Updated] Unleashing Potential in Virtual Film Worlds</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-anticipated-tesla-smartphone-release-timeline-estimated-cost-and-feature-leakage/"><u>All You Need to Know About the Anticipated Tesla Smartphone - Release Timeline, Estimated Cost & Feature Leakage</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-dodging-8-common-windows-11-faux-pas/"><u>Guide to Dodging 8 Common Windows 11 Faux Pas</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-fixing-windows-defender-0x80004004-glitch/"><u>Insight Into Fixing Windows Defender 0X80004004 Glitch</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-unbiased-review-is-videopad-video-editor-the-right-fit-for-you/"><u>New In 2024, Unbiased Review Is Videopad Video Editor the Right Fit for You ?</u></a></li>
-<li><a href="https://win11.techidaily.com/rewind-time-top-7-windows-apps-for-date-adjustments-on-files/"><u>Rewind Time: Top 7 Windows Apps for Date Adjustments on Files</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-microphone-troubles-when-chatting-in-valorant-games/"><u>Solving Microphone Troubles When Chatting in Valorant Games</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-cloud-gaming-expert-tips-and-tricks-using-xbox-game-pass-ultimate/"><u>Unlock the Power of Cloud Gaming: Expert Tips & Tricks Using Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://win11.techidaily.com/wake-up-5-solutions-to-power-down-issues/"><u>Wake Up: 5 Solutions to Power Down Issues</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -112,3 +94,22 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-guide-to-excellent-voice-recorders-for-macs/"><u>[New] Guide to Excellent Voice Recorders for Macs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prime-portals-for-digital-type-art/"><u>[New] Prime Portals for Digital Type Art</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-resizing-imagery-on-iphone-without-hassle/"><u>[New] Resizing Imagery on iPhone Without Hassle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-secrets-to-free-hd-video-grabs-from-facebook/"><u>2024 Approved Secrets to Free HD Video Grabs From Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-group-policy-intricacies-through-gpresult/"><u>Deciphering Group Policy Intricacies Through GPResult</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-unveiled-a-deep-dive-into-w11s-core/"><u>DevHome Unveiled: A Deep Dive Into W11's Core</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-deciphering-screen-recorders-bandicam-or-camtasia/"><u>In 2024, Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-lightroom-for-android-a-complete-guide/"><u>In 2024, Unveiling Lightroom for Android A Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-xiaomi-redmi-k70-pro-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Xiaomi Redmi K70 Pro, is it possible?</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-gpos-ensuring-compliance-on-modern-windows/"><u>Revitalizing GPOs: Ensuring Compliance on Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-password-ingress-windows-pass-and-no-pass-outcomes/"><u>Scrutinizing Password Ingress: Windows Pass & No-Pass Outcomes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-zte-nubia-z60-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to ZTE Nubia Z60 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-unresponsive-voice-commands/"><u>Troubleshooting Windows 11: Unresponsive Voice Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-set-default-touch-input-placement/"><u>Win 11: Set Default Touch Input Placement</u></a></li>
+</ul></div>
+

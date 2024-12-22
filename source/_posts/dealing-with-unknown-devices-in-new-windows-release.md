@@ -1,7 +1,7 @@
 ---
 title: Dealing with Unknown Devices in New Windows Release
-date: 2024-12-12T08:40:38.893Z
-updated: 2024-12-13T12:03:53.612Z
+date: 2024-12-17T16:50:26.081Z
+updated: 2024-12-22T18:06:27.092Z
 tags:
   - windows10
   - windows11
@@ -54,14 +54,10 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 ![Scan for hardware changes option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-hardware-changes-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use the Hardware and Devices Troubleshooter
 
@@ -94,10 +90,14 @@ Here's how to use the Hardware and Devices troubleshooter:
 7. Click the**Save changes** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Next, restart your computer and check for the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Download the Latest Driver Update
 
@@ -108,10 +108,6 @@ Next, restart your computer and check for the problem.
 3. Right-click on the problematic device, and choose**Update driver** from the context menu.  
 ![Update driver option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-driver-option.jpg)
 4. In the new window that crops up, select the**Search automatically for drivers** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
@@ -124,10 +120,6 @@ Next, restart your computer and check for the problem.
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Disable the USB Selective Suspend Setting
 
  Disabling the USB Selective Suspend setting is another thing you can do to get rid of the problem at hand. Here's how to do it:
@@ -139,11 +131,19 @@ Next, restart your computer and check for the problem.
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Update Your BIOS
 
  Are you still facing the problem? If yes, then probably outdated BIOS is the culprit.
 
  An outdated BIOS can cause issues like low system performance and stability, and incompatibility with certain devices. It can also cause the Unknown USB Device, Port Reset Failed error. So, update your BIOS to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Unknown USB Device, Port Reset Failed Error
 
@@ -166,18 +166,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-easy-to-follow-steps-for-exporting-youtube-and-pinterest-videos-as-mp3s/"><u>[New] Easy-to-Follow Steps for Exporting YouTube and Pinterest Videos as MP3s</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-imagesplitter-pro/"><u>[New] In 2024, ImageSplitter Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-cutting-edge-camera-list-best-videography-devices-of-the-year-for-2024/"><u>[Updated] Cutting-Edge Camera List Best Videography Devices of the Year for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cut-to-slowness-the-ultimate-guide-for-reel-makers-for-2024/"><u>Cut to Slowness The Ultimate Guide for Reel Makers for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-simple-shelter-strategies-in-mc/"><u>In 2024, Essential Simple Shelter Strategies in MC</u></a></li>
-<li><a href="https://win11.techidaily.com/making-the-most-of-windows-11-using-dev-drive-effectively/"><u>Making the Most of Windows 11: Using Dev Drive Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fast-file-transfers-in-battlenet-windows/"><u>Mastering Fast File Transfers in Battle.net Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-your-workspace-switching-themes-on-win11/"><u>Personalize Your Workspace: Switching Themes on Win11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/revolutionize-your-designs-with-phrozens-spectacular-four-tone-3d-printing-machine/"><u>Revolutionize Your Designs with Phrozen's Spectacular Four-Tone 3D Printing Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-steps-to-elevate-account-type/"><u>Swift Steps To Elevate Account Type</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips-for-2024/"><u>The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-home-view-in-windows-11-settings/"><u>Unlock Home View in Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-if-the-lock-screen-timeout-stops-working-on-windows/"><u>What to Do if the Lock Screen Timeout Stops Working on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevating-your-storage-game-with-2024s-top-cloud-services/"><u>[New] Elevating Your Storage Game with 2024'S Top Cloud Services</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-embedding-spotify-content-into-a-youtube-music-list-for-2024/"><u>[Updated] Embedding Spotify Content Into a YouTube Music List for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-restore-classic-photo-viewing-experience-on-modern-windows-11/"><u>[Updated] Restore Classic Photo Viewing Experience on Modern Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-trending-images-tales-behind-the-graphics/"><u>[Updated] Top Trending Images Tales Behind the Graphics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-90-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4r-m4a-movavi/"><u>網路直接免費移轉 M4R 到 M4A - 利用 Movavi 的音頻格式轉換工巧</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-hurdles-of-error-0x80040610-a-comprehensive-approach/"><u>Eliminating the Hurdles of Error 0X80040610: A Comprehensive Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/excel-in-windows-top-5-productivity-enhancers-you-cant-miss/"><u>Excel in Windows: Top 5 Productivity Enhancers You Can't Miss</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-handling-winservicesexe-errors/"><u>Expert Tips for Handling Winservices.exe Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On iPhone 14 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-a-deep-dive-into-top-audio-production-tools-is-magix-samplitude-still-king/"><u>In 2024, A Deep Dive Into Top Audio Production Tools Is MAGIX Samplitude Still King?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/inspire-dont-impose-the-art-of-attracting-subscribers/"><u>Inspire, Don't Impose The Art of Attracting Subscribers</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-systemsettingsexe-failure-on-windows-11/"><u>Preventing SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstate-your-favorite-microsoft-store-for-windows-devices/"><u>Reinstate Your Favorite Microsoft Store for Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-improve-usb-interaction-points/"><u>Steps to Improve USB Interaction Points</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reverse-color-issue-with-windows-marketplace/"><u>Techniques to Reverse Color Issue with Windows Marketplace</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/virtuality-unveiled-evolution-of-escapism-for-2024/"><u>Virtuality Unveiled Evolution of Escapism for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-basics-easy-access-aids-for-novices/"><u>Windows Basics: Easy-Access Aids for Novices</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-smoothly-eradicate-lags-from-star-wars-bf2-on-pc/"><u>Winning Smoothly: Eradicate Lags From Star Wars BF2 on PC</u></a></li>
 </ul></div>
 

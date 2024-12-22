@@ -1,7 +1,7 @@
 ---
 title: Steps to Fix 'Windows Multi-Tasking Issue'
-date: 2024-12-12T04:44:59.715Z
-updated: 2024-12-12T16:27:53.559Z
+date: 2024-12-15T17:27:57.636Z
+updated: 2024-12-22T17:27:56.903Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
  Restart your PC after this (see[how to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and try to launch your app or program one more time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Scans
 
  Corrupted or missing system files on your computer can also trigger such errors. Fortunately, Windows includes a useful command-line utility called SFC (or System File Checker) scan for such occasions. It can automatically detect any damaged system files on your PC and replace them with their cached versions.
@@ -62,7 +58,7 @@ To run the SFC scan on your computer:
  After the process is complete, exit the Command Prompt window and restart your PC. The error should not appear anymore after the reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Run the Program Compatibility Troubleshooter
@@ -75,6 +71,10 @@ To run the SFC scan on your computer:
 4. Follow the on-screen prompts to run the troubleshooter and see if the error occurs again.  
 ![Program Compatibility Troubleshooter Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Program-Compatibility-Troubleshooter-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair the Problematic App
 
  If the Windows troubleshooter fails to find any problems, you can try repairing the problematic app on Windows. Here's how to do it.
@@ -85,6 +85,10 @@ To run the SFC scan on your computer:
 4. Scroll down to locate the problematic app on the list. Click the**three-dot menu icon** next to it and select**Advanced options** .
 5. Scroll down to the Reset section and click on**Repair** .  
 ![Repair App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-App-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should see a right checkmark next to the Repair button once the process is complete.
 
@@ -100,7 +104,7 @@ To run the SFC scan on your computer:
 ![Uninstall App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Uninstall-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Head over to Microsoft Store and install the app again. Following this, the error should not bother you.
@@ -120,7 +124,11 @@ To run the SFC scan on your computer:
 ![Check for System Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-for-System-Updates-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
@@ -138,15 +146,7 @@ To perform a system restore on Windows:
 7. Check all the details and hit**Finish** .  
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows will restart and revert to the specified restore point. Following that, the error should be resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Start Using Your Apps Again
 
@@ -167,20 +167,20 @@ To perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-editing-techniques-for-final-cut-pro-professionals/"><u>[Updated] In 2024, Ultimate Editing Techniques for Final Cut Pro Professionals</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unboxing-excellence-a-compreayers-guide-to-sj-cam-s6/"><u>[Updated] In 2024, Unboxing Excellence A Compreayer's Guide to SJ-CAM S6</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-from-static-to-swirling-implementing-motion-blur-in-ai-designs/"><u>2024 Approved From Static to Swirling Implementing Motion Blur in AI Designs</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-unlock-your-pcs-credentials-with-these-11-win11-tricks/"><u>Effortlessly Unlock Your PC’s Credentials with These 11 Win11 Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-9-ways-to-navigate-through-windows-audio-settings-panel/"><u>Learn 9 Ways to Navigate Through Windows Audio Settings Panel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-downloading-from-newgrounds-discover-three-proven-strategies-for-quick-and-safe-video-extraction/"><u>Master the Art of Downloading From Newgrounds: Discover Three Proven Strategies for Quick and Safe Video Extraction</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-noninteractive-elements-on-windows-11/"><u>Overcoming Noninteractive Elements on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-silent-audio-issues-during-valorant-playthroughs-on-windows/"><u>Overcoming Silent Audio Issues During Valorant Playthroughs on Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ideo-editing-selections-for-social-media-for-2024/"><u>Pro Video Editing Selections for Social Media for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-windows-11-to-classic-folder-visibility/"><u>Resetting Windows 11 to Classic Folder Visibility</u></a></li>
-<li><a href="https://win11.techidaily.com/the-enigmatic-personal-space-in-win-how-to-engage-with-private-character-viewer/"><u>The Enigmatic Personal Space in Win: How to Engage with Private Character Viewer</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-discovering-deleting-null-space-in-windows-systems/"><u>The Ultimate Guide: Discovering, Deleting Null Space in Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nokia 150 (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-captivate-audiences-from-day-one/"><u>[New] Captivate Audiences From Day One</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-editors-playbook-for-social-media-stardom/"><u>[Updated] The Editor's Playbook for Social Media Stardom</u></a></li>
+<li><a href="https://win11.techidaily.com/5-effective-strategies-to-fix-rpc-issues-in-win/"><u>5 Effective Strategies to Fix RPC Issues in Win</u></a></li>
+<li><a href="https://win11.techidaily.com/antimalware-resource-hog-turn-it-off-for-better-performance/"><u>Antimalware Resource Hog: Turn It Off for Better Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-troubleshooting-steps-for-broken-usb-ports/"><u>Effortless Troubleshooting Steps for Broken USB Ports</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-autonomous-command-line-openings/"><u>How to Disable Autonomous Command Line Openings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>In 2024, Accelerating Your Creative Process A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-become-a-youtube-star-essential-skills-training/"><u>In 2024, Become a YouTube Star Essential Skills Training</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-x7b-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor X7b Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-the-windows-world-crafting-and-examining-system-data/"><u>Inside the Windows World: Crafting and Examining System Data</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-path-to-a-discounted-youtube-premium-account-as-a-learner/"><u>Navigating the Path to a Discounted YouTube Premium Account as a Learner</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-complex-windows-11-install-issues/"><u>Navigating Through Complex Windows 11 Install Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/tidy-up-windows-11-workspace-in-minutes/"><u>Tidy Up Windows 11 Workspace in Minutes</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-video-from-japanese-to-english-online-for-2024/"><u>Updated How To Translate Video From Japanese to English Online for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vertical-view-fixed-for-laptops/"><u>Vertical View Fixed for Laptops</u></a></li>
 </ul></div>
 

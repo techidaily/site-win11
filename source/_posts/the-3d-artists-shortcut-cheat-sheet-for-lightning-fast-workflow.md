@@ -1,7 +1,7 @@
 ---
 title: The 3D Artist's Shortcut Cheat Sheet for Lightning-Fast Workflow
-date: 2024-12-06T07:13:17.163Z
-updated: 2024-12-13T09:06:34.642Z
+date: 2024-12-19T17:17:36.274Z
+updated: 2024-12-22T17:11:02.159Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Paint 3D Keyboard Shortcuts
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 | F12                | Save the picture as a new file                                                              |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get More From Microsoft Paint 3D
@@ -124,24 +124,18 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-professional-post-processing-how-to-erase-image-borders-easily/"><u>[New] Professional Post-Processing How to Erase Image Borders Easily</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-sky-high-broadcasting-your-first-steps-in-youtube-live-via-obs/"><u>[New] Sky-High Broadcasting Your First Steps in Youtube Live via OBS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-best-practices-for-hospitals-social-media-health-promos/"><u>[Updated] Best Practices for Hospitals' Social Media Health Promos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style-for-2024/"><u>[Updated] Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-choosing-your-recording-champion-pick-obs-or-bandicam/"><u>[Updated] In 2024, Choosing Your Recording Champion Pick OBS or Bandicam?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-the-insta-to-tik-connection/"><u>[Updated] Navigating the Insta-to-Tik Connection</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-art-of-online-passport-photography-our-top-picks/"><u>2024 Approved Mastering the Art of Online Passport Photography - Our Top Picks</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-the-impact-do-widgets-streamline-win-11s-usage/"><u>Assessing the Impact: Do Widgets Streamline Win 11'S Usage?</u></a></li>
-<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/creating-custom-bing-dwen-dwen-emojis-in-your-whatsapp-chat-a-step-by-step-guide/"><u>Creating Custom Bing Dwen Dwen Emojis in Your WhatsApp Chat: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-group-policy-changes-on-a-windows-system/"><u>Navigating Group Policy Changes on a Windows System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/no-cost-asus-realtek-audio-controller-driver-pack-available-now/"><u>No-Cost ASUS Realtek Audio Controller Driver Pack Available Now</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-galaxy-performance-through-seamless-integration-in-windows-11/"><u>Optimizing Galaxy Performance Through Seamless Integration in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/power-tools-for-pc-mastery-command-prompt-edition-of-win-registry-edits/"><u>Power Tools for PC Mastery: Command Prompt Edition of Win Registry Edits</u></a></li>
-<li><a href="https://win11.techidaily.com/rapid-pc-data-access-everythingapp-utilization/"><u>Rapid PC Data Access: EverythingApp Utilization</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/the-insiders-guide-to-bitcoin-mining-techniques-unveiled-by-yl-software-experts/"><u>The Insider's Guide to Bitcoin Mining: Techniques Unveiled by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-no-cost-player-titles-for-pcs-and-viewing/"><u>The Top 7 No-Cost Player Titles for PCs & Viewing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-crystalgrabber-deluxe-winos/"><u>[New] 2024 Approved CrystalGrabber Deluxe - WinOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-setting-up-a-sports-channel-from-scratch-mac-style/"><u>[New] In 2024, Setting up a Sports Channel From Scratch, Mac-Style</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-download-of-youtube-videos-for-2024/"><u>[Updated] Direct Download of YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-unsigned-files-error-for-windows-1110/"><u>Bypassing Unsigned Files Error for Windows 11/10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/evaluating-inshots-capabilities-against-market-leaders/"><u>Evaluating InShot's Capabilities Against Market Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-for-stuck-chrome-try-these-remedies-for-win11/"><u>Fresh Start for Stuck Chrome: Try These Remedies For Win11.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-10-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 10 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a05-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy A05 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-overcoming-forbidden-errors/"><u>Mastering the Art of Overcoming Forbidden Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-resetting-windows-11-mailcalendar/"><u>Quick Guide: Resetting Windows 11 Mail/Calendar</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-iomap64-system-crashes-and-bsod-quickly-on-pcs/"><u>Resolve IOMap64 System Crashes and BSoD Quickly on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-techniques-for-net-healing-in-windows-max-156/"><u>Top 5 Techniques for .NET Healing in Windows (Max 156)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-are-my-iphones-contacts-missing-and-how-to-solve-it/"><u>Troubleshooting: Why Are My iPhone's Contacts Missing and How to Solve It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Unauthorized User Profile Issue in Windows
-date: 2024-09-05T08:26:27.185Z
-updated: 2024-09-06T08:26:27.185Z
+date: 2024-12-16T17:38:04.290Z
+updated: 2024-12-22T16:30:23.589Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Unauthorized Access,Remove Illegal Profiles,Stop UAC Failure,Disab
 thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175eaa7e3a93f998add3b31aa3c1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Resolving Unauthorized User Profile Issue in Windows
 
  Some users can’t utilize apps downloaded from MS Store because of an error that says, “The specified user does not have a valid profile.” Users have reported the valid profile error message pops up when they click to start UWP (Universal Windows Platform) apps.
@@ -27,11 +21,9 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  That error is a more serious one because users can’t open and utilize the Microsoft Store apps they need when it occurs. Or some users might not be able to play their favorite games like Minecraft. This is how you can fix the “specified user does not have a valid profile” error on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Sign Out and Back Into the Microsoft Store
 
  This error can sometimes fix itself by simply signing out of, and back into, the Microsoft Store. So, try signing out and into the Microsoft Store app like this:
@@ -41,19 +33,11 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 3. Select**Sign out** on the menu.  
 ![The Sign out option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-store-window.jpg)
 4. Then click the account button again to select**Sign in** .
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Input your Microsoft account details to sign back in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -69,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Take Ownership of the WindowsApps Folder
 
  Users have confirmed taking ownership of the WindowsApps folder is a workable fix for the “Specified user does not have a valid profile” error. Doing so will enable you to open and access the WindowsApps folder.
@@ -80,23 +68,9 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-user-or-group-window.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 5\. Change the Location of an Affected App’s Folder
 
  It has also been confirmed that changing the location of folders that include affected apps can resolve the “Specified user does not have a valid profile” error. You’ll also need to take ownership of the WindowsApps folder to apply this potential solution. When you’ve done that, try moving an affected app’s folder out of WhatsApps like this:
@@ -106,18 +80,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
 2. Find the app folder specified in the error message within the WindowsApps directory.  
 ![The WindowsApps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windowsapps-folder.jpg)
 3. Left-click the app's folder, hold the left button, and drag it into your User directory to move it.
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then open the moved folder and double-click the app’s EXE file specified within the error message.
 
 ## 6\. Uninstall CloudPaging Player and Creo Trial
@@ -129,11 +91,9 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  If that doesn’t work, completely uninstall CloudPaging Player or Creo Trial to ensure such software cannot cause the “Specified user does not have a valid profile” error.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Perform a Clean Startup
 
  CloudPaging Player and Creo Trial might not be the only apps that can cause the “user does not have a valid profile” error. So, it’s recommended users disable other apps from starting with Windows by performing a clean boot.
@@ -145,23 +105,15 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
  When you’ve configured a clean startup, restart your PC and try launching the app again. If that works, you can leave the boot configuration as it is. If you prefer to undo the boot changes, you’ll need to identify what app is causing the valid profile error when it’s running in the background and keep it disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall the Affected Apps
 
  There could be an issue with the app that only reinstalling it will resolve. So, remove an affected app by opening Apps & Features, clicking its menu button, and selecting**Uninstall** . Windows 10 users only need to select the app in Settings and click**Uninstall** to remove it.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the app’s page within Microsoft Store. You can find it more easily by inputting the app’s title within Microsoft Store’s search box. Click the**Get** button to download and install the app you just removed.
 
  Does the affected app also have a desktop software version like Spotify for example? If so, the desktop software version gives you a different reinstallation option. Try reinstalling a desktop software version of the affected app if there is one available on the publisher’s website.
@@ -182,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +141,26 @@ thumbnail: https://thmb.techidaily.com/482b831c6b34c789ab00f688124bfef762b7175ea
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/uidelines-to-affirm-your-youtube-status/"><u>[New] Guidelines to Affirm Your YouTube Status</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-kinemasters-guide-engineering-impeccable-video-continuity-for-2024/"><u>[New] Kinemaster's Guide Engineering Impeccable Video Continuity for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>[New] The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[Updated] Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-peek-into-the-m1-max-clips-capabilities/"><u>2024 Approved A Peek Into the M1 Max Clip's Capabilities</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-brilliance-explore-the-elph-190-camera/"><u>Budget Brilliance: Explore the ELPH 190 Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-0x0000011b-error-on-win11-operations/"><u>Eliminating the 0X0000011B Error on Win11 Operations</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-recurring-stardew-valley-pc-game-crashes-a-step-by-nstep-guide/"><u>Fixing Recurring Stardew Valley PC Game Crashes - A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-x7e1-step-by-written-guide/"><u>Fixing Windows Error X7E1: Step-By Written Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/iis-insiders-top-8-tricks-for-accessing-the-manager/"><u>IIS Insider's Top 8 Tricks for Accessing the Manager</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-tackle-unsuccessful-sync-with-onedrive-win1011/"><u>Methods to Tackle Unsuccessful Sync with OneDrive Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discord-installation-hurdles-on-pc-and-laptops/"><u>Overcoming Discord Installation Hurdles on PC & Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y78plus-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y78+ Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printers-unwillingness-for-full-color-printing/"><u>Printer's Unwillingness for Full-Color Printing</u></a></li>
+<li><a href="https://win11.techidaily.com/refine-windows-defense-measures-add-ons-and-filters-for-context-menu/"><u>Refine Window's Defense Measures: Add-Ons and Filters for Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-off-high-contrast-in-windows-os/"><u>Switching Off High Contrast in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-system-repairs-with-keyboard-shortcuts-on-windows-11/"><u>Unlock System Repairs with Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-nostalgic-twist-retaining-7-old-school-features/"><u>Windows 11’S Nostalgic Twist: Retaining 7 Old-School Features</u></a></li>
+</ul></div>
 
