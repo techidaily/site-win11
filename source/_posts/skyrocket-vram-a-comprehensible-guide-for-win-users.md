@@ -1,7 +1,7 @@
 ---
 title: "Skyrocket VRAM: A Comprehensible Guide for Win Users"
-date: 2024-12-20T17:38:31.174Z
-updated: 2024-12-22T16:28:39.330Z
+date: 2024-12-26T23:06:45.580Z
+updated: 2024-12-27T23:09:02.264Z
 tags:
   - windows10
   - windows11
@@ -48,18 +48,26 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Increase VRAM in Windows
 
  The best way to increase your video RAM is to purchase a new or better graphics card. If you're using integrated graphics and suffer from poor performance, upgrading to a dedicated card (even one of[the best budget graphics cards](https://www.makeuseof.com/tag/best-budget-graphics-card/) ) will do wonders for your video output.
 
  However, if this isn't an option for you (like on laptops), you may be able to increase your dedicated VRAM in two ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase VRAM in the BIOS
 
@@ -68,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
  These should contain an option to adjust how much memory you allocate to the GPU. The default is usually**128MB** ; try upping this to**256MB** or**512MB** if you have enough to spare.
 
  Not every CPU or BIOS has this option, though. If you can't change it, there's a workaround that might help you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Faking a VRAM Increase in Windows
 
@@ -95,10 +99,6 @@ Head to the following location:
 
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Kinds of Tasks Need Video RAM?
 
  Before we talk about specific values for video memory, we should mention what aspects of games and other graphics-intensive apps use the most VRAM.
@@ -115,13 +115,13 @@ Head to the following location:
 
 ![cyberpunk 2077 xbox series x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/11/cyberpunk-2077.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Conversely, a cheap card with just 2GB of VRAM (or even integrated graphics with 8GB+ of system RAM) is sufficient for playing PC titles from 20-plus years ago. Games back then had nowhere near modern amounts of RAM at their disposal.
 
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Much VRAM Do I Need?
 
@@ -137,6 +137,10 @@ Head to the following location:
 
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -146,10 +150,6 @@ Head to the following location:
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Understanding VRAM With Integrated Graphics
 
@@ -184,24 +184,17 @@ Head to the following location:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ontent-creation-evolution-studio-vs-innovative-beta-for-2024/"><u>[New] Content Creation Evolution Studio Vs. Innovative Beta for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-quick-and-clear-swap-clown-fins-voices-on-pcs/"><u>[New] Quick & Clear Swap Clown Fins' Voices on PCs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-can-instant-subscription-lead-to-higher-watch-time-in-2024/"><u>[Updated] Can Instant Subscription Lead to Higher Watch Time, In 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/2023-dvd/"><u>202^3年上市 - 多功能且高效DVD播放器套件，免費下載體驗未來科技的頂級</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-insights-setting-up-time-limited-sessions-with-obs/"><u>2024 Approved Ultimate Insights Setting Up Time-Limited Sessions with OBS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/choosing-between-bandicam-and-camtasia-for-video-capture/"><u>Choosing Between Bandicam and Camtasia for Video Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/consistent-performance-copying-your-customized-powertoys-to-another-pc/"><u>Consistent Performance: Copying Your Customized PowerToys to Another PC</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/direct-access-video-retriever-for-atandt-techchannels-effortless-downloads-from-attcomtechchannel/"><u>Direct Access Video Retriever for AT&T TechChannels: Effortless Downloads From att.com/techchannel</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-dism-system-image-reconstruction-guide/"><u>Dissecting Dism: System Image Reconstruction Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-steam-captcha-failures/"><u>Fixing Windows Steam CAPTCHA Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-test-your-webcam-and-microphone-before-a-meeting-windows/"><u>How to Test Your Webcam and Microphone Before a Meeting (Windows)</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oppo-k11-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Oppo K11 5G FRP?</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-windows-non-responding-folders-via-double-click-clicks/"><u>Mastery over Windows' Non-Responding Folders via Double-Click Clicks</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-color-to-extended-volume-option-in-disk-management/"><u>Restore Color to Extended Volume Option in Disk Management</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-control-key-functionality-on-windows-11-pcs/"><u>Restoring Control Key Functionality on Windows 11 PCs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-to-restore-calling-functions-on-android-phones/"><u>Step-by-Step Solutions to Restore Calling Functions on Android Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-adjust-your-windows-clock-without-regional-defaults/"><u>Tips to Adjust Your Windows Clock Without Regional Defaults</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-90-gt-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor 90 GT</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-new-features-tailoring-fn-key-behavior-on-windows-11/"><u>Unlock New Features: Tailoring FN Key Behavior on Windows 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1-online-video-converter-software-with-winx-dvd-ripper-support-for-easy-media-editing/"><u>1. Online Video Converter Software with WinX DVD Ripper Support for Easy Media Editing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-latest-gadgets-with-toms-review-hub/"><u>Exploring the Latest Gadgets with Tom's Review Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/file-organization-breakthroughs-with-simultaneous-window-folders/"><u>File Organization Breakthroughs with Simultaneous Window Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-nvidia-rtx-3080-ti-graphics-driver-update-win-11-compatible-free-access-to-versions-for-7-and-8/"><u>Latest Nvidia RTX 3080 Ti Graphics Driver Update Win 11 Compatible - FREE Access to Versions for 7 & 8</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-reactivate-nonfunctional-nvidia-cp/"><u>Methods to Reactivate Nonfunctional Nvidia CP</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/nixing-facebook-broadcasts-effortlessly/"><u>Nixing Facebook Broadcasts Effortlessly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reincarnationresurrection/"><u>Reincarnation/Resurrection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rerouting-to-reinstalled-microsoft-store-programs-on-pc/"><u>Rerouting to Reinstalled Microsoft Store Programs on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-pubg-missing-architecture-glitches-effectively/"><u>Resolving PUBG Missing Architecture Glitches Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/track-down-absent-control-settings-on-your-new-pc/"><u>Track Down Absent Control Settings on Your New PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1726028236509-youtube/"><u>YouTube動画からオンリーオーディオを抽出する完全ガイド</u></a></li>
 </ul></div>
 

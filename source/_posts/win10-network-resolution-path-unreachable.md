@@ -1,7 +1,7 @@
 ---
 title: "Win10 Network Resolution: Path Unreachable"
-date: 2024-12-18T16:41:05.711Z
-updated: 2024-12-22T17:48:11.145Z
+date: 2024-12-25T18:36:48.489Z
+updated: 2024-12-28T04:02:36.171Z
 tags:
   - windows10
   - windows11
@@ -37,20 +37,20 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Type folder name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-share-this-folder.jpg)
 5. Once done, click on **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now check if the drive is accessible after following the steps above.
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 4. Scroll down and bit and note down the address for IPv4 Address.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 6. Click **Enter** and see if you can connect to the remote computer successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
@@ -102,6 +102,11 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 4. Choose **Properties** from the context menu.  
 ![Properties of TCP/IP helper service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-properties.jpg)
 5. In the following dialog, click on the **Stop** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
@@ -109,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 8. Click **Apply** \> **OK** to save the changes.
 
  Once done, check if that fixes the issue for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Enable SMB 1.0
 
@@ -133,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 5. Click **OK** to save the changes and check if the error is now fixed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Modify Network Security Settings
@@ -149,7 +150,7 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset TCP/IP
@@ -174,22 +175,22 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-motion-with-precision-how-to-choose-between-30-and-60fps/"><u>[New] 2024 Approved Capturing Motion with Precision How to Choose Between 30 and 60Fps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-how-to-create-360-degree-photosimages-with-fisheye-lens/"><u>[New] How to Create 360 Degree Photos/Images with Fisheye Lens</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-discover-comedy-tear-fusion-in-these-highest-rated-memetic-accounts/"><u>[Updated] 2024 Approved Discover Comedy-Tear Fusion in These Highest Rated Memetic Accounts</u></a></li>
-<li><a href="https://win11.techidaily.com/aligning-your-preferences-with-nvidia-driver-choices/"><u>Aligning Your Preferences with Nvidia Driver Choices</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/best-webcam-accessories-top-10-secure-solutions/"><u>Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-stream-mastery-with-xsplit-or-obs-comparison/"><u>Discover Stream Mastery with XSplit or OBS Comparison</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-launch-windows-11-on-mac-through-parallels/"><u>Essential Steps to Launch Windows 11 on Mac Through Parallels</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-and-manage-windows-11-writable-components/"><u>Explore and Manage Windows 11' Writable Components</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>In 2024, Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-creating-full-screen-memories/"><u>In 2024, The Ultimate Guide to Creating Full-Screen Memories</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-ahead-your-in-store-purchase-speed-on-ms-platform/"><u>Leap Ahead Your In-Store Purchase Speed on MS Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-hurdle-of-nonstop-teams-sign-ins-on-pc/"><u>Overcoming the Hurdle of Nonstop Teams Sign-Ins on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-glance-windows-11-expert-guide-to-image-access/"><u>Quick Glance: Windows 11 Expert Guide to Image Access</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-and-solutions-for-assassins-creed-valhalla-stuttering-issues-on-pc/"><u>Resolved: Fixes and Solutions for Assassin's Creed Valhalla Stuttering Issues on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/reward-system-reboot-for-your-favorite-titles/"><u>Reward System Reboot for Your Favorite Titles</u></a></li>
-<li><a href="https://win11.techidaily.com/tomorrows-windows-embracing-ai-dominance/"><u>Tomorrow's Windows: Embracing AI Dominance</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-url-integration-in-ig-stories-and-posts/"><u>[New] 2024 Approved Navigating URL Integration in IG Stories and Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tactics-for-trimming-outside-fb-ads-for-2024/"><u>[New] Tactics for Trimming Outside FB Ads for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-captivate-your-circle-the-art-of-sending-gifs-on-snapchat/"><u>[Updated] 2024 Approved Captivate Your Circle The Art of Sending Gifs on Snapchat</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-spinning-jujutsu-kaisen-stories-on-tiktok/"><u>[Updated] 2024 Approved Spinning Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-user-friendly-approach-to-getting-your-lenovos-fingerprint-feature-back-on-track/"><u>A User-Friendly Approach to Getting Your Lenovo's Fingerprint Feature Back On Track</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-8-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 8 with/without SIM Card</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-detailed-guide-to-zoom-youtube-live/"><u>In 2024, Detailed Guide to Zoom YouTube Live</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installment-challenge-overcoming-mspm-errors/"><u>Installment Challenge: Overcoming MSPM Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-cross-border-controls-the-complete-guide-to-powertoys/"><u>Mastering Cross-Border Controls: The Complete Guide to PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/purging-windows-11-store-simple-steps/"><u>Purging Windows 11 Store: Simple Steps</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/realign-video-components-on-pcs/"><u>Realign Video Components on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-success-fixing-volume-mixer-glitches/"><u>Saving Success: Fixing Volume Mixer Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-steam-download-routines-for-windows-pcs/"><u>Speedy Steam Download Routines for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-device-not-initialized-error-in-win-11/"><u>Troubleshooting 'Device Not Initialized' Error in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-full-potential-narrator-keybindings-decoded/"><u>Unlocking Full Potential: Narrator Keybindings Decoded</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-disruptive-layout-elements-a-review/"><u>Windows 11'S Disruptive Layout Elements: A Review</u></a></li>
 </ul></div>
 

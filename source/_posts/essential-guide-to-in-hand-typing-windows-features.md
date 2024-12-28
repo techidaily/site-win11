@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide to In-Hand Typing: Windows Features"
-date: 2024-12-16T18:04:13.993Z
-updated: 2024-12-22T16:29:25.175Z
+date: 2024-12-24T21:20:56.191Z
+updated: 2024-12-28T02:21:37.037Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Settings App to Enable/Disable Fingertip Writing
 
  The easiest, most straightforward way to enable or disable the fingertip writing feature is by using the Settings app. You can make these changes in the Bluetooth & devices section and do not need to have administrative access to the system as well.
@@ -41,21 +37,17 @@ Here is how you can proceed:
 ![Access the Pen & Windows Ink section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pen-and-windows-ink.jpg)
 4. Expand the**Use your handwriting to enter text** section under Handwriting.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Checkmark the box associated with**Write with your fingertip** .  
 ![Write with your fingertip option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/write-with-you-fingertip-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now close the Settings app if you want. To disable the feature in the future, simply follow these steps again and uncheck the Write with your fingertip option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable/Disable Fingertip Writing via the Registry Editor
@@ -76,10 +68,6 @@ Then, proceed with these steps:
 5. Right-click on**TableTip** and choose**New** \>**Key** .  
 ![Create a new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Name this key as EmbeddedInkControl.
 2. Now, move to the right pane and right-click anywhere on an empty space.
 3. Choose**New** \>**DWORD (32-bit) Value** .
@@ -87,9 +75,18 @@ Then, proceed with these steps:
 5. Double-click on**EnableInkingWithTouch** and under Value data, type 1\. This will enable the fingertip writing feature.  
 ![Enter 1 under Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enableinking-with-touch.jpg)
 6. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Close the Registry Editor and restart your computer.
 
  Upon reboot, you should be able to use the fingertip writing feature. To disable this feature, follow the aforementioned steps again and change the value data of the EnableInkingWithTouch key to 0.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable/Disable Fingertip Writing Via the Group Policy Editor
 
@@ -105,6 +102,10 @@ Then, proceed with these steps:
 5. Locate the**Handwriting Panel Default Mode Docked** policy in the right pane and double-click on it.  
 ![Access the Handwriting panel default mode docked policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/handwriting-policy.jpg)
 6. To enable the feature, choose**Not configured** . If you want to disable it, choose**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Enable the handwriting panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-handwriting-panel-1.jpg)
 7. Click**Apply** \>**OK** to save the changes.
@@ -132,16 +133,20 @@ Then, proceed with these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/asics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube-for-2024/"><u>[New] Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-free-youtube-ending-creators-top-6-picks-for-2024/"><u>[New] Best Free YouTube Ending Creators - Top 6 Picks for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-construct-clever-caricatures-on-giphy/"><u>[New] Construct Clever Caricatures on Giphy</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-speedy-strategies-capturing-your-screen-in-a-flash-dell/"><u>[Updated] 2024 Approved Speedy Strategies Capturing Your Screen in a Flash (Dell)</u></a></li>
-<li><a href="https://win11.techidaily.com/does-your-pc-tick-all-boxes-for-windows-11-upgrade/"><u>Does Your PC Tick All Boxes for Windows 11 Upgrade?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/expert-approved-highlight-video-makers-for-any-device-for-2024/"><u>Expert-Approved Highlight Video Makers for Any Device for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-windows-1011-installing-a-unique-lock-pattern/"><u>Guide to Windows 10/11: Installing a Unique Lock Pattern</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-do-you-play-mp4-videos-on-mac-and-pc-platforms-a-comprehensive-guide/"><u>How Do You Play MP4 Videos on Mac and PC Platforms: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-steam-performance-overcoming-degraded-download-rates/"><u>Skyrocket Steam Performance: Overcoming Degraded Download Rates</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-ensure-audible-feedback-in-screen-captures/"><u>Techniques to Ensure Audible Feedback in Screen Captures</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders-for-2024/"><u>The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-creative-instagram-story-questions-increase-engagement/"><u>[New] Creative Instagram Story Questions Increase Engagement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-seamless-video-integration-on-youtube-platform/"><u>[New] In 2024, Seamless Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[Updated] Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-for-turning-off-your-pc-safely/"><u>Best Practices for Turning Off Your PC Safely</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-personalized-inactivity-timer-in-windows/"><u>Crafting Personalized Inactivity Timer in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dial-down-devices-the-fast-route-to-silence-windows-11/"><u>Dial Down Devices: The Fast Route to Silence Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-0x80246007-a-guide-to-win11-updates/"><u>Eliminating 0X80246007: A Guide to Win11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-local-admin-login-turn-off-secure-answers-in-windows-11/"><u>Mastering Local Admin Login: Turn Off Secure Answers in Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavigif/"><u>MovaviでシームレスなオンラインGIFファイル変換: 完全無料サービス</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/superior-screen-reporter-optimal-chromebook-choice-for-2024/"><u>Superior Screen Reporter Optimal Chromebook Choice for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-failed-ms-store-app-downloads/"><u>Tips for Dealing with Failed MS Store App Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-peak-performance-with-these-5-powerful-windows-apps/"><u>Unleash Peak Performance with These 5 Powerful Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-optimal-phone-integration-in-windows-11-innovations/"><u>Unlocking Optimal Phone Integration in Windows 11 Innovations</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/wiederherstellung-verlorener-excel-dokumente-auf-windows-10-einfache-schritte-zur-losung/"><u>Wiederherstellung Verlorener Excel-Dokumente Auf Windows 10: Einfache Schritte Zur Lösung</u></a></li>
 </ul></div>
 

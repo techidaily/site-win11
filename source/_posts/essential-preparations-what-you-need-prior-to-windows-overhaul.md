@@ -1,7 +1,7 @@
 ---
 title: "Essential Preparations: What You Need Prior To Windows Overhaul"
-date: 2024-08-28T00:53:50.097Z
-updated: 2024-08-29T00:53:50.097Z
+date: 2024-12-22T03:36:07.545Z
+updated: 2024-12-27T23:28:52.064Z
 tags:
   - windows10
   - windows11
@@ -39,19 +39,17 @@ thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768
 ![windows backup settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-backup-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Before clean installing Windows, you should back up all your important data so that you can restore them after the installation is complete. By taking a backup of all your important files and folders, you ensure immediate access to those important files after the clean installation.
 
  f you are using Windows 10, you should check out our [ultimate Windows 10 data backup guide](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) to learn how to prevent data loss. You can also [create a full backup on Windows 11 PC](https://www.makeuseof.com/windows-11-create-complete-backup/) so that your data remains available after your clean install the operating system.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. You'll Need to Boot From a USB
 
 ![minimal usb drive with key symbol on front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/usb-key-1.jpg)
@@ -66,45 +64,43 @@ No advertising on the website.
 
  If you don't select the one you're running, your system won't recognize it and will ask for an activation key, which you don't have for that particular Windows edition.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Make Sure Your Copy of Windows Is Activated
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Windows is activated on your PC and your Microsoft account is linked to the license key, it becomes easier to reactivate Windows later. Before clean installing Windows, make sure to remember to check the Windows activation status from the Settings app.
 
  If you don't know how all of that works, you can check out [what Windows Activation key is and how it works](http://www.makeuseof.com/what-is-windows-activation-how-does-it-work/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Know Which Interface Your System Supports
 
  64-bit Windows 11, 10, 8/8.1, 7, and Vista all require a UEFI-based system to boot from a GUID Partition Table (GPT) drive. If your system has a BIOS interface running any of the above OSes, you will need to convert your portion style to Master Boot Record (MBR).
 
  If your system detects the incompatibility, you will get an error message that says, "Windows cannot be installed to this disk. The selected disk is of the GPT partition style" during Windows installation. This error message suggests that you need to [change the disk partition style from GPT to MBR](https://www.makeuseof.com/windows-cannot-be-installed-to-disk-error/). You can switch to MBR during installation as well as before proceeding with clean installing Windows. Also, check out our [comparison between MBR and GPT](https://www.makeuseof.com/tag/mbr-vs-gpt/) and which one you should use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall Your Drivers and Programs After Installation Is Complete
 
 ![windows 11 device manager update network adapter pick from available drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-11-device-manager-update-network-adapter-pick-from-available-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  After you are done Installing Windows, you might not get everything working. For example, the keyboard might not work after the clean installation of Windows. In such scenarios, you should reinstall your drivers and install everything you see on the Windows Update page in the Settings app. Also, you can check out [what to do when you can't install drivers on Windows](https://www.makeuseof.com/windows-cant-install-drivers/).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clean Installing Windows Is Handy... but It's Not a Silver Bullet
 
  Clean installing Windows should come to your mind when you have gone through every possible solution that exists for that set of problems. While it can solve many problems, remember that it can't fix everything wrong with your PC. You might face a problem because of broken hardware, and in such scenarios, clean installing Windows can offer no solution. Sometimes, the problems are so severe that you have no other choice but to repair or buy a new PC from the market.
 
  In this article, we will explain all the critical aspects of clean installing Windows and what you should do and keep in mind before starting with a fresh copy of Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,3 +108,27 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-efficiently-archive-social-media-videos-with-top-5-pick-for-2024/"><u>[New] Efficiently Archive Social Media Videos with Top 5 Pick for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamlined-creativity-the-most-popular-8-mobile-apps-for-edits/"><u>[New] Streamlined Creativity The Most Popular 8 Mobile Apps for Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-integrating-playlist-videos-from-youtube-on-websites/"><u>[Updated] Integrating Playlist Videos From YouTube on Websites</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-vlcs-screen-recording-capabilities/"><u>2024 Approved VLC's Screen Recording Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-java-virtual-machine-creation-failure-on-windows/"><u>Debugging Java Virtual Machine Creation Failure on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/get-back-into-the-microsoft-store-top-login-solutions/"><u>Get Back Into the Microsoft Store - Top Login Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-ace-2v-phone-without-google-account-by-drfone-android/"><u>How to Unlock OnePlus Ace 2V Phone without Google Account?</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-out-decoding-wacatacbmls-impact-on-microsoft-windows-users/"><u>Inside Out: Decoding Wacatac.B!ml's Impact on Microsoft Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-server-connection-in-the-latest-win11-version/"><u>Mastering File Server Connection in the Latest Win11 Version</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-non-selectable-text-windows-pdf-guide/"><u>Navigate Non-Selectable Text: Windows' PDF Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidia-powerhouse-panel-analyzing-4070-super-and-4080/"><u>Nvidia Powerhouse Panel: Analyzing 4070 Super & 4080</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-windows-error-codes-with-amd-solutions/"><u>Overriding Windows Error Codes with AMD Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-with-amd-195-software/"><u>Resolving Windows Error with AMD 195 Software</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-development-best-practices-for-wsl-2-on-pcs/"><u>Supercharge Development: Best Practices for WSL 2 on PCs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-10-viral-music-videos-on-social-media-for-2024/"><u>Top 10 Viral Music Videos on Social Media for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/troubleshooting-colored-printouts-a-deep-dive-into-resolving-unintended-palette-shifts-with-yl-computing-solutions/"><u>Troubleshooting Colored Printouts: A Deep Dive Into Resolving Unintended Palette Shifts with YL Computing Solutions</u></a></li>
+<li><a href="https://discover-best.techidaily.com/video-conversion-made-simple-switch-from-mts-flv-and-vp9-formats-to-play-on-windows-tenth-mobile/"><u>Video Conversion Made Simple: Switch From MTS, FLV & VP9 Formats to Play on Windows Tenth Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-window-devices-no-more-naming-clashes/"><u>Winning Over Window Devices: No More Naming Clashes!</u></a></li>
+</ul></div>
+

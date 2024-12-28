@@ -1,7 +1,7 @@
 ---
 title: Why Keeping Track With Wins 11 Alerts Matters
-date: 2024-12-16T17:19:32.306Z
-updated: 2024-12-22T16:30:19.937Z
+date: 2024-12-25T16:23:44.858Z
+updated: 2024-12-27T20:15:13.141Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,17 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  To turn on Notifications, open the Settings app, click **Notifications,** and then enable the **Notifications** toggle.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. You Can Perform Quick Actions Without Opening the App
 
 ![Screenshot showing actionable WhatsApp notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/actionable-notifications.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Actionable notifications let you respond to events without launching the relevant app. You've likely already seen them; for example, you might have seen notifications for chat messages which you can reply to within the notification itself.
 
@@ -46,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
  It is also important to note that all your notifications appear in Windows 11 Action Center, which opens from the right side of your screen. Here is [how to can fix Action Center if it's not opening](https://www.makeuseof.com/windows-11-action-center-not-opening/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Notifications Help You Better Manage Your Time
@@ -55,39 +63,27 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  Imagine a situation where you keep opening an app to stay updated with everything latest. It will be even worse if the app provides you with news — you will have to open it every time you want to check for what's happening. So, you are better off with Notifications enabled on your Windows 11 PC, as they save you time and keep you organized.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. You Can Control Which Apps Can Send You Notifications
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may not want notifications from all apps even when you're not working. Windows 11 allows you to choose which apps you want notifications from. As a rule of thumb, never turn off notifications for apps that are super important to you. For example, if your organization uses Teams for communication, you should always allow Teams notifications to show up even when you're working so that you don't miss anything time-sensitive.
 
  You can tweak notifications from apps and other senders from the Notifications page in the Settings app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Notifications Help You Capture Better Screenshots
 
 ![Snipping-tool-notification-in-Windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-08-111356.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows 11 has a handy keyboard shortcut for taking screenshots on your PC. You can press the **Win key** \+ **Shift** \+ **S** on your keyboard to launch the Snipping tool and capture a window, the entire screen, or a portion of the screen.
 
  However, if you turn off the Notifications from the Settings app, you wouldn't know if the screenshot was captured. You will need to open the Snipping Tool app to check out and save the screenshot. This can be a massive pain point if you take screenshots regularly. Y
 
  ou can avoid all of this and get notified when a screenshot is captured and get an option to save it from the notification itself. It is also important to note that you may not be able to take screenshots with Notifications turned on. If that is the case, you can [fix the Snipping Tool not working on Windows 11](https://www.makeuseof.com/windows-11-fix-snipping-tool-not-working/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Notifications Can Help You Stay Secure in Windows 11
 
@@ -97,29 +93,15 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
 
  To ensure your PC is less vulnerable to malware and other threats, you should learn [how to beef up Windows 11 security](https://www.makeuseof.com/windows-11-improve-security/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make Windows 11's Notifications a Help, Not a Hinder
 
  While notifications are helpful in many ways, it gets annoying if you get too many of them in a short period of time. You must aim to achieve control over the notifications on your PC. Customizing your notifications on Windows 11 is considered one of the best practices you can follow.
 
  The benefits of turning on Notifications outweigh the negatives. And in this article, we will put together a list of reasons you should not turn on the Notifications toggle in Windows 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-premier-macos-sierra-tools-for-video-changeovers/"><u>[New] 2024 Approved Premier macOS Sierra Tools for Video Changeovers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-prime-backdrops-for-effective-virtual-gatherings/"><u>[New] Prime Backdrops for Effective Virtual Gatherings</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-stream-titling-service/"><u>[Updated] In 2024, Stream Titling Service</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-free-stock-footage-websites-you-should-know/"><u>2024 Approved Top 10 Free Stock Footage Websites You Should Know</u></a></li>
-<li><a href="https://win11.techidaily.com/a-comparative-study-of-cloud-and-physical-methods-for-windows-setup/"><u>A Comparative Study of Cloud & Physical Methods for Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/accelerate-keyboard-skills-using-windows-powertoys/"><u>Accelerate Keyboard Skills Using Windows PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-windows-11-crashes-interrupt-fixation/"><u>Avoiding Windows 11 Crashes: Interrupt Fixation</u></a></li>
-<li><a href="https://win11.techidaily.com/blending-elegance-with-utility-the-asus-vivobook-s-15-edition/"><u>Blending Elegance with Utility: The ASUS Vivobook S 15 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-gameplay-flush-and-optimize-steam-dns-cache/"><u>Boost Your Gameplay: Flush and Optimize Steam DNS Cache</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-sounds-on-your-laptop-when-theres-nothing-heard/"><u>How to Restore Sounds on Your Laptop When There's Nothing Heard?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-oceanic-visionaries-selecting-the-top-5-cameras/"><u>In 2024, Oceanic Visionaries Selecting the Top 5 Cameras</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-audio-dropouts-and-glitches-on-a-windows-11-system-expert-tips-and-tricks/"><u>Resolving Audio Dropouts and Glitches on a Windows 11 System – Expert Tips & Tricks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/form-your-short-form-video-content-top-strategies-revealed/"><u>Transform Your Short-Form Video Content - Top Strategies Revealed</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +110,27 @@ thumbnail: https://thmb.techidaily.com/a5bc9c78cbf7ddebb3c4b881340c3ed8f01e0b70f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-slick-shots-from-yesteryear-mastering-vhs-hacks-in-modern-edits/"><u>[New] Slick Shots From Yesteryear Mastering VHS Hacks in Modern Edits</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-picks-for-perfect-stabilization-in-dslr-and-mirrorless/"><u>[New] Top Picks for Perfect Stabilization in DSLR & Mirrorless</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-securing-your-stylized-content-insta-photo-watermarking-basics/"><u>[Updated] Securing Your Stylized Content Insta Photo Watermarking Basics</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-games-on-windows-11-the-top-6-fps-measurement-software/"><u>Conquer Games on Windows 11: The Top 6 FPS Measurement Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuite-des-fichiers-wmv-a-laide-de-movavi-sans-frais/"><u>Conversion Gratuite Des Fichiers WMV À L'aide De Movavi - Sans Frais</u></a></li>
+<li><a href="https://win11.techidaily.com/deciph-written-by-your-name/"><u>Deciph Written by [Your Name]</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/demarrer-une-nouvelle-image-dinstallation-avec-le-menu-de-restauration-dans-windows-11-comment/"><u>Démarrer Une Nouvelle Image D'Installation Avec Le Menu De Restauration Dans Windows 11 - Comment?</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-for-adjusting-windows-file-attributes/"><u>Expert Strategies for Adjusting Windows File Attributes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-partitioned-units-on-your-disk-in-a-flash/"><u>How to Eradicate Partitioned Units on Your Disk in a Flash</u></a></li>
+<li><a href="https://win11.techidaily.com/hush-the-language-indicator-on-win11s-status-ui/"><u>Hush the Language Indicator on Win11’s Status UI</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-audiovisual-alchemy-formulating-your-youtube-playlist/"><u>In 2024, Audiovisual Alchemy Formulating Your YouTube Playlist</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-java-install-process-on-your-windows-pc/"><u>Mastering Java Install Process on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-cloud-sync-linking-dropbox-and-google-drive-on-your-pc/"><u>Seamless Cloud Sync: Linking Dropbox & Google Drive on Your PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/textual-transformations-the-photographers-guide-to-image-edits/"><u>Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://win11.techidaily.com/the-8-best-ways-to-fix-the-windows-operating-system-not-found-error/"><u>The 8 Best Ways to Fix the Windows Operating System Not Found Error</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-your-gaming-potential-with-the-powerful-acer-nitro-16-rtx-4070amd-cpu-at-a-steal-only-1129/"><u>Unleash Your Gaming Potential with the Powerful Acer Nitro 16 (RTX 4070/AMD CPU) at a Steal: Only $1,129</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-future-with-q500-typhoon-for-2024/"><u>Unveiling the Future with Q500 Typhoon for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-visual-appeal-with-fancywm-tech/"><u>Upgrade Your Visual Appeal with FancyWM Tech</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Supercharge Windows Interactions With Mastered Keys
-date: 2024-08-28T00:51:33.463Z
-updated: 2024-08-29T00:51:33.463Z
+date: 2024-12-21T01:14:56.509Z
+updated: 2024-12-27T18:35:02.904Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
  Shortcuts can make a big difference by speeding up your tasks and saving precious time. It's great knowing some handy shortcuts when working on Windows. You can open apps in a snap, start functions instantly, search faster, and do more efficiently.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows Keyboard Shortcuts for Common Tasks
 
@@ -46,13 +50,14 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Handy Windows Shortcuts for Common Actions
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -61,20 +66,15 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
@@ -82,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Select Text Easily on Documents
 
  While working on documents, you may need to select text to copy and paste or delete it. Instead of using the cursor to select the text do this:
@@ -93,24 +94,14 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -118,3 +109,27 @@ thumbnail: https://thmb.techidaily.com/a9af59315aea8cc232d9e9df37ddf4fb252ec7cdb
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-high-quality-webcam-videos-with-best-editors/"><u>[New] High-Quality Webcam Videos with Best Editors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-does-your-channel-benefit-from-regular-youtube-payments/"><u>[Updated] Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-animators-playground-building-your-own-visual-treats/"><u>[Updated] In 2024, Animator’s Playground Building Your Own Visual Treats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-zooms-filters-for-clear-premium-calls/"><u>[Updated] In 2024, Mastering Zoom's Filters for Clear, Premium Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-360-video-edits-in-premiere-pro-for-2024/"><u>A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-gaps-combining-folders-and-files-win-1011-style/"><u>Bridging Gaps: Combining Folders & Files, Win 10/11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-elevation-requirement-hurdle-on-winos/"><u>Bypassing Elevation Requirement Hurdle on WINOS</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-geforce-experiences-error-on-windows-pcs/"><u>Bypassing GeForce Experience's Error on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-insufficient-access-on-windows-for-removal-tasks/"><u>Bypassing Insufficient Access on Windows for Removal Tasks</u></a></li>
+<li><a href="https://win11.techidaily.com/changing-file-dates-in-windows-a-practical-overview/"><u>Changing File Dates in Windows: A Practical Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/chatgpt-lite-free-self-hosted-windows-edition-with-gpt4all/"><u>ChatGPT Lite: Free Self-Hosted Windows Edition with GPT4All.</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-outdated-files-with-confidence-using-windows-1011s-feature/"><u>Clear Outdated Files with Confidence Using Windows 10/11'S Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-headphone-connection-errors-in-windows/"><u>Clearing Up Headphone Connection Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-plan-against-dual-programming-issues/"><u>Combat Plan Against Dual Programming Issues</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/elevate-your-nightlife-venue-with-dex-3-the-ultimate-dj-and-karaoke-solution-for-bars-and-clubs/"><u>Elevate Your Nightlife Venue with DEX 3: The Ultimate DJ and Karaoke Solution for Bars and Clubs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-sdr-to-hdr-conversion-companion-book/"><u>In 2024, The SDR to HDR Conversion Companion Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overwatch-graphic-driver-issues-no-longer-cause-game-crashes/"><u>Resolved: Overwatch Graphic Driver Issues No Longer Cause Game Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-29-most-advanced-point-of-sale-solutions-not-including-gpt/"><u>The 29 Most Advanced Point-of-Sale Solutions, Not Including GPT</u></a></li>
+</ul></div>
+

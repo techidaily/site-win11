@@ -1,7 +1,7 @@
 ---
 title: Reinstate Lost Sounds on Your Tech - Speaker Guide
-date: 2024-12-15T16:42:05.892Z
-updated: 2024-12-22T17:13:20.615Z
+date: 2024-12-22T06:07:22.824Z
+updated: 2024-12-27T20:18:04.602Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Have You Muted the Audio?
 
  One of the easiest ways to end up with no audio on Windows speakers is to mute the sound accidentally. This can happen easily by just hitting the wrong button or keyboard shortcut. It can even happen by lowering the system volume too much.
@@ -35,15 +39,15 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
 
  Using a laptop? The mute function is typically found by pressing**Fn** and the corresponding**F** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check the Speaker Jack
 
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/3854233be38a7a3b692f6b1c87d1917c44d3f0b5a
  If you're using external speakers, be sure to check that these are powered on. A small red or green LED should indicate that the speakers are receiving power. Make sure they're connected to the mains electricity, too (or a USB connection, if that's how they receive power).
 
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Confirm That the HDMI Audio Is Selected
 
@@ -95,10 +95,6 @@ Audio should now play on your HDMI TV.
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Could Your Bluetooth Headset Be the Problem?
 
  When a cable is plugged into your computer, it's obvious that a device is connected. With Bluetooth, however, it's easy to forget.
@@ -107,15 +103,15 @@ Audio should now play on your HDMI TV.
 
  So, if you use a Bluetooth headset, remember to switch off or disconnect the device from your computer when not in use. Also, take a moment to click the speaker icon in the system tray and choose a different audio output.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Check Your Monitor's Speakers
 
  Many monitors nowadays come with in-built speakers. Take a look at the speakers, and see if you're using such a monitor. You can then tweak the volume from the buttons on your monitor or the through the settings on your Windows.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Ensure the Speaker Volume Is Turned On
 
@@ -126,6 +122,10 @@ Audio should now play on your HDMI TV.
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Check for Corruption of Windows System Files
 
@@ -152,14 +152,10 @@ Audio should now play on your HDMI TV.
 ![disabling enhancements from control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/disable-enhancements.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will turn off all enhancements that could be the cause of your speakers not working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 11\. Your Computer Speakers Just Aren't Working
 
@@ -168,6 +164,10 @@ Audio should now play on your HDMI TV.
  You've made it this far, but there's still no audio. Well, it looks like it's time to find some new speakers for your PC.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected[the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are Your Speakers Working Again?
 
@@ -188,22 +188,22 @@ Audio should now play on your HDMI TV.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-maximize-your-youtube-yields-small-channel-sponsorship-strategies/"><u>[New] 2024 Approved Maximize Your YouTube Yields Small Channel Sponsorship Strategies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-comparing-streaming-software-obs-vs-shadowplay-for-2024/"><u>[New] Comparing Streaming Software OBS vs ShadowPlay for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-instagram-streamlining-the-process-of-image-addition/"><u>[Updated] Instagram Streamlining the Process of Image Addition</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-lut-lovers-delight-complimentary-sets-for-djis-miniair2/"><u>2024 Approved LUT Lovers Delight Complimentary Sets for DJI's Mini/Air2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005340433-code-vein-freezing-issues-heres-how-to-get-unstuck/"><u>Code Vein Freezing Issues? Here's How to Get Unstuck</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-scripts-in-windows-quick-fixes-for-loading-powershell-failures/"><u>Enabling Scripts in Windows: Quick Fixes for Loading PowerShell Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-black-myth-wukong-fps-drops-and-lags-on-pc/"><u>Fix Black Myth Wukong FPS Drops & Lags on PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/methoden-zum-wiederherstellen-von-dokumenten-nach-dem-loschen-aus-dem-onedrive-brieftasche/"><u>Methoden Zum Wiederherstellen Von Dokumenten Nach Dem Löschen Aus Dem OneDrive-Brieftasche?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/g-your-channel-with-flair-and-individuality-for-2024/"><u>Naming Your Channel with Flair and Individuality for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-shifting-printer-preferences-in-windows/"><u>Overcoming Shifting Printer Preferences in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-media-player-disruptions/"><u>Overcoming Windows Media Player Disruptions</u></a></li>
-<li><a href="https://win11.techidaily.com/peering-into-windows-essence-crafting-and-evaluating-system-data/"><u>Peering Into Windows Essence: Crafting & Evaluating System Data</u></a></li>
-<li><a href="https://win11.techidaily.com/transformational-taskbar-update-windows-system-resources-in-view/"><u>Transformational Taskbar Update: Windows System Resources in View</u></a></li>
-<li><a href="https://win11.techidaily.com/turn-off-or-enable-smartfilter-on-modern-windows-os/"><u>Turn Off or Enable SmartFilter on Modern Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-settings-app-overview/"><u>Windows 11 Settings App Overview</u></a></li>
-<li><a href="https://win11.techidaily.com/yourphone-in-windows-98-should-you-exercranize-it/"><u>YourPhone in Windows 9/8: Should You Exercranize It?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-every-moment-top-budget-friendly-cam-recorders/"><u>[New] Capture Every Moment Top Budget-Friendly Cam Recorders</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>[New] The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-decoding-digital-dynamics-unveiling-the-secret-sauce-for-youtube-success-and-revenue-for-2024/"><u>[Updated] Decoding Digital Dynamics Unveiling the Secret Sauce for YouTube Success & Revenue for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-deep-dive-android-edition-of-adobe-lightroom-review-for-2024/"><u>[Updated] Deep Dive Android Edition of Adobe Lightroom Review for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-psd-visual-enhancements/"><u>[Updated] Prime PSD Visual Enhancements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/be-among-the-first-to-grab-a-new-apple-vision-pro-offering-512gb1tb-start-your-pre-order-via-zdnet-now/"><u>Be Among the First to Grab a New Apple Vision Pro, Offering 512GB/1TB – Start Your Pre-Order via ZDNET Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-connections-utilizing-wsl-in-windows/"><u>Command Line Connections: Utilizing WSL in Windows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/convert-wma-to-webm-without-cost-effortless-uploading-with-the-movavi-tool/"><u>Convert WMA to WebM Without Cost - Effortless Uploading with the Movavi Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-wi-fi-issues-completing-actions-for-seamless-connections/"><u>Fixing Windows Wi-Fi Issues: Completing Actions for Seamless Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/from-old-to-new-a-windows-11-reboot-strategy/"><u>From Old to New: A Windows 11 Reboot Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-extend-the-pin-length-in-windows-10-and-11/"><u>How to Extend the PIN Length in Windows 10 & 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-oppo-k11-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Oppo K11 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-of-power-management-max-and-min-states/"><u>Leading Edge of Power Management: Max & Min States</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-guide-initiating-sticky-note-windows-session/"><u>Quick Access Guide: Initiating Sticky Note Windows Session</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-notification-management/"><u>Streamlining Windows 11 Notification Management</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-fix-grouped-desktop-icon-issues/"><u>Tactics to Fix Grouped Desktop Icon Issues</u></a></li>
 </ul></div>
 

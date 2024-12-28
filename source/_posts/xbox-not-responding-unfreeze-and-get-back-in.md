@@ -1,7 +1,7 @@
 ---
 title: Xbox Not Responding? Unfreeze and Get Back In
-date: 2024-12-16T17:14:10.028Z
-updated: 2024-12-22T17:33:22.647Z
+date: 2024-12-24T22:44:38.568Z
+updated: 2024-12-27T17:50:50.107Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Connection
 
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Correct Date and Time on Your PC
@@ -48,7 +52,7 @@ Restart the Xbox app after this and see if it works fine.
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sign Out and Back Into the Xbox App
@@ -77,10 +81,6 @@ Restart the Xbox app after this and see if it works fine.
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the Windows Store Apps Troubleshooter
 
  Windows Store Apps troubleshooter is a built-in tool that can scan your apps for common issues and suggest fixes accordingly. You can use this tool if the Xbox app fails to open or work on your computer.
@@ -92,6 +92,10 @@ To run the Windows Store Apps troubleshooter:
 3. Select**Other troubleshooters** .
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
 
@@ -106,13 +110,13 @@ To repair the Xbox app on Windows:
 5. Scroll down to the**Reset** section and click on**Repair** .  
 ![Repair or Reset Xbox App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Repair-or-Reset-Xbox-App-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app from the same menu. ​​​​​​
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -123,14 +127,6 @@ To repair the Xbox app on Windows:
  While you are at it, we’d also recommend you install any pending Windows updates. To do so, open the**Settings** app and head over to the**Windows Update** section. Click the**Check for updates** button and install any pending system updates on your computer. Following this, the Xbox app should work fine.
 
 ![Windows Update Tab in Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Check-for-Updates-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Leave the Xbox Insider Program
 
@@ -145,6 +141,10 @@ To leave the Xbox Insider Program:
 5. Click the**Leave preview** button.
 6. Select**Continue** when prompted.  
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the Xbox app after this and try to use it again.
 
@@ -169,24 +169,22 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-webs-deception-caution-against-buying-non-real-subscribers/"><u>[New] 2024 Approved The Web's Deception Caution Against Buying Non-Real Subscribers</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-frames-per-second-for-languid-visuals/"><u>[New] Ultimate Frames Per Second for Languid Visuals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-techniques-for-efficiently-blending-flv-files/"><u>[Updated] 2024 Approved Techniques for Efficiently Blending FLV Files</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-video-capture-a-new-eras-insight/"><u>[Updated] Digital Video Capture A New Era's Insight</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-symphonic-switch-up-reimagining-your-musical-lists/"><u>[Updated] In 2024, Symphonic Switch-Up Reimagining Your Musical Lists</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/balancing-risk-with-ais-financial-forecasts-the-challenge/"><u>Balancing Risk with AI's Financial Forecasts: The Challenge</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-the-world-of-windows-11-the-taskbar-search-basics/"><u>Dive Into the World of Windows 11: The Taskbar Search Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-opening-windows-11s-calculator-feature/"><u>Fast Track to Opening Windows 11'S Calculator Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-repair-unable-to-open-issue-with-geforce/"><u>How to Repair Unable to Open Issue with GeForce</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/instantaneous-speech-conversion-for-everyday-use-with-whisper/"><u>Instantaneous Speech Conversion for Everyday Use - With Whisper</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/lart-de-lelevation-video-10-techniques-faciles-pour-conversion-rapide-des-fichiers-ts-en-un-mp4-dexcellente-qualite/"><u>L'Art De L’Élévation Vidéo : 10 Techniques Faciles Pour Conversion Rapide Des Fichiers .TS en Un MP4 D'Excellente Qualité</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/large-scale-success-with-the-apple-iphone-12-pro-max-review-embracing-a-bigger-approach/"><u>Large-Scale Success with the Apple iPhone 12 Pro Max Review: Embracing a Bigger Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-your-auditory-capture-capabilities-with-w11/"><u>Maximizing Your Auditory Capture Capabilities with W11</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-no-connection-found-error-on-vpn-client/"><u>Mending No Connection Found Error on VPN Client</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-isdonedll-error-in-win-1011-pcs/"><u>Steps to Resolve ISDone.dll Error in Win 10/11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-techniques-for-a-spotless-windows-11-update/"><u>Transition Techniques for a Spotless Windows 11 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-wows-deadly-glitch-132-on-modern-oses/"><u>Troubleshooting WoW's Deadly Glitch #132 on Modern OSes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>[New] Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>[New] The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-guide-to-resolving-minecraft-black-screen-glitch-tips-and-tricks-for-smooth-gaming/"><u>2024 Guide to Resolving Minecraft Black Screen Glitch: Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/basmati-rice-this-long-grain-rice-is-known-for-its-fragrant-aroma-and-delicate-texture-when-cooked-its-essential-to-the-dish-because-it-absorbs-flavors-well112/"><u>Basmati Rice: This Long-Grain Rice Is Known for Its Fragrant Aroma and Delicate Texture when Cooked. It's Essential to the Dish because It Absorbs Flavors Well and Remains Separate, Not Sticky or Mushy, Which Is Characteristic of Biryani's Presentation.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
+<li><a href="https://win11.techidaily.com/examining-wsls-influence-on-linux-adoption/"><u>Examining WSL's Influence on Linux Adoption</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-working-state-of-speakers-and-sound-devices-in-windows-11/"><u>How to Restore the Working State of Speakers and Sound Devices in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminating-holiday-joy-window-decor-inspirations/"><u>Illuminating Holiday Joy - Window Decor Inspirations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-creative-storytelling-vault/"><u>In 2024, Creative Storytelling Vault</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-parrot-ar-drone-20-elite-overview/"><u>In 2024, Parrot AR Drone 2.0 Elite Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-macos-with-external-windows-programs/"><u>Mastering macOS with External Windows Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cure-all-ppt-save-errors-6-must-try-methods-in-win11/"><u>Quick Cure-All PPT Save Errors: 6 Must-Try Methods in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/screen-splendor-series-designing-distinct-displays-on-win-1011-per-monitor/"><u>Screen Splendor Series: Designing Distinct Displays on WIN 10/11 Per Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-increasing-volume-on-windows-11-machines/"><u>Step-by-Step Solutions for Increasing Volume on Windows 11 Machines</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-failed-to-install-discord-error-win/"><u>Tackling the Failed to Install Discord Error (Win)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-for-windows-multi-monitor-brightness-tuning/"><u>The Ultimate List for Windows Multi-Monitor Brightness Tuning</u></a></li>
 </ul></div>
 

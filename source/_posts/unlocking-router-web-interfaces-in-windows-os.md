@@ -1,7 +1,7 @@
 ---
 title: Unlocking Router Web Interfaces in Windows OS
-date: 2024-12-19T16:24:50.555Z
-updated: 2024-12-22T16:23:08.438Z
+date: 2024-12-23T05:52:22.149Z
+updated: 2024-12-27T19:43:34.695Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/f00def1c04cb418f21da5c60f199b078da943127e
 https:\\ 192.168.1.1
 2. This should work If your router mandates using a secure version of HTTP to access the login page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Verify if the IP Address Is Correct
 
 ![default gateway ip address windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-gateway-ip-address-windows-command-prompt.jpg)
@@ -58,10 +62,6 @@ To find your Default Gateway IP address for the router:
 4. The command will return information related to Windows IP configuration. Here, locate the**Default Gateway** address for the**Ethernet** **adapter** . Note the Default Gateway address.
 5. Next, launch your web browser and type in the Default Gateway address in the address bar. Press Enter to access the router’s login page.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Use a Different Web Browser
 
  At times the problem can be due to your web browser. Bad cache or other glitches can prevent the browser from redirecting to your router’s login page.
@@ -73,13 +73,13 @@ To find your Default Gateway IP address for the router:
 ![clear chrome browser cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clear-chrome-browser-cache.jpg)
 3. Next, click**Clear browsing data** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Select a time range and click**Clear data** . If the router page suddenly stopped working, set the time range to last 7 days.
 
  Once the cache is cleared, relaunch the browser and check if you can access the router’s login page. If the issue persists, reinstalling the browser is an option. However, using a different browser to access your router’s login page is a much easier workaround.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change TCP/IP Settings for Your Network Adapter
 
@@ -95,23 +95,19 @@ To find your Default Gateway IP address for the router:
 ![control panel network change adapter settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/control-panel-network-change-adapter-settings.jpg)
 6. Right-click on your**Ethernet adapter** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Next, double-click on**Internet Protocol Version 4 (TCP/IPv4)** to open its**Properties** .  
 ![disable internet protocol version 6 network properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-internet-protocol-version-6-network-properties.jpg)
 8. In the**Properties** dialog, select**Obtain an IP address automatically** . Next, select**Obtain DNS server address automatically** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 9. Select the**Validate settings upon exit** option and click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 10. Relaunch your browser and try to access the router page.
@@ -139,6 +135,10 @@ To disable Invisibility on LAN on NordVPN:
 
  If the issue persists, consider[updating your router firmware](https://www.makeuseof.com/easy-guide-updating-router-firmware/) to add new features, performance improvements, and also any bug fixes causing the router to act up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Troubleshoot a Non-Accessible Router Login Page on Windows
 
  If you have trouble reaching the router login page, make sure you are using the correct IP address. Use the ipconfing command in Command Prompt and verify if your IP address matches the Default Gateway address. Additionally, check your network adapter’s TCP/IP settings, perform a router power cycle, or reset the router to its factory default settings to resolve the problem.
@@ -158,15 +158,16 @@ To disable Invisibility on LAN on NordVPN:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-permissions-for-posting-videos-on-fb-for-2024/"><u>[Updated] Permissions for Posting Videos on FB for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-the-art-top-5-fluid-gaming-journeys/"><u>2024 Approved Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-the-cant-connect-nvidia-error-on-win-11-devices/"><u>Bypassing the Can't Connect Nvidia Error on Win 11 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-file-systems-better-with-diskspace-added-to-windows-menu/"><u>Discover File Systems Better with Diskspace Added to Windows Menu</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixed-offline-workflow-blockage/"><u>Fixed Offline Workflow Blockage</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/swift-strategies-for-iphones-and-freeipodcasts-download-techniques-for-2024/"><u>Swift Strategies for iPhones and FreeiPodcasts Download Techniques for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-stop-net-core-error-message/"><u>Troubleshooting Windows: Stop .NET Core Error Message</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-power-of-magix-clip-studio-for-2024/"><u>Unveiling the Power of MAGIX Clip Studio for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-portals-to-retro-playstation-gaming-on-your-desktop/"><u>[Updated] In 2024, Premier Portals to Retro PlayStation Gaming on Your Desktop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-integration-instagram-meets-tiktok/"><u>2024 Approved Seamless Integration Instagram Meets TikTok</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-10-androidios-weddings-ultimate-countdown-timer-apps/"><u>2024 Approved Top 10 Android/iOS Weddings Ultimate Countdown Timer Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-bypassing-prohibited-app-alerts-on-pc/"><u>Guidelines: Bypassing Prohibited App Alerts on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-without-windows-subsystem-next-steps-in-android/"><u>Navigating Without Windows Subsystem - Next Steps in Android</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-wi-fi-network-configuration-bridging-prompt-gaps/"><u>Perfecting Wi-Fi Network Configuration: Bridging Prompt Gaps</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-wmi-service-overuse-on-pcs/"><u>Tackling WMI Service Overuse on PCs</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wps-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wps file documents online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-sub-50-video-doorbells-comprehensive-analysis-and-iseebell-features-breakdown/"><u>Top Sub-$50 Video Doorbells: Comprehensive Analysis & ISeebell Features Breakdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tier-psd-drop-shadows/"><u>Top-Tier PSD Drop Shadows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-hypervisor-error-blue-screen-on-win-1011/"><u>Troubleshooting Hypervisor Error Blue Screen on Win 10/11</u></a></li>
 </ul></div>
 

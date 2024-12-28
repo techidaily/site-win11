@@ -1,7 +1,7 @@
 ---
 title: How to Individualize Windows 11'S Screensaver
-date: 2024-08-28T00:52:58.231Z
-updated: 2024-08-29T00:52:58.231Z
+date: 2024-12-27T05:40:36.813Z
+updated: 2024-12-28T01:12:36.905Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 5. Select the**3D Text** or**Photos** screensaver on the menu.  
 ![The Screen Saver Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screen-saver-settings.jpg)
 6. After selecting one of those two screensavers, you can customize it by pressing the**Settings** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Apply** to set your chosen screensaver.
 
  Clicking**Settings** for 3D Text will bring up a 3D Text Settings window. There you can change the screensaver's text by clicking the**Custom Text** radio button and inputting different text in the box. Or you can choose**Time** to show a 3D digital clock instead. Press the**Font** button to select a different font and style.
@@ -47,11 +52,19 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
 ![The Photos screen saver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/photos-screensaver-settings.jpg)
 
 **Wait time** and**On resume** are the only options you can change for the Photos and 3D Text screensavers outside the settings windows. Adjust the**Wait time** value to set a longer or shorter idle activation time for the screensaver. If you prefer to return to a log-in screen after resuming, select the**On resume** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Customize Bubbles, Mystify, and Ribbons with Winaero ScreenSavers Tweaker
 
@@ -63,6 +76,11 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 4. Extract the**System\_Screensavers\_Tweaker.zip** file as instructed within our[how-to unzip files](https://www.makeuseof.com/unzip-files-windows-10/) guide.  
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -91,8 +109,9 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Customize Windows 11's Screensavers for Better Effect
 
  Even though they're no longer essential, the default Windows 11 screensavers still look groovy. So, it's worth setting one of those screensavers to liven up your PC when idle. You can refine their look according to preference by tweaking the customization settings outlined above.
@@ -103,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +129,26 @@ thumbnail: https://thmb.techidaily.com/fed92e9eb9a0a5e6e21c5bc280db28f15e68b1978
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-guide-to-starting-a-successful-youtube-gaming-channel/"><u>[New] 2024 Approved The Guide to Starting a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-cutting-edge-pc-editing-techniques-enhancing-your-youtube-presence/"><u>[New] In 2024, Cutting-Edge PC Editing Techniques Enhancing Your YouTube Presence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-top-emulated-psp-classics-on-ios/"><u>[New] In 2024, Discover Top Emulated PSP Classics on iOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-the-top-6-head-mounts-expert-reviews-for-action-photography/"><u>[New] In 2024, Unveiling The Top 6 Head Mounts Expert Reviews for Action Photography</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-virtual-hubs-for-scouting-sponsorship-opportunities-on-youtube/"><u>[New] Virtual Hubs for Scouting Sponsorship Opportunities on Youtube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-maximizing-your-marketing-mettle-on-youtube/"><u>[Updated] 2024 Approved Maximizing Your Marketing Mettle on Youtube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-guide-to-top-free-vectors-graphics-sites-worldwide/"><u>2024 Approved Guide to Top Free Vectors, Graphics Sites Worldwide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivating-book-video-tours/"><u>Captivating Book Video Tours</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-no-installed-devices-in-windows-os/"><u>Correcting 'No Installed Devices' In Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-reducing-memorycpu-load-in-windows-10/"><u>Enhance Efficiency: Reducing Memory/CPU Load in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activatedisable-internet-safety-filter-in-win-11/"><u>How to Activate/Disable Internet Safety Filter in Win 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-direct-interaction-enhancing-live-broadcasts-with-desktop-share/"><u>In 2024, Direct Interaction Enhancing Live Broadcasts with Desktop Share</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-file-selection-activating-windows-11-checkboxes/"><u>Maximize File Selection: Activating Windows 11 Checkboxes</u></a></li>
+<li><a href="https://win11.techidaily.com/no-cords-just-games-setting-up-ps3-controller/"><u>No Cords, Just Games: Setting Up PS3 Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/opt-for-windows-10-why-it-still-wins-over-win11/"><u>Opt for Windows 10: Why It Still Wins Over Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-progress-mastering-the-save-file-security-in-epic-launcher/"><u>Permanent Progress: Mastering the Save File Security in Epic Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-of-chatgpt-into-windows/"><u>Seamless Integration of ChatGPT Into Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-multilingual-navigation-on-windows-1011-with-keys/"><u>Speedy Multilingual Navigation on Windows 10/11 with Keys</u></a></li>
+</ul></div>
 

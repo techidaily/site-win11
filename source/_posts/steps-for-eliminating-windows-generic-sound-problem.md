@@ -1,7 +1,7 @@
 ---
 title: Steps for Eliminating Windows Generic Sound Problem
-date: 2024-12-16T18:03:14.109Z
-updated: 2024-12-22T17:04:25.239Z
+date: 2024-12-27T00:32:21.736Z
+updated: 2024-12-28T02:19:00.545Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disable Background App Processes
 
  Disabling background app processes is the first thing you should try when you see the “Windows can’t stop your generic volume device” error. Even the error message suggests closing programs that could still be using the device.
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 ![System tray icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/system-tray-programs.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Beyond the taskbar and system tray, you’ll need to look for and disable background app processes with Task Manager. Task Manager is a tool that provides a comprehensive overview of app and service background processes.
 
  Our guide on [fixing too many background processes running](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides more detail on how to terminate unneeded background apps and services with Task Manager.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. End and Restart the Windows Explorer Process
 
@@ -61,7 +57,16 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 6. Then input **explorer** in Create new task.  
 ![The Create a new task tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-create-a-new-task-window.jpg)
 7. Select **Create this task with administrative privileges**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click **OK** to restart Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot the Device
 
@@ -79,11 +84,15 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
 6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Select the Quick Removal Option
 
@@ -95,20 +104,17 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The Hardware tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-hardware-tab.jpg)
 4. Then press the **Properties** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click **Change settings** to bring up another window.  
 ![The Change settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-settings-button.jpg)
 6. Select **Policies** in the second window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then click the **Quick removal (default)** option.  
 ![The Quick removal radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-removal-option.jpg)
 8. Select **OK** to exit the device properties window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Deselect the Index Drive Setting
 
@@ -121,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Deselect the **Allow files on this drive to have contents indexed in addition to file properties** option.  
 ![The Allow files on this drive to have contents indexed box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/index-option.jpg)
 4. Select **Apply** and **OK** to set the drive’s new setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
 
@@ -139,10 +149,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 `offline disk`  
 ![The offline command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/offline-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will need to replace **<drive number>** for the select disk command with the actual number of your USB drive listed by Diskpart. For example, if your USB drive is disk 1, the required command would look like this:
 
 `select disk 1`
@@ -158,10 +164,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
  You can even change the drive letter back to what it originally was another time. To apply this fix, check out this [guide to changing a drive’s letter in Windows](https://www.makeuseof.com/tag/change-drive-letter-windows/).
 
 ![The Disk Management tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-management-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Safely Eject Your USB Drive
 
@@ -181,22 +183,22 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-fan-favorite-films-reimagined-7-replacements-for-2024/"><u>[New] Fan-Favorite Films Reimagined - #7 Replacements for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-auto-play-youtube-iphoneandroid-no-notification/"><u>[Updated] 2024 Approved Auto-Play YouTube IPhone/Android, No Notification</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-top-5-tools-for-viewing-insta-stories-unseen/"><u>[Updated] 2024 Approved Top 5 Tools for Viewing Insta Stories Unseen</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dimming-mystery-device-dilemma/"><u>Dimming Mystery: Device Dilemma</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-steps-to-set-up-and-enjoy-pokemon-unite-on-pc-gaming-platforms/"><u>Easy Steps to Set Up and Enjoy Pokémon Unite on PC Gaming Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/escalate-steam-transfer-rates-avoiding-sudden-slowdowns/"><u>Escalate Steam Transfer Rates: Avoiding Sudden Slowdowns</u></a></li>
-<li><a href="https://fox-links.techidaily.com/foremost-sites-for-digital-type-creation-for-2024/"><u>Foremost Sites for Digital Type Creation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-prioritize-calculator-position-in-windows/"><u>Guidelines to Prioritize Calculator Position in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-tutorial-for-srt-filters-in-social-space/"><u>In 2024, A Comprehensive Tutorial for SRT Filters in Social Space</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-mute-issues-while-capturing-powerpoint-presentations/"><u>Overcoming Mute Issues While Capturing PowerPoint Presentations</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pro-camera-selection-guide-top-10-films-tools-ranked/"><u>Pro Camera Selection Guide - Top 10 Films Tools Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstate-missing-audio-saving-options-on-windows-10/"><u>Reinstate Missing Audio Saving Options on Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-network-access-error/"><u>Strategies for Correcting Network Access Error</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unresizable-gif-problems-a-fix-guide-for-discord-on-win11-pcs/"><u>Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-6-retailers-where-youll-find-the-perfect-laptop/"><u>Top 6 Retailers Where You'll Find the Perfect Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/what-defines-an-exe-from-a-standard-msi-software-package/"><u>What Defines an EXE From a Standard Msi Software Package?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-strategies-to-correct-active-directory-print-problems/"><u>Windows 11: Strategies to Correct Active Directory Print Problems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-fixed-youtubes-missing-minute-media/"><u>[New] 2024 Approved Fixed YouTube's Missing Minute Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-free-online-tools-for-youtube-channel-starters/"><u>[Updated] 2024 Approved Free Online Tools for YouTube Channel Starters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-chatgpt-pdf-plugins-that-can-save-you-time-and-effort/"><u>10 ChatGPT PDF Plugins That Can Save You Time and Effort</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/discover-the-leading-12-ai-powered-free-video-editing-tools-for-windows-and-mac-users-online/"><u>Discover the Leading 12 AI-Powered Free Video Editing Tools for Windows and Mac Users Online</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-0xc00ce556-in-winoss-parsing/"><u>Eliminating Error 0xC00CE556 in WinOSs PARSING</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-windows-performance-data-accuracy/"><u>Ensuring Windows Performance Data Accuracy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-premier-music-video-experience-6-picks/"><u>In 2024, Android's Premier Music Video Experience 6 Picks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-steady-snaps-premier-tripods-for-mobile-cameras/"><u>In 2024, Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-program-management-thwarting-windows-autoshrink/"><u>Optimal Program Management: Thwarting Windows' Autoshrink</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-inadequate-systems-to-satisfy-intel-graphic-standards/"><u>Overhauling Inadequate Systems to Satisfy Intel Graphic Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-non-running-mcuicntexe-file-error-on-pcs/"><u>Remedying the Non-Running McUICnt.exe File Error on PCs</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/retrouver-des-images-png-perdues-5-techniques-neuve-ainsi-gratuites-a-tentative-vraie/"><u>Retrouver Des Images PNG Perdues : 5 Techniques Neuve-Ainsi Gratuites À Tentative Vraie !</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reviving-the-brightness-of-your-androids-screen-how-to-fix-dark-screens/"><u>Reviving the Brightness of Your Android's Screen – How-To Fix Dark Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/slip-through-system-demands-barrier-in-win11/"><u>Slip Through System Demands Barrier in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-connectivity-how-to-enable-telnet-in-windows-os/"><u>Streamline Connectivity: How to Enable Telnet in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/venturing-into-the-visual-void-ms-paints-dark-mode-guide/"><u>Venturing Into the Visual Void: MS Paint's Dark Mode Guide</u></a></li>
 </ul></div>
 

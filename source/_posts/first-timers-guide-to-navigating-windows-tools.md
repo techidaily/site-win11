@@ -1,7 +1,7 @@
 ---
 title: First Timer's Guide to Navigating Windows Tools
-date: 2024-08-28T00:53:22.873Z
-updated: 2024-08-29T00:53:22.873Z
+date: 2024-12-23T07:08:25.886Z
+updated: 2024-12-28T07:20:57.964Z
 tags:
   - windows10
   - windows11
@@ -36,22 +36,20 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
 ![vision section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/vision-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The [Vision Accessibility tool on Windows](https://www.makeuseof.com/how-to-set-up-accessibility-options-windows-11/) serves the needs and abilities of many such Windows users who'd otherwise fail to make the best use of Windows.
 
  To that end, Windows has provided a plethora of tools under the Vision section. Let's cover all of them individually.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Text Size
 
  Text size does what it says on the tin. It helps you tweak the size of your text all over your PC and apps with a simple adjustment through the slider.
 
  After you've made the changes, make sure you click on **Apply** to save them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Visual Effects
 
  It's sometimes quipped that visual effects are not just eye candy; they are, in fact, an integral part of the user interface, giving you critical context and clarity.
@@ -59,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
  Moreover, the visual effects on Windows can make or break the user experience for many users with partial visual impairments. With the tools in Visual effects, you can manage these visual effects to some degree, and get the most out of them.
 
 ![visual effects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Scrollbar**
 
@@ -82,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  Every notification on your Windows stays for a specific amount of time. With **Dismiss notification after this time**, you can tweak the time to increase or decrease it with ease, anywhere from 5 seconds up to 5 minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Mouse Pointer and Touch
 
  This tool lets you easily change your mouse cursor's size and style. For instance, you can tweak the pointer character from four different shapes. Alternatively, you can increase or decrease its size as well.
@@ -103,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
  Alternatively, you can also tweak the cursor's thickness by moving the slider as shown below:
 
 ![text cursor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-cursor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Magnifier
 
@@ -130,17 +140,9 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
  Alternatively, you can use simple shortcuts like **Windows key logo + Ctrl + C** to turn color filters on or off.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Contrast Themes
 
  If you have trouble figuring out what's what on an app or document, then Contrast Themes is for you.
@@ -155,8 +157,9 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
  To pick a specific theme, click on the toggle menu and select one of the themes from there.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Narrator
 
  In brief, the Narrator helps you navigate web pages and documents by reading your screen text on your screen aloud. We have a [detailed guide that covers everything about Narrator on your PC](http://https://www.makeuseof.com/beginners-guide-windows-narrator/). You can learn all things about Narrator from the linked guide.
@@ -165,9 +168,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  The second section of Accessibility tools, Hearing, helps you use your device easily even if you face hearing impairments. First, let's look at the first tool, that covers audio of your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Audio
 
  When you click on Audio, you will find two different options: Mono Audio and a feature to flash your screen.
@@ -176,9 +176,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
 ![audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/audio-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  On the other hand, if you turn on the switch for **Flash my screen during audio notifications**, you will get an option to pick from various settings like:
 
 1. Flash the title bar of the active windows
@@ -193,13 +190,6 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  You will also get to choose how your caption style looks. Simply select the caption style from White on black, Small caps, Large text, Yellow on blue. If you'd like to add more variation, click on **Edit** to choose the new settings for Text, Background, or Window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Interaction
 
  The last feature of Accessibility tools on Windows, unsurprisingly as its name suggests, covers all things that help you interact with your PC. This includes everything from Speech, Keyboard, Mouse, or Eye Control.
@@ -209,24 +199,23 @@ No advertising on the website.
  Toggle on the Voice access tool to do things on your PC—all with your voice. And while you're at it, you can toggle on the **Start voice access** after you sign in to your PC switch.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Keyboard
 
  The keyboard accessibility section is about making it easier to make the most out of your keyboard on Windows.
 
  From turning on specific keys and shortcuts for various keys to other valuable settings like the On-screen keyboard, Underline access keys, etc.—the Keyboard section is what you're looking for if you want to make the most out of your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### 3\. Mouse
 
  Like the keyboard above, the Mouse tool is about improving your mouse's accessibility to all users. Toggle on the **Mouse keys** switch, and you will find a host of settings such as Mouse key speed, Mouse keys acceleration, etc.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## All About Accessibility Tools on a Windows PC
 
  The Accessibility tools from Microsoft make Windows more inclusive and is part of a growing approach to design known as Universal Design. This makes Windows useful for as many people as possible, regardless of their age, disability, or place in life.
@@ -235,11 +224,27 @@ No advertising on the website.
 
  So, let's dive in and peek through all the different accessibility tools on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-dive-into-4k-splendor-with-nikon-1j5-videography/"><u>[Updated] In 2024, Dive Into 4K Splendor with Nikon 1J5 Videography</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transcribe-speaking-to-writing-free-of-charge/"><u>[Updated] Transcribe Speaking to Writing Free of Charge</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728486508931-ssd-ssd/"><u>创造 SSD 影片与无成本 SSD 画图软件：步骤分享</u></a></li>
+<li><a href="https://win11.techidaily.com/dim-your-screen-with-windows-calculation-app/"><u>Dim Your Screen with Windows Calculation App</u></a></li>
+<li><a href="https://facebook.techidaily.com/exposing-the-amazon-facebook-group-admin-dispute/"><u>Exposing the Amazon-Facebook Group Admin Dispute</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-windows-11-photo-app-crafting-impeccable-slideshows-and-fixes/"><u>Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-biz-game-youtube-channels-that-succeeded/"><u>In 2024, Elevate Your Biz Game YouTube Channels That Succeeded</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mastering-digital-coin-investments-expert-tips-by-yl-software-professionals/"><u>Mastering Digital Coin Investments: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-pitfalls-of-windows-auditory-restart-failures/"><u>Navigating the Pitfalls of Windows Auditory Restart Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-invisible-additional-monitor/"><u>Overcome Invisible Additional Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-error-code-0x87e00017-in-ms-store-downloads/"><u>Overcoming Error Code 0X87e00017 in MS Store Downloads</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-google-nest-doorbell-battery-expert-reviews/"><u>The Ultimate Guide to Choosing a Google Nest Doorbell (Battery) – Expert Reviews</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo Y28 5G | Dr.fone</u></a></li>
+</ul></div>
+

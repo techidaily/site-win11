@@ -1,7 +1,7 @@
 ---
 title: Correcting Windows Webcam' Written as How to FIX Your WebCam Showing a BLACK SCREEN on WINDOWS
-date: 2024-08-28T00:53:24.048Z
-updated: 2024-08-29T00:53:24.048Z
+date: 2024-12-22T04:59:46.512Z
+updated: 2024-12-28T07:17:08.716Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 * If you're using an external webcam, try connecting it to a different USB port.
 
  If these generic fixes don't work, it's time to try something more specific.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Your Webcam Hardware and Connections
 
@@ -56,17 +60,15 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 3. Right-click on your webcam and select **Update driver**.  
 ![Update Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/update-camera-driver.jpg)
 4. On the next page, click **Search automatically for drivers**.
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will prompt your computer to search the internet for the latest driver software for your webcam. Windows either finds and installs the latest driver or notifies you that you already have it.
 
  If Windows can't find a new driver, go to your webcam manufacturer's website and download the latest one.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Roll Back Drivers
 
  If you recently updated your webcam drivers and now get a black screen, try reverting to the previous version. Here's how to do it:
@@ -77,15 +79,9 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 3. In the Properties window, switch to the **Driver** tab.  
 ![Roll Back Camera Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/roll-back-camera-driver.jpg)
 4. Here, you'll find the **Roll Back Driver** button. Click on it. If the button is grayed out, there's no driver version to roll back to.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  A new window will pop up asking why you want to roll back. Choose a reason that fits your situation, then click **Yes**. Windows will now restore the previous driver version. After doing this, restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reinstall Webcam Drivers
 
  If updating or rolling back drivers doesn't work, you may need to reinstall them completely. Don't worry about losing your webcam; Windows will detect and install the drivers automatically after rebooting.
@@ -98,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 4. A pop-up will appear, asking if you're sure you want to remove it. Check the box next to **Attempt to remove the driver for this device** and click **Uninstall**.  
 ![Uninstall Camera driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/uninstall-camera-driver.jpg)
 5. After finishing the process, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. When your computer starts, open Device Manager again and click **Action** on the toolbar.  
 ![Scan for hardware changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/scan-for-hardware-changes.jpg)
 7. Select **Scan for hardware changes**. This will prompt Windows to detect your webcam and install drivers automatically.
@@ -108,8 +101,9 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
  Once that's done, test your webcam again. It shouldn't show a black screen anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Check App Permissions
 
  Apps installed on your computer require specific permissions to access hardware like a webcam. If you accidentally denied your webcam permission, it could be the reason for a black screen.
@@ -123,16 +117,25 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 ![Check App Permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/check-app-permissions.jpg)
 4. Make sure the apps you use for video chatting or conferencing can access your camera. If not, toggle the switch to turn on camera access for these apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After adjusting the permissions, restart your computer and check if the webcam black screen is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Scan for Malicious Programs
 
  This problem may also occur if your computer has malware or malicious apps installed. Malware can interfere with your webcam and turn the screen black.
 
  To check for malicious programs, employ trusted antivirus software and [perform a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/). Additionally, you may use the Windows Security tool to swiftly scan and eliminate any identified threats from your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Run the Hardware and Device Troubleshooter
 
@@ -150,15 +153,14 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
  Wait for the troubleshooter to complete its process. If you find any issues, follow the on-screen prompts to resolve them. After that, restart your computer and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Resolving Windows Webcam Black Screen Issues
 
  It doesn't matter how fancy your computer is or what OS it runs on, things are bound to go wrong. One common issue Windows users encounter is a black screen on their webcam. But with the solutions listed in this guide, you can troubleshoot and fix it quickly.
 
  Start with the basic checks and then move on to more technical fixes if needed. Hopefully, one of these solutions worked and resolved the issue.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -166,3 +168,23 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-compliance-with-copyright-law-when-sharing-media-through-fb/"><u>[Updated] 2024 Approved Compliance with Copyright Law when Sharing Media Through FB</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-analyzing-view-count-to-cash-out-on-youtube/"><u>[Updated] Analyzing View Count to Cash Out on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-understanding-watermarks-and-protecting-fb-pics/"><u>[Updated] In 2024, Understanding Watermarks & Protecting FB Pics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bringing-snapchat-to-your-desktop-how-to-and-best-practices/"><u>Bringing Snapchat to Your Desktop: How-To and Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-approach-uninstalling-reluctant-printers-in-win-os/"><u>Direct Approach: Uninstalling Reluctant Printers in Win OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-new-samsung-galaxy-note2e-ultra-5g-phone/"><u>In-Depth Analysis of the New Samsung Galaxy Note2e ULtra 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-linux-into-hyper-v-on-windows-systems/"><u>Integrating Linux Into Hyper-V on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-admin-command-prompt-tools/"><u>Mastering Windows Admin: Command Prompt Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-entering-the-startup-repair-function/"><u>Mastery of Entering the Startup Repair Function</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/regain-access-sister-brother-printer-offline-fix-guide/"><u>Regain Access: Sister-Brother Printer Offline Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-windows-specs-deficiency-in-game-captures/"><u>Remedy for Windows Specs Deficiency in Game Captures</u></a></li>
+<li><a href="https://win-popular.techidaily.com/transferer-sans-souci-outil-free-de-clonage-ssd-samsung-efficace-pour-votre-migration-informatique/"><u>Transférer Sans Souci : Outil Free De Clonage SSD Samsung Efficace Pour Votre Migration Informatique</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-interface-8-winbubble-ideas-unveiled/"><u>Transforming Windows Interface: 8 WinBubble Ideas Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-potential-with-law-filters/"><u>Unlocking Window's Potential with LAW Filters</u></a></li>
+</ul></div>
+

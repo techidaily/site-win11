@@ -1,7 +1,7 @@
 ---
 title: "Navigating Non-Functioning Windows Apps: Top 7 Remedies"
-date: 2024-12-20T17:10:36.095Z
-updated: 2024-12-22T16:07:22.771Z
+date: 2024-12-25T21:04:58.559Z
+updated: 2024-12-28T05:18:24.084Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Main Possible Causes of App Malfunctions in Windows
 
  When encountering issues such as the inability to launch an app or experiencing crashes only a few minutes after using it, it's important to identify the root causes that could be contributing to this behavior. Here are some possible factors that could be causing these problems:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 * Insufficient system resources - when you run too many apps simultaneously or the device has been running for a long time, system resources such as CPU, memory, or disk space can become low, affecting the functionality of applications.
 
  In conclusion, apps in Windows can stop working due to both software and hardware issues. Below, we have listed the different troubleshooting methods you can try to fix such issues, regardless of what is causing them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the App Troubleshooter
 
@@ -50,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  Although this tool effectively recognizes certain frequently encountered problems, it may have limited usefulness when dealing with complex issues. If the troubleshooter fails to help, move to the next methods below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update Apps
@@ -64,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cache is the temporary data stored by programs to access the information they need, quickly without reloading it from the local storage. However, there are times when this data can get corrupt and lead to several performance issues.
@@ -72,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  Fortunately, this is easy to fix. You can reset the app cache to resolve issues like crashes, slow performance, and other minor glitches. Doing so won’t harm any important data, but you are likely to lose any login information or custom settings that you may have configured in the app.
 
  To reset app cache,[launch the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) . Type wsreset.exe in the CMD window and hit Enter. Wait for the process to complete and once it is done, check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update Drivers
 
@@ -87,15 +91,15 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  You can[update the drivers](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) using the Device Manager utility in Windows. In case this tool fails to find an updated driver version in the system, you can download it via the manufacturer’s website and install it manually as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Check for Conflicting Programs
 
  As we mentioned above, if you are running programs with similar functionalities, they might conflict with each other, causing issues. The best way to fix issues such as this one is by closing all other background applications. If the targeted app works fine after you do this, it implies that a background process was indeed causing the problem.
 
  You can then take necessary steps to remove the problematic program to avoid any issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair or Reset the App
 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  Finally, if none of the troubleshooting methods help, you can uninstall the app and then reinstall it. This will clear any corrupt files alongside the old or problematic settings that might be causing the issue.
 
  However, since this action will delete all data associated with the app, make sure you create a backup of the important data. Once that is done, you can[use the Control Panel to uninstall the app](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and then reinstall a fresh version using the Microsoft Store or your browser.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get Your Windows Apps Back on Track
 
@@ -138,21 +138,20 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-channel-identity-design-icons-and-thumbnails-essentials/"><u>[New] In 2024, Channel Identity Design Icons & Thumbnails Essentials</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-sharing-excellence-twitch-live-to-your-facebook-circle/"><u>[New] In 2024, Sharing Excellence Twitch Live to Your Facebook Circle</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-10-youtube-havens-for-entrepreneurs-and-business-gurus/"><u>[Updated] 10 YouTube Havens for Entrepreneurs & Business Gurus</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>[Updated] 2024 Approved Step 1 to 50 Building a Foundation for Mukbang Creation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-guide-to-drone-racers-and-top-5-fpv-drones/"><u>[Updated] Ultimate Guide to Drone Racers & Top 5 FPV Drones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac/"><u>2024 Approved Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/facon-facile-de-copier-et-proteger-un-disque-dur-sur-windows-et-macos-une-approche-simple/"><u>Façon Facile De Copier Et Protéger Un Disque Dur Sur Windows Et macOS : Une Approche Simple</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-paint-cocreator-to-create-ai-images-in-windows-11/"><u>How to Use Paint Cocreator to Create AI Images in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fax-cover-page-customization-in-windows-11/"><u>Mastering Fax Cover Page Customization in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-potential-with-every-chatgpt-token-used/"><u>Maximizing Potential with Every ChatGPT Token Used</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-error-0x80780119-system-image-issue/"><u>Overcoming Windows Error: 0X80780119 System Image Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/post-installation-web-steps-and-strategies/"><u>Post-Installation Web: Steps and Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/reestablishing-connection-between-synapse-and-razer-devices/"><u>Reestablishing Connection Between Synapse & Razer Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-vram-a-comprehensible-guide-for-win-users/"><u>Skyrocket VRAM: A Comprehensible Guide for Win Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-causes-of-virtualboxs-efail-error/"><u>Unraveling the Causes of VirtualBox's E_FAIL Error</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-hot-30-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Hot 30 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-vr-action-cams-face-off-hero5-black-vs-yis-new-release/"><u>[New] VR Action Cams Face-Off Hero5 Black Vs. Yi's New Release</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-techniques-for-stunning-android-time-lapse-captures-for-2024/"><u>[Updated] Top Techniques for Stunning Android Time-Lapse Captures for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-classrooms-future-learning-unleashed/"><u>[Updated] Virtual Classrooms Future Learning Unleashed</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-check-for-updates-context-menu-option-in-windows-10-and-11/"><u>How to Add a Check for Updates Context Menu Option in Windows 10 and 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-7-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-grant-read-permission-on-hidden-outlook-directories-and-files/"><u>How to Grant Read Permission on Hidden Outlook Directories & Files</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-cleanup-generative-erase-revolutionizes-windows/"><u>Innovating Cleanup: Generative Erase Revolutionizes Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/install-and-enjoy-discord-on-your-mac-with-ease/"><u>Install and Enjoy Discord on Your Mac with Ease</u></a></li>
+<li><a href="https://driver-error.techidaily.com/make-windows-11s-bluetech-respect-you-heres-how-to-fix-unresponsive-connection-step-by-step/"><u>Make Windows 11'S BlueTech Respect You: Here’s How To Fix Unresponsive Connection (Step-by-Step)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-imessage-for-windows-a-step-by-step-guide/"><u>Mastering iMessage for Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-file-system-failures-a-guide-to-fixes-in-win11/"><u>Navigating File System Failures: A Guide to Fixes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/preservation-of-windows-safescreensaver-integrity/"><u>Preservation of Windows SafeScreensaver Integrity</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-engagement-facebook-twitter-instagram-youtube/"><u>Understanding the Giants of Online Engagement: Facebook, Twitter, Instagram, YouTube</u></a></li>
 </ul></div>
 

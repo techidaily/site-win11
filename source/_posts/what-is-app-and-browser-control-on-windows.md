@@ -1,7 +1,7 @@
 ---
 title: What Is App and Browser Control on Windows?
-date: 2024-08-28T00:52:25.821Z
-updated: 2024-08-29T00:52:25.821Z
+date: 2024-12-20T19:22:46.813Z
+updated: 2024-12-27T22:34:51.104Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
  App & browser control is a section of Windows Security settings that contains all the tools for managing and preventing access to your PC by malicious apps and websites. It monitors your PC's safety by combining tools like Smart App control, reputation-based protection, and phishing protection.
 
  With such essential tasks, it's no wonder that the app & browser control has also found its place in later versions of Windows. So, with the brief introduction out of the way, let's dig deeper into the workings of the App & browser control settings and see how its magic comes about.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is App and Browser Control?
 
@@ -56,21 +60,16 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
 
 ![reputation based protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-protection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  You can also tweak multiple reputation-based protection settings from there; simply click on the**Reputation-based protection** settings link. There, you will find a host of handy settings you choose from.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Check Apps and Files
 
  When you have the Check apps and files button toggled on, the Microsoft Defender SmartScreen will protect your important files and apps on the web.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 2\. SmartScreen for Microsoft Edge
 
  Toggle on the SmartScreen for Microsoft Edge button, and the Defender SmartScreen feature will protect you from malicious websites and downloads.
@@ -88,10 +87,9 @@ thumbnail: https://thmb.techidaily.com/c8505bae3e314a2b381005e22ef6317da32419f0b
  Click on the relevant checkboxes to turn on the settings, and you will be well protected.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Potentially Unwanted App Blocking
 
  Not all apps are created equal. While some programs run well and do what they're designed to do efficiently, others don't deserve to see the light of day after the testing cycle.
@@ -99,22 +97,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Turning on this filter allows you to block out all the lower-tier apps that won't work as productively as required, or perhaps even your app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### SmartScreen for Microsoft Store apps
 
  As the name suggests, when you have SmartScreen for Microsoft Store apps turned on, the SmartScreen will filter out any malicious content accessed by Microsoft Store apps.
@@ -126,8 +111,9 @@ Key features:
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
 
 ## Get App and Browser Control on a Windows PC
@@ -136,14 +122,11 @@ Key features:
 
  Other parts of Windows Security, like Family options or Virus & threat protection, are just as crucial as App & browser control. So make sure you don’t neglect other features, and try to learn about them too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +135,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-completely-remove-your-instagram-footprint-forever/"><u>[Updated] 2024 Approved How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-9-metaverse-blueprints-illuminating-virtual-realities/"><u>[Updated] 9 Metaverse Blueprints Illuminating Virtual Realities</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-prime-selection-of-premium-4k-blu-ray-systems/"><u>[Updated] Prime Selection of Premium 4K Blu-Ray Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-quantum-hdr-explained-the-ultimate-resource/"><u>[Updated] Quantum HDR Explained The Ultimate Resource</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-pcs-gaming-win-11-edition-a-guide-to-7-tips/"><u>Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/encrypted-enigma-broken-no-urgent-change-needed/"><u>Encrypted Enigma Broken? No Urgent Change Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-notebook-appearance-with-custom-windows-11-themes-and-fonts/"><u>Enhancing Notebook Appearance with Custom Windows 11 Themes & Fonts</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 13 Pro and iPad?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-a59-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A59 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insiders-look-how-to-access-and-erase-windows-10-history/"><u>Insider's Look: How to Access and Erase Windows 10 History</u></a></li>
+<li><a href="https://win11.techidaily.com/intel-unison-versus-phone-link-optimal-windows-phone-application/"><u>Intel Unison Versus Phone Link: Optimal Windows Phone Application</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-for-windows-next-gen-software-ecosystem/"><u>Leveraging AI for Windows' Next-Gen Software Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-easy-windows-setup-on-steam-deck/"><u>Quick & Easy Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-profile-issues-windows-1111-edition/"><u>Quick Guide to Fixing Profile Issues: Windows 11/11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-menu-with-additional-folders/"><u>Streamlining Windows 11 Menu with Additional Folders</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unveiling-the-best-practices-for-timing-and-organizing-google-collaborations-for-2024/"><u>Unveiling the Best Practices for Timing and Organizing Google Collaborations for 2024</u></a></li>
+</ul></div>
 

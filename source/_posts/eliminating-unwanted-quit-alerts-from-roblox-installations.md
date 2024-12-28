@@ -1,7 +1,7 @@
 ---
 title: Eliminating Unwanted 'Quit' Alerts From Roblox Installations
-date: 2024-08-28T00:53:03.838Z
-updated: 2024-08-29T00:53:03.838Z
+date: 2024-12-25T21:44:59.334Z
+updated: 2024-12-28T04:50:03.340Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 3. Move the cursor to the **maximize button** of the Roblox window and select the first set of layouts from Snap Layouts. This way, the screen will be split into two halves, with Roblox appearing on the right half.  
 ![Split the Screen Using Snap Layouts to Put Roblox on the Right Half](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-split-the-screen-using-snap-layouts-to-put-roblox-on-the-right-half.jpg)
 4. Select Task Manager from the left half of the window, and it will open on the left.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Select Task Manager From the Left Half of the Snap Layouts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-select-task-manager-from-the-left-half-of-the-snap-layouts.jpg)
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
@@ -52,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  Apply the fixes covered in our guide on [how to fix high CPU usage when gaming](https://www.makeuseof.com/fix-high-cpu-usage-gaming-windows/) if CPU usage spikes to 100 percent. Refer to our guide on [how to fix spikes in GPU usage](https://www.makeuseof.com/gpu-usage-spikes-100-percent-windows/) if the GPU gets too stressed. Similarly, if high RAM consumption causes the game to crash, refer to our guide on [reducing RAM usage](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) for solutions.
 
  Hopefully, once you remove the extra burden, Roblox will be able to use the required resources more efficiently and will no longer crash. In contrast, if Roblox crashes even when none of your system components are under full stress, the problem may lie elsewhere. In that case, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Clear the Roblox Cache on Windows and Your Browser
 
@@ -66,26 +75,21 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  To clear cookies for Roblox on Chrome, Firefox, or Edge, follow our guide on [how to clear cookies for a specific website](https://www.makeuseof.com/clear-chrome-firefox-edge-cookies-specific-site/).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Remove Interfering Browser Extensions
 
  If the error occurs when running experiences from the Roblox website, especially right after launch, the browser extensions could be to blame. To ensure that isn't the case, disable any Roblox extensions you use to enhance Roblox's user interface, disable security extensions, or any other extension you think could interfere with Roblox.
 
  Refer to our guide on [how to disable or remove extensions in different browsers](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) if you aren't familiar with the process.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Switch to Roblox's Microsoft Store App
 
  The Roblox Microsoft Store app is considered more stable and less prone to errors than the Roblox website launcher, which launches experiences from the web. Some users who experienced crashes while using Roblox were able to resolve the issue by switching to Roblox's Microsoft Store app.
 
  Based on the possibility of this switch resolving the problem, install the [Roblox Microsoft Store app](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and use that for some time to check if it fixes the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Run Roblox in the Compatibility Mode
 
  Running Roblox in compatibility mode has resolved the crashing issue for some users. Therefore, you should configure the game to run in compatibility mode and see whether that fixes the problem. Follow these steps to do this:
@@ -94,20 +98,23 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 2. Right-click on the **Roblox Player** shortcut, and then select **Properties**.  
 ![Go to Properties of Roblox Player in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-properties-of-roblox-player-in-windows-file-explorer.jpg)
 3. Navigate to the **Compatibility** tab in the **Properties** window.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
 ![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
 5. Then, click **Apply**.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. After that, click on the **Run compatibility troubleshooter** button.  
 ![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
 7. Click on **Try recommended settings** \> **Test the program…**  
 ![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
 8. Then, save the changes by following the on-screen instructions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the Roblox Client
 
@@ -120,8 +127,9 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Roblox From Crashing Frequently
 
  Seeing Roblox crash repeatedly without apparent reason can make us lose our cool. Hopefully, the above fixes will help you find the root cause behind the error and fix it. In turn, Roblox will run smoothly and will not crash. Not only will the above fixes help resolve the issue, but they will also improve Roblox's performance.
@@ -132,11 +140,27 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
  If Roblox frequently crashes with this error and bothers you, here are some fixes and checks you can use to resolve the issue.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlining-your-digital-workspace-mastering-zoom-sessions/"><u>[New] In 2024, Streamlining Your Digital Workspace Mastering Zoom Sessions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-live-stream-showdown-xsplit-vs-obs/"><u>[Updated] 2024 Approved Live Stream Showdown XSplit Vs. OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-best-free-youtube-comment-finder-you-should-try/"><u>2024 Approved Best Free YouTube Comment Finder You Should Try</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-your-own-terminal-schemes-in-wt/"><u>Designing Your Own Terminal Schemes in WT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-bridging-past-and-present-successfully-live-streaming-recorded-media/"><u>In 2024, Bridging Past and Present Successfully Live-Streaming Recorded Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-professional-precision-flip-canon-photos-from-basic-to-advanced-with-luts/"><u>In 2024, Professional Precision Flip Canon Photos From Basic to Advanced with LUTs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-securely-snap-fb-video-conversations-4-methods/"><u>In 2024, Securely Snap FB Video Conversations [4 Methods]</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722855443137-nintendo-switch-and-tv-connection-a-complete-walkthrough/"><u>Nintendo Switch and TV Connection - A Complete Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-securing-your-settings-against-unintentional-loss-by-cp/"><u>Strategies for Securing Your Settings Against Unintentional Loss by CP</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-workflows-incorporating-additional-folders-in-windows/"><u>Streamlining Workflows: Incorporating Additional Folders in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-personalized-clock-settings-bypass-automatic-windows-change/"><u>Unlock Personalized Clock Settings, Bypass Automatic Windows Change</u></a></li>
+</ul></div>
+

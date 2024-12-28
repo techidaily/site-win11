@@ -1,7 +1,7 @@
 ---
 title: Navigating Modern Design with Microsoft Paint's Fresh Features
-date: 2024-12-18T16:03:13.168Z
-updated: 2024-12-22T17:40:40.545Z
+date: 2024-12-22T01:10:29.175Z
+updated: 2024-12-27T18:28:16.197Z
 tags:
   - windows10
   - windows11
@@ -30,12 +30,16 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 ![ms paint windows 11 new ui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-windows-11-new-ui.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The new update brings subtle but important changes to the aging art app. Those familiar with the MS Paint app will notice that the UI for the Edit Color, Resize, and Skew pop-ups now match the style of Windows 11\.
 
  Additionally, the new update brings improved support for screen readers to aid with accessibility. It also fixes the issue where text boxes move unexpectedly if you use IME, and it corrects incorrectly localized dialog boxes in Hebrew, Dutch, Norwegian, and other languages. Finally, Shift-clicking on a color swatch will now select it as your secondary color.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Paint's Dark Mode Is Available for Everyone
 
@@ -47,12 +51,16 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
  Dark Mode is available on Paint version 11.2304.17.0 and above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. A Centered Canvas for Paint
 
 ![ms paint centered canvas windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-centered-canvas-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Microsoft Paint canvas has traditionally been located on the top left of the app, which will change with the new update. Version 11.2306.23.0, only available on the Canary and Developers builds at the time of writing, has added support for a centered canvas.
@@ -60,26 +68,18 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
  A centered canvas provides visual balance and helps bring the content into focus. Similar to the dark mode, this feature will likely make its way to the stable release eventually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enhanced Zoom Controls and Accessibility
 
 ![ms paint zoom functionality windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ms-paint-oom-functionality-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The new Paint app also features improved zoom controls, making the zoom-in/out experience smoother for greater precision. In addition, the new "Fit to window" option can quickly adapt to your window's size, complementing the new centered canvas composition.
 
  Microsoft has also updated the Image Properties dialog to match the style of Windows 11\. Moreover, the app now features improved access keys and shortcut support for enhanced accessibility with the keyboard. Since most [keyboard shortcuts in Paint](https://www.makeuseof.com/microsoft-paint-keyboard-shortcuts/) are inherited from the previous version, getting used to the keyboard shortcuts shouldn't be a problem.
 
  While the company is gradually adding the improvements announced earlier this year, including Dark mode and centered canvas, integrating the tab features will improve the multitasking aspect of the Paint app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Classic Paint App Is Here to Stay
 
@@ -97,19 +97,14 @@ thumbnail: https://thmb.techidaily.com/fe961e2cb838e9277b3f939887a16421625618620
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-inside-the-new-windows-11-innovations/"><u>[New] Inside the New Windows 11 Innovations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-maximizing-clarity-fb-messages-full-recording-process/"><u>[Updated] In 2024, Maximizing Clarity FB Messages Full Recording Process</u></a></li>
-<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-end-non-registered-user-sessions-on-windows-11/"><u>A Step-by-Step Guide to End Non-Registered User Sessions on WIndows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cease-receiving-junk-text-alerts-a-user-friendly-guide-to-stop-spam-sms-on-iphones-in-just-three-steps/"><u>Cease Receiving Junk Text Alerts: A User-Friendly Guide to Stop Spam SMS on iPhones in Just Three Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/curated-list-best-weather-trackers-for-w10w11/"><u>Curated List: Best Weather Trackers for W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/cut-down-on-computing-power-spent-by-malware-scanners/"><u>Cut Down on Computing Power Spent by Malware Scanners</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-apples-hidden-gem-in-the-latest-iphone-software-update/"><u>Discovering Apple's Hidden Gem in the Latest iPhone Software Update</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-your-nokia-c12-plus-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Nokia C12 Plus lock screen pattern, PIN or password? Here’s what to do</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-edgeplus-2023-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Edge+ (2023) Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quadcopters-unveiled-decoding-their-mechanism-and-functions/"><u>In 2024, Quadcopters Unveiled Decoding Their Mechanism and Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-windows-taskmanager-on-top-techniques/"><u>Mastery Over Windows: TaskManager on Top Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/unshackle-chromiums-network-access-via-windows-settings-blockers/"><u>Unshackle Chromium's Network Access via Windows Settings Blockers</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-addressing-inaudible-wireless-speaker-issues/"><u>Win11: Addressing Inaudible Wireless Speaker Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[New] Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/actical-video-migration-youtube-to-dailymotion-masterclass/"><u>[New] Tactical Video Migration YouTube to Dailymotion Masterclass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dissolving-details-techniques-to-anonymize-youtube-media/"><u>[Updated] 2024 Approved Dissolving Details Techniques to Anonymize YouTube Media</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-0x0000011b-operation-errors/"><u>Correcting Windows' 0X0000011B Operation Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/enriched-notepad-on-win11-with-tech-sage/"><u>Enriched Notepad on Win11 with Tech Sage</u></a></li>
+<li><a href="https://win11.techidaily.com/relaunch-ms-store-programs-efficiently-in-windows-1011/"><u>Relaunch MS Store Programs Efficiently in Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-speedy-way-to-rejuvenate-your-pc-expert-tricks-for-cleanly-installing-windows-11/"><u>The Speedy Way to Rejuvenate Your PC: Expert Tricks for Cleanly Installing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-fix-for-windows-11-login-blunders/"><u>The Ultimate Fix for Windows 11 Login Blunders</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-ranked-printer-models-a-comprehensive-guide-by-zdnet/"><u>Top-Ranked Printer Models : A Comprehensive Guide by ZDNet</u></a></li>
 </ul></div>
 

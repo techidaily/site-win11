@@ -1,7 +1,7 @@
 ---
 title: "Dissecting Dism: System Image Reconstruction Guide"
-date: 2024-12-16T17:04:57.323Z
-updated: 2024-12-22T16:57:20.527Z
+date: 2024-12-26T00:42:01.916Z
+updated: 2024-12-28T00:30:40.497Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the DISM Command in Windows 11
 
  The DISM command-line utility is a multi-purpose tool. It allows the system administrator to prepare and service Windows images. In addition, you can use the DISM tool in combination with the System File Checker utility to recover your Windows computer from critical failure.
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
  If you can boot into Windows 11, you can run the DISM command from an elevated PowerShell console or Command Prompt. If not, you’ll need to [boot into the Windows Recovery Environment](boot%20into%20the%20Windows%20Recovery%20Environment) and launch Command Prompt from **Advanced Options** to run DISM.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check Your System Health Using the DISM CheckHealth Command
@@ -54,17 +58,25 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![DISM powershell CheckHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-powershell-checkhealth-command.jpg)
 6. If you use PowerShell, use the following command instead:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Repair-WindowsImage -Online -CheckHealth`
 7. The PowerShell command will report your image status to indicate whether it is **Healthy**, **Repairable** or **Non-repairable**. A healthy image doesn’t need any further action, and you can proceed to run the SFC tool.
 
  If the image is repairable, you can use the RestoreHealth command to use Windows Update to fix any corruption. However, for a non-repairable image, you may need to perform a clean install to fix your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Perform an Advanced System Image Scan with the ScanHealth Command
 
 ![DISM scan health command PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-scan-health-command-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can use the DISM ScanHealth command to perform an advanced scan of your Windows 11 system image. This will check your system for component store corruption and save the report to a log file.
@@ -76,10 +88,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 `DISM /Online /Cleanup-Image /ScanHealth`
 3. This process may take some time to complete. Once done, it will report any issues with the component store.
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Run the DISM RestoreHealth Command to Repair the Windows System Image
 
@@ -107,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 ![install wim file in Windows 11 installation media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/install-wim-file-in-windows-11-installation-media.jpg)
 3. Next, type the following command to run the **DISM RestoreHealth** command with the installation media as a repair source:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `DISM /Online /Cleanup-Image /RestoreHealth /Source:I\Sources\install.wim /LimitAccess`
 4. In the above command, replace the placeholder **:I** with your installation media drive letter. Also, the **LimitAccess** command is an optional parameter that restricts DISM access to the specified source and prevents it from using **Windows Update** as a repair source.
 5. Once the process is complete, you can close Command Prompt and run the **System File Checker** utility to complete the repair process.
@@ -133,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
  After the process is complete, restart your computer and check for any improvements. If the issue persists, run the **sfc /scannow** command again to see if that helps fix the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Repair and Recover Your Windows System Image Using DISM and SFC
 
  DISM makes it easy to repair a corrupt Windows image. It works both online using Windows Update and offline with a WIM file. The steps to use DISM may look complicated at first glance; however, it only takes two commands and an elevated Command Prompt to repair your Windows 11 image and installation.
@@ -153,17 +153,15 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-delving-into-sns-hdr-pros-merits-and-peer-comparisons-for-2024/"><u>[New] Delving Into SNS HDR Pro's Merits & Peer Comparisons for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-ethereal-journeys-camera-reviews/"><u>[New] Ethereal Journeys Camera Reviews</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-twitters-new-era-of-videography-aspect-ratios-mandatory-for-2024/"><u>[New] Twitter's New Era of Videography Aspect Ratios Mandatory for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-inside-track-to-premiere-pro-full-screen-viewing/"><u>[Updated] In 2024, Inside Track to Premiere Pro Full Screen Viewing</u></a></li>
-<li><a href="https://win11.techidaily.com/find-the-folder-windows-captured-photos/"><u>Find the Folder: Windows Captured Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-your-it-admin-cant-do-more-on-windows-os/"><u>Fixing 'Your IT Admin Can't Do More' On Windows OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-record-screen-with-audio-on-windows-best-solution/"><u>How to Record Screen with Audio on Windows [Best Solution]</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/new-horizons-in-mobile-payments-how-apple-extends-iphone-nfc-for-enhanced-third-party-integration-explore-usage-impact/"><u>New Horizons in Mobile Payments: How Apple Extends iPhone NFC for Enhanced Third-Party Integration | Explore Usage Impact</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-ubiquitous-blue-screen-enigma/"><u>Overcoming the Ubiquitous Blue Screen Enigma</u></a></li>
-<li><a href="https://win11.techidaily.com/peek-inside-the-persona-machine-how-to-launch-windows-secret-self-analysis-engine/"><u>Peek Inside the Persona Machine: How to Launch Windows’ Secret Self-Analysis Engine</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalize-systems-introducing-aoc-1659update/"><u>Revitalize Systems: Introducing AOC 1659Update</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-innovation-behind-dts-virtualx/"><u>Understanding the Innovation Behind DTS Virtual:X</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-affordable-minecraft-video-graphics/"><u>[New] In 2024, Affordable Minecraft Video Graphics</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secrets-to-captivating-audiences-in-real-time-broadcasting/"><u>[New] Secrets to Captivating Audiences in Real-Time Broadcasting</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-iphone-screen-recording-made-simple-for-2024/"><u>[Updated] Iphone Screen Recording Made Simple for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-implement-enhanced-netgear-wna3100-drivers-quick-and-easy-methods/"><u>Download & Implement Enhanced Netgear WNA3100 Drivers: Quick and Easy Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-free-note-tools-on-windows-11/"><u>Harness Free Note Tools on Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-and-repair-windows-error-code-0x80070570/"><u>How to Correctly Address and Repair Windows Error Code 0X80070570</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-system-restore-on-windows-11-quick-access-methods/"><u>Mastering System Restore on Windows 11: Quick Access Methods</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-techniques-for-diagnosing-and-fixing-pc-components-insights-by-yl-software-experts/"><u>Step-by-Step Techniques for Diagnosing and Fixing PC Components - Insights by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-re-register-bluetooth-in-pcs-device-manager/"><u>Steps to Re-Register Bluetooth in PC's Device Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-new-era-of-widget-selection-with-win11/"><u>Unveiling The New Era of Widget Selection with Win11</u></a></li>
 </ul></div>
 

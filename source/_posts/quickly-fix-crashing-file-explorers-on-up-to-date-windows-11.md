@@ -1,7 +1,7 @@
 ---
 title: Quickly Fix Crashing File Explorers on Up-to-Date Windows 11
-date: 2024-08-28T00:55:07.019Z
-updated: 2024-08-29T00:55:07.019Z
+date: 2024-12-26T06:38:24.668Z
+updated: 2024-12-27T16:59:51.829Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,15 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 2. In the**Processes** tab, locate**Windows Explorer** . Right-click on it and select**Restart** .  
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Clear File Explorer Cache
 
@@ -49,18 +57,17 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 4\. Disable Your Antivirus Program
 
  It’s always a good idea to protect your system with an antivirus program. However, not all antivirus programs are equally reliable. It’s possible that your third-party antivirus program is conflicting with File Explorer processes, resulting in abrupt crashes. To check for this possibility, you can temporarily disable your antivirus program by clicking its icon on the taskbar and selecting**Disable > Disable until the next restart** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Launch Folder Windows in a Separate Process
 
  By default, all instances of File Explorer operate within a single explorer.exe process. As a result, when one of the File Explorer windows experiences issues, it affects all the active windows. To avoid this, you can configure Windows to open each File Explorer window in a separate process. Here's how to do it.
@@ -72,12 +79,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 5. Hit**Apply** followed by**OK** .  
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Run the Windows Memory Diagnostic Tool
 
  You are likely to experience such File Explorer crashes if there is an issue with your PC’s RAM. Fortunately, Windows includes a useful Memory Diagnostic tool that can examine your RAM for any potential errors. Running the tool requires a system restart, so be sure to save all your work beforehand.
@@ -85,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
  Press**Win + R** to open the Run dialog box. Type**mdsched** in the box and press**Enter** . Click**Restart now and check for problems** in the Windows Memory Diagnostic window.
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
 
@@ -94,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
@@ -112,14 +114,11 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 
  Not a fan of the default File Explorer in Windows 11? There are plenty of File Explorer alternatives worth trying out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,24 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-tutorial-for-fb-video-production-for-2024/"><u>[New] The Essential Tutorial for FB Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-13-key-tactics-for-enhanced-visibility-in-facebook-videography/"><u>[Updated] 2024 Approved 13 Key Tactics for Enhanced Visibility in Facebook Videography</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-amass-1000-visionary-supporters-fast-track-style-for-2024/"><u>[Updated] Amass 1,000 Visionary Supporters Fast-Track Style for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y56-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y56 5G Unlock Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-notebook-appearance-with-custom-windows-11-themes-and-fonts/"><u>Enhancing Notebook Appearance with Custom Windows 11 Themes & Fonts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/exclusive-look-at-best-screencaster-for-windowsmacos-for-2024/"><u>Exclusive Look at Best Screencaster for Windows/macOS for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-v30-lite-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo V30 Lite 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/insiders-look-how-to-access-and-erase-windows-10-history/"><u>Insider's Look: How to Access and Erase Windows 10 History</u></a></li>
+<li><a href="https://win11.techidaily.com/intel-unison-versus-phone-link-optimal-windows-phone-application/"><u>Intel Unison Versus Phone Link: Optimal Windows Phone Application</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-ai-for-windows-next-gen-software-ecosystem/"><u>Leveraging AI for Windows' Next-Gen Software Ecosystem</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-stability-essentials-for-youtube-videographers-for-2024/"><u>Professional Stability Essentials for YouTube Videographers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/skyrim-quiet-dilemma-heres-how-to-restore-game-sound/"><u>Skyrim Quiet Dilemma? Here's How to Restore Game Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-menu-with-additional-folders/"><u>Streamlining Windows 11 Menu with Additional Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-typing-techniques-via-powertoys/"><u>Turbo Typing Techniques via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-user-interface-a-windows-guide/"><u>Unfreezing the User Interface: A Windows Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-uncovering-5-surprising-visual-discrepancies/"><u>Windows 11: Uncovering 5 Surprising Visual Discrepancies</u></a></li>
+</ul></div>
 

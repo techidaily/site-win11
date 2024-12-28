@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Bulk Directory Formation on Windows 10 & 11 Systems
-date: 2024-08-28T00:53:54.910Z
-updated: 2024-08-29T00:53:54.910Z
+date: 2024-12-20T20:56:10.168Z
+updated: 2024-12-28T03:35:34.593Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,11 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 2. Alternatively, you can also open Run by pressing **Win** \+ **R** and type **cmd** in the text field. Press **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.  
 ![Run dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/accessing-cmd-through-run-box.jpg)
 3. Click **Yes** in the User Account Control prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Type the following command in the Command Prompt window and hit **Enter** to execute it. Make sure to replace the \[location\] with the location where you want to create multiple folders.  
 `cd /d [location]`
 5. For instance, if we want to create folders in the C:\\users\\hp\\documents folder, we will execute the command like cd /d C:\\users\\hp\\documents.  
@@ -60,7 +65,15 @@ thumbnail: https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ec
 `md "january", "february", "march", "april"`  
 ![File names command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-terminal-md-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, close the Powershell window and check if the folders have been created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
@@ -79,6 +92,11 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
 7. Click **OK** and close the Notepad.
@@ -87,8 +105,9 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use a Third-Party Application
 
  Last but not least, if you think using Command Prompt and Notepad is too time-consuming, you can try using a third-party application.
@@ -108,19 +127,14 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 3. Click **Yes** in the confirmation prompt.  
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create Multiple Folders in a Few Clicks on Windows
 
  Creating several folders manually is a mundane task, and you can spend the same energy doing something more productive. The steps we have outlined above should help you automate this task, saving time for things that actually bring in some value.
@@ -129,11 +143,31 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
  There is more than one method of creating multiple files and folders in Windows, and we have outlined the best ways of doing so for you below. Read through the methods and proceed with the one you want.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-stealthy-facebook-video-navigator/"><u>[Updated] 2024 Approved Stealthy Facebook Video Navigator</u></a></li>
+<li><a href="https://win-able.techidaily.com/advanced-youtube-format-shifter-extreme-effortlessly-convert-your-favorite-youtube-videos-to-various-video-standards/"><u>Advanced YouTube Format Shifter Extreme: Effortlessly Convert Your Favorite YouTube Videos to Various Video Standards</u></a></li>
+<li><a href="https://win11.techidaily.com/condensed-explore-streamline-your-file-explorer-layout/"><u>Condensed Explore: Streamline Your File Explorer Layout</u></a></li>
+<li><a href="https://some-tips.techidaily.com/first-look-at-the-dji-mini-3-pro-the-ultimate-tiny-drone-for-stealthy-aerial-photography-with-integrated-battery-charger-gadgethub-zdnet/"><u>First Look at the DJI Mini 3 Pro – The Ultimate Tiny Drone for Stealthy Aerial Photography with Integrated Battery Charger | GadgetHub ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 11 Pro Max | Stellar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-invalid-computer-name-alert-on-win11/"><u>How to Rectify Invalid Computer Name Alert on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/interactive-synergy-windows-now-on-iphone-ipad-mac-and-desktop-platforms/"><u>Interactive Synergy: Windows Now on iPhone, iPad, Mac, and Desktop Platforms</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/is-it-time-to-air-fb-videos-on-traditional-screens-for-2024/"><u>Is It Time to Air FB Videos on Traditional Screens for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/key-strategies-for-accessing-disk-management-in-win-1011/"><u>Key Strategies for Accessing Disk Management in Win 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/level-up-your-experience-how-to-stop-diablo-4-from-crashing-on-pc-ps5-and-xbox-systems/"><u>Level Up Your Experience: How to Stop Diablo 4 From Crashing on PC, PS5 & Xbox Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/make-office-automatically-open-attached-files-as-text-only/"><u>Make Office Automatically Open Attached Files as Text Only</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-coding-redemption-xbox-edition/"><u>Master the Art of Coding Redemption: Xbox Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-no-access-error-securing-file-viewer-rights/"><u>Overcoming Windows' No Access Error: Securing File Viewer Rights</u></a></li>
+<li><a href="https://games-able.techidaily.com/premium-blue-light-reducer-sunglasses/"><u>Premium Blue Light Reducer Sunglasses</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-updating-and-downloading-microsoft-drivers-for-windows-11-8-and-7/"><u>Simple Guide: Updating and Downloading Microsoft Drivers for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-swiftly-solve-steam-installation-woes-win11-edition/"><u>Strategies to Swiftly Solve Steam Installation Woes, Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-navigate-win11s-bluescreen-by-adopting-these-tips/"><u>Swiftly Navigate Win11's Bluescreen by Adopting These Tips</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Tell the Age of a Windows Laptop or Desktop
-date: 2024-08-28T00:55:10.515Z
-updated: 2024-08-29T00:55:10.515Z
+date: 2024-12-24T20:56:34.159Z
+updated: 2024-12-28T02:24:52.026Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 ![HP warranty status details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-warranty-status-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows laptops often come with their serial numbers and other manufacturing details like Made, Product ID, and model number imprinted on the back panel. Each laptop features a unique serial identifier.
 
  You can use this information to check your Windows computer's warranty. The warranty status gives a better idea of the system's age than checking the manufactured date.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0cc9ca6810c238dfdd969844d2250493a479c3321
 
 ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
 
  To view the Windows laptop's serial number using Command Prompt:
@@ -57,9 +65,6 @@ wmic bios get serial number
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
  To check the BIOS version:
@@ -91,56 +96,50 @@ systeminfo | find /I "install date"
  The command will filter and only display the original install date from the System Information summary page.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
 
  Open Task Manager on Windows and click the Performance tab. Next, select the CPU tab to view the CPU make in the top right corner. A quick search on the web for the model number should reveal the year of making and hardware compatibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the OEM Tool to Detect the Laptop's Age
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Tell Your Desktop Computer Age
 
  You can use the above method to identify the age of a factory-built desktop computer. However, the same doesn't apply to a custom-built PC.
 
  You can run the System Information utility on the PC to extract CPU, GPU, memory, storage drive, and network component information. For everything else, you'll need to perform a manual inspection to find the serial number and see the condition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## The PC Components or Laptop Age is Not Everything
 
  While a newer computer tends to be more reliable and less likely to go kaput, age is not everything. Some manufacturers tend to release newer systems with last-generation components in their affordable machines. These systems can work for years without any issues.
 
  A second-hand computer buying decision must be made keeping the computer's age and condition in mind. A two-year-old computer used for office work and casual browsing will likely serve you better than a one-year-old device used for crypto mining.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -149,4 +148,18 @@ systeminfo | find /I "install date"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>[New] No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-guide-for-gopro-live-streams-to-social-media-hubs-for-2024/"><u>[New] The Essential Guide for GoPro Live Streams to Social Media Hubs for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/assessing-the-need-for-a-new-graphics-card-insights-from-yl-computing/"><u>Assessing the Need for a New Graphics Card: Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/8-mirrorless-cameras-to-elevate-your-vlogging-game-for-2024/"><u>Best 8 Mirrorless Cameras to Elevate Your Vlogging Game for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dim-your-screen-with-windows-calculation-app/"><u>Dim Your Screen with Windows Calculation App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211240822-9781416546375-frequency/"><u>Frequency | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-windows-11-photo-app-crafting-impeccable-slideshows-and-fixes/"><u>Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/installing-windows-10-a-comprehensive-tutorial-for-brand-new-drives/"><u>Installing Windows 10: A Comprehensive Tutorial for Brand New Drives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-solutions-transforming-photos-into-videos/"><u>Leading Solutions Transforming Photos Into Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-invisible-additional-monitor/"><u>Overcome Invisible Additional Monitor</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-error-code-0x87e00017-in-ms-store-downloads/"><u>Overcoming Error Code 0X87e00017 in MS Store Downloads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Leveraging Latest Features for Taskbar in Win11
-date: 2024-08-28T00:55:05.826Z
-updated: 2024-08-29T00:55:05.826Z
+date: 2024-12-20T19:45:52.981Z
+updated: 2024-12-28T01:13:16.344Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,25 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are the Enhanced Taskbar Settings in Windows 11?
 
  The first major change is the removal of the [Microsoft Teams](https://www.makeuseof.com/what-is-microsoft-teams-my-day/) chat icon from the Taskbar. Until now, there was only an option to hide the tool from the Taskbar. Despite its popularity in the business landscape, the Teams app has very little usage for the rest of Windows users. So, completely removing the icon and its traces from the Settings app is a change that most users will like.
 
 ![Old Taskbar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-taskbar-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  But that won’t remove the Teams app entirely. You will have to uninstall it manually to get rid of it. The Search Box is also getting a few improvements. It will get a dedicated section in the Taskbar setting with an option to launch whenever you hover over it. All these hidden changes can be revealed using the ViveTool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Multiple Taskbar Settings in Windows 11
 
@@ -60,15 +72,18 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 ![Search Box Events Popup in Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/search-box-events-popup-in-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Teams Chat Icon Is Gone For Good
 
  Not everyone needs the pre-packaged apps in Windows 11 that Microsoft is so confident about. Removing the Teams Chat icon is a commendable change, and we hope that it makes it to the final preview and stable channels as well. Apart from that, the changes to Taskbar settings will make it customizable for end users.
 
  In a surprising move, Microsoft removed the Teams icon and the option to adjust its presence on the Taskbar, as seen in a new Insider Dev build. Along with that, there are a couple of changes to the Search Box as well. Curious? Let’s begin.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -76,3 +91,21 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-3dr-the-soloists-voyage-in-3d-printing-tech-for-2024/"><u>[New] '3DR' The Soloist’s Voyage in 3D Printing Tech for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-maximizing-video-quality-in-steam-game-recording/"><u>[Updated] Maximizing Video Quality in Steam Game Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-online-persona-transformation-rendering-your-cartoon-self/"><u>2024 Approved Online Persona Transformation Rendering Your Cartoon Self</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-systems-dragging-anomalies-in-win11/"><u>Cure Your System's Dragging Anomalies in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-google-drive-not-syncing-in-windows/"><u>Essential Fixes for Google Drive Not Syncing in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Nokia C12 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-any-video-trend-on-youtube-top-8-tips/"><u>How To Make Any Video Trend On YouTube – Top 8 Tips!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-x-flip-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo X Flip online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0x80300024/"><u>Resolving Windows Error Code: 0X80300024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transform-videos-with-tiktok-effects/"><u>Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-with-win-graphics-by-using-these-1-6-tools/"><u>Triumph with Win Graphics by Using These #1-#6 Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Tips: Resolving Issues with Your Razer Blackshark V2 Microphone</u></a></li>
+<li><a href="https://win11.techidaily.com/unexpected-freezes-resolved-for-players-of-tribes-of-midgard/"><u>Unexpected Freezes Resolved for Players of 'Tribes of Midgard'</u></a></li>
+</ul></div>
+

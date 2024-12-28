@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 10/11 Failure Codes
-date: 2024-08-28T00:51:22.987Z
-updated: 2024-08-29T00:51:22.987Z
+date: 2024-12-25T23:55:34.635Z
+updated: 2024-12-27T23:52:54.816Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,15 @@ thumbnail: https://thmb.techidaily.com/da3401fb2ac78eb6ea2665b0f0063719a28f111af
 
 ![advanced options windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Startup Repair tool will sift through your PC for possible issues with your Windows 10 or 11 and then start fixing them one by one. After the scan and repair are complete, give your PC a quick reboot and see if this fixes the error code 0xc0000001 on your Windows computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
 
@@ -49,13 +57,14 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Unplug All External Devices
 
  As we always say, the most straightforward fixes are often the most neglected. If you have tried your hand at the above methods (and failed), before you move on to more complex solutions, we recommend you try out this simple fix first: unplug all your external devices and then plug them in again.
@@ -65,8 +74,9 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  So, unplug the devices, save your keyboard and mouse, and see if you still face the Windows error code 0xc0000001\.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Boot Into Safe Mode
 
  A popular method to fix all kinds of BSOD errors is to boot into the Safe mode. Now, the Safe mode itself won’t fix the problem. Instead, you will have to go through several more steps after you are inside it.
@@ -75,53 +85,39 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  If you see that disabling a specific program has fixed the error code 0xc0000001 problem, it’s highly probable the said app was behind it. In this case, uninstall the software while in Safe mode and reboot your PC normally—it will boot up quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Perform a Windows System Restore
 
  System Restore is yet another handy tool in your Windows computer. In brief, it works by bringing your PC back to a point in time when everything worked fine on your Windows.
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Malware Scan
 
  As is always the case with anything tech, malware can lead to all sorts of problems with the functioning of your PC. Indeed, malware can appear out of nowhere and raise all kinds of havoc on your Windows; and the booting issues by a BSOD are one of many such issues.
 
  A [quick malware scan by Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is a surefire way to rule out this possibility for good.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Perform a CHDSK Scan
 
  Another handy utility to carry in your Windows fix-it toolkit, the CHKDSK utility works by scanning—and then fixing—a variety of issues with your Windows hard drive.
 
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Factory Reset Your Windows
 
  If all fails, you will always have the Factory reset of your Windows as the last resort. Of course, it goes without saying that, like all resorts, you should only turn to it if your fixes have yet to work.
 
  There are [many ways to factory reset your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). So pick whatever method suits you best and then start fresh from ground zero.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Fixing the Error Code 0xc0000001 on Windows Computer
 
  Getting your PC stuck in a BSOD error can be irksome. Things are no different in the case of error code 0xc0000001 on Windows 10 or 11\. Out of the many methods we have laid down above, one of them will fix your PC and get everything back to normal in no time.
 
  While the debilitating error can cause scores of hiccups in your workflow, nothing can’t be fixed with a few Windows tricks. To that end, here are some of the best ways to improve the error code 0xc0000001 on your Windows 10 or 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -129,3 +125,21 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-classic-calls-a-curated-list-of-tone-downloading-sites/"><u>[Updated] Classic Calls A Curated List of Tone Downloading Sites</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-visual-hub-star-quality-vids-and-praise/"><u>Cosmic Visual Hub: Star-Quality Vids & Praise</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-execution-descriptors-in-software-life-cycles/"><u>Deciphering Execution Descriptors in Software Life Cycles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/following-fades-track-losses-on-insta-for-2024/"><u>Following Fades Track Losses on Insta for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-solutions-for-non-functional-xbox-in-windows/"><u>Immediate Solutions for Non-Functional Xbox in Windows</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-direct-engagement-broadcast-from-twitch-to-facebook-friends/"><u>In 2024, Direct Engagement Broadcast From Twitch to Facebook Friends</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hololens-analysis-a-3d-interface-revolution-by-microsoft/"><u>In 2024, HoloLens Analysis A 3D Interface Revolution by Microsoft</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-imovie-hacks-for-unique-and-memorable-youtube-openers/"><u>In 2024, IMovie Hacks for Unique and Memorable YouTube Openers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-os-stability-the-four-pct-approach/"><u>Mastering OS Stability: The Four PCT Approach</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-excessive-ram-use-solutions-for-service-platforms-on-pcs/"><u>Reducing Excessive RAM Use: Solutions for Service Platforms on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-printing-service-on-pc-post-error-alert-in-windows/"><u>Restoring Printing Service on PC, Post Error Alert in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-web-woes-7-simple-solutions-for-site-shutdown-syndrome/"><u>Windows Web Woes? 7 Simple Solutions for Site Shutdown Syndrome</u></a></li>
+</ul></div>
+

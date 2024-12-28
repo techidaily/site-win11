@@ -1,7 +1,7 @@
 ---
 title: Remedy for Invisible HDD in PCs
-date: 2024-12-21T16:26:30.467Z
-updated: 2024-12-22T17:30:18.161Z
+date: 2024-12-24T18:09:08.432Z
+updated: 2024-12-27T22:03:10.078Z
 tags:
   - windows10
   - windows11
@@ -29,26 +29,30 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 ![external hard drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/external-hard-drive.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have recently connected a new external hard drive to your PC, it can lead you to all sorts of problems. Indeed, the hard drive detection error on your Windows might be caused just because of that. While plugging in external devices to Windows is second nature to most of us, it can definitely leave us at a hard drive failure for various reasons: an incompatibility issue, driver conflicts, hardware faults, and so on.
 
  So, in cases like this, we recommend you unplug the external hard drive and plug it back in again later.
 
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check the Hardware Connection
 
 ![man fixing a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-fixing-a-computer-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like any technical system, the hardware connections in your PC can go awry at times. In the case of your hard drive, a loose wire or a faulty port can leave you with a defective hard drive connection on your PC.
 
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Drive's Formatting to NTFS
@@ -71,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Similarly, your PC's motherboard also needs a driver to work. So give it a check as well while you're at it and see if you still face the same error again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Check for Disk Errors on Your PC
 
  Disk errors on Windows can seemingly appear out of nowhere. They can drop in for various reasons: [bad sectors on hard drives](https://www.makeuseof.com/tag/what-are-bad-sectors-and-how-can-you-fix-them-part-1/), file system corruptions, hardware issues of all sorts, and so on.
@@ -78,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  So, if you are facing a sudden disk error, a quick CHKDSK scan is well worth the try to get your things back on track once again. Check out [how to run CHKDSK on Windows](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) if you need help with this.
 
  Now reboot your PC to solidify the changes and see if you are still left with the hard drive detection error on your Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Use the Disk Management Tool
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Click on **Finish** to finalize the setup and then see if you are still left with your hard drive error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Format an Allocated Partition
 
  Only see this as a sort of nuclear option, as you will lose all your previous data from the selected drive. To begin the format, right-click on the partition and choose **Format**.
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Your Hard Drive Detection Issues on Your Windows
@@ -135,27 +135,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  While hard drive errors primarily arise out of some hardware malfunction, other lighter causes can also be behind them in some cases. Thankfully, we have many tricks that can work in situations like that. So, jump right in and look at all the ways you can fix your hard drive error issues on your Windows.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-5-ways-to-record-streaming-audio-online/"><u>[New] In 2024, 5 Ways to Record Streaming Audio Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-tips-to-enhance-screen-brightness-of-youtube-videos/"><u>[New] Tips to Enhance Screen Brightness of YouTube Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlock-the-secrets-of-effortless-editing-for-windows-11-videos/"><u>[Updated] Unlock the Secrets of Effortless Editing for Windows 11 Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-dizzy-with-design-mastering-upside-down-imagery/"><u>2024 Approved Dizzy with Design Mastering Upside Down Imagery</u></a></li>
-<li><a href="https://win11.techidaily.com/adapting-windows-lockscreen-for-user-preferences/"><u>Adapting Windows Lockscreen for User Preferences</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/going-pro-with-gs-effects-exclusive-free-lessons-from-4-premier-video-channels/"><u>Going Pro with GS Effects Exclusive Free Lessons From 4 Premier Video Channels</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone XR</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Passcode Screen?</u></a></li>
-<li><a href="https://win11.techidaily.com/in-a-nutshell-how-to-spot-your-pcs-ram-quickly/"><u>In a Nutshell: How to Spot Your PC's RAM Quickly</u></a></li>
-<li><a href="https://win-tips.techidaily.com/integrating-your-ios-device-with-windows-11-a-comprehensive-guide-to-enhanced-cross-platform-syncing/"><u>Integrating Your iOS Device with Windows 11: A Comprehensive Guide to Enhanced Cross-Platform Syncing</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-devices-aesthetics-using-microsoft-store-themes/"><u>Optimizing Your Device's Aesthetics Using Microsoft Store Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise:</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-from-self-restarting-frequently/"><u>Stop Windows 11 From Self-Restarting Frequently</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-chrome-profile-errors-for-windows-users/"><u>Unraveling Chrome Profile Errors for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-tecno-spark-go-2023-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Tecno Spark Go (2023) Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +142,21 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-video-without-audible-elements/"><u>[New] In 2024, Mastering Video Without Audible Elements</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-minimugger-report-onscreen-snaps-reviewed/"><u>[New] In 2024, MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-best-10-vector-stock-pools/"><u>[Updated] 2024 Approved Navigating the Best 10 Vector Stock Pools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-color-cutting-edge-the-basics-of-green-screen-filming-for-newbies-for-2024/"><u>[Updated] Color Cutting Edge The Basics of Green Screen Filming for Newbies for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-steam-file-transfers-in-windows-pc/"><u>Ensuring Smooth Steam File Transfers in Windows PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/full-featured-winx-dvd-ripper-platinum-with-official-licensing-and-complimentary-upgrade/"><u>Full-Featured WinX DVD Ripper Platinum with Official Licensing and Complimentary Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-zero-empty-directory-error-in-windows-11-and-11/"><u>How to Overcome Zero-Empty Directory Error in Windows 11 & 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-graphics-4400-driver-update-available-get-it-here/"><u>Intel Graphics 4400 Driver Update Available – Get It Here</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-rectifying-windows-network-failure-0x800704b3/"><u>Navigating and Rectifying Windows' Network Failure: 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-gameplay-in-win-11-navigating-the-leading-fps-apps-and-monitors/"><u>Optimal Gameplay in Win 11: Navigating the Leading FPS Apps & Monitors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-strategies-for-adjusting-song-speed-on-spotify/"><u>Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
+</ul></div>
+

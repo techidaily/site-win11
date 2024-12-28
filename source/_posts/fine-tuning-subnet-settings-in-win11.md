@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Subnet Settings in Win11
-date: 2024-12-17T16:39:59.807Z
-updated: 2024-12-22T17:39:37.036Z
+date: 2024-12-22T06:20:34.552Z
+updated: 2024-12-28T04:58:47.865Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Find the Subnet Mask in Windows 11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
  The steps to do it using Windows PowerShell are similar to the Command Prompt. To do it,[open Windows PowerShell with admin rights](https://www.makeuseof.com/windows-11-powershell-administrator/) , type the ipconfig /all command, and press Enter.
 
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Subnet Mask in Windows 11
 
@@ -59,13 +63,13 @@ Here's how to do it:
 ![Edit button in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-button.jpg)
 4. In the prompt that crops up, click on the drop-down icon and choose**Manual.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Enable the toggle next to the IP version you're using.
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Change the Subnet Mask Using the Control Panel
 
@@ -84,11 +88,11 @@ Here's how to do it:
 8. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
@@ -105,10 +109,6 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -131,15 +131,18 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-stealthy-sound-softening-with-garageband/"><u>[New] Stealthy Sound Softening with Garageband</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-creativity-unlimited-samples-of-50-youtube-banners-for-free/"><u>[New] Unleash Creativity Unlimited Samples of 50 YouTube Banners for Free</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-jvm-not-created-a-windows-solution/"><u>Addressing JVM Not Created: A Windows Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-speed-identifying-your-gpu-on-windows-11-os/"><u>Boost Speed: Identifying Your GPU on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-functionality-of-taskbar-in-modern-win11/"><u>Boosting Functionality of Taskbar in Modern Win11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/free-eco-templates-for-video-creation-for-2024/"><u>Free Eco Templates for Video Creation for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1719350786682-operas-plight-unleash-it-from-windows-freeze/"><u>Opera's Plight? Unleash It From Windows Freeze</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1080511-9781743341315-the-big-book-of-astrology-2013/"><u>The Big Book of Astrology 2013 | Free Book</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-error-4013-on-iphone-updaterestore/"><u>Troubleshooting Guide: Resolving Error 4013 on iPhone Update/Restore</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-next-level-experience-in-metaverse-with-top-8-accessories/"><u>[New] In 2024, Next-Level Experience in Metaverse with Top 8 Accessories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/irthful-moments-the-10-funniest-youtube-short-film-ideas-ever-for-2024/"><u>[New] Mirthful Moments The 10 Funniest YouTube Short Film Ideas Ever for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-covert-concepts-in-composing-captivating-images/"><u>[Updated] Covert Concepts in Composing Captivating Images</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-removing-extra-spaces-with-excels-trim-function-essential-techniques-for-microsoft-excel-users/"><u>Efficiently Removing Extra Spaces with Excel's TRIM Function - Essential Techniques for Microsoft Excel Users</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-calculation-tricks-utilizing-the-paste-special-tool-for-summation-and-product-operations-in-ms-excel/"><u>Effortless Calculation Tricks: Utilizing the Paste Special Tool for Summation & Product Operations in MS Excel</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-expectations-innovative-gift-box-experiences/"><u>Elevating Expectations Innovative Gift Box Experiences</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-excel-visualizations-adding-personalized-data-labels-easily/"><u>Enhance Your Excel Visualizations: Adding Personalized Data Labels Easily!</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-formula-integrity-in-excel-spreadsheets-top-tips-and-techniques/"><u>Ensuring Formula Integrity in Excel Spreadsheets: Top Tips and Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-best-reading-apps-of-2024-our-favorite-picks/"><u>Exploring the Best Reading Apps of 2024: Our Favorite Picks!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10c-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark 10C Bootloader Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-noctuas-latest-innovations-the-impressive-home-series-featuring-the-star-attraction-affordable-100-nv-fs1-desk-ventilator/"><u>Introducing Noctua's Latest Innovations: The Impressive Home Series, Featuring the Star Attraction - Affordable $100 NV-FS1 Desk Ventilator</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/by-step-guide-to-creating-popular-youtube-openings-for-2024/"><u>Step-by-Step Guide to Creating Popular YouTube Openings for 2024</u></a></li>
 </ul></div>
 

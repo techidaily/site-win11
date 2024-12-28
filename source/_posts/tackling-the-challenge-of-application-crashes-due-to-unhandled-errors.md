@@ -1,7 +1,7 @@
 ---
 title: Tackling the Challenge of Application Crashes Due to Unhandled Errors
-date: 2024-12-18T17:36:42.852Z
-updated: 2024-12-22T17:37:47.479Z
+date: 2024-12-24T19:38:15.546Z
+updated: 2024-12-27T21:00:47.608Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  So let's explore the fixes you can try to quickly resolve this error and get back to working smoothly again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install the Latest Windows Updates
 
  You would be aware that Microsoft regularly releases updates for the Windows OS. It's important to[keep your Windows PC updated and running the latest version](https://www.makeuseof.com/windows-update-new-version-releases-reasons/) to continue enjoying a hassle-free computing experience.
@@ -47,19 +51,11 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  To ensure that, check out the ways how you can[install Windows updates on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-updates/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan for Malware Using Microsoft Defender or Your Antivirus
 
  There is a possibility that the "Unhandled exception has occurred in your application" error could be caused by malware. To rule that out, you should scan your computer with the inbuilt Microsoft Defender antivirus.
 
  Check out our guide to learn[how to scan your PC for malware with the Microsoft Defender](https://www.makeuseof.com/windows-11-quick-security-guide/) . Or if you've installed a third-party antivirus on your PC, use that to scan for malware.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run the .NET Framework Repair Tool
 
@@ -73,6 +69,11 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 2. In the License window that opens, tick the**I have read and accept the license terms** checkbox. Then click**Next** .  
 ![.NET Framework Repair Tool License Terms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-tool-license-terms.jpg)
 3. The tool will start**Detecting issues** and then a window with**Recommended Changes** will open up. Review the recommended changes and click**Next** to apply them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Recommended Changes by .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes.jpg)
 4. Once the changes are made, the**Changes complete** window will appear. Click on**Finish** .  
 ![Changes Complete Window of .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes-complete.jpg)
@@ -86,22 +87,24 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Turn-Windows-Features-On-Or-Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off.jpg)
 2. In the Windows Features window, you'll see the**.NET Framework 3.5** and**.NET Framework 4.8** **Advanced Services** . If the box next to .NET Framework 3.5 is not filled, click in the checkbox to fill it and then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable. NET Framework 3.5 in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-net-framework-1.jpg)
 3. The next window might alert you that **Windows needs some files from Windows Updates to finish installing some features** . Select the option**Let Windows Update download the files for you** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
 4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use System File Checker on Windows
@@ -129,18 +132,22 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-navigating-through-gopros-burst-recording-options/"><u>[New] 2024 Approved Navigating Through GoPro's Burst Recording Options</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[New] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-10-border-tools-for-professional-instagram-images/"><u>[Updated] 2024 Approved Top 10 Border Tools for Professional Instagram Images</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-shorts-success-top-10-steps-to-stand-out/"><u>[Updated] 2024 Approved Youtube Shorts Success - Top 10 Steps to Stand Out</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ensuring-perfect-fb-live-recordings-a-guide-to-4-ways-for-2024/"><u>[Updated] Ensuring Perfect FB Live Recordings A Guide to 4 Ways for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-the-path-to-wealthy-video-creators-via-vimeos-revenue-streams-for-2024/"><u>[Updated] Navigating the Path to Wealthy Video Creators via Vimeo's Revenue Streams for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-local-lsa-deactivated-warning/"><u>Bypassing 'Local LSA Deactivated' Warning</u></a></li>
-<li><a href="https://win11.techidaily.com/cease-use-of-voice-recognition-ai-on-windows/"><u>Cease Use of Voice Recognition AI on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-confusion-how-to-fix-0x8007045d-blue-screen-in-win11/"><u>Clearing Up Confusion: How to Fix 0X8007045d Blue Screen in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-win10-fix-invalid-network-path/"><u>Clearing Up Win10: Fix Invalid Network Path</u></a></li>
-<li><a href="https://solve-help.techidaily.com/download-and-install-the-ultimate-windows-media-codec-suite-for-win10win11/"><u>Download & Install the Ultimate Windows Media Codec Suite for Win10/Win11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpt-in-action-everyday-scenarios-explored/"><u>GPT in Action: Everyday Scenarios Explored</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-podcast-entry-in-apples-catalog-for-2024/"><u>Perfecting Your Podcast Entry in Apple's Catalog for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-macs-best-screen-capturing-apps-and-tech/"><u>[New] Navigating Mac's Best Screen Capturing Apps & Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-grasping-video-clarity-the-first-lessons-on-hd/"><u>[Updated] Grasping Video Clarity The First Lessons on HD</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-engage-and-enthrall-viewers-gaming-via-obs-studio/"><u>2024 Approved Engage and Enthrall Viewers Gaming via OBS Studio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-ephemeral-insights-into-fb-episodes/"><u>2024 Approved Ephemeral Insights Into FB Episodes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grandest-directors-trailers/"><u>2024 Approved Grandest Director's Trailers</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-zero-error-win11s-onedrive-sign-in-woes-eliminated/"><u>Conquering Zero-Error: Win11's OneDrive Sign-In Woes Eliminated</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-successfully-fix-windows-update-error-xc004f050/"><u>How to Successfully Fix Windows Update Error XC004F050</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-free-film-resource-highlights-where-to-start-your-search/"><u>In 2024, Free Film Resource Highlights Where to Start Your Search</u></a></li>
+<li><a href="https://win-able.techidaily.com/level-up-your-war-thunder-play-essential-tips-and-tricks-for-a-lag-free-experience-fps-boosting-guide/"><u>Level Up Your War Thunder Play: Essential Tips & Tricks for a Lag-Free Experience (FPS Boosting Guide )</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-windows-entry-status-victory-or-defeat-stories/"><u>Probing Windows Entry Status: Victory or Defeat Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/retuning-windows-11-energy-settings-from-loss/"><u>Retuning Windows 11 Energy Settings From Loss</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/speaking-like-a-pro-tips-to-upgrade-your-google-meet-skills-for-2024/"><u>Speaking Like a Pro Tips to Upgrade Your Google Meet Skills for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-verifying-your-windows-11-temp-files/"><u>Steps for Verifying Your Windows 11 Temp Files</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failed-connections-between-win10win11-and-nvidia/"><u>Tackling Failed Connections Between Win10/Win11 and Nvidia</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-windows-n-versions-decision-making-factors/"><u>The Essence of Windows N Versions: Decision-Making Factors</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-high-resource-consumption-due-to-unrealcefsubprocess/"><u>Troubleshooting Windows' High Resource Consumption Due to UnrealCEFSubprocess</u></a></li>
 </ul></div>
 

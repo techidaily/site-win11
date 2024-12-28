@@ -1,7 +1,7 @@
 ---
 title: Streamline Your Windows 11 Search with These Tips
-date: 2024-08-28T00:52:21.038Z
-updated: 2024-08-29T00:52:21.038Z
+date: 2024-12-21T19:12:08.156Z
+updated: 2024-12-27T20:22:55.485Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  Choose any of the**SafeSearch** categories, depending on the level of filtering you want to apply to your search.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Include Search Results From Your Other Accounts
 
  Content from accounts connected to Windows Search on your device is also included in your search results. In addition, Windows Search lets you manage these connected accounts to change the search experience on your PC.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 ![Screenshot of windows search on taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-search-on-taskbar.jpg)
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
@@ -72,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
  Results from the Windows search will often bring up previews of web results. If you find this a bit confusing, you can exclude web search results to streamline your search to only local results from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Enable App Launch Tracking
 
  Enabling app launch tracking on your PC lets Windows monitor the apps you frequently use to improve your search results. Thus, you can access these apps easily, especially from the start menu.
@@ -84,11 +89,13 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -102,35 +109,30 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Harnessing the Power of Windows Search
 
  Search tools make finding things much easier, and your Windows 11 PC is no exception. With a few tweaks, you can improve search results on your PC and take your experience to a whole different level.
 
  Windows 11 brings even more improvements to the search feature. Aside from being able to access it right from the taskbar, it also brings you the power of search highlights, with more content and insights to your search.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +141,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevate-videography-quality-top-7-sound-effects-pick/"><u>[Updated] In 2024, Elevate Videography Quality Top 7 Sound Effects Pick</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-different-day-without-daily-updates-on-fb/"><u>A Different Day Without Daily Updates on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/captureit-all-revisiting-recordmax-users-for-2024/"><u>CaptureIt All! Revisiting 'RecordMax' Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/disable-tracking-of-application-commands-in-windows/"><u>Disable Tracking of Application Commands in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Infinix Smart 7 HD? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/erreur-systematique-fichier-inaccessible-quelles-mesures-a-suivre/"><u>Erreur Systématique : Fichier Inaccessible, Quelles Mesures À Suivre?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-securely-download-and-install-corsair-void-pro-drivers-on-windows-in-minutes/"><u>How To Securely Download And Install Corsair Void Pro Drivers on Windows - In Minutes!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-w10w11-error-code-e1/"><u>How to Stop W10/W11 Error Code E1</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-default-pdf-application-for-windows/"><u>Modifying Default PDF Application for Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/photographic-resurrection-a-safe-approach-to-restore-lost-images-on-an-iphone/"><u>Photographic Resurrection: A Safe Approach to Restore Lost Images on an iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnected-from-wi-filan/"><u>Resolving: Disconnected From Wi-Fi/LAN</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-stop-random-microsoft-store-launches/"><u>Tips to Stop Random Microsoft Store Launches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-why-apples-new-m2-ipad-air-is-your-ideal-choice-expert-insights-from-zdnet/"><u>Ultimate Guide: Why Apple's New M2 iPad Air Is Your Ideal Choice - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-launch-failed-lunar-client-error-on-pc/"><u>Unblocking Launch Failed: Lunar Client Error on PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways</u></a></li>
+</ul></div>
 

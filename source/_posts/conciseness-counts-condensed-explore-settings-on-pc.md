@@ -1,7 +1,7 @@
 ---
 title: "Conciseness Counts: Condensed Explore Settings on PC"
-date: 2024-12-18T16:09:49.691Z
-updated: 2024-12-22T16:32:42.995Z
+date: 2024-12-24T03:34:59.525Z
+updated: 2024-12-28T06:31:05.259Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
  That's it. You might need to restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
@@ -58,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,24 +112,24 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-from-boring-to-breathtaking-transforming-podcast-blurbs/"><u>[Updated] 2024 Approved From Boring to Breathtaking Transforming Podcast Blurbs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-horizon-captured-which-camera-takes-the-lead-for-2024/"><u>[Updated] Horizon Captured Which Camera Takes the Lead for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>[Updated] In 2024, Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ultimate-3d-experience-guide-to-top-blu-ray-players/"><u>[Updated] In 2024, Ultimate 3D Experience Guide to Top Blu-Ray Players</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-reducing-jitter-in-visual-content-creation/"><u>2024 Approved Reducing Jitter in Visual Content Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/address-extra-monitor-issue-on-w11-os/"><u>Address Extra Monitor Issue on W11 OS</u></a></li>
-<li><a href="https://win-lab.techidaily.com/browser-hygiene-best-practices-how-regularly-should-you-purge-history-and-cookies-advice-by-yl-computing-experts/"><u>Browser Hygiene Best Practices: How Regularly Should You Purge History and Cookies? Advice by YL Computing Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/dont-double-dip-the-case-against-two-antiviruses/"><u>Don't Double Dip: The Case Against Two Antiviruses</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
-<li><a href="https://win11.techidaily.com/keygen-threat-explained-windows-impact-and-cleanup-tips/"><u>Keygen Threat Explained: Windows Impact and Cleanup Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/linuxs-rise-is-wsl-a-factor/"><u>Linux's Rise: Is WSL a Factor?</u></a></li>
-<li><a href="https://win11.techidaily.com/merrymaking-with-gifted-windows-apps-on-xmas-day/"><u>Merrymaking with Gifted Windows Apps on Xmas Day</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-the-bar-pivotal-youtube-seo-enhancers/"><u>Raise the Bar Pivotal YouTube SEO Enhancers</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-hardware-requirements-for-games/"><u>Resolving Windows Hardware Requirements for Games</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-protection-enable-windows-11s-controlling-access/"><u>Setting Up Protection: Enable Windows 11’S Controlling Access</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-windows-technique-for-mkv-to-mp4-change/"><u>Step-by-Step Windows Technique for MKV to MP4 Change</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-gear-use-windows-widgets-for-efficiency/"><u>Streamlining Your Gear Use: Windows Widgets for Efficiency</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-leaderboard-of-first-zeoid-innovations/"><u>The Leaderboard of First Zeoid Innovations</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-when-red-dead-redemption-2-fails-to-start-on-your-computer/"><u>Troubleshooting Steps When Red Dead Redemption 2 Fails to Start on Your Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-zoom-meetings-for-beginners-a-comprehensive-introduction-guide/"><u>[New] 2024 Approved Zoom Meetings for Beginners A Comprehensive Introduction Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-tuneful-images-the-apple-fusion-method/"><u>[Updated] 2024 Approved Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-mastering-youtube-videos-without-spending-a-dime-with-the-8-best-tools/"><u>2024 Approved Mastering YouTube Videos Without Spending A Dime - With the 8 Best Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-reel-in-viewers-mastery-of-live-360-video-broadcasts-on-youtube/"><u>2024 Approved Reel In Viewers Mastery of Live 360 Video Broadcasts on Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-launch-here-are-the-solutions-you-need/"><u>Baldur's Gate 3 Won't Launch? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://win11.techidaily.com/curtail-self-starting-file-explorer-behavior/"><u>Curtail Self-Starting File Explorer Behavior</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-4-windows-apps-for-easy-webp-viewing/"><u>Discover the Leading 4 Windows Apps for Easy WebP Viewing</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-productivity-through-win11-workspace-customization/"><u>Enhancing Productivity Through Win11 Workspace Customization</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-insignia-bluetooth-adapter-software-upgrade-for-windows-users/"><u>Get the Newest Insignia Bluetooth Adapter Software Upgrade for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-your-windows-10-key-top-value-strategies/"><u>Harness Your Windows 10 Key: Top Value Strategies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-airborne-warriors-meet-dji-mavic-2-and-hero5-black/"><u>In 2024, Airborne Warriors Meet DJi Mavic 2 & HERO5 Black</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a34-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A34 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-the-dxgi-device-removal-issue/"><u>Mitigating the DXGI Device Removal Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-troubleshooting-for-dead-wireless-mice-in-windows-os/"><u>Quick Troubleshooting for Dead Wireless Mice in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-ram-settings-for-optimal-speed/"><u>Resetting RAM Settings for Optimal Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-overcoming-package-access-problems-in-ws11ws10/"><u>Step-by-Step Guide to Overcoming Package Access Problems in WS11/WS10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-ensure-complete-ram-utilization-by-windows-os/"><u>Strategies to Ensure Complete RAM Utilization by Windows OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/utilizing-zooms-snap-functionality-for-2024/"><u>Utilizing Zoom's Snap Functionality for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wondering-about-chatgpt-plus-discover-5-compelling-reasons-to-enroll-today/"><u>Wondering About ChatGPT Plus? Discover 5 Compelling Reasons to Enroll Today!</u></a></li>
 </ul></div>
 

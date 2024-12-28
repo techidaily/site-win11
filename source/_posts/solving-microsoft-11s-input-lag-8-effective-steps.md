@@ -1,7 +1,7 @@
 ---
 title: "Solving Microsoft 11'S Input Lag: 8 Effective Steps"
-date: 2024-08-28T00:53:17.460Z
-updated: 2024-08-29T00:53:17.460Z
+date: 2024-12-26T07:14:31.163Z
+updated: 2024-12-27T22:53:21.788Z
 tags:
   - windows10
   - windows11
@@ -43,14 +43,19 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 5. Otherwise, you can choose **Search for updated drivers on Windows Update** and install the updated version if available.  
 ![Searching for updated drivers using Windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/search-for-updated-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can download the latest available version of the driver manually from the manufacturer's website. Then, follow these steps:
 
 1. Repeat steps 1-3 from above and choose **Browse my computer for drivers**.
 2. Locate and select the updated version you just downloaded and install it.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable Filter Keys
 
  Filter keys is an accessibility feature that instructs Windows to ignore brief or repeated keystrokes. This could potentially be a reason for the delayed output of your keyboard. You can fix this by disabling Filter keys from the keyboard settings.
@@ -61,19 +66,16 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 4. Under this head, you will find a toggle button. If it's enabled, disable it and close the Settings app.  
 ![Turning off the Use Filter Keys button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turning-off-the-use-filter-keys-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're running Windows 11, you'll find the option to disable Filter Keys in **Settings > Accessibility > Keyboard > Filter Keys**.
 
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, try typing something into your text editor and see if it still lags.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Keyboard Troubleshooter
 
  Fortunately, Windows comes with some great built-in troubleshooting tools. Whether you're experiencing an input lag or your [keyboard isn't working at all](https://www.makeuseof.com/tag/laptop-keyboard-not-working/), the keyboard troubleshooter can provide you with a solution. Follow these steps to use the troubleshooter:
@@ -83,15 +85,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Run the keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're running Windows 11, you'll find the Keyboard troubleshooter in **Settings > System > Troubleshoot > Other Troubleshooter > Keyboard**.
 
 ![running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
 
 ## 5\. Use the DISM Command Line Tool
@@ -107,11 +111,12 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
 ![RestoreHealth command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/dism-online-restore-health.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## 6\. Perform Specific Fixes for Wireless Keyboards
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
@@ -124,13 +129,14 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Start by trying to re-sync your keyboard with the USB receiver. If that doesn't help, insert the USB receiver into a different USB port on your computer if the current port lacks enough power. Try placing the keyboard closer to the USB receiver if possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Remove Interference From Wireless Devices
 
  If you've placed other Wi-Fi devices such as a router or a cell phone near the computer, move it away and see if that eliminates the input lag.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Consider Getting a New Keyboard
 
  If none of these solutions work, it could be a sign of hardware damage. So before you start searching online for [the best keyboards](https://www.makeuseof.com/tag/best-wireless-mouse-and-keyboard/), try plugging in a different keyboard that works fine on another computer to confirm hardware damage as the cause.
@@ -149,11 +155,27 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-real-time-film-extractor/"><u>[Updated] Real-Time Film Extractor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerated-content-acquisition-with-funimate/"><u>2024 Approved Accelerated Content Acquisition with Funimate</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ahoy-mateys-pirate-speak-dictionary/"><u>Ahoy Mateys: Pirate-Speak Dictionary</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-systems-dragging-anomalies-in-win11/"><u>Cure Your System's Dragging Anomalies in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-high-cpu-usage-by-vanguards-sleep-service/"><u>Diagnosing High CPU Usage by Vanguard's Sleep Service</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-google-drive-not-syncing-in-windows/"><u>Essential Fixes for Google Drive Not Syncing in Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insight-into-the-latest-nook-glowlight-4-features-and-performance/"><u>Expert Insight Into the Latest Nook GlowLight 4 Features & Performance</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flip-to-fun-immediate-collage-making-tricks/"><u>Flip to Fun Immediate Collage Making Tricks</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/how-do-i-retrieve-or-delete-files-from-wetransfer/"><u>How Do I Retrieve or Delete Files From WeTransfer?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>In 2024, Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-art-of-silencing-speaker-noise-on-your-pc-top-tips-for-windows-10-and-7/"><u>Mastering the Art of Silencing Speaker Noise on Your PC: Top Tips for Windows 10 and 7</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-with-win-graphics-by-using-these-1-6-tools/"><u>Triumph with Win Graphics by Using These #1-#6 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unexpected-freezes-resolved-for-players-of-tribes-of-midgard/"><u>Unexpected Freezes Resolved for Players of 'Tribes of Midgard'</u></a></li>
+</ul></div>
+

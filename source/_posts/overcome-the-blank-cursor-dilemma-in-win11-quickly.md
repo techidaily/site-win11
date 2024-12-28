@@ -1,7 +1,7 @@
 ---
 title: Overcome the Blank Cursor Dilemma in Win11, Quickly
-date: 2024-12-17T16:37:15.385Z
-updated: 2024-12-22T17:05:32.335Z
+date: 2024-12-22T07:16:47.300Z
+updated: 2024-12-28T01:15:18.405Z
 tags:
   - windows10
   - windows11
@@ -37,45 +37,53 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Download & Install PassFab FixUWin
 
 ![download fixuwin on website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-fixuwin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Head to the PassFab website and go to the FixUWin page. Click on**Free Trial** to download an executable file for your new software.
 
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Create a New Windows Boot Disk/Drive
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
 
 ![fixuwin creating boot drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-creating-boot-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It will take a few minutes to create your new boot device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
 
  Shut down the PC with a black screen and cursor before inserting your disk or USB drive. Restart the computer and hit the key to access your boot menu as the machine starts up. This key is different for different manufacturers, but it is usually F12 or ESC.
 
  You may need to try a few times before your boot menu launches. Once it does, select your recovery disk or USB from the list and restart the machine to boot from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 4: Start the PassFab FixUWin Automated Repair Process
 
@@ -89,19 +97,11 @@ It will take a few minutes to create your new boot device.
 
  Windows 10 and 11 both come with a feature to enable you to reset the operating system and all of its features. Open the Start Menu, type Reset This PC, and choose the first option from the list. Click**Get Started** in the Reset PC section and follow the prompts to reset your machine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Method 3: Reboot Windows in Safe Mode
 
  Windows Safe Mode makes it easier to diagnose issues with the operating system by only running the most essential drivers and tools. Turn off your PC by holding the power button for 10 seconds, turn it back on, and press the power button for 10 seconds again as soon as you see the Windows logo appear. Turn it back on and repeat this process until you enter winRE.
 
  Once inside the winRE menu, click**Troubleshoot** and select**Advanced Options** from the next window. Click**Startup Settings** and select**Restart** to boot the machine into safe mode. From here, you can work on solving the problem causing your black screen with a cursor.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use PassFab FixUWin to Fix Windows Black Screen With a Cursor
 
@@ -122,20 +122,24 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-premier-cycling-titles-to-try-out/"><u>[New] Premier Cycling Titles to Try Out</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-evade-robotic-ratings-for-real-time-traffic-surge-for-2024/"><u>[Updated] Evade Robotic Ratings for Real-Time Traffic Surge for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/2-master-the-switch-ogv-to-avi-transformation-techniques-for-streamlined-playback/"><u>2. Master the Switch: OGV to AVI Transformation Techniques for Streamlined Playback</u></a></li>
-<li><a href="https://win11.techidaily.com/breakthrough-restoring-access-to-shared-windows-data/"><u>Breakthrough: Restoring Access to Shared Windows Data</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-blocked-windows-defender-in-win-11/"><u>Bypass Blocked Windows Defender in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypass-the-cant-add-your-folder-now-immediate-fixes-for-onedrive-on-pc/"><u>Bypass the 'Can't Add Your Folder Now': Immediate Fixes for OneDrive on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-signature-checks-for-easy-updates/"><u>Bypassing Windows' Signature Checks for Easy Updates</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-camera-app-glitches-on-windows-11s-f429f-issue/"><u>Clearing Up Camera App Glitches on Windows 11'S F429F Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/combat-strategies-for-operational-error-740-in-windows-devices/"><u>Combat Strategies for Operational Error #740 in Windows Devices</u></a></li>
-<li><a href="https://article-helps.techidaily.com/deciding-on-the-best-upgrade-for-your-4k-vision-for-2024/"><u>Deciding on the Best Upgrade for Your 4K Vision for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/demystifying-seo-key-concepts-answered-by-users-and-expert-tips-for-optimizing-with-powersuite/"><u>Demystifying SEO: Key Concepts Answered by Users & Expert Tips for Optimizing with PowerSuite</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fix-your-canon-printers-non-print-problem-with-these-top-five-tricks-in-windows-11/"><u>Fix Your Canon Printer's Non-Print Problem with These Top Five Tricks in Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/happy-campers-wacom-connected-everywhere/"><u>Happy Campers: Wacom Connected, Everywhere</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-xiaomi-redmi-note-12-pro-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Xiaomi Redmi Note 12 Pro 5G Phones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>In 2024, Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-advanced-hdr-creation-in-photoshop-workflows-for-2024/"><u>[New] Advanced HDR Creation in Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-convert-your-youtube-files-effortlessly-to-webm-for-2024/"><u>[New] Convert Your YouTube Files Effortlessly to WebM for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-learn-audio-recording-in-audacity-with-your-mac/"><u>[New] In 2024, Learn Audio Recording in Audacity with Your Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-transforming-your-living-space-into-a-podcast-studio/"><u>[New] Transforming Your Living Space Into a Podcast Studio</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[Updated] [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-windows-prime-video-communication-tools-1-8/"><u>[Updated] 2024 Approved Windows' Prime Video Communication Tools, #1-8</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>[Updated] In 2024, Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-maximize-visual-impact-with-free-digital-lut-resources-for-2024/"><u>[Updated] Maximize Visual Impact with FREE Digital LUT Resources for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-tips-for-seamlessly-trimming-videos-without-compromising-quality-on-windows-11/"><u>Expert Tips for Seamlessly Trimming Videos Without Compromising Quality on Windows 11</u></a></li>
+<li><a href="https://article-files.techidaily.com/from-text-to-screen-srt-to-subc-transformation-tips-for-2024/"><u>From Text to Screen SRT-to-SUBC Transformation Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-90-degree-display-flip-techniques-and-benefits/"><u>Mastering 90-Degree Display Flip: Techniques & Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-visual-efficiency-top-5-ideal-windows-pc-clock-themed-screen-saver-creation-apps/"><u>Maximize Visual Efficiency: Top 5 Ideal Windows PC Clock-Themed Screen Saver Creation Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-workflow-efficiency-mastering-tab-management-in-windows-11/"><u>Maximize Workflow Efficiency: Mastering Tab Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-starting-fresh-with-explore-ui/"><u>Quick Remedies: Starting Fresh with Explore UI</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-disabled-windows-sign-in-options/"><u>Steps for Restoring Disabled Windows Sign-In Options</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-endless-popups-of-edge-symbols/"><u>Stopping Endless Popups of Edge Symbols</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-administrative-blockage-for-software-installations/"><u>Troubleshooting Administrative Blockage for Software Installations</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-chrome-download-failures-on-pcs/"><u>Troubleshooting Chrome Download Failures on PCs</u></a></li>
 </ul></div>
 

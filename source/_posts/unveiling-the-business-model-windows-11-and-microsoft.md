@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Business Model: Windows 11 & Microsoft"
-date: 2024-12-15T16:50:22.048Z
-updated: 2024-12-22T17:57:52.974Z
+date: 2024-12-21T00:26:05.835Z
+updated: 2024-12-27T16:13:58.541Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,12 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  In short, Microsoft earns money every time a PC is purchased or someone buys a license separately to build his custom PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Microsoft Sells Subscriptions to Windows 11 Users
 
 ![A phone displaying the applications belonging to Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ed-hardie-xg02jzibf7o-unsplash-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you start using Windows 11, the chances are high that you'll end up using some of Microsoft's apps and services, some of which are paid. Like it or not, Microsoft keeps promoting its paid subscription offering, like Microsoft 365, through various apps and services.
@@ -56,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Much of Microsoft's paid subscriptions are available across all the major platforms, including macOS. However, it is easier for Microsoft to promote those services on Windows than on Apple's macOS or any other platform for that matter.
 
  Some popular subscription services that boost Microsoft's revenue include Microsoft 365, Microsoft Azure, and Microsoft Dynamics 365\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
@@ -74,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  For example, the Microsoft Edge browser comes with bloatware, too. The "[buy now, pay later](https://www.makeuseof.com/what-is-buy-now-pay-later/)" option in Edge is a perfect example of bloatware in a web browser. The service is powered by a third-party company called Zip, which pays Microsoft a fee for each transaction happening via the BNPL (Buy now, pay later) service in Edge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Microsoft Shows Advertisements in Windows 11 to Make Money
@@ -82,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![Screenshot Showing Windows 11 Account Settings Menu on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-account-settings-menu-on-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Every major tech company profits from advertising, and Microsoft is no exception. In fact, the company pays significant attention to increasing its advertisement revenue.
@@ -96,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  It is worth noting Microsoft's Advertising SDK is no longer available for new apps. But thanks to the ad mediation service, you can still use it to display advertisements from other ad networks. The SDK is available as an extension in Visual Studio.
 
  Windows 11 shows you personalized ads, meaning it will try to show you advertisements that you might find interesting. And personalized ads require Microsoft to collect your data. But you can get rid of all of them by [making Windows 11 ad-free](https://www.makeuseof.com/windows-11-remove-ads/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Microsoft Makes Money From Search Advertising Business
 
@@ -111,31 +107,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Since Bing is well integrated into Windows 11, it is easier for Microsoft to get more people to use their search in some way or the other. The more Bing can increase its user base, the more revenue it will earn by displaying sponsored content on its page. Overall, search remains an important focus area for Microsoft to make money in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft's Revenue Sources Are Diverse in Windows 11
 
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/a-simple-guide-to-finding-out-what-model-you-run-on-windows/"><u>A Simple Guide to Finding Out What Model You Run on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/a-universal-companion-windows-now-app-for-iosmac-and-windows-devices/"><u>A Universal Companion: Windows Now App for iOS/Mac and Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-audio-output-not-found-in-windows/"><u>Addressing Audio Output Not Found in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-energy-drain-auto-shutdown-at-idle-in-win11/"><u>Avoiding Energy Drain: Auto-Shutdown at Idle in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-microsoft-store-crashes-solving-0x80072f30-error/"><u>Avoiding Microsoft Store Crashes: Solving 0X80072F30 Error</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-practices-for-resolving-compatibility-and-performance-problems-of-startech-drivers-on-windows-11-8-and-e/"><u>Best Practices for Resolving Compatibility and Performance Problems of StarTech Drivers on Windows 11, 8 & E</u></a></li>
-<li><a href="https://win11.techidaily.com/1719337262601-cure-frozen-shift-key-woes-quickly/"><u>Cure Frozen Shift Key Woes Quickly.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-smartly-pick-a-digital-asset-trading-venue-with-tips-from-yl-software/"><u>How to Smartly Pick a Digital Asset Trading Venue with Tips From YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-solve-windows-10-photos-app-crashes-effectively/"><u>How to Solve Windows 10 Photos App Crashes Effectively</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/narakabladepoint-crash-course-how-to-fix-the-game-breaks/"><u>Naraka:Bladepoint Crash Course - How To Fix The Game Breaks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/scaling-down-applications-effortlessly-with-windows-11s-keys/"><u>Scaling Down Applications Effortlessly with Windows 11'S Keys</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/screens-that-make-a-statement-the-ultimate-4k-displays-for-macs/"><u>Screens That Make a Statement The Ultimate 4K Displays for Macs</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellars-first-step-in-photo-rehabilitation-software/"><u>Stellar's First Step in Photo Rehabilitation Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/step-by-step-guide-to-masterful-technology-enhancements/"><u>Step-by-Step Guide to Masterful Technology Enhancements</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -144,3 +124,23 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-novice-to-pro-becoming-a-boomerang-connoisseur-on-snapchat/"><u>[New] From Novice to Pro Becoming a Boomerang Connoisseur on Snapchat</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-master-the-art-of-snaps-15-pro-tips-for-2024/"><u>[Updated] Master the Art of Snaps 15 Pro Tips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-sharing-your-private-youtube-snippets-via-email-for-2024/"><u>[Updated] The Ultimate Guide Sharing Your Private YouTube Snippets via Email for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210615615-9781616203993-acorn/"><u>Acorn | Free Book</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-clouds-to-storage-keeping-snapshots-on-your-phone/"><u>From Clouds to Storage Keeping Snapshots on Your Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-checkbox-counting-in-ms-excel-worksheets/"><u>Mastering the Art of Checkbox Counting in MS Excel Worksheets</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-variance-computation-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Variance Computation: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mobile-stellar-eraser-pro-essential-data-wipe-tool-on-mac/"><u>Mobile Stellar Eraser Pro - Essential Data Wipe Tool on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-issues-with-scroll-using-arrow-keys-on-your-excel-spreadsheet/"><u>Resolving Issues with Scroll Using Arrow Keys on Your Excel Spreadsheet</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-your-spreadsheets-with-microsoft-excels-updated-checklist-capability-on-pcs/"><u>Revolutionizing Your Spreadsheets with Microsoft Excel’s Updated Checklist Capability on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneously-opening-two-excel-2013-workbooks-on-different-screens/"><u>Simultaneously Opening Two Excel 2013 Workbooks on Different Screens</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-changing-cell-orientations-and-text-directions-in-excel-spreadsheets/"><u>Step-by-Step Guide: Changing Cell Orientations and Text Directions in Excel Spreadsheets</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-combining-columns-effectively-in-microsoft-excel/"><u>Step-by-Step Guide: Combining Columns Effectively in Microsoft Excel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/your-smartphone-cinematography-to-new-heights-with-these-9-accessories-for-2024/"><u>Take Your Smartphone Cinematography to New Heights with These 9 Accessories for 2024</u></a></li>
+</ul></div>
+

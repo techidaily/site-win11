@@ -1,7 +1,7 @@
 ---
 title: Removing Visual Elements From Windows Search
-date: 2024-12-21T18:00:14.549Z
-updated: 2024-12-22T16:25:42.942Z
+date: 2024-12-21T04:16:53.822Z
+updated: 2024-12-28T06:39:24.294Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Are There Pictures in Your Search Box?
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  This content is typically related to the illustrations on display. For instance, if you see a boots icon on the taskbar, the content is most likely going to be related to hiking, trails, or something similar. The pop-up window will then show options like trials near you, hiking tips, and tent shops.
 
  This information is different for both organizations and regular users. If you are signed in to Windows using your work account, you will see information regarding your organization and its employees. On your home PC, you'll see more generic informational content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable the Illustrations in Windows Search Icons
 
@@ -54,30 +58,27 @@ If you are a Windows 11 user, you can use these steps as well:
 1. Launch Windows Settings and head over to the**Privacy & Security** section.  
 ![Privacy & Security section in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win11-privacy--security.jpg)
 2. Click on**Search permissions** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/search-permissions.jpg)
 3. Head over to the More settings section and turn the toggle off for**Show search highlights** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Search Highlights toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/show-search-highlights-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can also press the Win + S keys together to open the Windows Search utility. Click on the three-dot icon and choose**Search settings** . Once the Settings window launches, you can scroll down to the More settings section and disable**Show search highlights** .
 
 ![Access the Search settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Search Illustrations, Solved
 
@@ -98,24 +99,22 @@ If you are a Windows 11 user, you can use these steps as well:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unboxing-the-secrets-of-successful-youtubers-like-ajey/"><u>[New] 2024 Approved Unboxing the Secrets of Successful YouTubers Like Ajey</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-chromebook-snapshot-tool/"><u>[Updated] 2024 Approved Ultimate Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elite-gopro-hero5-black-charger-kits-genuine-and-counterparts/"><u>[Updated] Elite GoPro Hero5 Black Charger Kits, Genuine and Counterparts</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-crash-reports-following-a-bsod-event/"><u>Decoding Windows Crash Reports Following a BSOD Event</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-windows-11-registry-for-unseen-themes/"><u>Exploring the Windows 11 Registry for Unseen Themes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-windows-activation-failure-code-0x803f700f/"><u>How to Rectify Windows Activation Failure: Code 0X803f700f</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-broadcasting-innovations-combining-tv-and-social-media/"><u>In 2024, Broadcasting Innovations Combining TV & Social Media</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-utilizing-telegram-web-services/"><u>In 2024, Comprehensive Guide to Utilizing Telegram Web Services</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-x50-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor X50 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-of-the-best-top-stop-motion-animation-software-for-mac-and-pc/"><u>New 2024 Approved The Best of the Best Top Stop Motion Animation Software for Mac and PC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-avs-video-editor-a-detailed-look-at-its-features-and-performance/"><u>New In 2024, AVS Video Editor A Detailed Look at Its Features and Performance</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/online-alter-ego-artistry-drawing-a-fancy-profile/"><u>Online Alter-Ego Artistry Drawing a Fancy Profile</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-ways-to-dive-into-your-windows-11-appsdirectory/"><u>Quick Ways to Dive Into Your Windows 11 AppsDirectory</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenate-ccleaner-on-win11-and-11/"><u>Rejuvenate CCleaner on Win11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-supercharged-window-11-usage/"><u>The Ultimate Guide to Supercharged Window 11 Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-win11-activation-keys/"><u>Troubleshooting Non-Functional Win11 Activation Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-managing-windows-odbc-sources/"><u>Understanding and Managing Windows ODBC Sources</u></a></li>
-<li><a href="https://win11.techidaily.com/win-10-regain-network-connections/"><u>Win 10: Regain Network Connections</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-game-soundscapes-transformed-a-ps4ps5-journey/"><u>[New] 2024 Approved Game Soundscapes Transformed A PS4/PS5 Journey</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-tips-to-elevate-iphone-picture-quality/"><u>[New] Expert Tips to Elevate iPhone Picture Quality</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-complete-blueprint-for-capturing-your-ps4-adventures/"><u>[Updated] The Complete Blueprint for Capturing Your PS4 Adventures</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-yt-outro-guidelines-keeping-viewers-hooked/"><u>2024 Approved YT Outro Guidelines Keeping Viewers Hooked</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-poco-m6-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Poco M6 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-performance-by-controlling-cpu-hogs/"><u>Enhancing Performance by Controlling CPU Hogs</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-around-a-non-opening-windows-command-prompt/"><u>Getting Around a Non-Opening Windows Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-broken-registry-items-in-windows-11/"><u>How to Fix Broken Registry Items in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-github-desktop-in-windows-11-and-11/"><u>How to Use GitHub Desktop in Windows 11 and 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-directing-youtube-and-twitter-videos-via-whatsapp-messages/"><u>In 2024, Directing YouTube & Twitter Videos via WhatsApp Messages</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-tools-in-live-encoding-technology/"><u>In 2024, Innovative Tools in Live Encoding Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-maze-of-full-screen-issues-fix-sonic-adventure-crashes-win-on-windows-11/"><u>Master the Maze of Full-Screen Issues: Fix Sonic Adventure Crashes, Win! On Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/renaming-microsoft-account-admin-for-enhanced-security/"><u>Renaming Microsoft Account Admin for Enhanced Security</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-quick-systemsettings-fix-on-windows-11/"><u>Strategies for Quick SystemSettings Fix on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-potential-chromium-setup-for-windows-11/"><u>Unleash Full Potential: Chromium Setup for Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y77t? | Dr.fone</u></a></li>
 </ul></div>
 

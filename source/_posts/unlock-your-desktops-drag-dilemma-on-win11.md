@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Desktop's Drag Dilemma on Win11
-date: 2024-08-28T00:51:58.863Z
-updated: 2024-08-29T00:51:58.863Z
+date: 2024-12-26T01:45:31.075Z
+updated: 2024-12-28T05:38:16.142Z
 tags:
   - windows10
   - windows11
@@ -44,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
 ![Close Programs Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-programs-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Reopen your app and check if the issue still occurs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
 
@@ -63,8 +63,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hardware-and-devices-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update or Reinstall Mouse Drivers
 
  Outdated or damaged mouse or touchpad drivers can also cause drag and drop to stop working in Windows 11\. If that’s the case, updating the relevant drivers should help solve the problem.
@@ -78,8 +79,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Update Mouse Driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-mouse-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Follow the on-screen prompts to finish updating the driver.
 
  If the issue remains even after this, you can try uninstalling the mouse driver from your PC. If you need help with that, check our guide on [how to uninstall drivers in Windows 11](https://www.makeuseof.com/windows-11-uninstall-drivers/). After removing the driver, restart your PC, and Windows will automatically reinstall the missing driver during the boot process.
@@ -91,13 +93,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  For more help, refer to our guide on [fixing the left-click mouse button not working issue on Windows](https://www.makeuseof.com/tag/fix-left-mouse-button/) and follow the tips mentioned there.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Edit Registry Files
 
  Incorrect registry entries can also cause such anomalies. You need to review the registry values related to the drag and drop feature and ensure they are configured correctly.
@@ -117,30 +115,29 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Restart your PC after making the above changes and see if the drag and drop feature works after that.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Effortlessly Move Your Files With Drag and Drop Functionality on Windows
 
  Drag and drop is one of those Windows 11 features that once you start using it, you can’t go back. Hence, it can be inconvenient when the feature stops working on your PC. We hope that going through the above tips has helped you fix the problem and put you at ease.
 
  While the default drag and drop action can help you move items quickly, you can also modify it to copy or create shortcuts for files and folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q: How Do You Drag Maximized Windows in Windows 11?
 
  You drag maximized Windows in Windows 11 by pressing and holding down the Windows key and pressing an arrow key (right, left, up, or down arrow key). This changes your current window's position on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q: How Do You Change Drag and Drop From Copy to Move in Windows 11?
 
  You can change drag-and-drops's action from copy to move by holding down the Shift key while dragging and dropping your files. This makes Windows move your files instead of copying them to a folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q: How Do You Drag and Drop From One Computer to Another?
 
@@ -148,11 +145,33 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  While that’s convenient, there can be times when the drag and drop feature stops working on your Windows 11 computer. If you are facing the same problem, here are some solutions that will help.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-reclaim-inaccessible-watch-icon/"><u>[New] 2024 Approved Reclaim Inaccessible Watch Icon</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-flight-friendly-robot-categories/"><u>[Updated] In 2024, Flight-Friendly Robot Categories</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>2024 Approved Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-control-over-your-windows-setup-with-key-combinations/"><u>Effortless Control Over Your Windows Setup with Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-active-audio-input-on-obs-studio-windows-11-guide/"><u>Enabling Active Audio Input on OBS Studio - Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-install-dormant-windows-apps-and-extras/"><u>Essential Tips to Install Dormant Windows Apps & Extras</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-recovery-for-windows-11-blue-screen-with-exception-handlers/"><u>Guide to Recovery for Windows 11 Blue Screen with Exception Handlers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-se-2020-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone SE (2020)? Learn All 4 Methods</u></a></li>
+<li><a href="https://win-bits.techidaily.com/improving-your-print-quality-issues-solutions-by-yl-software-experts/"><u>Improving Your Print Quality Issues - Solutions by YL Software Experts</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/restore-failed-saving-of-displays-tips-for-win-7-and-10-users-resolved/"><u>Restore Failed Saving of Displays: Tips for Win 7 & 10 Users [Resolved]</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-oculus-quest-2-in-windows-pc-environment/"><u>Setting up Oculus Quest 2 in Windows PC Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-file-format-transitions-in-windows-os/"><u>Simplifying File Format Transitions in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/slowing-down-the-mouse-speeds-for-a-better-interface/"><u>Slowing Down the Mouse Speeds for a Better Interface</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reopen-w11s-forgotten-mail-and-calendars/"><u>Steps to Reopen W11's Forgotten Mail and Calendars</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-tags-to-achieve-six-figures-in-views/"><u>Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://win11.techidaily.com/tick-tock-troubleshooting-chrome-and-system-sync/"><u>Tick-Tock Troubleshooting: Chrome and System Sync</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-sawdust-into-art-a-revolutionary-3d-printing-tech-creates-beautiful-wooden-instruments-and-fixtures-zdnet/"><u>Transforming Sawdust Into Art: A Revolutionary 3D Printing Tech Creates Beautiful Wooden Instruments & Fixtures - ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unmatched-mounting-premier-photos-tripods-for-2024/"><u>Unmatched Mounting Premier Photos Tripods for 2024</u></a></li>
+</ul></div>
+

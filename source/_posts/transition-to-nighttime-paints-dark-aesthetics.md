@@ -1,7 +1,7 @@
 ---
 title: "Transition to Nighttime: Paint's Dark Aesthetics"
-date: 2024-08-28T00:53:51.364Z
-updated: 2024-08-29T00:53:51.364Z
+date: 2024-12-22T21:37:04.346Z
+updated: 2024-12-28T06:35:05.402Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do You Need a Dark Mode in Microsoft Paint?
 
  Currently, if you apply a dark theme on your Windows 11 PC, most elements will turn completely black to adapt to the change in the color scheme. But some elements like the old Control Panel dialog box, Windows tools, and so on, don’t adapt to this change.
@@ -28,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
 ![Paint app and file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/paint-app-and-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, the new dark mode will help it blend in with the rest of the UI and also bring it on par with other built-in image and video editing apps like Photos and ClipChamp. Photos app received an overhaul with useful features like [slideshow and Spot Fix](https://www.makeuseof.com/slideshow-spot-fix-feature-photos-app-windows-11/) which reduce the dependency on third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get the Microsoft Paint App With Dark Mode
 
@@ -43,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
  After that, click on the checkmark icon. The latest Photos app build will begin downloading on your PC. Install the app and then follow the steps mentioned in the next section.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Switch to Dark Mode in Microsoft Paint
 
  You can switch to dark mode in Paint in two ways:
@@ -55,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
 ![enable Dark mode in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-dark-mode-in-paint-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Other Major Improvements With the Dark Mode Paint App
 
  Apart from the dark mode support, the Paint app has had another pestering issue that lingered for decades. The zoom feature doesn’t have a drop-down list with some default zoom sizes.
@@ -70,34 +77,22 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 ![New Zoom Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-zoom-feature-in-paint-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also fit the image into the window with just one click. It is helpful when you work with large-resolution images which Paint has difficulty displaying in the preview window.
 
  Go to the bottom right area in the Paint app and click on the **Fit to window** button. The image will be zoomed in or out to fit the Paint display window.
 
 ![New Fit to window Feature in Paint app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/new-fit-to-window-feature-in-paint-app.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Other major improvements include some changes to the Image Properties section in the app and accessibility support.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Go Dark in Paint
 
  Dark Mode support in the Paint app is great news for all Windows users. No more eye-gouging white color glare whenever you open the app. Despite being in the Insider channel, we expect that Microsoft will soon roll out the updated version of Paint to the stable channel as well. But it still has a long way ahead to become a full-fledged image editing app.
 
  But Microsoft is finally testing a dark mode version of the Paint app along with new feature add-ons in the Insider program. Curious? Let’s discuss what the app has to offer now.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +100,22 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-pros-guide-to-clearing-backdrops-in-figma-design/"><u>[New] The Pro's Guide to Clearing Backdrops in Figma Design</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-unleash-youtube-dominance-a-comprehensive-guide-to-studio-success/"><u>2024 Approved Unleash YouTube Dominance A Comprehensive Guide to Studio Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-installation-failures-for-windows-11-v1607-and-fixes-at-your-fingertips/"><u>Common Installation Failures for Windows 11 v1607 and Fixes at Your Fingertips</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-google-play-through-windows-11/"><u>Enabling Google Play Through Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-unbootable-computer-problem-essential-guides-for-a-quick-startup/"><u>Fixing the Unbootable Computer Problem: Essential Guides for a Quick Startup</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/furbos-triumph-in-tails-a-comprehensive-review-for-canine-camera-enthusiasts/"><u>Furbo’s Triumph in Tails: A Comprehensive Review for Canine Camera Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-halt-default-launch-of-windows-11s-snipping-tool-by-pressing-prtscn/"><u>How to Halt Default Launch of Windows 11'S Snipping Tool by Pressing PrtScn</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x9b-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X9b Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-scheduling-the-complete-windows-11-calendar-handbook/"><u>Mastering Scheduling: The Complete Windows 11 Calendar Handbook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-world-of-virtual-backgrounds-for-online-media-professionals-for-2024/"><u>Navigating the World of Virtual Backgrounds for Online Media Professionals for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-multilingual-navigation-on-windows-1011-with-keys/"><u>Speedy Multilingual Navigation on Windows 10/11 with Keys</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/toms-tech-review-in-depth-insights-on-top-hardware/"><u>Tom's Tech Review: In-Depth Insights on Top Hardware</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/top-mobile-apps-for-flawless-snapchat-story-filters-and-effects-for-2024/"><u>Top Mobile Apps for Flawless Snapchat Story Filters & Effects for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-csgo-on-w11-troubleshooting-non-start-issues/"><u>Winning CS:GO on W11 – Troubleshooting Non-Start Issues</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating the Verifier Toolset in Win11"
-date: 2024-12-16T16:54:42.413Z
-updated: 2024-12-22T17:10:21.296Z
+date: 2024-12-24T04:06:28.386Z
+updated: 2024-12-28T00:43:35.910Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 ![Open Driver Vefifier Using Taskbar Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-taskbar-search.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If UAC prompts on the screen, click**Yes** to grant administrative privileges.
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
  You can also open Driver Verifier Manager through the Run dialog box. For this press**Win + R** on your keyboard and type "verifier" in the text box. Then click**OK** or press Enter to launch the tool. Click**Yes** when UAC appears on your computer screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Opening the Driver Verifier Manager With Task Manager
@@ -59,14 +59,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 5. Now click**OK** to launch Driver Verifier Manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. When UAC prompts, click**Yes** to grant administrative rights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Opening the Driver Verifier Manager With File Explorer
 
@@ -76,6 +72,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. In Windows File Explorer, go to the address bar.
 3. Then type "verifier" into the text box and press**Enter** .
 4. Click**Yes** if UAC prompts you on your screen and the tool will launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Creating a Desktop Shortcut for the Driver Verifier Manager
 
@@ -92,6 +92,10 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
  Once you have followed the above instructions, double-click the shortcut on your desktop to open Driver Verifier Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Opening the Driver Verifier Manager With a Command Prompt Command
 
  In addition, if you prefer using command line methods, you can use Command Prompt to run the Driver Verifier Manager tool. Here's how you can do it:
@@ -100,10 +104,6 @@ To open Driver Verifier Manager using Task Manager, do the following:
 2. Type "cmd" in the text field and press**Ctrl + Shift + Enter** on your keyboard. This will[launch the Command Prompt with admin rights on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Open Driver Vefifier Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/open-driver-vefifier-using-command-prompt.jpg)
 3. In the Command Prompt window, type "verifier" and hit**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Read our[beginner's guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to get more out of this tool.
 
@@ -126,22 +126,22 @@ To open Driver Verifier Manager using Task Manager, do the following:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[New] 2024 Approved Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-seamless-addition-of-youtube-video-selections-for-sites-for-2024/"><u>[Updated] Seamless Addition of YouTube Video Selections for Sites for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-art-of-color-correction-best-practices-top-11/"><u>[Updated] The Art of Color Correction Best Practices (Top 11)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-chromebook-voice-overhaul-guide-top-5-cloud-vocal-modification-tools-reviewed/"><u>2024 Approved Chromebook Voice Overhaul Guide Top 5 Cloud Vocal Modification Tools Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/abletons-techniques-for-diminishing-sound-intensity/"><u>Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-out-the-epic-game-hub-clutter-from-windows-11/"><u>Clear Out the Epic Game Hub Clutter From Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-techniques-to-effectively-modify-software-sizes-in-win11/"><u>Keyboard Techniques to Effectively Modify Software Sizes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-virtual-boxs-capabilities-with-v70-on-windows-11-systems/"><u>Maximize Virtual Box's Capabilities with v7.0 on Windows 11 Systems</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-stabilize-your-video-in-the-final-cut-pro/"><u>New 2024 Approved How to Stabilize Your Video in the Final Cut Pro?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/next-gen-gaming-horizon-upcoming-bests-in-playstation-vr-for-2024/"><u>Next-Gen Gaming Horizon Upcoming Bests in PlayStation VR for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-initial-load-issues-in-lol/"><u>Overcoming Initial Load Issues in LOL</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-keyboard-issues-in-the-windows-snipper/"><u>Resolving Keyboard Issues in the Windows Snipper</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-network-defenses-with-5-tweaks-to-firewall/"><u>Revitalizing Network Defenses with 5 Tweaks to Firewall</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-craft-an-invisible-taskbar-on-windows-11/"><u>Steps to Craft an Invisible Taskbar on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-right-way-to-find-someones-work-or-private-email-address/"><u>The Right Way to Find Someone's Work or Private Email Address</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-inverted-footage-whats-behind-instagrams-peculiarity/"><u>[New] 2024 Approved Inverted Footage What's Behind Instagram's Peculiarity?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-exploration-of-apeaksofts-screen-recorder/"><u>[Updated] 2024 Approved The Ultimate Exploration of Apeaksoft's Screen Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-best-practices-for-snapchat-posts-the-essentials-list/"><u>[Updated] In 2024, Best Practices for Snapchat Posts The Essentials List</u></a></li>
+<li><a href="https://win11.techidaily.com/concurrent-close-down-on-pc-multi-app-mastery/"><u>Concurrent Close-Down on PC: Multi-App Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unable-to-open-issue-on-ges-sharing-feature/"><u>Correcting Unable to Open Issue on GE's Sharing Feature</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/decades-leading-guide-to-budget-friendly-recorders/"><u>Decade's Leading Guide to Budget-Friendly Recorders</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-with-near-power-button-shortcuts-on-windows-11/"><u>Enhance Efficiency with Near-Power Button Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-x3daudio17dll-missing-or-not-found-errors-easily/"><u>How to Fix X3DAudio1_7.dll Missing or Not Found Errors Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-desktop-input-via-wired-connection-on-pc/"><u>How to Prevent Desktop Input via Wired Connection on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-microsofts-phone-link-how-it-connects-devices/"><u>Insights Into Microsoft’s ‘Phone Link’: How It Connects Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-and-downloads-for-mbox-2-driver-compatible-with-windows-systems/"><u>Latest Updates and Downloads for MBox 2 Driver Compatible with Windows Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-oneplus-ace-2-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your OnePlus Ace 2 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-power-status-add-custom-battery-alerts-to-win11/"><u>Optimize Your Power Status: Add Custom Battery Alerts to Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/printer-spool-reinitiation-tips/"><u>Printer Spool Reinitiation Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0xc0000001/"><u>Resolving Windows Error: Code 0xC0000001</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-13-free-music-production-software-for-windowsmaconline/"><u>Updated In 2024, 13 Free Music Production Software for Windows/Mac/Online</u></a></li>
 </ul></div>
 

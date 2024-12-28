@@ -1,7 +1,7 @@
 ---
 title: Enabling Effective Email Delivery Feedback on Windows Machines
-date: 2024-08-28T00:53:43.081Z
-updated: 2024-08-29T00:53:43.081Z
+date: 2024-12-22T20:40:01.190Z
+updated: 2024-12-27T17:10:29.009Z
 tags:
   - windows10
   - windows11
@@ -49,9 +49,9 @@ To access notification settings in the Mail app:
 ![Enable Windows Mail App Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Windows-Mail-App-Notifications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Check Mailbox Sync Settings
 
  You can configure the Mail app sync settings to specify how frequently the app should connect to the server to download new content. If Mail app notifications are arriving late, you can resolve the problem by modifying the mailbox sync settings. Here's what you'll need to do.
@@ -66,8 +66,9 @@ To access notification settings in the Mail app:
 ![Check Mail App Sync Settings Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-Mail-App-Sync-Settings-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Allow the Mail App to Run in the Background
 
  Windows lets you decide which apps and programs can run in the background. If you have denied the Mail app permission to run in the background, you will not receive notifications unless the app is open.
@@ -82,6 +83,10 @@ To access notification settings in the Mail app:
 6. Click the drop-down menu under**Background apps permissions** and choose**Always** .  
 ![Allow Windows Mail App to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Allow-Windows-Mail-App-to-Run-in-the-Background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Remove and Re-Add Your Email Account
 
  If the Mail app still fails to show notifications, you can try removing your email account from the app and adding it again. This should reconnect your account to the app and resolve any issues.
@@ -92,10 +97,11 @@ To access notification settings in the Mail app:
 4. Choose**Delete** to confirm.  
 ![Delete Account From the Windows Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-Account-From-the-Windows-Mail-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Once removed, restart the Mail app and add your account again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Focus Assist
 
@@ -108,13 +114,14 @@ Once removed, restart the Mail app and add your account again.
 3. Set the Focus Assist to**Off** , so you get all notifications.  
 ![Turn Off Focus Assist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Focus-Assist.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Further, check the**Automatic rules** section to make sure Focus Assist is not set to enable itself automatically.
 
  If you're interested in Focus Assist, be sure to check out[how to silence notifications in Focus Assist for Windows](https://www.makeuseof.com/tag/windows-focus-assist/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Disable Battery Saver Mode
 
  When you enable battery saver mode, Windows limits various background app activities in order to extend battery life. This can prevent apps like Mail from syncing in the background and displaying notifications. To avoid this, you should disable battery saver mode on Windows. Here's how:
@@ -126,11 +133,9 @@ Once removed, restart the Mail app and add your account again.
 ![Turn Off Battery Saver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Battery-Saver-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 8\. Repair or Reset the Mail App
 
  If the Mail app is still failing to display notifications on Windows, you can try repairing the app. For that, you’ll need to use the Windows Settings app. Here are the steps you can follow.
@@ -150,23 +155,17 @@ Once removed, restart the Mail app and add your account again.
 
  Head over to the Microsoft Store on your PC. Search for**Mail and calendar** app and click the**Update** button. If you do not see the Update option, then the app is already up-to-date.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Mail App Notifications on Windows
 
  The Mail app notification issues can occur due to various factors, ranging from incorrectly configured settings to a faulty app update. In any case, going through the above-mentioned fixes should get the Mail app notifications to work again on Windows.
 
  If you’ve gotten tired of such issues with the default Windows Mail app, there are plenty of third-party email apps you may want to try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +174,26 @@ Once removed, restart the Mail app and add your account again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-from-concept-to-completion-a-windows-10-video-editors-journey/"><u>[New] From Concept to Completion A Windows 10 Video Editor’s Journey</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-top-picks-for-your-android-the-current-best-facebook-videos-downloaders-ranked-for-2024/"><u>[New] Top Picks for Your Android - The Current Best Facebook Videos Downloaders Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-boost-your-views-optimal-hashtags-for-video-success-for-2024/"><u>[Updated] Boost Your Views Optimal Hashtags for Video Success for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-prevent-ai-driven-youtube-video-selections/"><u>[Updated] In 2024, Prevent AI-Driven YouTube Video Selections</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-lava-agni-2-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Lava Agni 2 5G FRP</u></a></li>
+<li><a href="https://discover-great.techidaily.com/comparing-avchd-and-mp4-a-deep-dive-into-video-quality-file-sizes-and-device-support/"><u>Comparing AVCHD and MP4: A Deep Dive Into Video Quality, File Sizes, and Device Support</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-failures-in-attempted-gpt-alteration/"><u>Dissecting Failures in Attempted GPT Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/elevated-note-management-smarter-strategies-for-windows-users/"><u>Elevated Note Management: Smarter Strategies for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-from-past-protection-4-key-windows-cleanup-tips/"><u>Fresh Start From Past Protection: 4 Key Windows Cleanup Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-huawei-nova-y91-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Huawei Nova Y91 FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/master-windows-task-handling-with-advanced-execution-tools/"><u>Master Windows Task Handling with Advanced Execution Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-art-of-note-saving-windows/"><u>Navigating the Art of Note-Saving Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-past-executions-in-the-command-window/"><u>Saving Past Executions in the Command Window</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-unsuranlized-device-error-on-windows/"><u>Steps to Correct Unsuranlized Device Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-application-crashes-due-to-unhandled-errors/"><u>Tackling the Challenge of Application Crashes Due to Unhandled Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-device-usage-mastering-samsungs-dex-application/"><u>Transform Your Device Usage: Mastering Samsung's DeX Application</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlimited-fake-faces-top-free-online-generators-reviewed/"><u>Updated In 2024, Unlimited Fake Faces Top Free Online Generators Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-comparison-discovering-the-ideal-edition-fit-homepro/"><u>Windows 11 Comparison: Discovering the Ideal Edition Fit (Home/Pro)</u></a></li>
+</ul></div>
 

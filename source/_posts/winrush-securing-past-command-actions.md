@@ -1,7 +1,7 @@
 ---
 title: "WinRush: Securing Past Command Actions"
-date: 2024-08-28T00:53:25.229Z
-updated: 2024-08-29T00:53:25.229Z
+date: 2024-12-21T18:37:12.413Z
+updated: 2024-12-27T19:49:05.297Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Privacy Settings
 
  A common reason why Windows may not save the Run command history is if you have previously blocked it from tracking your app launches. Here’s how you can change that.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 3. Under Windows permissions, click on **General**.
 4. Enable the toggle next to **Let Windows improve Start and search results by tracking app launches**.  
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
@@ -47,12 +55,16 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 7. Click **OK**.  
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Apply Generic Fixes
 
  If the problem persists even after implementing the above tips, you can try applying some basic fixes to resolve the underlying issue.
@@ -62,8 +74,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get the Run Tool to Save Your History on Windows
 
  It can be inconvenient if the Run command dialog box stops saving your history on Windows. Hopefully, one of the solutions provided above has successfully resolved the issue for you.
@@ -72,11 +85,27 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If you're encountering a similar problem, don’t fret. Below, we share some quick and useful tips that should get the Run tool to save your history once again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-content-seo-mastery-starts-here/"><u>[New] In 2024, Elevate Your Content SEO Mastery Starts Here</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>[New] In 2024, Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-making-a-statement-standout-content-via-fb-slideshows-for-2024/"><u>[New] Making a Statement Standout Content via FB Slideshows for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-social-snack-spectacle-10-viral-food-trends/"><u>[Updated] 2024 Approved Social Snack Spectacle 10 Viral Food Trends</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-capturing-stories-gopro-hero5-black-in-focus/"><u>[Updated] The Art of Capturing Stories GoPro Hero5 Black in Focus</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-preeminent-80s-effects-for-video-artistry/"><u>2024 Approved Preeminent 80S Effects for Video Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-and-correcting-directdraw-mistakes-in-win1011-systems/"><u>Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-troubleshooting-downloading-and-installing-epson-xp-410-driver-software-on-windows-systems/"><u>Easy Troubleshooting: Downloading & Installing Epson XP-410 Driver Software on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-delving-into-their-distinctive-features/"><u>PowerShell Vs. Windows Terminal: Delving Into Their Distinctive Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-search-bar-inactivity-on-windows-11/"><u>Resolving Search Bar Inactivity on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/unlock-ultimate-livestream-potential-with-manycam-the-leading-virtual-webcam-software-solution/"><u>Unlock Ultimate Livestream Potential with ManyCam - The Leading Virtual Webcam Software Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-dual-programming-conflict-in-win-10/"><u>Unraveling the 'Dual Programming Conflict' In Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-feature-switch-on-wsl-integration-mode/"><u>Windows Feature Switch: On WSL Integration Mode</u></a></li>
+</ul></div>
+

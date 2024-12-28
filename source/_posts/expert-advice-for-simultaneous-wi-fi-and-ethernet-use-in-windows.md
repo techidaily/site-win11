@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Simultaneous Wi-Fi & Ethernet Use in Windows
-date: 2024-08-28T00:53:57.712Z
-updated: 2024-08-29T00:53:57.712Z
+date: 2024-12-25T21:39:32.228Z
+updated: 2024-12-27T16:00:53.716Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bbf8b4ac709b45ef5944f09a459d244c293de523e
 
  On the flip side, there are chances of packet loss due to duplicate packets being transmitted via both the Wi-Fi and Ethernet connection. Lower-end routers may also notice decreased speed due to increased load on your network device. This is part of the reasons[why you may want to replace your ISP's router](http://www.makeuseof.com/tag/reasons-replace-isp-router/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Configure Windows to Use Wi-Fi and Ethernet Connections Simultaneously
 
  Since Windows automatically prioritizes the network adapter to use only one adapter at a time, you'll need to disable the packet priority option in the network adapter's network configuration. Doing so will allow Windows to use multiple connections simultaneously.
@@ -48,6 +52,11 @@ To disable packet priority and VLAN on Windows:
 4. Click the drop-down under**Value** .  
 ![priority vlan disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/priority-vlan-disabled.jpg)
 5. Select**Priority and VLAN Disabled.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**OK** to save the changes.
 7. Next, you need to repeat the steps for your Wi-Fi adapter. So, open Properties for your Wi-Fi adapter and set its**Priority and VLAN** value to**Priority & VLAN Disabled** .
 8. Click**OK** to save the changes.
@@ -55,17 +64,9 @@ To disable packet priority and VLAN on Windows:
  With the network adapter priority option disabled, Windows will now use both network connections simultaneously.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set the Network Priority for Wi-Fi or Ethernet Using Interface Metric
 
  By default, Windows uses an automatic metric to detect and use the best network connectivity option available. However, if you need, you can manually set network priority to force Windows to use Ethernet or Wi-Fi as the preferred connectivity option.
@@ -76,43 +77,36 @@ To change network priority on Windows:
 2. Type**ncpa.cpl** and click**OK** .  
 ![ncpa cpl open control panel network and sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ncpa-cpl.jpg)
 3. Right-click on your Ethernet adapter and select**Properties** . If you want to prioritize your Wi-Fi adapter, choose that instead.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Next, select**Internet Protocol Version 4 (TCP/IPv4)** and click on**Properties** .  
 ![tcp ip v4 properties control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tcp-ip-v4-properties-control-panel.jpg)
 5. Click the**Advanced** button in the**Properties** dialog.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Next, uncheck**Automatic metric** and type**5** in the**Interface metric** field.
 7. Click**OK** on all the open windows to save the changes.
 8. Note that if you use Internet Protocol Version 6 (IPv6) protocol, you’ll need to assign an interface metric for it as well.
 
  With the changes saved, Windows will prioritize your preference when multiple network adapters are connected to your computer. To undo the changes, open**Advanced TCP/IP Settings** and check the**Automatic** **metric** option. Then, click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Your Computer Use Your Wi-Fi and Ethernet at the Same Time
 
  You can configure the network adapter on your computer to use both Wi-Fi and Ethernet connection simultaneously. While it has many advantages, it won't increase your Internet speed. Instead, you’ll need multiple Internet connections powering your Wi-Fi and Ethernet networks to see increased speed.
 
  Alternatively, if you have multiple Wi-Fi connections at home or office, you can configure your Windows computer to automatically switch to the strongest Wi-Fi network available when you move around.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,4 +115,26 @@ To change network priority on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-basics-of-online-videos-the-easiest-10-ideas-for-beginners-on-youtube-for-2024/"><u>[New] Basics of Online Videos The Easiest 10 Ideas for Beginners on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-essential-steps-picking-your-ideal-4k-lens/"><u>[New] Essential Steps Picking Your Ideal 4K Lens</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-smart-video-alteration-for-mac-users-seeking-insta-perfect-posts/"><u>[Updated] 2024 Approved Smart Video Alteration for Mac Users Seeking Insta-Perfect Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-parrots-at-play-unpacking-bebops-next-gen-flight/"><u>2024 Approved Parrots at Play Unpacking Bebop’s Next-Gen Flight</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-zoom-mastery-for-selfie-success-in-instagram-stories/"><u>2024 Approved Zoom Mastery for Selfie Success in Instagram Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-a-step-by-step-guide-to-win-registry-alteration/"><u>Command Line: A Step-by-Step Guide to Win Registry Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-drives-type-recognition-for-your-pc/"><u>Decoding Drives: Type Recognition for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-your-own-terminal-schemes-in-wt/"><u>Designing Your Own Terminal Schemes in WT</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-gt-s50-printer-software-for-windows-users-version-compatible-with-windows-7-8-and-10/"><u>Epson GT-S50 Printer Software for Windows Users: Version Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/five-effective-strategies-for-firewall-management/"><u>Five Effective Strategies for Firewall Management</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guide-complet-comment-transferer-simplement-des-fichiers-et-un-systeme-dexploitation-entre-deux-ssd/"><u>Guide Complet: Comment Transférer Simplement Des Fichiers Et Un Système D’Exploitation Entre Deux SSD</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-error-code-31-restoring-your-internet-connection/"><u>Navigate Through Error Code 31: Restoring Your Internet Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-windows-11-taskbar-connectivity/"><u>Re-Establishing Windows 11 Taskbar Connectivity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/skys-best-the-ultimate-hd-collection-websites-for-2024/"><u>Sky's Best - The Ultimate HD Collection Websites for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-securing-your-settings-against-unintentional-loss-by-cp/"><u>Strategies for Securing Your Settings Against Unintentional Loss by CP</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-workflows-incorporating-additional-folders-in-windows/"><u>Streamlining Workflows: Incorporating Additional Folders in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-prime-day-electronics-bargains-exclusive-october-2024-shopping-guide-on-zdnet/"><u>Top Prime Day Electronics Bargains: Exclusive October 2024 Shopping Guide on ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transforming-traditional-markets-with-virtual-engineering-for-2024/"><u>Transforming Traditional Markets with Virtual Engineering for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-personalized-clock-settings-bypass-automatic-windows-change/"><u>Unlock Personalized Clock Settings, Bypass Automatic Windows Change</u></a></li>
+</ul></div>
 

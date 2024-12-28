@@ -1,7 +1,7 @@
 ---
 title: "The Basics: How to Use Microsoft's ‘Phone Link’ App"
-date: 2024-08-28T00:55:52.821Z
-updated: 2024-08-29T00:55:52.821Z
+date: 2024-12-25T22:30:32.255Z
+updated: 2024-12-28T04:54:43.558Z
 tags:
   - windows10
   - windows11
@@ -16,12 +16,20 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
 ## The Basics: How to Use Microsoft's ‘Phone Link’ App
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Phone Link (and Where Can You Download It)?](#what-is-phone-link-and-where-can-you-download-it)
 * [The System Requirements for Phone Link](#the-system-requirements-for-phone-link)
 * [How to Set Up Phone Link With Windows](#how-to-set-up-phone-link-with-windows)
 * [The Basic Features of the Phone Link App](#the-basic-features-of-the-phone-link-app)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 
  The days of complicated apps to mirror your mobile with Windows are behind us. With Microsoft's Phone Link, you can easily connect an Android or iOS device to Windows 11 or 10 and efficiently manage photos, reply to texts, and much more. But what is the Phone Link app, and what can it do for you?
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Phone Link (and Where Can You Download It)?
 
 ![Screenshot of Phone Link in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link-1.jpg)
@@ -51,38 +56,32 @@ thumbnail: https://thmb.techidaily.com/b88c99aa3c51aa4517857e5b79893f53f6ca04daa
 * **Android**: The phone and the Windows PC must be on the same Wi-Fi network to use Phone Link. You can additionally connect with Bluetooth for extra features like calling. The minimum specification required is Android 7.0 or above.
 * **iOS**: An iPhone can only connect through Bluetooth, so ensure that Bluetooth is switched on, and the iPhone is within range. Your iPhone should be running at least iOS 14 or above.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## How to Set Up Phone Link With Windows
 
 ![Screenshot of the Phone Link set up screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_set_up.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  You'll have to choose between pairing an Android or an iPhone. To pair your PC with your phone, install the companion app for Android or iOS. Download and install either [Link to Windows for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2008631/https://play.google.com/store/apps/details?id=com.microsoft.appmanager&hl=en%5FUS) or [Link to Windows for iOS](https://apps.apple.com/us/app/link-to-windows/id6443686328) from the Google Play Store or Apple Store respectively. Then, launch Phone Link on your PC or locate it from Search on the Windows 11 taskbar.
 
  Phone Link will generate a QR code on the screen that you need to scan using the Link to Windows app on your phone. Alternatively, there is a web option you can use to generate the same QR code.
 
 ![Screenshot of the Phone Link pairing screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_pairing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After scanning this QR code, you'll be provided a linking code on your phone and prompted to sign in to your Microsoft account. Type this alpha-numeric code in the Phone Link window to complete the pairing.
 
  Next, you'll be prompted to grant some system permissions on your device. Allow or disallow to manage what you would like to sync—however, the handshake works best with full permissions. Also, not granting full permissions or enabling Battery saver mode on your phone can cause [syncing errors with Phone Link](https://www.makeuseof.com/how-to-fix-phone-link-app-not-working-windows-11/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Basic Features of the Phone Link App
 
 ![Screenshot of the Phone Link photos screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_photos.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Assuming you're connected with Bluetooth or Wi-Fi, Phone Link has these core features:
 
 * **Texting**: Manage and respond to your text messages. This is handy for those who prefer to type over texting.
@@ -94,11 +93,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Screenshot of the Phone Link messages screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot_of_microsoft_phone_link_messages.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  More advanced features, such as screen mirroring, using Android apps on your PC, and dragging and dropping files between devices, are also available. However, they are restricted to certain compatible phones, mostly under the Samsung brand. This will likely disappoint anyone without a compatible device. However, you don't lose out on much, and the bridge between the two devices is still effective, easy, and free.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -106,3 +104,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-right-tools-for-your-youtube-journey-camera-lenses-explained/"><u>[New] The Right Tools For Your YouTube Journey - Camera Lenses Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-leveraging-finalcut-pro-for-high-quality-youtube-production/"><u>[Updated] In 2024, Leveraging FinalCut Pro for High-Quality YouTube Production</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-ultimate-no-cost-countdown-trackers/"><u>[Updated] In 2024, Ultimate No-Cost Countdown Trackers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-filmmakers-edge-mastering-kinemasters-zoom-functionality/"><u>[Updated] The Filmmaker's Edge Mastering Kinemaster's Zoom Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-x709-issue-windows-fix-guide/"><u>Correcting X709 Issue: Windows Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-system-repair-exploring-distinctions-between-chkdsk-sfc-and-dism/"><u>Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-selection-optimal-windows-options-for-switch-gaming/"><u>Elite Selection: Optimal Windows Options for Switch Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-security-8-ways-to-bypass-denials/"><u>Enhancing Windows Security: 8 Ways to Bypass Denials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hearthstone-stability-enhancements-fixing-game-crashes-on-your-computer/"><u>Hearthstone Stability Enhancements: Fixing Game Crashes on Your Computer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-apple-iphone-12-pro-activation-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 12 Pro Activation Lock</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s iOS? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-cleaning-windows-temporaries/"><u>Mastering the Art of Cleaning Windows' Temporaries</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wordpads-activation-on-your-system/"><u>Mastering WordPad's Activation on Your System</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-windows-access-to-epic-games-launcher/"><u>Reinstating Windows Access to Epic Games Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-improve-windows-roblox-performance-speed/"><u>Tips to Improve Windows Roblox Performance Speed</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-8-filtration-options-for-professional-streams/"><u>Ultimate 8 Filtration Options for Professional Streams</u></a></li>
+</ul></div>
+
