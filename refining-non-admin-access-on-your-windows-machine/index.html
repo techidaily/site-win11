@@ -31,8 +31,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg">
-<meta property="article:published_time" content="2024-12-20T09:44:23.517Z">
-<meta property="article:modified_time" content="2024-12-22T08:06:27.139Z">
+<meta property="article:published_time" content="2024-12-26T15:34:20.075Z">
+<meta property="article:modified_time" content="2024-12-27T17:35:23.052Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -718,15 +718,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-20 17:44:23</span>
-        <span class="mobile">2024-12-20 17:44:23</span>
+        <span class="desktop">2024-12-26 23:34:20</span>
+        <span class="mobile">2024-12-26 23:34:20</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-22 16:06:27</span>
-            <span class="mobile">2024-12-22 16:06:27</span>
+            <span class="desktop">2024-12-28 01:35:23</span>
+            <span class="mobile">2024-12-28 01:35:23</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -797,7 +797,7 @@
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="The-UAC-Behaviors-Available-for-Standard-User-Accounts"><a href="#The-UAC-Behaviors-Available-for-Standard-User-Accounts" class="headerlink" title="The UAC Behaviors Available for Standard User Accounts"></a>The UAC Behaviors Available for Standard User Accounts</h2><p> Unlike when <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/change-user-access-control-works-administrators-windows/" >changing UAC behaviors for administrator accounts <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, the behaviors for standard user accounts are a little more limited. According to the <a class="link"   target="_blank" rel="noopener" href="https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-standard-users" >Microsoft Learn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> website, here are the behaviors you can choose and what they mean:</p>
@@ -807,6 +807,10 @@
 <li><strong>Prompt for credentials</strong>: An operation that requires elevation of privilege prompts the user to type an administrative username and password. If the user enters valid credentials, the operation continues with the applicable privilege.</li>
 </ul>
 <p> The default UAC behavior for standard user accounts is <strong>Prompt for credentials</strong>, but Microsoft recommends you change it to <strong>Automatically deny elevation requests</strong>. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Local-Group-Policy-Editor"><a href="#How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Local-Group-Policy-Editor" class="headerlink" title="How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor"></a>How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor</h2><p> The easiest way to change the way UAC behaves for standard users is to tweak the <strong>User Account Control: Behavior of the elevation prompt for standard users</strong> policy. To do that, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-local-group-policy-editor/" >open the Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and follow the steps below.</p>
 <p> The Local Group Policy Editor isn’t available by default on Windows Home. As such, check out <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >how to access the Group Policy Editor on Windows Home <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before continuing.</p>
 <ol>
@@ -819,21 +823,17 @@
                 ></li>
 <li>Expand the dropdown and choose a different UAC behavior.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg"
                       alt="editing the policy for UAC behavior in Local Group Policy Editor"
                 ><br>4. Click <strong>OK</strong>.</p>
+<p> Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they’d probably get an <strong>Access denied</strong> error message.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they’d probably get an <strong>Access denied</strong> error message.</p>
 <h2 id="How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Registry-Editor"><a href="#How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Registry-Editor" class="headerlink" title="How to Change the UAC Behavior for Standard Users in the Registry Editor"></a>How to Change the UAC Behavior for Standard Users in the Registry Editor</h2><p> If you’re looking for another way to change UAC behavior for standard users, or the <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-local-group-policy-unresponsive/" >Local Group Policy is not working <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> on your computer, you can make changes in the Windows registry instead.</p>
 <p> Before you do that, however, we recommend you <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/use-system-restore-windows/" >create a system restore point <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to protect your computer in case you make a mistake. Once you do that, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-registry-editor/" >open the Registry Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and follow the steps below:</p>
 <ol>
@@ -862,36 +862,42 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg"
                       alt="setting Value data for ConsentPromptbehavior Registry Editor"
                 ><br>5. Click <strong>OK</strong>.</p>
+<p> Now restart your computer to allow the changes to take effect.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> Now restart your computer to allow the changes to take effect.</p>
 <h2 id="Control-UAC’s-Behavior-for-Standard-Users-on-Windows"><a href="#Control-UAC’s-Behavior-for-Standard-Users-on-Windows" class="headerlink" title="Control UAC’s Behavior for Standard Users on Windows"></a>Control UAC’s Behavior for Standard Users on Windows</h2><p> UAC is an integral part of protecting your Windows computer from malicious programs that want to run with elevated privileges. While you can’t make it elevate programs without prompting, you can make it stricter by setting it to <strong>Automatically deny elevation requests</strong>. And, as you can see, it is quite easy to do, whether you’re using the Local Group Policy Editor or the Registry Editor.</p>
 <p> However, this is not the only behavior that the UAC has for standard user accounts, and you can change it depending on how secure these accounts are and the environment the computer is in. We’re going to show you how.</p>
-<p><span class="atpl-alsoreadstyle">Also read:</span></p>
-<div><ul>
-<li><a target="_blank" rel="noopener" href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-youtube-to-mp4-blueprint/"><u>[Updated] In 2024, The Ultimate YouTube to MP4 Blueprint</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-support.techidaily.com/2024-approved-interactive-escapes-top-10-virtual-accessories/"><u>2024 Approved Interactive Escapes Top 10 Virtual Accessories</u></a></li>
-<li><a href="https://win11.techidaily.com/4-ways-to-clear-the-tpm-on-windows-11/"><u>4 Ways to Clear the TPM on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/accurate-printouts-from-powerpoint-in-windows-9-top-fixes-unveiled/"><u>Accurate Printouts From PowerPoint in Windows: 9 Top Fixes Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/advanced-users-activate-elevated-cmd-status/"><u>Advanced Users: Activate Elevated CMD Status</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-clutter-pro-tips-to-adhere-sticky-notes-on-w11w10/"><u>Avoid Clutter: Pro Tips to Adhere Sticky Notes on W11/W10</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/complete-guide-to-downloading-and-updating-nvidia-geforce-mx150-drivers-on-windows-1011/"><u>Complete Guide to Downloading and Updating NVIDIA GeForce MX150 Drivers on Windows 10/11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-able.techidaily.com/football-manager-2021-for-windows-solving-common-pc-performance-issues/"><u>Football Manager 2021 for Windows - Solving Common PC Performance Issues</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://driver-download.techidaily.com/mastering-the-art-of-sandisk-ssd-driver-downloads-a-comprehensive-tutorial/"><u>Mastering the Art of Sandisk SSD Driver Downloads: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/1719364636660-self-hosted-windows-gptclone-via-gpt4all/"><u>Self-Hosted Windows GPTClone via GPT4All</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-issues.techidaily.com/why-wont-people-hear-me-comprehensive-fixes-for-discord-sound-issues/"><u>Why Won’t People Hear Me? Comprehensive Fixes for Discord Sound Issues</u></a></li>
-</ul></div>
-
 <p><ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
-      data-full-width-responsive="true"></ins>
-    </p>
+      data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/new-in-2024-elevating-your-igtv-presence-with-stunning-covers/"><u>[New] In 2024, Elevating Your IGTV Presence with Stunning Covers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/new-penning-powerful-film-prospectus-for-2024/"><u>[New] Penning Powerful Film Prospectus for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-steps-for-fixing-ms-store-crash-code-0x0-on-win-1011/"><u>Detailed Steps for Fixing MS Store Crash (Code 0X0) on Win 10/11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-70-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor 70 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/effortless-download-and-setup-for-the-latest-graphics-drivers-on-your-amd-ryzen-5-2400g/"><u>Effortless Download & Setup for the Latest Graphics Drivers on Your AMD Ryzen 5 2400G</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-workflow-with-win-11s-auto-organize-functionality/"><u>Enhance Workflow with Win 11'S Auto-Organize Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-same-user-login-problem-for-multiple-windows-users/"><u>Fixing Same-User Login Problem for Multiple Windows Users</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Realme C53? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-blog.techidaily.com/overcome-gaming-hurdles-fix-your-eac-launch-failures-by-implementing-easy-anti-cheat/"><u>Overcome Gaming Hurdles: Fix Your EAC Launch Failures by Implementing Easy Anti-Cheat</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-obscured-filespace-with-altwindirstat/"><u>Reviving Obscured Filespace with AltWinDirStat</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-dialog-box-for-trusted-hardware-in-windows-11/"><u>Securing Dialog Box for Trusted Hardware in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-into-the-world-of-call-management-windows-11-dialer/"><u>Step Into the World of Call Management: Windows 11 Dialer</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-bypass-access-denied-issues-on-windows-pc/"><u>Strategies to Bypass 'Access Denied' Issues on Windows PC</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/the-definitive-guide-to-secured-windows-downloads/"><u>The Definitive Guide to Secured Windows Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-top-7-techniques-to-master-windows-11-40/"><u>The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/unlock-your-apple-iphone-13-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>Unlock Your Apple iPhone 13 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Infinix Note 30 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/updated-how-to-add-audio-fade-in-effect/"><u>Updated How to Add Audio Fade In Effect</u></a></li>
+<li><a href="https://win11.techidaily.com/witness-windows-11-evolve-with-its-latest-moment-updates/"><u>Witness Windows 11 Evolve with Its Latest Moment Updates</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -902,11 +908,11 @@
         <li><strong>Title:</strong> Refining Non-Admin Access on Your Windows Machine</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-12-20 17:44:23</li>
+                :</strong> 2024-12-26 23:34:20</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-22 16:06:27
+                    :</strong> 2024-12-28 01:35:23
             </li>
         
         <li>
@@ -950,13 +956,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/windows-11-arm-installation-made-simple-via-iso-download-guide/"
+                        href="/master-windows-task-handling-with-advanced-execution-tools/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Windows 11 ARM Installation Made Simple via ISO Download Guide</span>
+                                <span class="post-nav-title-item">Master Windows Task Handling with Advanced Execution Tools</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -966,10 +972,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/renaming-microsoft-account-admin-for-enhanced-security/"
+                        href="/reducing-system-alert-errors-in-win10win11-defender/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Renaming Microsoft Account Admin for Enhanced Security</span>
+                                <span class="post-nav-title-item">Reducing System Alert Errors in Win10/Win11 Defender</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

@@ -29,16 +29,11 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Gpedit-In-Run-Menu.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/uac-behavior-admin-policy-local-group-policy-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-uac-behavior-admin-policy-local-group-policy-editor.jpg">
-<meta property="og:image" content="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg">
-<meta property="og:image" content="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/consentpromptbehavior-value-registry-editor.jpg">
-<meta property="og:image" content="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/editing-consentpromptbehavior-value-registry-editor.jpg">
-<meta property="og:image" content="https://www.macdvdripperpro.com/images/devices-3.png">
-<meta property="og:image" content="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg">
-<meta property="article:published_time" content="2024-08-27T16:55:11.697Z">
-<meta property="article:modified_time" content="2024-08-28T16:55:11.697Z">
+<meta property="article:published_time" content="2024-12-25T08:28:41.320Z">
+<meta property="article:modified_time" content="2024-12-27T08:24:41.000Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -724,15 +719,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-08-28 00:55:11</span>
-        <span class="mobile">2024-08-28 00:55:11</span>
+        <span class="desktop">2024-12-25 16:28:41</span>
+        <span class="mobile">2024-12-25 16:28:41</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-08-29 00:55:11</span>
-            <span class="mobile">2024-08-29 00:55:11</span>
+            <span class="desktop">2024-12-27 16:24:41</span>
+            <span class="mobile">2024-12-27 16:24:41</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -798,6 +793,10 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Mastering-Admin-Access-Revamping-Windows-UAC-Protocols"><a href="#Mastering-Admin-Access-Revamping-Windows-UAC-Protocols" class="headerlink" title="Mastering Admin Access: Revamping Windows UAC Protocols"></a>Mastering Admin Access: Revamping Windows UAC Protocols</h2><p> If you’ve ever tried running a program on Windows as an administrator, you’ve probably come across a prompt asking you to either give or deny it permission to make high-level changes. That’s User Access Control (UAC) in action, and it adds an extra layer of security when a program or task is seeking elevated privileges. This gives you the chance to stop unwanted or malicious software from making changes on your PC.</p>
 <p> As an administrator, you can change how UAC behaves. In this guide, we’re going to show you how to do that using the Local Group Policy Editor and Registry Editor.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="What-Behaviors-Does-UAC-Have-for-Administrators"><a href="#What-Behaviors-Does-UAC-Have-for-Administrators" class="headerlink" title="What Behaviors Does UAC Have for Administrators?"></a>What Behaviors Does UAC Have for Administrators?</h2><p> Before you go about changing the way UAC acts for administrators, it helps to know what behaviors you can choose and what they mean. We’re going to list them below, along with the definitions that are listed on <a class="link"   target="_blank" rel="noopener" href="https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/user-account-control-behavior-of-the-elevation-prompt-for-administrators-in-admin-approval-mode" >Microsoft Learn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> Here’s what you can choose:</p>
 <ul>
@@ -809,6 +808,10 @@
 <li><strong>Prompt for consent for non-Windows binaries</strong>: This prompt for consent is the default. When an operation for a non-Microsoft application requires elevation of privilege, the user is prompted on the secure desktop to select <strong>Permit</strong> or <strong>Deny</strong>. If the user selects <strong>Permit</strong>, the operation continues with the user’s highest available privilege.</li>
 </ul>
 <p> Now that you’re familiar with the UAC behaviors for administrators, let’s see how to change them.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Changing-UAC-Behavior-for-Administrators-in-the-Local-Group-Policy-Editor"><a href="#Changing-UAC-Behavior-for-Administrators-in-the-Local-Group-Policy-Editor" class="headerlink" title="Changing UAC Behavior for Administrators in the Local Group Policy Editor"></a>Changing UAC Behavior for Administrators in the Local Group Policy Editor</h2><p> To change the UAC behavior for admins using the Local Group Policy Editor (LGPE), start by pressing <strong>Win + R</strong>, typing <strong>gpedit.msc</strong> in Windows Run, and hitting the <strong>Enter</strong> key to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-local-group-policy-editor/" >open the LGPE on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
                      lazyload
@@ -831,14 +834,6 @@
                       alt="Editing the UAC behavior for admin policy in the Local Group Policy Editor"
                 ></p>
 <p> To apply and save the changes, click on <strong>OK</strong>.</p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png"
-                      border="0"
-                ></a></p>
-<!-- affiliate ads end -->
 <h2 id="Changing-UAC-Behavior-for-Administrators-in-the-Registry-Editor"><a href="#Changing-UAC-Behavior-for-Administrators-in-the-Registry-Editor" class="headerlink" title="Changing UAC Behavior for Administrators in the Registry Editor"></a>Changing UAC Behavior for Administrators in the Registry Editor</h2><p> To change the UAC behavior for administrators using the Registry Editor, start by pressing <strong>Win + R</strong>, typing <strong>regedit</strong> in Windows Run, and hitting the <strong>Enter</strong> key.</p>
 <p><img  
                      lazyload
@@ -846,14 +841,6 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg"
                       alt="Regedit in Run"
                 ></p>
-<!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
-<!-- affiliate ads end -->
 <p> In the UAC prompt, click <strong>Yes</strong> to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-local-security-policy/" >open the Registry Editor on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> Changing settings in the Registry Editor can impact the performance of your computer negatively if you make a mistake. To make sure you always have a way to revert the changes, we recommend learning <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >how to back up and restore the Windows Registry <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p> In the navigation panel on the left, head to <strong>HKEY_LOCAL_MACHINE &gt; SOFTWARE &gt; Microsoft &gt; Windows &gt; CurrentVersion &gt; Policies &gt; System</strong>. In the right panel, double-click the <strong>ConsentPromptBehaviorAdmin</strong> value to modify it.</p>
@@ -864,13 +851,9 @@
                       alt="The ConsentPromptBehaviorAdmin value in Registry Editor"
                 ></p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png"
-                      border="0"
-                >Easy and Safe Partition Software &amp; Hard Disk Manager</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <p> Enter one of the following variables in the text box for <strong>Value date</strong>:</p>
 <table>
 <thead>
@@ -912,22 +895,14 @@
                       alt="Editing the ConsentPromptBehaviorAdmin value in Registry Editor"
                 ></p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://www.macdvdripperpro.com/images/devices-3.png"
-                      border="0"
-                ></a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <p> Then, click <strong>OK</strong> to apply and save the changes.</p>
 <!-- affiliate ads begin -->
-<p><a target="_blank" rel="noopener" href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg"
-                      border="0"
-                > vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External&#x2F;Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders.<br>This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <h2 id="Control-the-UAC’s-Behavior-as-an-Administrator"><a href="#Control-the-UAC’s-Behavior-as-an-Administrator" class="headerlink" title="Control the UAC’s Behavior as an Administrator"></a>Control the UAC’s Behavior as an Administrator</h2><p> Now you can change the behavior of UAC for admins as you please, depending on your situation. Just be careful not to make your computer more vulnerable in the process, which can happen if you choose <strong>Elevate without prompting</strong>. Microsoft recommends using that option only when you’re in a highly secure environment where the administrator accounts are tightly controlled.</p>
 <p> In that case, you can even disable the UAC altogether if you’d like since you know there are other measures in place to protect your computer from unwanted or malicious programs.</p>
 <p> As an administrator, you can change how UAC behaves. In this guide, we’re going to show you how to do that using the Local Group Policy Editor and Registry Editor.</p>
@@ -937,6 +912,22 @@
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-unlocking-creative-edits-your-guide-to-snapchat-photos-for-2024/"><u>[Updated] Unlocking Creative Edits Your Guide to Snapchat Photos for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-howtos.techidaily.com/diagnose-and-repair-your-dota-2-game-bug-change-rendering-api-error-solved-swiftly/"><u>Diagnose & Repair Your Dota 2 Game Bug: Change Rendering API Error Solved Swiftly!</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-approach-uninstalling-reluctant-printers-in-win-os/"><u>Direct Approach: Uninstalling Reluctant Printers in Win OS</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6s-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6s to Computer? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-ace-2-pro-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Ace 2 Pro Device</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-knowledge.techidaily.com/in-2024-videoleap-zoom-hacks-for-detailed-video-insight/"><u>In 2024, Videoleap Zoom Hacks for Detailed Video Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-admin-command-prompt-tools/"><u>Mastering Windows Admin: Command Prompt Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-of-entering-the-startup-repair-function/"><u>Mastery of Entering the Startup Repair Function</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-pitfalls-of-windows-auditory-restart-failures/"><u>Navigating the Pitfalls of Windows Auditory Restart Failures</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-friendly.techidaily.com/step-into-the-future-samsungs-new-k850-ultrablade-unveiled-for-2024/"><u>Step Into the Future - Samsung's New K850 UltraBlade Unveiled for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/unveiling-the-truth-about-sharex-reviews-and-options-for-2024/"><u>Unveiling the Truth About ShareX Reviews & Options for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-updates.techidaily.com/why-opting-for-an-affordable-soundbar-can-be-a-wise-choice/"><u>Why Opting for an Affordable Soundbar Can Be a Wise Choice</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -947,11 +938,11 @@
         <li><strong>Title:</strong> Mastering Admin Access: Revamping Windows UAC Protocols</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-08-28 00:55:11</li>
+                :</strong> 2024-12-25 16:28:41</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-08-29 00:55:11
+                    :</strong> 2024-12-27 16:24:41
             </li>
         
         <li>
@@ -995,13 +986,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/overcoming-steam-network-errors-in-win11/"
+                        href="/speedy-multilingual-navigation-on-windows-1011-with-keys/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Overcoming Steam Network Errors in Win11</span>
+                                <span class="post-nav-title-item">Speedy Multilingual Navigation on Windows 10/11 with Keys</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1011,10 +1002,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/how-to-tell-the-age-of-a-windows-laptop-or-desktop/"
+                        href="/why-keeping-track-with-wins-11-alerts-matters/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">How to Tell the Age of a Windows Laptop or Desktop</span>
+                                <span class="post-nav-title-item">Why Keeping Track With Wins 11 Alerts Matters</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
