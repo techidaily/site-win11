@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips and Tricks: Leveraging the Power of Text Splitting in Excel"
-date: 2024-08-28T00:49:41.914Z
-updated: 2024-08-29T00:49:41.914Z
+date: 2025-01-03T17:49:47.581Z
+updated: 2025-01-06T16:17:19.764Z
 tags:
   - excel
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ![Column inserted for last names](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/column-added.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, select the range of cells containing the names and then click Data > Text to Columns
 
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
@@ -56,15 +60,16 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ![Names split into different columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/separated-names.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Text to Columns with Fixed Width Text
 
  In this example, we will split text that has a fixed width. In the data below, we have an invoice code that always begins with two letters followed by a variable number of numeric digits. The two-letter code represents the client and the numeric value after it represents the invoice number. We want to separate the first two characters of the invoice code from the numbers that succeed it and deposit those values into the Client and Invoice No columns we've set up (columns B and C). We also want to keep the full invoice code intact in Column A.
 
 ![Sample data for fixed width text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/fixed-width-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Because the invoice code is always two characters, it has a fixed width.
 
  Start by selecting the range of cells containing the text you want to split and then clicking Data > Text to Columns.
@@ -72,16 +77,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the first page of the wizard, select the "Fixed Width" option and then click "Next."
 
 ![Splitting text with a fixed width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/fixed-width.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  On the next page, we need to specify the position(s) in the column to split the content. We can do this by clicking in the preview area provided.
 
 **Note:** Text to Columns sometimes provides a suggested break(s). This can save you some time, but keep an eye on it. The suggestions are not always correct.
@@ -94,12 +96,13 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ![Set a destination for split cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/destination-set.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The invoice numbers are successfully separated into columns B and C. The original data remains in column A.
 
 ![Splitting text with a fixed width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/fixed-width.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, we've now looked at splitting content using delimiters and fixed widths. We've also looked at splitting text in place and splitting it to different places on a worksheet. Now let's look at two extra special uses of Text to Columns.
 
@@ -114,8 +117,9 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![US date formats to convert](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/us-dates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  First, we're going to select the range of cells containing the dates to convert and then click Data > Text to Columns.
 
 ![Text to Columns button on the Data tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/data-text-to-columns.png) 
@@ -124,23 +128,26 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 
 ![All delimiter character options unchecked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/all-delimiters-unchecked.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the final page, select the Date option and use the list to specify the date format of the data you have received. In this example, I will select MDY---the format typically used in the US.
 
 ![Selecting the MDY format for dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/mdy-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After clicking "Finish," the dates are successfully converted and are ready for further analysis.
 
 ![US dates converted to UK format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/converted-dates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Converting International Number Formats
 
  In addition to being a tool for converting different date formats, Text to Columns can also convert international number formats.
@@ -160,8 +167,9 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
 ![Advanced options at step 3 of the wizard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/advanced-button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the settings window that opens, enter the character you want to use in the Thousand separator and Decimal separator boxes provided. Click "OK" and then click "Finish" when you get back to the wizard.
 
 ![Specifying the decimal and thousand separator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/03/advanced-options.png) 
@@ -180,8 +188,6 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +195,22 @@ thumbnail: https://thmb.techidaily.com/ef9be7780d43a1d277262443e1e1ad4f9cd5011c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-end-to-start-annoying-yourself-with-yt-playlist-upside-down/"><u>[New] In 2024, From End to Start Annoying Yourself with YT Playlist Upside-Down</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-incorporating-background-scenes-for-visual-depth/"><u>2024 Approved Incorporating Background Scenes for Visual Depth</u></a></li>
+<li><a href="https://extra-information.techidaily.com/arctic-athleticism-revealed-the-top-of-the-line-in-olympic-snowboard-cross/"><u>Arctic Athleticism Revealed The Top of the Line in Olympic Snowboard Cross</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016424304-getting-your-modern-warfare-voice-chat-up-and-running-again-solutions-inside/"><u>Getting Your Modern Warfare Voice Chat Up and Running Again – Solutions Inside</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-to-elevate-your-tablet-experience-with-the-space-saving-amazon-basics-stand/"><u>How to Elevate Your Tablet Experience with the Space-Saving Amazon Basics Stand!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reorder-dual-display-setups/"><u>How to Reorder Dual Display Setups</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a15-4g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A15 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-knowledge-navigating-the-world-of-windows-keys-and-deals/"><u>Insider Knowledge: Navigating the World of Windows Keys & Deals</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/kioxias-cutting-edge-optical-ssds-deliver-blistering-speeds-and-unprecedented-distance-capabilities-up-to-40-meters-away-from-the-processor/"><u>Kioxia's Cutting-Edge Optical SSDs Deliver Blistering Speeds and Unprecedented Distance Capabilities: Up to 40 Meters Away From the Processor</u></a></li>
+<li><a href="https://win11.techidaily.com/rename-user-home-path-a-windows-11-guide/"><u>Rename User Home Path - A Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/stifling-windows-11-folder-tab-noises/"><u>Stifling Windows 11 Folder Tab Noises</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-error-0x80070141-in-windows-systems/"><u>Strategies to Overcome Error 0X80070141 in Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-crashes-in-pc-versions-of-starfield-adventure/"><u>Troubleshooting Tips: Addressing Crashes in PC Versions of Starfield Adventure</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-platforms-your-pc-and-galaxy-phone-via-flow/"><u>Uniting Platforms – Your PC and Galaxy Phone Via Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-tips-resolving-chrome-profiles-failures/"><u>Winning Tips: Resolving Chrome Profiles Failures</u></a></li>
+</ul></div>
 

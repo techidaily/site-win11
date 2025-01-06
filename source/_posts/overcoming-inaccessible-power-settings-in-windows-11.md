@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2024-12-27T05:50:06.756Z
-updated: 2024-12-28T02:41:40.192Z
+date: 2025-01-03T20:15:04.320Z
+updated: 2025-01-06T17:35:19.911Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Can't You Change the Power Mode in Windows 11?
 
@@ -48,7 +52,7 @@ Here is how you can proceed:
 4. Now, look for**Power options** and click on it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
@@ -57,15 +61,7 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, check if you can now change the power mode successfully.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -84,6 +80,10 @@ Here is how you can run the troubleshooter:
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset the Power Settings
 
  If changing the power plan did not do the trick for you, you can try resetting the power settings to their default state. They will revert to how they were when you began using Windows, thus fixing the error at hand.
@@ -99,7 +99,7 @@ powercfg –restoredefaultscheme
 5. Once the command is executed, check if you can change the power mode successfully.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
@@ -114,7 +114,7 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
@@ -150,22 +150,24 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-breaking-down-instagrams-video-conversation-protocol/"><u>[Updated] 2024 Approved Breaking Down Instagram's Video Conversation Protocol</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/abbyy-promotes-vonburg-to-new-role-of-chief-customer-officer/"><u>ABBYY Promotes vonBurg to New Role of Chief Customer Officer</u></a></li>
-<li><a href="https://win11.techidaily.com/ditch-the-focus-spotlight-icon-on-win11-desktop/"><u>Ditch the Focus: Spotlight Icon on Win11 Desktop</u></a></li>
-<li><a href="https://win-online.techidaily.com/free-online-converter-transforming-aiff-files-into-flac-format-moveviavi/"><u>Free Online Converter: Transforming AIFF Files Into FLAC Format - MoveVIAVi</u></a></li>
-<li><a href="https://network-issues.techidaily.com/invisible-display-post-graphic-card-change/"><u>Invisible Display Post Graphic Card Change</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-window-settings-for-optimal-space-in-win11/"><u>Master the Window Settings for Optimal Space in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-managerial-maze-free-old-championship-soccer-management-guide/"><u>Navigate the Managerial Maze: Free Old Championship Soccer Management Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unpreviewed-documents-error-in-office-outlook/"><u>Quick Fixes for Unpreviewed Documents Error in Office Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-usability-ai-transformations-in-windows/"><u>Redefining Usability: AI Transformations in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-directories-not-empty-error-on-win11-with-0x80070091/"><u>Remedying Directories Not Empty Error on Win11 with #0X80070091</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cloud-sync-failures-windows-10-and-11/"><u>Resolving Cloud Sync Failures: Windows 10 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-2024-solutions-fixing-minecraft-stuttering-issues-on-your-pc/"><u>Top 2024 Solutions: Fixing Minecraft Stuttering Issues on Your PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-93-crucial-spanish-commands-for-seamless-journeys/"><u>Top 93 Crucial Spanish Commands for Seamless Journeys</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-for-msvcr71dll-not-found-errors/"><u>Troubleshooting Steps for MSVCR71.DLL Not Found Errors</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-apple-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>Unlock Apple iPhone 12 mini Without Passcode Easily</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unlocking-social-media-potential-stream-to-fb-via-obs-for-2024/"><u>Unlocking Social Media Potential Stream to FB via OBS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/where-are-win11-control-panel-settings-locate-missing-keys/"><u>Where Are Win11 Control Panel Settings? Locate Missing Keys</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-how-to-personalize-videos-adding-captions-in-the-photos-app/"><u>[New] 2024 Approved How to Personalize Videos Adding Captions in the Photos App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-pitch-preservation-monitoring-microphones/"><u>[Updated] 2024 Approved Pitch Preservation Monitoring Microphones</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-apks-on-modern-windows-oses/"><u>Fast Tracking APKs on Modern Windows OSes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-smart-7-hd-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Smart 7 HD Lock Screen Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone SE (2022) in the Best Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-dr-c225-printer-driver-software-download-and-compatibility-with-windows-11-10-and-n/"><u>Latest Canon DR-C225 Printer Driver Software: Download & Compatibility with Windows 11, 10, and N</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722959444546-latest-compatible-drivers-for-samsung-850-evo-storage-device-instant-access/"><u>Latest Compatible Drivers for Samsung 850 EVO Storage Device – Instant Access</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-adobes-ease-purchase-via-microsoft/"><u>Mastering Adobe's Ease: Purchase via Microsoft</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ocm-free-legacy-soccer-management-game/"><u>Mastering OCM: Free Legacy Soccer Management Game</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcome-format-required-error/"><u>Quick Guide to Overcome Format Required Error</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-disappearing-elements-in-windows-11-desktop/"><u>Recovering Disappearing Elements in Windows 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-the-malfunctional-windows-diagnostic-tool/"><u>Recovering the Malfunctional Windows Diagnostic Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/spotify-discount-101-a-students-blueprint-to-enjoy-music-at-half-price/"><u>Spotify Discount 101: A Student’s Blueprint to Enjoy Music at Half Price</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-a-transparent-taskbar-on-win11/"><u>Step-by-Step Guide to a Transparent Taskbar on Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-art-of-using-kinemaster-techniques-and-top-online-video-editors/"><u>The Art of Using KineMaster Techniques and Top Online Video Editors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209730484-9780806539621-the-wicca-garden/"><u>The Wicca Garden | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/uninterrupted-qbittorrent-service-with-new-hardware-setup/"><u>Uninterrupted qBittorrent Service with New Hardware Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-hello-fingerprint-scanners-were-hacked-should-you-still-use-them/"><u>Windows Hello Fingerprint Scanners Were Hacked: Should You Still Use Them?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Management in Excel: A Guide to Advanced Sorting and Filter Options"
-date: 2024-08-28T00:48:39.201Z
-updated: 2024-08-29T00:48:39.201Z
+date: 2025-01-03T19:28:06.026Z
+updated: 2025-01-06T19:13:35.033Z
 tags:
   - excel
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ![cel d3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/d3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the "Data" tab on top of the ribbon, click "Filter."
 
 ![filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/filter.png) 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ![sort smallest to largest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/small-to-large.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We can apply the same sorting to any of the other columns, sorting by the date of hire, for example, by selecting the "Sort Oldest to Newest" option in the same menu.
 
 ![sort oldest to newest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/oldest-to-newest.png) 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
  These sorting options also work for the age and name columns. We can sort by oldest to youngest in age, for example, or arrange employee names alphabetically by clicking the same arrow and choosing the appropriate option.
 
 ![sort a to z](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/a-to-z.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Filter Data in Excel
 
@@ -59,32 +71,34 @@ thumbnail: https://thmb.techidaily.com/7d1b7d497493e5756a9eae2f81fc5bb531d48fafe
 
 ![uncheck boxes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/uncheck.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  There's another way to do this. Let's click the arrow next to "Salary" once more.
 
 ![sorting arrow](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/salary-arrow.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  This time we'll click "Number Filters" from the filtering menu and then "Less Than."
 
 ![number filters less than](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/number-less-than.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here we can also filter our results, removing anyone who makes over $100,000 per year. But this way works much better for large data sets where you might have to do a lot of manual clicking to remove entries. To the right of the dropdown box that says "is less than," enter "100,000" (or whatever figure you want to use) and then press "OK."
 
 ![100,000 ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/100k-ok.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We can use this filter for a number of other reasons, too. For example, we can filter out all salaries that are above average by clicking "Below Average" from the same menu (Number Filters > Below Average).
 
 ![filter below average](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/below-average.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We can also combine filters. Here we'll find all salaries greater than $60,000, but less than $120,000\. First, we'll select "is greater than" in the first dropdown box.
 
 ![filter greater than](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/greater.png) 
@@ -97,10 +111,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![60,000 ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/60k.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  Next to "is less than" add $120,000.
 
 ![120,000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/120k.png) 
@@ -109,12 +119,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![press ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/ok.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Filter Data from Multiple Columns at Once
 
  In this example, we're going to filter by date hired, and salary. We'll look specifically for people hired after 2013, and with a salary of less than $70,000 per year.
@@ -128,8 +132,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![number filters less than](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/number-less-than.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Add "70,000" next to "is less than" and then press "OK."
 
 ![70,000](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/70.png) 
@@ -139,21 +144,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![date filter after](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/date-after.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Type "2013" into the field to the right of "is after" and then press "OK." This will leave you only with employees who both make less than $70,000 per year who and were hired in 2014 or later.
 
 ![year 2013 press ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/2013-ok.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel has a number of powerful filtering options, and each is as customizable as you'd need it to be. With a little imagination, you can filter huge datasets down to only the pieces of information that matter.
 
 <ins class="adsbygoogle"
@@ -162,8 +163,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +170,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-top-notch-chromebook-snapshot-tool/"><u>[Updated] 2024 Approved Top-Notch Chromebook Snapshot Tool</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-step-beyond-reality-reviewing-lgs-virtual-vision-for-2024/"><u>[Updated] Step Beyond Reality Reviewing LG's Virtual Vision for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/2024pc-3/"><u>【2024年度リリース】プロの品質に匹敵するPC画面録画ソフトウェア トップ3選</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-shorts-earning-strategies-what-you-need-how-much-you-can-make/"><u>2024 Approved Youtube Shorts Earning Strategies What You Need, How Much You Can Make</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029304127-windows/"><u>簡単なガイド：Windowsの小さな映像をつなぐコツ</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027312470-youtube/"><u>長時間ビデオをダウンロードするためのYoutube対応手順</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027730928-mp4/"><u>最新の動画・音声編集ツールとアプリをご紹介：MP4含むサポートあり</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028697750-gif/"><u>GIFへと転換: ツイッター動画の変換技術とステップ</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-11-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Passcode not Working?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-easy-steps-to-securely-record-your-virtual-gatherings-with-google/"><u>In 2024, Easy Steps to Securely Record Your Virtual Gatherings with Google</u></a></li>
+<li><a href="https://video-capture.techidaily.com/legacy-hdmi-linkup/"><u>Legacy HDMI Linkup</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-a1-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/step-by-step-guide-navigating-your-printers-configuration-options-yl-computing/"><u>Step-by-Step Guide: Navigating Your Printer's Configuration Options - YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029402885-youtube/"><u>ウォークマンで直接収録するYouTubeの曲の転送手順</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027759412-gif/"><u>リフレクス・トゥ・ミラー: GIFアニメの自動逆回転テクニック</u></a></li>
+</ul></div>
 

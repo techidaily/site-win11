@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Combining Columns Effectively in Microsoft Excel"
-date: 2024-08-28T00:48:14.269Z
-updated: 2024-08-29T00:48:14.269Z
+date: 2025-01-01T18:32:25.637Z
+updated: 2025-01-06T16:36:38.318Z
 tags:
   - excel
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
 * [Create Another Group](https://some-techniques.techidaily.com/updated-full-review-of-picsart-app-a-step-by-step-guide/)
 * [Ungroup Columns in Excel](https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  In Excel, select the columns you want to group. Go to the Data tab. Open the Outline drop-down menu and pick "Group." Use the plus (+) and minus (-) buttons that appear to expand and collapse the group.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a24327de3f954b0afa1a21a400dc142c840e7eb4a
  If you organize a spreadsheet by columns, you may only want to work with specific columns at one time. In Microsoft Excel, you can group columns and expand and collapse them as you work. We'll show you how to do just that.
 
  Not only can you group columns in Excel, but you can also create subgroups or more than one group in the same sheet. This allows you to [see only those columns you need](https://some-knowledge.techidaily.com/updated-how-to-gently-lower-volume-without-distortion/) while hiding or collapsing the others.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Group Columns in Excel
 
@@ -41,22 +49,21 @@ Related: [How to Group and Ungroup Rows and Columns in Google Sheets](https://mo
 ![Group in the Outline menu on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/OutlineGroup-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your selected columns grouped with a line and minus sign (-) button above them. You can use the minus sign button to collapse the group and the subsequent plus sign (+) button to expand it again.
 
 ![Minus sign button for grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedColumnsMinus-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll also notice buttons labeled 1 and 2 on the far left, which you can also use to expand and collapse the group. However, the number buttons change a bit if you add a subgroup or another group in your sheet, as we'll describe next.
 
 ![Number buttons for grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedColumnsNumbers-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create a Subgroup
 
  To create a subgroup of a [larger group of columns](https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-p60-drfone-by-drfone-virtual-android/), you follow the same steps as above. Select the columns, go to the Data tab, and pick "Group" in the Outline drop-down menu.
@@ -67,16 +74,14 @@ Related: [How to Group and Ungroup Rows and Columns in Google Sheets](https://mo
 
 ![Button 3 for a subgroup of columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubgroupNumber3-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  You can still use the plus (+) and minus (-) sign buttons to expand and collapse each subgroup and group. But with the number buttons, you can quickly expand and collapse all groups on a level using the number button corresponding to the group level.
 
 ![Number buttons for expanding grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ExpandNumbers-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create Another Group
 
  If you want to create another separate group of columns in your sheet, you can do this as well. However, these groups can't be right next to each other.
@@ -93,12 +98,6 @@ Related: [How to Create an Automatic Outline in Microsoft Excel](https://youtube
 
 ![All groups collapsed with button 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/CollapseAll-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ungroup Columns in Excel
 
  If you want to return your columns to their original states, you can simply ungroup them.
@@ -110,8 +109,9 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 ![Ungroup in the Outline menu on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupColumns-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your columns ungrouped.
 
 ![Ungrouped columns in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupedColumns-ExcelGroupColumns.png) 
@@ -121,6 +121,10 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
  To do this, we select columns F through H and click "Ungroup" on the data tab.
 
 ![Ungroup in the Outline menu for a subgroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupCertainColumns-ExcelGroupColumns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll then see that the rest of the columns remain in their group(s) with buttons and all.
 
@@ -136,8 +140,6 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +147,24 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-excellent-no-cost-live-camera-capturer/"><u>[New] 2024 Approved Excellent No-Cost Live Camera Capturer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[New] In 2024, Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-prime-audio-alteration-tech-for-influencer-marketers/"><u>[Updated] 2024 Approved Prime Audio Alteration Tech for Influencer Marketers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-picks-top-12-screen-recording-software-no-time-limit-for-2024/"><u>[Updated] Expert Picks Top 12 Screen Recording Software, No Time Limit for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-discovering-the-magic-filmora-editors-top-10-highlights/"><u>In 2024, Discovering the Magic Filmora Editor's Top 10 Highlights</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-enhance-productions-no-cost-sounds-available/"><u>In 2024, Enhance Productions No-Cost Sounds Available!</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-transforming-avi-videos-into-gifs-with-speed/"><u>Quick Guide: Transforming AVI Videos Into GIFs with Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-on-effortlessly-transforming-snd-tracks-into-mp3-files/"><u>Quick Tips on Effortlessly Transforming SND Tracks Into MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-conversion-a-step-by-step-guide-to-transferring-dvds-onto-your-iphone-7-or-7-plus/"><u>Seamless Conversion: A Step-by-Step Guide to Transferring DVDs Onto Your iPhone 7 or 7 Plus</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solidify-computer-screen-lines-alignment/"><u>Solidify Computer Screen Lines' Alignment</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-the-ghost-add-on-to-your-kodi-version-20-and-19-setup/"><u>Step-by-Step Guide: Adding the Ghost Add-On to Your Kodi (Version 20 & 19) Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-videos-into-mov-format/"><u>Step-by-Step Guide: Converting Videos Into MOV Format</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-karaoke-tracks-from-youtube-without-restrictions/"><u>Step-by-Step Guide: Downloading Karaoke Tracks From YouTube Without Restrictions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-process-for-clipping-movies-at-15-second-markers-the-ultimate-tutorial/"><u>Step-by-Step Process for Clipping Movies at 15-Second Markers: The Ultimate Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-efficiently-reducing-file-size-using-adobe-media-encoder/"><u>Step-by-Step Tutorial on Efficiently Reducing File Size Using Adobe Media Encoder</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-10-microsoft-enterprise-solutions-for-ios-2022-best-picks/"><u>Top 10 Microsoft Enterprise Solutions for iOS - 2022 Best Picks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleash-epic-battles-on-a-grand-scale-with-philips-evnias-49-curved-oled-gaming-screen/"><u>Unleash Epic Battles on a Grand Scale with Philips Evnia's 49” Curved OLED Gaming Screen</u></a></li>
+</ul></div>
 

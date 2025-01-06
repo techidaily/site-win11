@@ -1,7 +1,7 @@
 ---
 title: Quick & Easy Windows Setup on Steam Deck
-date: 2024-12-24T20:47:56.124Z
-updated: 2024-12-27T18:04:38.230Z
+date: 2025-01-02T19:21:57.275Z
+updated: 2025-01-06T17:49:46.056Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/696965aa1a0f4c21fdfd456761bb63f354f50ffc3
 
  Do you want to have a familiar operating system or Game Pass on your Steam Deck? You can dual-boot SteamOS with Windows on the device. Here’s a thorough guide on installing Windows 11 on your Steam Deck.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why You Should Install Windows on Your Steam Deck
 
 ![Steam Deck surrounded by peripherals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2024/01/steam-deck-surrounded-by-peripherals.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -62,6 +62,10 @@ Jhet Borja/MUO
 
  We also highly suggest using a separate PC as we've done in this guide, but you can also use your Steam Deck and follow similar steps using the Linux version of Ventoy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ventoy
 
  The first piece of software is Ventoy, a program that allows you to boot multiple ISOs from one external storage device without needing to format it to add a different ISO. This will avoid the back-and-forth formatting of the storage device used, making it easier to go back in case you make a mistake along the way.
@@ -76,21 +80,25 @@ Jhet Borja/MUO
 
  GParted is an ISO used to create partitions on your internal SSD on your Steam Deck. The new partition will be where you’ll place the Windows installation. To download it, head to [GParted.org](https://gparted.org/download.php) and click on the **amd64.iso** download file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Windows 11 ISO
 
  To put Windows onto your Steam Deck, you’ll of course need the installer. You can easily find this on [Microsoft’s Windows 11 page](https://www.microsoft.com/en-ca/software-download/windows11).
 
 ![Downloading Windows 11 ISO from Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-11-iso-from-microsoft.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head to the **Download Windows 11 Disk Image (ISO)** option and on the dropdown menu, select **Windows 11 (multi-edition ISO)**. Click on **Download**, then select your language. It should then give you another download button to download the Windows ISO that is about 6GB to 7GB in size.
 
 ### Windows Drivers for Steam Deck
 
 ![Downloading Windows Drivers for Steam Deck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/downloading-windows-drivers-for-steam-deck.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows doesn’t support all the Steam Deck’s hardware straight from the get-go. Fortunately, Steam has provided Windows drivers so that your audio, Wi-Fi, Bluetooth, SD card reader, and APU are all working properly.
 
@@ -100,11 +108,19 @@ Jhet Borja/MUO
 
  If you’ve got your flash drive or SD card ready with all the software downloaded, you can now start turning your Steam Deck into a Windows experience. In our case, we’ll be using an SD card so that we don’t need to deal with a USB hub or a dock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Install Ventoy on Your Flash Drive or SD Card
 
  To be able to run both the GParted and the Windows 11 ISOs from one SD card without needing to format it multiple times, you’ll need to use Ventoy. This will make things way more convenient.
 
 ![Run Ventoy2Disk from extracted folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/run-ventoy2disk-from-extracted-folder.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To install Ventoy on your flash drive or SD card, you’ll want to plug it into your PC and open the Ventoy folder you extracted earlier. Then click on **Ventoy2Disk.exe**.
 
@@ -184,10 +200,6 @@ Jhet Borja/MUO
 
 ![Windows 11 ISO on Ventoy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-iso-on-ventoy.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  Go back to the boot manager (with the volume down button and the power button) and select the SD card or flash drive once again. With Ventoy open, this time select the Windows 11 ISO.
@@ -195,7 +207,7 @@ Jhet Borja/MUO
 ![I don't have a product key option during Windows 11 setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/i-don-t-have-a-product-key-windows-11-setup.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MUO
@@ -236,17 +248,9 @@ Jhet Borja/MUO
 
  If this doesn’t work, you may also try to delete the other ISO from the SD card or flash drive. You may also try reinstalling Ventoy as a last resort, but this will format the drive so make sure you have everything in a folder that you can easily paste onto the drive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Windows 0x80300001 Error
 
 ![Selecting partition created in GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-partition-created-in-gparted.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jhet Borja/MUO
 
@@ -254,20 +258,20 @@ Jhet Borja/MUO
 
 ![Wrong ext4 partition format for Windows on GParted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/wrong-ext4-partition-format-for-windows-on-gparted.JPG)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jhet Borja/MUO
 
  You may have created a new partition as ext4 in GParted instead of leaving the unallocated partition as it is. If you insist on creating a new partition in GParted, make sure it’s in NTFS format and not ext4\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Windows Cannot Install Drivers
 
 ![Windows cannot install required files error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-cannot-install-required-files-error.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MUO
@@ -289,7 +293,7 @@ Jhet Borja/MUO
 ![Selecting steamcl.efi in Steam Deck BIOS to boot into SteamOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/selecting-steamcl-efi-in-steam-deck-bios-to-boot-into-steamos.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jhet Borja/MakeUseOf
@@ -318,10 +322,6 @@ Jhet Borja/MakeUseOf
 
 ![Enabling Steam Input for Xbox Controllers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/enabling-steam-input-for-xbox-controllers.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then go to **Steam > Settings > Controller > Enable Steam Input for Xbox Controllers**. You should then be able to use both trackpads like on SteamOS. You may also configure it by scrolling down and editing it on the **Non-game controller layouts**.
 
  The Steam Deck is a very versatile device as it’s not just a full-on gaming device, but also a full-on PC. Installing Windows on it will allow you to use it similarly to your desktop PC for regular writing work, but also for more intensive work like video and photo editing.
@@ -338,19 +338,24 @@ Jhet Borja/MakeUseOf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ow-to-join-the-success-circle-youtubes-2024-cp-guide/"><u>[New] How to Join the Success Circle YouTube's 2024 CP Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[Updated] 2024 Approved Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://win11.techidaily.com/1-mastering-formula-protection-a-step-by-step-guide-to-secure-your-data-in-ms-excel/"><u>1. Mastering Formula Protection: A Step-by-Step Guide to Secure Your Data in MS Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-standard-file-formats-a-step-by-step-guide-using-libreoffice/"><u>Adjusting Standard File Formats: A Step-by-Step Guide Using LibreOffice</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-microsoft-office-appearance-with-a-simple-step-by-step-guide-on-changing-themes-and-colors/"><u>Customizing Microsoft Office Appearance with a Simple Step-by-Step Guide on Changing Themes and Colors</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-guide-displaying-the-current-date-in-microsoft-excel/"><u>Easy Guide: Displaying the Current Date in Microsoft Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-to-build-your-own-amortization-spreadsheet-with-excel/"><u>Easy Steps to Build Your Own Amortization Spreadsheet with Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-tutorial-aligning-text-evenly-in-multi-cell-sections-of-an-excel-sheet/"><u>Easy Tutorial: Aligning Text Evenly in Multi-Cell Sections of an Excel Sheet</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-elevate-your-soundbites-insights-for-youtube-short-tunes/"><u>In 2024, Elevate Your Soundbites Insights for YouTube Short Tunes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-pc-videography-leveraging-windows-hdr/"><u>In 2024, PC Videography Leveraging Windows HDR</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-simplify-your-life-a-guide-on-quick-removal-of-youtube-feedback/"><u>In 2024, Simplify Your Life A Guide on Quick Removal of YouTube Feedback</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-best-parental-control-routers-available-this-year/"><u>Navigating the Best Parental Control Routers Available This Year</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001572340-troubleshoot-and-master-genshin-impact-launch-problems-in-minutes/"><u>Troubleshoot & Master Genshin Impact Launch Problems in Minutes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-expert-techniques-for-effective-social-sharing-via-pins-for-2024/"><u>[New] Expert Techniques for Effective Social Sharing via Pins for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eek-out-sites-that-connect-you-to-youtube-revenue-models-for-2024/"><u>[New] Seek Out Sites That Connect You to YouTube Revenue Models for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-quick-snapback-to-loss-prevention/"><u>[Updated] 2024 Approved Quick Snapback to Loss Prevention</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-virtuoso-broadcasting-services/"><u>2024 Approved Elite Virtuoso Broadcasting Services</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-delete-win-1011-wsl/"><u>Effective Strategies to Delete Win 10/11 WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-play-android-games-on-windows-11-with-google-play-games/"><u>How to Play Android Games on Windows 11 With Google Play Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-create-brand-symbols-from-templates-at-no-cost/"><u>In 2024, Create Brand Symbols From Templates at No Cost</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/konfigurieren-sie-ihren-pc-um-den-xcopy-befehl-zu-erkennen-und-erfolgreich-auszufuhren/"><u>Konfigurieren Sie Ihren PC, Um Den Xcopy-Befehl Zu Erkennen Und Erfolgreich Auszuführen</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-overcoming-fatal-error-code-0xf0831/"><u>Mastering Windows 11: Overcoming Fatal Error Code 0xF0831</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-wireless-hotspot-configuration-in-windows-11/"><u>Navigating the Wireless Hotspot Configuration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-sidestepping-common-file-explorer-blunders/"><u>Pro Tips: Sidestepping Common File Explorer Blunders</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstalling-the-easy-to-use-classic-windows-photo-viewer-in-11-systems/"><u>Reinstalling the Easy-to-Use Classic Windows Photo Viewer in 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-cannot-read-from-disk-issue-in-win1110/"><u>Steps to Fix “Cannot Read From Disk” Issue in Win11/10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-to-fast-track-vimeo-content/"><u>Strategies to Fast-Track Vimeo Content</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-and-solving-windows-11s-persistent-red-screen-issue/"><u>Troubleshooting and Solving Windows 11'S Persistent Red Screen Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-flawless-operation-in-windows-settings-app/"><u>Unlock Flawless Operation in Windows Settings App</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-best-free-mov-editors-for-windows-and-mac-2023-update/"><u>Updated The Best Free MOV Editors for Windows and Mac 2023 Update</u></a></li>
 </ul></div>
 

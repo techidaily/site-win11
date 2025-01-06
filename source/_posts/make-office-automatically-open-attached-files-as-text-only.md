@@ -1,7 +1,7 @@
 ---
 title: Make Office Automatically Open Attached Files as Text Only
-date: 2024-12-25T18:39:57.343Z
-updated: 2024-12-27T20:41:50.085Z
+date: 2025-01-04T20:52:51.303Z
+updated: 2025-01-06T18:22:20.262Z
 tags:
   - windows10
   - windows11
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -59,7 +59,11 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -79,14 +83,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 7. Click**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -108,22 +108,21 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/he-new-face-of-collaboration-video-events-post-vidcon/"><u>[New] The New Face of Collaboration Video Events Post-VidCon</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-best-beginnings-choosing-valheims-prime-plants/"><u>[Updated] In 2024, The Best Beginnings Choosing Valheim's Prime Plants</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-viral-velocity-on-instagram-leveraging-video-and-likes/"><u>[Updated] In 2024, Viral Velocity on Instagram Leveraging Video & Likes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-releases-new-airpods-4-featuring-find-my-speaker-and-enhanced-usb-c-connectivity-latest/"><u>Apple Releases New AirPods 4 Featuring 'Find My Speaker' & Enhanced USB-C Connectivity - Latest</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clear-vision-through-stillness-control/"><u>Clear Vision Through Stillness Control</u></a></li>
-<li><a href="https://win11.techidaily.com/connectivity-compass-navigating-through-4-ways-of-net-speed-check/"><u>Connectivity Compass: Navigating Through 4 Ways of Net Speed Check</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-outriders-audio-issues/"><u>How to Fix Outriders Audio Issues</u></a></li>
-<li><a href="https://howto.techidaily.com/infinix-note-30-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Note 30 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/major-milestone-reached-in-open-source-ai-specification-amidst-disagreement-zdnet/"><u>Major Milestone Reached in Open Source AI Specification Amidst Disagreement | ZDNet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/overcooked-2-game-analysis-a-tasty-adventure-in-the-kitchen-chaos/"><u>Overcooked! 2 Game Analysis - A Tasty Adventure in the Kitchen Chaos</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-uninstalled-hdd-in-windows-11-a-step-by-step-guide/"><u>Resolving Uninstalled HDD in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-missing-banner-icons/"><u>Solutions for Missing Banner Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-alleviate-full-capacity-error-windows/"><u>Steps to Alleviate Full-Capacity Error Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-revitalize-windows-timer-functions/"><u>Streamline and Revitalize Windows Timer Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/the-10-best-things-you-can-do-with-windows-powertoys/"><u>The 10 Best Things You Can Do With Windows PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-top-7-strong-reasons-why-you-shouldnt-upgrade-to-win11/"><u>Unveiling Top 7 Strong Reasons Why You Shouldn't Upgrade to Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-strategies-to-identify-your-intel-processor-gen/"><u>Windows Strategies to Identify Your Intel Processor Gen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-efficiently-recording-your-xbox-adventures/"><u>[New] In 2024, Efficiently Recording Your Xbox Adventures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-technique-for-retroactive-viewing/"><u>2024 Approved Android's Technique for Retroactive Viewing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-elite-recording-tech-premium-podcast-mics/"><u>2024 Approved Elite Recording Tech Premium Podcast Mics</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-ideal-video-intros-selecting-from-top-15-youtube-sets/"><u>2024 Approved Ideal Video Intros Selecting From Top 15 YouTube Sets</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-win11s-protection-measures-with-rufus/"><u>Disabling Win11's Protection Measures with Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-update-group-policy-on-pcs/"><u>Essential Steps to Update Group Policy on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hand-tracking-deciphered-a-users-guide-for-2024/"><u>Hand Tracking Deciphered A User's Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-civi-3-disney-100th-anniversary-edition-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Civi 3 Disney 100th Anniversary Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/pinnacle-task-management-on-windows-platforms/"><u>Pinnacle Task Management on Windows Platforms</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/selecting-the-top-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>Selecting the Top Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-ease-windows-11-license-soon-to-end-stress/"><u>Solutions to Ease Windows 11 License 'Soon-to-End' Stress</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-correcting-the-corrupt-disk-error-for-smooth-steam-gaming/"><u>Step-by-Step Tutorial: Correcting the 'Corrupt Disk' Error for Smooth Steam Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-dismissing-essential-component-alert-on-windows-1011/"><u>Steps for Dismissing Essential Component Alert on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-best-drawing-apps-for-windows-11/"><u>The 7 Best Drawing Apps for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-the-no-sync-option-on-steam-for-windows/"><u>Winning Over the No Sync Option on Steam for Windows</u></a></li>
 </ul></div>
 

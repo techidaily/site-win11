@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Look: Changing UserName in Windows 11"
-date: 2024-12-20T22:59:44.579Z
-updated: 2024-12-27T20:28:26.170Z
+date: 2025-01-02T21:11:31.188Z
+updated: 2025-01-06T16:18:02.597Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before We Get Started…
 
@@ -52,10 +48,6 @@ To change your username using the Control Panel, follow these steps:
 ![Click on Change Name After Entering the New Username](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-on-change-username-after-entering-the-new-username.jpg)
 8. For this change to take effect, you need to sign out of your account and sign back in.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. How to Change Your Username Using the Run Command
 
  Using the Run command, Windows users can access any location on a computer whose path is known. It eliminates the need to navigate through numerous folders to reach our destination.
@@ -69,16 +61,25 @@ To change your username using the Run command, follow these steps:
 ![Run Netplwiz Command in the Windows Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-run-netplwiz-command-in-the-windows-run-command.jpg)
 3. Click**Yes** in the**User Account Control (UAC)** window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. In the**User Accounts** window, select the user account for which the username needs to be changed.
 5. Click on**Properties** .  
 ![Go to Properties in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-go-to-properties-in-the-user-accounts-window.jpg)
 6. In the**General** tab, you'll see your existing username. Rename it to your liking after removing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once the new username has been added, click the**Apply** button and**OK** .  
 ![Click OK After Adding the New Name in the User Accounts Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-adding-the-new-name-in-the-user-accounts-window.jpg)
 8. Then, log out of your account, and you'll be greeted with your new username on the sign-in screen when you sign in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change Your Username From Local User and Group Management Tool
@@ -100,7 +101,7 @@ To change your username using the Run command, follow these steps:
  Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Change Your Username Using Windows PowerShell
@@ -121,7 +122,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 5. Then, log back into your account after logging out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Change Your Profile Username From the Microsoft Website
@@ -140,7 +141,7 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change Your Username With Ease
@@ -164,24 +165,19 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gaming-income-optimization-tips/"><u>[New] In 2024, Gaming Income Optimization Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>2024 Approved Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7/"><u>深入了解敘事技巧7項，如何在行銷中建立有效盟友關係</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013654381-beat-saber-not-working-heres-how-you-can-stop-it-from-freezing-and-crashing/"><u>Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections-for-2024/"><u>Clear the Chaos Edit & Cull Your Bulky TikTok Collections for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-10-premium-video-players-for-ultimate-hd-vids-android/"><u>Discover 10 Premium Video Players for Ultimate HD Vids, Android</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-windows-memory-dumps-an-essential-skill/"><u>Dissecting Windows Memory Dumps: An Essential Skill</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-windows-efficiency-dynamic-tiling-tech/"><u>Enhance Windows Efficiency: Dynamic Tiling Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-allow-or-prevent-others-from-installing-removable-storage-devices-on-windows/"><u>How to Allow or Prevent Others From Installing Removable Storage Devices on Windows</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/how-to-eliminate-adobes-digital-rights-management-drm-from-pdf-and-epub-files/"><u>How to Eliminate Adobe's Digital Rights Management (DRM) From PDF and EPUB Files</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tackle-uninstalling-epic-game-app-on-windows-11/"><u>How to Tackle Uninstalling Epic Game App on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-places-to-enjoy-vr-films/"><u>In 2024, Ideal Places to Enjoy VR Films</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-cortana-backup-on-microsoft-operating-systems/"><u>Navigating Cortana Backup on Microsoft Operating Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-pc-information-gathering-with-everythingapp/"><u>Speedy PC Information Gathering with EverythingApp</u></a></li>
-<li><a href="https://win11.techidaily.com/the-guide-to-pairing-classic-gaming-and-windows-memories/"><u>The Guide to Pairing Classic Gaming and Windows Memories</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-infamous-storportsys-bsod-crash-for-windows-11-users/"><u>Troubleshooting the Infamous 'storport.sys' BSOD Crash for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-solving-the-application-failed-to-launch-error-code-xc000003e-in-windows-11/"><u>Understanding and Solving the Application Failed To Launch Error: Code Xc000003E in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-c12-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia C12 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-customization-unleash-your-creative-touch/"><u>Windows 11 Customization: Unleash Your Creative Touch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>[New] Unravel Media Complexity Transforming XML/TTML Into SRT Gold</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cross-device-the-ultimate-tutorial-for-scraping-gifs-from-fb/"><u>[Updated] In 2024, Cross-Device The Ultimate Tutorial for Scraping GIFs From FB</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-navigating-picture-in-picture-mode-with-confidence-using-microsoft-edge-for-2024/"><u>[Updated] Navigating Picture-In-Picture Mode with Confidence Using Microsoft Edge for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-cost-humor-in-your-arsenal-ultimate-meme-guide/"><u>2024 Approved No-Cost Humor in Your Arsenal – Ultimate Meme Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/dive-deep-into-dreamy-asmr-scenarios-for-rest-for-2024/"><u>Dive Deep Into Dreamy ASMR Scenarios for Rest for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-into-fcs-world-with-zero-cost-ocm/"><u>Dive Deep Into FC's World with Zero-Cost OCM</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/dvd-2024/"><u>DVDフォーマット入門：採用理由、作成手順、および解決策 - 2024年のガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-magic-6-lite-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor Magic 6 Lite To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oneplus-11-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track OnePlus 11 5G without App | Dr.fone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/modifier-le-parametre-de-linguistique-dans-aomei-backupper-un-guide-complet/"><u>Modifier Le Paramètre De Linguistique Dans AOMEI Backupper: Un Guide Complet</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-start-on-windows-speech-to-text-feature/"><u>Overcoming 'Failed' Start on Windows Speech-to-Text Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-service-connection-blockage-by-mb-on-windows-11/"><u>Overcoming Service Connection Blockage by MB on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fix-in-game-voice-chat-issues-in-valorant/"><u>Quick Guide to Fix In-Game Voice Chat Issues in Valorant</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-amd-graphics-driver-freshness/"><u>Streamlining Windows 11 AMD Graphics Driver Freshness</u></a></li>
 </ul></div>
 

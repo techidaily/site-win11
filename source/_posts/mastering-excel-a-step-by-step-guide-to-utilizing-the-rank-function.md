@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide to Utilizing the RANK Function"
-date: 2024-08-28T00:47:58.371Z
-updated: 2024-08-29T00:47:58.371Z
+date: 2025-01-03T20:24:28.000Z
+updated: 2025-01-06T17:20:49.838Z
 tags:
   - excel
 categories:
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Excel sheet showing the new column at the left-hand side of the table, renamed 'Rank'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/extra-column-added.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We're now ready to begin our RANK formula.
 
  Click on the first empty cell in your ranking column (in this case, A3), and type:
@@ -69,24 +73,18 @@ thumbnail: https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c
 
 ![Excel sheet with the 'Rank' column completed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/rank-all-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Your table now clearly tells you where each value ranks within your set of data. For tidiness, you can [rename your worksheet](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/) "Totals".
 
  If you want to make your rankings even clearer so that you can review the rankings at a quick glance, [apply conditional formatting to your table](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  What are RANK.EQ and RANK.AVG?
 
  RANK.EQ tells Excel to rank all equal values together, while RANK.AVG tells Excel to average the ranking for all equal values. They both follow exactly the same syntax and processes as RANK in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  How to Use VLOOKUP in Excel to Create a League Table
 
  Assuming you have already created the rankings using the method above, you can now reorder the data to produce a league table.
@@ -128,15 +126,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Excel sheet showing the result of using VLOOKUP to find the highest-ranked employee.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-first-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This now tells us that Regina is the highest-ranked employee. Use Excel's AutoFill function to complete the rest of the employees' names.
 
 ![Excel sheet showing the 'Employee' column filled in based on their rank, using VLOOKUP and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-all-results-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Now that we can see the employees in order based on their total sales from the Totals sheet, we can add their total sales using VLOOKUP in the same way.
 
  This would be the formula we place in cell C3:
@@ -148,11 +144,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Excel sheet showing the result of using VLOOKUP to find the highest-ranked employee's total sales.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-first-result-column-2-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Complete the table by using AutoFill down column C.
 
 ![Excel sheet showing the completed league table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/league-all-results-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Instead of manually typing the VLOOKUP formula in any subsequent columns after you have completed column B, you could initially [use a mixed reference](https://screen-mirror.techidaily.com/how-realme-note-50-mirror-screen-to-pc-drfone-by-drfone-android/) with column A locked within your VLOOKUP formula, and then AutoFill to the right.
 
@@ -168,8 +169,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[New] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-insiders-manual-reacting-on-twitter-videos/"><u>[New] In 2024, Insider’s Manual Reacting on Twitter Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-spys-guide-to-unearthing-hidden-youtube-videos-for-2024/"><u>[New] The Spy's Guide to Unearthing Hidden YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-unlock-your-pcs-potential-exciting-new-windows-10-games/"><u>[New] Unlock Your PC’s Potential Exciting New Windows 10 Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-a-complete-list-of-creative-and-catchy-youtube-channel-titles-for-modern-blogging-maximum-length-156-characters-for-2024/"><u>[Updated] A Complete List of Creative and Catchy YouTube Channel Titles for Modern Blogging (Maximum Length 156 Characters) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-highlighted-viewer-insights-unveiled/"><u>[Updated] In 2024, Highlighted Viewer Insights Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-best-deals-on-superior-asmr-microphone-technology/"><u>2024 Approved Best Deals on Superior ASMR Microphone Technology</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-wacom-device-driver-not-installed-problem-in-windows-11-environments/"><u>Fixing the 'Wacom Device Driver Not Installed' Problem in Windows 11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-your-blu-ray-collection-into-high-quality-mkv-files/"><u>Step-by-Step Guide: Transforming Your Blu-Ray Collection Into High-Quality MKV Files</u></a></li>
+<li><a href="https://win11.techidaily.com/successful-strategies-for-streaming-your-dvd-collection-with-apple-tv/"><u>Successful Strategies for Streaming Your DVD Collection with Apple TV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/tailoring-snaps-the-science-behind-compelling-advertising/"><u>Tailoring Snaps The Science Behind Compelling Advertising</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-freebies-for-streamlining-webm-video-files-speedy-easy-techniques-for-online-reduction/"><u>Top 5 Freebies for Streamlining WebM Video Files - Speedy, Easy Techniques for Online Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/top-ranking-avcision-ultimate-guide-to-convert-dvds-to-avis-on-windows-10-and-11/"><u>Top-Ranking AVCision: Ultimate Guide to Convert DVDs to AVIs on Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-asfmp4-conversion-tools-speeding-up-file-format-switching-with-best-practices/"><u>Ultimate ASF/MP4 Conversion Tools: Speeding Up File Format Switching with Best Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-acquiring-1440p-video-streams-from-youtube/"><u>Ultimate Techniques for Securely Acquiring 1440P Video Streams From YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/watch-on-the-go-how-to-effortlessly-save-movies-tv-episodes-and-songs-for-offline-enjoyment/"><u>Watch On the Go: How to Effortlessly Save Movies, TV Episodes & Songs for Offline Enjoyment</u></a></li>
+</ul></div>
 

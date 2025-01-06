@@ -1,7 +1,7 @@
 ---
 title: The Undisclosed Menu Maestro's Guide to Win11 Concealment
-date: 2024-08-23T06:09:31.873Z
-updated: 2024-08-24T06:09:31.873Z
+date: 2024-12-31T16:15:19.658Z
+updated: 2025-01-06T18:06:32.597Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,26 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 2. Double-click the **Add hidden files** **context menu** command registry script file.  
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
 3. Select **Yes** if a User Account Control prompt pops up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Yes** within the Registry Editor dialog box that asks if you’re sure about continuing.  
 ![The Registry Editor confirmation prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-confirmation-prompt.jpg)
 5. Select **OK** on the second dialog box that appears.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now bring up the root C: directory in File Explorer to try out the new **Hidden items** context menu option. Right-click anywhere inside that folder to select **Show more options** on Windows 11’s context menu and **Hidden items**. Selecting that option will reveal a few hidden folders in the root directory if that setting isn’t enabled already. Click the same option again to hide the folder and files again.
 
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
@@ -59,6 +72,11 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 8. Click the **File**/**Folder** tab in Right-Click Extender.  
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
@@ -66,15 +84,14 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -82,3 +99,21 @@ thumbnail: https://thmb.techidaily.com/052918d3e56b96021eca7b3225588078d8b2ee409
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/eliminate-xinput13dll-not-found-issues-with-these-easy-fixes/"><u>Eliminate 'xinput1_3.dll Not Found' Issues with These Easy Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eradicate-hard-drive-errors-in-win/"><u>Guide to Eradicate Hard Drive Errors in Win</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/job-search-revolution-with-chatgpt-insights/"><u>Job Search Revolution with ChatGPT Insights</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/optimizing-video-size-and-quality-for-uploading-on-youtube/"><u>Optimizing Video Size and Quality for Uploading on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-non-windows-methods-for-efficient-screen-impressions/"><u>Prime Non-Windows Methods for Efficient Screen Impressions</u></a></li>
+<li><a href="https://win11.techidaily.com/ram-cache-clarity-and-techniques-for-windows-users/"><u>RAM Cache Clarity & Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-window-11-desktop-systems-user-interface/"><u>Restoring Window 11 Desktop System's User Interface</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-cycling-experience-the-transformative-impact-of-photochromic-hud-glasses-techradar/"><u>Revolutionizing Cycling Experience - The Transformative Impact of Photochromic HUD Glasses | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/silencing-autonomous-search-window-on-windows-11/"><u>Silencing Autonomous Search Window on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-typing-with-powertoys-on-windows/"><u>Supercharge Typing with PowerToys on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-compelling-reasons-why-the-iphone-14-is-better-than-upgrading-to-iphone-16-pro/"><u>Top 4 Compelling Reasons Why the iPhone 14 Is Better than Upgrading to iPhone 16 Pro</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unveiling-the-premier-choices-of-mac-mp3-information-manipulators/"><u>Unveiling the Premier Choices of Mac MP3 Information Manipulators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/whats-youtube-creative-commons-and-how-to-use-cc-to-make-video-for-2024/"><u>What's YouTube Creative Commons and How to Use CC to Make Video for 2024</u></a></li>
+</ul></div>
+

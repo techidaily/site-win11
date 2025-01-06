@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Launch Failed: Lunar Client Error on PC"
-date: 2024-12-27T05:11:47.013Z
-updated: 2024-12-27T21:45:08.942Z
+date: 2025-01-03T20:04:49.749Z
+updated: 2025-01-06T18:46:53.090Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/c010ac8c095463e82a02d0121c6ae49a6934a26c3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apply Some Preliminary Checks
 
 First off, carry out the following preliminary checks:
@@ -34,10 +38,6 @@ First off, carry out the following preliminary checks:
 * Ensure that your device is connected to the internet and the network connection is stable.
 
  If the above checks do not solve the problem, apply the remaining fixes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run Lunar Client as an Administrator
 
@@ -49,6 +49,10 @@ Follow these steps to run Lunar Client as an administrator:
 2. Find the executable file that you use to launch the client.
 3. Right-click on Lunar Client's EXE file and select**Run as administrator** from the context menu.  
 ![Run Lunar Client as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-run-lunar-client-as-an-administrator-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If launching Lunar Client as an administrator fixes the problem, this indicates that operating system restrictions are causing this error. So, you should[configure the application to always run as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
@@ -64,6 +68,10 @@ C:\Users\<username>\AppData\Roaming
 3. Here, you have to delete three folders:**Cache** ,**Code Cache** , and**GPUCache** .
 4. Select the folders, right-click on them, and hit**Delete** .  
 ![Delete Lunar Client's Cache Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-delete-lunar-client-s-cache-folders.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Lunar Client again after deleting the cache folders. If you encounter the same error again, proceed to the next step.
 
@@ -95,7 +103,7 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Delete the Old Renderer Log File in Lunar Client's Installation Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-delete-the-old-renderer-log-file-in-lunar-client-s-installation-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Whitelist Lunar Client in Windows Defender and Your Antivirus
@@ -103,10 +111,6 @@ To change Lunar Client's memory allocation, follow these steps:
  Lunar Client is a third-party software application. So, Windows Defender and other antivirus programs installed on your device can interfere with the client's processing. To prevent this, whitelisting the lunar client from security software is necessary.
 
  Our guide on[how to allow apps through Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) describes the steps to whitelist apps from Windows' built-in security suite. If you use a third-party antivirus as an extra layer of protection, you can find instructions about whitelisting apps through it on its official website.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall Java Runtime Environment
 
@@ -120,10 +124,6 @@ To change Lunar Client's memory allocation, follow these steps:
 ![Download Java Runtime Environment From the Java Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-download-java-runtime-environment-from-the-java-website.jpg)
 4. Run the file once it has been downloaded and click**Yes** in the**UAC** window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then click on the**Install** button.  
 ![Install Java Runtime Environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-install-java-runtime-environment.jpg)
 
@@ -131,16 +131,16 @@ To change Lunar Client's memory allocation, follow these steps:
 
 ![Uninstall the Existing Java Package From Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-uninstall-the-existing-java-package-from-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the installation window automatically detects an old Java version, uninstall it by clicking**Uninstall** .
 
 ![Uninstalling the Older Java Version From Java Setup Wizard on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstalling-the-older-java-version-from-java-setup-wizard-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play Minecraft Smoothly Again on Windows
@@ -162,24 +162,22 @@ To change Lunar Client's memory allocation, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-list-10-relaxing-game-hits/"><u>[New] Ultimate List 10 Relaxing Game Hits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers/"><u>[Updated] 2024 Approved The Performer's Playbook Avoiding Common Mistakes in PPT Voiceovers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-practices-for-amassing-itunes-video-archives/"><u>Best Practices for Amassing iTunes Video Archives</u></a></li>
-<li><a href="https://fox-where.techidaily.com/creative-tims-premium-vue-material-kit-v2-exclusive-vuejs-3-plus-bootstrap-5-bundle-now-free/"><u>Creative Tim's Premium Vue Material Kit v2: Exclusive VueJS 3 + Bootstrap 5 Bundle - Now Free!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-communication-with-bots-leveraging-chatgpts-api-explained/"><u>Effortless Communication with Bots: Leveraging ChatGPT's API Explained</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dell-wd19-driver-software-for-seamless-printing-experience/"><u>Get the Latest Dell WD19 Driver Software for Seamless Printing Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revert-windows-11s-search-bar-to-a-search-icon/"><u>How to Revert Windows 11'S Search Bar to a Search Icon</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On Apple iPhone XS Max</u></a></li>
-<li><a href="https://win11.techidaily.com/introducing-ed-inspired-visuals-to-windows/"><u>Introducing Ed-Inspired Visuals to Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/libcurldll-unavailable-fix-the-missing-dynamic-link-library-now/"><u>libcurl.dll Unavailable? Fix the Missing Dynamic Link Library Now</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsoft-powertoys-in-win11-setup/"><u>Mastering Microsoft PowerToys in Win11 Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-a-new-era-of-interactive-technology-between-pc-and-galaxy/"><u>Navigating a New Era of Interactive Technology Between PC & Galaxy</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-access-fixing-frozen-windows-terminals-quickly/"><u>Regaining Access: Fixing Frozen Windows Terminals Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-tweak-indexer-in-windows/"><u>Steps to Tweak Indexer in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-workflows-with-windows-11-multitasking-tips/"><u>Streamline Workflows with Windows 11 Multitasking Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/tapping-into-hidden-taskbar-explorer-of-windows-11/"><u>Tapping Into Hidden Taskbar Explorer of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-app-execution-variants-and-usage/"><u>Understanding App Execution Variants & Usage</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/where-to-buy-gopro-cameras-best-cheap-gopro-deals-for-2024/"><u>Where to Buy GoPro Cameras Best Cheap GoPro Deals for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevating-visual-communication-top-10-tools-for-vector-artists/"><u>[New] Elevating Visual Communication Top 10 Tools for Vector Artists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-photobooth-lags-steadying-the-playback-journey/"><u>[New] Photobooth Lags Steadying the Playback Journey</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>[Updated] 2024 Approved How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-harmonizing-hue-and-shade-the-finest-4k-displays-reviewed/"><u>[Updated] Harmonizing Hue and Shade The Finest 4K Displays Reviewed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamline-your-content-embedding-youtube-media-into-instagrams-story-section/"><u>[Updated] Streamline Your Content Embedding YouTube Media Into Instagram's Story Section</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-secret-sauce-for-a-viral-tiktok-unboxer-masterpiece/"><u>2024 Approved The Secret Sauce for a Viral TikTok Unboxer Masterpiece</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-graphics-issue-3-with-nvidia-windows-11-edition/"><u>Curing Graphics Issue #3 with NVIDIA, Windows 11 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-latest-electronics-with-toms-reviews/"><u>Discover Latest Electronics with Tom’s Reviews</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/elevating-zoom-image-resolution-practical-ideas-for-2024/"><u>Elevating Zoom Image Resolution Practical Ideas for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-overcoming-source-unreadable-errors-on-windows/"><u>Expert Tips for Overcoming ‘Source Unreadable’ Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-a-sheen-taskbar-for-windows-11-users/"><u>Guide to a Sheen Taskbar for Windows 11 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-direct-access-to-your-windows-11-application-bin/"><u>Mastering Direct Access to Your Windows 11 Application Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-your-rooms-soundscape-on-windows-11/"><u>Maximizing Your Room's Soundscape on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insider-guide-to-win11-accessibility-keys/"><u>The Insider Guide to Win11 Accessibility Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-might-prefer-using-windows-11-overseas-macos/"><u>Why You Might Prefer Using Windows 11 Overseas macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/your-blueprint-for-engaging-the-backup-and-restore-feature-in-windows-11/"><u>Your Blueprint for Engaging the Backup and Restore Feature in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tailor Keyboard Funnels for Windows Programs
-date: 2024-12-23T02:56:14.007Z
-updated: 2024-12-27T22:00:40.923Z
+date: 2025-01-03T20:14:35.207Z
+updated: 2025-01-06T20:54:14.592Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Windows shortcuts must take the form:
 
 * Ctrl + Alt + \[key\]
@@ -51,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -74,7 +74,11 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
@@ -109,14 +109,14 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
@@ -140,17 +140,21 @@ thumbnail: https://thmb.techidaily.com/fa290563760e589f24a85fc95189dcd8b9293ad62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-free2x-webcam-recorder-software-review-for-2024/"><u>[New] Free2X Webcam Recorder Software Review for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capturing-perfection-the-top-review-of-screensnapper-2023/"><u>[New] In 2024, Capturing Perfection The Top Review of 'ScreenSnapper' 2023</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-leading-12-screen-recorders-no-time-limit-in-2024/"><u>[New] Leading 12 Screen Recorders, No Time Limit, In 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-coordinated-duet-clips-with-tiktok-twist/"><u>[Updated] 2024 Approved Coordinated Duet Clips with TikTok Twist</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-boost-creativity-with-free-audio-effects-online/"><u>2024 Approved Boost Creativity with Free Audio Effects Online!</u></a></li>
-<li><a href="https://win11.techidaily.com/comparative-study-how-microsoft-and-default-windows-user-accounts-diverge/"><u>Comparative Study: How Microsoft and Default Windows User Accounts Diverge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/easy-guide-to-supporting-and-converting-mov-files-for-microsoft-surface-duo/"><u>Easy Guide to Supporting & Converting MOV Files for Microsoft Surface Duo</u></a></li>
-<li><a href="https://win11.techidaily.com/exciting-laptop-releases-at-ifa-2023/"><u>Exciting Laptop Releases at IFA 2023</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-free-filmora-13-download-video-editing-software-for-2024/"><u>New Free Filmora 13 Download Video Editing Software for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/pushing-boundaries-with-high-dynamic-range-on-windows-11-systems/"><u>Pushing Boundaries with High Dynamic Range on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-windows-not-found-entry-point-errors/"><u>Rectifying Windows 'Not Found' Entry Point Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-microsoft-11s-input-lag-8-effective-steps/"><u>Solving Microsoft 11'S Input Lag: 8 Effective Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[New] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-sweet-symphony-blending-ingredients-correctly/"><u>A Sweet Symphony: Blending Ingredients Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-victory-over-call-of-duty-error-6328-in-warzone-ultimate-fix-guide-for-gamers/"><u>Achieving Victory over Call of Duty Error 6328 in Warzone - Ultimate Fix Guide for Gamers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/clear-cache-made-easy-on-windows-11-using-software-name-what-you-need-to-know/"><u>Clear Cache Made Easy on Windows 11 Using [Software Name]: What You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-fix-installation-failures-from-windows-store/"><u>Efficient Methods to Fix Installation Failures From Windows Store</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-miscellaneous-errors-in-windows-defender/"><u>Eliminating Miscellaneous Errors in Windows Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-your-pcs-performance-with-active-hours-and-update-management/"><u>Fine-Tune Your PC's Performance with Active Hours & Update Management</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-bright-ideas-for-android-video-mastery/"><u>In 2024, Bright Ideas for Android Video Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-windows-11-features-youre-yet-to-discover/"><u>Innovative Windows 11 Features You're Yet to Discover</u></a></li>
+<li><a href="https://win-latest.techidaily.com/lowering-system-memory-load-strategies-and-solutions-by-yl-software-experts/"><u>Lowering System Memory Load: Strategies and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-understand-transform-6-keys-to-total-language-mastery/"><u>Speak, Understand, Transform: 6 Keys to Total Language Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resolving-playback-problems-in-os/"><u>Strategies for Resolving Playback Problems in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/system-snooze-button-unveiling-windows-8-revival-techniques/"><u>System Snooze Button: Unveiling Windows' 8 Revival Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-magic-6-lite-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-battle-of-giants-samsung-galaxy-s23-ultra-versus-s21-ultra-reviewed/"><u>Ultimate Battle of Giants: Samsung Galaxy S23 Ultra Versus S21 Ultra Reviewed!</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-to-superior-taskbar-on-win11/"><u>Upgrade to Superior Taskbar on Win11</u></a></li>
 </ul></div>
 

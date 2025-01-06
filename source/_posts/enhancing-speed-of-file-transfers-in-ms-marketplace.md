@@ -1,7 +1,7 @@
 ---
 title: Enhancing Speed of File Transfers in MS Marketplace
-date: 2024-12-21T22:26:33.251Z
-updated: 2024-12-28T00:10:52.378Z
+date: 2025-01-02T16:18:48.017Z
+updated: 2025-01-06T19:39:25.653Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check Your Internet Connection
 
  Before making any major changes in the Windows settings, ensure your internet connection isn't responsible for slow downloading on the Microsoft Store. You can confirm this by testing your internet speed using one of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -48,7 +44,15 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 2. Click on the**Efficiency mode** option from the context menu.  
 ![Disabling the Efficiency Mode of the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-the-efficiency-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, restart your computer and check if there's any improvement in the downloading speed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Windows' Metered Connection
 
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 4. Disable the toggle next to the**Metered connection** option.  
 ![Disable Metered Connection in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Background Download Bandwidth
 
  The next thing you can try to get better speeds on the Microsoft Store is to increase the background download bandwidth. Here's how:
@@ -78,11 +78,15 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Percentage of measured bandwidth (measured against the updates source) option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/percentage-of-measured-bandwidth-measured-against-the-updates-source.jpg)
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. Check if there is an improvement in the downloading speed.
@@ -98,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Switch to the Google Public DNS
 
  By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
@@ -109,18 +117,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
 5. Right-click on the connected network and choose**Properties.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -136,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
  After that, restart your computer and check if the download speed has increased. If not, then you might have to reset the network settings of your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reset the Network Settings
@@ -170,20 +170,20 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-essential-users-manual-for-effective-use-of-mobizen-screensaver/"><u>[Updated] The Essential User's Manual for Effective Use of Mobizen Screensaver</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-budget-friendly-visual-elements/"><u>2024 Approved Leveraging Budget-Friendly Visual Elements</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-ultimate-offline-voice-processor/"><u>2024 Approved Ultimate Offline Voice Processor</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-a-fresh-start-with-the-win11-control-panel/"><u>Crafting a Fresh Start with the Win11 Control Panel</u></a></li>
-<li><a href="https://games-able.techidaily.com/demystifying-the-high-pixeled-console-image/"><u>Demystifying the High-Pixeled Console Image</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/evaluating-the-kindle-voyage-top-benefits-vs-drawbacks-before-buying/"><u>Evaluating the Kindle Voyage – Top Benefits vs Drawbacks Before Buying</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-on-navigating-folder-tabs-with-windows-11/"><u>Expert Advice on Navigating Folder Tabs with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/get-inside-windows-credentials-manager-with-win11s-11-strategies/"><u>Get Inside Windows Credentials Manager with Win11's 11 Strategies</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-honor-100-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Honor 100</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-superior-video-cutting-edge-tools-devices/"><u>In 2024, Superior Video Cutting-Edge Tools (Devices)</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-windows-10-activity-log-with-ease/"><u>Navigate Windows 10 Activity Log with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-perfect-performance-to-microsoft-outlook/"><u>Restoring Perfect Performance to Microsoft Outlook</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-common-22h2-windows-errors/"><u>Troubleshooting Common 22H2 Windows Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-def5-effective-methods-to-solve-onedrive-error-on-windows-11/"><u>Unlocking DEF5: Effective Methods to Solve OneDrive Error on Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/zoomed-focus-mastering-the-art-of-clear-views-in-virtual-meetings/"><u>Zoomed Focus Mastering the Art of Clear Views in Virtual Meetings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-apeak-captures-attention-an-in-depth-screen-recorder-examination/"><u>[New] 2024 Approved Apeak Captures Attention An In-Depth Screen Recorder Examination</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/choosing-between-the-macbook-pro-and-macbook-air-a-comprehensive-guide-on-picking-the-perfect-apple-notebook-techradar/"><u>Choosing Between the MacBook Pro and MacBook Air: A Comprehensive Guide on Picking the Perfect Apple Notebook | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-study-of-software-package-file-types-exe-vs-msi/"><u>Comparative Study of Software Package File Types: Exe vs Msi</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-complete-uninstall-guide-for-windows-11/"><u>Eliminating WSL: Complete Uninstall Guide for Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960487814-fmri-can-map-cognitive-functions-helping-to-preserve-these-areas-during-surgical-interventions-such-as-tumor-resection-or-epilepsy-surgery/"><u>FMRI Can Map Cognitive Functions, Helping to Preserve These Areas During Surgical Interventions Such as Tumor Resection or Epilepsy Surgery.</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>In 2024, Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/mastering-pc-protection-a-comprehvew-of-configuring-windows-defenses-via-the-control-panel-provided-by-yl-software-solutions/"><u>Mastering PC Protection: A Comprehvew of Configuring Windows Defenses via the Control Panel, Provided by YL Software Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/professional-3d-openers-a-comprehensive-guide-for-2024/"><u>Professional 3D Openers A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reinforcing-safety-efficient-fixes-for-windows-features/"><u>Reinforcing Safety: Efficient Fixes for Windows Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-the-common-issues-with-discord-search-on-windows/"><u>Resolving the Common Issues with Discord Search on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionize-your-communication-5-fee-free-ai-applications-for-professional-email-generation-and-swift-inbox-summarization-with-chatgpt/"><u>Revolutionize Your Communication: 5 Fee-Free AI Applications for Professional Email Generation and Swift Inbox Summarization with ChatGPT</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-updating-your-windows-10-device-drivers/"><u>Step-by-Step Guide: Updating Your Windows 10 Device Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-best-weather-apps-for-windows-10-and-11/"><u>The Best Weather Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-sfc-scan-on-windows-a-step-by-step-guide/"><u>Triggering SFC Scan on Windows: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

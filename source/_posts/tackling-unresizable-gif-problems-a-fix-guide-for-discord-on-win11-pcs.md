@@ -1,7 +1,7 @@
 ---
 title: "Tackling Unresizable GIF Problems: A Fix Guide for Discord on Win11 PCs"
-date: 2024-12-25T22:50:59.769Z
-updated: 2024-12-27T16:24:18.284Z
+date: 2025-01-01T20:24:47.877Z
+updated: 2025-01-06T20:52:38.519Z
 tags:
   - windows10
   - windows11
@@ -36,19 +36,19 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click the **Save** button.  
 ![Save icon on Ezgif wesbite](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-icon.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, check if you can upload the GIF. If not, probably the resolution is more than 128\*128 pixels. To reduce the resolution, follow the below steps:
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
 3. Enter your credentials and click the **Log In** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try to upload the GIF and check if you still face the error.
 
 ## 3\. Clear the Discord Cache Data
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
@@ -87,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Contact Discord Support
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Your Conversations Interesting With GIF Emotes on Discord
@@ -114,22 +114,22 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-quick-voice-mods-for-pubg-top-easy-techniques/"><u>[New] Quick Voice Mods for PUBG Top Easy Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-what-are-the-best-sites-to-download-google-pixel-ringtones/"><u>[New] What Are the Best Sites to Download Google Pixel Ringtones</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtubes-creative-playground-explained-with-ease/"><u>[New] YouTube's Creative Playground Explained with Ease</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-fast-and-flawless-mastering-the-art-of-multi-snap-chats/"><u>[Updated] 2024 Approved Fast & Flawless Mastering the Art of Multi-Snap Chats</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-inside-look-the-full-power-of-polarr-photo-editor/"><u>2024 Approved Inside Look The Full Power of Polarr Photo Editor</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-narzo-n53-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme Narzo N53 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/five-superior-tools-excluding-the-standard-windows-snipper/"><u>Five Superior Tools Excluding the Standard Windows Snipper</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-record-calls-on-windows/"><u>How to Record Calls on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-countermeasures-to-address-winoffice-operational-failure/"><u>Immediate Countermeasures to Address WinOffice Operational Failure</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/innovativo-e-smart-industry-solutions/"><u>Innovativo E Smart Industry Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-remote-access-failed-in-winvpn/"><u>Resolving Remote Access Failed in WinVPN</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-downloading-and-configuring-sony-vaio-drivers-in-windows/"><u>Step-by-Step Guide to Downloading and Configuring Sony VAIO Drivers in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-for-winerror-0x80072746-in-microsoft-mail/"><u>Swift Solution for WinError 0X80072746 in Microsoft Mail</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-glitches-find-solutions-now/"><u>Tackling Windows Glitches: Find Solutions Now</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-file-share-problems-with-geforce-experience/"><u>Troubleshooting File-Share Problems with GeForce Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-11-interface-elements/"><u>Understanding Windows 11 Interface Elements</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-secure-vimeo-to-local-downloaders/"><u>[New] Secure Vimeo to Local Downloaders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[Updated] 2024 Approved Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-guide-on-turning-dynamic-hdr-on-in-windows-11-for-2024/"><u>[Updated] Guide on Turning Dynamic HDR on in Windows 11 for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-of-the-lihan-lhfm1/"><u>Comprehensive Assessment of the LIHAN LHFM1</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-x80131500-windows-store-breakdown/"><u>Correcting X80131500: Windows Store Breakdown</u></a></li>
+<li><a href="https://win11.techidaily.com/create-a-window-showcase-customizing-with-spotlight-picture-inspired-backgrounds/"><u>Create a Window Showcase: Customizing with Spotlight Picture-Inspired Backgrounds</u></a></li>
+<li><a href="https://win11.techidaily.com/discerning-safe-from-risky-windows-11-features/"><u>Discerning Safe From Risky Windows 11 Features</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-methods-for-syncing-and-downloading-icloud-images-on-various-gadgets/"><u>Effortless Methods for Syncing and Downloading iCloud Images on Various Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-sticky-notes-in-win11win10-apps/"><u>Expert Guide to Sticky Notes in Win11/Win10 Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-epson-gt-s50-printer-drivers-compatible-with-windows-7-8-and-10/"><u>Get the Latest Epson GT-S50 Printer Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-1011-update-reminder-feature/"><u>Implementing Windows 10/11 Update Reminder Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-self-updating-windows/"><u>Mastering the Art of Self-Updating Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-reinstalling-uninstalled-hdd-in-windows-11/"><u>Quick Tips: Reinstalling Uninstalled HDD in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quit-juxtaposing-voices-of-ai-siri-and-chatgpt-unveiled/"><u>Quit Juxtaposing Voices of AI: Siri and ChatGPT Unveiled</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-transferring-your-current-windows-setup-to-virtualbox/"><u>Step-by-Step Guide: Transferring Your Current Windows Setup to VirtualBox</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overcoming-code-0x800700e1-on-windows-11/"><u>Troubleshooting: Overcoming Code 0X800700E1 on Windows 11</u></a></li>
 </ul></div>
 

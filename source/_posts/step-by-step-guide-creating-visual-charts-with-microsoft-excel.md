@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Visual Charts with Microsoft Excel"
-date: 2024-08-28T00:49:28.458Z
-updated: 2024-08-29T00:49:28.458Z
+date: 2025-01-03T20:01:02.370Z
+updated: 2025-01-06T19:07:57.600Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ---
 
 ## Step-by-Step Guide: Creating Visual Charts with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,13 +34,18 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 ![Go to Insert, Recommended Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertRecommended-ExcelMakeGraph.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the Recommended Charts tab in the window, you can review the suggestions on the left and see a preview on the right. If you'd like to use a chart you see, select it and click "OK."
 
 ![Recommended Charts in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/RecommendedCharts-ExcelMakeGraph.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Choose Your Own Chart
 
  If you would prefer to select a graph on your own, click the All Charts tab at the top of the window. You'll see the types listed on the left. Select one to view the styles for that type of chart on the right. To use one, select it and click "OK."
@@ -51,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 ![Charts section of the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Charts-ExcelMakeGraph.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Whichever way you go about choosing the chart you want to use, it will pop right onto your sheet after you select it.
 
 ![Column chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ColumnChart-ExcelMakeGraph.png) 
@@ -62,29 +68,32 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
 Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.techidaily.com/updated-premium-psd-aesthetic-optimization/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Customize a Graph or Chart in Excel
 
  Just like there are various ways to select the type of chart you want to use in Excel, there are different methods for customizing it. You can use the Chart Design tab, the Format Chart sidebar, and on Windows, you can use the handy buttons on the right of the chart.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Use the Chart Design Tab
 
  To display the Chart Design tab, select the chart. You'll then see many tools in the ribbon for adding chart elements, changing the layout, colors, or style, choosing different data, and switching rows and columns.
 
 ![Chart Design tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChartDesignTab-ExcelMakeGraph.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you believe a different type of graph would work better for your data, simply click "Change Chart Type" and you'll see the same options as when you created the chart. So you can easily switch from a column chart to [a combo chart](https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/), for instance.
 
 ![Change Chart Type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChangeChartType-ExcelMakeGraph.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Use the Format Chart Sidebar
 
  For customizing the font, size, [positioning](https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-oppo-find-x6-pro-by-drfone-android/), border, series, and axes, the sidebar is your go-to spot. Either double-click the chart or right-click it and pick "Format Chart Area" from the shortcut menu. To work with the different areas of your chart, go to the top of the sidebar.
@@ -103,9 +112,6 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
 
 ![Text Options in the sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/SidebarTextOptions-ExcelMakeGraph.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For whichever area you work with, each tab has its options directly below. Simply expand to customize that particular item.
 
  As an example, if you choose to [create a Pareto chart](https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapshots-transferring-from-snapchat-to-device-storage/), you can customize the Pareto line with the type, color, transparency, width, and more.
@@ -113,8 +119,9 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
 ![Format a Pareto line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormatParetoLine-ExcelMakeGraph.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Use the Chart Options on Windows
 
  If you use Excel on Windows, you'll get a bonus of three helpful buttons to the right when you select your chart. From top to bottom, you have Chart Elements, Chart Styles, and Chart Filters.
@@ -123,29 +130,18 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
 
 ![Chart Elements](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChartElements-ExcelMakeGraph.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 **Chart Styles**: Select a theme for your chart with different effects and backgrounds. Or choose a color scheme from colorful and monochromatic color palettes.
 
 ![Chart Styles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChartStyles-ExcelMakeGraph.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Chart Filters**: For viewing particular parts of the data in your chart, you can use filters. Check the boxes under Series or Categories and click "Apply" at the bottom to update your chart and only include your selections.
 
 ![Chart Filters](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChartFilters-ExcelMakeGraph.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Chart Filters are only available for certain types of charts.
 
  Hopefully this guide will get you off to a great start with your chart. And if you use Sheets in addition to Excel, learn [how to make a graph in Google Sheets](https://instagram-clips.techidaily.com/crafting-cinematic-magic-essential-tips-for-creating-stunning-slow-motion-media-on-instagram/) too.
@@ -156,8 +152,6 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +159,22 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-fifa-highlights-and-trends-charting-on-youtube/"><u>[New] 2024 Approved FIFA Highlights & Trends Charting on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-basic-tactics-to-archive-webcam-chats/"><u>[New] Basic Tactics to Archive Webcam Chats</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-captivating-clicks-the-top-8-yt-thumbnails-to-use/"><u>[New] In 2024, Captivating Clicks The Top 8 YT Thumbnails to Use</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-adaptive-gaming-techniques-by-pros-for-2024/"><u>[Updated] Adaptive Gaming Techniques by Pros for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-video-editing-options-for-app-developers/"><u>[Updated] Premiere Video Editing Options for App Developers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-connect-optimizing-your-tiktok-content/"><u>[Updated] Twitter Connect Optimizing Your TikTok Content</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-consistent-note-taking-space-in-windows-11/"><u>Creating a Consistent Note-Taking Space in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/display-diversity-adjusting-each-monitors-aesthetic-in-win-1011/"><u>Display Diversity: Adjusting Each Monitor's Aesthetic in WIN 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-developer-skills-with-github-desktop-on-windows-oses/"><u>Elevate Your Developer Skills with GitHub Desktop on Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-patching-with-4-essentials/"><u>Mastering Windows Patching with 4 Essentials</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-with-samsungs-8tb-portable-ssd-at-a-whopping-36-off-in-our-amazon-exclusive-insights/"><u>Save Big with Samsung's 8TB Portable SSD at a Whopping 36% Off in Our Amazon Exclusive | Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-password-less-windows-11-rdp/"><u>The Ultimate Guide to Password-Less Windows 11 RDP</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-automatic-fixes-for-wake-up-sound-issues/"><u>The Ultimate Guide: Automatic Fixes for Wake-Up Sound Issues</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-capture-the-moment-freezing-frames-in-videos-with-ease/"><u>Updated In 2024, Capture the Moment Freezing Frames in Videos with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-choices-top-windows-tools-for-video-conversion/"><u>Winning Choices: Top Windows Tools For Video Conversion</u></a></li>
+</ul></div>
 

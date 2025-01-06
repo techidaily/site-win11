@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2024-12-26T07:40:40.273Z
-updated: 2024-12-27T21:11:23.136Z
+date: 2025-01-01T18:28:15.389Z
+updated: 2025-01-06T18:24:34.225Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -63,15 +63,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -85,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
@@ -99,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Using PowerShell
 
  PowerShell has a different command to display folder or file properties. Like the CMD command, it also displays the file properties inside the shell in text format.
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,18 +128,15 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-songbird-scribes-writing-the-script-for-youtube/"><u>[Updated] 2024 Approved Songbird Scribes Writing the Script for YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-digital-revival-improving-computerized-vhs-visuals-for-2024/"><u>[Updated] Digital Revival Improving Computerized VHS Visuals for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>[Updated] Earning Edge Exploiting YouTube Studio for Global Viewers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-latest-ai-showcase-what-it-got-right-and-where-it-fell-short-in-advancements-anticipating-the-next-leap-forward-zdnet-insights/"><u>Exploring Apple's Latest AI Showcase: What It Got Right and Where It Fell Short in Advancements - Anticipating the Next Leap Forward | ZDNET Insights</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From iPhone 13 Pro Max</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-redmi-13c-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Redmi 13C 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-chromes-inaccurate-virus-alert-and-resolving-it/"><u>Navigating Chrome's Inaccurate Virus Alert and Resolving It</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-expert-recommendations-best-ipad-video-editors/"><u>New 2024 Approved Expert Recommendations Best iPad Video Editors</u></a></li>
-<li><a href="https://win11.techidaily.com/power-play-four-strategies-for-removing-user-entries-from-win11/"><u>Power Play: Four Strategies for Removing User Entries From Win11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-c67-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme C67 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-address-unsupported-device-error/"><u>Strategies to Address 'Unsupported Device' Error</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-improve-fps-and-reduce-lag-in-roblox-windows-edition/"><u>Strategies to Improve FPS & Reduce Lag in Roblox Windows Edition</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-fixes-for-when-you-cant-find-d3dx933dll-file/"><u>The Ultimate Fixes for When You Can’t Find d3dx9_33.dll File</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fall-update-exclusive-enhancements-for-select-apple-airpod-models-revealed/"><u>Fall Update: Exclusive Enhancements for Select Apple AirPod Models Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/gain-instant-administrator-entry-with-terminal-anytime/"><u>Gain Instant Administrator Entry with Terminal Anytime</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-proper-surge-protection-tips-and-tricks-for-your-tech-equipment/"><u>How to Ensure Proper Surge Protection: Tips and Tricks for Your Tech Equipment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-easy-access-to-no-cost-music-for-video-makers/"><u>In 2024, Easy Access to No-Cost Music for Video Makers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-win-xp10-extraction-issue-1152/"><u>Steps to Correct Win XP/10 Extraction Issue 1152</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-potential-with-resizable-gifs-in-discord/"><u>Unlocking Windows 11'S Full Potential with Resizable GIFs in Discord</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-1110s-d3d11-compatible-gpu-riddle/"><u>Unraveling Windows 11/10'S D3D11 Compatible GPU Riddle</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 100 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2024-12-23T22:32:56.208Z
-updated: 2024-12-27T20:59:10.716Z
+date: 2025-01-02T18:54:53.323Z
+updated: 2025-01-06T17:45:29.662Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Account Password from the Sign-In Screen
 
  If you have forgotten your password, you can reset your sign-in password from the sign-in screen. To confirm the authenticity of the user, Windows will need you to answer the security questions correctly to perform a reset.
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 4. Enter your new password and then re-enter the password to confirm the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
 7. Here, uncheck Account is disabled, and Account is locked out option.
@@ -110,6 +110,11 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 1. Open the Notepad app. Search for **Notepad** in Windows search and open the app.  
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
 'takeown /f C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC /r /d y'  
@@ -122,15 +127,16 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Save** to create the batch script.
 
  To execute the script, double-click on it and click Yes when prompted by User Account Control.
 
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the Account Lockout Threshold Policy
 
@@ -148,12 +154,12 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -171,22 +177,18 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
 
  After the restart, you can sign in without receiving the sign-in is disabled notification. If the issue persists, [try to clear the TPM on Windows](https://www.makeuseof.com/clear-tpm-windows-11/). This can be a tricky solution depending on how your account is set up. Clearing TPM may lock you out of your computer. Attempt this only if you have a password-based sign-in option enabled.
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
@@ -204,22 +206,20 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/omplete-guide-what-does-unlisted-mean-on-youtube/"><u>[New] Complete Guide What Does Unlisted Mean on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-exploring-successful-strategies-to-elevate-audience-numbers-on-youtube-shorts/"><u>[Updated] In 2024, Exploring Successful Strategies to Elevate Audience Numbers on YouTube Shorts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterclass-in-personal-4k-editor-pc-assembly/"><u>2024 Approved Masterclass in Personal 4K Editor PC Assembly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/"><u>Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/como-convertir-tu-video-avi-al-formato-wmv-de-manera-sencilla-y-gratuita-directamente-desde-la-web-guia-paso-a-paso-usando-movavi/"><u>Cómo Convertir Tu Vídeo AVI Al Formato WMV De Manera Sencilla Y Gratuita Directamente Desde La Web: Guía Paso a Paso Usando Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-dysfunctional-utilities-of-windows-10-fixes/"><u>Elevating Dysfunctional Utilities of Windows 10 Fixes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-next-gen-vector-software-for-designers-for-2024/"><u>Exploring Next-Gen Vector Software for Designers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/l-youtube-rich-list-pinnacle/"><u>Global YouTube Rich List Pinnacle</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oneplus-nord-ce-3-lite-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost OnePlus Nord CE 3 Lite 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-efficiency-of-your-operating-systems-after-win-11-installation/"><u>Maximizing Efficiency of Your Operating Systems After Win 11 Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-endless-enter-credential-errors-in-windows/"><u>Overcoming Endless Enter Credential Errors in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-permissions-hurdle-in-windows-application-management/"><u>Overcoming Permissions Hurdle in Windows Application Management</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-resolve-share-failures-in-geforce-experience/"><u>Steps to Resolve Share Failures in GeForce Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quick-fix-handbook-unraveling-11-windows-quirks/"><u>The Quick-Fix Handbook: Unraveling 11 Windows Quirks</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-ps4-remote-control-re-establish-connection-issues-on-pc/"><u>Troubleshooting PS4 Remote Control: Re-Establish Connection Issues on PC</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-streamlined-methods-for-obtaining-pitched-ding-sound-files-online-the-top-10-list-for-2024/"><u>Updated Streamlined Methods for Obtaining Pitched Ding Sound Files Online - The Top 10 List for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/why-missing-drive-letters-happen-in-windows-solutions-explored/"><u>Why Missing Drive Letters Happen in Windows - Solutions Explored</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] 2024 Approved The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-tips-for-pop-culture-meme-success/"><u>[New] In 2024, Top Tips for Pop Culture Meme Success</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[New] Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>2024 Approved Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pciphonedvd/"><u>写真家のためのテクニック：PC/iPhone用写真の安全な保管に最適なDVD選びガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-old-games-adding-new-glory-tips-on-incorporating-trophies-using-retroarch/"><u>Enhancing Old Games, Adding New Glory: Tips on Incorporating Trophies Using Retroarch</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-apples-vision-the-introduction-of-a-domestic-robot-helper-a-glimpse-into-tomorrow/"><u>Exploring Apple's Vision: The Introduction of a Domestic Robot Helper - A Glimpse Into Tomorrow</u></a></li>
+<li><a href="https://win11.techidaily.com/how-application-instance-names-facilitate-development/"><u>How Application Instance Names Facilitate Development</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>In 2024, The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-around-pin-issues-for-secure-windows-logins/"><u>Navigating Around PIN Issues for Secure Windows Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-trouble-with-windows-missing-file-updates-error-0x80070003/"><u>Navigating Through the Trouble with Windows' Missing File Updates (Error: 0X80070003)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silencing-speaker-distortions-top-5-simple-solutions-for-audio-clarity/"><u>Silencing Speaker Distortions: Top 5 Simple Solutions for Audio Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-resolving-bios-secure-boot-grayout-issues-in-windows/"><u>Tips for Resolving BIOS Secure Boot Grayout Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-nvidias-disconnect-issue-on-pcs/"><u>Troubleshooting: Resolving Nvidia's Disconnect Issue on PCs</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-choice-the-greatest-11-multi-angle-cams/"><u>Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
 </ul></div>
 

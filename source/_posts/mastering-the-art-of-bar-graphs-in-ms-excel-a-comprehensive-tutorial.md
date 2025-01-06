@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Bar Graphs in MS Excel: A Comprehensive Tutorial"
-date: 2024-08-28T00:48:05.415Z
-updated: 2024-08-29T00:48:05.415Z
+date: 2024-12-31T20:44:15.808Z
+updated: 2025-01-06T17:48:34.410Z
 tags:
   - excel
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
 ## Mastering the Art of Bar Graphs in MS Excel: A Comprehensive Tutorial
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Inserting Bar Charts in Microsoft Excel](https://ai-voice-clone.techidaily.com/new-2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/)
 * [Formatting Bar Charts in Microsoft Excel](https://common-error.techidaily.com/solving-your-airpods-connection-issues-on-pc-a-2024-guide/)
 
  A bar chart (or a bar graph) is one of the easiest ways to present your data in Excel, where horizontal bars are used to compare data values. Here's how to make and format bar charts in Microsoft Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Inserting Bar Charts in Microsoft Excel
 
@@ -44,6 +52,10 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
  For this set of data, mice were bought the least with 9 sales, while headphones were bought the most with 55 sales. This comparison is visually obvious from the chart as presented.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Formatting Bar Charts in Microsoft Excel
 
  By default, a bar chart in Excel is created using a set style, with a title for the chart extrapolated from one of the column labels (if available).
@@ -54,14 +66,15 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
 Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-screen-capture.techidaily.com/2024-approved-udemy-alternatives-10-best-online-learning-sites-like-udemy/) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Changing Chart Title Text
 
  To change the title text for a bar chart, double-click the title text box above the chart itself. You'll then be able to edit or format the text as required.
 
 ![Double-click the chart title text box in an Excel bar chart to change the title text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Format-Chart-Title-Text.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to remove the chart title completely, select your chart and click the "Chart Elements" icon on the right, shown visually as a green, “+” symbol.
 
@@ -69,9 +82,6 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![Tap the green, plus icon (&quot;Chart Elements&quot;) next to your Excel chart, then press the &quot;Chart Title&quot; checkbox to add or remove the chart title.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Add-Remove-Chart-Title.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Your chart title will be removed once the checkbox has been removed.
 
 ###  Adding and Editing Axis Labels
@@ -88,16 +98,8 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![Axis labels shown on an example Excel bar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Editing-Chart-Axis-Labels.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  If you want to remove the labels, follow the same steps to remove the checkbox from the "Chart Elements" menu by pressing the green, "+” icon. Removing the checkbox next to the "Axis Titles" option will immediately remove the labels from view.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ###  Changing Chart Style and Colors
 
  Microsoft Excel offers a number of chart themes (named styles) that you can apply to your bar chart. To apply these, select your chart and then click the "Chart Styles" icon on the right that looks like a paint brush.
@@ -110,9 +112,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Under the &quot;Style&quot; section of the &quot;Chart Styles&quot; menu, select one of the visual chart style options to apply it to your chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Style-Options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can access the same chart styles by clicking the "Design" tab, under the "Chart Tools" section on the ribbon bar.
 
  The same chart styles will be visible under the "Chart Styles" section---clicking any of the options shown will change your chart style in the same way as the method above.
@@ -125,37 +124,41 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Click the &quot;Color&quot; tab under the &quot;Chart Style&quot; options menu to change the colors used in your Excel bar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Style-Color-Options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can test each color style by hovering over them with your mouse first. Your chart will change to show how the chart will look with those colors applied.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Further Bar Chart Formatting Options
 
  You can make further formatting changes to your bar chart by right-clicking the chart and selecting the "Format Chart Area" option.
 
 ![You can make further formatting changes to an Excel bar chart by right-clicking the chart and clicking the &quot;Format Chart Area&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Format-Chart-Area-Button-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will bring up the "Format Chart Area" menu on the right. From here, you can change the fill, border, and other chart formatting options for your chart under the "Chart Options" section.
 
 ![The &quot;Chart Options&quot; section of the &quot;Format Chart Area&quot; menu, allowing you to make further formatting changes to an Excel chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Format-Chart-Options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also change how text is displayed on your chart under the "Text Options" section, allowing you to add colors, effects, and patterns to your title and axis labels, as well as change how your text is aligned on the chart.
 
 ![The &quot;Text Options&quot; section of the &quot;Format Chart Area&quot; menu, allowing you to make further text formatting changes to an Excel chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Text-Options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to make further text formatting changes, you can do this using the standard text formatting options under the "Home" tab while you're editing a label.
 
 ![The &quot;Home&quot; tab on the Excel ribbon bar, with various text formatting options available](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Home-Ribbon-Tab.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also use the pop-up formatting menu that appears above the chart title or axis label text boxes as you edit them.
 
@@ -167,8 +170,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +177,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rank-your-download-preferences-with-our-top-5-list-for-2024/"><u>[New] Rank Your Download Preferences with Our Top 5 List for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-demystifying-the-high-tech-world-of-vr-devices-for-2024/"><u>[Updated] Demystifying the High-Tech World of VR Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/15-solutions-for-restoring-your-facetime-functionality/"><u>15 Solutions for Restoring Your FaceTime Functionality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunction-with-conexant-hardware-in-windows-11-a-detailed-fix-tutorial-for-users/"><u>Audio Malfunction with Conexant Hardware in Windows 11? A Detailed Fix Tutorial for Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-itel-p55plus-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Itel P55+?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y100-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y100 Phone Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-12-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 12 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-on-shortening-your-zoom-captures-managing-both-online-streams-and-offline-archives/"><u>Step-by-Step Guide on Shortening Your Zoom Captures - Managing Both Online Streams and Offline Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-setting-up-gaia-version-610-on-your-kodi-nexus-and-matrix-units/"><u>Step-by-Step Guide to Setting Up Gaia Version 6.1.0 on Your Kodi Nexus and Matrix Units</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-securely-retrieve-and-save-private-video-clips-from-vimeo-online/"><u>Steps to Securely Retrieve and Save Private Video Clips From Vimeo Online</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-plex-playbook-setup-usage-and-optimization-tips/"><u>The Essential Plex Playbook: Setup, Usage & Optimization Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-strategy-for-playstation-5-game-sharing-made-easy/"><u>The Ultimate Strategy for PlayStation 5 Game Sharing Made Easy</u></a></li>
+<li><a href="https://win11.techidaily.com/top-11-video-converter-tools-compatible-with-windows-11-desktop-and-web-options/"><u>Top 11 Video Converter Tools Compatible with Windows 11: Desktop & Web Options</u></a></li>
+<li><a href="https://win11.techidaily.com/top-25-best-free-online-movie-streaming-services-after-vumoo/"><u>Top 25 Best Free Online Movie Streaming Services After Vumoo</u></a></li>
+<li><a href="https://win11.techidaily.com/top-picks-ultimate-guide-to-choosing-a-user-friendly-pc-screen-recording-tool/"><u>Top Picks: Ultimate Guide to Choosing a User-Friendly PC Screen Recording Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tools-for-transforming-youtube-clips-into-mp3s-beyond-listentoyoutube-options-explained/"><u>Top Tools for Transforming YouTube Clips Into MP3s - Beyond ListenToYouTube Options Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-skirmish-fixing-sse-in-skyrim-games/"><u>Win Skirmish: Fixing SSE in Skyrim Games</u></a></li>
+</ul></div>
 

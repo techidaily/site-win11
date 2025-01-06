@@ -1,7 +1,7 @@
 ---
 title: Steps to Locate External Workbook Links Within Microsoft Excel
-date: 2024-08-28T00:48:19.048Z
-updated: 2024-08-29T00:48:19.048Z
+date: 2025-01-02T17:38:15.545Z
+updated: 2025-01-06T17:25:31.207Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Steps to Locate External Workbook Links Within Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  A general search to locate the links to workbooks is easy if it's just the text in the cells that you look through. But if you have workbooks linked in formulas, defined names, charts, or objects, it's not an obvious search. With a mix of built-in tools and your own two eyes, here's how to find links to your other workbooks in Microsoft Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Find Workbook Links in Formulas
 
  Aside from a simple [cross-reference link](https://extra-information.techidaily.com/in-2024-chic-coverage-for-your-portable-screen/) in some cell text, formulas are common places in which to include workbook links. After all, pulling in data from another sheet that calculates with what's in your current sheet is a powerful way to use Excel.
@@ -29,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Start by opening the Find feature. You can do this with Ctrl+f or Find & Select > Find in the ribbon on the Home tab.
 
 ![Click Find & Select and pick Find](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FindSelectFind-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the Find and Replace box opens, you'll only need to enter three pieces of information. Click "Options" and enter the following:
 
@@ -47,8 +59,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  You can use the Find dialog box to find workbook links in values, notes, and comments, too. Just choose one of those options instead of Formulas in the "Look In" drop-down list.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Find Workbook Links in Defined Names
 
  Another common location to have external references in Excel are cells with defined names. As you know, [labeling a cell or range with a meaningful name](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/), especially if it contains a reference link, is convenient.
@@ -59,12 +72,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Go to Formulas and click Name Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FormulasNameManager-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  When the Name Manager window displays, you can look for workbooks in the Refers To column. Since these have the XLS or XLSX extension, you should be able to spot them easily. If necessary, you can also select one to see the entire workbook name in the Refers To box at the bottom of the window.
 
 ![Name Manager workbook results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FormulasNameManagerResults-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Find Workbook Links in Charts
 
@@ -79,15 +93,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Choose a data series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FormatChartSeries-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, move your eyes to the formula bar. If you have the workbook linked, you'll see it here, denoted by an Excel extension. And you can check each data series in your chart in the same way.
 
 ![Workbook linked in chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FormatChartSeriesResults-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  If you believe that you have a workbook linked in a chart title rather than in a data series, just click the chart title. Then, gander at the formula bar for a Microsoft Excel workbook.
 
 ##  Find Workbook Links in Objects
@@ -102,16 +114,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Pick Objects and click OK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FindSelectGoToSpecialObjects-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  For the first object, look to the formula bar (like the one above) for charts. Then, hit the Tab key to go to the next object and do the same.
 
 ![Workbook linked in object](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/ObjectResults-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  You can continue to press Tab and look at the formula bar for each object in your workbook. When you land back on the first object that you reviewed, you've gone through them all.
 
  Remember these useful tips the next time you need to find a link to a workbook in Microsoft Excel.
@@ -122,8 +128,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +135,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-beyond-the-leading-films-hidden-cinema-treasures/"><u>[Updated] 2024 Approved Beyond the Leading Films Hidden Cinema Treasures</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-dive-into-the-tiktok-universe-quick-setup-guide-on-macbook-for-2024/"><u>[Updated] Dive Into the TikTok Universe Quick Setup Guide on MacBook for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-on-the-go-video-making-essentials/"><u>[Updated] On-The-Go Video Making Essentials</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sifting-through-cloud-costs-for-maximum-savings/"><u>[Updated] Sifting Through Cloud Costs for Maximum Savings</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-methods-for-iphone-users-to-enjoy-ogg-files/"><u>Effortless Methods for iPhone Users to Enjoy OGG Files</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-transformation-mastering-the-switch-from-wmv-to-webm-files/"><u>Effortless Transformation: Mastering the Switch From WMV to WebM Files</u></a></li>
+<li><a href="https://win11.techidaily.com/full-circle-video-spin-mastering-the-art-of-180-degree-video-rotations/"><u>Full-Circle Video Spin: Mastering the Art of 180 Degree Video Rotations</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-effortlessly-view-mts-videos-a-comprehensive-tutorial-for-your-pc-or-mac/"><u>How To Effortlessly View MTS Videos: A Comprehensive Tutorial for Your PC or Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-11f-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 11F 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-capture-a-detailed-tutorial-on-saving-your-and-others-facebook-lives/"><u>Mastering the Capture: A Detailed Tutorial on Saving Your and Others' Facebook Lives</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-vobwindows-10/"><u>MP4への変換 - VOBファイルからWindows 10で最適な方法を学ぶ</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4mov-img/"><u>MP4やMOVへの変換ガイド: IMGファイルを簡単に動画形式に！-初学者向け</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-no-watermark-video-joiners-our-top-picks/"><u>New In 2024, No-Watermark Video Joiners Our Top Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-video-dimensions-for-youtube-shorts-a-guide-to-adjusting-aspect-ratios/"><u>Optimizing Video Dimensions for YouTube Shorts: A Guide to Adjusting Aspect Ratios</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-asf-compatibility-issues-in-windows-media-player-comprehensive-guide-and-fixes-inside/"><u>Overcoming ASF Compatibility Issues in Windows Media Player – Comprehensive Guide & Fixes Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-display-latency-in-dual-screen-gaming-for-windows-1011-users/"><u>Troubleshooting Display Latency in Dual-Screen Gaming for Windows 10/11 Users</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-combine-mov-files-for-free-5-excellent-options/"><u>Updated 2024 Approved Combine MOV Files for Free 5 Excellent Options</u></a></li>
+</ul></div>
 

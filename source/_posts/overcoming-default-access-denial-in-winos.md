@@ -1,7 +1,7 @@
 ---
 title: Overcoming Default Access Denial in WinOS
-date: 2024-08-23T06:08:34.249Z
-updated: 2024-08-24T06:08:34.249Z
+date: 2024-12-30T16:35:55.655Z
+updated: 2025-01-06T21:13:53.315Z
 tags:
   - windows10
   - windows11
@@ -33,11 +33,23 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 5. In the dialog that appears, move the slider to the desired level (recommended: notify only when apps try to make changes to your computer) and click **OK** to save the changes.  
 ![The User Account Control Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-uac-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, close the Command Prompt and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows comes with a hidden administrator account that can allow you to have full control over the system. This account is typically disabled by default for security reasons but if you are having trouble switching to an administrator account, enabling the built-in Administrator account can be beneficial.
 
@@ -64,8 +76,9 @@ net user administrator /active:yes
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Make the Changes in Safe Mode
 
  It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
@@ -74,30 +87,18 @@ net user administrator /active:yes
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  If you are using a third-party security program on your computer, it might be preventing you from switching to an admin account because of security reasons.
 
  In this case, you can try to temporarily disable your security program and see if that helps you switch to an administrator account. You can do this by right-clicking on your antivirus icon in the taskbar and choosing the **Shields Control** \> **Disable until the computer is restarted** option.
 
  If this works, you can consider [switching to a better security program for your Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to prevent issues like this from occurring in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Create a New Administrator Account
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
  This will help with any corruption issues in the current account, as well as help you determine if the permission-related problems were user-specific. It is, however, important to note that you will require admin access to the system to proceed with the steps in this method, so you must enable the built-in administrator account beforehand.
@@ -114,20 +115,20 @@ net user administrator /active:yes
 7. Once the account is created, click on the **Change account type** button associated with the newly created account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 8. Expand the Account type dropdown and choose **Administrator** from the menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. Click **OK** to save the changes.
 
  You can now log into the new administrator account and begin using it.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Administrative Access to Your Windows System
 
  The inability to change an account type to Administrator in Windows can be caused by a number of reasons, such as misconfigured User Account Control (UAC) settings or underlying system issues. However, with the right troubleshooting methods, you can overcome the account type change challenge and enjoy administrative access to the system.
 
  Below, we explore various effective fixes to resolve this problem permanently.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -135,3 +136,23 @@ net user administrator /active:yes
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/-pro-tips-to-perfectly-tag-videos-and-maximize-views/"><u>[New] 5 Pro Tips to Perfectly Tag Videos and Maximize Views</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-detailed-review-experience-with-samsungs-sphere-cam-for-2024/"><u>[New] Detailed Review Experience with Samsung's Sphere Cam for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-webinar-recording-a-step-by-step-masterclass-guide/"><u>[New] Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/directing-viewers-gaze-in-iphone-compositions-through-leading-lines/"><u>Directing Viewers' Gaze in iPhone Compositions Through Leading Lines</u></a></li>
+<li><a href="https://win11.techidaily.com/directx-comprehensible-guide-to-downloading-and-updating/"><u>DirectX: Comprehensible Guide to Downloading and Updating</u></a></li>
+<li><a href="https://fox-links.techidaily.com/magix-acid-pros-successors-in-vector-editing/"><u>Magix ACID Pro's Successors in Vector Editing</u></a></li>
+<li><a href="https://facebook.techidaily.com/peering-into-facebooks-content-regulation-entities/"><u>Peering Into Facebook’s Content Regulation Entities</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-playstation-connectivity-woes-in-windows/"><u>Quick Remedies for PlayStation Connectivity Woes in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simple-guide-adjusting-your-iphone-battery-with-6-straightforward-methods/"><u>Simple Guide: Adjusting Your iPhone Battery with 6 Straightforward Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-enhancing-win-written-works/"><u>The Ultimate Guide to Enhancing Win-Written Works</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-x-chair-x4-executive-assessment-why-this-seat-is-a-powerhouse-in-modern-offices/"><u>The X-Chair X4 Executive Assessment: Why This Seat Is a Powerhouse in Modern Offices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-preventing-skyfall-problems-in-how-to-build-a-metropolis-cities-skylines-latest-fixes/"><u>Top Strategies for Preventing Skyfall Problems in How to Build a Metropolis: Cities Skylines [Latest Fixes]</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-and-purge-windows-11-user-journey-data/"><u>Uncover & Purge Windows 11 User Journey Data</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-winning-potential-navigate-fullscreen-challenges-sonic-frontiers-w11/"><u>Unleashing Winning Potential: Navigate Fullscreen Challenges, Sonic Frontiers (W11)</u></a></li>
+<li><a href="https://win11.techidaily.com/unravel-cpu-overuse-system-stability-through-windows-rm-insights/"><u>Unravel CPU Overuse: System Stability Through Windows' RM Insights</u></a></li>
+</ul></div>
+

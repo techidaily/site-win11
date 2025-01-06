@@ -1,7 +1,7 @@
 ---
 title: Resolving Nvidia CP Access Issues on WS11/10 Systems
-date: 2024-08-23T06:09:46.131Z
-updated: 2024-08-24T06:09:46.131Z
+date: 2024-12-30T16:15:07.641Z
+updated: 2025-01-06T16:21:17.795Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  The “Access denied” error is mostly reported to arise for 3D settings. As a result, NVIDIA Control Panel doesn’t apply (save) the settings users select. This is how you can resolve NVIDIA Control Panel’s “Access denied” error within Windows 11/10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the NVIDIA Control Panel as an Administrator
 
  Firstly, try running the NVIDIA Control Panel with elevated admin permissions, which has worked for some users. To do that, press the**Windows** logo +**S** keyboard buttons and input NVIDIA Control Panel. Right-click NVIDIA Control Panel and select**Run as administrator** .
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
 `C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.964.0_x64__56jybvy8sckqj`
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Select the Repair and Reset Options for the NVIDIA Control Panel
 
  The NVIDIA Control Panel app has**Repair** and**Reset** troubleshooting options you can select in Settings. Both options can be useful for fixing apps when they’re not working right. So, try selecting the**Repair** option first and then**Reset** to clear the app’s data if repairing isn’t enough. Check out this[article about resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) for details about how to apply this potential fix.
@@ -39,8 +47,13 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 ![The Repair and Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Start or Restart the NVIDIA Display Container Service
 
  The NVIDIA Display Container is an important GPU service that runs numerous other NVIDIA background tasks. Make sure that service is running or restart it if it is. You can start or restart NVIDIA Display Container like this:
@@ -51,13 +64,20 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 4. Then double-click**NVIDIA Display Container** to view the settings for that service.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-app.jpg)  
  Screenshot captured by Jack Slater - No attribution required
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Click on the**Startup type** menu and select**Automatic** from there.
 6. Next, select**Start** if the NVIDIA Display Container service is stopped. Or select**Stop** \>**Start** to restart that service.  
 ![The NVIDIA Display Container service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/nvidia-display-container-service.jpg)
 7. Click**Apply** to set the NVIDIA Display Container service’s settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close the NVIDIA Display Container Properties window by clicking**OK** .
 
 ## 4\. Update Your NVIDIA Graphics Card Driver
@@ -78,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 
  This[post about creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) tells you how to roll back Windows. Select a restore point that will restore the previous NVIDIA graphics driver. You can click**Scan for affected** programs in System Restore to check if a chosen restoration point will restore an NVIDIA graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Restore a Previous Version of the DRS Folder
 
  Some NVIDIA Control Panel users have said they fixed the “Access denied” error by restoring a DRS folder version backup. Note that you’ll only be able to apply this potential fix if you’ve got File History enabled or restore points saved on your PC. This is how you can restore a previous DRS folder version in Windows 11/10:
@@ -95,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 6. Click the**Previous Versions** tab.  
 ![The Previous Versions tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/previous-version-tab.jpg)
 7. Select the most recent folder version shown in that tab.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 8. Click the**Restore** button.
 
  To select the same**Hidden Items** option in Windows 10, you’ll need to open the**View** tab in Explorer. Then select the checkbox labeled**Hidden Items** on that tab.
@@ -111,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
 3. Then turn off the**Enable Xbox Game Bar** option.  
 ![The Xbox Game Bar setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-xbox-game-bar-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Change Your Settings in the NVIDIA Control Panel Again
 
  Many users have resolved NVIDIA Control Panel’s “Access denied” error with the potential fixes covered above. So, the probability one of them will also fix that issue on your PC is good. With that issue sorted, you can change all settings in the NVIDIA Control Panel as required.
@@ -127,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +142,26 @@ thumbnail: https://thmb.techidaily.com/8165b01ed064346696cef87d703a956f25f7e75ad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-melodic-mastery-mac-studio-tips/"><u>[New] In 2024, Melodic Mastery Mac Studio Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[New] Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-premium-mac-capture-software-substitutes-for-bandicam/"><u>[Updated] Premium Mac Capture Software Substitutes for Bandicam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-instas-trendy-filters/"><u>[Updated] The Ultimate Guide to Insta's Trendy Filters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024s-premier-gadget-review-channel-selections/"><u>2024'S Premier Gadget Review Channel Selections</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-slide-show-software-selection-on-latest-iphones/"><u>Best Slide Show Software Selection on Latest iPhones</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-data-transfer-using-a-python-server-on-windows/"><u>Cross-Platform Data Transfer Using a Python Server on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-no-running-scripts-blockade-in-powershell/"><u>Demystifying the 'No Running Scripts' Blockade in PowerShell</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fusing-tech-and-tunes-leveraging-ai-for-sound-creation/"><u>Fusing Tech and Tunes: Leveraging AI for Sound Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/how-win11-outclasses-macos-in-essential-areas/"><u>How Win11 Outclasses MacOS in Essential Areas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>In 2024, Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-gpt-to-enrich-your-imaginative-dungeon-quests/"><u>Leveraging GPT to Enrich Your Imaginative Dungeon Quests</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-c-drive-space-management-in-windows-os/"><u>Mastering C: Drive Space Management in Windows OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/precise-images-for-your-workspace/"><u>Precise Images for Your Workspace</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-techniques-for-system-file-corruption-in-windows/"><u>Quick-Fix Techniques for System File Corruption in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/rewiring-wireless-lan-link-on-windows/"><u>Rewiring Wireless LAN Link on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-frozen-exe-file-problems/"><u>Tackling Windows' Frozen Exe File Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/transitioning-to-terminal-with-quake-features/"><u>Transitioning to Terminal with Quake Features</u></a></li>
+<li><a href="https://win11.techidaily.com/triggers-for-restarting-windows-explorer/"><u>Triggers for Restarting Windows Explorer</u></a></li>
+</ul></div>
 

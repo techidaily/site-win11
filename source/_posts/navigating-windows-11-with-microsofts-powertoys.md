@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2024-12-22T05:29:46.290Z
-updated: 2024-12-27T23:32:10.074Z
+date: 2025-01-05T17:29:46.694Z
+updated: 2025-01-06T20:04:49.677Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
@@ -41,11 +41,11 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 4. If you feel satisfied, click **Install** to begin the downloading & installation process. The process might take a few minutes.  
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
- Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
@@ -59,17 +59,13 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -85,10 +81,14 @@ winget install --id Microsoft.PowerToys
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
@@ -109,19 +109,19 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-step-by-step-guide-to-background-dimming-in-videos/"><u>[New] In 2024, Step-by-Step Guide to Background Dimming in Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-digital-illustration-turning-your-favorite-vimeo-videos-into-gifs/"><u>[Updated] 2024 Approved Digital Illustration Turning Your Favorite Vimeo Videos Into GIFs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[Updated] In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/convenient-windows-11-tips-easy-rdc-entry/"><u>Convenient Windows 11 Tips: Easy RDC Entry</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722968053394-easy-guide-to-downloading-and-installing-corsair-void-pro-on-your-pc/"><u>Easy Guide to Downloading and Installing Corsair Void Pro on Your PC!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-strategies-for-seamless-green-screening-in-kinemaster/"><u>Expert Strategies for Seamless Green Screening in KineMaster</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Honor Magic Vs 2 Phone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-12-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 12? How to Fix</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-fixes-for-disabled-hard-drives-on-windows-11-systems/"><u>Innovative Fixes for Disabled Hard Drives on Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-access-merge-your-onedrive-and-microsoft-account/"><u>Instant Access: Merge Your OneDrive & Microsoft Account</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-unnoticed-windows-11-camera-use/"><u>Preventing Unnoticed Windows 11 Camera Use</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-windows-11-after-password-hurdle/"><u>Reviving Windows 11 After Password Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-must-have-apps-to-replace-windows-11-essentials/"><u>Top 10 Must-Have Apps to Replace Windows 11 Essentials</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-continuous-system-reboots-ultimate-solutions-for-windows-1110-users/"><u>Troubleshooting Continuous System Reboots - Ultimate Solutions for Windows 11/10 Users</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-detailed-guide-on-voice-memos-best-practices-for-2024/"><u>[New] Detailed Guide on Voice Memos Best Practices for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[New] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-to-facebook-in-a-flash-easy-connection-methods-for-2024/"><u>[New] Instagram to Facebook in a Flash Easy Connection Methods for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[Updated] Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-centralization-opt-for-terminal-by-default/"><u>Command Line Centralization: Opt for Terminal by Default</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-validating-webcammicrophone-on-windows/"><u>Essential Tips: Validating Webcam/Microphone on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-herramientas-de-edicion-de-video-remplazo-al-windows-movie-maker/"><u>Gratis Herramientas De Edición De Video: Remplazo Al Windows Movie Maker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-error-code-0xc19001e1-when-upgradinginstalling-windows-10/"><u>How to Overcome Error Code 0Xc19001e1 When Upgrading/Installing Windows 10</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a15-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A15 4G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-infinite-scrolling-problems-excel-tips-windows/"><u>Resolve Infinite Scrolling Problems: Excel Tips (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-non-detection-of-razers-by-synapse-in-windows-11/"><u>Resolving Non-Detection of Razers by Synapse in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-high-privilege-user-tasks-in-windows/"><u>Streamlining High-Privilege User Tasks in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-peak-performance-mastering-time-management-tech-and-hacks-for-optimized-daily-workflow-guidance/"><u>Unlock Peak Performance: Mastering Time Management Tech and Hacks for Optimized Daily Workflow | Guidance</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-file-handling-on-windows-11-addition-of-movecopy/"><u>Upgrade Your File Handling on Windows 11 - Addition of Move/Copy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Menu with Additional Folders
-date: 2024-12-24T16:33:39.214Z
-updated: 2024-12-27T22:35:31.579Z
+date: 2024-12-30T17:14:27.581Z
+updated: 2025-01-06T18:01:59.247Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
@@ -51,10 +47,14 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Done** to exit the MyFolders window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Use MyFolders
 
@@ -68,10 +68,14 @@ Once your PC has restarted:
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
@@ -91,12 +95,13 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Exit the 7-Zip software.
 
  After extracting the RAR archive, you can launch and utilize Right Click Context Menu Adder right-away, since no installation is required. This is how to add folders to the context menu with that software:
@@ -127,16 +132,12 @@ Once your PC has restarted:
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -157,18 +158,22 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-key-to-youtube-success-25-effective-promotion-methods-for-2024/"><u>[New] The Key to YouTube Success 25 Effective Promotion Methods for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-premier-8-video-transformers-for-your-mac-and-phone/"><u>[New] The Premier 8 Video Transformers for Your Mac & Phone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-astral-adventures-with-your-luxury-sj4000-essential-accompaniments-for-2024/"><u>[Updated] Astral Adventures with Your Luxury SJ4000 - Essential Accompaniments for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-micro-videos-in-the-spotlight-who-wins-youtube-shorts-or-tiktok/"><u>[Updated] In 2024, Micro-Videos in the Spotlight Who Wins, YouTube Shorts or TikTok?</u></a></li>
-<li><a href="https://win11.techidaily.com/crucial-excel-tricks-you-need-to-know-for-effective-data-input/"><u>Crucial Excel Tricks You Need to Know for Effective Data Input</u></a></li>
-<li><a href="https://win-docs.techidaily.com/discovering-lost-documents-a-step-by-step-guide-to-retrieve-accidentally-deleted-files-in-windows-1110/"><u>Discovering Lost Documents: A Step-by-Step Guide to Retrieve Accidentally Deleted Files in Windows 11/10</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/drive-more-see-clearer-5-upgraded-headlights/"><u>Drive More, See Clearer: 5 Upgraded Headlights</u></a></li>
-<li><a href="https://win11.techidaily.com/excel-tips-leveraging-the-power-of-scenario-analysis-with-microsoft-excels-tools/"><u>Excel Tips: Leveraging the Power of Scenario Analysis with Microsoft Excel’s Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-media-mobility-in-apples-ecosystem-for-2024/"><u>Mastering Media Mobility in Apple's Ecosystem for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/organize-your-data-with-excel-mastering-alphabetical-tab-arrangement-techniques/"><u>Organize Your Data with Excel: Mastering Alphabetical Tab Arrangement Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-incorporating-a-trendline-into-your-microsoft-excel-data-analysis/"><u>Step-by-Step Guide: Incorporating a Trendline Into Your Microsoft Excel Data Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-tallying-selections-with-excels-formulas/"><u>Step-by-Step Guide: Tallying Selections with Excel's Formulas</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-orientation-made-easy-a-quick-start-guide/"><u>Updated 2024 Approved Video Orientation Made Easy A Quick Start Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-boosting-your-stream-quality-with-zoom-and-fb-live-for-2024/"><u>[New] Boosting Your Stream Quality with ZOOM & FB Live for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-download-harmony-free-music-from-fb-for-2024/"><u>[Updated] Download Harmony Free Music From FB for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tips-for-producing-high-quality-youtube-videos/"><u>[Updated] In 2024, Essential Tips for Producing High-Quality YouTube Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unbeatable-deals-economical-gopro-camera-shopping-for-2024/"><u>[Updated] Unbeatable Deals Economical GoPro Camera Shopping for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-fixes-to-get-past-fortnites-incessant-load-screen-problem/"><u>Definitive Fixes to Get Past Fortnite's Incessant Load Screen Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/directx-12-the-comprehensive-guide-to-system-updates-and-installation/"><u>DirectX 12: The Comprehensive Guide to System Updates & Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-authenticity-alert-from-adobe-software/"><u>Fixing Authenticity Alert From Adobe Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-c32-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia C32</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-elite-preview-screenplay-series/"><u>In 2024, Elite Preview Screenplay Series</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-disk-type-verification-hdd-vs-ssd-in-windows-os/"><u>Navigating Disk Type Verification: HDD vs SSD in Windows OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-now-with-these-6-troubleshooting-steps/"><u>Speed Up Your iPhone Now with These 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mend-internal-audio-problems-with-audacity-windows-11/"><u>Strategies to Mend Internal Audio Problems with Audacity (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-installing-adobe-reader-via-microsoft-platform/"><u>Streamline Installing Adobe Reader via Microsoft Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-upgraded-operating-systems-achieving-harmony-with-wsl/"><u>Streamlining Upgraded Operating Systems: Achieving Harmony with WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/the-os-command-center-steps-to-access/"><u>The OS Command Center: Steps to Access</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-update-components-must-be-repaired-fixed/"><u>Windows Update Components Must Be Repaired [FIXED]</u></a></li>
+<li><a href="https://win11.techidaily.com/wsls-influence-on-desktop-linux-statistics/"><u>WSL's Influence on Desktop Linux Statistics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Your New Window 11: The Best Modifications for an Optimized Experience"
-date: 2024-08-23T06:10:39.603Z
-updated: 2024-08-24T06:10:39.603Z
+date: 2025-01-02T17:00:42.573Z
+updated: 2025-01-06T19:20:55.264Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,16 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 
 ![Nearby Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nearby-sharing-edit.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have multiple PCs running Windows 11 or 10, Nearby Sharing will make it easier for you to transfer content from one to another over WiFi or Bluetooth. However, as the name itself suggests, it works between nearby Windows computers. Check out[how to use Nearby Sharing on Windows 11](https://www.makeuseof.com/how-to-use-nearby-sharing-on-windows-11/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. A Cleaner Desktop Experience
 
  All your important files and folders should be at your fingertips. By creating app or folder shortcuts in Desktop, you can access everything important to you in the fastest way possible. However, these shortcuts should not be so much in number that your Desktop starts looking cluttered.
@@ -52,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 
  You should review what’s important to you from time to time to prioritize what to keep as shortcuts on the Desktop. If you just bought a Windows 11 PC, you will see Desktop icons such as Recycle Bin. You can quickly[hide Desktop icons from your Windows desktop](https://www.makeuseof.com/ways-to-hide-desktop-icons-on-windows/) with just a few clicks. You can also remove shortcuts to any files or folders from the desktop by right-clicking on them and then selecting the trash icon in the bottom right corner of the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 4\. Enable Storage Sense to Manage Your Memory Better
 
 ![Storage sense](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/storage-sense-edit.jpg)
@@ -62,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
  Storage Sense gives you a smart way of freeing up your disk space. When turned on, it automatically deletes items you longer need, like temporary files and items in your Recycle Bin. Additionally, Storage Sense allows you to choose how often to run and what to clean. You can also manage locally available cloud content associated with your Microsoft OneDrive account.
 
  It is important to note that all the changes you are making to Storage Sense apply only to you. It will not affect anyone else using the same PC with a different account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable Find My Device to Track Your PC
 
@@ -78,27 +84,26 @@ thumbnail: https://thmb.techidaily.com/67b9a46edc93cc7d7ee3f65fbe7a823bf8c1214de
 ![Night Light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/night-light-edit.jpg)
 3. Click on**Turn on now** , right beside Show warmer colors on your display to help you sleep.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also set up the time range, during which Windows 11 will keep Night light on. You can do that by clicking on the**Schedule Night light** toggle.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Set Active Hours
 
  If you used Windows 10 previously, you might already be familiar with Active hours. The feature is meant to give you more control over Windows updates.
 
 ![Active Hours](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-active-hours-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you set up Active hours, you tell your PC when to restart your device after update installations. There are two ways you can set it up. You can either allow Windows to learn from your device’s activity to adjust Active hours automatically or let yourself choose the time range.
 
  Windows 11 understands your daily activity and automatically chooses a timescale during which you usually do not use your PC. You can choose manually select the time if your daily usage does not follow a particular pattern. You need to tweak this setting to ensure that Windows updates do not come in the way of whatever you are doing during your work schedule.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Enable Dark Mode to Reduce Eyestrain
 
  The Dark mode is also an important display setting for user interfaces in Windows 11\. When turned on, it reduces the light emitted by your PC to help you with eye strain, which comes with prolonged screen time. You should also enable it to save energy consumption on your devices. Also, it will impact the real-world battery life of your Windows 11 laptop or tablet.
@@ -114,20 +119,18 @@ Here is how you can enable Dark mode on your Windows 11 PC:
  However, unlike macOS, dark mode in Windows 11 is not available everywhere in the OS. On the bright side, the degree of inconsistency of dark mode in Windows 11 is something you can ignore because dark mode applies to most areas when turned on.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You Are Better Off Enabling the Above Windows 11 Settings
 
  It is not the case that you will not be able to work on your Windows 11 PC without enabling the above settings. Whatever you do on your PC, with the changes to the Settings app, you will be able to do it in a more efficient manner. The above tweaks will be useful for both casual and advanced users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +139,20 @@ Here is how you can enable Dark mode on your Windows 11 PC:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-freeloading-without-breaking-your-budget-on-aes/"><u>[Updated] 2024 Approved Freeloading Without Breaking Your Budget on AEs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-zooms-full-potential-with-essential-3-methods/"><u>[Updated] Unleash Zoom's Full Potential with Essential 3 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/emerge-from-invisibility-restoring-windows-on-edge-os/"><u>Emerge From Invisibility: Restoring Windows on Edge OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-system-call-failed-error-on-windows-11-and-11/"><u>How to Fix the “System Call Failed” Error on Windows 11 & 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-instagram-reels-tips-and-techniques/"><u>In 2024, Mastering Instagram Reels Tips & Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/inspect-font-characters-windows-11-route/"><u>Inspect Font Characters: Windows 11 Route</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-steps-for-clean-startup/"><u>Mastering Windows 11: Steps for Clean Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-labyrinth-of-security-keys-in-win11-5-essential-steps-to-take/"><u>Navigating the Labyrinth of Security Keys in Win11: 5 Essential Steps to Take</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/regain-control-of-your-keys-repair-win10-shortcuts/"><u>Regain Control of Your Keys: Repair WIN10 Shortcuts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolving-direct3d-launch-problem/"><u>Resolving Direct3D Launch Problem</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rmvb-to-mp4-conversion-tips-enhance-playback-on-any-device/"><u>RMVB to MP4 Conversion Tips: Enhance Playback on Any Device</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-windows-error-code-0xc0000001-instantly/"><u>Steps to Resolve Windows Error Code 0XC0000001 Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-w11s-notepad-with-ai-maestro/"><u>Upgrade W11's Notepad with AI Maestro</u></a></li>
+</ul></div>
 

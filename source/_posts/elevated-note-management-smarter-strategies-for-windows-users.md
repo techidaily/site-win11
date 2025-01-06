@@ -1,7 +1,7 @@
 ---
 title: "Elevated Note Management: Smarter Strategies for Windows Users"
-date: 2024-12-23T20:59:08.063Z
-updated: 2024-12-28T02:08:57.738Z
+date: 2025-01-04T16:55:45.703Z
+updated: 2025-01-06T20:41:15.687Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
@@ -73,15 +77,11 @@ To pin Sticky Notes using DeskPins:
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -91,7 +91,7 @@ To pin Sticky Notes using DeskPins:
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
@@ -113,22 +113,21 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-archive-slideshow-in-high-quality-video/"><u>[New] In 2024, Archive Slideshow in High-Quality Video</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-income-from-youtube-as-a-newbie/"><u>[Updated] 2024 Approved Unlocking Income From YouTube as a Newbie</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-how-to-record-your-iphone-or-ipad-screen-for-youtube/"><u>2024 Approved How to Record Your iPhone or iPad Screen for YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-sticky-note-desynchronization-in-w11/"><u>Counteracting Sticky Note Desynchronization in W11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digiarty-official-blog-comprehensive-guide-on-dvd-copying-techniques/"><u>Digiarty Official Blog - Comprehensive Guide on DVD Copying Techniques</u></a></li>
-<li><a href="https://fox-making.techidaily.com/expert-tips-for-forcing-icloud-update-on-mac-os-achieve-seamless-data-harmony-now/"><u>Expert Tips for Forcing iCloud Update on Mac OS: Achieve Seamless Data Harmony Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-interaction-failures-in-new-windows-11-os/"><u>Fixing Interaction Failures in New Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-invalid-path-in-windows-os/"><u>Fixing Invalid Path in Windows OS</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-nokia-xr21-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Nokia XR21 FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-managing-windows-like-a-whiz/"><u>Navigating and Managing Windows Like a Whiz</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-accessing-windows-11s-file-journey/"><u>Step-by-Step: Accessing Windows 11'S File Journey</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-disappearing-playback-problem-on-sony-a6400-for-2024/"><u>The Disappearing Playback Problem on Sony A6400 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-forgotten-features-windows-evolution/"><u>The Forgotten Features: Windows Evolution</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-error-code-0xc0000005-on-windows-pcs/"><u>Troubleshooting Error Code 0xC0000005 on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-advanced-settings-for-a-secure-connection-on-win-11/"><u>Unlocking Advanced Settings for a Secure Connection on Win 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-advancing-ai-intensifies-our-digital-threats/"><u>Why Advancing AI Intensifies Our Digital Threats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[New] GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-simplifying-the-complex-an-in-depth-review-of-vida-app/"><u>[Updated] 2024 Approved Simplifying the Complex An In-Depth Review of Vida App</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-top-10-recruiting-gems-amp-up-engagement/"><u>[Updated] 2024 Approved Top 10 Recruiting Gems Amp Up Engagement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-xsplit-source-centralized-game-downloads-and-insights/"><u>[Updated] In 2024, XSplit Source Centralized Game Downloads & Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-code-overcoming-launch-failures-in-windows-obs/"><u>Deciphering the Code: Overcoming Launch Failures in Windows OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-your-gaming-experience-pubg-saves-on-win-oses/"><u>Enhancing Your Gaming Experience: PUBG Saves on Win OSes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-and-simple-fixes-to-restore-your-steamvr-experience-today/"><u>Fast & Simple Fixes to Restore Your SteamVR Experience Today</u></a></li>
+<li><a href="https://win11.techidaily.com/holiday-ify-windows-11-in-7-steps/"><u>Holiday-Ify Windows 11 in 7 Steps</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-problems-with-saving-windows-volume-configurations/"><u>Overcoming Problems with Saving Window's Volume Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-your-torrents-solutions-for-frozen-status-in-windows/"><u>Reactivate Your Torrents: Solutions for Frozen Status in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sketching-savvy-transforming-windows-desktops/"><u>Sketching Savvy: Transforming Windows Desktops</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-data-transfer-mastering-file-zip-and-unzip-commands/"><u>Streamlining Data Transfer: Mastering File Zip & Unzip Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-snipping-tool-elevate-your-text-editing-skills/"><u>The Windows 11 Snipping Tool: Elevate Your Text Editing Skills</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-essential-free-tools-for-every-freelancers-audio-editing-needs-on-windowsmac-platforms/"><u>Updated 2024 Approved Essential Free Tools for Every Freelancers Audio Editing Needs on Windows/Mac Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/w11-pros-best-offers-save-and-elevate-your-spend/"><u>W11 Pro's Best Offers: Save & Elevate Your Spend</u></a></li>
 </ul></div>
 

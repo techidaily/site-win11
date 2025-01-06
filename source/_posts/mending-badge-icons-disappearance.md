@@ -1,7 +1,7 @@
 ---
 title: Mending Badge Icons Disappearance
-date: 2024-12-27T03:48:32.976Z
-updated: 2024-12-28T00:57:37.451Z
+date: 2024-12-31T16:14:34.834Z
+updated: 2025-01-06T20:57:46.622Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Following this, apps should display notification badges on the taskbar.
 
 ## 2\. Make Sure App Notifications Are Enabled
@@ -53,11 +49,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -71,7 +63,15 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Restart the Windows Explorer Process
 
@@ -93,13 +93,13 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
@@ -119,11 +119,11 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 8. Click**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
 
- Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
 ## Stay on Top of App Alerts With Notification Badges
 
@@ -146,16 +146,16 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-no-more-quick-yt-thumbnails-full-length-viewing/"><u>[New] 2024 Approved No More Quick YT Thumbnails Full-Length Viewing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-strategic-thinking-keywords-that-lead-to-online-victory/"><u>[New] In 2024, Strategic Thinking Keywords that Lead to Online Victory</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-androidiphone-photo-overlay-wonders-top-10-free-tools-ranked/"><u>[Updated] Android/iPhone Photo Overlay Wonders – Top 10 Free Tools Ranked</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-analysis-of-apples-latest-innovation-the-2019-ipad-air-a-new-era-in-multimedia-entertainment/"><u>Comprehensive Analysis of Apple's Latest Innovation - The 2019 iPad Air: A New Era in Multimedia Entertainment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-download-and-conversion-best-youtube-to-mp3-software-for-2024/"><u>Direct Download & Conversion Best YouTube to MP3 Software for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-comprehensibility-with-obsidians-artistic-note-taking/"><u>Enhancing Comprehensibility with Obsidian's Artistic Note-Taking</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-you-are-not-connected-to-any-networks-on-windows/"><u>How to Fix You Are Not Connected to Any Networks on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-your-computers-identity-a-quick-guide-with-6-methods/"><u>Learn Your Computer’s Identity: A Quick Guide with 6 Methods</u></a></li>
-<li><a href="https://some-tips.techidaily.com/secure-your-privacy-turn-off-discoverability-feature-on-your-iphone-via-journal-a-step-by-step-guide-zdnet/"><u>Secure Your Privacy: Turn Off Discoverability Feature on Your iPhone via Journal - A Step-by-Step Guide | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/seven-big-mistakes-new-users-could-make-in-windows-11-to-avoid/"><u>Seven Big Mistakes New Users Could Make in Windows 11 - To Avoid</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-showdown-of-2024s-premier-gaming-rigs-an-in-depth-comparison-by-zdnet/"><u>Ultimate Showdown of 2024'S Premier Gaming Rigs: An In-Depth Comparison by ZDNET</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-recommended-6-online-apps-to-delete-background-perfectly/"><u>[Updated] Expert-Recommended 6 Online Apps to Delete Background Perfectly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-your-fitness-journey-the-fitbit-versa-3s-built-in-gps-and-wellness-suite-spark-constant-motivation/"><u>Boost Your Fitness Journey: The Fitbit Versa 3'S Built-In GPS and Wellness Suite Spark Constant Motivation</u></a></li>
+<li><a href="https://win11.techidaily.com/enlighten-your-pc-activating-the-ultimate-control-on-windows-11/"><u>Enlighten Your PC: Activating the Ultimate Control on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-windowsapps-access-achievement/"><u>Essential Tips for WindowsApps Access Achievement</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freedom-in-meditation-tracks/"><u>In 2024, Freedom in Meditation Tracks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unleash-creativity-the-best-9-camera-accessories-for-vloggers-and-more/"><u>In 2024, Unleash Creativity The Best 9 Camera Accessories for Vloggers and More</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/optimized-for-efficiency-integrating-the-latest-dell-screen-tech-premier-sound-isolation-headset-and-ultrasharp-camera-equipment/"><u>Optimized for Efficiency: Integrating the Latest Dell Screen Tech, Premier Sound Isolation Headset, and UltraSharp Camera Equipment</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-secure-files-overcoming-access-issues/"><u>Remedying Secure Files: Overcoming Access Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-enable-secure-user-execution-in-windows/"><u>Solutions to Enable Secure User Execution in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-store-disconnection-three-ways/"><u>Win11 Store Disconnection: Three Ways</u></a></li>
 </ul></div>
 

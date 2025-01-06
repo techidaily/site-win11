@@ -1,7 +1,7 @@
 ---
 title: Tackling Windows 10/11 Requests Old Passcode
-date: 2024-12-22T05:18:51.075Z
-updated: 2024-12-28T00:17:23.137Z
+date: 2025-01-04T19:17:58.136Z
+updated: 2025-01-06T18:16:31.654Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the “We’ll Need Your Current Windows Password One Last Time” Error?
 
  Maybe you’ve just purchased a new Windows device or [reset an old Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). After setting up your new computer, you might be directed to log into your Microsoft account. However, after inserting your Microsoft account credentials, you reach a page requesting your “current Windows password.”
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
@@ -49,16 +49,12 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
@@ -73,17 +69,22 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 2. On the Settings page, select the **Accounts** option. You should [check that your Windows account has admin rights](https://www.makeuseof.com/check-windows-account-admin-rights/) before continuing.  
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
@@ -104,18 +105,20 @@ thumbnail: https://thmb.techidaily.com/dd8665fd574b8b8849bc905e8ab75258e662c1b7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-effortless-and-accurate-how-to-capture-every-hulu-playback/"><u>[New] Effortless and Accurate How To Capture Every Hulu Playback</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-empowering-communication-with-these-leading-mac-tts-programs/"><u>[Updated] In 2024, Empowering Communication with These Leading Mac TTS Programs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-powerpoint-mastery-integrating-external-video-urls/"><u>2024 Approved PowerPoint Mastery Integrating External Video URLs</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-vcplusplus-distribution-essence/"><u>Decoding VC++ Distribution Essence</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/elegant-dark-blue-geometric-designs-high-quality-images-and-wallpapers-by-yl-computing/"><u>Elegant Dark Blue Geometric Designs: High-Quality Images & Wallpapers by YL Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-flawlessly-post-srt-files-in-multiple-social-environments/"><u>In 2024, How to Flawlessly Post SRT Files in Multiple Social Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-win11-startup-efficiency/"><u>Maximizing Win11 Startup Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-taskbar-concealment-when-maximizing-browser/"><u>Overcoming Taskbar Concealment When Maximizing Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/revert-to-regular-contrast-on-windows/"><u>Revert to Regular Contrast on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-elevate-taskmanager-on-desktop/"><u>Strategies to Elevate TaskManager on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-performance-via-virtual-memory-adjustment-in-windows-11/"><u>Streamlining Performance via Virtual Memory Adjustment in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-excessive-cpu-consumption-by-iastordatasvc-on-your-windows-10-machine-fixed/"><u>Troubleshooting Excessive CPU Consumption by IAStorDataSvc on Your Windows 10 Machine [Fixed]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-qbittorrents-performance-issues/"><u>Troubleshooting Tips: Resolving qBittorrent's Performance Issues</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-score-free-adventures-tiktoks-hidden-background-gemstones/"><u>[New] Score-Free Adventures TikTok's Hidden Background Gemstones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-scenes-to-screens-sims-4-video-capturing/"><u>[Updated] 2024 Approved From Scenes to Screens Sims 4 Video Capturing</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-5-video-webcams-equipped-with-microphones/"><u>[Updated] In 2024, Best 5 Video Webcams Equipped With Microphones</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/comprehensive-jpeg-restoration-services/"><u>Comprehensive JPEG Restoration Services</u></a></li>
+<li><a href="https://win11.techidaily.com/expertise-in-escaping-frozen-update-troubleshooter/"><u>Expertise in Escaping Frozen Update Troubleshooter</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-missing-driver-issues-on-windows-11-8-and-7-devices-solutions-and-tips/"><u>Fixing Missing Driver Issues on Windows 11, 8 & 7 Devices: Solutions and Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/flip-and-turn-images-6-easy-techniques-on-your-win11-pc/"><u>Flip and Turn Images: 6 Easy Techniques on Your Win11 PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y27-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y27 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-correcting-failed-driver-on-windows-oses/"><u>Quick Guide: Correcting “Failed Driver” On Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-solutions-to-csgo-opens-issue-w11/"><u>Quick Solutions to CS:GO Opens Issue W11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-windows-navigation-made-simple-with-key-combinations/"><u>Quick Windows Navigation Made Simple with Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-30005-unexpected-failure-when-creating-files-on-windows/"><u>Remedying Error 30005: Unexpected Failure When Creating Files on Windows</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/revitalize-your-aging-computer-with-these-5-free-windows-11-tricks-learn-before-time-runs-out/"><u>Revitalize Your Aging Computer with These 5 Free Windows 11 Tricks - Learn Before Time Runs Out!</u></a></li>
+<li><a href="https://win11.techidaily.com/setup-without-signal-win11-on-no-connection/"><u>Setup Without Signal: Win11 on No Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-how-to-manually-adjust-your-clock-region/"><u>Windows: How to Manually Adjust Your Clock Region</u></a></li>
 </ul></div>
 

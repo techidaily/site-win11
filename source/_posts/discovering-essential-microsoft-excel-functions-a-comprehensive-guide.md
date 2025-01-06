@@ -1,7 +1,7 @@
 ---
 title: "Discovering Essential Microsoft Excel Functions: A Comprehensive Guide"
-date: 2024-08-28T00:47:45.447Z
-updated: 2024-08-29T00:47:45.447Z
+date: 2025-01-03T19:07:44.551Z
+updated: 2025-01-06T17:30:35.748Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 ---
 
 ## Discovering Essential Microsoft Excel Functions: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![Click Insert Function on the Formulas tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulasInsertFunction-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Find a Function in Excel
 
  When the Insert Function window opens, you'll see a search option along with a drop-down box. This gives you two easy methods for finding the function you want.
@@ -40,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![Search for a function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/SearchForFunction-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  The drop-down list will also help you quickly find a useful function. Click it, next to the words "Or Select a Category," and pick a category. You'll see common options like Financial, [Logical](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), Text, and more. By selecting a category you'll see all available functions within it.
 
 ![Choose a function category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionCategories-ExcelFindFunction.png) 
@@ -54,22 +59,17 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![Most Recently Used functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/RecentlyUsed-ExcelFindFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In most cases, whether you search or select a category, this simply narrows down the choices for you. So the next step in finding the function you need is checking out the descriptions. Click a function in the list and you'll see its description and syntax at the bottom of the window.
 
 ![Function description and syntax](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionDescription-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  For example, you might need a quartile function. You can see that Excel offers a few different options. By selecting each and viewing their descriptions, you should be able to see the correct one for you.
 
 ![Quartile function description](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/QuartileFunction-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If once you narrow down the function choices and view the descriptions, you're still unsure if it's the right function for you, you can [get additional help](https://win11-tips.techidaily.com/understanding-and-fixing-windows-headset-mic-noise/). Select the function in the list and click "Help on This Function" on the lower-left corner of the window.
 
 ![Click Help on This Function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/HelpOnFunction-ExcelFindFunction.png) 
@@ -83,8 +83,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 | Explained                    | [Copying Formulas](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) **·** [Evaluating Formulas](https://youtube-blog.techidaily.com/ed-the-role-of-youtube-images-in-video-promotion-and-discovery-for-2024/) **·** [Finding Functions](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) **·** [Fixing Formula Errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) **·** [Functions vs Formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) **·** [Comparing Lookup Functions](https://tech-revival.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/) **·** [Locking Formulas](https://some-guidance.techidaily.com/in-2024-unveiling-effective-sales-methods/) **·** [Structuring Formulas](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) **·** [Translating Formulas](https://extra-tips.techidaily.com/techniques-to-reduce-nausea-while-in-vr/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use a Function You Find
 
  When you locate the function you want to use, be sure you have the cell selected where you want to insert it. Then, either double-click the function in the list or select it and click "OK."
@@ -99,22 +100,18 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![View the function and formula details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArgumentsDetails-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Let's look at a simple example. Here, we selected [the SUM function](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/). In the Function Arguments window, we entered the cell range in the Number1 box. You can see to the right of the box, the values in those cells and you can view the result of the formula in two spots in the window.
 
 ![Enter the arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArguments-ExcelFindFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you finish adding all details for the formula, click "OK" and the formula will pop into your cell with its results.
 
 Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Try Formula AutoComplete
 
  One other way to find a function in Excel is by using Formula AutoComplete. This is useful if you know the function you want but aren't sure of the variation you need.
@@ -129,6 +126,10 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Use Formula AutoComplete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulaAutoComplete-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We double-click "COUNTIF" in the list and then see the arguments needed for the formula. This allows us to simply enter what's asked for and complete the formula.
 
 ![Formula arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulaAutoCompleteArguments-ExcelFindFunction.png) 
@@ -141,8 +142,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +149,21 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-ace-screen-recorders-list-for-the-winning-setup/"><u>[New] 2024 Approved The Ace Screen Recorders List - For the Winning Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-add-auditory-components-to-premiere-pro-videos/"><u>[Updated] Add Auditory Components to Premiere Pro Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-youtube-experience-ultimate-guide-to-zooming-in-for-clearer-vision/"><u>Boost Your YouTube Experience: Ultimate Guide to Zooming In for Clearer Vision</u></a></li>
+<li><a href="https://win11.techidaily.com/bridge-the-gap-between-avi-and-imovie-a-step-by-step-guide-to-compatible-video-formats/"><u>Bridge the Gap Between AVI and iMovie: A Step-by-Step Guide to Compatible Video Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-linguistic-powerhouses-chatgpt-vs-google-translate/"><u>Comparing Linguistic Powerhouses: ChatGPT Vs. Google Translate</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-guide-to-converting-your-favorite-twitch-content-into-high-quality-mp3-files/"><u>Complete Guide to Converting Your Favorite Twitch Content Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-safe-methods-for-extracting-content-from-dvds-and-cds/"><u>Comprehensive Guide: Safe Methods for Extracting Content From DVDs & CDs</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-most-advanced-video-conversion-programs-updated-ranking-of-top-10-picks/"><u>Discover the Most Advanced Video Conversion Programs: Updated Ranking of Top 10 Picks!</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-list-of-secure-sites-similar-to-justdubs-for-watching-your-favorite-english-dubs-in-real-time-updates/"><u>Discover the Ultimate List of Secure Sites Similar to JustDubs for Watching Your Favorite English Dubs in Real-Time Updates!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-asus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Asus FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>In 2024, Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-backspace-key-not-functioning-problems-effectively/"><u>Resolving 'Backspace Key Not Functioning' Problems Effectively</u></a></li>
+<li><a href="https://article-posts.techidaily.com/smooth-panoramas-state-of-the-art-tracker-tech/"><u>Smooth Panoramas State-of-the-Art Tracker Tech</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/thrilling-tech-showdown-ryzen-9-9950x-takes-the-lead-beating-i9-14900ks-speeds-by-an-impressive-18/"><u>Thrilling Tech Showdown: Ryzen 9 9950X Takes the Lead, Beating I9-14900K's Speeds by an Impressive 18%</u></a></li>
+</ul></div>
 

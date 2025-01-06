@@ -1,7 +1,7 @@
 ---
 title: "Windows Feature Switch: On WSL Integration Mode"
-date: 2024-12-25T01:51:56.716Z
-updated: 2024-12-28T06:58:10.099Z
+date: 2025-01-05T20:41:02.859Z
+updated: 2025-01-06T18:34:37.835Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  If you want to run a Linux terminal on Windows, your best bet would be to enable Windows Subsystem for Linux (WSL), a gateway opener that allows you to install a Linux bash shell on a Windows OS. Once you’ve enabled WSL, you can install a Linux distro.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Requirements for Running WSL on Windows 10
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  If you’re not sure of your Windows 10 flavor, it’s easy to [check which version of Windows 10 you have installed](https://www.makeuseof.com/tag/how-to-check-windows-10-version-build/).
 
  Some older versions of Windows 10 can also work, but you’ll have to manually install WSL.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable Windows Subsystem for Linux
 
@@ -69,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 ![Programs and Features option under the Related settings section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/program-and-features-option-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’re in, click on **Turn Windows features on or off** on the left panel. Then scroll down and check the corresponding box to enable Windows Subsystem for Linux.
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  Click **OK** to save your changes and hit **Restart now** to finish the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Installing WSL on a Windows Machine
@@ -93,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
  WSL2 is an upgraded version of Windows Subsystem for Linux and is now the default when installing a Linux distribution in Windows. It works with Windows 11 or Windows 10, Version 1903, Build 18362 or higher.
 
  There are a few differences between the two versions of WSL; chiefly, WSL2 offers better performance in addition to support for full system call compatibility and IPv6 support. Also, WSL2 uses a full Linux kernel inside a managed virtual machine (VM), so you don’t have to set up and manage a VM to run a Linux distro.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reasons to Switch to WSL1
 
@@ -114,14 +114,20 @@ thumbnail: https://thmb.techidaily.com/30d2a20c84a301395b600ba93cb77523eb9f5d9c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>[New] 2024 Approved Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nlocking-user-engagement-through-strategic-tags-for-2024/"><u>[New] Unlocking User Engagement Through Strategic Tags for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-expert-tips-for-youtube-short-pitfall-prevention-for-2024/"><u>[Updated] Expert Tips for YouTube Short Pitfall Prevention for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-6-plus-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 6 Plus Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-error-0x80073cf3-in-win10win11s-marketplace/"><u>Correcting Error 0X80073CF3 in Win10/Win11's Marketplace</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-instantly-enabledisable-bings-assistive-chat/"><u>How to Instantly Enable/Disable Bing's Assistive Chat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-leading-video-counts-the-popular-ones/"><u>In 2024, Leading Video Counts The Popular Ones</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-missing-heat-flow-management-in-pcs/"><u>Restoring Missing Heat Flow Management in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-full-potential-of-windows-filing-system-max-156/"><u>Unlocking the Full Potential of Window's Filing System (Max 156)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-advice-top-ranked-call-alert-creators/"><u>[New] Expert Advice Top-Ranked Call Alert Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>[Updated] Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-disciplined-device-use-effective-ways-to-remove-youtube-channels/"><u>[Updated] In 2024, Disciplined Device Use Effective Ways to Remove Youtube Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-movie-sneak-peeks-ensemble/"><u>[Updated] Premier Movie Sneak Peeks Ensemble</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-installs-msibundle-and-appxappxpack-files-from-store/"><u>Enhance Your Windows Experience: Installs MsiBundle & Appx/Appxpack Files From Store</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-to-tackle-outlook-error-0x80040610-in-windows/"><u>Expert Techniques to Tackle Outlook Error 0X80040610 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-significance-of-copilot-key-with-windows-11/"><u>Exploring the Significance of Copilot Key with Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s18-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S18</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-windows-11s-biometric-authentication/"><u>Implementing Windows 11'S Biometric Authentication</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-facebook-messenger-not-working-on-your-windows-pc-try-these-10-fixes/"><u>Is Facebook Messenger Not Working on Your Windows PC? Try These 10 Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-tecno-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Tecno Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-usb-recognition-failures-on-windows-11/"><u>Resolving USB Recognition Failures on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hibernation-4-techniques-for-windows-users/"><u>Reviving Hibernation: 4 Techniques for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-to-starting-overwatch-2-effortlessly-in-202n-top-7-fix-strategies/"><u>Unlock the Secrets to Starting Overwatch 2 Effortlessly in 202N: Top 7 Fix Strategies</u></a></li>
 </ul></div>
 

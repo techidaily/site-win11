@@ -1,7 +1,7 @@
 ---
 title: Key Strategies for Accessing Disk Management in Win 10/11
-date: 2024-12-23T04:18:42.587Z
-updated: 2024-12-27T22:03:39.810Z
+date: 2025-01-04T17:10:13.590Z
+updated: 2025-01-06T18:21:42.318Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,11 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -68,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  All you have to do is right-click the Windows logo in the taskbar (or hit **Win + X** if you prefer) and choose **Disk Management** from the context menu.
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
@@ -84,13 +84,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
@@ -124,21 +124,18 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-breaking-the-mold-unique-anime-creatives-dominating-tiktok/"><u>[New] Breaking the Mold Unique Anime Creatives Dominating TikTok</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamline-your-education-mac-audio-recording-best-practices/"><u>[New] Streamline Your Education Mac Audio Recording Best Practices</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-from-slide-show-to-screen-share-recording-tips-for-professionals/"><u>[Updated] In 2024, From Slide Show to Screen Share Recording Tips for Professionals</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-going-viral-guide-keyword-strategies-for-cut-to-the-chase-videos/"><u>[Updated] In 2024, Going Viral Guide Keyword Strategies for Cut-to-the-Chase Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>2024 Approved Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-text-input-experience-integrating-wordpad-triggers-in-windows-11/"><u>Enriching Text Input Experience: Integrating WordPad Triggers in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-reducing-sound-boost-in-windows/"><u>Guide to Reducing Sound Boost in Windows</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-windows-11-secures-your-files-understanding-the-backup-feature/"><u>How Windows 11 Secures Your Files: Understanding the Backup Feature</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-se-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone SE in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-locked-credential-management/"><u>Navigating Locked Credential Management</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-recognize-absconded-drive-issues/"><u>Solutions to Recognize Absconded Drive Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-turning-on-mouse-gestures-in-windows-11s-edge/"><u>Step-by-Step: Turning on Mouse Gestures in Windows 11'S Edge</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-iphone-display-lags-before-sleeping-quick-solutions-inside/"><u>Struggling with iPhone Display Lags Before Sleeping? Quick Solutions Inside!</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-reserve-a-detailed-look-at-memory-management/"><u>Windows Reserve: A Detailed Look at Memory Management</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-seamless-multitasking-via-firefoxs-pip-mode/"><u>[Updated] 2024 Approved Seamless Multitasking via Firefox's PIP Mode</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-quick-and-easy-mac-screen-captures-utilizing-keyboard-shortcuts-for-2024/"><u>[Updated] Quick and Easy Mac Screen Captures Utilizing Keyboard Shortcuts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-strategies-to-open-control-panel-in-windows/"><u>Efficient Strategies to Open Control Panel in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-precious-directx-gaming-with-dxvk-technology/"><u>Elevating Precious DirectX Gaming with DXVK Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-clips-best-winter-bgs-for-video-warmth-for-2024/"><u>Enhance Clips Best Winter Bg's for Video Warmth for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/guide-de-clonage-dune-imagerie-disque-debutant-utilisant-clonezilla-sur-esxi-une-approche-simple-et-pratique/"><u>Guide De Clonage D'une Imagerie Disque Débutant Utilisant Clonezilla Sur ESXi: Une Approche Simple Et Pratique</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-network-resource-unavailable-error-on-windows/"><u>How to Fix the Network Resource Unavailable Error on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y27s-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y27s Phone Without Password?</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-files-on-two-windows-pcs-with-aoemi/"><u>Integrating Files on Two Windows PCs with AOEMi</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/prime-day-bonanza-unlock-the-best-lenovo-tech-essentials-under-1000-for-hybrid-work-styles-zdnets-must-have-list/"><u>Prime Day Bonanza: Unlock the Best Lenovo Tech Essentials Under $1,000 for Hybrid Work Styles - ZDNet's Must-Have List</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solve-your-computer-heat-problem-with-insights-on-common-causes-by-yl-software/"><u>Solve Your Computer Heat Problem with Insights on Common Causes by YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-ms-resouce-error-win11-text-showcase-fix/"><u>Solving Ms-Resouce Error, Win11 Text Showcase Fix</u></a></li>
+<li><a href="https://blog-min.techidaily.com/bupifovobmp4/"><u>シンプルなステップ：初心者向けのBUP、IFO、VOBからMP4への完全変換ガイド</u></a></li>
 </ul></div>
 

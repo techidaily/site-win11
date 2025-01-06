@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel's In-App Stock Tracking: A Comprehensive Guide"
-date: 2024-08-28T00:48:00.786Z
-updated: 2024-08-29T00:48:00.786Z
+date: 2025-01-02T16:10:20.180Z
+updated: 2025-01-06T20:13:22.659Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 ---
 
 ## Mastering Excel's In-App Stock Tracking: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 
 ![Stocks Data Selector](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/StocksDataSelector-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you click away from the cell that contains your initial data, just select it again, and then click the small Insert Data icon that appears next to it. A long, scrollable list containing all the stock market details you could possibly need will appear.
 
 ![Click Insert Data to View a List](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/StocksInsertData-Excel.png) 
@@ -44,28 +52,20 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 
 ![Stocks Data Detail in Formula Bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/StocksCellDataDetail-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  View the Data Type Card
 
  The scrollable list of details for a stock is helpful, but you can also view this same data in a card format. Just right-click the cell containing the company or stock you first typed, and then select "Show Data Type Card" from the menu that appears.
 
 ![Click Show Data Type Card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/StocksShowDataTypeCard-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then see those same details in an easy-to-read snapshot. You can also drag the bottom-right corner to enlarge the card if necessary. To add move information from the card to your sheet, just hover your cursor over that piece of data, and then click the Extract to Grid icon.
 
 ![Click Extract to Grid to Add Data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/StocksShowDataTypeCardAddToGrid-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Refresh the Stocks Data
 
  Like the [Geography data type in Microsoft Excel](https://win-forum.techidaily.com/master-the-process-resetting-dns-settings-for-windows-1011-users/), the Stocks data type retrieves information from an online source. This means you can update it without opening a web browser.
@@ -75,11 +75,13 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 ![Click Data Type then Refresh](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/RefreshStocksDataType-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don't See the Stocks Feature?
 
  If you don't see the Stocks data type in Microsoft Excel, make sure your system meets the following requirements:
@@ -96,8 +98,6 @@ Related: [How to Change the Language in Microsoft Word](https://instagram-videos
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -105,4 +105,19 @@ Related: [How to Change the Language in Microsoft Word](https://instagram-videos
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-impact-video-marketing-on-youtube/"><u>[New] In 2024, Maximizing Impact Video Marketing on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-minimizing-movement-blur-in-media/"><u>[New] Minimizing Movement Blur in Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-breaking-boundaries-top-10-novel-facebook-memes/"><u>[Updated] Breaking Boundaries Top 10 Novel Facebook Memes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-flawless-top-timelapse-capturer/"><u>[Updated] Flawless Top Timelapse Capturer</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/2024-flv-windows-10/"><u>2024年版 FLV ビデオプレイヤーの復活！Windows 10用トップテクニックリスト公開</u></a></li>
+<li><a href="https://win11.techidaily.com/5oiq5lq65zcr44gr44ot44oh44kq44ks44kt44oj44ox44ob44oj44gz44kl5yq55p6c55qe44gq44og44kv44ol44od44kv/"><u>成人向けビデオをキャプチャする効果的なテクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/6zw35oyb44gh44gz44kl5pa55rov77ya44ov44oq44od44ox44ot44oh44kq44gu5pya6ygp44gq5lplusd5a2y5oml5q61/"><u>長持ちする方法：フリップビデオの最適な保存手段</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/get-more-eyeballs-perfect-your-youtube-description-templates-for-viewer-attraction-for-2024/"><u>Get More Eyeballs Perfect Your YouTube Description Templates for Viewer Attraction for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pushing-boundaries-top-virtual-reality-game-development-tools-for-2024/"><u>Pushing Boundaries Top Virtual Reality Game Development Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/44kz44o844oh44od44kv5lin6laz44gr44ki44kl5yuv55s75yan55sf6zqc5a6z44ks5zue6yg44gz44kl5pa55rov/"><u>コーデック不足による動画再生障害を回避する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/44ot44oh44kq44gu5lit44gr44og44kt44k544oi44k144ow44k44kk44oi44or6lplus95yqg5oml6acg6zug/"><u>ビデオの中にテキストサブタイトル追加手順集</u></a></li>
+</ul></div>
 

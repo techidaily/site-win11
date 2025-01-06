@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reduce Resource Bottlenecks on Android WSL
-date: 2024-12-21T21:26:17.264Z
-updated: 2024-12-27T17:31:14.605Z
+date: 2025-01-05T20:51:48.433Z
+updated: 2025-01-06T21:16:30.083Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,21 +86,17 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-reimagining-anime-narratives-in-trending-tiktok-creations-for-2024/"><u>[New] Reimagining Anime Narratives in Trending TikTok Creations for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-haste-assessment-of-windows-documents/"><u>[Updated] 2024 Approved Haste Assessment of Windows Documents</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-focus-on-the-details-with-videoleaps-zooming-feature/"><u>2024 Approved Focus on the Details with Videoleap's Zooming Feature</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726030285695-avimp4/"><u>無傷の高品質AVIからMP4への変換方法:最適な無料ツールランキング</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-context-menu-for-a-cleaner-win-11-experience/"><u>Customize Your Context Menu for a Cleaner Win 11 Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-the-magic-in-w11s-moment-22h2-update/"><u>Discovering the Magic in W11’s Moment #22H2 Update</u></a></li>
-<li><a href="https://win11.techidaily.com/explaining-and-resolving-windows-error-code-30005-failure/"><u>Explaining and Resolving Windows Error Code: 30005 Failure</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-essential-guide-to-best-10-no-cost-srt-converters/"><u>In 2024, Essential Guide to Best 10 No-Cost Srt Converters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-vivo-v29e-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Vivo V29e Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/merry-magi-xmas-wrapped-with-ms-store-treasures/"><u>Merry Magi: Xmas Wrapped with MS Store Treasures</u></a></li>
-<li><a href="https://win11.techidaily.com/obscuring-linguistic-icon-on-win11s-status-bar/"><u>Obscuring Linguistic Icon on Win11's Status Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-minimize-resource-consumption-by-unrealcefsubprocess/"><u>Solutions to Minimize Resource Consumption by UnrealCEFSubprocess</u></a></li>
-<li><a href="https://fox-http.techidaily.com/techniques-for-tidying-up-image-backdrops-for-2024/"><u>Techniques for Tidying Up Image Backdrops for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-after-windows-update-installation/"><u>Troubleshooting After Windows Update Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/unmasking-and-correcting-w11-crashes/"><u>Unmasking and Correcting W11 Crashes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-2023-shift-in-facebooks-video-presentation-style-for-2024/"><u>[New] The 2023 Shift in Facebook’s Video Presentation Style for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-engagement-on-youtube-fending-off-automated-audiences-for-2024/"><u>[Updated] Elevate Engagement on YouTube Fending Off Automated Audiences for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-quick-and-easy-incorrante-audio-into-fb-profiles-ios-android/"><u>[Updated] In 2024, Quick & Easy Incorrante Audio Into FB Profiles (iOS, Android)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/10-free-web-conferencing-software-for-online-meeting-for-2024/"><u>10 Free Web Conferencing Software for Online Meeting for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-the-zoom-cannot-start-video-glitch-a-5-step-fix-guide/"><u>Bypass the 'Zoom Cannot Start Video' Glitch: A 5-Step Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-how-to-optimize-windows-disk-capacity-economically/"><u>Discover How to Optimize Windows Disk Capacity Economically</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-our-free-online-tool-for-converting-movies-mp4-and-mov-and-youtube-clips-into-mp3-format-at-no-charge/"><u>Download Our FREE Online Tool for Converting Movies (MP4 & MOV) and YouTube Clips Into MP3 Format at No Charge!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-realtek-rtl8188cu-wireless-network-adapter-driver-for-windows-10-7/"><u>Download Realtek RTL8188CU Wireless Network Adapter Driver for Windows 10, 7</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-these-superior-webp-viewers-for-windows-users/"><u>Explore These Superior WebP Viewers for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-retro-replays-linking-legends-with-pcs-photos-folder/"><u>Reviving Retro Replays: Linking Legends with PCs' Photos Folder</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-photosavefailure-in-windows-11/"><u>Tackling PhotoSaveFailure in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-technique-for-the-digital-content-wanderer/"><u>YT Loop Technique for the Digital Content Wanderer</u></a></li>
 </ul></div>
 

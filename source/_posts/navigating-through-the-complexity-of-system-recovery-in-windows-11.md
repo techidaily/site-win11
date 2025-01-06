@@ -1,7 +1,7 @@
 ---
 title: Navigating Through the Complexity of System Recovery in Windows 11
-date: 2024-08-23T06:12:10.445Z
-updated: 2024-08-24T06:12:10.445Z
+date: 2025-01-02T19:07:44.259Z
+updated: 2025-01-06T19:10:47.163Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Open System Restore Using Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-start.jpg)
 3. Click on the **Next** button to view and choose from the list of available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Using Control Panel
 
  Control Panel contains all Windows tools and settings, which makes it easy to find them. Even the Windows search points to the Control Panel window of Recovery options. Here’s how to do it:
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 3. Now, click on the **Recovery** option.  
 ![Open System Restore Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-control-panel.jpg)
 4. Lastly, click on the **Open System Restore** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Using Advanced System Properties Window
 
@@ -47,11 +55,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Open System Restore Using Advanced System Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-advanced-system-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using Settings App
 
  Microsoft is still trying to offload everything from the Control Panel to the Settings app. Even a search for System Restore in Control Panel points to the settings app, but you won’t find the tool there. Instead, you have to search for System Restore inside the Settings app. Here’s how to do it:
@@ -61,13 +71,7 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 3. Type **Restore** and click on the **Recovery** search result. It will take you to the Control Panel’s list of available recovery options.  
 ![Open System Restore Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-settings-app-1.jpg)
 4. Now, click on the **Open System Restore** button.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using the Run Dialog Box
 
  The Run dialog box supports shortcodes which allow you to access an application faster (provided you know the correct ones). You can even open file locations using this tool. Repeat the following steps:
@@ -76,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Open System Restore Using Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-run-dialog-box.jpg)
 2. Click on the **OK** button to open the System Properties tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Using a Pinned Taskbar Shortcut
 
  If you search for system restore in the Start menu, you won’t find an option in the right pane to pin the app to the Start menu or Taskbar. But you can pin the application file of the tool to the Taskbar by visiting its folder location. Here’s how to do it:
@@ -88,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 3. Click on the **Pin to taskbar** option.  
 ![Open System Restore Using Pinned Taskbar Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-pinned-taskbar-shortcut.jpg)
 4. A System Restore icon will appear on the Taskbar. You can alter its position on the Taskbar by clicking and dragging it in either direction.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Using the Task Manager
 
@@ -100,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 4. Close the Task Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using the File Explorer
 
  System Restore, like all other Windows tools and Control Panel applets, resides in the System32 folder. So, you can use the File Explorer to access the tool. Repeat the following steps:
@@ -112,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Open System Restore Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-file-explorer.jpg)
 4. Double-click on the **rstrui.exe** file to open the tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Using CMD or PowerShell
 
  Terminal lovers don’t like the idea of jumping through menus to open a program. If you are one of them, here’s how you can open the System Restore utility in Windows 11 using Command Prompt or PowerShell:
@@ -120,14 +130,8 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 2. Now type the following command in the terminal and press the Enter key: **rstrui.exe**  
 ![Open System Restore Using CMD or PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-cmd-or-powershell.jpg)
 3. Alternatively, you can use the **start-process** cmdlet in PowerShell to launch the tool: **start-process rstrui**
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Close the Command Prompt or PowerShell window.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Using a Desktop Shortcut
 
  A desktop shortcut is among the easiest methods to open frequently used apps and programs. You can create a manual Windows shortcut of the System Restore utility and then launch it whenever you like. Repeat the following steps:
@@ -142,9 +146,6 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 7. Now, save the shortcut with the name **System Restore** and click on the **Finish** button.
 8. Double-click on the newly created shortcut to launch System Restore.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 11\. Using a Keyboard Shortcut
 
  The last method on our list is mapping a keyboard key combination to the newly created shortcut. So, you can press the mapped keys and launch the tool whenever you like. Repeat the following steps;
@@ -157,11 +158,13 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 ![Open System Restore Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-system-restore-using-keyboard-shortcut.jpg)
 6. Switch to the desktop or any other window and press the assigned key combination. System Restore utility will pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Access System Restore Quickly
 
  System Restore is an essential aspect that is a lifesaver when you install apps and modify system settings and want to go back. Now, you know multiple methods to launch the tool. The keyboard shortcut key combination is our favorite because you don’t need to interact with anything on the screen.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -169,3 +172,24 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-integrating-third-party-video-players-into-kodi-leia-and-krypton-editions/"><u>Comprehensive Tutorial: Integrating Third-Party Video Players Into Kodi - Leia and Krypton Editions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-standout-advantages-of-the-iphone-16-that-justify-an-upgrade-a-comprehensive-review-by-zdnet/"><u>Discover the Standout Advantages of the iPhone 16 That Justify an Upgrade - A Comprehensive Review by ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-remove-your-presence-from-chatgpt/"><u>How To Safely Remove Your Presence From ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-sfc-scan-steps-on-windows/"><u>Navigating Through SFC Scan Steps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-erratic-movement-of-windows-mouse/"><u>Overcoming Erratic Movement of Windows Mouse</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premier-home-cinema-pc-selections-to-upgrade-your-viewing-experience-in-nstagram-2024/"><u>Premier Home Cinema PC Selections to Upgrade Your Viewing Experience in Nstagram 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixed-tips-for-corrupted-windows-1011-bin-problems/"><u>Quick Fixed! Tips for Corrupted Windows 10/11 Bin Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-unreal-engine-4-fixing-the-unreal-process-has-crashed-ue4-madness-bug/"><u>Resolved Issue: Unreal Engine 4 - Fixing the 'Unreal Process Has Crashed: UE4 Madness' Bug</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-sleepy-batch-processes-in-windows-os/"><u>Revitalizing Sleepy Batch Processes in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/scaling-up-how-to-tap-into-all-available-windows-ram/"><u>Scaling Up: How to Tap Into All Available Windows RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-no-sound-output-windows/"><u>Steps to Rectify No Sound Output Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-15-dolby-atmos-films-for-an-immersive-home-theater-experience/"><u>Top 15 Dolby Atmos Films for an Immersive Home Theater Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-dealing-with-yellow-discoloration-on-iphone-screens/"><u>Top 9 Solutions for Dealing with Yellow Discoloration on iPhone Screens</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secure-telnet-access-on-modern-windows/"><u>Unlocking Secure Telnet Access on Modern Windows</u></a></li>
+</ul></div>
+

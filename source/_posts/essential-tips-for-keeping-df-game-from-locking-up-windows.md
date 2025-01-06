@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Keeping DF Game From Locking Up Windows
-date: 2024-08-28T00:50:16.184Z
-updated: 2024-08-29T00:50:16.184Z
+date: 2025-01-02T20:39:46.190Z
+updated: 2025-01-06T17:25:37.024Z
 tags:
   - windows10
   - windows11
@@ -24,15 +24,27 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![screenshot of the dwarf fortress installation directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_game_log.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Dwarf Fortress is most likely to crash due to a corrupted save file or a world going on for too long. This can cause instability when loading information which leads to a crash.
 
  While that applies to all versions of Dwarf Fortress, the Steam version brings with it some unique issues that relate to the new graphical style.
 
  Regardless of what is causing the crash, it's very likely that whatever problem you're having can be fixed by one of the following solutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Basic Troubleshooting Steps
 
 ![screenshot of verifying steam files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_verify_steam_game_files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  First things first, and that's going over the basics. If you haven't already, you should run through[the most common troubleshooting steps when fixing a crashing game](https://www.makeuseof.com/tag/why-do-my-games-keep-crashing/) .
 
@@ -42,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![screenshot of the AMD radeon program showing the games list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_amd_games_list-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  A common cause of crashes for the new Dwarf Fortress release is related to whether or not your dedicated graphics card is being used.
 
  Dwarf Fortress now carries actual graphics, and as simple as they are, they benefit from a dedicated graphics card. Sometimes, Dwarf Fortress will default to your integrated graphics. We'll need to change that.
@@ -56,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![screenshot dwarf fortress properties disabling fullscreen optimizations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_properties_disable_fullscreen_optimizations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's a common Windows function that can cause problems for Dwarf Fortress. To disable full-screen optimization, follow these steps:
 
 1. Right-click on Dwarf Fortress in Steam. Hover over**Manage** and click**Browse local files.**
@@ -70,25 +80,20 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
 ![screenshot of dwarf fortress video settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_video_settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Dwarf Fortress doesn't play nice with widescreen resolutions. Note that this refers to non-standard widescreen resolutions. If you have a particularly large monitor, it's worth it to try setting the in-game resolution of Dwarf Fortress to something standard. For example, 1920x1080.
 
  To do this, navigate to the video settings of Dwarf Fortress by clicking**Settings** in the main menu.
 
  The first screen that opens is the video settings screen. Simply change the**Resolution** drop-down to something below 1920x1080.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Delete Save Data
 
 ![screenshot of dwarf fortress save folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_dwarf_fortress_saves.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Don't worry, this won't involve losing any progress. However, deleting save files is always risky, so make sure you back up your saves before you proceed.
 
  Dwarf Fortress can crash if the save files become too bloated. This can happen after a long period of play, or even after a short period if you create enough new units and structures.
@@ -103,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 
  By doing this, you'll be repopulating your world, history, and timeline. However, your structures and units will remain. While this isn't a desirable option, there are a handful of crashes that can only be fixed in this way.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## New Game Version, New Game Crashes
 
  You would think that such an old game would have plenty of fixes for possible crashes. However, this is a new version of Dwarf Fotress, and that introduces new problems.
@@ -120,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,21 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-fast-video-filming-on-tiktok/"><u>[New] 2024 Approved Mastering Fast Video Filming on TikTok</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pocketful-skies-affordable-large-file-allocator/"><u>[New] Pocketful Skies - Affordable Large File Allocator</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-leveraging-s2t-technology-in-professional-decks/"><u>[Updated] 2024 Approved Leveraging S2T Technology in Professional Decks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-adding-images-to-instagram-made-simple/"><u>[Updated] In 2024, Adding Images to Instagram Made Simple</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-your-consoles-potential-top-monitors-explored/"><u>[Updated] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-of-excellence-in-xbox-gameplay-screenshots/"><u>2024 Approved Secrets of Excellence in Xbox Gameplay Screenshots</u></a></li>
+<li><a href="https://win11.techidaily.com/gif-avi/"><u>人気の高い無料GIF変換ツール: AVIからのパワフルなスイッチング方法</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/additives-like-coupling-agents-are-used-in-wpc-manufacturing-to-improve-the-interfacial-bonding-between-hydrophilic-wood-and-hydrophobic-plastic-components.51/"><u>Additives Like Coupling Agents Are Used in WPC Manufacturing to Improve the Interfacial Bonding Between Hydrophilic (Wood) and Hydrophobic (Plastic) Components.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-choose-a-low-size-high-definition-video-file-format-efficiently/"><u>How to Choose a Low-Size, High-Definition Video File Format Efficiently?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-7-tools-and-services-for-masterful-youtube-clips-desktop-apps-vs-web-based-options/"><u>Leading 7 Tools and Services for Masterful YouTube Clips: Desktop Apps Vs. Web-Based Options</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-format-transformation-the-leading-tools-for-converting-youtube-videos-into-high-quality-mkv-files/"><u>Mastering Format Transformation: The Leading Tools for Converting YouTube Videos Into High-Quality MKV Files!</u></a></li>
+<li><a href="https://win11.techidaily.com/mp3wavwindows-104/"><u>MP3へのWAVの変換:Windows 10ユーザ向け4つの最適な方法</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4-aviwindows-78/"><u>MP4, AVIなどの動画圧縮手法を学べる【Windows 7/8】ユーザーガイド</u></a></li>
+</ul></div>
 

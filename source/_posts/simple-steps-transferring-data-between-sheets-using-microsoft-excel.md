@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Transferring Data Between Sheets Using Microsoft Excel"
-date: 2024-08-28T00:49:34.274Z
-updated: 2024-08-29T00:49:34.274Z
+date: 2025-01-01T20:00:02.028Z
+updated: 2025-01-06T16:44:24.659Z
 tags:
   - excel
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f86055b0c210c48b3bc87c8b80af070af1138eb8b
  There may be times when you want to create a new Excel worksheet based on an existing worksheet. You can easily copy an entire worksheet in Excel to a new worksheet in the same file or even to a new, separate workbook using the "Move" or "Copy" command. It's one of the many [great features in Excel](https://screen-video-capture.techidaily.com/new-innovative-mac-screen-capture-methods-and-software-for-2024/).
 
 Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-video-capture.techidaily.com/new-innovative-mac-screen-capture-methods-and-software-for-2024/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Moving or Copying Worksheets in Excel
 
@@ -43,9 +47,17 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
 
 ![Move or copy the sheet to the same workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/3-move-or-copy-excel-sheet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're copying the selected worksheet to the current or another existing worksheet, the new worksheet is labeled with a sequential number at the end of the worksheet name to distinguish it from the original.
 
 ![A copied Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/4-copied-excel-sheet.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To copy or move the selected worksheet to a new workbook, select "(New Book)" from the "To Book" drop-down list on the "Move or Copy" dialog box.
 
@@ -53,9 +65,17 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
 
 ![Move or copy the worksheet to a new Excel workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/5-copy-sheet-to-new-excel-book.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new workbook is created and the selected worksheet is moved or copied into the new file.
 
 ![A worksheet copied in a new Excel workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/6-sheet-in-new-excel-book.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also copy and move a worksheet manually by clicking and dragging the worksheet tab to the new location. If you want to copy or move the worksheet to a new workbook, be sure to create the new workbook file first.
 
@@ -69,8 +89,6 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -78,8 +96,24 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>[New] 2024 Approved Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-elite-quad-pack-of-superior-4k-video-gear/"><u>[New] 2024 Approved Elite Quad Pack of Superior 4K Video Gear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[New] 2024 Approved Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-keywords-that-captivate-enhancing-your-video-content/"><u>2024 Approved Keywords that Captivate Enhancing Your Video Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversion-sans-frais-transformez-votre-fichier-rmvb-en-mp4-instantanement-via-movavi-online/"><u>Conversion Sans Frais: Transformez Votre Fichier RMVB en MP4 Instantanément via Movavi Online</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-tips-for-syncing-ios-events-on-windows-pc/"><u>Cutting-Edge Tips for Syncing iOS Events on Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-speeding-up-your-sluggish-internet/"><u>Effective Solutions for Speeding Up Your Sluggish Internet</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-with-update-reminders-in-right-click-options/"><u>Enhancing User Experience with Update Reminders in Right-Click Options</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-update-fault-code-0x80246007-on-w10w11/"><u>Eradicating Update Fault Code: 0X80246007 on W10/W11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-digital-connections-through-leading-sites-facebook-twitter-instagram-and-youtube/"><u>Exploring Digital Connections Through Leading Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-the-machine-crafting-and-analyzing-system-insights/"><u>Inside the Machine: Crafting and Analyzing System Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/preferred-stock-5-cumulative-preferred-stock-2-million-shares-at-a-par-value-of-100-200/"><u>Preferred Stock (5% Cumulative Preferred Stock, 2 Million Shares at a Par Value of $100): $200</u></a></li>
+<li><a href="https://win11.techidaily.com/reducing-power-drain-in-win11s-desktop-window-manager-gui/"><u>Reducing Power Drain in Win11's Desktop Window Manager GUI</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-dll-d3dx939-in-windows-11/"><u>Restoring Lost DLL: D3DX9_39 in Windows 11</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-step-guide-resolving-issues-with-a-damaged-graphics-card-driver-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Resolving Issues with a Damaged Graphics Card Driver - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-repairing-color-distortion-in-shop/"><u>Techniques for Repairing Color Distortion in Shop</u></a></li>
+<li><a href="https://win11.techidaily.com/win-wow-update-hurdles-immediate-solutions/"><u>Win WoW Update Hurdles: Immediate Solutions</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

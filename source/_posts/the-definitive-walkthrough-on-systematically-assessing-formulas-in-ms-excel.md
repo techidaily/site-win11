@@ -1,7 +1,7 @@
 ---
 title: The Definitive Walkthrough on Systematically Assessing Formulas in MS Excel
-date: 2024-08-28T00:49:03.192Z
-updated: 2024-08-29T00:49:03.192Z
+date: 2025-01-04T20:46:21.970Z
+updated: 2025-01-06T16:22:29.705Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## The Definitive Walkthrough on Systematically Assessing Formulas in MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Open your Excel sheet and select the cell containing the formula you want to evaluate. Go to the Formulas tab and choose "Evaluate Formula" in the Formula Auditing section of the ribbon.
 
 ![Evaluate Formula on the Formulas tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulasEvaluate-ExcelEvaluateFormulas.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll see your formula placed in the center box. Click "Evaluate" to begin. The tool evaluates the formula from the inside out, so you'll first notice it explaining the underlined portion.
 
@@ -49,6 +57,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Final evaluation result is the formula result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/EvaluateNotGreaterThanNo-ExcelEvaluateFormulas.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can then select "Restart" to see the step-by-step evaluation again or "Close" to exit the tool.
 
  Let's look at another example where you can use the Step In and Step Out features of the tool. For this we'll use a basic [IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) formula rather than a nested formula: 
@@ -65,9 +77,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Step In value displays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/EvaluateStepOut-ExcelEvaluateFormulas.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can then click "Step Out" to close that box and continue with "Evaluate" to work through the formula. The next step evaluates if 1 is equal to 5, per our formula.
 
 ![Evaluate equal to result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/EvaluateEqualTo-ExcelEvaluateFormulas.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "Evaluate" to see that the result is False, 1 is not equal to 5.
 
@@ -85,8 +105,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,8 +112,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mastering-the-art-of-partial-youtube-extraction/"><u>[New] 2024 Approved Mastering the Art of Partial YouTube Extraction</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-ways-for-mac-enthusiasts-to-get-started-with-whatsapp-messaging/"><u>Easy Ways for Mac Enthusiasts to Get Started with WhatsApp Messaging</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/envoyez-une-commande-online-gratuit-achetez-mediatrans-a-prix-reduit/"><u>Envoyez Une Commande Online Gratuit: Achetez MediaTrans À Prix Réduit!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853495092-exploring-telecom-giants-what-is-a-carrier-responsible-for-in-the-world-of-mobile-connectivity/"><u>Exploring Telecom Giants: What Is a Carrier Responsible for in the World of Mobile Connectivity?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-stanley-j5c09-powerful-and-spacious/"><u>In-Depth Analysis of the Stanley J5C09: Powerful and Spacious</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-concealing-local-wi-fi-signals/"><u>Mastering Windows: Concealing Local Wi-Fi Signals</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-custom-kodi-modifications-and-restoring-default-settings/"><u>Step-by-Step Guide: Removing Custom Kodi Modifications & Restoring Default Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-setting-up-the-latest-enzo-plugins-on-kodi-leia-and-krypton-for-reliable-live-tv/"><u>Step-by-Step Guide: Setting Up the Latest Enzo Plugins on Kodi (Leia and Krypton) for Reliable Live TV</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-list-of-top-11-youtube-downloaders-latest-version/"><u>The Ultimate List of Top 11 YouTube Downloaders - Latest Version</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-no-cost-solutions-for-seamless-xvid-to-avi-conversion-across-windows-macos-and-web-services/"><u>Top 3 No-Cost Solutions for Seamless Xvid to AVI Conversion Across Windows, MacOS, and Web Services</u></a></li>
+<li><a href="https://win11.techidaily.com/top-lossless-audio-compression-tools-how-to-shrink-audio-file-size-without-losing-quality/"><u>Top Lossless Audio Compression Tools: How to Shrink Audio File Size Without Losing Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-cloudy-with-a-chance-of-meatballs-2-into-a-lively-food-frenzy-saga/"><u>Transform Cloudy with a Chance of Meatballs 2 Into a Lively Food Frenzy Saga</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-editing-audio-files-in-windows-operating-systems-windows-11-10-81-and-earlier/"><u>Ultimate Guide: Editing Audio Files in Windows Operating Systems (Windows 11, 10, 8.1, and Earlier)</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-future-of-music-creation-explore-the-best-iphone-and-android-audio-processing-apps/"><u>Updated In 2024, The Future of Music Creation – Explore the Best iPhone and Android Audio Processing Apps</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

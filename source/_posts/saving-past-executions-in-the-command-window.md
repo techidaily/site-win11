@@ -1,7 +1,7 @@
 ---
 title: Saving Past Executions in the Command Window
-date: 2024-12-23T16:05:58.322Z
-updated: 2024-12-27T16:58:41.902Z
+date: 2025-01-02T16:31:15.936Z
+updated: 2025-01-06T19:56:31.647Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Privacy Settings
@@ -40,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
 
@@ -60,14 +64,10 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 7. Click **OK**.  
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 * **Scan for Malware:** It’s possible that your system is infected by malware, which is why the Run command is having trouble saving your history. To rule out this possibility, you can [scan Windows for malware using PowerShell](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) or Windows Defender.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get the Run Tool to Save Your History on Windows
@@ -100,18 +100,15 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[Updated] 2024 Approved Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-storytelling-on-screen-crafting-compelling-narratives-for-instareels-for-2024/"><u>[Updated] Storytelling on Screen Crafting Compelling Narratives for InstaReels for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/17-best-non-openai-point-of-sale-systems-for-businesses/"><u>17 Best Non-OpenAI Point-of-Sale Systems for Businesses</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/contrasting-the-giants-in-depth-analysis-of-iphone-15-pro-max-versus-samsung-galaxy-s24-ultra/"><u>Contrasting the Giants: In-Depth Analysis of iPhone 15 Pro Max Versus Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-discarding-your-windows-11-trail/"><u>Deciphering and Discarding Your Windows 11 Trail</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-to-enhance-laptop-response-time-post-extended-setup/"><u>Effective Methods to Enhance Laptop Response Time Post-Extended Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-video-driver-crashed-and-was-reset-error-in-windows-1110/"><u>How to Fix the “Video Driver Crashed and Was Reset” Error in Windows 11/10</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-data-recovery-recover-lost-data-from-oppo-a18-by-fonelab-android-recover-data/"><u>Oppo Data Recovery – recover lost data from Oppo A18</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-color-from-chrome-on-pcs/"><u>Recovering Color From Chrome on PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/step-into-smartphones-with-confidence-the-comprehensive-review-of-nokia-c3-plus/"><u>Step Into Smartphones with Confidence: The Comprehensive Review of Nokia C3 Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-power-management-hitch-with-third-party-software/"><u>Steps to Overcome Windows Power Management Hitch with Third-Party Software</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-c53-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme C53 Device</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-lgs-stunning-65-4k-oled-c9-smart-tv-a-must-have-for-home-theater-buffs/"><u>Ultimate Guide to LG's Stunning 65 4K OLED C9 Smart TV - A Must-Have for Home Theater Buffs</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-peekcapture-review-of-low-res-screen-grabs/"><u>2024 Approved PeekCapture Review of Low-Res Screen Grabs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>2024 Approved The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-n-editions-it-perspective/"><u>Exploring Windows N Editions: IT Perspective</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-essential-knowledge-for-instagram-success-a-guide-to-behind-the-scenes-metrics/"><u>In 2024, Essential Knowledge for Instagram Success A Guide to Behind-the-Scenes Metrics</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-frozen-wow-63-patch/"><u>Jumpstart Your Frozen WoW 6.3 Patch</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-solve-avidemux-no-audio-problem-easy-fixes-for-2024/"><u>New Solve Avidemux No Audio Problem Easy Fixes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-initiating-mouse-gestures-in-microsoft-edge-windows-11/"><u>Quick Guide: Initiating Mouse Gestures in Microsoft Edge, Windows 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-why-your-facebook-profile-may-not-appear-on-marketplace/"><u>The Ultimate Guide: Why Your Facebook Profile May Not Appear on Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/vintage-visuals-redefined-employing-retroarchs-modern-shaders/"><u>Vintage Visuals Redefined: Employing RetroArch’s Modern Shaders</u></a></li>
 </ul></div>
 

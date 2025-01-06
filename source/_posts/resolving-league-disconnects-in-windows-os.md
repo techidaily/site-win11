@@ -1,7 +1,7 @@
 ---
 title: Resolving League Disconnects in Windows OS
-date: 2024-08-23T06:12:52.232Z
-updated: 2024-08-24T06:12:52.232Z
+date: 2024-12-30T16:08:51.448Z
+updated: 2025-01-06T21:08:57.341Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
  If none of these do the trick, it's time to start performing some more complicated fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Ensure the Problem Isn't on Riot's Side
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
@@ -52,23 +49,8 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If other users have reported a similar problem, rest assured that your connectivity issues stem from Riot's servers, and not from your PC. All you have to do is wait for the problem to be resolved automatically.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Rule Out Internet Issues
 
  If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
@@ -87,15 +69,27 @@ thumbnail: https://thmb.techidaily.com/9658b467055670b82a39baa210ea870282b123ee6
 
 Proceed to the next step if the above checks and fixes do not help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Connect to a Different Network
 
 ![WiFi symbol seen on a smartphone next to a laptop computer](https://thmb.techidaily.com/aca7466ead46101c525a65c4ba2c61065f452c93cdf56e9e8e63cd78fa3eee10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you keep getting disconnected in League of Legends, you can temporarily connect to a different internet connection, such as your mobile data. After changing the network, run the game again.
 
  If you do not experience the same issue on a different network, the problem lies with your primary internet connection. It could be a hardware issue with your router, a restriction from your ISP, or something else. You should have your ISP representative inspect your internet to rule out all of this.
 
  However, if the problem persists after changing the internet, the OS must be at fault.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Whitelist the League of Legends on Windows Defender
 
@@ -109,9 +103,6 @@ Proceed to the next step if the above checks and fixes do not help.
 
  If whitelisting the app doesn't help, the problem lies with the client files.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Repair Any Corrupt Game Files
 
  It's common for game files to corrupt occasionally, and this, in turn, can cause instability. Fortunately, you can perform an automatic game repair to check for any bad files. Here's how:
@@ -122,13 +113,15 @@ Proceed to the next step if the above checks and fixes do not help.
 4. Then click on the**Initiate Full Repair** button.  
 ![Running a Full Repair of League of Legends Client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/running-a-full-repair-of-league-of-legends-client.jpg)
 5. Afterward, follow the on-screen instructions to fix your files.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Report the Problem to Riot Games
 
  Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
@@ -139,14 +132,11 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Disconnecting from your game when you are about to defeat your friends can be extremely frustrating. Hopefully, the fixes in this article will help you fix this annoying problem and establish a stable connection to Riot servers. If nothing works, reinstall the game.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +145,20 @@ Proceed to the next step if the above checks and fixes do not help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-convenient-tutorial-snapchat-installation-macos-style/"><u>[Updated] 2024 Approved Convenient Tutorial Snapchat Installation macOS-Style</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-understanding-aspect-ratios-impact-on-youtube-viewership/"><u>[Updated] 2024 Approved Understanding ASPECT RATIOS' Impact on YOUTUBE Viewership</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-ways-to-define-text-in-win11/"><u>Convenient Ways to Define Text in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-boot-issues-with-windows-11s-safe-mode/"><u>Easy Fixes for Boot Issues with Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-0x80242016-in-windows-update-woes/"><u>Halt 0X80242016 in Windows Update Woes</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-google-pixel-8-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Google Pixel 8 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-x6-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find X6 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-optimal-placement-boosting-youtube-video-visibility/"><u>In 2024, Optimal Placement Boosting YouTube Video Visibility</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-future-of-computing-in-windows-11/"><u>In 2024, The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-apple-subscription-worth-your-money-analyst-predicts-charging-up-to-20month/"><u>Is Apple Subscription Worth Your Money? Analyst Predicts Charging Up To $20/Month</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-your-notepad-experience-with-windows-theme-tweaks/"><u>Maximizing Your Notepad Experience with Windows Theme Tweaks</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-heic-photos-into-jpeg-on-pcs/"><u>Streamline HEIC Photos Into JPEG on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastery over Zero-Error: Guidance to Resolve Windows 11 Store Glitches"
-date: 2024-08-23T06:10:24.691Z
-updated: 2024-08-24T06:10:24.691Z
+date: 2025-01-03T20:18:07.492Z
+updated: 2025-01-06T18:26:36.561Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  In Windows 10, the steps for opening Windows Store Apps aren’t quite the same. Click the **Update & Security** category in Windows 10’s Settings app and select the **Troubleshoot** tab. Then you can click an **Additional troubleshooter** navigation option to reach the list of troubleshooting utilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable the Microsoft Store Install Service
 
  The Microsoft Store Install Service has a description that says app installations can’t function properly when it’s disabled. So, that’s a necessary service to have enabled to utilize the Microsoft Store without issues. This is how you can check and enable the Microsoft Store Install Service.
@@ -49,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 7. Select **Apply** to save the selected settings for the service.
 8. Click the Microsoft Store Install Service window’s **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ## 3\. Clear the Microsoft Store Cache
 
  Some Microsoft Store users have confirmed they fixed error 0x00000000 by resetting that app’s cache. So, try clearing Microsoft Store’s cached data.
@@ -64,18 +65,6 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
  There are a few Windows-based fixes you can try that fix general Windows Store issues. So, give these a try:
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run the System File Checker Command
 
  Error 0x00000000 can occur because of a wider PC issue with corrupted system files. You can address such a potential cause by running the System File Checker utility. Our [post about running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to apply this potential solution within the Command Prompt.
@@ -83,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It’s also recommended to run a Deployment Image Servicing Management scan along with the SFC tool. That utility services and repairs the system image. You can run the Deployment Image Servicing Management tool by executing this command:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
@@ -95,34 +85,34 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
 
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-use-a-proxy-server-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall the Microsoft Store
 
 ![An uninstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-apppackage-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Reinstalling Microsoft Store is a slightly more drastic potential fix for error 0x00000000 to apply when others fail. This potential resolution will replace the Microsoft Store’s files.
 
  However, you cannot simply uninstall the Microsoft Store in Settings and download the app from a web source. Instead, you’ll need to remove that app and reinstall it again by inputting PowerShell commands. Our article about [how to reinstall Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes step-by-step instructions for applying this potential error 0x00000000 solution.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Set Up a New Windows User Account
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might need to fix error 0x00000000 because of a corrupted user account. Setting up a fresh new user account would then be a probable fix. Note that you can create a new user account and transfer the data from the old one to it.
 
  Our guide on [creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) explains how to apply such a potential resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Perform a Windows System Restore
 
  System Restore is a utility that saves Windows system snapshots. Those system snapshots, otherwise restore points, enable you to roll back Windows to the dates saved. Thus, System Restore is kind of like a time machine with which you can undo system changes applied after selected restore point dates.
@@ -132,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/8010c35385b1d4db309ae5aab39ce0f7ad55b6a28
  Check out this guide to [setting up and utilizing Windows System Restore points](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions about how to perform a system restore.
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Do an In-Place Windows Upgrade
 
@@ -147,13 +141,15 @@ Screenshot captured by Jack Slater - No attribution required
 
  Open the downloaded Windows 10 Setup wizard and select the **Upgrade this PC Now** option. Then click the **Keep personal files and apps** option and select **Install**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Download Everything You Need on Microsoft Store
 
  Going through the nine potential resolutions above will likely resolve Microsoft Store error code 0x00000000 on your PC. You’ll probably have to apply more than one of those potential fixes to find one that works because this error has numerous causes. With error 0x00000000 fixed, you can then download all apps and updates again within Microsoft Store.
 
  Users can’t download new apps or updates from the Microsoft Store in Windows 11/10 because of error 0x00000000\. Thus, error 0x00000000 is a big deal for users who get most of their software from Microsoft’s storefront. This is how you can resolve Microsoft Store’s error x00000000 in Windows 11 and 10\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,3 +157,25 @@ Screenshot captured by Jack Slater - No attribution required
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-windows-leading-video-chat-pros-top-8-for-2024/"><u>[New] Windows' Leading Video Chat Pros Top 8 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/acethinker-screen-recorder-review-for-2024/"><u>AceThinker Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-updater-fails-code-x80246007-for-w1011/"><u>Eliminating Updater Fails: Code X80246007 for W10/11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How To Teleport Your GPS Location On Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-yuva-3-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Yuva 3 PC | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-vivo-y100-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Vivo Y100 5G Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-efficiently-using-look-up-tables-luts/"><u>In 2024, The Ultimate Guide to Efficiently Using Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-of-budget-friendly-editor-apps/"><u>In 2024, The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-release-restricted-app-on-pc/"><u>Method to Release Restricted App on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/oled-asus-s15-review-pure-stealth-in-design-durability-ensured/"><u>OLED Asus S15 Review: Pure Stealth in Design, Durability Ensured</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-cortana-activation-in-windows-11/"><u>Preventing Cortana Activation in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-steam-login-issues/"><u>Resolving Windows Steam Login Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-editability-in-win-folders-with-ease/"><u>Resurrecting Editability in Win Folders with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-tutorial-mastery-of-component-services-on-w11/"><u>Step-By-Step Tutorial: Mastery of Component Services on W11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-lgs-27in-widescreen-4k-display-for-2024/"><u>The Ultimate Guide to LG's 27in Widescreen 4K Display for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tomorrows-os-reimagining-windows-post-11/"><u>Tomorrow’s OS: Reimagining Windows Post-11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lenovo-thinkphone-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lenovo ThinkPhone without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Innovative Fixes for Disabled Hard Drives on Windows 11 Systems
-date: 2024-08-23T06:11:35.813Z
-updated: 2024-08-24T06:11:35.813Z
+date: 2025-01-01T20:12:58.033Z
+updated: 2025-01-06T17:36:58.094Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Hard Drive for Any Loose Connections or Physical Damage
 
  The first course of action whenever you encounter the "Hard drive not installed" issue is to ensure that the hard drive is properly connected to your computer. To do this, shut down your computer (check out [different ways to shut down a Windows PC](https://www.makeuseof.com/windows-11-how-to-shut-down/)) and unplug it from the power outlet.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 ## 2\. Perform a Hard PC Reset
 
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
 
@@ -50,9 +58,9 @@ Image Credit: Tina Sieber
  If the issue persists, you can try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change the Boot Priority Order
 
  You might face the "hard drive not installed" issue if your computer is trying to boot from a connected external device. To confirm this, unplug all external devices from your computer, including your USB mouse, keyboard, and external backup hard drive.
@@ -68,16 +76,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3. If **UEFI** is selected and then select **Legacy External Devices**. Or, if **Legacy External Devices** is selected and then select **UEFI**.  
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
 4. Click **Apply**.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Your System Date and Time
 
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
@@ -85,15 +94,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Open the BIOS menu and choose **Date /Time** from the left sidebar.  
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
  It's frustrating when you can't use your computer because of a hardware problem. Most of the time, you can fix these problems by restarting your device. But if restarting doesn't help and you see the "Hard drive not installed" error, then try the above solutions to troubleshoot the issue.
@@ -102,11 +105,27 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-resolving-face-swap-glitches-in-facebook-chat/"><u>[New] Resolving Face Swap Glitches in Facebook Chat</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-humorhatchery-studio/"><u>[Updated] HumorHatchery Studio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-itops-expert-selection-best-windows-screencasters/"><u>[Updated] ITop's Expert Selection Best Windows Screencasters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>2024 Approved From Novice to Expert Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-release-put-on-hold-detailed-analysis-and-future-prospects/"><u>Diablo Immortal PC Release Put on Hold – Detailed Analysis and Future Prospects</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-flaws-methods-to-incorporate-hidden-windows-11-extras/"><u>Fixing the Flaws: Methods to Incorporate Hidden Windows 11 Extras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-circumvent-direct-folder-name-challenges-on-windows-11/"><u>How to Circumvent Direct Folder Name Challenges on Windows 11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-fix-a-non-functional-network-card-a-step-by-step-guide-from-yl-computing/"><u>How to Fix a Non-Functional Network Card: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/language-liberation-discover-the-top-25-apps-for-flawless-video-conversion/"><u>Language Liberation Discover the Top 25 Apps for Flawless Video Conversion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/nostalgic-film-techniques-for-contemporary-projects-using-vhs-for-2024/"><u>Nostalgic Film Techniques for Contemporary Projects Using VHS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-0x80072746-in-microsoft-outlook-mail/"><u>Troubleshooting 0X80072746 in Microsoft Outlook Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-genuine-adobe-on-pc/"><u>Troubleshooting Non-Genuine Adobe on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-github-desktops-full-potential-on-windows-platforms/"><u>Unleashing GitHub Desktop's Full Potential on Windows Platforms</u></a></li>
+</ul></div>
+

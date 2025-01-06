@@ -1,7 +1,7 @@
 ---
 title: How to Capture Audio Seamlessly with Windows 11'S Snipping Tool (Max 156)
-date: 2024-12-22T03:06:35.389Z
-updated: 2024-12-27T22:06:59.022Z
+date: 2025-01-05T18:22:57.605Z
+updated: 2025-01-06T19:37:00.042Z
 tags:
   - windows10
   - windows11
@@ -24,16 +24,12 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Snipping Tool Gets an Audio Recording Feature
 
  The Sniping Tool got a major facelift after getting video capture support in Windows 11\. After that came the [Text Actions feature](https://www.makeuseof.com/text-actions-snipping-tool-windows-11/) that can read text from screenshots, which is another useful add-on. You can already annotate the captured screenshots in the tool, so adding audio capture support makes it a complete package for users.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable and Use the Audio Recording Feature in the Snipping Tool
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 4. Click and drag the selection tool to highlight the area you want to record. You will notice two new icons in the top bar alongside the timer and Start button; these enable you to control the system audio recording and microphone audio recording.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click on the **microphone** icon. You will have to allow the app to use your PC's microphone for audio recordings.
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, the Snipping Tool is ready to capture audio. Here’s how to do it:
 
 1. Relaunch the Snipping Tool app.
@@ -70,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Select mic input in Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/select-mic-input-in-snipping-tool.jpg)
 5. Click on the **microphone** icon again. Since it is muted by default, click on the **Mute** option to deselect it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click on **Mute System Audio** if you want to mute the system sounds while recording the audio.
 7. Hit the **Start** button to proceed to record the screen and your audio.
 8. Once done, click on the **s** **top recording** icon.
 9. Play the clip to check the recorded session. Press **Ctrl + S** to open the Save window. Enter a name for your video clip and save it to a preferred location on your PC.  
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
@@ -89,13 +89,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Open Snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-snipping-tool-settings.jpg)
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is the Audio Recording Feature Any Good?
 
@@ -117,22 +117,19 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-mp4-to-fb-transcoder/"><u>[New] Top MP4-to-FB Transcoder</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-secure-and-quick-screen-captures-on-android-devices/"><u>[Updated] Secure & Quick Screen Captures on Android Devices</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-scan-and-store-your-old-printed-photos/"><u>2024 Approved How to Scan and Store Your Old Printed Photos</u></a></li>
-<li><a href="https://discover-great.techidaily.com/a-comprehensive-guide-to-converting-dvd-movies-into-compatible-quicktime-format-for-apples-technology/"><u>A Comprehensive Guide to Converting DVD Movies Into Compatible QuickTime Format for Apple's Technology</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/efficient-document-management-how-abbyy-technologies-enhance-productivity-for-public-sector/"><u>Efficient Document Management: How ABBYY Technologies Enhance Productivity for Public Sector</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-the-unsupported-windows-hello-scanner-mismatch/"><u>Eliminating the Unsupported Windows Hello Scanner Mismatch</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-11s-isdonedll-problem-steps/"><u>Eliminating Windows 11'S ISDone.dll Problem Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-fixing-failed-windows-mmc-creations/"><u>Expert Guide to Fixing Failed Windows MMC Creations</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-enable-your-personalized-facebook-safety-mode/"><u>How to Enable Your Personalized Facebook Safety Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-windows-10-tutorial-for-simple-video-trimming/"><u>In 2024, Quick Windows 10 Tutorial for Simple Video Trimming</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-zero-error-guidance-to-resolve-windows-11-store-glitches/"><u>Mastery over Zero-Error: Guidance to Resolve Windows 11 Store Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/protocols-to-regain-lost-connection-on-windows/"><u>Protocols to Regain Lost Connection on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-your-intel-unison-problems-with-these-steps/"><u>Resolve Your Intel Unison Problems with These Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-write-rights-to-steam-directories-with-windows-11/"><u>Securing Write Rights to Steam Directories with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-11-whiz-11-common-problems-solutions-revealed/"><u>The Windows 11 Whiz: 11 Common Problems, Solutions Revealed</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-10-mac-screenshotters-and-recorders-reviewed-for-2024/"><u>[New] Top 10 Mac Screenshotters and Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-investigating-the-crop-code-in-imovie-for-2024/"><u>[Updated] Investigating the Crop Code in iMovie for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-operational-failures-in-windows-os/"><u>Correcting Operational Failures in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-differences-exe-vs-msi-installation/"><u>Decoding the Differences: Exe vs Msi Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-best-free-desktop-password-makers-on-windows/"><u>Discover Best Free Desktop Password Makers on Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-a34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy A34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-4-ways-for-apple-iphone-11-pro-max-to-mac-mirroring-drfone-by-drfone-ios/"><u>In 2024, Top 4 Ways for Apple iPhone 11 Pro Max to Mac Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-11-mastering-the-taskbars-quick-search/"><u>Launching Windows 11: Mastering the Taskbar's Quick Search</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/power-through-any-storm-run-your-lights-for-entire-months-with-the-revolutionary-ecoflow-go-exclusive-tutorial/"><u>Power Through Any Storm: Run Your Lights for Entire Months with the Revolutionary EcoFlow Go! - Exclusive Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11s-5ghz-wi-fi-connection-problems/"><u>Resolving Windows 11'S 5GHz Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-blaming-yourself-simple-ways-to-resolve-wow-game-instability-issues/"><u>Stop Blaming Yourself: Simple Ways to Resolve WoW Game Instability Issues</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/upgrade-your-channels-visual-appeal-for-2024/"><u>Upgrade Your Channel's Visual Appeal for 2024</u></a></li>
 </ul></div>
 

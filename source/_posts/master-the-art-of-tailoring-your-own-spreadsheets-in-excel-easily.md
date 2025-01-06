@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Tailoring Your Own Spreadsheets in Excel Easily!
-date: 2024-08-28T00:47:57.171Z
-updated: 2024-08-29T00:47:57.171Z
+date: 2025-01-03T18:48:19.451Z
+updated: 2025-01-06T20:11:27.878Z
 tags:
   - excel
 categories:
@@ -36,9 +36,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Click File, Options, Advanced, Edit Custom Lists](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/AdvancedEditCustomLists-ExcelWindows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Mac, go to Excel > Preferences. In the "Formulas and Lists" section, click "Custom Lists."
 
 ![Click Excel, Preferences, Custom Lists](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/PreferencesCustomLists-ExcelMac.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure that "New List" is selected in the "Custom Lists" box. Then, enter your list items in the "List Entries" box. Hit the "Enter" or "Return" key after each so that every item appears on a separate line.
 
@@ -48,9 +56,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Added custom list entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/AddedCustomListEntries-ExcelWindows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Import a List of Items From Cells
 
  If you already have your list of items in the spreadsheet, you can turn it into a custom list using the Import feature. Then you can reuse the list wherever you need to without reentering the items.
@@ -64,13 +69,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Imported List Entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/ImportedListEntries-ExcelWindows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "OK" on Windows, or click the red "X" on Mac to close the window.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use Your Custom List
 
  The nice thing about creating a custom list in Microsoft Excel is that you can use it in any Excel spreadsheet or workbook. Head to a spot where you want to add the list items and type in one of them. Use the fill handle to complete the list.
@@ -79,9 +86,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  You can also follow our tutorial for [adding a drop-down list](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/) based on a custom list for easier data entry.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Edit or Delete a Custom List
 
  You may need to change a custom list that you create by adding or removing items from it. On the other hand, you might want to simply delete a list you never use. Go back to the Custom Lists section for both of these actions.
@@ -90,16 +94,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Edit list entries](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/EditCustomList-ExcelWindows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  To delete a custom list, select it in the "Custom Lists" box and hit "Delete." Confirm this action by clicking "OK."
 
 ![Select the list and click Delete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/DeleteCustomList-ExcelWindows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you find yourself repeating a list of items in your spreadsheets, make your data entry a bit easier by creating a custom list in Microsoft Excel. And for more help with lists, take a look at [how to create a checklist in Excel](https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-f5-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/).
 
 <ins class="adsbygoogle"
@@ -108,8 +110,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +117,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-fight-like-a-warrior-5-intense-martial-arts-rpgs-for-2024/"><u>[Updated] Fight Like a Warrior 5 Intense Martial Arts RPGs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/discovering-facebooks-quintessential-updates/"><u>Discovering Facebook's Quintessential Updates</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-do-you-play-mp4-videos-on-mac-and-pc-platforms-a-comprehensive-guide/"><u>How Do You Play MP4 Videos on Mac and PC Platforms: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-x100-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo X100 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-c33-2023-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme C33 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-simplified-hp-laptop-screen-recording-four-effective-ways/"><u>In 2024, Simplified HP Laptop Screen Recording - Four Effective Ways</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-7-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 7 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-your-dvd-collection-effortlessly-with-wonderfox-dvd-ripper-and-converter-technology/"><u>Preserve Your DVD Collection Effortlessly with WonderFox DVD Ripper & Converter Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-mastering-the-art-of-adding-image-watermarks-to-videos/"><u>Quick Guide: Mastering the Art of Adding Image Watermarks to Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/record-screenshots-and-audio-a-guide-to-capturing-video-on-your-lenovo-device/"><u>Record Screenshots and Audio: A Guide to Capturing Video on Your Lenovo Device</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-smooth-operation-in-kodi-on-windows-via-full-system-reset/"><u>Restoring Smooth Operation in Kodi on Windows via Full System Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-video-merging-without-re-encoding-a-step-by-step-guide/"><u>Seamless Video Merging Without Re-Encoding: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/seamlessly-convert-your-multimedia-into-htc-formats-using-the-advanced-htc-video-converter-tool/"><u>Seamlessly Convert Your Multimedia Into HTC Formats Using the Advanced HTC Video Converter Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-hassle-free-acquisition-of-vh1-video-content/"><u>Simple Steps to Hassle-Free Acquisition of VH1 Video Content</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-flv-videos-into-high-quality-mp4-formats-quickly/"><u>Step-by-Step Guide: Converting FLV Videos Into High-Quality MP4 Formats Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-mpg-videos-to-mp4-playback-on-microsoft-windows-systems/"><u>Step-by-Step Guide: Converting MPG Videos to MP4 Playback on Microsoft Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-tools-to-convert-mkv-files-to-mp4-format-on-windows-and-macos-platforms/"><u>Top 10 Tools to Convert MKV Files to MP4 Format on Windows and macOS Platforms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-in-pc-building-with-toms-hardware-experts/"><u>Unveiling the Latest in PC Building with Tom's Hardware Experts</u></a></li>
+</ul></div>
 

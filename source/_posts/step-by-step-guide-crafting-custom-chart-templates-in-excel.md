@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Custom Chart Templates in Excel"
-date: 2024-08-28T00:48:16.682Z
-updated: 2024-08-29T00:48:16.682Z
+date: 2025-01-04T19:49:09.263Z
+updated: 2025-01-06T20:13:35.553Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/93fd3ecf6c0ec1cdbec9f4930fda0699ca8c61749
 ---
 
 ## Step-by-Step Guide: Crafting Custom Chart Templates in Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,21 @@ Related: [How to Create and Customize a Waterfall Chart in Microsoft Excel](http
 
 ![Select Save as Template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/SaveAsTemplate-ExcelChartTemplate.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Give your template a name and click "Save." Now your template is saved and ready for you to reuse.
 
 ![Name the template and click Save](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/NameTemplateSave-ExcelChartTemplate.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use a Saved Chart Template
 
@@ -46,37 +62,18 @@ Related: [How to Create and Customize a Pareto Chart in Microsoft Excel](https:/
 
 ![Go to Insert, Recommended Charts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertRecommendedCharts-ExcelChartTemplate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Select the All Charts tab at the top of the pop-up window and pick "Templates" on the left. You'll then see your saved templates on the right.
 
 ![Choose Templates and pick the template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AllChartsTemplates-ExcelChartTemplate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Choose the template and click "OK." You'll see the chart pop onto your sheet with your data selection.
 
 ![Chart template inserted in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChartInserted-ExcelChartTemplate.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you already have a chart in your sheet and then decide to apply the template, this is doable as well. Select the chart, go to the Chart Design tab that displays, and click "Change Chart Type."
 
 ![Go to Chart Design, Change Chart Type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ChangeChartType-ExcelChartTemplate.png) 
@@ -85,9 +82,6 @@ Key features:
 
  Even though you use a template, you can still make adjustments to your chart. So, you can change the colors and alter the formatting without it affecting the saved template. Any changes you make only apply to the current chart.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Match the Document Theme
 
  If you decide after using the template to [create your new chart](https://extra-guidance.techidaily.com/maximizing-value-in-your-cloud-service-expenditure-for-2024/) that you prefer to keep the current theme for your document, no problem!
@@ -98,16 +92,10 @@ Related: [How to Create and Customize a Treemap Chart in Microsoft Excel](https:
 
 ![Select Reset to Match Style](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ResetToMatchStyle-ExcelChartTemplate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see your chart update immediately to match the theme you chose for your document and disregard the colors and formatting you saved with the template.
 
 ![Chart updated to match the document theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MatchedStyle-ExcelChartTemplate.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you go for consistency when [making charts in Excel](https://extra-support.techidaily.com/updated-premium-psd-aesthetic-optimization/) for your business or organization, consider saving a template to cut down on chart creation time later.
 
  If you often create the same kind of sheets in Excel, you can also save time by [creating and saving your own spreadsheet template](https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-samsung-galaxy-m34-frp-by-drfone-android/).
@@ -120,8 +108,6 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +115,24 @@ Related: [How to Make a Bar Chart in Microsoft Excel](https://extra-support.tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-navigate-your-musical-library-effortlessly-top-6-android-apps/"><u>[New] Navigate Your Musical Library Effortlessly - Top 6 Android Apps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ransform-your-view-exclusive-alternative-video-websites/"><u>[New] Transform Your View Exclusive Alternative Video Websites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-schedule-meetings-on-zoom-webdesktopmobile-for-2024/"><u>[Updated] How to Schedule Meetings on Zoom [Web/Desktop/Mobile] for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/amazon-basics-premium-security-12-sheet-cross-cut-paper-destroyer-comprehensive-assessment/"><u>Amazon Basics Premium Security 12-Sheet Cross-Cut Paper Destroyer: Comprehensive Assessment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/cut-beyond-youtube-unveiling-the-top-5-video-editor-options-for-2024/"><u>Cut Beyond Youtube Unveiling the Top 5 Video Editor Options for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/seamless-broadcasting-ultimate-tips-for-live-stream-success-on-the-web/"><u>Seamless Broadcasting: Ultimate Tips for Live Stream Success on the Web</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-for-implementing-the-black-lightning-extension-in-kodi-versions-19-and-18/"><u>Ultimate Tutorial for Implementing the Black Lightning Extension in Kodi Versions 19 & 18</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-tutorial-mastering-video-editing-techniques-cropping-content-on-wmp-windows-media-player/"><u>Ultimate Tutorial: Mastering Video Editing Techniques – Cropping Content on WMP (Windows Media Player)</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-guide-mastering-the-art-of-adding-subtitles-to-your-videos/"><u>Unrestricted Guide: Mastering the Art of Adding Subtitles to Your Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstick-yourway-out-of-madden-22s-loading-loop-troubleshooting-tips-and-tweaks/"><u>Unstick Yourway Out of Madden 22'S Loading Loop – Troubleshooting Tips & Tweaks</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-creative-cinema-for-kids-bring-your-imagination-to-life/"><u>Updated Creative Cinema for Kids Bring Your Imagination to Life</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028795589-vlc/"><u>VLCマルチメディアソフトウェアでどうやって再生可能な形式へファイルを変更するか</u></a></li>
+<li><a href="https://win11.techidaily.com/vobmkv3/"><u>VOBファイルから簡単にMKVへの変換手順:3ステップガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/wavamr/"><u>WAV形式への無料AMRファイル変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027748813-windows-pc/"><u>Windows PC上で画像からビデオへの変換手順集</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mp4-gif/"><u>Windowsで優れた MP4から GIFへの変換ガイド</u></a></li>
+</ul></div>
 

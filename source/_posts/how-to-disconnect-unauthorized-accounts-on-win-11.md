@@ -1,7 +1,7 @@
 ---
 title: How to Disconnect Unauthorized Accounts on Win 11
-date: 2024-12-24T05:22:12.685Z
-updated: 2024-12-27T19:42:27.929Z
+date: 2024-12-30T20:39:34.039Z
+updated: 2025-01-06T19:21:07.523Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Sign Out Other Users Using the Task Manager](#sign-out-other-users-using-the-task-manager)
 * [Sign Out Other Users Using the Command Prompt](#sign-out-other-users-using-the-command-prompt)
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
  Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Sign Out Other Users Using the Task Manager
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -97,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
 
@@ -124,17 +124,24 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-of-the-best-high-res-gaming-displays/"><u>[Updated] In 2024, Best of the Best High-Res Gaming Displays</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-brand-synergy-in-the-age-of-digital-partnerships/"><u>[Updated] In 2024, Brand Synergy in the Age of Digital Partnerships</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-assisted-fantasy-crafting-a-perfect-dandd-experience-with-gpt/"><u>AI-Assisted Fantasy: Crafting a Perfect D&D Experience with GPT</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-mending-the-windows-performance-sensor/"><u>Diagnosing and Mending the Windows Performance Sensor</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/enhance-digital-engagement-with-our-expertise-in-cookiebot-technology-solutions/"><u>Enhance Digital Engagement with Our Expertise in Cookiebot Technology Solutions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tips-for-retrieving-removed-ios-apps-and-preserving-user-information-securely/"><u>Expert Tips for Retrieving Removed iOS Apps and Preserving User Information Securely</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-boost-performance-and-reduce-latency-in-battlefield-5-a-guide-with-10-methods/"><u>How to Boost Performance & Reduce Latency in Battlefield 5: A Guide with 10 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminating-creativity-with-dark-themes-in-paint/"><u>Illuminating Creativity with Dark Themes in Paint</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photographic-advantages-with-quantum-hdr-mastery/"><u>In 2024, Photographic Advantages with Quantum HDR Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/ram-cache-insight-and-clearing-methods-for-win-users/"><u>RAM Cache Insight & Clearing Methods for Win Users</u></a></li>
-<li><a href="https://win11.techidaily.com/shadows-no-more-restore-your-lost-windows-on-win10win11/"><u>Shadows No More: Restore Your Lost Windows on Win10/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/tweak-improve-keyboard-shortcut-responsiveness-win-11-style/"><u>Tweak: Improve Keyboard Shortcut Responsiveness, Win 11 Style</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-deciphering-digital-marketing-the-power-of-youtube-keywords-for-2024/"><u>[Updated] Deciphering Digital Marketing The Power of YouTube Keywords for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-4k-hd-hisense-50-inch-tv-review-the-best-value-in-large-screens/"><u>Affordable 4K HD Hisense 50-Inch TV Review: The Best Value in Large Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-creativity-determining-top-chatbots-mastery-with-a-common-creative-challenge/"><u>Battle of Creativity: Determining Top Chatbot's Mastery with a Common Creative Challenge</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722978378333-easy-update-process-for-epson-printers-on-windows-10-find-out-now/"><u>Easy Update Process for Epson Printers on Windows 10 - Find Out Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-of-resources-windows-application-size/"><u>Efficient Use of Resources: Windows Application Size</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-a-valid-temp-directory-how-to-fix-errors-on-windows-11/"><u>Ensuring a Valid Temp Directory: How to Fix Errors on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-xs-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone XS Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x80073d26-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error 0X80073D26 in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-this-app-couldnt-be-installed-on-the-microsoft-store/"><u>How to Fix This App Couldn’t Be Installed on the Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-fix-the-0x80071a90-windows-problem/"><u>How to Quickly Fix the 0X80071a90 Windows Problem</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-master-videoleap-to-capture-up-close-footage/"><u>In 2024, Master Videoleap to Capture Up-Close Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation-for-2024/"><u>Inside Windows 10 A Snapshot of Its Transformation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-win-11s-context-menu/"><u>Mastering the Art of Enhancing Win 11'S Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-winget-efficiency-on-modern-windows-pcs/"><u>Resurrecting Winget Efficiency on Modern Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-your-windows-11-icons-to-their-full-form/"><u>Revive Your Windows 11 Icons to Their Full Form</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-delete-files-at-the-click-setting-up-a-trash-bin-for-permanent-deletion-in-windows-pcs-11/"><u>Securely Delete Files at the Click: Setting up a Trash Bin for Permanent Deletion in Windows PCs (11)</u></a></li>
+<li><a href="https://win-online.techidaily.com/mpgwmv-wmf-movavi/"><u>영구인 MPG/WMV를 전자보감 WMF로 대체 - Movavi 솔루션</u></a></li>
 </ul></div>
 

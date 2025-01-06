@@ -1,7 +1,7 @@
 ---
 title: Remedy for Invisible HDD in PCs
-date: 2024-12-24T18:09:08.432Z
-updated: 2024-12-27T22:03:10.078Z
+date: 2024-12-31T20:12:57.395Z
+updated: 2025-01-06T16:22:50.687Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 ![external hard drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/external-hard-drive.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have recently connected a new external hard drive to your PC, it can lead you to all sorts of problems. Indeed, the hard drive detection error on your Windows might be caused just because of that. While plugging in external devices to Windows is second nature to most of us, it can definitely leave us at a hard drive failure for various reasons: an incompatibility issue, driver conflicts, hardware faults, and so on.
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check the Hardware Connection
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Drive's Formatting to NTFS
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  In this case, we recommend you format your hard drive to NTFS and see if you still face the "hard drive not detected" error on your Windows computer.
 
  Also, we'd like to add that your Windows can also work well enough on an exFat or FAT32 file system, even though they might come with reduced or subpar features. So, if you're using or choose to use one of these file systems, then you shouldn't face any technical difficulties either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update Your Windows Driver
 
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Therefore, if something goes wrong with the software drivers of such drives, problematic drive detection errors of the sort you're facing can bubble up. So, reinstalling or [updating your disk driver on Windows](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) is worth a shot in cases like this.
 
  Similarly, your PC's motherboard also needs a driver to work. So give it a check as well while you're at it and see if you still face the same error again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check for Disk Errors on Your PC
 
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Your Hard Drive Detection Issues on Your Windows
@@ -145,18 +145,21 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-video-without-audible-elements/"><u>[New] In 2024, Mastering Video Without Audible Elements</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-minimugger-report-onscreen-snaps-reviewed/"><u>[New] In 2024, MiniMugger Report - Onscreen Snaps Reviewed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-navigating-the-best-10-vector-stock-pools/"><u>[Updated] 2024 Approved Navigating the Best 10 Vector Stock Pools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-color-cutting-edge-the-basics-of-green-screen-filming-for-newbies-for-2024/"><u>[Updated] Color Cutting Edge The Basics of Green Screen Filming for Newbies for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-proplus-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 Pro+ 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-steam-file-transfers-in-windows-pc/"><u>Ensuring Smooth Steam File Transfers in Windows PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/full-featured-winx-dvd-ripper-platinum-with-official-licensing-and-complimentary-upgrade/"><u>Full-Featured WinX DVD Ripper Platinum with Official Licensing and Complimentary Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-zero-empty-directory-error-in-windows-11-and-11/"><u>How to Overcome Zero-Empty Directory Error in Windows 11 & 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-graphics-4400-driver-update-available-get-it-here/"><u>Intel Graphics 4400 Driver Update Available – Get It Here</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-rectifying-windows-network-failure-0x800704b3/"><u>Navigating and Rectifying Windows' Network Failure: 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-gameplay-in-win-11-navigating-the-leading-fps-apps-and-monitors/"><u>Optimal Gameplay in Win 11: Navigating the Leading FPS Apps & Monitors</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-strategies-for-adjusting-song-speed-on-spotify/"><u>Top Strategies for Adjusting Song Speed on Spotify</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/3gpp-3gp-movavi/"><u>무료 원조 - 3GPP 3GP 되착포를 위한 Movavi의 가상 서비스</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-freezing-points-to-inviting-landscapes/"><u>[New] From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-newbies-necessities-for-capturing-with-gopro/"><u>[New] In 2024, Newbies Necessities for Capturing with GoPro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-drone-selections-on-a-budget-affordable-options-above/"><u>[Updated] Drone Selections on a Budget Affordable Options Above</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfecting-your-presence-share-screen-mastery-in-meet/"><u>[Updated] In 2024, Perfecting Your Presence Share Screen Mastery in Meet</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leading-portals-for-virtual-graffiti-fonts-for-2024/"><u>[Updated] Leading Portals for Virtual Graffiti Fonts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-transition-turning-mac-videos-into-discs/"><u>2024 Approved Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-90-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor 90 Lite Phone Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-folder-maintenance-in-windows-11-distro-and-catroot2/"><u>Optimizing Folder Maintenance in Windows 11: Distro & Catroot2</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-windows-look-using-personalized-photographs/"><u>Reimagine Windows' Look Using Personalized Photographs</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-logitech-g35-experience-latest-drivers-for-windows-781abf-safe-and-easy-download/"><u>Seamless Logitech G35 Experience: Latest Drivers for Windows 7/8/1Abf - Safe & Easy Download!</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-secured-browsing-on-firefox-after-failures/"><u>Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-clear-up-darkened-remote-workspace-on-win/"><u>Steps to Clear Up Darkened Remote Workspace on Win</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-collection-of-effective-windows-to-dos/"><u>The Ultimate Collection of Effective Windows To-Dos</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-maximum-gpu-potential-increasing-win1011-vram/"><u>Unlock Maximum GPU Potential: Increasing Win10/11 VRAM</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-store-repair-guide-to-eliminate-error-code-x00000000/"><u>Win 11 Store Repair Guide to Eliminate Error Code X00000000</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-time-trial-unify-your-digital-chronoscope/"><u>Windows Time-Trial: Unify Your Digital Chronoscope</u></a></li>
 </ul></div>
 

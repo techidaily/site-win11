@@ -1,7 +1,7 @@
 ---
 title: "Effortless Calculation Tricks: Utilizing the Paste Special Tool for Summation & Product Operations in MS Excel"
-date: 2024-08-28T00:47:48.953Z
-updated: 2024-08-29T00:47:48.953Z
+date: 2025-01-03T17:00:25.474Z
+updated: 2025-01-06T18:54:51.670Z
 tags:
   - excel
 categories:
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 
 ![Right-click and pick Paste Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/RightClickPasteSpecial-ExcelSpecialOperations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  Add, Subtract, Multiply, or Divide Using Paste Special
 
  For basic numbers, decimals, and currency, you can choose from All, Values, or Values and Number Formats in the Paste section of the window. Use the best option for [your particular data and formatting](https://facebook-videos.techidaily.com/new-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/).
@@ -48,6 +44,10 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
  You'll then use the section labeled Operation to add, subtract, multiply, or divide.
 
 ![Paste Special options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PasteSpecialOperations-ExcelSpecialOperations.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Let's look at a simple example of each operation to see how it all works.
 
@@ -67,6 +67,10 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
 
 ![Amount added using Paste Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PastedAdded-ExcelSpecialOperations.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Subtracting an amount works the same way.
 
  Copy the cell containing the amount or number that you want to subtract. For this example, we're reducing the prices of our jackets by $50.
@@ -74,30 +78,21 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
 ![Copy the cell to subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CopyToSubtract-ExcelSpecialOperations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the cells to paste to and open Paste Special. Choose "Subtract" and click "OK."
 
 ![Select Subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PasteSubtract-ExcelSpecialOperations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Just like with addition, the amount is subtracted from our cells, and we can move on to selling more jackets.
 
 ![Amount subtracted using Paste Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PastedSubtracted-ExcelSpecialOperations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ###  Multiply and Divide with Paste Special
 
  For the multiplication and division examples, we're going to use numbers instead of currency. Here, we want to quadruple the amount of inventory for our jackets because we received a shipment.
@@ -106,30 +101,33 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Copy the cell to multiply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CopyToMultiply-ExcelSpecialOperations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Select the cells to paste to, open Paste Special, select "Multiply," and click "OK."
 
 ![Select Multiply](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PasteMultiply-ExcelSpecialOperations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  And there we have it! We just quadrupled our numbers in one fell swoop.
 
 ![Amount multiplied using Paste Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PastedMultiplied-ExcelSpecialOperations.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For our final example, we need to divide our inventory numbers in half due to missing merchandise. Copy the cell containing the number or amount to divide by. For us, the number is 2.
 
 ![Copy the cell to divide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CopyToDivide-ExcelSpecialOperations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the cells to paste to, open Paste Special, select "Divide," and click "OK."
 
 ![Select Divide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PasteDivide-ExcelSpecialOperations.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And just like that, our inventory has decreased by half.
 
@@ -145,8 +143,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +150,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag/"><u>[New] The Ultimate Guide to Creating Share-Worthy Memes on 9GAG</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-the-course-from-adsense-income-to-savings-for-2024/"><u>[Updated] Charting the Course From AdSense Income to Savings for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-amd-radeon-graphic-card-drivers-on-windows-7/"><u>Download AMD Radeon Graphic Card Drivers on Windows 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone SE (2020)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-illuminate-your-gaming-recordings-avoid-black-screens-with-obs/"><u>In 2024, Illuminate Your Gaming Recordings Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-time-travelling-method-master-reversal-of-videos/"><u>In 2024, Instagram's Time-Travelling Method Master Reversal of Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-mp3-conversion-transferring-your-cherished-tunes-with-ease/"><u>Seamless MP3 Conversion - Transferring Your Cherished Tunes with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-techniques-effortlessly-combining-multiple-videos-using-vlc-media-player/"><u>Seamless Techniques: Effortlessly Combining Multiple Videos Using VLC Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-videos-with-wonderfox-premium-copyright-watermarks/"><u>Secure Your Videos with WonderFox: Premium Copyright Watermarks</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-downloading-videos-from-naver-without-paying/"><u>Step-by-Step Guide: Downloading Videos From Naver Without Paying</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-recording-your-tango-calls-across-all-platforms/"><u>Step-by-Step Guide: Recording Your Tango Calls Across All Platforms</u></a></li>
+</ul></div>
 

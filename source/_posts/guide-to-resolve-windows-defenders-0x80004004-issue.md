@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Windows Defender's 0X80004004 Issue
-date: 2024-12-25T02:11:12.192Z
-updated: 2024-12-27T22:34:12.724Z
+date: 2025-01-05T20:35:33.867Z
+updated: 2025-01-06T16:41:25.294Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
@@ -70,7 +70,7 @@ Here is how you can do that:
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
@@ -87,10 +87,6 @@ Here is how you can do that:
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
@@ -99,19 +95,23 @@ Here is how you can do that:
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
  If you have come this far without a viable solution and are still struggling to use Microsoft Defender, we recommend reporting the issue to Microsoft’s official support team. Till they offer a fix, you can consider switching to another security service to protect your system from vulnerabilities and malware.
 
  Our guide on[the best antivirus programs for Windows](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/) should help you make an informed decision in this regard.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Microsoft Defender Error 0x80004004, Resolved
 
@@ -132,22 +132,22 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-comprehensive-list-of-prime-tablets-for-photo-editing-lovers-for-2024/"><u>[Updated] A Comprehensive List of Prime Tablets for Photo Editing Lovers for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-get-clear-coffee-stain-free-images-using-ioss-free-app/"><u>[Updated] Get Clear, Coffee Stain-Free Images Using iOS's Free App</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-maximizing-your-influence-a-selection-of-expert-instagram-analytics-software/"><u>[Updated] In 2024, Maximizing Your Influence A Selection of Expert Instagram Analytics Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719311785872-fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-issue-airpods-not-detected-in-apples-find-my-tool/"><u>Fixing The Issue: AirPods Not Detected In Apple's Find My Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-conceal-dim-display-feature-in-win-os-control-panel/"><u>Guide to Conceal Dim Display Feature in Win OS Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-random-console-window-flashes/"><u>How to Prevent Random Console Window Flashes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-boost-channels-to-partner-status-in-under-90-days-start-now/"><u>In 2024, Boost Channels to Partner Status in Under 90 Days, Start Now!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-silence-to-sounds-windows-10-recorder-use/"><u>In 2024, From Silence to Sounds Windows 10 Recorder Use</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-nokia-c12-pro-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Nokia C12 Pro Android SIM Unlock APK</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-how-to-make-a-countdown-video/"><u>New How to Make a Countdown Video</u></a></li>
-<li><a href="https://win11.techidaily.com/premium-choices-top-windows-platforms-for-dsswitch-experience/"><u>Premium Choices: Top Windows Platforms for DS/Switch Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-non-existent-camera-issue-in-windows-device-hub/"><u>Resolve Non-Existent Camera Issue in Windows Device Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-your-clock-and-dates-windows-1011-guide/"><u>Tailor Your Clock and Dates: Windows 10/11 Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-mind-maps-organizing-notes-using-obsidian-canvas/"><u>The Art of Mind Maps: Organizing Notes Using Obsidian Canvas</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-your-win11-status-key-indicators-and-checks-for-uptime/"><u>Understanding Your Win11 Status: Key Indicators and Checks for Uptime</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-webcam-visibility-alerts-in-win11/"><u>Unlocking Webcam Visibility Alerts in Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-copyright-freedom-tunes-best-free-melodies-for-zen/"><u>[Updated] 2024 Approved Copyright-Freedom Tunes - Best Free Melodies for Zen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-overwatch-gameplay-captured-step-by-step-guide/"><u>[Updated] 2024 Approved Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-ishowu-audio-capture-download-and-review/"><u>[Updated] IShowU Audio Capture Download and Review</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-securing-a-stable-stream-of-earnings-on-youtube/"><u>[Updated] Securing a Stable Stream of Earnings on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-error-1132-in-windows-11-for-smooth-zoom-operations/"><u>Fixing Error 1132 in Windows 11 for Smooth Zoom Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-wsl-2-docker-operations-a-comprehensive-guide/"><u>Improving WSL 2 Docker Operations: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/losungen-fur-abspielfehler-von-dvds-auf-der-xbox-one-reparatursanleitungen-finden-sie-hier/"><u>Lösungen Für Abspielfehler Von DVDs Auf Der Xbox One - Reparatursanleitungen Finden Sie Hier!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-your-machine-customize-active-hours-to-sidestep-surprises-in-windows-11/"><u>Mastering Your Machine: Customize Active Hours to Sidestep Surprises in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-microphone-communication-with-xbox-app-windows-11/"><u>Re-Establishing Microphone Communication with Xbox App Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-repairing-a-stalled-virtual-disk-service/"><u>Restoring Functionality: Repairing a Stalled Virtual Disk Service</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-setup-of-win11-on-airplane-mode/"><u>Seamless Setup of Win11 on Airplane Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-elevate-your-taskbar-in-win11/"><u>Step-by-Step: Elevate Your Taskbar in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-advantages-of-sudo-for-windows-enthusiasts/"><u>The Advantages of Sudo for Windows Enthusiasts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-canon-mx870-to-work-with-windows-8-7/"><u>Update Canon MX870 to Work with Windows 8-7</u></a></li>
 </ul></div>
 

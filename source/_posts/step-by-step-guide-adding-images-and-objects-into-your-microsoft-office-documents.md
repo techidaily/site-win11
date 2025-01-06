@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Images and Objects Into Your Microsoft Office Documents"
-date: 2024-08-28T00:48:46.184Z
-updated: 2024-08-29T00:48:46.184Z
+date: 2025-01-04T17:44:34.091Z
+updated: 2025-01-06T20:59:00.683Z
 tags:
   - excel
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  Whether you’re using Microsoft Word, Excel, or PowerPoint, adding images and other objects adds visual appeal to your document, spreadsheet, or presentation. Here's how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Inserting Images from Your Computer
 
  Office applications allow you to insert images stored on your computer’s hard drive. To do so, place the cursor in the location that you would like the image to appear and select the “Pictures” option, found in the “Insert” tab.
@@ -32,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![Insert a Picture in Word or Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Insert-a-Picture-in-Word-or-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In PowerPoint, it’s found in the “Images” group.
 
 ![Insert a Picture in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Insert-a-Picture-in-PowerPoint.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer will open. Navigate to the location of the image file, select it, then select “Insert.”
 
@@ -56,15 +68,16 @@ Word, Excel
 
 ![Online Pictures in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Online-Pictures-in-PowerPoint.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 PowerPoint
 
  Bing’s Image Search will appear in a separate window. Input the search terms in the search bar and select the image that you want to insert. Once selected, click “Insert."
 
 ![Search for online pictures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Search-for-online-pictures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also select and insert multiple images at once using this method.
 
 Related: [How to Automatically Size Pictures in PowerPoint](https://remote-screen-capture.techidaily.com/updated-apex-10-virtual-warrior-battles-for-2024/) 
@@ -76,8 +89,9 @@ Related: [How to Automatically Size Pictures in PowerPoint](https://remote-scree
 ![Select Chart option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Select-Chart-option.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Selecting the “Chart” option will open the “Insert Chart” dialogue box. Select a category on the left-hand side, click the chart you want to use, then choose “OK."
 
 ![Select and insert chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Select-and-insert-chart.png) 
@@ -90,48 +104,28 @@ Related: [How to Create a Flowchart in Word](https://facebook-video-share.techid
 
 ![Charts in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Charts-in-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Taking and Inserting Screenshots
 
  Office has a built-in snipping tool that allows you to take screenshots and place them directly in your document. This option can be found in the “Illustrations” group on Word and Excel of the “Insert” tab.
 
 ![Screenshot in Word, Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-in-Word-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Word, Excel
 
  In PowerPoint, you’ll find the option in the “Images” group.
 
 ![Screenshot in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-in-PowerPoint.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 PowerPoint
 
  Once you select the “Screenshot” option, a drop-down menu will appear. It will display a snapshot of any window you currently have open on your computer. If you wish to insert one of those, simply clicking it will do the trick. If you want to take a screenshot of a specific portion of the screen, you can select “Screen Clipping."
 
 ![Screenshot tools](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Screenshot-tools.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once selected, all you need to do to capture part of your screen is click, drag, and release. The portion you captured will automatically appear in your document.
 
 Related: [How to Use the Snipping Tool in Windows to Take Screenshots](https://fox-direct.techidaily.com/updated-2024-approved-selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs/) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Inserting Shapes
 
  Sometimes a simple shape is all you need to illustrate a point. If a shape is what you’re looking for, select “Shapes" found in the “Insert” tab’s “Illustrations” group on Word, Excel, and PowerPoint.
@@ -143,21 +137,27 @@ Related: [How to Use the Snipping Tool in Windows to Take Screenshots](https://f
  If you want to [tweak a shape](https://some-skills.techidaily.com/the-drone-editors-playbook-a-comprehensive-guide-for-2024/) a little, you can do so by using its edit points. Alternatively, you can [draw and edit your own shape](https://remote-screen-capture.techidaily.com/updated-in-2024-seamlessly-screen-record-the-mi-11-user-manual/) if you can’t find the shape you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Inserting Icons
 
  You can also help illustrate your point by using symbols and icons. By selecting “Icons” in the “Illustrations” group of the “Insert” tab on Word, Excel, and PowerPoint, you’ll find a generous selection of icons to choose from.
 
 ![Select Icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Select-Icons.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the new window that appears, you can browse through the selection of icons provided by Microsoft. Once you find the one you’re looking for, select “Insert."
 
 ![choose and insert icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/choose-and-insert-icon.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The icon will now appear in your Office app.
 
 ##  Inserting 3D Models
@@ -166,21 +166,23 @@ Related: [How to Use the Snipping Tool in Windows to Take Screenshots](https://f
 
 ![3D Models](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/3D-Models.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Selecting “3D Models” will open a new window. Here, navigate through the different models available and choose the one you wish to use. Once selected, click “Insert."
 
 ![select and insert 3D model](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/select-and-insert-3D-model.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  The 3D model will now be inserted. To rotate the model, click and drag from the middle of the image.
 
 ![Rotating Cow GIF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/Rotating-Cow-GIF.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Add Alternative Text to an Object in PowerPoint](https://driver-error.techidaily.com/auditory-bliss-achieved-with-win11/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Inserting SmartArt
 
@@ -202,8 +204,6 @@ Related: [How to Build a PowerPoint Organizational Chart With Excel Data](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +211,19 @@ Related: [How to Build a PowerPoint Organizational Chart With Excel Data](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-iphones-alphabetical-album-setup-and-its-integration-with-icloud-services/"><u>[New] In 2024, IPhone's Alphabetical Album Setup and Its Integration with iCloud Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smartphone-lighting-kits-for-improved-footage/"><u>[New] Smartphone Lighting Kits for Improved Footage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-synthesize-music-with-images-in-ppts-for-2024/"><u>[New] Synthesize Music with Images in PPTs for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-capture-and-compress-swift-iphone-time-lapse-tactics/"><u>2024 Approved Capture and Compress Swift iPhone Time-Lapse Tactics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cutting-through-the-facade-real-vs-pretend-facebook-followers/"><u>Cutting Through the Facade Real vs Pretend Facebook Followers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-harness-the-power-of-chatgpt-a-five-step-guide-for-non-account-holders/"><u>How to Harness the Power of ChatGPT - A Five-Step Guide for Non-Account Holders</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-x-flip-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo X Flip</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nokia-g42-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/struggling-to-extract-dvds-on-windows-media-player-discover-top-rated-alternatives/"><u>Struggling to Extract DVDs on Windows Media Player? Discover Top-Rated Alternatives!</u></a></li>
+<li><a href="https://win11.techidaily.com/top-rated-tablets-with-built-in-dvd-player-capability/"><u>Top-Rated Tablets with Built-In DVD Player Capability</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-flv-format-issues-with-lightworks-quick-fixes-for-smooth-editing/"><u>Troubleshooting FLV Format Issues with Lightworks - Quick Fixes for Smooth Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/usb-and-streaming-the-ultimate-guide-to-play-dvds-on-an-acer-laptop-running-windows-1011/"><u>USB and Streaming: The Ultimate Guide to Play DVDs on an Acer Laptop Running Windows 10/11</u></a></li>
+</ul></div>
 

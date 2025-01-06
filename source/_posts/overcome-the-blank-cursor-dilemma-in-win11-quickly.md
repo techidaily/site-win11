@@ -1,7 +1,7 @@
 ---
 title: Overcome the Blank Cursor Dilemma in Win11, Quickly
-date: 2024-12-22T07:16:47.300Z
-updated: 2024-12-28T01:15:18.405Z
+date: 2024-12-30T16:12:23.866Z
+updated: 2025-01-06T19:07:14.504Z
 tags:
   - windows10
   - windows11
@@ -33,12 +33,16 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 
  Windows updates, driver updates, and other glitches can all be responsible for causing your screen to turn black, and this is why there are multiple solutions to the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: PassFab FixUWin
 
  This first method is the easiest on this list, enabling you to rely on third-party tools to handle the job for you. You can download and use[PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) for free, enabling you to try it out and get started without having to commit to purchasing a copy for yourself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Download & Install PassFab FixUWin
@@ -50,23 +54,19 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Create a New Windows Boot Disk/Drive
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
 
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
@@ -80,10 +80,6 @@ It will take a few minutes to create your new boot device.
  Shut down the PC with a black screen and cursor before inserting your disk or USB drive. Restart the computer and hit the key to access your boot menu as the machine starts up. This key is different for different manufacturers, but it is usually F12 or ESC.
 
  You may need to try a few times before your boot menu launches. Once it does, select your recovery disk or USB from the list and restart the machine to boot from it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 4: Start the PassFab FixUWin Automated Repair Process
 
@@ -102,6 +98,10 @@ It will take a few minutes to create your new boot device.
  Windows Safe Mode makes it easier to diagnose issues with the operating system by only running the most essential drivers and tools. Turn off your PC by holding the power button for 10 seconds, turn it back on, and press the power button for 10 seconds again as soon as you see the Windows logo appear. Turn it back on and repeat this process until you enter winRE.
 
  Once inside the winRE menu, click**Troubleshoot** and select**Advanced Options** from the next window. Click**Startup Settings** and select**Restart** to boot the machine into safe mode. From here, you can work on solving the problem causing your black screen with a cursor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use PassFab FixUWin to Fix Windows Black Screen With a Cursor
 
@@ -122,24 +122,21 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-advanced-hdr-creation-in-photoshop-workflows-for-2024/"><u>[New] Advanced HDR Creation in Photoshop Workflows for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-convert-your-youtube-files-effortlessly-to-webm-for-2024/"><u>[New] Convert Your YouTube Files Effortlessly to WebM for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-learn-audio-recording-in-audacity-with-your-mac/"><u>[New] In 2024, Learn Audio Recording in Audacity with Your Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-transforming-your-living-space-into-a-podcast-studio/"><u>[New] Transforming Your Living Space Into a Podcast Studio</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-solidify-iphone-hdr-quality-with-4-key-editing-steps/"><u>[Updated] [Ultimate Guide] Solidify iPhone HDR Quality with 4 Key Editing Steps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-windows-prime-video-communication-tools-1-8/"><u>[Updated] 2024 Approved Windows' Prime Video Communication Tools, #1-8</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-your-youtube-traffic-best-hash-tactics-explained/"><u>[Updated] In 2024, Elevate Your YouTube Traffic Best Hash Tactics Explained</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-maximize-visual-impact-with-free-digital-lut-resources-for-2024/"><u>[Updated] Maximize Visual Impact with FREE Digital LUT Resources for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-tips-for-seamlessly-trimming-videos-without-compromising-quality-on-windows-11/"><u>Expert Tips for Seamlessly Trimming Videos Without Compromising Quality on Windows 11</u></a></li>
-<li><a href="https://article-files.techidaily.com/from-text-to-screen-srt-to-subc-transformation-tips-for-2024/"><u>From Text to Screen SRT-to-SUBC Transformation Tips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-90-degree-display-flip-techniques-and-benefits/"><u>Mastering 90-Degree Display Flip: Techniques & Benefits</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-visual-efficiency-top-5-ideal-windows-pc-clock-themed-screen-saver-creation-apps/"><u>Maximize Visual Efficiency: Top 5 Ideal Windows PC Clock-Themed Screen Saver Creation Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-workflow-efficiency-mastering-tab-management-in-windows-11/"><u>Maximize Workflow Efficiency: Mastering Tab Management in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-remedies-starting-fresh-with-explore-ui/"><u>Quick Remedies: Starting Fresh with Explore UI</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-disabled-windows-sign-in-options/"><u>Steps for Restoring Disabled Windows Sign-In Options</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-endless-popups-of-edge-symbols/"><u>Stopping Endless Popups of Edge Symbols</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-fixing-microsoft-store-error-0x87e00017/"><u>Tips for Fixing Microsoft Store Error 0X87e00017</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-administrative-blockage-for-software-installations/"><u>Troubleshooting Administrative Blockage for Software Installations</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-chrome-download-failures-on-pcs/"><u>Troubleshooting Chrome Download Failures on PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715854893782-new-how-to-record-a-voice-over-for-a-video/"><u>[New] How To Record A Voice Over For A Video?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-innovative-add-ons-to-elevate-your-yi-4k-cameras/"><u>[New] In 2024, Innovative Add-Ons to Elevate Your YI 4K Cameras</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-crafting-engaging-instagram-reels-step-by-step/"><u>[Updated] 2024 Approved Crafting Engaging Instagram Reels Step-by-Step</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-alliance-of-creativity-brands-and-youtubes-fusion/"><u>[Updated] Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-uncharted-territories-in-video-streamer-realm-for-2024/"><u>[Updated] Uncharted Territories in Video Streamer Realm for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/dicas-para-converter-aperfeicoadamente-seus-filmes-do-formato-mts-para-o-mp4-sem-custo-algum/"><u>Dicas Para Converter Aperfeiçoadamente Seus Filmes Do Formato MTS Para O MP4 Sem Custo Algum</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-the-art-of-international-mouse-usage-via-powertoys/"><u>Discovering the Art of International Mouse Usage via PowerToys</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-15-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 15 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-every-task-in-windows-the-ultimate-list-of-5plus-must-use-apps/"><u>Optimize Every Task in Windows: The Ultimate List of 5+ Must-Use Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-frozen-usb-hub-issue-a-windows-approach/"><u>Overcoming Frozen USB Hub Issue - A Windows Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/professional-approach-to-rejuvenating-win11-dns-caches/"><u>Professional Approach to Rejuvenating Win11 DNS Caches</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-bluetooth-limitation-audio-alone-no-mutepause/"><u>Resolving Windows Bluetooth Limitation: Audio Alone, No Mute/Pause</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2000-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2000</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-update-hurdles-effortlessly/"><u>Tackling Windows Update Hurdles Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/win-logins-spotting-valid-and-invalid-credentials-entry-attempts/"><u>Win Logins: Spotting Valid and Invalid Credentials Entry Attempts</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winx-mediatrans-iphoneipadmv/"><u>WinX MediaTrans™: 最適合iPhone、iPad上移動照片及MV管理解決方案</u></a></li>
 </ul></div>
 

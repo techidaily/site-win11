@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Determining Moving Averages with Microsoft Excel Tools
-date: 2024-08-28T00:48:59.743Z
-updated: 2024-08-29T00:48:59.743Z
+date: 2025-01-04T20:24:11.985Z
+updated: 2025-01-06T17:49:26.555Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ## Step-by-Step Tutorial on Determining Moving Averages with Microsoft Excel Tools
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Add the Data Analysis Tool in Excel](https://some-guidance.techidaily.com/transitioning-shadows-a-minute-later-for-2024/)
@@ -19,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  You may think of a moving average for forecasting [stocks or investments](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/). But you can also use it to see trends for inventory, sales, or similar data. Without equations or functions, you can calculate a moving average easily in Excel.
 
 Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Add the Data Analysis Tool in Excel
 
@@ -40,6 +48,10 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![Go to File, Options, Add-ins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/OptionsExcelAddIns-ExcelMovingAverage.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the Add-ins window displays, check the box next to Analysis ToolPak and click "OK."
 
 ![Select Analysis ToolPak](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AddAnalysisToolPak-ExcelMovingAverage.png) 
@@ -48,9 +60,6 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-resources.techidaily.com/chrome-os-vocal-personalization-guide-review-of-the-best-speech-converters-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Calculate a Moving Average
 
  When you're ready to calculate the moving average, click the Data Analysis button on the Data tab. Select "Moving Average" from the list and click "OK."
@@ -58,29 +67,25 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 ![Pick Moving Average](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DataAnalysisMovingAverage-ExcelMovingAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  At the top of the Moving Average window, enter the Input Range into the corresponding box. You can also click inside the box and then drag through your data range. Optionally, you can check the box for "Labels in First Row" and include an Interval.
 
 ![Enter the Input Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/InputRange-ExcelMovingAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, enter the Output Range by entering a cell reference or clicking inside the box and selecting a cell on your sheet. Optionally, you can check the box for Standard Errors. And to create a graph of the moving average as well as receive the results, check the box for Chart Output.
 
 ![Enter the Output Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/OutputRange-ExcelMovingAverage.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you finish setting up the moving average click "OK" and you'll see the output. You have the values beginning in the cell you selected for the output. If you selected the Chart Output, you'll have a handy line graph displaying the data as well.
 
 ![Receive the moving average results and chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MovingAverage-ExcelMovingAverage.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can customize the Moving Average graph like any other [chart you create in Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/). Select the graph and use the Chart Design tab to adjust the layout, colors, legend, and more.
 
  Be sure to check out the other options available with the Analysis ToolPak. You can do things like [create a histogram](https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-vivo-s17-pro-by-drfone-android/), find a correlation, or use the [random number](https://facebook-video-share.techidaily.com/new-streamlining-content-delivery-the-definitive-youtube-video-upload-guide/) generator.
@@ -91,8 +96,6 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +103,21 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-the-art-of-rewinding-videos/"><u>[Updated] 2024 Approved Mastering Instagram The Art of Rewinding Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-step-by-step-tutorial-on-icloud-collaboration-features-in-apples-pages-document-app/"><u>A Step-by-Step Tutorial on iCloud Collaboration Features in Apple's Pages Document App</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-convert-shn-files-with-our-leading-audio-converter-now-supports-mp3-flac-and-wav-formats/"><u>Effortlessly Convert SHN Files with Our Leading Audio Converter - Now Supports MP3, FLAC & WAV Formats!</u></a></li>
+<li><a href="https://win11.techidaily.com/free-trial-of-factory-pro-mp4-video-converter-with-secure-payment-option/"><u>Free Trial of Factory Pro MP4 Video Converter with Secure Payment Option</u></a></li>
+<li><a href="https://win11.techidaily.com/free-video-editing-tips-how-to-insert-texts-without-any-watermark-issues/"><u>Free Video Editing Tips: How to Insert Texts Without Any Watermark Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-changing-audio-format-from-m4a-to-wav-in-windows-10/"><u>Guide to Changing Audio Format From M4A to WAV in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-import-and-watch-avi-videos-on-itunes-conversion-guide/"><u>How to Import and Watch AVI Videos on iTunes – Conversion Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-safely-download-movies-from-yesmovies-a-step-by-step-guide/"><u>How to Safely Download Movies From YesMovies: A Step-by-Step Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/losungsweg-fur-fehlende-partitionsfestplatten-warum-pc-nicht-zuruckgesetzt-werden-kann-und-wie-es-gelost-wird/"><u>Lösungsweg Für Fehlende Partitionsfestplatten: Warum PC Nicht Zurückgesetzt Werden Kann Und Wie Es Gelöst Wird</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ram-in-formato-wma-trasformare-online-e-gratuito-la-guida-completa-al-metodo-movavi/"><u>RAM in Formato WMA: Trasformare Online E Gratuito - La Guida Completa Al Metodo Movavi</u></a></li>
+<li><a href="https://article-tips.techidaily.com/step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/step-by-step-guide-downloading-race-broadcasts-from-pc-and-mac-systems/"><u>Step-by-Step Guide: Downloading Race Broadcasts From PC & Mac Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-gemini-live-your-ultimate-guide-to-joining-and-discover-its-unique-benefits-cyberguardian/"><u>Unlocking Gemini Live: Your Ultimate Guide to Joining & Discover Its Unique Benefits | CyberGuardian</u></a></li>
+</ul></div>
 

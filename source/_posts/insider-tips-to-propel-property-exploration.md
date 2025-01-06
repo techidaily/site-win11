@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2024-12-22T20:40:43.320Z
-updated: 2024-12-28T02:25:49.805Z
+date: 2024-12-31T20:21:02.925Z
+updated: 2025-01-06T18:37:07.855Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
@@ -54,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
@@ -69,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Using the File Explorer
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
@@ -81,11 +77,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
@@ -99,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Using PowerShell
 
  PowerShell has a different command to display folder or file properties. Like the CMD command, it also displays the file properties inside the shell in text format.
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,22 +128,22 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-audio-quality-in-social-media-recordings/"><u>[Updated] 2024 Approved Boosting Audio Quality in Social Media Recordings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-witty-visuals-crafting-kapwings-laughs/"><u>[Updated] In 2024, Witty Visuals Crafting Kapwing's Laughs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-reschedule-image-file-storage-from-mac/"><u>2024 Approved Reschedule Image File Storage From Mac</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/background-excision-tool-affinity-photo-for-2024/"><u>Background Excision Tool Affinity Photo for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/curing-windows-error-elusive-startup-items/"><u>Curing Windows Error: Elusive Startup Items</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-airflow-for-windows-11-gadgets/"><u>Enhancing Airflow for Windows 11 Gadgets</u></a></li>
-<li><a href="https://win11.techidaily.com/formulating-enduring-file-disposal-strategies-on-windows-systems/"><u>Formulating Enduring File Disposal Strategies on Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-nest-audio-versus-apple-homepod-showdown-a-detailed-comparison/"><u>Google Nest Audio Versus Apple HomePod Showdown - A Detailed Comparison</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-12r-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock OnePlus 12R Phone without Any Data Loss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-access-unlocking-your-os-control-panel/"><u>Quick Access: Unlocking Your OS Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/remedies-for-low-memory-indicators-in-windows-based-vmware/"><u>Remedies for Low Memory Indicators in Windows-Based VmWare</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-no-data-usb-devices-in-microsoft-systems/"><u>Strategies for Fixing No-Data USB Devices in Microsoft Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/synapse-stuck-easy-fixes-for-w11w10-users/"><u>Synapse Stuck? Easy Fixes for W11/W10 Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-5-affordable-gaming-mice-and-keyboards-99plus/"><u>Top 5 Affordable Gaming Mice & Keyboards $99+</u></a></li>
-<li><a href="https://win11.techidaily.com/unite-pilot-and-ai-on-windows-11-after-disconnection/"><u>Unite Pilot & AI on Windows 11 After Disconnection</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[New] Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-masterclass-setting-up-countdowns-in-obs-studio-for-2024/"><u>[New] Masterclass Setting Up Countdowns in OBS Studio for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-the-ultimate-solution-to-your-portable-battery-woes-insights-from-zdnet/"><u>$20 Anker Charger: The Ultimate Solution to Your Portable Battery Woes – Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/disarming-the-0x8007045d-blue-screen-on-windows-11-pcs/"><u>Disarming the 0X8007045D Blue Screen on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-create-a-mobile-internet-access-point-with-windows-11/"><u>Effortlessly Create a Mobile Internet Access Point with Windows 11</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-automate-regular-backups-for-your-sql-server-databases-sql-server-2012-2019/"><u>How to Automate Regular Backups for Your SQL Server Databases (SQL Server 2012-2019)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y02t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y02T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-bluetooth-pin-related-link-failures-in-win11win10/"><u>How To Overcome Bluetooth PIN-Related Link Failures in Win11/Win10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-twitch-a-guide-to-solving-puzzling-aspects-for-novice-users/"><u>Navigating Twitch: A Guide to Solving Puzzling Aspects for Novice Users</u></a></li>
+<li><a href="https://win11.techidaily.com/per-screen-prowess-custom-themes-for-every-monitor-in-win-1011/"><u>Per-Screen Prowess: Custom Themes for Every Monitor in WIN 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Pro Black and White | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-macos-organization-with-craft-a-step-by-step-user-manual/"><u>Revolutionize Your macOS Organization with Craft - A Step-by-Step User Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-dissuade-non-requested-console-opening/"><u>Strategies to Dissuade Non-Requested Console Opening</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-weaving-gopro-footage-into-circular-films-for-2024/"><u>Ultimate Guide to Weaving GoPro Footage Into Circular Films for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-online-spaces-7-fixes-for-windows-browsers-that-refuse-access/"><u>Unlocking Online Spaces: 7 Fixes for Windows Browsers that Refuse Access</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pcs-control-center-on-windows-11/"><u>Unlocking Your PC's Control Center on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-theme-bliss-beyond-mainstream/"><u>Windows 11 Theme Bliss Beyond Mainstream</u></a></li>
 </ul></div>
 

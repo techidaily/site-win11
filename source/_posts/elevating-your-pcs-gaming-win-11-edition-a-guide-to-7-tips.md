@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips"
-date: 2024-12-24T19:49:29.259Z
-updated: 2024-12-28T00:50:45.400Z
+date: 2025-01-02T19:15:05.746Z
+updated: 2025-01-06T17:27:44.483Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn On Game Mode
 
  Turning on Game Mode does a lot to improve gaming performance. It redirects more system resources to gaming applications, turns off notifications, and reduces most background activities, thus improving your gaming sessions.
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  To enable it, click on the Windows icon from the taskbar and then open the**Settings** application. Once Settings is open, navigate to**Gaming > Game Mode** and toggle the**Game Mode** switch to the**On** position.
 
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use Auto HDR
 
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Ensure Your Games Use Your Primary GPU
 
  For graphically-demanding games, it's a good idea to ensure they always use your PC's strongest GPU. Most gaming PCs have at least both a dedicated GPU and one built into the CPU, and it's best to give games the former to use.
@@ -60,11 +64,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Enhanced Pointer Precision
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Update Your GPU's Drivers
 
  NVIDIA, AMD, Intel, and other graphics cards are at their peak performance when their drivers are up-to-date. So, to enjoy a good gaming experience, you must update your GPU drivers regularly.
@@ -87,19 +91,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Windows
 
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
 
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Apply Generic Windows Performance Tweaks
 
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  For instance, we have a guide on[how to fix a low FPS on Windows](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , which includes tips you can perform on Windows 11\. You can also check out[how to improve gaming performance on a laptop](https://www.makeuseof.com/tag/5-ways-improve-laptop-gaming-performance/) , which includes some tips you can apply even if you're on a PC. Finally, our piece on[how to optimize Windows 10 for gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) features steps you can perform on Windows 11, too.
 
  We've also mainly covered things to enable or tweak in this article, but there are some[parts of Windows 11 you should disable for better gaming performance](https://www.makeuseof.com/windows-11-disable-gaming-performance/) too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Improving Gaming Performance on Windows 11 PCs
 
@@ -130,20 +130,17 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-the-top-5-pc-clipping-utilities-for-quick-samples/"><u>[New] In 2024, Discover the Top 5 PC Clipping Utilities for Quick Samples</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-webcam-wonders-your-macbook-video-journey/"><u>[New] In 2024, Webcam Wonders Your MacBook Video Journey</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-a-journey-through-japan-using-snapchats-anime-filters-for-2024/"><u>[Updated] A Journey Through Japan Using Snapchat’s Anime Filters for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-video-boundaries-explained-for-2024/"><u>[Updated] Instagram Video Boundaries Explained for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-oppo-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Oppo FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-subtitled-out-of-a-zip-how-to-convert-files/"><u>In 2024, Subtitled Out of a Zip! How To Convert Files</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-excel-chart-visualization-by-pinpointing-absolute-value-ranges-instantly/"><u>Mastering Excel Chart Visualization by Pinpointing Absolute Value Ranges Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-excel-data-visualization-with-easy-trendline-insertion-techniques/"><u>Mastering Excel Data Visualization with Easy Trendline Insertion Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-finance-with-microsoft-excel-determining-loan-amounts-and-repayment-schedules/"><u>Mastering Finance with Microsoft Excel: Determining Loan Amounts and Repayment Schedules</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-waterfall-charts-a-step-by-step-guide-on-tailoring-visuals-in-ms-excel/"><u>Mastering Waterfall Charts: A Step-by-Step Guide on Tailoring Visuals in MS Excel</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-ai-conversations-chatgpt-for-macos-users/"><u>Navigating AI Conversations: ChatGPT for macOS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/protect-excel-worksheets-from-changes-master-the-art-of-cell-lockdown-techniques/"><u>Protect Excel Worksheets From Changes - Master the Art of Cell Lockdown Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-creating-visual-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Visual Charts with Microsoft Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-designing-dynamic-table-headers-in-excel-spreadsheets/"><u>Step-by-Step Guide: Designing Dynamic Table Headers in Excel Spreadsheets</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-m34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy M34 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unveiling-the-pathway-to-monetizing-your-instagram-content/"><u>[Updated] In 2024, Unveiling the Pathway to Monetizing Your Instagram Content</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-video-enhancements-grasping-green-screen-artistry-through-4-youtube-demos/"><u>[Updated] Pro Video Enhancements Grasping Green Screen Artistry Through 4 YouTube Demos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tailored-video-edits-for-exceptional-vimeo-content/"><u>[Updated] Tailored Video Edits for Exceptional Vimeo Content</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-non-detection-of-usb-ports-on-win-11/"><u>Correcting Non-Detection of USB Ports on Win 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-predictive-ai-understanding-its-operations-and-potential-impacts/"><u>Demystifying Predictive AI: Understanding Its Operations and Potential Impacts</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiency-in-action-confirm-microphone-and-webcam-function-windows/"><u>Efficiency in Action: Confirm Microphone & Webcam Function (Windows)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/expertly-charged-hero5-black-batteries-authenticity-and-counterparts-for-2024/"><u>Expertly Charged Hero5 Black Batteries - Authenticity & Counterparts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-navigating-instagrams-video-talk-essentials/"><u>In 2024, Navigating Instagram's Video Talk Essentials</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-depth-vita-video-editing-analysis-and-step-by-step-guide/"><u>In-Depth Vita Video Editing Analysis & Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-gpo-configurations-for-specific-users-in-windows-11-and-11/"><u>Streamlining GPO Configurations for Specific Users in Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-stop-your-icons-from-getting-tiny/"><u>Win 11: Stop Your Icons From Getting Tiny</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-system-power-assessment-a-user-guide/"><u>Windows System Power Assessment: A User Guide</u></a></li>
 </ul></div>
 

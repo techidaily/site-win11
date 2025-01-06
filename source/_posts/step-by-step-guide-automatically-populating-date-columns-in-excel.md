@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Automatically Populating Date Columns in Excel"
-date: 2024-08-28T00:49:36.610Z
-updated: 2024-08-29T00:49:36.610Z
+date: 2025-01-01T18:06:51.324Z
+updated: 2025-01-06T18:35:36.945Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  In both these methods, you enter the first date in a cell in your spreadsheet. Then, based on this date, Excel automatically populates the other cells with sequential dates. You get the same results regardless of what fill method you use below. However, the Fill Command method gives you control over the date unit counted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Fill Handle to Automatically Fill Dates in Excel
 
  With the Fill Handle, you drag the first date across all the cells where you want the dates added. [Excel populates those cells](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) with sequential dates.
@@ -28,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
 ![Click the date cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/1-select-date-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the selected cell's bottom-right corner, drag downwards covering all the cells where you want dates.
 
  To fill dates in columns, then drag the date cell covering your columns.
 
 ![Drag the date cell downwards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-drag-cell-date-downwards.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your selected cells now have sequential dates in them.
 
@@ -43,8 +55,9 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Fill Sequential Dates in Excel Using the Fill Command
 
  Using the Fill command, you tell Excel your first date and the cells where you want sequential dates. The command then populates the specified cells with sequential dates.
@@ -53,34 +66,22 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Choose the date and other cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/4-choose-date-other-cells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  While your cells are highlighted, in Excel's ribbon at the top, click the "Home" tab. Then, from the "Editing" section, choose Fill > Series.
 
 ![Select "Series" from the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-fill-series.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the "Series" box, from the "Date Unit" section, choose what unit you'd like to fill in your cells. Then click "OK."
 
 ![Select a date unit and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/6-fill-date.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back on the spreadsheet, you'll find that Excel has filled your selected cells with the dates.
 
 ![Dates filled automatically.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/7-dates-filled-automatically.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  And that's how you eliminate the hassle of manually entering dates in your Excel spreadsheets. Very useful!
 
 Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/)
@@ -91,8 +92,6 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +99,18 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-insightful-approaches-to-recognizing-genuine-facebook-advocates/"><u>[New] In 2024, Insightful Approaches to Recognizing Genuine Facebook Advocates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-guide-incorporating-visual-annotations-in-edits/"><u>2024 Approved Essential Guide Incorporating Visual Annotations in Edits</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/beginners-guide-to-mastering-gpu-passthrough-in-microsoft-hyper-v-a-step-by-step-tutorial/"><u>Beginner's Guide to Mastering GPU Passthrough in Microsoft Hyper-V: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/decoding-developer-choices-the-ups-and-downs-in-popularity-for-programming-languages-since-2016-analysis-and-projections-codewise-blog/"><u>Decoding Developer Choices: The Ups and Downs in Popularity for Programming Languages Since 2016 - Analysis & Projections | CodeWise Blog</u></a></li>
+<li><a href="https://win11.techidaily.com/delaying-windows-10-close-out-keep-running-programs-active/"><u>Delaying Windows 10 Close-Out: Keep Running Programs Active</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-data-reducing-high-cpu-usage-with-resource-monitor/"><u>Dive Into Data: Reducing High CPU Usage with Resource Monitor</u></a></li>
+<li><a href="https://games-able.techidaily.com/five-misunderstandings-about-gamefi-and-real-players/"><u>Five Misunderstandings About GameFi and Real Players</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-recover-lost-render-driver-in-overwatch-2/"><u>How to Recover Lost Render Driver in Overwatch 2</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-error-sevenzeronine/"><u>Tackling Windows Error SevenZeroNine</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-applications-of-vcplusplus-release/"><u>Unveiling the Applications of VC++ Release</u></a></li>
+</ul></div>
 

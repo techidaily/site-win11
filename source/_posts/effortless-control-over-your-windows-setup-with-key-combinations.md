@@ -1,7 +1,7 @@
 ---
 title: Effortless Control Over Your Windows Setup with Key Combinations
-date: 2024-12-23T03:51:09.861Z
-updated: 2024-12-27T20:39:20.016Z
+date: 2024-12-30T20:06:13.611Z
+updated: 2025-01-06T17:50:52.732Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Undoing and Redoing Actions on Windows
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember, you can't use the redo command without undoing an action first.
@@ -59,11 +59,11 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
- If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
 ## How to Redo in a Snap With Redo Hotkeys
 
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
@@ -106,18 +106,24 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/c-span-broadcasts-unlocked-tips-for-fee-free-download/"><u>C-Span Broadcasts Unlocked Tips for Fee-Free Download</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-multi-monitor-use-with-these-windows-11-tips/"><u>Effortless Multi-Monitor Use with These Windows 11 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-for-repairing-system-files-in-win11/"><u>Essential Techniques for Repairing System Files in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-hyper-v-error-0x8009030e-in-windows/"><u>How to Fix the Hyper-V Error 0X8009030E in Windows</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-traffic-to-your-videos-top-seo-practices-for-youtube-success/"><u>In 2024, Boost Traffic to Your Videos Top SEO Practices for YouTube Success</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-laptop-battery-with-simple-onoff-tweaks/"><u>Maximize Laptop Battery with Simple On/Off Tweaks</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-reverberating-success-a-compilation-of-8-exemplary-cinematic-audio-effects/"><u>New 2024 Approved Reverberating Success A Compilation of 8 Exemplary Cinematic Audio Effects</u></a></li>
-<li><a href="https://win11.techidaily.com/simplified-techniques-to-modify-program-size-on-windows-11/"><u>Simplified Techniques to Modify Program Size on Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-6-affordable-space-heaters-expert-picks-and-reviews-zdnet/"><u>Top 6 Affordable Space Heaters : Expert Picks & Reviews (ZDNet)</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-getting-your-playstation-microphone-back-online/"><u>Troubleshooting Tips: Getting Your PlayStation Microphone Back Online</u></a></li>
-<li><a href="https://win-hot.techidaily.com/verstandliche-losungen-wo-speichern-sich-temporare-excel-dateien-und-wie-konnen-sie-dieses-problem-beheben/"><u>Verständliche Lösungen: Wo Speichern Sich Temporäre Excel-Dateien, Und Wie Können Sie Dieses Problem Beheben?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-experts-picks-best-free-video-tools-for-pc-and-mac/"><u>[New] 2024 Approved Expert's Picks Best Free Video Tools for PC & Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-tech-savvy-academics-recording-education-talks-with-macos-for-2024/"><u>[New] Tech-Savvy Academics Recording Education Talks with MacOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-overview-of-cost-free-livestream-apps-and-solutions-for-everyone/"><u>[Updated] Comprehensive Overview of Cost-Free Livestream Apps & Solutions for Everyone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unparalleled-hands-on-gear-in-the-vr-world/"><u>[Updated] Unparalleled Hands-On Gear in the VR World</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/complete-navigation-list-for-wwwwinxdvdcom-officially-generated-site-map-pages/"><u>Complete Navigation List for www.winxdvd.com – Officially Generated Site Map Pages</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-dual-windows-into-one-harmonious-network-via-aoemi/"><u>Converting Dual Windows Into One Harmonious Network via AOEMi</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-windows-11-themes-with-registry-editing/"><u>Decoding the Mystery of Windows 11 Themes with Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-windows-performance-diagnostic-glitch/"><u>Fixing the Windows Performance Diagnostic Glitch</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/scribbles-to-spectacle-personalized-effect-crafting/"><u>From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-picture-the-essence-of-google-podcasts-app/"><u>In 2024, Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-desktop-functionality-adding-widgets-to-win-11/"><u>Maximizing Desktop Functionality: Adding Widgets to Win 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-away-from-blocked-router-configuration/"><u>Navigating Away From Blocked Router Configuration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-careers-in-the-world-of-prompt-engineering/"><u>Navigating Careers in the World of Prompt Engineering</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-reset-a-trio-of-win11-adjustments/"><u>Personalize, Reset: A Trio of Win11 Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-microsoft-outlook-with-windows-heres-how/"><u>Reconnect Microsoft Outlook with Windows, Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/stay-ahead-of-the-curve-vivetool-for-enhanced-windows-experience/"><u>Stay Ahead of the Curve: ViVeTool for Enhanced Windows Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steam-games-troubleshooting-content-locks/"><u>Unlocking Steam Games: Troubleshooting Content Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-to-pinpoint-your-cpus-gen-status-8-ways/"><u>Windows Guide to Pinpoint Your CPU's Gen Status (8 Ways)</u></a></li>
 </ul></div>
 

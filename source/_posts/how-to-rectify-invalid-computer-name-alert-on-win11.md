@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Invalid Computer Name Alert on Win11
-date: 2024-12-21T21:23:56.623Z
-updated: 2024-12-27T16:59:21.796Z
+date: 2024-12-31T19:26:56.839Z
+updated: 2025-01-06T19:59:24.057Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  In any case, here are a few preliminary checks you should run before getting into the main fixes:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Pending Updates
 
  As mentioned earlier, the problem could arise due to a system bug, keeping your PC from working as it should. Hence, a simple update might be just the fix you need to make renaming your PC possible.
@@ -49,21 +45,21 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  You’d see a list of pending updates, and you can click on any one of them to install. Once your PC is updated, cycle back to**System** Settings and try renaming your PC to see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Character Limits and the Use of Special Characters
 
 ![Screenshot Showing the Rename Your PC Field on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-rename-your-pc-field-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Generally, your PC name should be within a 15-character limit, and you are permitted to use only letters, hyphens, or numbers. Thus, using special characters–characters other than alphabets or numerals will invalidate your choice of name. Examples are punctuation marks and symbols.
 
  You should also avoid the use of spaces. As a first step, look back over the name you intend to use and ensure it meets the character specifications. Doing otherwise will necessarily make it impossible to rename your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Check if You’re Currently Signed In as an Administrator
 
@@ -92,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Screenshot Showing Windows 11 Power Off Options on the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-power-off-options-on-the-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Create a New User Account
@@ -103,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 ![Screenshot Showing the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-the-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click on**User Accounts** .
 
 ![Screenshot Showing User Accounts Settings on the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-user-accounts-settings-on-the-control-panel.jpg)
@@ -112,16 +112,12 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 ![Screenshot Showing How to Add a New User Account in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-how-to-add-a-new-user-account-in-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After this, click**Add a new user in PC settings.**
 
 ![Screenshot Showing Windows 11 Accounts Settings (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-11-accounts-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Finally, click the**Add account** icon.
 
@@ -137,21 +133,25 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  Afterward, toggle off the**Remember my preferences** option to disable sync.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Use Windows PowerShell
 
  Lastly, you can resolve the “PC name is Invalid” error by running a command on Windows PowerShell. In the search bar, type in Windows PowerShell, and once the app comes up, select**Run as Administrator.**
 
 ![Screenshot Showing Windows Powershell in the Search Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-windows-powershell-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve clicked**Yes** in the confirmation dialogue, PowerShell will come up. Then, type in the command**Rename - Computer - NewName “New name”** where the words in quotes are replaced with the name you intend to rename your PC.
 
  For example, if I wanted to rename my PC “MakeUseOf”, I’d type**Rename-Computer -NewName “MakeUseOf”** as shown below:
 
 ![Screenshot Showing Powershell Command to Rename PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-showing-powershell-command-to-rename-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Personalizing Your Windows 11 Experience Made Easy
 
@@ -174,24 +174,19 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-seeding-strategies-for-valheim-prosperity-for-2024/"><u>[Updated] Seeding Strategies for Valheim Prosperity for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/prehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube-for-2024/"><u>A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-storage-patterns-how-to-apply-windows-diskusage-proficiently/"><u>Discovering Storage Patterns: How to Apply Windows' DiskUsage Proficiently</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722971705084-effortless-solutions-for-logitech-c615-drivers-no-more-hassles/"><u>Effortless Solutions for Logitech C615 Drivers - No More Hassles</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-related-roblox-error-403/"><u>Fixing Windows-Related Roblox Error 403</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-game-pass-failure-code-on-windows-11-computers/"><u>Fixing Xbox Game Pass Failure Code on Windows 11 Computers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-instagram-game-with-unique-highlight-images/"><u>In 2024, Elevate Your Instagram Game with Unique Highlight Images</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A25 5G FRP</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-unblocking-search-results-in-win-1011-os/"><u>Methods for Unblocking Search Results in Win 10/11 OS</u></a></li>
-<li><a href="https://win-web.techidaily.com/resoudre-les-problemes-de-fausses-limitations-de-stockage-apres-avoir-clone-un-disque-dur-explication-claire-et-pratique/"><u>Résoudre Les Problèmes De Fausses Limitations De Stockage Après Avoir Cloné Un Disque Dur : Explication Claire Et Pratique</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-an-inactive-printer-a-windows-guide/"><u>Resurrecting an Inactive Printer: A Windows Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-crafting-cover-letters-with-ai-assistance/"><u>Step-by-Step: Crafting Cover Letters with AI Assistance</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-3d-paint-keys/"><u>The Ultimate List of 3D Paint Keys</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-a59-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo A59 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-notetaking-the-obsidian-method/"><u>Transforming Notetaking - The Obsidian Method</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-a-reset-strategy/"><u>Troubleshooting Windows Update: A Reset Strategy</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-pc-effortlessly-without-a-screen-saver/"><u>Unlock Your PC Effortlessly Without a Screen Saver</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-taskbar-attachment-techniques/"><u>Windows 11 Taskbar Attachment Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>[New] Visual Harmony on Screen Mastering Zoom's Edge Magic for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-achieving-professionalism-with-zoom-filter-applications/"><u>[Updated] In 2024, Achieving Professionalism with Zoom Filter Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-the-route-to-social-stardom-a-quick-overview-of-6-key-steps-on-instagram/"><u>[Updated] Navigating the Route to Social Stardom A Quick Overview of 6 Key Steps on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-android-toolset-for-3d-video-players/"><u>[Updated] Ultimate Android Toolset for 3D Video Players</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-showcasing-the-best-of-image-integration-in-frames-for-24/"><u>2024 Approved Showcasing the Best of Image Integration in Frames for '24</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo N53 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/inside-look-how-lastpass-leadership-addresses-safety-concerns-amidst-alarming-security-notifications-explored-by-zdnet/"><u>Inside Look: How LastPass Leadership Addresses Safety Concerns Amidst Alarming Security Notifications | Explored by ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/master-lately-used-documents-in-windows/"><u>Master Lately Used Documents in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-unlocking-emoji-15-functionality/"><u>Mastering Windows 11: Unlocking Emoji 15 Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-windows-10-tutorial-for-simple-video-trimming-for-2024/"><u>Quick Windows 10 Tutorial for Simple Video Trimming for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/systray-supercharge-comprerante-cpu-and-memory-usage-details/"><u>SysTray Supercharge: Comprerante CPU & Memory Usage Details</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-cutting-out-extra-sounds-in-your-tiktok-videos/"><u>The Ultimate Guide to Cutting Out Extra Sounds in Your TikTok Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/top-8-video-editors-for-windows-win11-edition/"><u>Top 8 Video Editors for Windows: Win11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-write-permission-issues-in-windows-11/"><u>Troubleshooting Write Permission Issues in Windows 11</u></a></li>
 </ul></div>
 

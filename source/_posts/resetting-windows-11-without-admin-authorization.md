@@ -1,7 +1,7 @@
 ---
 title: Resetting Windows 11 Without Admin Authorization
-date: 2024-08-28T00:49:58.912Z
-updated: 2024-08-29T00:49:58.912Z
+date: 2025-01-05T17:06:58.389Z
+updated: 2025-01-06T18:06:39.068Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,19 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 5. In the Troubleshoot screen, click on **Reset this PC**.  
 ![reset this pc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reset-this-pc-Windows-11.png)
 6. In the Reset this PC screen, you will be presented with two options. The **Keep my files** option will remove all the third-party apps and settings from your PC, but keep your personal files such as documents, media, etc. If you want to remove everything, then select **Remove everything.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, you will be presented with two options again to reinstall Windows. If you select **Cloud Download**, Windows will first download the required operating system files and then perform a reinstall. In comparison, **Local Reinstall** will use the existing system files from the device to reinstall Windows.  
 ![reinstall windows cloud download local reinstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reinsall-windows-cloud-download-local-reinstall.png)
 8. To speed up the process, select **Local reinstall**. If that does not work, you can use the **Cloud download** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reinstalling Windows-11 after reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reinstalling-Windows-11-after-reset.jpg)
 9. In the **Are you ready to reset this device** screen, click on the **Reset** button to confirm the action and start the reset process.
 
@@ -50,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  If the reset process fails and requests additional system files, use the **Cloud download** option to perform a reset and try again. This often happens if your existing Windows installation is missing critical system files or corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Factory Reset Windows 11 Using a Windows Installation Media
 
 ![Windows 11 setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-setup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using the Reset This PC option should help you bypass the Windows login password and reset the PC. However, if that does not work, you can [clean install the Windows OS](https://www.makeuseof.com/how-to-clean-install-windows-11/) using a bootable USB drive. This is useful if you can't boot into Windows or the system image is damaged beyond repair.
 
@@ -67,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 5. Next, click the **Install Now** button.  
 ![install windows 11 clean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/insatll-windows-11-clean.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. On the **Activate Windows** page, click the **I don’t have a product key** link.
 2. Next, select the **Windows 11 edition** you want to install. If not, select the default option and click **Next**.  
 ![windows 11 setup select edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-11-setup-select-edition.png)
@@ -79,16 +101,11 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  If you prefer to create and use a local user account instead, read our guide on [how to install and set up Windows 11 without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) and create one that way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Factory Reset a Windows Computer Without an Admin Password
 
  Although you can factory reset the PC to bypass the admin password, setting up your system from scratch is cumbersome. To avoid this hassle, consider using a password manager. It not only stores difficult and long passwords and syncs them across devices but also protect them from hacker and other prying eyes with encryption.
 
  For situations like this, Windows 11 offers a few alternative ways to factory reset your computer. You can factory reset Windows 11 without the admin password from the lock screen or by using a bootable Windows installation media. Let's explore the two ways you can bypass a Windows admin password and reset your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +113,19 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-10-best-no-cost-live-streaming-tools-android-and-iphone-guide/"><u>[New] 2024 Approved 10 Best No-Cost Live Streaming Tools Android & iPhone Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-ultimate-online-video-snatcher-download-favorites-instantly/"><u>[New] In 2024, Ultimate Online Video Snatcher Download Favorites Instantly</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instant-guide-obtaining-safe-free-vlc-media-player-on-a-mac/"><u>[New] Instant Guide Obtaining Safe, Free VLC Media Player on a Mac</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-ios-applications-for-playing-psp-classics-for-2024/"><u>[Updated] Essential iOS Applications for Playing PSP Classics for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-from-concept-to-screen-channel-yt-for-pioneering-filmmaking-techniques/"><u>2024 Approved From Concept to Screen Channel YT for Pioneering Filmmaking Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-access-chatgpt-from-anywhere-using-chatgpt-everywhere/"><u>How to Access ChatGPT From Anywhere Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-cannot-play-media-error-on-powerpoint-a-guide-to-8-fixes/"><u>Solving the 'Cannot Play Media' Error on PowerPoint: A Guide to 8 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-techniques-for-recording-facebook-stories-unnoticed/"><u>Stealth Techniques for Recording Facebook Stories Unnoticed</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-audio-files-from-ac3-to-wav-format-using-both-online-tools-and-software/"><u>Step-by-Step Guide: Converting Audio Files From AC3 to WAV Format Using Both Online Tools & Software</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-installing-the-youtube-go-app-on-your-desktop/"><u>Step-by-Step Guide: Installing the YouTube Go App on Your Desktop</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-amazing-deals-for-presidents-day-score-big-at-amazon-walmart-best-buy-and-more/"><u>Unlock Amazing Deals for Presidents' Day: Score Big at Amazon, Walmart, Best Buy & More !</u></a></li>
+</ul></div>
+

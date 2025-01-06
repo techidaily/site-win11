@@ -1,7 +1,7 @@
 ---
 title: "Latest Tech News: Anticipating New Releases From Google and Samsung Telecoms"
-date: 2024-08-28T00:49:42.957Z
-updated: 2024-08-29T00:49:42.957Z
+date: 2024-12-30T18:11:23.295Z
+updated: 2025-01-06T20:42:12.697Z
 tags:
   - excel
 categories:
@@ -13,15 +13,16 @@ thumbnail: https://thmb.techidaily.com/4a46c3579169964c63d7bb3ef156723da1c897ffc
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Big News
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
@@ -32,29 +33,20 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Valve
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
@@ -69,11 +61,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Motorola
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
  Google's next hardware event is nearing.
@@ -81,6 +78,10 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -94,8 +95,6 @@ Motorola
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +102,26 @@ Motorola
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unveil-your-gaming-prowess-with-perfect-screen-shots-pc/"><u>[New] 2024 Approved Unveil Your Gaming Prowess with Perfect Screen Shots (PC)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-soundtracks-for-snaps-a-guide-to-video-audio-selection/"><u>[Updated] 2024 Approved Soundtracks for Snaps A Guide to Video Audio Selection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-optimizing-your-yt-ad-revenue-with-effective-monetization-audits/"><u>2024 Approved Optimizing Your YT Ad Revenue with Effective Monetization Audits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-green-screen-strategies-for-professional-streamers/"><u>Cutting-Edge Green Screen Strategies for Professional Streamers</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-to-victory-windows-methods-of-gaming-directories/"><u>Direct to Victory: Windows Methods of Gaming Directories</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-flawless-footage-with-best-stabilizer-brands/"><u>In 2024, Flawless Footage with Best Stabilizer Brands</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-a14-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy A14 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>Navigating the Market Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-file-explorer-for-removable-storage/"><u>Optimizing File Explorer for Removable Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-obstacles-in-setting-up-mstore-apps/"><u>Overcoming Obstacles in Setting Up MSTORE Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/pixel-9-pro-xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-results/"><u>Pixel 9 Pro XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Results!</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-message-0x87e00017-on-microsoft-store/"><u>Resolving Error Message: 0X87E00017 on Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-11-icon-size-decline/"><u>Solving Windows 11 Icon Size Decline</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-scrutinize-and-erase-windows-history/"><u>Step-By-Step to Scrutinize and Erase Windows History</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-workflow-with-personalized-fn-key-settings/"><u>Streamlining Workflow with Personalized FN Key Settings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-and-repairing-error-0x00000078-handling-phase0exception-correctly/"><u>Troubleshooting and Repairing Error 0X00000078: Handling PHASE0_EXCEPTION Correctly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-selection-of-exercise-dvds-for-optimal-physique-and-health/"><u>Ultimate Selection of Exercise DVDs for Optimal Physique and Health</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-mystery-behind-winservicesexe/"><u>Unveiling the Mystery Behind Winservices.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/visualize-ideas-on-windows-1011-screens/"><u>Visualize Ideas on Windows 10/11 Screens</u></a></li>
+</ul></div>
 

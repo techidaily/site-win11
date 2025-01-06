@@ -1,7 +1,7 @@
 ---
 title: "Mastering Finance with Microsoft Excel: Determining Loan Amounts and Repayment Schedules"
-date: 2024-08-28T00:49:24.364Z
-updated: 2024-08-29T00:49:24.364Z
+date: 2025-01-04T18:28:03.160Z
+updated: 2025-01-06T16:55:15.272Z
 tags:
   - excel
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7a5da68125bc45bc63708f2f580be8038605e22ab
  Maybe you are contemplating a new car loan and want to know the payment ahead of time. You can use Excel to adjust the interest rate and payment term to see what you can afford. At the same time, you may have payment information on a current loan and want to see your interest rate or payment term.
 
  With a few simple functions and your data, you can easily get basic loan calculations in Microsoft Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Calculate a Loan Payment in Excel
 
@@ -46,17 +50,22 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
 
 ![PMT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindPayment-ExcelLoanCalculations.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By making slight adjustments to the constants, you can see what your payment would be if you had a different interest rate, made more or fewer payments, or changed the loan amount. When you adjust these figures, the formula updates automatically.
 
  For example, maybe the monthly payment is more than you can afford. By [increasing the number](https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/) of payments, you can see how much the monthly payments decrease.
 
 ![Adjust the terms to change the payment amount](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindPaymentIncreaseTerm-ExcelLoanCalculations.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Calculate Percent Increases in Excel](https://extra-resources.techidaily.com/elevate-your-display-with-these-8-macbook-backgrounds/) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ##  Formula to Calculate an Interest Rate in Excel
 
  Maybe you have an existing loan and want to quickly see the annual interest rate you're paying. As simple as calculating a payment with basic loan details, you can do the same to determine the interest rate.
@@ -73,9 +82,6 @@ Related: [How to Calculate Percent Increases in Excel](https://extra-resources.t
 
 ![RATE function in Excel using months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInterestMonths-ExcelLoanCalculations.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also enter the loan term in years instead of months and adjust the formula as follows:
 
 =RATE(E2*12,E3,E4)*12
@@ -85,11 +91,9 @@ Related: [How to Calculate Percent Increases in Excel](https://extra-resources.t
 ![RATE function in Excel using years](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindInterestYears-ExcelLoanCalculations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Calculate a Payment Term in Excel
 
  One more handy loan calculation that can help you out is determining the payment period. You can see the number of months for a loan depending on the details.
@@ -107,11 +111,9 @@ Related: [How to Calculate Percent Increases in Excel](https://extra-resources.t
 ![NPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/FindTerm-ExcelLoanCalculations.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Optional Arguments for Loan Calculations
 
  As mentioned with each function above, the `future_value` and `type` arguments are optional. Here's a brief explanation of each if you'd like to include them in your formula.
@@ -130,8 +132,6 @@ Related: [What Is Money in Excel, and How Do You Get Started?](https://youtube-v
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,20 @@ Related: [What Is Money in Excel, and How Do You Get Started?](https://youtube-v
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/approved-securing-a-stable-stream-of-earnings-on-youtube/"><u>2024 Approved Securing a Stable Stream of Earnings on YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-11x-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme 11X 5G</u></a></li>
+<li><a href="https://article-tips.techidaily.com/are-product-critiques-online-generated-income/"><u>Are Product Critiques Online Generated Income?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cambia-archivos-mp4-a-video-wmv-online-sin-coste-guia-de-convertir-con-herramientas-gratuitas/"><u>Cambia Archivos MP4 a Video WMV Online Sin Coste: Guía De Convertir Con Herramientas Gratuitas</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-absence-of-critical-dll-mfc71u-on-pcs/"><u>Fixing Absence of Critical DLL: Mfc71u on PCs</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-sony-xperia-10-v-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Sony Xperia 10 V to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-social-media-updates-4-essential-strategies-using-massmail-pro/"><u>Mastering Social Media Updates: 4 Essential Strategies Using MassMail Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211099513-9781785359347-pagan-portals-rounding-the-wheel-of-the-year/"><u>Pagan Portals - Rounding the Wheel of the Year | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808211368-quick-guide-to-finding-and-downloading-your-hp-devices-windows-10-drivers/"><u>Quick Guide to Finding and Downloading Your HP Device's Windows 10 Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-your-gaming-pace-with-valorant-advice/"><u>Stabilizing Your Gaming Pace with Valorant Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/taskmasters-triumph-essential-apps-to-elevate-workday-productivity/"><u>Taskmaster's Triumph: Essential Apps to Elevate Workday Productivity</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-online-hubs-sites-that-make-gamerscore-soar/"><u>Top Online Hubs: Sites That Make Gamerscore Soar</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-workspace-wonders-top-8-notetaking-apps-no-pen/"><u>Windows Workspace Wonders: Top 8 Notetaking Apps (No Pen)</u></a></li>
+</ul></div>
 

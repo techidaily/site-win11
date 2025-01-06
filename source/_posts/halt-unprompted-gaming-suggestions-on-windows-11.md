@@ -1,7 +1,7 @@
 ---
 title: Halt Unprompted Gaming Suggestions on Windows 11
-date: 2024-08-23T06:10:44.719Z
-updated: 2024-08-24T06:10:44.719Z
+date: 2025-01-04T19:00:54.144Z
+updated: 2025-01-06T19:35:43.483Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Do I See a "Games for You" Recommendation?
 
 ![screenshot of the windows search menu with games for you recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_games_for_you_search.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Anything that appears in a search that isn't related to what you're searching for is because of a feature called Search Highlights. This includes trending news, trending videos, and trending searches.
 
@@ -34,23 +42,24 @@ thumbnail: https://thmb.techidaily.com/200bad50912773155a76642b85b00bc52b52d7ab3
 
 ![screenshot of searching for search highlights in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_highlights_in_windows_11_start_menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turning this feature off is straightforward. Open up your start menu, search for **Search Highlights**, and click on the result.
 
  If you scroll all the way down on this page, you'll see an option titled **Show Search Highlights.** Switch this to off. There are [other methods to disable Search Highlights](https://www.makeuseof.com/turn-search-highlights-on-off-windows-11), but this is the quickest one.
 
  Restart your system, and the Games for You section will be gone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Will Doing This Turn Off Other Ads?
 
 ![screenshot of the search menu with no highlights](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_of_search_menu_no_highlights.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Yes. Switching off this feature will disable all the search highlights mentioned before. You won't be suggested videos or shown trending news articles.
 
  This might be desirable if you want a cleaner search menu, but some users might enjoy the news section, but not have any use for the games section.
@@ -58,15 +67,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Unfortunately, there's no way to disable individual sections. Search Highlights is an all-in-one package.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Redundant Information on Windows
 
  For users who want less clutter on their screen, it's great that we're able to quickly turn search highlights off. For users who appreciate search highlights, but might not care for games, it's disappointing that it's an all-or-nothing setting. Hopefully, Microsoft will make this feature more modular in the future.
 
  Let's look at how we can disable the "games for you" recommendation on Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -74,3 +82,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pinnacle-workshop-moniker-composer/"><u>[Updated] In 2024, Pinnacle Workshop Moniker Composer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-best-online-hubs-sky-high-dynamic-range-photography/"><u>2024 Approved Best Online Hubs Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lg-360-camera-full-review-2023-update/"><u>2024 Approved LG 360 Camera Full Review -2023 Update</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-non-functional-intel-unison-in-windows-11/"><u>Dealing with Non-Functional Intel Unison in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-windows-iscsi-initiators-power/"><u>How to Unlock Windows iSCSI Initiator's Power</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lecture-de-dvd-sur-xbox-one-resoudre-lerreur-xbox-one-ne-lit-pas-les-dvd/"><u>Lecture De DVD Sur Xbox One: Résoudre L'Erreur 'Xbox One Ne Lit Pas Les DVD'</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-media-player-settings-for-smooth-playback/"><u>Optimizing Media Player Settings for Smooth Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-easy-windows-11-login-bypass/"><u>Techniques for Easy Windows 11 Login Bypass</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformacion-exitosa-de-video-para-mp4-usando-vlc-guia-integral/"><u>Transformación Exitosa De Video Para MP4 Usando VLC: Guía Integral</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-iphone-16-pro-from-iphone-14-pro-is-it-a-smart-move-zdnet-insights/"><u>Upgrading to iPhone 16 Pro From iPhone 14 Pro - Is It a Smart Move? | ZDNET Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-immediate-rescue-for-non-visible-sign-ins/"><u>Windows 11: Immediate Rescue for Non-Visible Sign-Ins</u></a></li>
+</ul></div>
+

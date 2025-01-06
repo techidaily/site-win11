@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes"
-date: 2024-12-21T02:50:32.843Z
-updated: 2024-12-27T21:12:45.225Z
+date: 2025-01-05T16:41:59.271Z
+updated: 2025-01-06T18:30:53.946Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -49,15 +53,15 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Start Slideshow in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-slideshow-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The slideshow will continue playing in the background even if you click on the music icon. You can press the **Spacebar** or click on the **Pause** icon to stop it.
 
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
@@ -66,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  If you want to resize the slideshow window, click on the **resize** icon. Now, snap the window to the left or right side. To close the slideshow click on the **Exit Slideshow** button in the top-left corner.
 
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
 
@@ -89,11 +89,11 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
- Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
 ## Other Improvements in the Photos App
 
@@ -104,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A Much-Needed Overhaul for Photos on Windows 11
@@ -129,22 +129,21 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-canva-enthusiasts-reveal-their-top-10-editor-steps-for-2024/"><u>[New] Canva Enthusiasts Reveal Their Top 10 Editor Steps for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-key-takeaways-from-reviewing-zdsofts-vision-recorder-for-2024/"><u>[New] Key Takeaways From Reviewing ZDSoft's Vision Recorder for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-covert-community-top-5-anonymous-viewers-for-2024/"><u>[New] The Covert Community Top 5 Anonymous Viewers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/pload-mp3-quickly-step-by-step-to-youtube-broadcasting/"><u>[New] Upload MP3 Quickly Step-by-Step to YouTube Broadcasting</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-a-closer-look-at-high-end-vr-walking-machines/"><u>2024 Approved A Closer Look at High-End VR Walking Machines</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-speedy-resizing-your-youtube-videos-for-mac-view/"><u>2024 Approved Speedy Resizing Your Youtube Videos for Mac View</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/pre-written-by-daniel-kelley-for-2024/"><u>A Compre Written by Daniel Kelley for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-wu-and-orchestrator-integration/"><u>Deciphering WU & Orchestrator Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-visibility-a-cursor-guide-for-win10-and-11/"><u>Enhancing Visibility: A Cursor Guide for Win10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-control-win11-rgb-settings/"><u>How to Control Win11 RGB Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-the-error-xc0f1103f-from-your-win11-and-geforce/"><u>How to Eradicate the Error Xc0f1103f From Your Win11 & GeForce</u></a></li>
-<li><a href="https://win11.techidaily.com/making-windows-11-update-problems-non-existent/"><u>Making Windows 11 Update Problems Non-Existent</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/popular-free-photography-and-film-archives/"><u>Most Popular Free Photography and Film Archives</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-installer-needs-more-access-rights-in-windows/"><u>Overcoming Installer Needs More Access Rights in Windows</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/prime-film-unveiling-series-for-2024/"><u>Prime Film Unveiling Series for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tracking-credential-success-in-windows-computers-securely/"><u>Tracking Credential Success in Windows Computers Securely</u></a></li>
-<li><a href="https://win11.techidaily.com/your-guide-to-safest-free-software-for-windows-devices/"><u>Your Guide to Safest Free Software for Windows Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-bring-your-ideas-to-life-a-practical-guide-to-screen-recording-on-macos-for-2024/"><u>[New] Bring Your Ideas to Life A Practical Guide to Screen Recording on MacOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unveiling-igtv-insights-key-measures-for-effective-content/"><u>[New] In 2024, Unveiling IGTV Insights Key Measures for Effective Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-integrated-activity-evaluation-guide/"><u>[New] Integrated Activity Evaluation Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-mastering-srt-output-from-adobe-premiere-for-2024/"><u>[Updated] Mastering SRT Output From Adobe Premiere for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlocking-visual-richness-switching-to-hdr-technology/"><u>[Updated] Unlocking Visual Richness Switching to HDR Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-printer-problems-fast-win11-fixed/"><u>Eliminate Printer Problems Fast: Win11 Fixed</u></a></li>
+<li><a href="https://win11.techidaily.com/guarding-your-gateway-identifying-authenticity-in-windows-apps/"><u>Guarding Your Gateway: Identifying Authenticity in Windows Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-se-2022-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your iPhone SE (2022)</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-integration-establishing-a-linux-environment-on-windows-host/"><u>Hyper-V Integration: Establishing a Linux Environment on Windows Host</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-virtualbox-on-windows-set-up-the-dependencies-first-for-error-free-installation/"><u>Installing VirtualBox on Windows? Set Up the Dependencies First for Error-Free Installation</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-gameplay-solving-dragons-dogma-iis-low-fps-woes/"><u>Optimizing Your Gameplay: Solving Dragon's Dogma II's Low FPS Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-background-deletion-in-paint-3d/"><u>Pro Tips for Background Deletion in Paint 3D</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-immediate-edge-tabs-in-win11/"><u>Sidestep Immediate Edge Tabs in Win11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-14-pro-max-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 14 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-review-of-linksys-wrt3200acm-router-unleashing-the-potential-of-open-source-wifi-solutions/"><u>The Ultimate Review of Linksys WRT3200ACM Router: Unleashing the Potential of Open Source WiFi Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-dev-drive-potentials-in-windows-11-development/"><u>Unlocking Dev Drive Potentials in Windows 11 Development</u></a></li>
 </ul></div>
 

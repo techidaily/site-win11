@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of a Fresh Windows Update Start
-date: 2024-08-23T06:12:37.947Z
-updated: 2024-08-24T06:12:37.947Z
+date: 2024-12-30T18:19:56.696Z
+updated: 2025-01-06T18:50:54.089Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/965654acbd64cd762e18be6423e980e53d1c3fa7d
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Reset the Windows Update Components Manually
 
  The most common method for resetting Windows Update components is through the Command Prompt. Here are the steps you can follow.
@@ -33,6 +37,11 @@ net stop appidsvc
 net stop cryptsvc`  
 ![Reset Windows Update Components Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-windows-update-components-using-command-prompt.jpg)
 4. Run the following command to delete the **qmgr\*.dat** files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Del "%ALLUSERSPROFILE%\Application Data\Microsoft\Network\Downloader\*.*"`
 5. Enter **Y** to confirm.
 
@@ -90,6 +99,10 @@ net start appidsvc
 net start cryptsvc`
 
  Close the Command Prompt window and restart your PC to apply the changes. If you're interested in discovering more useful commands, check our guide on the [best Command Prompt commands](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/) for Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Reset the Windows Update Components Using a Batch File
 
@@ -154,6 +167,11 @@ net start cryptsvc`
 4. Click the **File** menu at the top, then **Save as**.  
 ![Save a Notepad File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/save-a-notepad-file.jpg)
 5. Enter **Reset Windows Components.bat** in the name field and specify your preferred location for saving the file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Save as type** drop-down menu to select **All files**, then click on **Save**.
 7. Locate the saved batch file on your PC. Right-click on it and select **Run as administrator** from the context menu.
 8. Select **Yes** when the User Account Control (UAC) prompt appears.  
@@ -162,15 +180,14 @@ net start cryptsvc`
  Once you've executed the batch file, feel free to keep it around. That way, the next time you encounter problems with Windows Update, you can run the file again without having to repeat the above steps.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Reset the Windows Update Components to Fix Problems
 
  Downloading and installing Windows updates may not always be smooth. In such cases, resetting the Windows Update components can prove effective. However, if that doesn't work, you may have to try your luck with other Windows Update fixes.
 
  This guide will provide a detailed walkthrough for both methods, allowing you to effectively reset the Windows Update components.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +195,25 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-spotlight-on-professional-shoots-innovative-lighting-techniques/"><u>[Updated] Spotlight on Professional Shoots Innovative Lighting Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-perfectly-inserting-songs-on-instagram-stories/"><u>[Updated] Step-by-Step Perfectly Inserting Songs on Instagram Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-display-dynamics-customizing-win-1011-wallpapers-per-monitor/"><u>Dual-Display Dynamics: Customizing Win 10/11 Wallpapers per Monitor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-free-update-strategies-for-windows-10-with-error-code-0x800f0922-top-8-fixes-you-need-to-try/"><u>Error-Free Update Strategies for Windows 10 with Error Code 0X800f0922 – Top 8 Fixes You Need to Try!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-ai-and-rust-with-linus-torvalds-the-essential-role-of-the-linux-kernel/"><u>Exploring AI & Rust with Linus Torvalds: The Essential Role of the Linux Kernel</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-windows-update-breakdown-at-0e0845/"><u>Fixing the Windows Update Breakdown at 0E0845</u></a></li>
+<li><a href="https://win11.techidaily.com/get-direct-access-to-your-assistive-tools-in-windows/"><u>Get Direct Access to Your Assistive Tools in Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-tecno-spark-20-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Tecno Spark 20 to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-virtualization-hyper-v-setup-for-win11/"><u>Mastering Virtualization: Hyper-V Setup for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-win11-setting-up-next-to-power-button-shortcuts/"><u>Mastering Win11: Setting Up Next to Power Button Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-prevent-discord-auto-updater-trigger-at-startup/"><u>Method to Prevent Discord Auto-Updater Trigger at Startup</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-homes-unveiling-apples-plans-for-a-futuristic-robotic-companion/"><u>Revolutionizing Homes: Unveiling Apple's Plans for a Futuristic Robotic Companion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-solving-the-dark-display-problem-in-persona-5-strikers-gameplay/"><u>Troubleshooting and Solving the Dark Display Problem in Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-selecting-the-ideal-dj-controller-for-unforgettable-karaoke-nights-with-pcdj/"><u>Ultimate Guide: Selecting the Ideal DJ Controller for Unforgettable Karaoke Nights with PCDJ</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-windows-11-navigating-mac-retrieval-methods/"><u>Unveiling Windows 11: Navigating MAC Retrieval Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-and-ftdibussys-the-memory-integrity-conflict-unveiled/"><u>Windows and ftdibus.sys: The Memory Integrity Conflict Unveiled</u></a></li>
+</ul></div>
+

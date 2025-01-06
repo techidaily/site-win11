@@ -1,7 +1,7 @@
 ---
 title: Designing Your Own Terminal Schemes in WT
-date: 2024-12-25T16:05:16.422Z
-updated: 2024-12-27T18:31:27.994Z
+date: 2025-01-04T18:29:16.031Z
+updated: 2025-01-06T18:38:59.416Z
 tags:
   - windows10
   - windows11
@@ -32,27 +32,28 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 1. Right-click**Start** and select**Terminal** .  
 ![opening windows terminal from the power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-open-start.jpg)
 2. In the tab bar at the top, click on the**dropdown arrow** and select**Settings** from the menu.  
-![opening the settings of windows terminal from the title bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-tab-settings.jpg)
-3. On the left side menu, select**Color Schemes** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![opening the settings of windows terminal from the title bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-tab-settings.jpg)
+3. On the left side menu, select**Color Schemes** .
 
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
 5. Under**Terminal colors** or**System colors** , you’ll see several options, such as**Black** ,**Red** ,**White** ,**Foreground** , and**Background** , with a color next to them. Click on the color to bring up the editor.  
 ![the windows terminal color schemes page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-color-scheme.jpg)
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
@@ -66,15 +67,11 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
@@ -89,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
@@ -115,16 +116,15 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-video-storage-of-snapchat-stories/"><u>[Updated] 2024 Approved Mastering Video Storage of Snapchat Stories</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-adobe-premiere-and-youtube-uploads/"><u>2024 Approved The Ultimate Guide to Adobe Premiere and YouTube Uploads</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-code-0xa00f4289-webcam-glitches-on-win1011/"><u>Correcting Code 0xA00F4289: Webcam Glitches on Win10/11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expedite-visuals-drawing-and-enhancing-with-windows-photos-app/"><u>Expedite Visuals Drawing & Enhancing with Windows Photos App</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-enhancing-engagement-through-effective-video-strategies-on-fb/"><u>In 2024, Enhancing Engagement Through Effective Video Strategies on FB</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-tech-legacy-for-windows-11-22h2-compatibility/"><u>Jumpstart Tech Legacy for Windows 11 22H2 Compatibility</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr-2-unveiled-detailed-insights-on-price-points-market-arrival-and-hardware-capabilities/"><u>PSVR 2 Unveiled: Detailed Insights on Price Points, Market Arrival & Hardware Capabilities</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Pro Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/stripping-decorative-elements-from-window-search-ui/"><u>Stripping Decorative Elements From Window Search UI</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-errors-forbidden-explained/"><u>Tackling Windows Errors: Forbidden Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-best-apps-to-skyrocket-your-productivity-on-windows-11-or-11/"><u>The 5 Best Apps to Skyrocket Your Productivity on Windows 11 or 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[New] Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximize-your-valorant-potential-try-this-costless-game-changer-today/"><u>[New] In 2024, Maximize Your Valorant Potential - Try This Costless Game Changer Today</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-premium-pages-on-mobile-best-ig-covers-app-for-2024/"><u>[New] Premium Pages on Mobile Best IG Covers App for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/engaging-enhanced-widget-picker-functionality-in-windows-11/"><u>Engaging Enhanced Widget Picker Functionality in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-amd-195-software-installer-cannot-continue-error-on-windows/"><u>How to Fix the AMD 195 Software Installer Cannot Continue Error on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-7-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/inhibit-tracking-of-windows-application-startups/"><u>Inhibit Tracking of Windows Application Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-stealthy-item-access-windows-11s-secret-menu-guide/"><u>Mastering Stealthy Item Access: Windows 11'S Secret Menu Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-new-service-raises-questions-about-its-impact/"><u>Nvidia's New Service Raises Questions About Its Impact</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-web-apps-to-enhance-your-ai-prompt-crafting-abilities/"><u>Ultimate List of Web Apps to Enhance Your AI Prompt Crafting Abilities</u></a></li>
 </ul></div>
 

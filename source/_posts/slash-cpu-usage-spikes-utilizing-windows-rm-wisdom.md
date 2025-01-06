@@ -1,7 +1,7 @@
 ---
 title: "Slash CPU Usage Spikes: Utilizing Window's RM Wisdom"
-date: 2024-08-23T06:09:57.856Z
-updated: 2024-08-24T06:09:57.856Z
+date: 2024-12-30T20:46:42.625Z
+updated: 2025-01-06T20:10:23.830Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  So, let's take a look at some use cases of the Resource Monitor application on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does the Resource Monitor Utility on Windows do?
 
  You may have experienced the headache of a Windows PC slowing to a crawl due to high CPU usage. Generally, CPU usage increases due to either background processes or heavy applications currently running on your system. The good news is that you can easily pinpoint which apps or services are consuming your CPU cycles. This is where Windows' built-in Resource Monitor tool comes in handy.
@@ -37,11 +41,12 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![Resource Monitor Overview Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-overview-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Combined, these categories give you full visibility into all hardware resource consumption by every process and service. If you’re not a technical geek, you can still get some useful information from there for troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Troubleshoot High CPU Usage With the Resource Monitor
 
  In the event of an unresponsive, sluggish computer, the first step is to [open the Resource Monitor](https://www.makeuseof.com/windows-11-open-resource-monitor/) and check the **CPU** tab.
@@ -50,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![Resource Monitor CPU Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-cpu-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  The CPU history graphs at the top show overall CPU usage over time, broken down by category. If you see a blue-colored spike, it indicates that there was a sudden increase in CPU usage. This could be due to a specific process or application consuming a considerable portion of your overall CPU resources.
 
  On your left side, click the **CPU** column header to sort processes in descending order of current CPU usage. Note that the numbers are just the percentage of the process consuming the CPU. So, a higher number means it's consuming more CPU power than others.
@@ -60,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
  If your system is slow, and you’re unable to use Resource Monitor, check [how to fix Resource Monitor on Windows](https://www.makeuseof.com/how-to-fix-resource-monitor-not-working-windows-11/) for help.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Diagnose a Slow Internet Connection With the Resource Monitor
 
  Resource Monitor also makes it easy to determine if network connectivity issues like slow internet or high latency are being caused by a bandwidth-hogging application.
@@ -71,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 ![Resource Monitor Network Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-network-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With network-related metrics isolated per process, Resource Monitor helps simplify diagnosing connectivity slowdowns. After that, you can also read [how to fix a slow internet connection on Windows](https://www.makeuseof.com/tag/fix-internet-speed-windows-tweaks/) to learn more useful ways.
 
 ## 3\. How to Check Disk Activity With the Resource Monitor
@@ -85,11 +89,12 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![Resource Monitor Disk Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-disk-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're unable to decide which process to stop, please check out [how to fix high disk usage](https://www.makeuseof.com/tips-fix-100-disk-usage-improve-windows-performance/) to improve your disk's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Find Memory-Consuming Processes With the Resource Monitor
 
  Available memory is as important to performance as CPU and disk resources. A memory leak can bring even the beefiest system to its knees. The best part is that Resource Monitor provides you with enough details to [troubleshoot your system’s memory](https://www.makeuseof.com/windows-computer-low-memory/).
@@ -98,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
 ![Resource Monitor Memory Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/resource-monitor-memory-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Free** and **In Use** memory count display the amount of memory currently unused and the amount used by the system, respectively. If you see the In Use memory count rising too high, make sure to close some unnecessary running programs.
 
  On the other side, if the values of Hard Faults/sec are higher (click on its name to sort), it indicates that your system is experiencing memory pressure. In simple terms, a higher value shows that your system is relying on virtual memory to compensate for the lack of physical RAM.
@@ -121,11 +123,31 @@ thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec4
 
  So, let's take a look at some use cases of the Resource Monitor application on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-snapshots-to-delights-viral-eats-you-need-in-your-life/"><u>[New] 2024 Approved From Snapshots to Delights Viral Eats You Need in Your Life</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-iphone-and-ipad-best-screen-recording-software/"><u>[New] 2024 Approved IPhone & iPad Best Screen Recording Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimizing-googles-automatic-speech-recognition-features/"><u>[New] 2024 Approved Optimizing Google's Automatic Speech Recognition Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-record-everything-on-your-phone-without-paying-a-penny-for-2024/"><u>[New] Record Everything on Your Phone Without Paying a Penny for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-easier-life-with-older-os-ditching-sierra-for-el-capitan/"><u>[Updated] In 2024, Easier Life with Older OS Ditching Sierra for El Capitan</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-schritt-fur-schritt-anleitung-zum-erstellungsvorgang-von-ipod-touch-backups-auf-dem-pc-oder-im-icloud/"><u>1. Schritt-Für-Schritt Anleitung Zum Erstellungsvorgang Von IPod Touch Backups Auf Dem PC Oder Im iCloud</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-poco-c55-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Poco C55 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-steam-deck-with-essential-launcher-tools/"><u>Boost Your Steam Deck with Essential Launcher Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/designed-permanent-file-wastebasket-for-windows-desktops-win1011/"><u>Designed Permanent File Wastebasket for Windows Desktops (Win10/11)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-license-termination-alert-in-windows-1011/"><u>Eliminating License Termination Alert in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-admin-restricted-security-error/"><u>Overcoming Windows: Admin-Restricted Security Error</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prepare-to-impress-integrating-chatgpt-in-interview-practice/"><u>Prepare to Impress: Integrating ChatGPT in Interview Practice</u></a></li>
+<li><a href="https://win11.techidaily.com/sky-high-achievement-essential-widgets-boosting-win-11-output/"><u>Sky-High Achievement: Essential Widgets Boosting Win 11 Output</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-seamless-icons-on-pcs/"><u>The Key to Seamless Icons on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/time-machine-troubleshooting-and-restoring-windows-time-service/"><u>Time Machine: Troubleshooting and Restoring Windows Time Service</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-activate-audio-during-powerpoint-video-captures/"><u>Tips to Activate Audio During PowerPoint Video Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-pagefilesys-role-in-windows-os/"><u>Understanding Pagefile.sys Role in Windows OS</u></a></li>
+</ul></div>
+

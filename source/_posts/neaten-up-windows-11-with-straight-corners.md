@@ -1,7 +1,7 @@
 ---
 title: Neaten Up Windows 11 with Straight Corners
-date: 2024-12-21T19:14:53.640Z
-updated: 2024-12-27T20:54:40.616Z
+date: 2025-01-02T17:19:45.838Z
+updated: 2025-01-06T17:46:00.651Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Disable Rounded Corners in Windows 11 Using a Third-Party Tool
@@ -40,18 +40,18 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 ![Microsoft Defender SmartScreen Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-smartscreen-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, a PowerShell window should appear and disable rounded corners on your PC. Here’s a glimpse of how your windows will look once the rounded corners are disabled.
 
 ![Square Corners in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/square-corners-in-windows-11.jpg)
 
- Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that this tool will not disable rounded corners in the Start menu or some modern apps. If you want to revert the changes later, simply run the downloaded EXE file again.
 
 ## 2\. How to Disable Rounded Corners in Windows 11 Using the Registry Editor
 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
  If you want to reverse the above change later, repeat the same steps mentioned earlier and change the value data for the **UseWindowFrameStagingBuffer** to **1**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Disable Rounded Corners in Windows 11 via Device Manager
 
  Another way to remove rounded corners in Windows 11 is by disabling the graphics driver on your PC. However, it is important to consider a few caveats. Firstly, disabling the graphics driver will result in reduced display performance, lower screen resolutions, and the deactivation of any visual effects. Secondly, this will also prevent you from running any graphics-intensive applications or games on your PC.
@@ -86,10 +82,14 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 4. Right-click on your display driver and select **Disable device**.  
 ![Disable Graphics Driver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-graphics-driver-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the graphics driver is disabled, you should see square corners on all windows and menus in Windows 11\. If you want to undo this change later, simply enable the graphics driver via Device Manager.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disabling Rounded Corners in Windows 11 Is Easy
@@ -110,21 +110,16 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-magic-of-moving-texts-a-guide-for-insta-pros/"><u>[New] 2024 Approved Unveiling the Magic of Moving Texts A Guide for Insta Pros</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-archiving-your-media-best-practices-for-mov-files-on-windows-pcs/"><u>[New] Archiving Your Media Best Practices for .mov Files on Windows PCs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-friendly-facebook-files-your-free-fb-link-download-aids-for-2024/"><u>[New] Friendly Facebook Files - Your Free FB Link Download Aids for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/igh-ranking-videos-youtubes-everlasting-classics/"><u>[New] High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-10-web-based-subtitle-editor-tools-for-2024/"><u>[New] Top 10 Web-Based Subtitle Editor Tools for 2024</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/windows-n/"><u>無論何時，Windows N變得不穩定 -- 我保證有方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/evolving-shopper-behavior-in-vr-realms/"><u>Evolving Shopper Behavior in VR Realms</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-printer-id-clashes-in-windows/"><u>Handling Printer ID Clashes in Windows</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-mastering-morphvox-transformation-top-techniques-revealed/"><u>In 2024, Mastering MorphVOX Transformation Top Techniques Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-flourish-windows-subsystem-effect/"><u>Linux Flourish: Windows Subsystem Effect?</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-fixing-windows-1011-filesystem-issues/"><u>Navigating and Fixing Windows 10/11 Filesystem Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/secure-source-for-legal-conversion-expertly-convert-dvds-to-mp4-using-winx-dvd-ripper-platinum-fast-safe-and-efficient/"><u>Secure Source for Legal Conversion: Expertly Convert DVDs to MP4 Using WinX DVD Ripper Platinum – Fast, Safe & Efficient!</u></a></li>
-<li><a href="https://win11.techidaily.com/shake-off-frozen-clicks-top-6-tips-for-windows-users/"><u>Shake Off Frozen Clicks: Top 6 Tips for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocketing-output-5-essential-windows-productivity-hacks/"><u>Skyrocketing Output: 5 Essential Windows Productivity Hacks</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-win11-cc-troubleshooting-made-easy/"><u>Step-by-Step Guide: Win11 CC Troubleshooting Made Easy</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-windows-11-potential-mastering-the-run-command-enhancement/"><u>Unlock Windows 11 Potential: Mastering the Run Command Enhancement</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieve-flawless-live-videos-with-strategic-obs-utilization/"><u>[New] Achieve Flawless Live Videos with Strategic OBS Utilization</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-creating-compelling-solo-videos-on-a-budget/"><u>[Updated] 2024 Approved Creating Compelling Solo Videos on a Budget</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-tips-for-converting-your-favorite-videos-into-animated-shareable-gifs-for-2024/"><u>[Updated] Expert Tips for Converting Your Favorite Videos Into Animated, Shareable GIFs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/comparative-analysis-of-windows-video-encoders/"><u>Comparative Analysis of Windows Video Encoders</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/movavis-trouble-free-solution-convert-your-mkv-files-without-cost/"><u>Movavi's Trouble-Free Solution: Convert Your MKV Files Without Cost</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-access-denial-with-steam-and-win11/"><u>Overcoming File Access Denial with Steam and Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/pc-audio-logging-made-simple-install-x-recorder/"><u>Pc Audio Logging Made Simple Install X-Recorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-adding-windows-hello-to-your-pc/"><u>Quick Start: Adding Windows Hello to Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-disabled-recycle-icon-on-windows-11/"><u>Reviving Disabled Recycle Icon on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-non-display-of-cameras-in-device-manager/"><u>Solve Non-Display of Cameras in Device Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-enhancements-for-surface-pcs/"><u>Streamlining System Enhancements for Surface PCs</u></a></li>
 </ul></div>
 

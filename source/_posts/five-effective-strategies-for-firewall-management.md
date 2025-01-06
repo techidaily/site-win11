@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Firewall Management
-date: 2024-12-20T17:23:24.140Z
-updated: 2024-12-27T18:29:12.051Z
+date: 2025-01-05T16:19:24.154Z
+updated: 2025-01-06T18:52:22.069Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,11 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -59,7 +63,7 @@ netsh advfirewall reset
  Wait for the process to complete. From there, restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Use Windows PowerShell
@@ -67,7 +71,7 @@ netsh advfirewall reset
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
@@ -81,10 +85,6 @@ netsh advfirewall reset
 (New-Object -ComObject HNetCfg.FwPolicy2).RestoreLocalFirewallDefaults()
 
  Wait for the process to complete, and then restart your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use the Windows Security App
 
@@ -101,7 +101,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -150,19 +150,24 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-efficient-methods-to-block-facebook-adverts/"><u>[New] 2024 Approved Efficient Methods to Block Facebook Adverts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-lava-yuva-2-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lava Yuva 2 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-error-0x80246007-in-w10w11/"><u>Deciphering and Dismantling Error 0X80246007 in W10/W11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-get-rid-of-offscreen-applications-on-your-pc-no-control-panel-needed/"><u>How to Get Rid of Offscreen Applications on Your PC - No Control Panel Needed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-discover-effortless-pathways-to-dynamic-snaps/"><u>In 2024, Discover Effortless Pathways to Dynamic Snaps</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-future-of-remote-collaboration-googles-new-workplace-video-calls-with-magic-window-technology-derived-from-project-starline-detailed-review-144/"><u>Introducing the Future of Remote Collaboration: Google's New Workplace Video Calls with 'Magic Window' Technology Derived From Project Starline, Detailed Review and Benefits Explained on ZDNet.</u></a></li>
-<li><a href="https://win11.techidaily.com/recovering-from-frozen-windows-itunes-a-step-by-step-approach/"><u>Recovering From Frozen Windows iTunes: A Step-by-Step Approach</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-10c-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 10C</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-art-of-hdr-enhancement-your-lightroom-journey/"><u>The Art of HDR Enhancement Your Lightroom Journey</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-complete-powerdirector-2024-users-handbook/"><u>The Complete PowerDirector 2024 User's Handbook</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-18-unbeatable-primeside-tech-bargains-exclusive-offers-on-hp-apple-and-razer-limited-time-only/"><u>Top 18 Unbeatable Primeside Tech Bargains: Exclusive Offers on HP, Apple & Razer - Limited Time Only!</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-ai-in-windows-11-the-co-pilot-effect/"><u>Understanding AI in Windows 11: The Co-Pilot Effect</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-roblox-error-403-on-windows/"><u>Unraveling Roblox Error 403 on Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-compreranium-unpacking-apeaksoft-screen-tech-2023-edition/"><u>[New] 2024 Approved Compreranium Unpacking Apeaksoft Screen Tech, 2023 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-proven-methods-for-effective-screen-capture-using-adobe-captive-toolkit/"><u>[New] 2024 Approved Proven Methods for Effective Screen Capture Using Adobe Captive Toolkit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-explore-top-5-ps2-games-simulators-for-ios/"><u>[New] Explore Top 5 PS2 Games Simulators for iOS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-final-cut-pros-essential-toolkit-the-top-10-plugin-list/"><u>[New] In 2024, Final Cut Pro's Essential Toolkit The Top 10 Plugin List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-vllevaluation-insight-into-app-quality/"><u>[New] In 2024, VLLEvaluation Insight Into App Quality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-top-5-drone-vr-set-matchups/"><u>[Updated] Exclusive Top 5 Drone-VR Set Matchups</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/gif/"><u>「消えたGIFの復活術：二つの簡単な解法」</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/effortless-aac-upgrade-from-wma-on-the-web-discover-how-movavi-can-help-you/"><u>Effortless AAC Upgrade From WMA on the Web: Discover How Movavi Can Help You!</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-zero-cost-gems-for-flourishing-windows-11-pcs/"><u>Essential Zero-Cost Gems for Flourishing Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-progress-epic-games-backup-essentials/"><u>Preserving Progress: Epic Games Backup Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-how-to-solve-error-0x00000001-with-xbox-game-pass-and-windows-11/"><u>Quick Guide: How to Solve Error 0X00000001 with Xbox Game Pass and Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-spotify-link-troubles-with-win11/"><u>Resolving Spotify Link Troubles with Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-print-sharing-snags-with-step-by-step/"><u>Solving Print Sharing Snags with Step-by-Step</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-your-computer-restart-the-windows-11-fast-startup-guide/"><u>Speeding Up Your Computer Restart: The Windows 11 Fast Startup Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stop-the-flash-7-proven-methods-to-fix-a-shimmering-mobile-device-display/"><u>Stop the Flash: 7 Proven Methods to Fix a Shimmering Mobile Device Display</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-phone-pc-connection-with-windows-11/"><u>Streamlining the Phone-PC Connection with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-charge-of-yourphoneexe-on-windows-xpvista/"><u>Taking Charge of YourPhoneExe on Windows XP/Vista</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-starting-afresh-with-windows-11-installation/"><u>The Art of Starting Afresh with Windows 11 Installation</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 

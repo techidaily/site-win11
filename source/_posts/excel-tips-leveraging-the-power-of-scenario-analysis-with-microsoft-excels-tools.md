@@ -1,7 +1,7 @@
 ---
 title: "Excel Tips: Leveraging the Power of Scenario Analysis with Microsoft Excel’s Tools"
-date: 2024-08-28T00:49:31.870Z
-updated: 2024-08-29T00:49:31.870Z
+date: 2025-01-04T18:28:49.160Z
+updated: 2025-01-06T16:01:46.611Z
 tags:
   - excel
 categories:
@@ -36,9 +36,17 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
 
 ![What-If Analysis on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataWhatIfScenarioManager-ExcelScenarioManager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Scenario Manager window, click "Add" to include this first scenario.
 
 ![Add the first scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddScenario-ExcelScenarioManager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Give your scenario a name; we'll use Job 1.
 
@@ -58,6 +66,10 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Add the second scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddSecondScenario-ExcelScenarioManager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the same steps to give the scenario a name and enter the Changing Cells. The changing cells will likely be the same cell references since you are comparing situations. However, you may use different or additional cells than those shown if necessary. Click "OK."
 
 ![Scenario details box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddSecondScenarioDetails-ExcelScenarioManager.png) 
@@ -65,6 +77,10 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
  Now, enter the values for the second scenario in the box (not in the sheet). For our example, we enter the salary (B2) and fuel cost (B3) for Job 2\. Remember, these are the two variables that change and that we are comparing. Click "OK."
 
 ![Changing cells for a scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddSecondScenarioCells-ExcelScenarioManager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you have both scenarios set up and should see them in the Scenario Manager window.
 
@@ -85,8 +101,9 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
  When you land on the one you want to keep in your sheet, make sure it's displayed there and click "Close" in the Scenario Manager window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Notes on the Scenario Manager
 
  You can set up as many scenarios as you like and switch between them the same way. This is handy for comparing 3, 5, or 10 different numeric or [financial situations](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
@@ -101,9 +118,6 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
 
 ![Scenario Summary report](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/ScenarioSummary-ExcelScenarioManager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can select a Scenario [PivotTable](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/) Report instead of a Summary Report if you like.
 
  Before you spend time swapping out values manually to [find the best solution](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) to your situation, be sure to check out the Scenario Manager in Excel. It truly makes comparisons a breeze!
@@ -116,8 +130,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +137,21 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-scripted-shutdown-of-stories/"><u>[New] The Scripted Shutdown of Stories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-speech-to-text-a-complete-free-workshop-on-youtube-transcription-for-2024/"><u>[Updated] From Speech to Text A Complete, FREE Workshop on YouTube Transcription for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[Updated] In 2024, 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-manipulating-photography-captions/"><u>2024 Approved Manipulating Photography Captions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-setup-for-your-safety-first-workspace-win-11/"><u>Effortless Setup for Your Safety-First Workspace (Win 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11s-systemsettings-issues/"><u>Fixing Windows 11'S SystemSettings Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-activate-microsoft-paint-windows-11-edition/"><u>Guide to Activate Microsoft Paint, Windows 11 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-clash-for-dominance-leading-royale-games/"><u>In 2024, Clash for Dominance Leading Royale Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-motorola-moto-g-5g-2023-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Motorola Moto G 5G (2023) Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-dealing-with-your-license-is-about-to-end-in-win11/"><u>Steps for Dealing with 'Your License Is About to End' In Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-pathway-to-stunning-window-display-quality/"><u>The Ultimate Pathway to Stunning Window Display Quality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tournez-facilement-votre-fichier-mp4-en-aac-gratuitement-sur-internet-via-le-site-de-movavi-experience-utilisateur-optimisee/"><u>Tournez Facilement Votre Fichier MP4 en AAC Gratuitement Sur Internet via Le Site De Movavi – Expérience Utilisateur Optimisée!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-a-path-to-resolve-windows-mail-error-0x800713f-quickly/"><u>Unlocking a Path to Resolve Windows Mail Error (0X800713F) Quickly</u></a></li>
+</ul></div>
 

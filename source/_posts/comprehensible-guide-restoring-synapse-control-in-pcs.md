@@ -1,7 +1,7 @@
 ---
 title: "Comprehensible Guide: Restoring Synapse Control in PCs"
-date: 2024-12-25T23:42:28.889Z
-updated: 2024-12-28T00:59:17.553Z
+date: 2025-01-03T18:01:46.443Z
+updated: 2025-01-06T17:09:39.354Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,17 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 4. Select the checkbox labeled **Run this program in compatibility** **mode**.  
 ![The Run this program in compatibility mode for checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/run-this-program-in-compatibility-mode.jpg)
 5. Choose **Windows 8** on the compatibility drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press **Apply** to set the new compatibility setting.
 7. Click **OK** to exit Synapse’s properties window.
 
 ## 2\. Set Synapse to Run as An Administrator
 
  A lack of system admin permissions can sometimes be a cause for Razer Synapse not working. To address that, open the **Compatibility** tab for Synapse as covered within steps one to three of the previous resolution. Select the **Run as administrator** option on the Compatibility tab and click **Apply** \> **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Select to Repair Razer Synapse
 
@@ -56,11 +57,11 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 ![The Change button for Razer Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-button.jpg)
 4. Press the **Repair** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Repair button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-repair-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Start or Restart the Razer Services
 
@@ -76,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 ![The Razer Synapse Service Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-service-properties-window.jpg)
 6. Select **Apply** to save the Razer Synapse Service settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Press **OK** to exit the service window.
 8. Repeat steps three to seven for the Razer Central Service.
 9. If those services are already running when you check them, right-click on them and select **Restart**. Or you can open the properties windows for the services and click Stop and Start.
@@ -90,12 +95,12 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 ![The AppData folder in Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/appdata-folder-in-explorer-s-address-bar.jpg)
 4. Double-click the **Local** folder to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click the **Razer** folder in that directory to select **Delete**.  
 ![The Delete option for the Razer folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-delete-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.8.1
 
@@ -111,11 +116,11 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 ![The Microsoft .NET Framework setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-net-framework-box.jpg)
 6. Click **Install** to proceed with the .NET Framework 4.8.1 installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also try repairing the current .NET Framework installation on your PC. To do so, check out our guide to [repairing .NET Framework on Windows PCs](https://www.makeuseof.com/windows-repair-net-framework/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Disable Firewalls
 
@@ -131,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
  Razer Surround is an optional module of the Synapse software. If you’ve installed that module, consider removing it to ensure it does not conflict with the Synapse app. You can uninstall the Razer Surround app with the Programs and Features Control Panel applet as outlined in this guide to [removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Reinstall Razer Synapse
 
  If other potential resolutions don’t fix Razer Synapse not working, corrupted or missing software files could be causing the issue. In this case, a reinstallation of Synapse will likely be required. To remove the software, click the **Change** button for Synapse in Programs and Features, as outlined for the first three steps of this guide’s third method, and select **Uninstall**.
@@ -144,13 +145,13 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 ![The Download Now button for Razer Synapse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/razer-synapse-download-now-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then go to this [Synapse page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2030373&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fgb-en%2Fsynapse-3), click **Download Now**, and install the software by double-clicking the **RazerSynapseInstaller** file. When reinstalling Synapse, don’t install any superfluous optional modules, such as Razer Surround. Select to only install Razer Synapse.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Manage Your Razer Devices With Synapse Again
@@ -169,16 +170,22 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-value-in-the-marketplace-for-quality-cost-effective-microphones/"><u>[New] Best Value in the Marketplace for Quality, Cost-Effective Microphones</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-scripture-melodies-on-your-phone/"><u>[Updated] Step-by-Step Scripture Melodies on Your Phone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/descubra-as-maiores-ferramentas-de-filtro-slow-motion-no-android-e-ios-numero-1-a-10/"><u>Descubra as Maiores Ferramentas De Filtro Slow-Motion No Android E iOS: Número 1 a 10</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-issues-with-windows-11-search-bar/"><u>Eliminate Issues with Windows 11 Search Bar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-a1x-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo A1x 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-windows-aggregatorhostexe-functionalities-and-security/"><u>Insight Into Windows' AggregatorHost.exe: Functionalities and Security</u></a></li>
-<li><a href="https://win11.techidaily.com/nearby-share-guide-for-dual-os-connectivity/"><u>Nearby Share Guide for Dual OS Connectivity</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-final-cut-pro-saving-cheat-sheet/"><u>New The Ultimate Final Cut Pro Saving Cheat Sheet</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11s-zero-a00f-camera-application-issue/"><u>Overcoming Windows 11'S Zero-A00F Camera Application Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-after-successful-login-failed/"><u>Unlocking Windows After Successful Login Failed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expert-insights-into-synchronizing-desktops-in-google-meet-for-2024/"><u>[New] Expert Insights Into Synchronizing Desktops in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ideal-ae-text-sets-for-professional-work/"><u>[Updated] 2024 Approved Ideal AE Text Sets for Professional Work</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-proven-techniques-for-identifying-professional-video-artists/"><u>[Updated] 2024 Approved Proven Techniques for Identifying Professional Video Artists</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-vocal-variations-for-stories-and-reels-an-instagram-expertise/"><u>2024 Approved Vocal Variations for Stories and Reels – An Instagram Expertise</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>2024 Approved Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-webinar-guide-host-without-spending/"><u>2024 Approved YouTube Webinar Guide Host Without Spending</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-installation-and-maintenance-with-windows-package-manager/"><u>Comprehensive Installation & Maintenance with Windows Package Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-editors-interface-incorporate-wordpad-triggers-in-windows-11s-menu/"><u>Enhancing Editors' Interface: Incorporate WordPad Triggers in Windows 11’S Menu</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 mini</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-low-mp-challenges-in-iphone-photography/"><u>Overcoming Low-MP Challenges in iPhone Photography</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-restart-and-shutdown-issues-from-faulty-applications-in-windows/"><u>Overcoming Restart and Shutdown Issues From Faulty Applications in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-dysfunctional-windows-keyboard-keys/"><u>Realigning Dysfunctional Windows Keyboard Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-dormant-ccleaner-in-windows-11-systems/"><u>Reviving Dormant CCleaner in Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-your-progress-how-to-avoid-forced-closure-by-roblox/"><u>Saving Your Progress: How to Avoid Forced Closure by Roblox</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-revitalize-old-hardware-with-windows-11-22h2/"><u>Steps to Revitalize Old Hardware with Windows 11 22H2</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/top-2-techniques-pour-recuperer-des-fichiers-dun-pc-defectueux-une-solution-facile-a-suivre/"><u>Top 2 Techniques Pour Récupérer Des Fichiers D'un PC Défectueux: Une Solution Facile À Suivre</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-setup-hacks-forming-fresh-folders-effortlessly/"><u>Win11 Setup Hacks: Forming Fresh Folders Effortlessly</u></a></li>
 </ul></div>
 

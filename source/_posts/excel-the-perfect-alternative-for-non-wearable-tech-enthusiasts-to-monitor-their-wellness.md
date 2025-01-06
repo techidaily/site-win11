@@ -1,7 +1,7 @@
 ---
 title: "Excel: The Perfect Alternative for Non-Wearable Tech Enthusiasts to Monitor Their Wellness"
-date: 2024-08-28T00:49:14.906Z
-updated: 2024-08-29T00:49:14.906Z
+date: 2025-01-04T16:11:25.182Z
+updated: 2025-01-06T18:40:36.901Z
 tags:
   - excel
 categories:
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 ![Daily Calorie and Fat Percentage Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DailyCalorieFatPercentage-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Journal Your Diet and Exercise
 
  To help you reach your health goals, try out this [Diet and Exercise Journal](https://templates.office.com/en-us/diet-and-exercise-journal-tm04036851) Excel template. You have three tabs to record and view your progress.
@@ -58,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/6038b4e1d0b30613cb41c0ccc8733d5ac9ac78f01
 
 ![Diet and Exercise Journal Goals tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DietExerciseJournalGoals-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Calculate Calorie Intake on an Amortization Schedule
 
  If you're [interested in losing weight](https://visual-screen-recording.techidaily.com/new-2024-approved-top-5-tunefab-screen-recording-tips-and-tricks/) but aren't sure how many calories you should consume each day to do so, check out this [Calorie Amortization Schedule](https://templates.office.com/en-us/calorie-amortization-schedule-tm04022393).
@@ -69,11 +74,9 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 ![Calorie Amortization Schedule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CalorieAmortizationSchedule-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Track Weight Loss
 
  If you already have a diet plan to [reach your target weight](https://on-screen-recording.techidaily.com/updated-in-2024-enhance-your-file-management-six-tips-for-win-11s-mov-files/), then keep track of it easily with this [Weight Loss Tracker](https://templates.office.com/en-us/weight-loss-tracker-tm03458079) template for Excel.
@@ -82,9 +85,6 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Weight Loss Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/WeightLossTracker-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Get a Fitness Plan
 
  For the ultimate fitness template, you can track everything from your weight to the size of your biceps to the food you eat.
@@ -95,9 +95,6 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Fitness Plan measurement tabs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanWaist-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Track all activities with the [date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/), [time](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/), duration, distance, and calories burned.
 
 ![Fitness Plan Activity Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanActivity-ExcelHealthTrackers.png) 
@@ -106,18 +103,20 @@ Related: [5 Ways Your iPhone Can Help You Lose Weight](https://visual-screen-rec
 
 ![Fitness Plan Food Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanFood-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, review the Weight Tracker tab which summarizes the other sheets and gives you a clear view of your fitness plan progress.
 
 ![Fitness Plan Weight Tracker tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FitnessPlanWeight-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How I Used Technology to Get in the Best Shape of My Life and Save My Son](https://twitter-videos.techidaily.com/updated-2024-approved-elevating-twitter-interactions-through-personalized-video-previews/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Track Your Blood Sugar
 
  When you need to keep an eye on your blood sugar, you can use this convenient [Blood Sugar Tracker](https://templates.office.com/en-us/blood-sugar-tracker-tm03986892) template to log your details in Excel.
@@ -127,8 +126,9 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 ![Blood Sugar Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodSugarTracker-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Log Your Blood Pressure and Glucose
 
  For logging both pressure and glucose, use this [Blood Pressure and Glucose Tracker](https://templates.office.com/en-us/blood-pressure-and-glucose-tracker-tm03107635) template.
@@ -139,7 +139,15 @@ Related: [How I Used Technology to Get in the Best Shape of My Life and Save My 
 
 ![Blood Pressure and Glucose Tracker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BloodPressureGlucoseTracker-ExcelHealthTrackers.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For a bonus, you can include notes on the right side which is helpful for out-of-the-ordinary levels.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Keep a Medication Log
 
@@ -155,18 +163,12 @@ Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram
 
 ![Basic Medication Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/BasicMedicationLog-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Family Medication Log
 
  With a tab for each person in this [Medication Log](https://templates.office.com/en-us/medication-log-tm89852877), you can easily list medications, dosages, frequencies, and times of day for each family member. You can also include remarks, or notes, per medication.
 
 ![Medication Log for families](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FamilyMedicationLog-ExcelHealthTrackers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Track Your Pet's Health
 
  Maybe the health tracker you need is for your furry family member. This [Pet Health Log](https://templates.office.com/en-us/pet-health-log-tm06128278) lets you track immunizations, medications, and known conditions. You can also log vet visits with complete details for tests performed, diagnosis, prescribed action and medication, and more.
@@ -174,8 +176,9 @@ Related: [How to Set an Emergency Contact on iPhone (and Why)](https://instagram
 ![Pet Health Log](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/PetHealthLog-ExcelHealthTrackers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have more than one pet, [copy the original sheet](https://fox-blue.techidaily.com/updated-2024-approved-the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/) to another tab before entering the details. You can then [rename the tab](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-xiaomi-14-ultra-phone-unlock-it-now-by-drfone-android/) with your pet's name. Do the same for each pet in your household for a handy record of everyone's health history.
 
  The Pet Health Log is only available for the Excel desktop version, not the web.
@@ -190,8 +193,6 @@ Related: [How to Track Almost Anything with Excel List Templates](https://androi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +200,19 @@ Related: [How to Track Almost Anything with Excel List Templates](https://androi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-tactics-for-elevating-your-videos-popularity-at-vimeo/"><u>[New] In 2024, Tactics for Elevating Your Video's Popularity at Vimeo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-speedy-workshop-converting-your-visuals-into-stellar-youtube-pics/"><u>[Updated] Speedy Workshop Converting Your Visuals Into Stellar YouTube Pics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-mcuicntexe-non-existent-window-complaint/"><u>Dealing with McUICnt.exe Non-Existent Window Complaint</u></a></li>
+<li><a href="https://win11.techidaily.com/exposing-the-concealed-managing-windows-11-icons/"><u>Exposing the Concealed: Managing Windows 11 Icons</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-13-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 13 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-g22-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia G22?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-gamers-playbook-mastering-recordings-on-the-latest-w11/"><u>In 2024, The Gamers' Playbook Mastering Recordings on the Latest W11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/1722931883509-maximize-your-network-range-with-the-netgear-nighthawk-x4-mesh-extender-expert-review-inside/"><u>Maximize Your Network Range with the Netgear Nighthawk X4 Mesh Extender - Expert Review Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-sleep-glitches-on-new-windows-11/"><u>Resolving Sleep Glitches on New Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-file-explorer-restart-process/"><u>Simplifying the File Explorer Restart Process</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-maneuvers-beat-the-windows-lag-on-sw-bf2/"><u>Swift Maneuvers: Beat the Windows Lag on SW BF2</u></a></li>
+<li><a href="https://win11.techidaily.com/win-fix-guide-to-eliminating-screen-sizes-errors/"><u>Win-Fix Guide to Eliminating Screen Sizes Errors</u></a></li>
+</ul></div>
 

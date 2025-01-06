@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets: Display/Hide Folders on Windows 11"
-date: 2024-12-24T22:55:51.162Z
-updated: 2024-12-28T07:03:57.368Z
+date: 2024-12-31T17:50:38.432Z
+updated: 2025-01-06T18:42:10.241Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Before you proceed, we highly recommend reading our guide on [what the Windows Registry is and how to edit it](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) to familiarize yourself with what we will be doing next. Also important is knowing [how to back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). Considering this is the database that Windows stores the data it needs to operate properly, you will need this backup in case you make an error.
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
  For showing and hiding folders in This PC to work, make sure you’re running the latest version of Windows 11\. You'll know you have it if File Explorer has tabs.
 
  With the Registry Editor open, let's get to it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Show or Hide the 3D Objects Folder in This PC
 
@@ -56,7 +60,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
@@ -72,7 +76,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![delete-hideifenabled-value-regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-hideifenabled-value-regedit.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, refresh File Explorer with **F5** and the **Documents** folder will appear in This PC.
@@ -82,7 +86,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![set-hideifenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-hideifenabled.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now when you refresh This PC in File Explorer, you will see that the **Documents** folder is gone.
@@ -105,10 +109,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{088e3905-0323-4b02-9826-5d99428e115f}
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Choose the Folders You Want to Appear on This PC in Windows 11
 
  If you want to see folders on This PC, you can do so by making a couple of edits to the Windows Registry. While we do recommend that you know what you’re doing if you proceed, we have made the instructions relatively simple to follow so there's minimal chance of messing up the registry.
@@ -130,18 +130,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-videography-vanguard-in-depth-sony-fdr-x1000-review/"><u>[New] In 2024, Videography Vanguard In-Depth Sony FDR-X1000 Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-must-play-biking-games-anthology-for-2024/"><u>[New] Must-Play Biking Games Anthology for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-swapping-screen-order-in-os/"><u>Guide to Swapping Screen Order in OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/improve-iphone-wi-fi-signal-8-effective-strategies-for-better-performance/"><u>Improve iPhone Wi-Fi Signal: 8 Effective Strategies for Better Performance</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-unlock-potential-best-practices-for-logitech-webcam-use/"><u>In 2024, Unlock Potential Best Practices for Logitech Webcam Use</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/sicherung-und-wiederherstellung-von-kontaktdaten-im-google-drive-ein-leitfaden/"><u>Sicherung Und Wiederherstellung Von Kontaktdaten Im Google Drive: Ein Leitfaden</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-enable-the-powerful-end-task-functionality-on-windows-11/"><u>Step by Step Guide to Enable the Powerful End Task Functionality on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-post-win-11-upgrade-linux-issues/"><u>Steps to Address Post-Win 11 Upgrade Linux Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-productivity-the-leading-task-managers-for-windows-11-and-11/"><u>Streamline Productivity: The Leading Task Managers for Windows 11 & 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/surveying-the-digital-community-for-news-feed-insights/"><u>Surveying the Digital Community for News Feed Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-complete-beginners-guide-to-utilizing-look-up-tables-luts-for-2024/"><u>The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/ultimate-savings-612-annual-windows-10-lifetime/"><u>Ultimate Savings: $6.12 Annual Windows 10 Lifetime</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/youcamproficiency-masteringwebcamcapture/"><u>YouCamProficiency MasteringWebCamCapture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-building-an-affluent-future-with-instagram-know-how/"><u>[New] In 2024, Building an Affluent Future with Instagram Know-How</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-17-light-and-gear-perfect-for-vloggers-for-2024/"><u>[New] Top 17 Light & Gear Perfect for Vloggers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-brand-battlegrounds-mastery-of-marketing-metrics-on-youtube/"><u>[Updated] In 2024, Brand Battlegrounds Mastery of Marketing Metrics on YouTube</u></a></li>
+<li><a href="https://discover-community.techidaily.com/codec-h265-video-le-plus-performant-encodeur-pour-windows-et-mac-convertisseur/"><u>Codec H.265 Vidéo - Le Plus Performant Encodeur Pour Windows Et Mac Convertisseur</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-11-to-monitor-kids-internet-use/"><u>Configuring Windows 11 to Monitor Kids' Internet Use</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-advice-on-the-newest-iphone-15-unmatched-performance-that-attracts-both-novices-and-pro-enthusiasts-zdnet-review/"><u>Expert Advice on the Newest iPhone 15: Unmatched Performance That Attracts Both Novices and 'Pro' Enthusiasts | ZDNET Review</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-eliminating-wow-crashes-on-pc/"><u>Expert Tips for Eliminating WoW Crashes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-dodge-windows-11s-protective-shield/"><u>Expert Tips: Dodge Windows 11'S Protective Shield</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-restarting-unresponsive-spotify-windows-11/"><u>Guidelines for Restarting Unresponsive Spotify Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-30-pro-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 30 Pro 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-short-form-media-exploration/"><u>In 2024, Short Form Media Exploration</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>In 2024, Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-5-replacements-for-windows-snipping-capability-in-other-oses/"><u>The Top 5 Replacements for Windows' Snipping Capability in Other OSes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protectors-for-the-newest-iphones-iphone-16-and-pro-your-ultimate-buying-guide-featuring-extensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Protectors for the Newest iPhones (iPhone 16 & Pro) - Your Ultimate Buying Guide, Featuring Extensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-full-potential-via-admin-terminal-immediate-launch/"><u>Unleash Full Potential via Admin Terminal Immediate Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-exepe-formats/"><u>Unveiling the Secrets of Windows EXE/PE Formats</u></a></li>
 </ul></div>
 

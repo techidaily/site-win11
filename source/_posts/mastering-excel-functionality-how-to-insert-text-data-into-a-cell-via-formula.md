@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel Functionality: How To Insert Text Data Into A Cell Via Formula"
-date: 2024-08-28T00:47:59.557Z
-updated: 2024-08-29T00:47:59.557Z
+date: 2025-01-04T20:03:49.902Z
+updated: 2025-01-06T19:55:44.415Z
 tags:
   - excel
 categories:
@@ -32,18 +32,6 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/1-excel-select-cell.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the chosen cell, type the following formula and press Enter. In this formula, replace `Mr. ` (note the space after the text) with the text you want to add and `B2` with the reference of the cell where you want to append your text.
 
 ="Mr. "&B2
@@ -60,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/8e7f29503e1809da37fe391a31647712629490bb9
 
 ![Add text before text using CONCAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/3-excel-concat-before.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Add Space Between Text and Cell Borders in Excel](https://instagram-clips.techidaily.com/updated-2024-approved-dual-dimensions-in-display-the-instagram-guide-to-effortless-image-turns/) 
 
 ##  Add Text to the End of a Cell
@@ -71,8 +63,9 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 ![Choose a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/4-excel-choose-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the selected cell, type the following formula and press Enter. Here, replace `B2` with the cell where your existing text is and ` (Journalist)`with the text you want to append.
 
 =B2&" (Journalist)"
@@ -82,9 +75,9 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
 ![Add text after text using the & operator.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/5-excel-add-text-after-text.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you'd like to use the `CONCAT` function, then in your chosen cell, enter the following and press the Enter key. Once again, replace `B2` with the cell containing your existing text and ` (Journalist)` with the text you want to add.
 
 =CONCAT(B2," (Journalist)")
@@ -92,6 +85,10 @@ Related: [How to Add Space Between Text and Cell Borders in Excel](https://insta
  And here's what the result will look like:
 
 ![Add text after text using CONCAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/6-excel-concat-after.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://instagram-video-files.techidaily.com/new-2024-approved-how-to-upload-and-post-gifs-onto-instagram-4-steps/) 
 
@@ -105,9 +102,6 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 
 ![Click a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/7-excel-click-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the selected cell, type the following formula and press Enter. Here, replace all instances of `C2` with your cell reference, `-` (hyphen) with the text you want to add, and `2` with the number of characters after which you want your custom text to appear.
 
 =LEFT(C2,2)&"-"&RIGHT(C2,LEN(C2)-2)
@@ -116,9 +110,6 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 
 ![Insert text after specific characters.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/8-excel-add-text-nth-character.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Add Text After a Specific Character
 
  In case you want to add text after or before a specific character in a cell's text content, then use Excel's `LEFT` , `SEARCH` , `RIGHT` , and `LEN` functions.
@@ -132,8 +123,9 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
 ![Append text after a specific character.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/9-excel-add-text-after-specific-character.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you've used a formula or function from the above sections, you can [automatically copy it for all your records](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) in the sheet. To do that, from the bottom-right corner of the cell where you've entered your function or formula, drag downwards until all your records are covered. And that's all.
 
  Is your concatenated text not fitting Excel's default cell size? There's a way to [shrink or expand your cells](https://youtube-web.techidaily.com/024-approved-ultimate-routine-personalize-your-youtube-shorts-image-credits/).
@@ -144,8 +136,6 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +143,20 @@ Related: [How to Add Alternative Text to an Object in Microsoft Excel](https://i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-slow-start-technique/"><u>[New] Slow Start Technique</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-creativity-filmoras-favorite-features-explored/"><u>[Updated] Cutting Edge Creativity Filmora's Favorite Features Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/1726027145566-iso/"><u>「細切りのISOファイルをひも解ける完全ガイド - ビデオチュートリアル」</u></a></li>
+<li><a href="https://win11.techidaily.com/1-successfully-streaming-mkv-files-on-xbox-series-xs-a-comprehensive-guide/"><u>1. Successfully Streaming MKV Files on Xbox Series X|S: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/1726026610963-bilibili/"><u>Bilibiliビューワで再生問題に見舞われたら、ダウンロード・セーブ不可を解決するポイント</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-latest-epson-stylus-nx420-drivers-compatible-with-windows-7-8-and-10/"><u>Download the Latest Epson Stylus NX420 Drivers Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/leading-windows-vpns-enhancing-your-gaming-experience-securely-and-stealthily/"><u>Leading Windows VPNs: Enhancing Your Gaming Experience Securely and Stealthily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/understanding-cryptocurrency-hardware-wallets-a-comprehensive-guide/"><u>Understanding Cryptocurrency Hardware Wallets: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/wma-to-mp3-or-other-formats-the-easy-free-way-of-converting-your-music-without-spending-a-dime/"><u>WMA to MP3 or Other Formats - The Easy, FREE Way of Converting Your Music Without Spending a Dime</u></a></li>
+<li><a href="https://win11.techidaily.com/youtube-live-screen-recording-techniques-ideal-privacy-tips/"><u>YouTube Live Screen Recording Techniques - Ideal Privacy Tips</u></a></li>
+</ul></div>
 

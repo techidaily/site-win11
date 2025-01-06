@@ -1,7 +1,7 @@
 ---
 title: Creating Unique Keys for WinApps and Tools
-date: 2024-08-23T06:08:38.950Z
-updated: 2024-08-24T06:08:38.950Z
+date: 2025-01-04T16:30:51.246Z
+updated: 2025-01-06T19:24:01.669Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows shortcuts must take the form:
 
 * Ctrl + Alt + \[key\]
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -52,14 +60,12 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 3. Right-click it and go to **More > Open file location**.  
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
 
  Creating a keyboard shortcut for an item on your taskbar is easy. Here’s how to do it:
@@ -70,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 3. Add a keyboard shortcut to the **Shortcut key** field.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
  To remove a keyboard shortcut, navigate to the program shortcut’s properties and delete the entry in the **Shortcut key** field. This should reset it to **None** and remove the associated keyboard shortcut.
@@ -92,24 +99,20 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 4. Click on **Remap a shortcut**.  
 ![Remap shortcut in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/04-powertoys-remap-shortcut.jpg)
 5. Then click on the **Add shortcut mapping** button.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
 ![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
 3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. The **If running** field tells Windows how to handle the command if the program is already open and running. You can set this to one of several options: show the open window; open another instance of the program (if possible); close the program; do nothing; or end the entire program task.
 
  To remove a shortcut set up using PowerToys, simply open the utility, navigate to **Keyboard Manager**, select **Remap a shortcut**, and click on the delete button to the right of the specific shortcut you wish to remove.
@@ -118,11 +121,29 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
  Did you know that you can set a keyboard shortcut for just about any program in Windows? When you want to open a specific program in a hurry, all you need to do is quickly press a few keys and you’re in. Here’s how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-capturing-memories-efficiently-phones-screen-save-for-snaps/"><u>[New] Capturing Memories Efficiently Phones' Screen Save for Snaps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-journey-through-ipodverse-mastering-iphones-podcast-downloads/"><u>[Updated] 2024 Approved Journey Through iPodverse Mastering iPhone's Podcast Downloads</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-decoding-the-secrets-of-stardew-valley-with-a-focus-on-its-mysterious-ginger-isle-for-2024/"><u>[Updated] Decoding the Secrets of Stardew Valley with a Focus on Its Mysterious Ginger Isle for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximizing-productivity-with-auditory-storytelling/"><u>[Updated] Maximizing Productivity with Auditory Storytelling</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-compile-and-connect-videos-on-youtv/"><u>2024 Approved Compile and Connect Videos on YouTV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-play-7t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor Play 7T Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://solve-info.techidaily.com/accessing-desktops-and-apps-offscreen-with-dex-3-essential-techniques/"><u>Accessing Desktops and Apps Offscreen with DEX 3 - Essential Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-failed-start-of-speech-recognition-in-windows/"><u>How To Address Failed Start of Speech Recognition in Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/huge-discount-on-geforce-now-subscriptions-rates-cut-by-50-temporarily/"><u>Huge Discount on GeForce Now Subscriptions: Rates Cut by 50% Temporarily!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-huawei-unlock-codes-to-unlock-your-huawei-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Huawei Unlock Codes to Unlock Your Huawei Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-elevated-access-to-command-prompt/"><u>Overcoming Non-Elevated Access to Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-routes-to-your-favorite-uwp-apps-in-windows-11/"><u>Swift Routes to Your Favorite UWP Apps in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-a-cure-to-powershell-load-block-4-proven-methods-unveiled/"><u>Tailoring a Cure to PowerShell Load Block: 4 Proven Methods Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/the-7-most-important-things-to-consider-before-buying-a-windows-laptop/"><u>The 7 Most Important Things to Consider Before Buying a Windows Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-call-history-mechanics/"><u>Understanding Windows Call History Mechanics</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Changing Cell Orientations and Text Directions in Excel Spreadsheets"
-date: 2024-08-28T00:48:13.100Z
-updated: 2024-08-29T00:48:13.100Z
+date: 2025-01-04T16:50:34.988Z
+updated: 2025-01-06T19:29:29.600Z
 tags:
   - excel
 categories:
@@ -43,8 +43,6 @@ If you have a spreadsheet where the text in your column headings (not the letter
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -52,8 +50,20 @@ If you have a spreadsheet where the text in your column headings (not the letter
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-persuasive-prompt-producer-kit-for-2024/"><u>[New] Persuasive Prompt Producer Kit for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stars-of-tomorrow-perfecting-reaction-videos-for-audiences-through-dual-perspectives/"><u>[Updated] Stars of Tomorrow Perfecting Reaction Videos for Audiences Through Dual Perspectives</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[Updated] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advanced-tips-for-utilizing-chatgpt-during-telecommuting-sessions/"><u>Advanced Tips for Utilizing ChatGPT During Telecommuting Sessions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-non-functional-windows-version-of-battlenet-launcher/"><u>How to Resolve Non-Functional Windows Version of Battle.net Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-iso-tool-for-quick-dvd-to-iso-and-multi-format-file-transformations/"><u>Leading ISO Tool for Quick DVD-to-ISO and Multi-Format File Transformations</u></a></li>
+<li><a href="https://win11.techidaily.com/mbs/"><u>MBS動画イズム動画ダウンロード・セキュリティ対策ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-simple-guide-converting-opus-files-to-wma-format/"><u>Quick and Simple Guide: Converting Opus Files to WMA Format</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-integrating-audio-tracks-with-avi-files-seamlessly/"><u>Quick Guide: Integrating Audio Tracks with AVI Files Seamlessly</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

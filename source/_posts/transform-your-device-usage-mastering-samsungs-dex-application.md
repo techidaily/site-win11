@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Device Usage: Mastering Samsung's DeX Application"
-date: 2024-12-25T01:21:56.121Z
-updated: 2024-12-27T23:26:51.552Z
+date: 2025-01-03T18:37:06.201Z
+updated: 2025-01-06T17:28:49.650Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  Another gripe with the wireless mode is the lack of file transfer features. There is no option for that. So, you can only run the apps on the phone on a bigger display. But the Samsung DeX app for Windows fixes all of these features. So, no need to connect a keyboard and mouse, no visible latency in mouse movements, and you can transfer files with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Install and Setup Samsung Dex on Windows 11
@@ -66,10 +66,6 @@ Close
 
 ![Setting Up Samsung DeX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-samsung-dex.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You will see some apps on the home screen with the Windows-like taskbar at the button and some apps and folder icons on the Desktop.
 
 ![Samsung DeX App in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-app-in-windows-11.jpg)
@@ -85,7 +81,7 @@ Close
 ![Samsung DeX Two App Windows side by side](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-two-app-windows-side-by-side.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click on the **Notifications** icon on the Taskbar to view recent ones. You cannot reply to incoming messages on WhatsApp but can **close** or **mark them as read**.
@@ -93,7 +89,7 @@ Close
 ![Samsung DeX Notification section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-notification-section.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Samsung DeX also supports keyboard shortcuts, and you can simply close an app with **Alt + F4** or view open apps using **Alt + Tab** shortcut. If you want the complete list of supported shortcuts, press the **Win + /** key to open the page. To lock the DeX mode, press the Win key and click on the **Lock DeX** option. It locks both the phone and the DeX app. You will have to enter the **PIN** or use your **fingerprint** to unlock the DeX mode.
@@ -108,7 +104,15 @@ Close
 
 ![Samsung DeX Copying Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-copying-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Samsung DeX for Windows also supports minimizing and resizing. So, you can put the DeX window on one side of your display and use any other app along with it. We love the fact that it supports common Windows shortcuts and even has some custom ones for opening Notifications, File Manager, and other apps on your Samsung Galaxy Phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Limitations of the Samsung DeX App
 
@@ -116,14 +120,10 @@ Close
 
 ![Samsung DeX Copying Files Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-copying-files-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some actions like clicking the keyboard icon in the DeX app power on the display. The only possible option is to shut the phone display and continue using DeX mode. All these are small kinks that Samsung must figure out in future app versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Your Samsung Device on a Windows PC
@@ -142,16 +142,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-impressive-appraisal-and-other-suggestions/"><u>[New] In 2024, Impressive Appraisal & Other Suggestions</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-optimal-viewing-solution-projector-or-tv-for-top-4k-quality/"><u>[New] Optimal Viewing Solution Projector or TV for Top 4K Quality</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-financial-race-between-dailymovement-and-youtube-channels/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-subscription-issue-with-error-code-0x00000001/"><u>Fixing Xbox Subscription Issue with Error Code 0X00000001</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-glories-accessing-file-history/"><u>Navigating Past Glories: Accessing File History</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/perfect-the-cinematic-ig-look-invest-in-slowing-down/"><u>Perfect the Cinematic IG Look Invest in Slowing Down</u></a></li>
-<li><a href="https://win11.techidaily.com/pioneers-playbook-for-win11-directory-creation/"><u>Pioneer's Playbook for Win11 Directory Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/the-clever-way-to-compress-streamlined-windows-explorer/"><u>The Clever Way to Compress: Streamlined Windows Explorer</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unpacking-the-strengths-of-nokias-72-a-comprehensive-look-at-a-mid-range-market-disruptor/"><u>Unpacking the Strengths of Nokia's 7.2: A Comprehensive Look at a Mid-Range Market Disruptor</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-resource-monitor-how-to-rejuvenate-a-non-responsive-app/"><u>Win11's Resource Monitor: How To Rejuvenate a Non-Responsive App</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-how-to-send-a-snap-from-memoriescamera-roll-on-snapchat/"><u>[New] 2024 Approved How to Send a Snap From Memories/Camera Roll on Snapchat</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-6-tools-to-download-lite-videos-from-facebook/"><u>[New] 2024 Approved Top 6 Tools to Download Lite Videos From Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagrams-best-practices-for-video-editing-and-cropping/"><u>[New] In 2024, Instagram's Best Practices for Video Editing & Cropping</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>[Updated] Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-guide-to-navigate-widely-in-windows-11/"><u>Complete Guide to Navigate Widely in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-deep-into-windows-registry-tweaks-via-terminal-commands/"><u>Delving Deep Into Windows Registry Tweaks via Terminal Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-android-apps-compatible-with-windows-desktop-users/"><u>Essential Android Apps Compatible with Windows Desktop Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-template-to-trendsetter-gamer-channel-banners-guide/"><u>From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-discover-the-powershell-release-running-under-windows-a-detailed-guide/"><u>How to Discover the PowerShell Release Running Under Windows #: A Detailed Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-internet-speed-on-a-budget-with-the-tp-link-archer-a6-ac1200-a-thorough-review/"><u>Maximizing Internet Speed on a Budget with the TP-Link Archer A6 AC1200 - A Thorough Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-start-with-easycap-professional-drivers-for-free-download/"><u>Quick Start with EasyCap - Professional Drivers for Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-common-post-upgrade-windows-11-hitches/"><u>Resolving Common Post-Upgrade Windows 11 Hitches</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-lol-connection-in-windows/"><u>Steps for Restoring LoL Connection in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-and-fix-eliminating-connection-issues-in-windows/"><u>Streamline & Fix: Eliminating Connection Issues in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-fatal-components-missing-in-w10w11/"><u>Unraveling the 'Fatal Components Missing' In W10/W11</u></a></li>
 </ul></div>
 

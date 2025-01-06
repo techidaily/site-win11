@@ -1,7 +1,7 @@
 ---
 title: Maximize Productivity with Sticky Notes in W11/W10
-date: 2024-08-23T06:10:37.293Z
-updated: 2024-08-24T06:10:37.293Z
+date: 2025-01-04T18:27:45.317Z
+updated: 2025-01-06T17:08:13.733Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 3. Click the**Settings** button on the app's window.  
 ![Stick a Note's Settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-a-note-s-settings-button.jpg)
 4. Select the**Shift** checkbox to change Stick A Note's hotkey to**Win** +**Shift** +**N** . This is necessary because Windows 11 already has a**Win** +**N** keyboard shortcut for notifications that matches this software's default hotkey.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Note Hotkey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-hotkey-option.jpg)
 5. Click**OK** on the Settings – Stick A Note window.
 
@@ -49,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
 ![A sticky note added with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-stick-a-note-note.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can set Stick A Note to automatically show notes after opening software windows. To do so, right-click the program's system tray icon and select**Settings** . Select the**Auto Show Note for the Active Program** checkbox, and click the**OK** option.
 
  To remove a note, click the**Edit** option in it; press the**Delete** button on the editing window. Select**Yes** on the dialogue box asks to confirm the note's deletion.
@@ -58,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
  However, you can at least change the color and size of the notes. To do that, right-click the**Stick a Note** system tray icon and select**Settings** \>**Note Settings** ; choose an alternative option on the**Note Color** drop-down menu. Enter values up to**600** in the size boxes to resize the notes.
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
@@ -95,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 
 ![A sticky note for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-sticky-note-for-a-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can stick a note to a webpage instead. Open a page in a web browser. Then drag the note onto the webpage, and select the**Stick to window** option. Select the checkbox for the page tab in the browser.
 
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
@@ -102,9 +119,9 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -115,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +139,24 @@ thumbnail: https://thmb.techidaily.com/fed3ffae9229ff3a7d3580519bb324f0e6bad8a6c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-delving-deep-wirecast-and-its-broader-scope/"><u>[New] 2024 Approved Delving Deep WireCast & Its Broader Scope</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[New] In 2024, Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-easy-steps-for-exporting-videos-from-youtube-to-dailymotion-for-2024/"><u>[Updated] Easy Steps for Exporting Videos From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/asus-rt-ac68u-wireless-router-test-fast-and-robust-5g-internet-security/"><u>Asus RT-AC68U Wireless Router Test: Fast & Robust 5G Internet Security</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/crafting-expressions-of-love-in-hungarian-vocabulary/"><u>Crafting Expressions of Love in Hungarian Vocabulary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/guffaw-glory-top-downloads-of-jingles/"><u>Guffaw Glory Top Downloads of Jingles</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-failed-task-execution-in-windows-with-error-0x8007000f/"><u>How to Fix the Failed Task Execution in Windows with Error 0X8007000f</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-quickly-setup-games-via-xbox-for-pc/"><u>How to Quickly Setup Games via Xbox for PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-updated-samsung-ubd-k8500-analysis/"><u>In 2024, Updated Samsung UBD-K8500 Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-steams-storage-troubles-on-your-computer/"><u>Navigating Steam's Storage Troubles on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-efficiency-using-flow-launcher-tool/"><u>Skyrocket Your Efficiency Using Flow Launcher Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-recover-missing-alerts-from-phone-link-app/"><u>Solutions to Recover Missing Alerts From Phone Link App</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-geforce-now-error-code-xc0f1103f-on-pcs/"><u>Solving GeForce Now Error Code XC0F1103F on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-system-microsoft-works-for-windows-latest/"><u>Streamline Your System: Microsoft Works for Windows Latest</u></a></li>
+<li><a href="https://win11.techidaily.com/unwrapping-the-solution-to-camera-error-a00f425d-on-windows-11/"><u>Unwrapping the Solution to Camera Error A00F425D on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/venture-beyond-reality-with-our-top-1-cookies-in-mobile-vr-technology/"><u>Venture Beyond Reality with Our Top 1 Cookies in Mobile VR Technology</u></a></li>
+</ul></div>
 

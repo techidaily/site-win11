@@ -1,7 +1,7 @@
 ---
 title: Streamline Facebook Messenger On Your PC Now
-date: 2024-08-23T06:09:36.402Z
-updated: 2024-08-24T06:09:36.402Z
+date: 2024-12-30T20:06:42.535Z
+updated: 2025-01-06T18:18:24.664Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
  Fortunately, it's very easy to troubleshoot the problem. Below are all the effective fixes you can try if Messenger is not working on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Completely Close Facebook Messenger Using the Task Manager
 
  Messenger services running in the background of your Windows PC might interfere when you try to open the application from scratch. To avoid that, consider using the Task Manager to close Messenger completely. Here are the steps to do it.
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 Now, check if Messenger is working or not.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Download All Pending Windows Updates
 
  As usual with Windows oddities, updating the operating system to the latest build can fix./ As such, it's worth a try if Facebook Messenger isn't working or opening.
@@ -50,6 +55,10 @@ You download the latest Windows update by following the below steps:
 3. Click the**Check for updates** button.
 
 Windows will now look for and install all the available updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use the Windows Store Apps Troubleshooter
 
@@ -69,9 +78,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
  Sometimes the troubleshooter may not be able to resolve the issue, or it might not even detect any problem in the first place, but it's worth considering anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check the System Date and Time
 
  This might sound odd, but Facebook Messenger might not work if the system is set to an incorrect date and time. This is because Messenger checks if its own time and date are in sync with Window's own. If there's any difference, it'll refuse to work.
@@ -87,9 +93,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 5. Enable the toggle next to**Set time zone automatically** .
 6. Click the**Sync now** button under the**Additional settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Repair and Reset the Facebook Messenger App
 
  One effective way to fix any UWP app, including Facebook Messenger, is to use the repair feature. You can repair the Messenger by performing the following:
@@ -100,14 +103,12 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 4. Choose**Advanced options** from the context menu.  
 ![Choosing Advanced Option of Messenger](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Advanced-Option.jpg)
 5. Click on the**Repair** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Repairing Messenger in the Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Repair-Messenger-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, launch the Messenger app and check whether it is working. If not, you will have to reset the application.
 
  Resetting the app will clear the stored data and set them back to default. Below are steps on how to reset the Facebook Messenger App.
@@ -115,6 +116,10 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 1. Open Settings > Apps > Installed apps.
 2. Click on the three dots next to Messenger and choose Advanced options.
 3. Click the**Reset** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Microsoft Store Cache
 
@@ -130,9 +135,6 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 
  If you're using Windows Security, then check our guide and how to[temporarily disable the Windows Security app on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Tweak the Registry Editor
 
  If the Facebook Messenger app is not working due to a connection issue, you can make some registry edits to solve the problems. Here's how to access the Registry Editor and make the required changes:
@@ -144,16 +146,15 @@ To use the Windows Store Apps troubleshooter, follow the below steps:
 4. Right-click on the**Profiles** folder in the left sidebar and choose**Permissions.**  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/permission.jpg)
 5. Click on the**Advanced** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Check the **Replace all child object permission entries with inheritable permissions entries from this object** option.  
 ![Replace all child object permission entries with inheritable permissions entries from this object option in the Permission window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/replace-all-child-object-permission-entries-with-inheritable-permissions-entries-from-this-object.jpg)
 7. Click**Apply** \>**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Reset the Windows Update Components
 
  If any UWP is not opening or working, try resetting the Windows Update components. You can do it with the help of the[Windows Reset Update tool](https://wureset.com/downloads.html) .
@@ -166,14 +167,6 @@ Here's how to use the tool:
 4. Type**2** and press Enter to reset the Windows Update components.  
 ![Resetting the Windows Component using the Update Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Reset-Windows-Component.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Wait for the process to complete. Once done, reboot the system and check whether Messenger is working or not.
 
 ## 10\. Reinstall Facebook Messenger
@@ -183,25 +176,28 @@ Here's how to use the tool:
 1. Open the**Start Menu** , type**Messenger,** and choose**Uninstall** from the right pane.  
 ![Uninstall button in the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Uninstall-Messenger.jpg)
 2. Confirm your selection by choosing**Uninstall** from the prompt that appears.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Now, open the Microsoft Store, type Messenger, and press Enter.  
 ![Installing Messenger from Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Install-Messenger.jpg)
 4. Click on**Install** to begin the installation process.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connect With Friends Again on Messenger
 
  Hopefully, the above solutions helped fix Facebook Messenger, and now you are able to use it without any problem. But if the problem persists, connect with the Messenger support team for more advice.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +206,26 @@ Here's how to use the tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-precision-problem-solving-for-youtube-short-success/"><u>[New] 2024 Approved Precision Problem-Solving for YouTube Short Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-tier-mkv-players-macos-edition/"><u>[New] Top-Tier MKV Players MacOS Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-pioneering-cross-social-content-share-youtube-videos-on-facebook/"><u>2024 Approved Pioneering Cross-Social Content Share YouTube Videos on Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-fn-key-usage-in-windows-1011-pcs/"><u>Enhancing FN Key Usage in Windows 10/11 PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fixing-sound-problems-in-windows-11-a-five-step-guide/"><u>Fixing Sound Problems in Windows 11: A Five-Step Guide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 6s Plus to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-photographic-experience-with-aurora-hdr-software/"><u>In 2024, Photographic Experience with Aurora HDR Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-tricks-no-controllers-full-gameplay/"><u>Innovative Tricks: No Controllers, Full Gameplay</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/mastering-windows-11-a-step-by-step-guide-to-activating-and-utilizing-voice-command-features/"><u>Mastering Windows 11: A Step-by-Step Guide to Activating and Utilizing Voice Command Features</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-past-no-start-virtual-machines-in-vmwarewin11/"><u>Navigate Past No-Start Virtual Machines in VMware/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-ps4-remote-with-a-stable-win-based-link/"><u>Reviving Your PS4 Remote with a Stable Win-Based Link</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-process-of-activating-system-restore-in-windows-11/"><u>Simplifying the Process of Activating System Restore in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-windows-11-zoom-problems-code-1132/"><u>Solving Common Windows 11 Zoom Problems: Code 1132</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-into-success-with-instant-youtube-thumbnail-skills/"><u>Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-guide-to-recovering-from-outlook-crashes/"><u>The Complete Guide to Recovering From Outlook Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-playnite-adopting-emulated-game-titles/"><u>Transforming Playnite: Adopting Emulated Game Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-restoring-original-input-layout-on-windows-11-pcs/"><u>Tutorial: Restoring Original Input Layout on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unearthing-lost-screens-reopen-windows-10-and-11-effortlessly/"><u>Unearthing Lost Screens: Reopen Windows 10 & 11 Effortlessly</u></a></li>
+</ul></div>
 

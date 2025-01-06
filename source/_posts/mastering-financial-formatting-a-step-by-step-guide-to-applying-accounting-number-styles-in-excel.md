@@ -1,7 +1,7 @@
 ---
 title: "Mastering Financial Formatting: A Step-by-Step Guide to Applying Accounting Number Styles in Excel"
-date: 2024-08-28T00:49:43.997Z
-updated: 2024-08-29T00:49:43.997Z
+date: 2025-01-05T17:39:32.318Z
+updated: 2025-01-06T20:10:13.692Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
  If you use Microsoft Excel for accounting purposes, you might want to use the accounting number format for your numbers. There are multiple ways to apply this [formatting](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/), and we'll show how.
 
 Related: [How to Highlight a Row in Excel Using Conditional Formatting](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is the Accounting Number Format?
 
@@ -52,17 +56,13 @@ Related: [How to Change How Excel Displays Negative Numbers](https://tech-reviva
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-excel-home-tab-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Home" tab, in the "Number" section, click the down-arrow icon next to the "Accounting Number Format" option.
 
 ![Select "Accounting Number Format" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-accounting-number-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  In the menu that opens, select the currency for your numbers.
 
 ![Choose a currency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-select-currency.png) 
@@ -75,6 +75,10 @@ The powerful video editing program for your Windows PC</a>
 
 Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-video-creator.techidaily.com/transform-your-footage-expert-advice-for-creating-polished-professional-movies/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apply the Accounting Number Format With a Drop-Down Menu
 
  Another way to apply the accounting number format is to use the number formatting drop-down menu.
@@ -84,19 +88,20 @@ Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-v
 ![Select numbers in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-numbers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Excel's ribbon at the top, click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-excel-home-tab-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  On the "Home" tab, in the "Number" section, click the drop-down menu.
 
 ![Click the drop-down menu in the "Number" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-excel-number-menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From the drop-down menu, choose "Accounting."
 
@@ -106,12 +111,13 @@ Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-v
 
 ![Selected numbers using the accounting number format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/8-accounting-number-format-applied.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  That's it.
 
 Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Accounting Numbers With the Format Cells Window
 
@@ -126,24 +132,19 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![Select "Accounting" on the "Format Cells" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-format-cells-accounting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the pane on the right, [specify decimal points](https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-screen-recorder-test-active-vs-top-contenders/) for your numbers using the "Decimal Places" option. Then, [choose a currency](https://on-screen-recording.techidaily.com/updated-rapid-reel-sound-mixed-screenshotting/) from the "Symbol" drop-down menu.
 
  Finally, click "OK" at the bottom of the window.
 
 ![Configure the accounting number format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/11-configure-accounting-number-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  Your chosen cells are now formatted in the accounting number format.
 
 ![The accounting number format applied to the selected cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/12-use-accounting-number-format.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You're now ready for your accounting tasks in your Excel spreadsheets.
 
 ---
@@ -158,8 +159,6 @@ Related: [How to Enter Zero Before a Number in Excel](https://iphone-location.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +166,16 @@ Related: [How to Enter Zero Before a Number in Excel](https://iphone-location.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-prime-video-communication-platforms-for-modern-tech/"><u>[Updated] In 2024, Prime Video Communication Platforms for Modern Tech</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-full-analysis-compreenaside-with-camstudio-screencap/"><u>2024 Approved Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-list-elite-laser-carving-tools/"><u>Comprehensive List: Elite Laser Carving Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-correcting-error-code-c0000005-in-windows/"><u>Decoding and Correcting Error Code C0000005 in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-measures-to-solve-winscomrsvc-failures-on-devices/"><u>Effective Measures to Solve WinscomrsVc Failures on Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-track-to-fixing-error-code-0x887a0006-a-speedier-solution-guide/"><u>Fast Track to Fixing Error Code 0X887A0006 – A Speedier Solution Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-overlooked-windows-hardware/"><u>Remedying Overlooked Windows Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-existent-dll-mfc71u-on-win/"><u>Troubleshooting Non-Existent DLL: Mfc71u on Win</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleash-your-potential-with-these-free-online-channels-for-fine-artists-for-2024/"><u>Unleash Your Potential with These Free Online Channels for Fine Artists for 2024</u></a></li>
+</ul></div>
 

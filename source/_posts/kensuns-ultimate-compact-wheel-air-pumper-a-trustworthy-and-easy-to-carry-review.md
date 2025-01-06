@@ -1,7 +1,7 @@
 ---
 title: Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
-date: 2024-12-20T23:09:29.533Z
-updated: 2024-12-28T04:04:28.508Z
+date: 2025-01-01T16:04:20.574Z
+updated: 2025-01-06T18:52:01.806Z
 categories:
   - BestProducts
 description: This Article Describes Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/I3Lw1-ZvxZTUUfmJAFzoHuPKj_k=/400x300/fi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Anker PowerCore+ 26800 Battery Pack
 
@@ -46,10 +50,6 @@ Lifewire / Gannon Burgett
 
 ![Anker](https://www.lifewire.com/thmb/B8fIpC1_9JQjWCu_QhJoNePOP2Y=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_HEROWebSQUARE-5c90fd70c9e77c0001eb1cc6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Gannon Burgett
 
 [View On Amazon $100](https://www.amazon.com/dp/B07XRJZXKY?tag=lifewire-onsite-prod-20&ascsubtag=4589459%7Cne013ed3beb0f470caee172c55826658d22%7CB07XRJZXKY)
@@ -73,7 +73,7 @@ Lifewire / Gannon Burgett
  Anker has made a name for itself as one of the most reliable gadgets and accessories manufacturers in the game. Despite their reasonable prices, the quality continues to impress and its Anker PowerCore+ 26800 PD with 30W Power Delivery Charger is no exception. We've spent some time with this laptop battery charger and put it to the test to see just how well Anker's compact battery pack holds up against a variety of gadgets.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Design: Plush and light for travelers**
@@ -82,13 +82,13 @@ Lifewire / Gannon Burgett
 
 ![Anker](https://www.lifewire.com/thmb/brfc42RYlVrJLOHjyc0IbNzEQ0k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_5Web-5c90fc18c9e77c0001ac191d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Gannon Burgett
 
  The PowerCore+ 26800 features a single button on the top of the device to show remaining battery life and three ports on one of the two flat sides: two 5V/3A PowerIQ USB ports (Power IQ is Anker's proprietary smart-charging standard) and a power delivery[USB Type-C](https://www.lifewire.com/usb-c-4149490) port. It's a no-frills design that gets to the point without any unnecessary details or frills and it looks great when paired with any clean, modern device if you care about form as much as function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Simple to start, but there’s yet another adapter to carry around**
 
@@ -96,11 +96,19 @@ Lifewire / Gannon Burgett
 
 ![Anker](https://www.lifewire.com/thmb/Ps-fDFicjMGSS8OppN-xw5yn_mg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_1-Web-5c90fc3dc9e77c0001eb1cc5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Gannon Burgett
 
  Our device came approximately 50% charged based on the battery life indicator lights on the top. We immediately burned through what battery life it had so we could start fresh with testing to see how quickly the 30W wall charger could fill the 26800mAh capacity.
 
  It's a no-frills design that looks great when paired with any clean, modern device if you care about form as much as function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
@@ -122,10 +130,6 @@ Lifewire / Gannon Burgett
 
  The Anker PowerCore+ 26800 retails for $129.99\. That alone is a deal in terms of power output, but add in the 30W USB wall charger and the two cables and it's an absolute steal. The USB wall charger alone goes for $25.99 and the cables easily add up to $10 together, meaning you're effectively paying $100 for the charger.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Anker PowerCore+ 26800 vs. RAVPower 26800**
 
  Anker PowerCore+ 26800 has an almost identical competitor, the RAVPower 26800\. The two battery packs feature the exact same capacity and both are capable of outputting 30W charging via their respective USB Type-C ports.
@@ -145,10 +149,6 @@ Lifewire / Gannon Burgett
 * [MaxOak 185Wh/50000mAh Battery Pack](https://www.lifewire.com/maxoak-185wh-50000mah-battery-pack-review-4589398)
 * [Jackery PowerBar Battery Pack](https://www.lifewire.com/jackery-powerbar-battery-pack-review-4589480)
 * [ChargeTech 27000mAh Battery Pack](https://www.lifewire.com/chargetech-27000mah-battery-pack-review-4589409)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -180,16 +180,22 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-effortless-edits-with-windows-11-photoshop-guide/"><u>[New] In 2024, Effortless Edits with Windows 11 Photoshop Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-mixer-streams-on-macos-a-step-by-step-guide/"><u>2024 Approved Mastering Mixer Streams on macOS A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-the-slowdowns-swift-solutions-to-lag-in-star-wars-battlefront-2-windows-pc-edition/"><u>Conquer the Slowdowns: Swift Solutions to Lag in Star Wars Battlefront 2 Windows PC Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/excellent-non-windows-options-to-replace-the-windows-snipping-tool/"><u>Excellent Non-Windows Options to Replace the Window’s Snipping Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-overcoming-voice-typing-hiccups-in-windows-11/"><u>Expert Guide to Overcoming Voice Typing Hiccups in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-novice-to-expert-the-gpt-4-influence-on-diy/"><u>From Novice to Expert: The GPT-4 Influence on DIY</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-access-dropbox-and-google-drive-from-a-windows-drive-letter/"><u>How to Access Dropbox and Google Drive From a Windows Drive Letter</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-11x-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 11X 5G</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-perfect-audio-timing-a-step-by-step-guide/"><u>Mastering Perfect Audio Timing: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-lost-arks-performance-no-more-frustrating-speed-dips/"><u>Optimizing Lost Ark's Performance: No More Frustrating Speed Dips</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/kak-uspeshno-vypolnit-perenos-os-samye-effektivnye-metody-dlya-novogo-diska/"><u>Как Успешно Выполнить Перенос ОС - Самые Эффективные Методы Для Нового Диска</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-from-novice-to-pro-building-perfect-circles-and-spheres-in-mc/"><u>[New] 2024 Approved From Novice to Pro Building Perfect Circles & Spheres in MC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-step-by-step-creating-your-own-chat-signal-ios-and-android-edition/"><u>[New] In 2024, Step-by-Step Creating Your Own Chat Signal - iOS & Android Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unlocking-color-grading-with-luts-in-pscc/"><u>[Updated] Unlocking Color Grading with LUTs in PSCC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-13-ultimate-free-dvd-players-supporting-windows-11-systems/"><u>Discover the 13 Ultimate Free DVD Players Supporting Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-output-5-essential-windows-11-workplace-apps/"><u>Enhance Output: 5 Essential Windows 11 Workplace Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-detailed-guide-taking-full-screen-photos-with-android/"><u>In 2024, Detailed Guide Taking Full-Screen Photos with Android</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-enhanced-window-for-selecting-widgets-in-win11/"><u>Introduction to Enhanced Window for Selecting Widgets in Win11</u></a></li>
+<li><a href="https://tools.techidaily.com/stellarinfo/data-recovery-ios/"><u>iPhone Data Recovery Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/leap-into-korean-proficiency-with-these-6-websites/"><u>Leap Into Korean Proficiency with These 6 Websites</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wi-fi-troubleshooting-in-windows-11-os-environment/"><u>Mastering Wi-Fi Troubleshooting in Windows 11 OS Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-black-screens-in-latest-win11-version/"><u>Navigating Through Black Screens in Latest Win11 Version</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-updating-the-zoom-app-for-windows-and-macos-users/"><u>Step-by-Step Guide: Updating the Zoom App for Windows and macOS Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-instructions-how-to-update-razer-naga-mouse-drivers-in-windows-1011/"><u>Step-by-Step Instructions: How to Update Razer Naga Mouse Drivers in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-conquerors-guide-to-overcoming-11-windows-errors/"><u>The Conqueror's Guide to Overcoming 11 Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-setting-up-ms-office-work-in-win11/"><u>The Insider's Guide to Setting Up MS Office Work in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-the-common-grumbles-about-new-os-release/"><u>Uncovering the Common Grumbles About New OS Release</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-eliminating-unsolicited-no-mail-errors-on-pc/"><u>Winning Strategies: Eliminating Unsolicited No Mail Errors on PC</u></a></li>
 </ul></div>
 

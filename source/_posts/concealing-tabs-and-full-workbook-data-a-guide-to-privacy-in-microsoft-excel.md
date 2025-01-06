@@ -1,7 +1,7 @@
 ---
 title: "Concealing Tabs and Full Workbook Data: A Guide to Privacy in Microsoft Excel"
-date: 2024-08-28T00:47:44.285Z
-updated: 2024-08-29T00:47:44.285Z
+date: 2025-01-04T18:16:54.759Z
+updated: 2025-01-06T16:13:39.169Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![01_hiding_a_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/01_hiding_a_tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You cannot hide all the worksheets in a workbook. If you try to hide the last visible worksheet, you’ll see the following warning.
 
 ![01a_cannot_hide_warning](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/01a_cannot_hide_warning.png) 
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
  To unhide a worksheet, right-click on any tab still showing and select “Unhide” from the popup menu.
 
 ![02_selecting_unhide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/02_selecting_unhide.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the “Unhide” dialog box that displays, select the worksheet you want to unhide and click “OK”.
 
@@ -44,44 +52,40 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
 
 ![03a_selecting_unhide_sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/03a_selecting_unhide_sheets.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The “Unhide” dialog box displays. Select the worksheet you want to unhide and click “OK”, as described above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Hide an Entire Workbook
 
  To hide an entire workbook, click the “View” tab.
 
 ![44_clicking_view_tab_to_hide_workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/44_clicking_view_tab_to_hide_workbook.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  In the “Window” section of the “View” tab, click “Hide”.
 
 ![45_clicking_hide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/45_clicking_hide.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Excel window stays open but the grid area becomes blank. To unhide the the workbook, click “Unhide” in the “Window” section of the “View” tab.
 
 ![46_clicking_unhide](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/46_clicking_unhide.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The “Unhide” dialog box displays listing the filenames for the currently open workbooks. If you have hidden other entire workbooks that are not current open, they are not listed in this dialog.
 
  When you hide an entire workbook and save the file, the next time you open the workbook, it’s still hidden. It will remain hidden until you unhide it.
 
 ![47_unhide_dialog_for_workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/05/47_unhide_dialog_for_workbook.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you hide an entire workbook and save the file, the next time you open the workbook, it’s still hidden. It will remain hidden until you unhide it.
 
  NOTE: Any worksheets/tabs that were hidden when you hid the entire workbook are still hidden when you unhide the workbook.
@@ -92,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +103,23 @@ thumbnail: https://thmb.techidaily.com/4c8d9f631d7921c719a1941a590fa8e1cb22a0616
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-comprehensive-guide-to-recording-hulu-across-platforms/"><u>[New] In 2024, Comprehensive Guide to Recording Hulu Across Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44ot44oq44ot44oq44gl44kj6ksh5pww5yuv55s744gu6zug5lit44oa44km44oz44ot44o844oj5oml6acg44cn/"><u>「ビリビリから複数動画の集中ダウンロード手順」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-premium-screens-at-their-peak-top-10-listings-for-4k-monitors/"><u>2024 Approved Premium Screens at Their Peak Top #10 Listings for 4K Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/2024-youtube/"><u>2024年用: YouTubeコンテンツをメモリースティックにバックアップする専門的な方法</u></a></li>
+<li><a href="https://win11.techidaily.com/5l255so44gx44gm44ge44kl6zplusz5aow44ov44kp44o844oe44od44oi44gu56k66kqn5pa55rov44co6zplusz5aow56ym5yplus35yyw44k544kt44o844og44ob44kn44od44kv44cp/"><u>使用している音声フォーマットの確認方法『音声符号化スキームチェック』</u></a></li>
+<li><a href="https://win11.techidaily.com/a-complete-walkthrough-setting-up-and-enjoying-houseparty-on-your-pc/"><u>A Complete Walkthrough: Setting Up and Enjoying Houseparty on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/access-amazon-prime-video-content-for-free-on-any-device-with-a-secure-authorized-solution-using-kodi-no-need-for-premium-subscription/"><u>Access Amazon Prime Video Content for Free on Any Device with a Secure, Authorized Solution Using Kodi - No Need for Premium Subscription</u></a></li>
+<li><a href="https://win11.techidaily.com/androidmkv/"><u>AndroidスマホでMKV再生設定・視聴障害の解消手順</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-infinix-hot-30-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Infinix Hot 30 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/googleplus-virtuosos-snapchat-highlights-for-2024/"><u>Google+ Virtuosos' Snapchat Highlights for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-abbeyy-innovates-the-future-of-insurance-with-claims-processing-automation-unveiled-in-our-expert-whitepaper/"><u>How ABBEYY Innovates the Future of Insurance with Claims Processing Automation: Unveiled in Our Expert Whitepaper</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-tecno-spark-go-2024-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Tecno Spark Go (2024) Device</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030664644-pc8/"><u>PCに最適!人気の絶対必見ビデオ記録ソフト8本載流</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719149918094-protect-your-conversations-with-facebooks-newly-secured-dms-and-calls/"><u>Protect Your Conversations with Facebook’s Newly Secured DMs & Calls.</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210221081-9781913590185-rosas-choice/"><u>Rosa's Choice | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-speakers-guide-to-controlling-chatgpt/"><u>The Ultimate Speaker's Guide to Controlling ChatGPT</u></a></li>
+</ul></div>
 

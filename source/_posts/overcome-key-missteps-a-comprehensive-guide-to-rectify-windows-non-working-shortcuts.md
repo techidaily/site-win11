@@ -1,7 +1,7 @@
 ---
 title: "Overcome Key Missteps: A Comprehensive Guide to Rectify Windows Non-Working Shortcuts"
-date: 2024-12-24T01:28:27.790Z
-updated: 2024-12-28T02:54:48.101Z
+date: 2024-12-30T16:21:28.025Z
+updated: 2025-01-06T17:27:54.154Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Keyboard Hardware
 
  Let’s start by ensuring that keyboard shortcuts aren’t working because of a hardware problem. Try and use a different keyboard shortcut to make sure it’s not just a [broken key that you should fix](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
  If you’ve tried multiple keyboard shortcuts and still had no success, use a different USB port and or connect it to a different computer and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn Off the Keyboard’s Gaming Mode
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
  If you're [using a gaming keyboard](https://www.makeuseof.com/best-tkl-mechanical-keyboards-gaming/), it may automatically disable specific keys, such as the **Windows** key. This way, you can’t accidentally hit a keyboard shortcut while playing.
 
  Launch the keyboard’s app and turn off any mode that could stop keyboard shortcuts from working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update Keyboard Drivers
 
@@ -79,13 +79,13 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Sticky keys settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/sticky-keys-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to turn on or off Sticky Keys using a keyboard shortcut, check the box next to **Allow the shortcut key to start Sticky Keys**. This will allow you to turn it on or off by pressing **Shift** five times.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Turn On Windows 10's Hotkeys
@@ -100,10 +100,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reset the Keyboard Settings
 
  Keyboard shortcuts could’ve stopped working because you took [customizing your keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/) too far. In this case, resetting your keyboard to its default settings should fix the problem.
@@ -116,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 4. Click **Add a language** and choose your preferred language
 
 ![Setting a new language in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/set-new-language-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Check Human Interface Device Service
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Human interface service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/human-interface-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Check Third-Party Apps
@@ -157,18 +157,18 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-click-reward-spectrum/"><u>[New] The Ultimate Click Reward Spectrum</u></a></li>
-<li><a href="https://win-news.techidaily.com/7-effective-methods-to-resolve-sticky-iphone-volume-controls-on-models-x-11-12-13-and-14/"><u>7 Effective Methods to Resolve Sticky iPhone Volume Controls on Models X, 11, 12, 13 & 14</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-taskbar-spacing-on-windows-11/"><u>Customizing Taskbar Spacing on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s24-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S24 Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-cli-toolbar-in-windows-11-task-manager/"><u>Integrating CLI Toolbar in Windows 11 Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/key-to-opening-windows-credential-hideout/"><u>Key to Opening Windows Credential Hideout</u></a></li>
-<li><a href="https://win11.techidaily.com/methodology-to-solve-command-not-found-error-in-windows/"><u>Methodology to Solve 'Command Not Found Error' In Windows</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-make-videos-like-a-pro-on-mac-top-rated-video-makers-for-2024/"><u>New Make Videos Like a Pro on Mac Top-Rated Video Makers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/snip-and-sketch-vs-prtsc-the-window-warriors-showdown/"><u>Snip & Sketch Vs. PrtSc: The Window Warriors Showdown</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-choice-top-rated-highly-adaptable-laptop-wows-with-reliable-performance-insights-from-zdnet/"><u>The Ultimate Choice: Top-Rated, Highly Adaptable Laptop Wows With Reliable Performance - Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/top-strategies-for-resolving-minecrafts-win-error-1/"><u>Top Strategies for Resolving Minecraft's Win Error: 1</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-elite-gaming-recorders-that-offer-more-than-just-fbx-files-for-2024/"><u>[Updated] Elite Gaming Recorders That Offer More Than Just FBX Files for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-the-novices-path-to-effective-telegram-advertising/"><u>[Updated] In 2024, The Novice’s Path to Effective Telegram Advertising</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-in-depth-look-at-the-gecata-game-capture-tool/"><u>2024 Approved In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728474720456-windows-11/"><u>解决方案经过验证：找回 Windows 11桌面上不可见的文件和目录</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-ceased-windows-security-activities/"><u>Counteracting Ceased Windows Security Activities</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-disabling-size-constraints-on-discord-windows-11-edition/"><u>Decoding and Disabling Size Constraints on Discord (Windows 11 Edition)</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-redefine-administrative-role-guide-for-windows-11-users/"><u>Efficiently Redefine Administrative Role: Guide for Windows 11 Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-v29e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo V29e Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-shut-down-the-defender-firewall-on-pc/"><u>Learn to Shut Down the Defender Firewall on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-epic-games-access-on-your-system/"><u>Steps to Regain Epic Games Access on Your System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-future-of-biking-unveiled-experience-the-innovative-heads-up-display-with-photochromic-glasses-insights-for-zdnet/"><u>The Future of Biking Unveiled: Experience the Innovative Heads-Up Display with Photochromic Glasses | Insights for ZDNET</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-5-best-xbox-transmission-cards-and-accessories/"><u>Top 5 Best Xbox Transmission Cards and Accessories</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11-the-doorway-to-all-its-folders-of-applications/"><u>Unlocking Windows 11: The Doorway to All Its Folders of Applications</u></a></li>
 </ul></div>
 

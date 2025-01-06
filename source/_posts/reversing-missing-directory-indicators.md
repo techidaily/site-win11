@@ -1,7 +1,7 @@
 ---
 title: Reversing Missing Directory Indicators
-date: 2024-08-23T06:08:48.875Z
-updated: 2024-08-24T06:08:48.875Z
+date: 2025-01-04T16:31:41.903Z
+updated: 2025-01-06T20:51:50.170Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 ![Check Windows version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-windows-version-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're already running the latest version if you see the**No updates available** message. In this case, move on to the following solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart File Explorer
 
@@ -44,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Close Task Manager, launch File Explorer, and check if the problem is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Remove File Explorer Cache
 
  Every app on your computer stores cache files to improve overall performance. But if there are too many cache files or these files get corrupted, you’ll experience all sorts of issues, including tabs missing from File Explorer.
@@ -62,13 +67,15 @@ Follow these steps to clear File Explorer cache files:
 ![Clear File Explorer cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clear-explorer-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you often have to go through the above process manually, you can use Storage Sense to[clean your caches in Windows 11](https://www.makeuseof.com/windows-11-clear-caches/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the System File Checker
 
  The System File Checker (or SFC) is one of the[built-in Windows tools you can use to fix corrupted system files](https://www.makeuseof.com/windows-built-in-repair-tools/) . If this is the reason for File Explorer's missing tabs, running the tool should fix it.
@@ -77,9 +84,6 @@ Follow these steps to clear File Explorer cache files:
 
 ![SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall Windows Updates
 
  There’s a chance File Explorer’s tabs are still missing even after updating to Windows 11 22H2 because of an update malfunction. In this case, reinstalling the update should fix the problem.
@@ -92,28 +96,23 @@ Follow these steps to clear File Explorer cache files:
 
 ![Uninstall Windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-updates-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  This solution works for recent updates. If it’s been a while since you’ve updated to Windows 11 22H2, you’ll have to load a restore point to[revert your computer to the previous Windows version](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Your File Explorer Tabs Back on Windows 11
 
  The File Explorer tabs were long overdue, so there’s no reason to wait for even more before you can use them. Hopefully, one of the methods above helped you fix the problem, and you can easily browse through multiple folders.
 
  Now, you should know that having tabs within File Explorer isn’t the only thing that can change the way Windows looks and feels.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,23 @@ Follow these steps to clear File Explorer cache files:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-humor-unleashed-designing-viral-video-memes-for-facebook-and-insta/"><u>[Updated] 2024 Approved Humor Unleashed Designing Viral Video Memes for Facebook and Insta</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[Updated] In 2024, Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-missteps-checking-gpts-online-status/"><u>Avoiding Missteps: Checking GPT's Online Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/cosmic-constructors-guide-gaming-powerhouses/"><u>Cosmic Constructor's Guide: Gaming Powerhouses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-to-bypassing-dvd-copyright-locks/"><u>Easy Guide to Bypassing DVD Copyright Locks</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-rectify-obs-studio-errors-on-win-11/"><u>Essential Guide: Rectify OBS Studio Errors on Win 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-x6-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Poco X6 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manage-app-packages-using-wingetui-on-windows-11/"><u>How to Manage App Packages Using WingetUI on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-android-studio-execution-the-windows-way/"><u>Masterful Android Studio Execution: The Windows Way</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-tunes-in-fb-video-posts-your-step-by-step-manual/"><u>Mastering Tunes in FB Video Posts Your Step-by-Step Manual</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-your-pcs-rendering-capabilities-in-overwatch-2/"><u>Saving Your PC's Rendering Capabilities in Overwatch 2</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remedy-error-0x80072f8f-0x20000-in-os/"><u>Steps to Remedy Error 0X80072f8f - 0X20000 in OS</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/techniques-for-accelerating-playback-on-spotify/"><u>Techniques for Accelerating Playback on Spotify</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/techniques-for-capturing-and-storing-android-and-mac-snaps/"><u>Techniques for Capturing and Storing Android & Mac Snaps</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-0x87e00-cookies-in-microsoft-marketplace/"><u>Troubleshooting Error 0X87e00 Cookies in Microsoft Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-spotify-error-4-in-windows-11-systems/"><u>Troubleshooting Spotify Error 4 in Windows 11 Systems</u></a></li>
+</ul></div>
 

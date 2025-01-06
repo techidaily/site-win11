@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Development: Best Practices for WSL 2 on PCs"
-date: 2024-12-20T17:34:35.533Z
-updated: 2024-12-28T02:34:27.761Z
+date: 2025-01-02T18:05:02.086Z
+updated: 2025-01-06T18:49:11.749Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
@@ -55,15 +55,15 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
 
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
@@ -77,10 +77,6 @@ Here are some of the other important WSL 2 benefits for developers:
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set Up Multiple Profiles
 
  If you plan on using WSL 2 for work, personal learning, or school, consider creating separate user profiles. This will allow you to keep your apps, configs, and files organized.
@@ -88,7 +84,7 @@ Here are some of the other important WSL 2 benefits for developers:
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update Packages
@@ -100,7 +96,7 @@ Here are some of the other important WSL 2 benefits for developers:
 `sudo apt-get upgrade`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run Containers With Docker
@@ -110,6 +106,10 @@ Here are some of the other important WSL 2 benefits for developers:
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -130,20 +130,19 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-eco-scene-blueprints-download-free-guides-for-professional-filmmakers/"><u>[New] 2024 Approved Eco-Scene Blueprints Download Free Guides for Professional Filmmakers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-tactical-approaches-to-youtube-revenue-with-adsense/"><u>[New] 2024 Approved Tactical Approaches to YouTube Revenue with AdSense</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-upgrading-minecraft-stability-via-ram-adjustment/"><u>[New] In 2024, Upgrading Minecraft Stability via RAM Adjustment</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-subtitled-out-of-a-zip-how-to-convert-files/"><u>[Updated] Subtitled Out of a Zip! How To Convert Files</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-to-uncover-and-clear-windows-usage-tracks/"><u>Efficient Methods to Uncover and Clear Windows Usage Tracks</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/innovations-and-reviews-at-toms-hardware-hub/"><u>Innovations and Reviews at Tom's Hardware Hub</u></a></li>
-<li><a href="https://article-tips.techidaily.com/powerdirector-pro-detailed-reviews-and-step-by-step-guides/"><u>PowerDirector Pro Detailed Reviews and Step-by-Step Guides</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cs-go-not-loading-errors-quickly/"><u>Resolving CS: GO Not Loading Errors Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-your-5ghz-network-visibility-in-windows-11-top-fixes/"><u>Restore Your 5GHz Network Visibility in Windows 11 - Top Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-no-error-message-in-win11-install/"><u>Steps to Overcome No Error Message in Win11 Install</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-error-0x80072f8f-0x20000/"><u>Strategies to Combat Error 0X80072f8f - 0X20000</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-correcting-directdraw-errors-in-win1011/"><u>Swiftly Correcting DirectDraw Errors in WIN10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-windows-tasks-admin-cmd-mode/"><u>Transform Windows Tasks: Admin CMD Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-secrets-to-hd-classic-quests-top-tips-and-tricks-on-windows-plus-scummvm/"><u>Unlock the Secrets to HD Classic Quests: Top Tips and Tricks on Windows + ScummVM</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] 2024 Approved Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-a-comprehensive-explanation-of-changing-your-social-media-cover/"><u>[Updated] A Comprehensive Explanation of Changing Your Social Media Cover</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comparison-of-googles-ar-embellishments-to-competitors/"><u>2024 Approved Comparison of Google's AR Embellishments to Competitors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/climate-change-mitigation-through-urban-design-innovations/"><u>Climate Change Mitigation Through Urban Design Innovations</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-ical-synchronization-with-your-win1011-pc/"><u>Effortless iCal Synchronization with Your Win10/11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-web-session-with-secure-windows-net/"><u>Elevate Your Web Session with Secure Windows Net</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-your-mouse-input-for-a-seamless-experience-in-win/"><u>Fine-Tune Your Mouse Input for a Seamless Experience in Win</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices-for-2024/"><u>How to Get Gratis, Safe VLC Media Player on Mac OS X Devices for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-zte-blade-a3y-an-incisive-review-for-budget-smartphone-enthusiasts/"><u>Maximizing Value with ZTE Blade A3Y: An Incisive Review for Budget Smartphone Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-experience-across-tech-giants-windows-for-applepcs-revealed/"><u>Seamless Experience Across Tech Giants: Windows for Apple/PCs Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-eschewing-fake-windows-software/"><u>The Insider's Guide to Eschewing Fake Windows Software</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweetaudioextractor-quick-sound-maker-for-2024/"><u>TweetAudioExtractor Quick Sound Maker for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-solving-windows-error-code-0xc0000001/"><u>Understanding and Solving Windows Error Code 0XC0000001</u></a></li>
 </ul></div>
 

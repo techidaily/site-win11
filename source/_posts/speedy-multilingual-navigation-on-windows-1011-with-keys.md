@@ -1,7 +1,7 @@
 ---
 title: Speedy Multilingual Navigation on Windows 10/11 with Keys
-date: 2024-12-25T16:31:56.859Z
-updated: 2024-12-28T04:03:50.535Z
+date: 2025-01-03T19:08:42.061Z
+updated: 2025-01-06T16:55:13.019Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With QTranslate
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The popup window that opens includes a few options. You can select different translation services at the bottom of the window. Click the star button to save it to your favorites. Add the translated text to the clipboard by selecting the**Copy selection to clipboard** option.
 
  You can view the main QTranslate translation window by selecting text and pressing the**Ctrl** key twice. That window displays the selected foreign text alongside the translated content. There you can change the translation by choosing a different language on the drop-down menu and clicking**Translate** . Click the**Listen** **to text** (headphone) buttons to play an audio text-to-speech translation.
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Customise QTranslate
@@ -73,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With DeepL
 
@@ -95,13 +95,13 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  DeepL matches your system’s dark or light mode by default. However, you can select for the app to be dark or light. Click the**Select dark or light mode** drop-down menu to choose your preference.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Translate Text With Handy Hotkeys in Windows
@@ -132,19 +132,22 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-beatsaver-recorder-app-review/"><u>[New] BeatSaver Recorder App Review</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-jest-journeys-charting-7-comedic-paths-to-viral-videos/"><u>[Updated] Jest Journeys Charting 7 Comedic Paths to Viral Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-vidmas-video-capturing-excellence/"><u>2024 Approved Unveiling Vidma's Video Capturing Excellence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-entertainment-on-roku-a-list-of-8-channels/"><u>Best Free Entertainment on Roku - A List of 8 Channels</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c67-4g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme C67 4G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-game-selection-amidst-rising-scores-strategies-for-identifying-top-notch-games-in-todays-market/"><u>Mastering Game Selection Amidst Rising Scores: Strategies for Identifying Top-Notch Games in Today's Market</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-personal-tones-androids-ringtone-and-sound-guide/"><u>Mastering Personal Tones Android's Ringtone & Sound Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/open-component-services-on-windows-11-an-insiders-view/"><u>Open Component Services on Windows 11: An Insider's View</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-your-system-why-ai-generated-windows-11-codes-are-not-recommended/"><u>Protect Your System: Why AI-Generated Windows 11 Codes Are Not Recommended</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-click-process-with-mouse-settings-tweak/"><u>Simplify Your Click Process with Mouse Settings Tweak</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-non-operational-keys-on-your-windows-machine/"><u>Solving Non-Operational Keys on Your Windows Machine</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-application-transfer-onto-windows-11-systems/"><u>Streamlining Application Transfer Onto Windows 11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-nvidias-geforce-error-in-windows-os/"><u>Troubleshooting Nvidia's GeForce Error in Windows OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-structuring-vimeo-footage-chapter-creation-tips/"><u>[New] 2024 Approved Structuring Vimeo Footage Chapter Creation Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-evaluating-recmeisters-innovation-in-video-capture-for-2024/"><u>[New] Evaluating Recmeister's Innovation in Video Capture for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive-for-2024/"><u>[New] The Complete VivaCut Overview Editor's Deep Dive for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-beginners-journey-to-enhanced-gopro-adventures/"><u>[Updated] A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-midland-lxt500vp3-radio-a-wealth-of-features-yet-falls-short-in-performance/"><u>Comprehensive Analysis of Midland LXT500VP3 Radio: A Wealth of Features, Yet Falls Short in Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-tutorial-powertoys-in-win11/"><u>Comprehensive Tutorial: PowerToys in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-terminal-five-surprising-command-tricks/"><u>Exploring the Terminal: Five Surprising Command Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-raw-footage-crafting-engaging-videos-on-windows-11-for-2024/"><u>From Raw Footage Crafting Engaging Videos on Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illuminating-iphones-nighttime-photo-secrets-revealed/"><u>Illuminating iPhones Nighttime Photo Secrets Revealed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-electronics-tips-and-reviews-by-toms-hardware/"><u>Navigating the World of Electronics - Tips & Reviews by Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivation-guide-for-apps-from-the-microsoft-store/"><u>Reactivation Guide for Apps From the Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-right-click-context-menus/"><u>Regaining Control Over Right-Click Context Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-your-disappearing-apps-top-6-techniques-for-win-1011/"><u>Resurrect Your Disappearing Apps: Top 6 Techniques for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-data-wins-prime-encryption-software-154-chars/"><u>Secure Your Data: Win's Prime Encryption Software (154 Chars)</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/step-by-step-guide-adding-soundtracks-to-your-aerial-footage/"><u>Step-by-Step Guide: Adding Soundtracks to Your Aerial Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/the-demand-for-higher-capacity-why-go-to-16gb/"><u>The Demand for Higher Capacity: Why Go to 16GB?</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-microsoft-edge-shortcut-keeps-appearing-on-your-desktop/"><u>What to Do if Microsoft Edge Shortcut Keeps Appearing on Your Desktop</u></a></li>
 </ul></div>
 

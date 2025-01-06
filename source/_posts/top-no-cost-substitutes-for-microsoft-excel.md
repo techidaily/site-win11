@@ -1,7 +1,7 @@
 ---
 title: Top No-Cost Substitutes for Microsoft Excel
-date: 2024-08-28T00:49:04.409Z
-updated: 2024-08-29T00:49:04.409Z
+date: 2025-01-05T20:04:13.478Z
+updated: 2025-01-06T20:53:41.116Z
 tags:
   - excel
 categories:
@@ -14,6 +14,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
 ###### [Read update](https://some-skills.techidaily.com/updated-transforming-traditional-markets-with-virtual-engineering/) 
 
 * Checked that content and links are up to date. Updated link for WPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,8 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
  Checked that content and links are up to date. Updated link for WPS.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What to Look for in a Microsoft Excel Alternative
 
  Free spreadsheet software should be just as powerful as paid options and come stocked with all the tools you need to spreadsheet your heart out. Here are the most important features good spreadsheet software should offer, and why they're important:
@@ -49,9 +54,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
 
 ![Google Sheets website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/4670c6c0.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 [Google](https://www.google.com/sheets/about/)
 
 [Google Sheets](https://www.google.com/sheets/about/) (Free) has become as well-known as Microsoft Excel. Google users already have access to this app, plus its ability to integrate with other Google products (like Google Forms and Google Data Studio) makes it easier for you to stay on track while working on your projects. Sheets also saves everything you create to the Cloud, so you'll have access to your spreadsheets from any desktop, [iOS](https://apps.apple.com/us/app/google-sheets/id842849113), or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU906991/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en%5FUS) device.
@@ -63,16 +65,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
 [Learn more at Google Sheets](https://www.google.com/sheets/about/) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Best for Apple Users: Apple iWork Numbers
 
 ![Apple iWork Numbers website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/76ba9d20.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 [Apple](https://www.apple.com/numbers/)
 
  Apple's version of Excel, [iWork Numbers](https://www.apple.com/numbers/) (Free), is available to anyone with an iCloud account (which includes PC users), but the mobile app is only available for [iOS users](https://apps.apple.com/us/app/numbers/id409203825?mt=12) (sorry, Android). Numbers, of course, supports the Apple pencil, so if you're working from your iPad, you can make notes and draw diagrams manually. The app also supports real-time collaboration, showing you real-time edits, and lets you save and export documents as Excel files if you need to work with anyone using Excel. If you need to keep an important document secure in Numbers, you can lock it down with a password, Touch ID, or Face ID.
@@ -81,16 +80,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
 
 [Learn more at Apple iWork](https://www.apple.com/numbers/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Best Open-Source Alternative: LibreOffice Calc
 
 ![LibreOffice Calc spreadsheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/56f0a0ae.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 [LibreOffice](https://www.libreoffice.org/discover/calc/)
 
 [Calc](https://www.libreoffice.org/discover/calc/) (Free), part of LibreOffice, is a robust spreadsheet program for Windows, macOS, and Linux users. Though the software doesn't have the beauty and flash of the other alternatives, it's open-sourced, meaning you have access to much more functionality and the freedom to customize pretty much anything. If you don't want to start with a blank document, choose a [free template](https://extensions.libreoffice.org/?Tags%5B%5D=118) to work off of.
@@ -101,9 +94,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
 
 [Learn more at LibreOffice](https://www.libreoffice.org/discover/calc/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Closest to Microsoft Excel: WPS Office Spreadsheets
 
 ![WPS Office Spreadsheets website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/7a99d5f9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [WPS Office](https://tools.techidaily.com/wps/products/)
 
@@ -133,8 +134,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-transformation-of-video-on-facebook/"><u>[New] 2024 Approved The Transformation of Video on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-unlimited-cloud-storage-service-recommendations/"><u>[Updated] Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-ultimate-step-by-step-for-adding-srt-to-mp4/"><u>2024 Approved The Ultimate Step-by-Step for Adding SRT to MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/youtuber2024/"><u>次世代Youtuber向けに選ばれる動画編集ソフトウェアとハウツーガイド2024年版</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-free-video-trimming-software-our-top-6-recommendations/"><u>Discover the Leading Free Video Trimming Software: Our Top 6 Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-conversion-from-qt-to-mp4-your-ultimate-guide-to-changing-quicktime-files/"><u>Effortless Conversion From QT to MP4: Your Ultimate Guide to Changing QuickTime Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guida-rapida-alla-conversione-di-file-mkv-a-mp4-ad-alta-qualita-scoperto/"><u>Guida Rapida Alla Conversione Di File MKV a MP4 Ad Alta Qualità: Scoperto!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-much-does-pewdiepie-make/"><u>How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-x90s-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo X90S Phones with/without a PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-tips-to-shield-your-viewing-experience-from-unwanted-ads/"><u>In 2024, Tips to Shield Your Viewing Experience From Unwanted Ads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/iphone-driver-update-for-windows-11-quick-tutorial-and-downloading-instructions/"><u>IPhone Driver Update for Windows 11: Quick Tutorial & Downloading Instructions</u></a></li>
+<li><a href="https://win11.techidaily.com/itunes-iphoneandandroid/"><u>ITunesにダビング！カメラ撮影動画から音楽へ - iPhone&Android利用者向けガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030325875-pc/"><u>PCゲーム記録：シンプルな手法とコツをご紹介</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-capturing-and-downloading-your-favorite-instagram-live-sessions/"><u>Simple Tricks: Capturing and Downloading Your Favorite Instagram Live Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-videos-into-high-quality-av1-format/"><u>Step-by-Step Guide: Transforming MKV Videos Into High-Quality AV1 Format</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/tips-for-effective-screen-broadcasts-on-fb-live/"><u>Tips for Effective Screen Broadcasts on FB Live</u></a></li>
+</ul></div>
 

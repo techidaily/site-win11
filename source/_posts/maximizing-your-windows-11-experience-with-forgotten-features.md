@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Windows 11 Experience with Forgotten Features
-date: 2024-12-27T00:21:02.307Z
-updated: 2024-12-28T04:47:20.724Z
+date: 2024-12-31T17:38:51.362Z
+updated: 2025-01-06T17:43:35.662Z
 tags:
   - windows10
   - windows11
@@ -25,19 +25,23 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 11 Features You Ought to Familiarize Yourself With
 
  Here are a few features of Windows 11 we think you should know about and use more often:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Get Familiar With Snap Layouts
 
  This is one of the most effective ways to boost your productivity in Windows 11, and frankly, everyone should be using this neat feature. Microsoft introduced a new set of layout options to snap windows side-by-side or in a tiled format on your screen. This tool is so powerful and simple to use—it’s built into the OS—that it seems obvious Microsoft will expand on it in the next iteration of their desktop operating system.
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We’ve covered[how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
 
@@ -46,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  We’ve probably all used widgets on our phones. The compact tiles give us information at a glance without having to open apps and perform multiple clicks to get the information we want. And apart from its own widgets, Windows 11 also supports those from third parties.
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  They are so easy to use and so terribly useful, that we suggest[getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your[Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
 
@@ -61,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
  We’ve got a comprehensive article on[how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Leverage the Clipboard Manager
 
  If you found the Windows 10 clipboard somewhat limited in capability, you’ll be pleased to know that the clipboard manager underwent something of an overhaul in Windows 11\. You can copy multiple items to the clipboard and access them easily via clipboard history. The Windows 11 clipboard even has support for emojis and kaomoji.
 
 ![The Clipboard history tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-clipboard-history-tab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even though it may seem overwhelming, there’s nothing complicated about[using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
 
@@ -79,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to[set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use Taskbar Hotkeys for Fast Switching
 
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and[how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
@@ -86,14 +90,10 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Android / Linux Emulators
 
@@ -120,22 +120,15 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-saving-your-social-moments-facebook-video-guide/"><u>[New] Saving Your Social Moments Facebook Video Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-skycam-conflict-dji-phantom-vs-gopro-hero5-black/"><u>[New] SkyCam Conflict DJI Phantom Vs GoPro HERO5 Black</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-top-3-techniques-for-exceptional-lol-gaming-broadcasts-for-2024/"><u>[New] Top 3 Techniques for Exceptional LOL Gaming Broadcasts for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-step-by-step-perfecting-your-vr-recording-skills/"><u>[Updated] Step-by-Step Perfecting Your VR Recording Skills</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/easycapture-pro-free-for-windows-10/"><u>EasyCapture Pro - Free for Windows 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fake-it-top-online-face-generators-for-creating-artificial-faces/"><u>Fake It! Top Online Face Generators for Creating Artificial Faces</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-clear-out-a-no-logo-screen-in-win1011/"><u>How to Clear Out a No-Logo Screen in Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unblock-and-connect-chrome-in-your-os-firewallantivirus-settings/"><u>How to Unblock and Connect Chrome in Your OS Firewall/Antivirus Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microsofts-filter-key-functionality/"><u>Mastering Microsoft's Filter Key Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-frozen-windows-update-issue/"><u>Mastery Over Frozen Windows Update Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-windows-drivers-a-step-by-step-guide/"><u>Overhauling Windows Drivers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/rediscover-humanity-six-good-arguments-for-losing-facebook/"><u>Rediscover Humanity: Six Good Arguments for Losing Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-vanishing-steam-icon-graphics/"><u>Reviving Vanishing Steam Icon Graphics</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-ai-risks-when-crafting-your-win-11-code/"><u>Sidestep AI Risks When Crafting Your Win 11 Code</u></a></li>
-<li><a href="https://techtrends.techidaily.com/smartwatch-showdown-discover-the-ideal-fit-between-apple-watch-ultra-and-series-8-with-our-expert-analysis/"><u>Smartwatch Showdown: Discover the Ideal Fit Between Apple Watch Ultra & Series 8 with Our Expert Analysis</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stop-songs-from-playing-instantly-on-apple-music-easy-fixes/"><u>Stop Songs From Playing Instantly on Apple Music – Easy Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/transition-tactics-replacing-older-software-with-windows-11/"><u>Transition Tactics: Replacing Older Software with Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eading-list-of-16-youtube-openers-for-audience-expansion/"><u>[New] Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-resource-efficient-online-photo-cropping/"><u>2024 Approved The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-writing-skills-on-a-windows-machine/"><u>Elevate Your Writing Skills on a Windows Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steams-missing-files-hurdle-on-win11-os/"><u>Overcoming Steam's Missing Files Hurdle on Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-overwatch-push-to-talk-feature-up-and-running-again/"><u>Solved! How to Get Your Overwatch Push-to-Talk Feature Up and Running Again</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-rectifying-rdp-errors-in-windows-11/"><u>Strategies for Rectifying RDP Errors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-bad-chunks-repairing-sector-issues/"><u>Tackling Bad Chunks: Repairing Sector Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-cropping-and-editing-music-in-canva-for-2024/"><u>The Ultimate Guide Cropping & Editing Music in Canva for 2024</u></a></li>
 </ul></div>
 

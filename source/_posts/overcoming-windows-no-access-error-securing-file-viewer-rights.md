@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2024-12-25T04:48:02.509Z
-updated: 2024-12-28T06:33:23.485Z
+date: 2025-01-05T16:12:11.985Z
+updated: 2025-01-06T17:51:54.407Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Grant Full Control Permissions to an user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/grant-full-control-permissions-to-an-user-account.jpg)
 5. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After making these changes, try viewing the photos again and checking if the error has been resolved.
 
 ## 2\. Take Ownership of the Folder
@@ -56,10 +60,14 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -91,23 +95,19 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run the Program Compatibility Troubleshooter
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
@@ -126,18 +126,24 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-fierce-competition-gopro-vs-sonys-dslr-for-adventure-films/"><u>[New] In 2024, Fierce Competition GoPro Vs. Sony's DSLR for Adventure Films</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-complete-guide-to-selecting-high-performance-fpv-drone-propellers/"><u>[Updated] 2024 Approved The Complete Guide to Selecting High-Performance FPV Drone Propellers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-videos-sequentially-for-free-youtube-guide/"><u>[Updated] Navigating Videos Sequentially for Free - YouTube Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sketch-serious-snickers/"><u>[Updated] Sketch Serious Snickers</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-differences-between-remote-and-local-windows-upgrades/"><u>Delving Into Differences Between Remote and Local Windows Upgrades</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-remedy-guide-to-regain-access-in-darked-windows/"><u>Easy Remedy Guide to Regain Access in Darked Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-counter-net-requirement-complaints-in-windows/"><u>How to Counter .NET Requirement Complaints in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-get-laughter-in-minutes-install-and-revel-in-ifunnys-meme-world/"><u>In 2024, Get Laughter in Minutes Install and Revel in iFunny's Meme World</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-history-and-changes-in-ipados-a-complete-guide/"><u>Navigating the History and Changes in iPadOS: A Complete Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-broken-registry-elements-on-windows-11/"><u>Reviving Broken Registry Elements on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-notetakers-comprehensive-reviews-and-comparisons-techradar/"><u>Top Rated Notetakers - Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://win11.techidaily.com/win-files-access-issues-quick-resolution-steps/"><u>Win Files Access Issues: Quick Resolution Steps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/win-system-cannot-retrieve-printer-drivers/"><u>Win System: Cannot Retrieve Printer Drivers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-stardew-key-highlights-from-ginger-isle/"><u>[New] 2024 Approved Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[New] In 2024, Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-interactive-tips-youtube-to-facebook-shareability/"><u>[Updated] 2024 Approved Interactive Tips YouTube to Facebook Shareability</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>[Updated] 2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turn-back-the-tape-on-twitch-broadcasting/"><u>2024 Approved Turn Back the Tape on Twitch Broadcasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/crafting-visual-impact-a-guide-to-color-balancing-mastery/"><u>Crafting Visual Impact A Guide to Color Balancing Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-to-overcome-windows-activation-error-0x803f700f/"><u>Essential Steps to Overcome Windows Activation Error: 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-an-account-password-in-windows-11/"><u>How to Change an Account Password in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-failed-steam-ui-module-on-pc/"><u>How To Reset Failed Steam UI Module on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-boost-creativity-with-free-unique-slideshow-templates-for-inspiration/"><u>In 2024, Boost Creativity with Free, Unique Slideshow Templates for Inspiration</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-safety-and-security-extending-your-pin-length-on-win1111/"><u>Maximize Safety & Security: Extending Your PIN Length on Win11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-access-to-exiled-pin-eraser-tool-in-windows-11/"><u>Restoring Access to Exiled Pin Eraser Tool in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrim-xsb-fail-solutions-for-windows-woes/"><u>Skyrim XSB Fail: Solutions for Windows Woes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-f23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo F23 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/trouble-at-clipcraft-unravel-fixes-today/"><u>Trouble at ClipCraft? Unravel Fixes Today!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unmatched-features-at-an-unbeatable-price-discover-the-lg-2ebytv162895alexpa-24lh4830/"><u>Unmatched Features at an Unbeatable Price: Discover the LG 2ebyTV_162895_ALEXPA 24LH4830</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-method-for-converting-your-mp3-library-into-audible-cds-via-imgburn/"><u>Winning Method for Converting Your Mp3 Library Into Audible CDs via ImgBurn</u></a></li>
 </ul></div>
 

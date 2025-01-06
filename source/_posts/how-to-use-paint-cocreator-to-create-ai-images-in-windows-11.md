@@ -1,7 +1,7 @@
 ---
 title: How to Use Paint Cocreator to Create AI Images in Windows 11
-date: 2024-12-20T23:14:43.483Z
-updated: 2024-12-28T05:45:42.640Z
+date: 2024-12-30T18:10:55.258Z
+updated: 2025-01-06T18:11:54.504Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
  The Paint app has already received significant upgrades like the Fit to Window option, support for image layers, and a background removal feature.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the Paint Cocreator Feature
 
  The Paint Cocreator feature is in the experimental phase and available to Windows Insiders. If you have enrolled your PC in the Canary, Dev, or Beta channel of the [Windows Insider program](https://www.makeuseof.com/windows-11-insider-program-join/), you can try out the Cocreator feature. Release Preview Insider users will have to wait longer.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 ![Joining Paint cocreator waitlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/joining-paint-cocreator-waitlist.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, launch the Paint app, and you will see a Cocreator feature icon in the app. Click on it to open the feature in the side pane. Now, click on the **Join waitlist** button. You will receive an email from the company in your official Microsoft account about getting access to the feature.
@@ -57,18 +61,23 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, you can try more combinations and styles to generate different images based on the same prompt. Remember that creating an image consumes one credit at a time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Paint Cocreator Any Good?
@@ -80,14 +89,6 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
  In the experimental phase, you only get 50 credits to try out this feature. After that runs out, you can still use the Copilot to [generate images using the Bing Image Creator](https://www.makeuseof.com/how-use-bing-image-creator-free/).
 
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Generate AI Images in Paint
 
@@ -103,19 +104,16 @@ thumbnail: https://thmb.techidaily.com/a1f466c594234ad34f641e87364869a2929ae1aee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-expert-techniques-for-transforming-mp4-files-with-vlc/"><u>[Updated] Expert Techniques for Transforming MP4 Files with VLC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/crafting-compelling-podcast-teasers-for-2024/"><u>Crafting Compelling Podcast Teasers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-system-installation-guide-for-pc-manager-w11/"><u>Elevate Your System - Installation Guide for PC Manager W11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-the-enhanced-taskbar-in-windows-11/"><u>How to Enable the Enhanced Taskbar in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-stop-random-opens-in-microsoft-shop-app/"><u>How to Stop Random Opens in Microsoft Shop App</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/master-your-nodejs-apps-with-argon-pro-dashboard-the-premier-tool-from-creative-tim/"><u>Master Your Node.js Apps with Argon Pro Dashboard: The Premier Tool From Creative Tim</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-utorrent-installation-failures-in-windows-108/"><u>Mitigating uTorrent Installation Failures in Windows 10/8</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-cut-trim-and-edit-vlc-videos-on-mac-with-zero-quality-loss/"><u>New 2024 Approved Cut, Trim, and Edit VLC Videos on Mac with Zero Quality Loss</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/silent-earbuds-not-for-long-discover-10-fixes-for-airpods-with-no-sound-or-erratic-audio-quality/"><u>Silent Earbuds? Not for Long! Discover 10 Fixes for AirPods with No Sound or Erratic Audio Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-handling-unable-to-terminate-error-on-pc/"><u>Solutions for Handling 'Unable to Terminate' Error on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/starting-again-methodical-steps-for-a-windows-11-new-life/"><u>Starting Again: Methodical Steps for a Windows 11 New Life</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-transitions-with-picsarts-facial-motion-blur/"><u>[New] Seamless Transitions with Picsart's Facial Motion Blur</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-the-best-practices-in-cds-ripping-and-burning-with-win-media-for-2024/"><u>[New] Unveiling the Best Practices in Cds Ripping & Burning with Win, Media for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unseen-wealth-the-underground-auction-of-elusive-artifacts-2023-edition/"><u>[Updated] In 2024, Unseen Wealth The Underground Auction of Elusive Artifacts, 2023 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/combating-windows-service-non-response-with-error-1053-remedies/"><u>Combating Windows Service Non-Response with Error 1053 Remedies</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-troubleshooting-guide-for-fullscreen-gaming/"><u>Comprehensive Troubleshooting Guide for Fullscreen Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-apperror-with-text-on-w11-os-issue/"><u>Correcting AppError with Text on W11 OS Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-iphone-reset-methods-no-itunes-required/"><u>DIY iPhone Reset Methods - No iTunes Required</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-15-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 15?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-brio-webcam-on-your-pc-download-guide-for-windows-1187-users/"><u>Install Logitech BRIO Webcam on Your PC: Download Guide for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-designing-safety-shortcuts-in-windows-11/"><u>Mastering the Art of Designing Safety Shortcuts in Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-video-proportions-tips-for-changing-youtubes-resolution-to-fit-any-screen/"><u>Mastering Video Proportions: Tips for Changing YouTube's Resolution to Fit Any Screen</u></a></li>
 </ul></div>
 

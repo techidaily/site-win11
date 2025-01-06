@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps to Define Excel Cell Value Constraints: Min and Max Techniques"
-date: 2024-08-28T00:47:46.627Z
-updated: 2024-08-29T00:47:46.627Z
+date: 2025-01-02T20:46:54.790Z
+updated: 2025-01-06T18:00:23.152Z
 tags:
   - excel
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
  However, a less-known use of the MIN and MAX functions in Excel lets you cap numbers in a spreadsheet, or set a minimum value. Let's see how we can do this.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Produce a Result With a Minimum Value in Excel
 
  To produce a result with a minimum value in Excel, use the following formula:
@@ -41,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![Excel sheet containing a table with three columns. The first column contains fruit products, the second column contains customer orders, and the third column (blank) contains orders to make with the wholesaler (minimum 1500).](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/wholesale-orders-blank.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Therefore, we want Excel to tell us how many pieces of each fruit we need to order from the wholesale to both satisfy our customers' orders and meet the minimum requirement of the wholesaler. Begin by clicking the cell where you want the first calculation to be made (in this case, we're starting with bananas).
 
  Start to type the following formula:
@@ -64,29 +62,24 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![Excel sheet showing the use of the MAX formula to produce a minimum result of 1500 in the final column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/min-bananas.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  If the minimum criterion is likely to change, instead of typing the minimum number into the formula above, we would type the minimum value into another cell and [use an absolute reference](https://some-approaches.techidaily.com/in-2024-unveiling-3dr-a-personal-perspective-on-printing-alone/) to tell Excel where to find the criterion:
 
 =MAX($K$28,J20)
 
 ![Excel sheet showing the minimum value in cell K28 and the correct formula to use to produce a minimum result in the final column of the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/abs-ref-minimum-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you were to change "1500" to another number in cell K28, the minimum criterion would automatically change within your calculations in your table.
 
  We can now apply the same formula to the other cells in the table by [using Excel's AutoFill function](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/).
 
 ![Excel sheet showing the total orders in the rightmost column after having applied the minimum value and used AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/min-autofilled-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We have now fulfilled our customers' orders while also meeting the wholesaler's minimum requirements for each fruit.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Produce a Result With a Maximum Value in Excel
 
  To produce a result with a minimum value in Excel, use the following formula:
@@ -99,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![Excel sheet containing a table with five columns. The first column contains employee names, the second and third columns contain the respective bonuses to be paid for January and February, the fourth column contains the total bonuses, and the fifth column is headed 'Maximum bonus: 5000' with no values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bonus-payments-blank.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Firstly, type the following formula in the cell where you want the result to show:
 
 =MIN(
@@ -120,6 +110,10 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 
 ![Excel sheet showing the use of the MIN formula to produce a maximum result of 5000 in the final column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/max-employee-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are likely to change the value of the capped number, type the maximum value in another cell and [reference this cell using an absolute reference](https://some-approaches.techidaily.com/in-2024-unveiling-3dr-a-personal-perspective-on-printing-alone/), instead of typing the maximum value directly into the formula:
 
 =MIN($M$28,L20)
@@ -133,8 +127,9 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![Excel sheet showing the total bonus in the rightmost column after having applied the maximum value and used AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/max-autofilled-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Produce Maximum or Minimum Results With Other Formulas in Excel
 
  Using a formula within your MIN or MAX calculation can help you to present your spreadsheet more succinctly. Let's say we want to remove the total bonus column altogether in the following table, and get Excel to work out the payment at the same time as considering the maximum value.
@@ -142,11 +137,16 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
 ![Excel sheet containing a table with five columns. The first column contains employee names, the second and third columns contain the respective bonuses to be paid for January and February, the fourth column contains the total bonuses, and the fifth column is headed 'Maximum bonus: 5000' with no values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/bonus-payments-blank.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Therefore, our table would initially look like this, and we need to tell Excel to add the totals together for each employee to work out what will go in the final column:
 
 ![Excel sheet containing a table with four columns. The first column contains employee names, the second and third columns contain the respective bonuses to be paid for January and February, and the fourth column is headed 'Max 5000' with no values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/combined-blank-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To work out how much we're paying Tom, in the cell where you want the total to show (L20 in this example), type the following formula and press Enter:
 
@@ -180,8 +180,6 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +187,19 @@ thumbnail: https://thmb.techidaily.com/82e91f7db84fddd0d0cd74fd53de4decc4bc8c46a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-from-gimmicks-to-giants-navigating-popular-short-hashtags/"><u>[New] From Gimmicks to Giants Navigating Popular Short Hashtags</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-pinnacle-8-webcams-for-high-definition-streaming/"><u>[Updated] 2024 Approved Pinnacle 8 Webcams for High-Definition Streaming</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>2024 Approved Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-minimizing-dvd-storage-footprint-using-premier-compression-programs/"><u>Effective Techniques for Minimizing DVD Storage Footprint Using Premier Compression Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-transform-high-resolution-4k-content-into-1080p-with-ease/"><u>Effective Techniques: Transform High-Resolution 4K Content Into 1080P with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-dvd-formatting-tips-and-techniques-for-windows-users/"><u>Effortless DVD Formatting Tips and Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/encouraging-readers-to-consider-homestays-or-volunteer-exchanges-for-authentic-local-experiences/"><u>Encouraging Readers to Consider Homestays or Volunteer Exchanges for Authentic Local Experiences.</u></a></li>
+<li><a href="https://win-online.techidaily.com/exploring-solutions-unraveling-the-reasons-behind-graphical-flaws-in-your-system-insights-by-yl-computing/"><u>Exploring Solutions: Unraveling the Reasons Behind Graphical Flaws in Your System - Insights by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/get-free-downloads-access-your-favorite-movies-and-tunes-from-anywhere/"><u>Get Free Downloads: Access Your Favorite Movies & Tunes From Anywhere</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/snag-your-ideal-samsung-gadgets-at-rock-bottom-prices-on-prime-day/"><u>Snag Your Ideal Samsung Gadgets at Rock-Bottom Prices on Prime Day!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successful-guide-installing-mouse-drivers-on-windows-7/"><u>Successful Guide: Installing Mouse Drivers on Windows 7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-m34-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy M34 FRP Bypass Everything You Need to Know</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Hidden Actions for Context Menus on Windows Editions
-date: 2024-08-23T06:12:30.015Z
-updated: 2024-08-24T06:12:30.015Z
+date: 2024-12-31T16:39:04.663Z
+updated: 2025-01-06T16:53:49.037Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
  File Explorer has a Hidden items option you can select to reveal hidden files and folders. Those are mainly important system files and folders hidden for good reason. However, you can also select to hide user files as well.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
 
@@ -43,7 +47,15 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
 
@@ -59,6 +71,11 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 8. Click the **File**/**Folder** tab in Right-Click Extender.  
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
@@ -66,15 +83,14 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -82,3 +98,25 @@ thumbnail: https://thmb.techidaily.com/ba715f0751b3e95d85d54c2de37214787de2fc86e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-designing-short-trailers-that-tell-a-story/"><u>[Updated] Designing Short Trailers That Tell a Story</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spectacular-indulgent-pc-pastimes/"><u>2024 Approved Spectacular Indulgent PC Pastimes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/erate-follower-count-key-strategies-unlocked/"><u>Accelerate Follower Count Key Strategies Unlocked</u></a></li>
+<li><a href="https://win11.techidaily.com/discretions-domain-the-art-of-silencing-windows-11/"><u>Discretion's Domain: The Art of Silencing Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-permanent-deletion-of-files-using-the-windows-11-and-11-trash-bin/"><u>Ensuring Permanent Deletion of Files Using the Windows 11 & 11 Trash Bin</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-the-perfect-virtual-space-with-zooms-features/"><u>In 2024, Crafting the Perfect Virtual Space with Zoom's Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-refinement-of-zoom-visual-clarity-techniques-and-strategies/"><u>In 2024, Refinement of Zoom Visual Clarity Techniques and Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hing-a-mobile-friendly-youtube-space-for-entrepreneurs/"><u>Launching a Mobile-Friendly YouTube Space for Entrepreneurs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-ins-and-outs-of-win11-status-with-these-top-five-uptime-tests/"><u>Navigate the Ins and Outs of Win11 Status with These Top Five Uptime Tests</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-thumbnail-display-errors/"><u>Overcoming Windows Thumbnail Display Errors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pro-tip-guide-to-integrating-photos-and-videos-into-windows-10-for-2024/"><u>Pro-Tip Guide to Integrating Photos and Videos Into Windows 10 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-sight-of-sd-card-in-windows-filesystem/"><u>Reclaim Sight of SD Card in Windows Filesystem</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fifa-19-game-crashing-issues-on-windows/"><u>Resolved: Fixes for FIFA 19 Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-note-taking-techniques-on-win11/"><u>Seamless Note-Taking Techniques on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-techniques-for-widget-notification-control-win-11/"><u>Tailored Techniques for Widget Notification Control Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-latest-surface-laptop-go-3-evaluation-more-speed-same-problems/"><u>The Latest Surface Laptop Go 3 Evaluation: More Speed, Same Problems</u></a></li>
+</ul></div>
+

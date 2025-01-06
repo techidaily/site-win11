@@ -1,7 +1,7 @@
 ---
 title: Overcoming Screen Size Barriers in Windows Games
-date: 2024-12-23T21:16:13.377Z
-updated: 2024-12-28T06:16:19.959Z
+date: 2025-01-04T19:19:12.772Z
+updated: 2025-01-06T20:36:30.893Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
  Pressing **Alt + Enter** again will [switch your game back to windowed mode](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check the In-Game Display Settings
 
  Most games include a dedicated display settings menu that lets you specify whether you want to run the game in full screen or windowed mode. You need to review this setting for your games to ensure that full screen mode is selected.
 
 ![In-Game Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-settings-menu.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations in Windows
 
@@ -52,11 +52,7 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 ![Disable Fullscreen Optimization on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fullscreen-optimization-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set the Display Scale to 100%
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
  To change the display scale on Windows, open the **Settings** app and navigate to **Display**. Click the drop-down menu next to **Scale** to select **100%**.
 
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Compatibility Mode
 
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
  Occasionally, overlays from apps like Discord, Steam, or GeForce Experience can disrupt the full screen functionality of certain games, resulting in issues. To check for this possibility, you can temporarily [disable the GeForce overlay](https://www.makeuseof.com/windows-geforce-overlay-disable/), the Discord overlay, or any other software that shows overlays to see if this works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform Some Basic Windows Fixes
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 * **Run the Game as an Administrator:** In some cases, running the game as an administrator can also help fix the problem. If this method proves effective, you can configure your game to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Experience Gaming Like Never Before With a Full Screen Advantage
@@ -113,22 +113,18 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-beginning-the-live-journey-on-instagram-for-2024/"><u>[New] Beginning the Live Journey on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[Updated] How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-auditory-nexus-studio-mac-essentials/"><u>[Updated] In 2024, The Auditory Nexus Studio Mac Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-use-of-ram-in-cross-device-service-platforms-windows-tips/"><u>Efficient Use of RAM in Cross-Device Service Platforms: Windows Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-unveiling-and-managing-windows-10-actions/"><u>Guide to Unveiling & Managing Windows 10 Actions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>In 2024, Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s24frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S24FRP Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11s-security-restrictions-with-rufus-expertise/"><u>Navigating Windows 11'S Security Restrictions with Rufus Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-discretion-in-windows-11-functionality/"><u>The Art of Discretion in Windows 11 Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/the-basics-how-to-use-microsofts-phone-link-app/"><u>The Basics: How to Use Microsoft's ‘Phone Link’ App</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-6-strategies-for-selecting-the-ideal-selfie-extender/"><u>Top 6 Strategies for Selecting the Ideal Selfie Extender</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-window-glow-on-windows-11-computers/"><u>Transforming Window Glow on Windows 11 Computers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-logitech-webcam-and-mic-issues/"><u>Troubleshooting Guide: How To Fix Logitech Webcam and Mic Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/unclutter-your-taskbar-separate-groups/"><u>Unclutter Your Taskbar: Separate Groups</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-computer-with-microsoft-works-for-windows/"><u>Unlocking Your Computer with Microsoft Works for WIndows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/uploading-movies-instagram-guide/"><u>Uploading Movies Instagram Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[Updated] In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-app-performance-review/"><u>2024 Approved Expertise in App Performance Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-introducing-your-podcast/"><u>2024 Approved The Art of Introducing Your Podcast</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-onedrive-placement-in-microsoft-windows-11/"><u>Customize OneDrive Placement in Microsoft Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/gamers-guide-to-avoiding-high-system-throttling-issues/"><u>Gamers' Guide to Avoiding High System Throttling Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-affordable-yet-high-quality-cameras-list/"><u>In 2024, Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/incredible-inexpensive-stopwatch-solutions-for-2024/"><u>Incredible Inexpensive Stopwatch Solutions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-potential-of-powershell-for-storage-sizing/"><u>Leveraging the Potential of PowerShell for Storage Sizing</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-switching-your-desktops-dynamic-wallpaper-on-windows/"><u>Quick Guide: Switching Your Desktop's Dynamic Wallpaper on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a70-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on A70</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-excessive-wmi-cpu-demands/"><u>Resolving Excessive WMI CPU Demands</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/streamlining-video-conferencing-on-chrome-os-for-2024/"><u>Streamlining Video Conferencing on Chrome OS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-backup-strategies-for-cortana-information/"><u>Win Backup Strategies for Cortana Information</u></a></li>
 </ul></div>
 

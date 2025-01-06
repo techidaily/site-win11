@@ -1,7 +1,7 @@
 ---
 title: Tackling Unsuccessful File Transfers in Windows
-date: 2024-12-27T01:33:44.326Z
-updated: 2024-12-27T17:19:00.121Z
+date: 2024-12-31T17:17:09.591Z
+updated: 2025-01-06T19:09:32.728Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Free Up Drive Storage Space
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Clean your local drive if it has less than two gigabytes of free storage space. You can free up some drive space by uninstalling software packages, utilizing the Disk Clean-up tool, and deleting user files. Our guide to [freeing up storage space on Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) provides step-by-step instructions for the various methods.
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -68,10 +68,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
 7. Then click **Yes** on the logoff prompt.
@@ -79,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
@@ -95,20 +91,20 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
@@ -134,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 4. Click **Reset** inside the confirmation prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Factory Reset Window
 
  If you still can’t download files after applying all the other resolutions above, there could be a deeper Windows issue that needs addressing. Resetting Windows involves a full reinstallation and will usually fix most system issues. It’s not an ideal resolution because you will need to reinstall all of your third-party software after applying it.
@@ -143,7 +143,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -164,22 +164,21 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-great.techidaily.com/effective-strategies-for-converting-your-dv-files-into-mp4-format-a-comprehensive-guide/"><u>Effective Strategies for Converting Your DV Files Into MP4 Format: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/explore-the-top-8-win11-choices-for-professional-videoscripting/"><u>Explore the Top 8 Win11 Choices for Professional Videoscripting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/getting-fcp-on-the-house-simple-steps/"><u>Getting FCP on the House - Simple Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-merge-adjacent-and-non-adjacent-partitions-in-windows/"><u>How to Merge Adjacent and Non-Adjacent Partitions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reconnect-disconnected-file-apps-in-windows/"><u>How to Reconnect Disconnected File Apps in Windows</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-easywinrecorder-capture-windows-screens-quickly/"><u>In 2024, EasyWinRecorder Capture Windows Screens Quickly</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-youtube-video-splitting/"><u>In 2024, The Ultimate Guide to YouTube Video Splitting</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-bloatware-removal-in-windows-11/"><u>Mastering Bloatware Removal in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-connectivity-microsofts-phone-link-app-explained/"><u>Mastering Connectivity: Microsoft’s Phone Link App Explained</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-the-best-free-mkv-editors-for-cutting-and-trimming/"><u>New 2024 Approved The Best Free MKV Editors for Cutting and Trimming</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pinnacle-of-low-speed-video-recording-top-5-for-2024/"><u>Pinnacle of Low-Speed Video Recording – Top 5 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-solution-conquer-camera-fails-in-windows-os/"><u>Quick Solution: Conquer Camera Fails in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-cyber-travel-mastering-connections-on-windows-pc/"><u>Seamless Cyber Travel: Mastering Connections on Windows PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/thermal-paste-eaten-by-fire-ants-shocking-discovery-reveals-insects-in-gpu-unit/"><u>Thermal Paste Eaten by Fire Ants? Shocking Discovery Reveals Insects in GPU Unit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-setting-up-nvidias-chat-with-rtx-for-optimal-interaction/"><u>Unleashing AI Potential: Setting Up Nvidia's Chat with RTX for Optimal Interaction</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-the-secrets-of-tomorrow-how-the-ipad-pros-tandem-oled-paves-the-way-for-next-gen-display-technology-techinsights/"><u>Unlocking the Secrets of Tomorrow: How the iPad Pro's Tandem OLED Paves the Way for Next-Gen Display Technology | TechInsights</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-wonders-diverse-monitor-decorations-1011-edition/"><u>Windows Wonders: Diverse Monitor Decorations, 10/11 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta-for-2024/"><u>[New] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta) for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-engaging-and-memorable-youtube-channel-graphics/"><u>[Updated] In 2024, Creating Engaging and Memorable YouTube Channel Graphics</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>[Updated] Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-installing-lenovo-t430-drivers-on-windows-pcs-versions-7-10/"><u>Comprehensive Guide to Downloading and Installing Lenovo T430 Drivers on Windows PCs (Versions 7-10)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-core-differences-the-ultimate-guide-to-mac-and-pc-contrasts/"><u>Discovering Core Differences: The Ultimate Guide to Mac and PC Contrasts</u></a></li>
+<li><a href="https://win11.techidaily.com/elusive-sd-card-on-pc-explorer-troubleshooting-steps/"><u>Elusive SD Card on PC Explorer - Troubleshooting Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-essential-elements-required-warning-in-w10w11-os/"><u>Fixing Essential Elements Required Warning in W10/W11 OS</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-missing-text-display-on-discord-client-for-pc/"><u>Fixing Missing Text Display on Discord Client for PC</u></a></li>
+<li><a href="https://win11.techidaily.com/steady-your-display-tackling-win1011-screen-issues/"><u>Steady Your Display: Tackling WIN10/11 Screen Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-best-spots-for-free-downloadable-got-ringtones/"><u>The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-expand-your-windows-11-pin-count/"><u>Tricks to Expand Your Windows 11 Pin Count</u></a></li>
+<li><a href="https://win11.techidaily.com/unheard-no-more-5-apps-to-elevate-your-pcs-volume-over-100/"><u>Unheard No More: 5 Apps to Elevate Your PC’s Volume Over 100%</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinct-features-of-cable-tv-and-streaming-services/"><u>Unraveling the Distinct Features of Cable TV and Streaming Services</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-windows-features-for-audio-capture/"><u>Utilizing Windows Features for Audio Capture</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/yl-software-presents-chloe-coleman-visual-collection-stunning-backgrounds-and-wallscapes-to-elevate-your-digital-experience/"><u>YL Software Presents Chloe Coleman Visual Collection: Stunning Backgrounds and Wallscapes to Elevate Your Digital Experience</u></a></li>
 </ul></div>
 

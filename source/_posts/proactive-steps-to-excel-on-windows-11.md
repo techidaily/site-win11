@@ -1,7 +1,7 @@
 ---
 title: Proactive Steps to Excel on Windows 11
-date: 2024-12-24T05:14:00.299Z
-updated: 2024-12-28T06:07:53.729Z
+date: 2025-01-03T17:54:09.825Z
+updated: 2025-01-06T20:10:01.793Z
 tags:
   - windows10
   - windows11
@@ -29,23 +29,19 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 ![windows 11 snap layouts feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-feature.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Snapping experience in Windows 11 is fun and can increase your productivity. The Snap layouts capability helps you arrange multiple windows side by side quickly, thus helping you multitask.
 
  Snap layouts feature consists of different zones, each one of which will be occupied by a window. These layouts are available when you hover your mouse over the window's maximize button. Alternatively, you can press the **Win key** \+ **Z** on your keyboard to launch the layouts ([learn how to use Snap layouts](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/)).
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Open Files Directly From Start
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Files app is there on your taskbar unless you unpin from there. That said, there are other ways to open files that are important to you more quickly. You can use the search functionality in Windows 11 Start Menu to open the files quickly. All you have to do is type the name of your file and then click or tap on it.
 
@@ -63,9 +59,17 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Customize the Quick Settings Panel
 
 ![Enable or Disable Battery Saver in via Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-quick-settings-panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You get quick access to commonly used settings like WiFi, Bluetooth, battery saver, and Airplane mode via the Quick Settings panel in Windows 11\. You can click the WiFi, speaker, and battery to open the panel. You can customize the panel to add or remove menu items like mobile hotspot, night light, WiFi, battery saver, and more.
 
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ## 5\. Run Android Apps in Windows 11
 
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
 
@@ -86,16 +94,12 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Use Widgets to Stay Updated With Topics
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
  Widgets help you stay updated with the latest information from your favorite apps and services without opening them. The Widgets experience in Windows 11 is not perfect, but it has the basics covered. Besides Microsoft's stock apps, you can find widgets from third-party apps, including Facebook, Spotify, and more.
 
  You can see the Widgets icon on the left side of the screen. Moving over the mouse over the icon will open the Widgets board for you to add and remove widgets, plus so much more. If you are new to Windows 11, [learn tips and tricks to get the most out of the Widgets experience](https://www.makeuseof.com/windows-11-widgets-starter-tips/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows 11 Is Fun... but Don’t Play With Everything
 
@@ -125,22 +125,24 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-conquering-podcast-title-creativity-a-comprehensive-tutorial-and-idea-list/"><u>[New] Conquering Podcast Title Creativity A Comprehensive Tutorial & Idea List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-pro-the-ultimate-guide-to-gaming-with-kinemaster-app/"><u>[New] From Novice to Pro The Ultimate Guide to Gaming with KineMaster App</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-5-strategies-for-avoiding-vr-nausea/"><u>[Updated] In 2024, 5 Strategies for Avoiding VR Nausea</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-iphone-xsipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on iPhone XS/iPad/iPod</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/data-realm-renaissance-pioneering-cloud-services-s-needs/"><u>Data Realm Renaissance Pioneering Cloud Services 'S Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-typing-precision-in-windows-11-sidestep-key-lag-pitfalls/"><u>Enhance Typing Precision in Windows 11: Sidestep Key Lag Pitfalls</u></a></li>
-<li><a href="https://win11.techidaily.com/from-mobile-to-stationary-setting-up-your-android-as-a-windows-webcam/"><u>From Mobile to Stationary: Setting Up Your Android as a Windows Webcam</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-8-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Online? Here are 6 Easy Ways</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/huge-savings-alert-secure-zdnets-favorite-laptops-for-50-off-on-amazon-pre-prime-day-sale/"><u>Huge Savings Alert: Secure ZDNet's Favorite Laptops for 50% Off on Amazon Pre Prime Day Sale!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>In 2024, What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-windows-volume-control-configuration/"><u>Maintaining Windows Volume Control Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-passwords-in-windows-11-with-the-four-best-guardians/"><u>Master Your Passwords in Windows 11 with The Four Best Guardians</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/multifunctional-10-in-1-charging-hub-up-to-35-savings-today-discover-at-zdnet/"><u>Multifunctional 10-in-1 Charging Hub - Up to 35% Savings Today! Discover at ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-naming-schemes-for-windows-files-max-156/"><u>Pro Naming Schemes for Windows Files (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-conquerors-guide-taking-back-control-over-windows-11-themes/"><u>The Conquerors Guide: Taking Back Control over Windows 11 Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-solving-virtualbox-usb-attachment-failures/"><u>Understanding and Solving VirtualBox USB Attachment Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-and-11-a-comprehensive-directdraw-troubleshooting-manual/"><u>Win11 & 11: A Comprehensive DirectDraw Troubleshooting Manual</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-every-detail-on-mac-free-for-2024/"><u>[New] Capture Every Detail on Mac - Free for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-how-to-view-old-stories-on-facebook-in-2024/"><u>[New] How to View Old Stories on Facebook, In 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-online-marketplace-for-profitable-yt-content-for-2024/"><u>[Updated] Navigating the Online Marketplace for Profitable YT Content for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-5-web-based-titling-aces-identified-for-2024/"><u>Best 5 Web-Based Titling Aces Identified for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-drives-division-4-tactics-for-removal-in-windows/"><u>Conquering Drives' Division: 4 Tactics for Removal in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-windows-update-with-error-code-0x800f0845/"><u>Correcting Failed Windows Update with Error Code 0X800f0845</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficiently-refreshing-wireless-drivers-on-pcs/"><u>Efficiently Refreshing Wireless Drivers on PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2023-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2023 Files on Mac Complete Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XS Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-procedures-for-surface-hardware-firmware-updates/"><u>Optimal Procedures for Surface Hardware Firmware Updates</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/simple-methods-to-transform-your-product-images-background-into-perfect-white-no-photoshop-required/"><u>Simple Methods to Transform Your Product Images' Background Into Perfect White - No Photoshop Required!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-problem-troubleshooting-sims-4-failure-to-launch/"><u>Solving the Problem: Troubleshooting Sims 4 Failure to Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-xbox-game-pass-error-0-on-windows-11-devices/"><u>Steps to Resolve Xbox Game Pass Error 0 on Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-11s-extra-view-command-in-menu/"><u>Streamlining Win 11'S Extra View Command in Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-for-rectifying-error-code-31-on-your-pcs-network/"><u>The Blueprint for Rectifying Error Code 31 on Your PC's Network</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-a-shining-windows-11-title-bar/"><u>Tips for a Shining Windows 11 Title Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-windows-update-errors-specifically-0x80070003/"><u>Understanding & Resolving Windows Update Errors: Specifically, 0X80070003</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-cant-see-a-drive-letter-on-your-pc-insights-and-remedies-for-win-users/"><u>Why You Can't See a Drive Letter On Your PC? Insights & Remedies for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-definitive-definitions-made-simple/"><u>Win11 Definitive Definitions Made Simple</u></a></li>
 </ul></div>
 

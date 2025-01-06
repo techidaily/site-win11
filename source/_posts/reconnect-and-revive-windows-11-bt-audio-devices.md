@@ -1,7 +1,7 @@
 ---
 title: Reconnect and Revive Windows 11 BT Audio Devices
-date: 2024-08-23T06:12:12.682Z
-updated: 2024-08-24T06:12:12.682Z
+date: 2024-12-30T18:17:11.470Z
+updated: 2025-01-06T16:03:45.594Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
  Bluetooth speakers have become increasingly popular recently, and there's a good reason behind it. They allow you to enjoy your favorite music without being tethered to a device. However, if you're using a Bluetooth speaker with a Windows PC, you might have trouble controlling the volume.
 
  This can be irritating, especially when you can't control the volume when it is too low or too high. Fortunately, you can try various fixes when Bluetooth speaker volume control is not working in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Try Basic Repairs
 
@@ -48,7 +52,15 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 5. In the**Get Help** window that crops up, click**Yes** to give your consent to run automated diagnostics to fix your Bluetooth issue.  
 ![Yes option of the Bluetooth Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/yes-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it! The Bluetooth troubleshooter will detect and fix issues automatically. Once the process is complete, restart your system and check if the Bluetooth speaker volume controller is working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Choose Your Bluetooth Speaker as Default Audio Device
 
@@ -60,14 +72,12 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 2. Click**More sound settings** under the**Advanced** section.  
 ![More sound settings option in the Sound setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/more-sound-settings.jpg)
 3. Select your Bluetooth speaker and click the**Set default** button. Then, click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Set default option in the Sound settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-default.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update Your Bluetooth Driver
 
  Drivers become outdated with time. Using an outdated driver can pose issues and thus affect the normal functioning of the device. So, it is a great idea to update your Bluetooth driver to the latest version.
@@ -81,9 +91,6 @@ Follow these steps to download the latest Bluetooth driver update:
 
  Now, wait till the utility looks for and downloads any available driver update. However, if Windows fails to detect any new driver update, search on your Bluetooth adapter manufacturer's website for a new driver.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall Bluetooth Driver
 
  If downloading the latest Bluetooth driver update wasn't helpful, try reinstalling the drivers. That way, your computer will[remove all the corrupt drivers](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) and auto-download and install the befitting drivers.
@@ -95,10 +102,11 @@ Follow these steps to download the latest Bluetooth driver update:
 3. Click**Uninstall** again to confirm your selection.  
 ![Uninstall option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, restart your computer and pair the Bluetooth device again. Upon pairing, Windows will auto-download the latest drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Restart Bluetooth Support Service
 
@@ -113,8 +121,13 @@ Follow these steps to download the latest Bluetooth driver update:
 4. Click**Yes** to the confirmation box that crops up.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn Off Absolute Volume
 
  Absolute Volume is an incredible Windows feature that lets you effectively manage the volume of your Bluetooth speaker. But, for various reasons, it might start malfunctioning and prevent you from adjusting the volume.
@@ -129,9 +142,6 @@ Follow these steps to download the latest Bluetooth driver update:
 3. Right-click on the**CT folder** in the left sidebar, hover the cursor to**New,** and choose**DWORD (32-bit) Value** .  
 ![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value.jpg)
 4. Right-click the newly created value in the right pane, and choose**Rename** from the context menu.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 5. Name the value**DisableAbsoluteVolume** and press Enter.
 6. Double-click on the DisbaleAbsoluteVolume value in the right pane.
 7. Type**1** in the**Value data** section and click**OK.**  
@@ -143,14 +153,11 @@ Follow these steps to download the latest Bluetooth driver update:
 
  These are all the fixes you can try when the Bluetooth speaker volume controller is not working in Windows 11\. Restarting the computer and re-pairing the Bluetooth device usually does the trick. However, if that doesn't work, try troubleshooting the drivers, restarting important services, and updating drivers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +166,19 @@ Follow these steps to download the latest Bluetooth driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-conquer-the-cutting-edge-with-advanced-pixlr-tricks/"><u>[New] 2024 Approved Conquer the Cutting-Edge with Advanced Pixlr Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>[New] Chill Bites Analysis In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-of-breed-exceptional-webcam-supports/"><u>2024 Approved Best Of Breed Exceptional Webcam Supports</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/from-yesterdays-tech-to-todays-trendsetter-implementing-windows-11-on-legacy-pcs/"><u>From Yesterday's Tech to Today's Trendsetter - Implementing Windows 11 on Legacy PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/google-meetings-mastered-best-practices-4/"><u>Google Meetings Mastered Best Practices #4</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reactivate-the-frozen-windows-start-button/"><u>How to Reactivate the Frozen Windows Start Button</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-xs-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone XS Max</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-install-on-no-wi-fi/"><u>Navigating Windows 11 Install on No Wi-Fi</u></a></li>
+<li><a href="https://facebook.techidaily.com/reject-unwanted-friend-recommendations-by-fb/"><u>Reject Unwanted Friend Recommendations by FB</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-common-office-crash-on-windows-xpvista/"><u>Remedying Common Office Crash on Windows XP/Vista</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/synchronize-your-video-with-instagrams-aesthetics-for-2024/"><u>Synchronize Your Video with Instagram's Aesthetics for 2024</u></a></li>
+</ul></div>
 

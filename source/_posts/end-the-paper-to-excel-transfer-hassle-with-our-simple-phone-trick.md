@@ -1,7 +1,7 @@
 ---
 title: End the Paper-to-Excel Transfer Hassle with Our Simple Phone Trick
-date: 2024-08-28T00:49:39.864Z
-updated: 2024-08-29T00:49:39.864Z
+date: 2025-01-05T18:25:06.855Z
+updated: 2025-01-06T18:47:08.002Z
 tags:
   - excel
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## End the Paper-to-Excel Transfer Hassle with Our Simple Phone Trick
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Things to Note Before You Start](https://facebook-video-footage.techidaily.com/updated-2024-approved-affordable-cameras-for-effective-vloggers/)
 * [The Process](https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m34-5g-by-drfone-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Highlights
 
@@ -28,9 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  I'll use my iPhone 14's Excel app to show you this process, but you can follow exactly the same process if you're using the Android Excel app.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Things to Note Before You Start
 
 * For this process to work, the data you capture must be presented with lines separating each cell, row, and column. For example, if you were to convert a page from a novel, all the data you capture would be exported to a single Excel cell.
@@ -38,20 +43,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The data will be unformatted once exported to your Excel spreadsheet. You'll need to apply any formatting manually.
 * The table doesn't have to have been created in Excel originally. For example, this will also work if the data comes from a table printed from Microsoft Word.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  The Process
 
  Launch the Excel mobile app and create a blank workbook.
 
 ![The Blank Workbook option in the welcome screen of the iPhone Excel app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-app-open-blank-workbook-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
  Open the lower ribbon (see icon 1 in the screenshot below), and then tap the three dots in the bottom-right corner (or the _down_ arrow in the same location on an Android device).
 
 ![The Excel mobile app ribbon icon and the three dot menu are highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-app-menus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tap the green "Home" drop-down menu and select "Insert."
 
@@ -61,34 +71,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Data From Picture option in the Excel app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/data-from-picture-excel-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 
 
  Excel will now prompt you to take a picture of the printed data by automatically opening the camera app. Align your phone with the data you want to capture (make sure you use the alignment guides on your screen), and press the shutter.
 
 ![An iPhone's camera view of the data to be captured in the picture, with the guiding alignment handles emphasized.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/taking-picture-in-excel.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Follow the instructions at the bottom of the screen to crop your image, and click "Confirm" when you're happy.
 
 ![The Excel app confirming the picture positioning and cropping, and the Confirm option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-app-confirming-picture-positioning.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Excel will then begin the process of extracting your data to the app, and this might take a few seconds.
 
 ![The Excel app with a message on the screen reading 'Extracting Data.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/extracting-data-from-picture-to-excel-app.jpg) 
@@ -97,19 +89,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Excel app with a preview of the data extracted from the image, and part of the data highlighted in red. The Insert button at the bottom of the screen is selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/excel-app-extracted-data-preview.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  Excel will tell you how many items you need to review. If more than one item needs to be reviewed, tap "Review All," and address each issue manually. Excel will often falsely identify issues when, in fact, the data has been exported accurately. In this case, you can tap "Open Anyway."
 
 ![The Excel app showing items that require reviewing following extraction, with the Open Anyway and Review options displayed underneath.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/review-extracted-data-in-excel-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once complete, you will see the data in the blank spreadsheet you created at the start of the process. You can then reformat the data to your choosing.
 
 ![An Excel spreadsheet in the mobile app showing data extracted from a paper copy.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/extracted-data.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -121,8 +115,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +122,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-expert-tips-to-soften-sound-tracks-in-logic-pro/"><u>[Updated] Expert Tips to Soften Sound Tracks in Logic Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-switching-file-extensions-for-your-mac-snapshots/"><u>[Updated] In 2024, Switching File Extensions for Your Mac Snapshots</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-realme-narzo-n55-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Realme Narzo N55</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-the-stranger-things-upside-down-effect-video-for-2024/"><u>Create the Stranger Things Upside Down Effect Video for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-resolving-0x80071a90-windows-faults/"><u>Explaining and Resolving 0X80071A90 Windows Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-boosting-mouseclicklock-in-windows-pcs/"><u>Harnessing Power: Boosting MouseClickLock in Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-local-groups-policies-to-individual-accounts-in-windows-11/"><u>Integrating Local Groups Policies to Individual Accounts in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-for-unique-hotkeys/"><u>Navigating Windows 11 for Unique Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-pop-ups-from-invalid-adobe-app/"><u>Preventing Pop-Ups From Invalid Adobe App</u></a></li>
+<li><a href="https://common-error.techidaily.com/revamped-screen-achieved-full-compliance-with-interoperability-standards/"><u>Revamped Screen: Achieved Full Compliance with Interoperability Standards</u></a></li>
+<li><a href="https://extra-support.techidaily.com/softening-sonic-surge-gradual-volume-reduction-tutorial-for-2024/"><u>Softening Sonic Surge Gradual Volume Reduction Tutorial for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-forgotten-tools-of-windows-11-dont-miss-them/"><u>The Forgotten Tools of Windows 11 - Don’t Miss Them!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209645573-9781620558706-the-magian-tarok-3rd-ed/"><u>The Magian Tarok (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-boosting-windows-storage-without-a-fee/"><u>The Ultimate Guide to Boosting Windows Storage Without a Fee</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/user-guide-and-review-for-the-ultra-slim-anker-powercoreplus-26800-pack/"><u>User Guide & Review for the Ultra-Slim Anker PowerCore+ 26800 Pack</u></a></li>
+</ul></div>
 

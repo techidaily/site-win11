@@ -1,7 +1,7 @@
 ---
 title: "The Next Evolution of Windows 11: Advanced Widget Techniques"
-date: 2024-12-22T19:21:00.299Z
-updated: 2024-12-28T05:28:32.006Z
+date: 2025-01-03T20:21:22.049Z
+updated: 2025-01-06T19:04:56.662Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Allow Users to Open the Widgets Panel From the Right Side
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have Widgets enabled on Windows 11 taskbar, you will notice that the panel opens from the left side of your screen. This should not be the only option. It would be nice to see Windows 11 showing Widgets on the right side of the display, just like in macOS. However, Microsoft should keep both left and right-opening options and not replace one with the other.
 
@@ -44,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  Widgets in Windows 11 will be far more customizable with these simple changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn Off the Ability to Open the Widgets Panel on Mouse Hover
@@ -52,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 ![Screenshot showing Widgets panel openning on Mouse hover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mouse-hover.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Widgets experience is enabled by default in Windows 11\. To open it, you can hover your mouse over the Widgets icon. A mouse hover is arguably the simplest method of displaying the Widgets panel. However, it can be inconvenient at times.
@@ -60,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  The Widgets icon is placed right beside the**Start** button in the Taskbar. And when trying to click the**Start** , you might end up accidentally hovering your mouse over the Widgets icon, thus opening the Widgets board even though you didn't want to. To address this issue, Microsoft should modify the behavior and add the ability to turn off the mouse hover gesture for Widgets. Windows 11 can offer a clickable Widgets icon in the taskbar as an alternative to mouse hover.
 
  Again, Microsoft should keep the mouse hover and click option for the Widgets icon to give users more control over the functionality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Allow Windows 11 Users to Turn Off the News Section in Widgets Panel
 
@@ -77,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
 
  However, Windows 11 Widgets panel is still missing useful first-party widgets like Sticky Notes and Calculator (here are the[steps for keeping Sticky Notes always on top on Windows 10 and 11](https://www.makeuseof.com/sticky-notes-always-on-top-windows/) ). Microsoft can't force third-party developers to bring their widgets to Windows 11, but it can play its part in making the panel more "widget-rich."
@@ -86,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  To view widgets, you have to open the Widgets board. Unfortunately, there is no other way. Microsoft can fix this by adding the ability to pin widgets to the desktop or lock screen. This way, you can always stay updated with timely information from your favorite apps at a glance on your desktop and lock screen.
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
@@ -98,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  You might want to read the full story when you come across an interesting news headline in the Widgets panel. And the link to that story should ideally open on your default internet browser. However, the Widgets capability in Windows 11 doesn't allow that. It will keep opening links on Microsoft Edge even after you set any other browser as default.
 
  To offer greater flexibility, Microsoft should allow users to change the default browser for Widgets. Here is our guide on[changing the default browser on Windows 11](https://www.makeuseof.com/windows-11-change-default-browser/) if you are unfamiliar with the steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Fixing Bugs And Improving Reliability
 
@@ -128,22 +128,18 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-essential-handheld-guide-to-youtube-production/"><u>[New] In 2024, The Essential Handheld Guide to YouTube Production</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-leading-free-online-screencasting-solutions/"><u>[Updated] The Leading Free Online Screencasting Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-download-of-updated-printer-drivers-for-the-hp-deskjet-all-in-one-2540/"><u>Easy Download of Updated Printer Drivers for the HP Deskjet All-in-One 2540</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-gaming-experience-tackle-warhammers-stutter-problems/"><u>Enhance Your Gaming Experience - Tackle Warhammer's Stutter Problems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-mov-files-effortlessly-in-windows-10/"><u>In 2024, Capturing MOV Files Effortlessly in Windows 10</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-6-plus-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 6 Plus Apple ID and Apple Pay</u></a></li>
-<li><a href="https://win11.techidaily.com/infuse-windows-ui-with-supernatural-shortcuts/"><u>Infuse Windows UI with Supernatural Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-guide-forcibly-disable-windows-11-print-devices/"><u>Instant Guide: Forcibly Disable Windows 11 Print Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-exe-opener-blockage/"><u>Overcoming Windows EXE Opener Blockage</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-how-to-reactivate-a-grayed-out-secure-boot-on-windows-pcs/"><u>Regaining Control: How to Reactivate a Grayed-Out Secure Boot on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-a-computer-name-mistake-on-windows-11/"><u>Reversing a Computer Name Mistake on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-guide-to-immediate-accessibility-of-software-shortcuts/"><u>Stepwise Guide to Immediate Accessibility of Software Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/systematic-approach-for-restarting-your-windows-update-cycle/"><u>Systematic Approach for Restarting Your Windows Update Cycle</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-magic-6-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor Magic 6 without backup.</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-vs-2-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic Vs 2 Phones</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/top-creative-apps-roundup-choose-from-the-best-8-photo-edits-for-smartphones/"><u>Top Creative Apps Roundup Choose From the Best 8 Photo Edits for Smartphones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncover-the-most-effective-skype-substitutes-free-options/"><u>Uncover the Most Effective Skype Substitutes - Free Options !</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-secrets-to-dynamic-video-cover-design-in-facebook-space-for-2024/"><u>[New] Unveiling the Secrets to Dynamic Video Cover Design in Facebook Space for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20-must-have-mp4-devices/"><u>[Updated] 20 Must-Have MP4 Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-master-strategies-for-skyrocketing-youtube-follows/"><u>[Updated] In 2024, Master Strategies for Skyrocketing YouTube Follows</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-and-applying-themes-directly-from-ms-store/"><u>Configuring and Applying Themes Directly From MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-refreshing-windows-auditory-reboot-routine/"><u>Essential Tips for Refreshing Windows Auditory Reboot Routine</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-cloud-access-windows-drive-letters-for-dropbox-google-drive/"><u>Exploring Cloud Access: Windows Drive Letters for Dropbox, Google Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/get-rid-of-epic-launcher-glitches-on-windows-11-easily/"><u>Get Rid of Epic Launcher Glitches On Windows 11 Easily</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ios-18-launch-insights-unveiling-the-date-device-support-and-exciting-updates/"><u>IOS 18 Launch Insights - Unveiling the Date, Device Support & Exciting Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-stable-discord-communications-fixing-sound-glitches-in-the-2024-edition/"><u>Mastering Stable Discord Communications: Fixing Sound Glitches in the 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-for-the-disappearance-of-printmanagement-service/"><u>Quick Fix for the Disappearance of 'Printmanagement' Service</u></a></li>
+<li><a href="https://win11.techidaily.com/smart-energy-saving-set-auto-shutdown-on-windows-11/"><u>Smart Energy Saving: Set Auto Shutdown on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/efinitive-users-manual-for-youtube-tv/"><u>The Definitive User's Manual for YouTube TV</u></a></li>
 </ul></div>
 

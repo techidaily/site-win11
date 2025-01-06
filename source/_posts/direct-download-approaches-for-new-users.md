@@ -1,7 +1,7 @@
 ---
 title: Direct Download Approaches for New Users
-date: 2024-12-24T16:49:31.878Z
-updated: 2024-12-27T21:55:12.276Z
+date: 2025-01-03T19:15:12.087Z
+updated: 2025-01-06T20:56:16.078Z
 tags:
   - windows10
   - windows11
@@ -57,7 +57,15 @@ Let's talk about how you can use these to download a browser.
 
 ![installing chrome using the winget packet manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-winget.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Exit the PowerShell window after the browser has been installed and you'll be ready to start browsing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download a Browser Using the Curl Command
 
@@ -74,16 +82,12 @@ Paste the link in quotation marks like so:
 ![installing chrome using the curl command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-curl.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The command essentially asks Curl to navigate to a specific URL, make a download request, follow HTTP redirects, and save the files as download.exe.
 
  Once the file has been downloaded, run the installation wizard to complete the installation process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Download a Browser Using Chocolatey
 
@@ -109,11 +113,11 @@ Next, run the following command:
 
 ![installing chrome using chocolatey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-choco.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once the process is complete, you can start using the new browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use a Invoke-WebRequest PowerShell Script
 
@@ -133,14 +137,10 @@ Run the following command in PowerShell:
 
 ![installing chrome using powershell scripting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-chrome-powershell-script.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Replace the word link with the link to your browser's setup file. Once you execute the command, you'll see PowerShell downloading the file. Once the download is complete, exit PowerShell and run the download.exe file stored on your desktop. Follow the installation wizard's instructions and you're set.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Browsing on Your Fave Browser From Day One
@@ -162,18 +162,17 @@ Run the following command in PowerShell:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-secrets-unveiled-amplifying-profile-visibility/"><u>[Updated] In 2024, Secrets Unveiled Amplifying Profile Visibility</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-filming-your-overwatch-victories/"><u>[Updated] In 2024, Step-by-Step Filming Your Overwatch Victories</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/banishing-black-screens-a-quick-guide-for-asus-laptops/"><u>Banishing Black Screens: A Quick Guide for Asus Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unresponsive-battlenet-application-on-windows-pc/"><u>Fixing Unresponsive Battle.net Application on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-11-anydesk-errors/"><u>Fixing Windows 11 AnyDesk Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-parent-controls-on-microsoft-windows-11/"><u>Guide to Parent Controls on Microsoft Windows 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-elevate-youtube-presence-ideal-release-windows/"><u>In 2024, Elevate Youtube Presence Ideal Release Windows</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-quest-for-efficient-browsing-ram-friendly-windows-applications-ranked/"><u>The Quest for Efficient Browsing: RAM-Friendly Windows Applications Ranked</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ios-data-transfer-apps-effiziente-alternativen-zu-itunes-fur-ios-11-und-ios/"><u>Top iOS Data Transfer Apps: Effiziente Alternativen Zu iTunes Für iOS 11 Und iOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-a-step-by-step-guide-to-bypass-persistent-updates-screen/"><u>Troubleshooting Microsoft Flight Simulator 2020 – A Step-by-Step Guide to Bypass Persistent Updates Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-the-power-of-fixed-recovering-non-functional-win-apps/"><u>Unleash the Power of Fixed: Recovering Non-Functional Win-Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-how-to-improve-airdrop-speed-and-connectivity-on-apple-devices/"><u>[Updated] 2024 Approved How To Improve Airdrop Speed & Connectivity on Apple Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-key-strategies-to-stream-and-record-youtube-events/"><u>[Updated] In 2024, Key Strategies to Stream and Record YouTube Events</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-win-11s-context-menu-exclude-more-options/"><u>Customizing Win 11'S Context Menu: Exclude More Options</u></a></li>
+<li><a href="https://win11.techidaily.com/environment-variables-configuration/"><u>Environment Variables Configuration</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guide-facile-transfert-dimages-de-pc-dell-a-iphone-pas-besoin-ditunes/"><u>Guide Facile : Transfert D'Images De PC Dell À iPhone - Pas Besoin D’iTunes!</u></a></li>
+<li><a href="https://win11.techidaily.com/organized-notekeeping-raising-sticky-notes-for-optimal-os-use/"><u>Organized Notekeeping: Raising Sticky Notes for Optimal OS Use</u></a></li>
+<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-email-feedback-mechanisms-for-effective-communication-on-windows/"><u>Securing Email Feedback Mechanisms for Effective Communication on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-curious-case-of-apples-punctuated-past-a-deep-dive-on-their-minimalist-style-by-zdnet/"><u>The Curious Case of Apple's Punctuated Past: A Deep Dive on Their Minimalist Style by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-automating-your-windows-11-app-setup-with-winstall/"><u>The Ultimate Guide to Automating Your Windows 11 App Setup with Winstall</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-handbook-for-watching-facebook-livestreams/"><u>The Ultimate Handbook for Watching Facebook Livestreams</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-troubleshoot-anydesk-not-responding-in-windows-11/"><u>Tips to Troubleshoot AnyDesk Not Responding in WIndows 11</u></a></li>
 </ul></div>
 

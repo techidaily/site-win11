@@ -1,7 +1,7 @@
 ---
 title: "Discovering Windows 11'S Core Data: The Registry Files"
-date: 2024-08-23T06:08:17.011Z
-updated: 2024-08-24T06:08:17.011Z
+date: 2025-01-05T17:07:12.989Z
+updated: 2025-01-06T17:24:45.295Z
 tags:
   - windows10
   - windows11
@@ -52,24 +52,12 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 4. Now, you will see the registry file in the folder location—Double-click on the registry file to open it in Notepad.  
 ![View the Registry File Contents Using Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-notepad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  With that, you will see the contents of the registry file on Notepad.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Using the Command Prompt
 
  If you often use the Command Prompt, opening a file using a graphical user interface might be cumbersome. But you can open a registry file from the terminal if you know the full path of the folder where the file is present. Command Prompt offers **more** and **type** commands to preview a file. Here's how to do it:
@@ -80,8 +68,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Similarly, you can use the **type** command to open a .reg file in the terminal. The command for that is **type "D:\\e.reg"**.  
 ![View the Registry File Contents Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-cmd.jpg)
 5. After reviewing the file, type **exit** in the Command Prompt window and press **Enter** key to close it.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Using PowerShell
@@ -97,8 +86,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. PowerShell will display the contents of the registry file. **Close** the PowerShell window afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using PowerToys Registry Preview
 
  PowerToys recently launched a new registry file preview feature. You can open and view registry files and change them from the same window. But you must [install PowerToys from GitHub](https://github.com/microsoft/PowerToys) or Microsoft Store to preview the registry file.
@@ -109,15 +99,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click the toggle next to the **Enable Registry Preview** option to enable the feature. Then, click on the **Launch Registry Preview** option.  
 ![View the Registry File Contents Using PowerToys 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-1.jpg)
 3. A new window will pop up. Click on the **Open File** button. Browse to the registry file location and select the file. Click on the **Open** button.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The registry file will open in the left-hand side pane of the Registry Preview window. On the right, you will see the corresponding registry key and value that the registry file will change.  
 ![View the Registry File Contents Using PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-2.jpg)
 5. If you want to tweak the registry file, click on the left-hand side and type the changes. Then, you can either save the file or create a new registry file.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Using Chrome or Any Other Browser
@@ -126,13 +113,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![View the Registry File Contents Using Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easily Preview Registry Files on Windows
 
  These were the multiple methods to check the contents of the registry file on Windows 11\. The easiest way to preview the file is using the File Explorer preview pane. Alternatively, you can use the Command Prompt or PowerShell. But if you want to edit the registry file, you can use Notepad or PowerToys Registry Preview feature.
 
  But have you ever opened and checked a registry file's contents before importing it into your system? If not, here are some ways to preview its contents before adding it to your system's registry.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -140,3 +133,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-discover-10-budget-friendly-vectors-and-design-pages/"><u>[New] In 2024, Discover 10 Budget-Friendly Vectors and Design Pages</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>[Updated] Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-best-4k-blu-ray-experience-ranking-of-devices/"><u>2024 Approved The Best 4K Blu-Ray Experience Ranking of Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehending-windows-11s-configuration-options/"><u>Comprehending Windows 11'S Configuration Options</u></a></li>
+<li><a href="https://win11.techidaily.com/custom-fn-key-roles-win-10-and-11-guide/"><u>Custom FN Key Roles: Win 10 & 11 Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elite-commanders-showdown-the-pinnacle-total-war-clashes/"><u>In 2024, Elite Commanders' Showdown The Pinnacle Total War Clashes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 5G Devices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-c12-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia C12 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-efficiently-control-windows-post-dim-display/"><u>Navigate Efficiently: Control Windows Post-Dim Display</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/seamless-pet-nourishment-made-easy-by-arfs-auto-feeding-solution/"><u>Seamless Pet Nourishment Made Easy by Arf's Auto Feeding Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x9b-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X9b Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win-xp-resurrecting-missing-mmc-snap-ins/"><u>Win XP: Resurrecting Missing MMC Snap-Ins</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-device-mgmt-camera-not-displayed-heres-how/"><u>Windows Device Mgmt: Camera Not Displayed? Here's How</u></a></li>
+</ul></div>
+

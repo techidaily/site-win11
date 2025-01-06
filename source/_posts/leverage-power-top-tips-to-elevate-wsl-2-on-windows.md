@@ -1,7 +1,7 @@
 ---
 title: "Leverage Power: Top Tips to Elevate WSL 2 on Windows"
-date: 2024-12-22T23:31:52.241Z
-updated: 2024-12-27T21:52:14.746Z
+date: 2024-12-31T19:34:01.829Z
+updated: 2025-01-06T19:42:55.290Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
@@ -62,20 +62,20 @@ Here are some of the other important WSL 2 benefits for developers:
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
  Since the Windows Terminal is an open-source project, you can rest assured that the community will continuously improve it for enhanced user experience. And if you fall in love with it, check out the[best Windows terminal tips, tricks, and shortcuts](https://www.makeuseof.com/windows-terminal-tips-tricks-shortcuts/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Integrate Visual Studio Code
 
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
@@ -88,7 +88,7 @@ Here are some of the other important WSL 2 benefits for developers:
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update Packages
@@ -99,10 +99,6 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
@@ -110,6 +106,10 @@ Here are some of the other important WSL 2 benefits for developers:
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -130,21 +130,21 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[New] A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[New] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-delving-into-filmoras-appeal-its-essential-10-features-for-2024/"><u>[Updated] Delving Into Filmora's Appeal Its Essential 10 Features for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/5-proven-strategies-to-thaw-out-a-locked-up-windows-10-taskbar/"><u>5 Proven Strategies to Thaw Out a Locked Up Windows 10 Taskbar</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-infinix-note-30-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Infinix Note 30 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oneplus-nord-3-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On OnePlus Nord 3 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-graphics-enhancement-in-windows-11s-shielded-browsing/"><u>Innovative Graphics Enhancement in Windows 11'S Shielded Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-error-correction-windows-11-wow-mishaps/"><u>Mastering Error Correction: Windows 11 WoW Mishaps</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-in-2024-20-wonderful-stop-motion-ideas-for-beginners-and-kids/"><u>New In 2024, 20 Wonderful Stop Motion Ideas for Beginners and Kids</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-cmd-prompt-lack-of-admin-privileges/"><u>Resolving Cmd Prompt Lack of Admin Privileges</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-installing-kali-into-your-windows-ecosystem/"><u>Step by Step: Installing Kali Into Your Windows Ecosystem</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-setting-up-and-using-microsofts-code-assistant/"><u>Step-by-Step: Setting Up and Using Microsoft's Code Assistant</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-camera-non-storage-feedback/"><u>Tackling Windows Camera Non-Storage Feedback</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-workflow-efficiency-mastering-flow-launcher-basics/"><u>Transform Workflow Efficiency: Mastering Flow Launcher Basics</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-s17t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo S17t Phones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-minuscule-cinematic-design/"><u>[New] In 2024, Minuscule Cinematic Design</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bring-your-best-movies-from-mmc-to-the-vimeo-universe/"><u>[Updated] Bring Your Best Movies From MMC to the Vimeo Universe</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1-apple-macbook-air-showdown-choosing-between-the-powerful-m3-and-efficient-m2-models-a-comprehensive-guide-techradar/"><u>1. Apple MacBook Air Showdown: Choosing Between the Powerful M3 and Efficient M2 Models – A Comprehensive Guide | TechRadar</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-test-and-rating-of-the-lihan-lhfm1039-a-guide-to-pairing-bluetooth-gadgets-with-your-car-audio-system/"><u>Comprehensive Test & Rating of the LIHAN LHFM1039 - A Guide to Pairing Bluetooth Gadgets with Your Car Audio System</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-fixing-windows-10-error-code-0x800f080a/"><u>Decoding and Fixing Windows 10: Error Code 0X800f080a</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-false-device-specification-issue-in-win-1011/"><u>Fixing False Device Specification Issue in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-improve-physical-memory-usage-for-virtual-machines-windows/"><u>How to Improve Physical Memory Usage for Virtual Machines (Windows)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-8-best-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>In 2024, 8 Best Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1154554-9781608681228-love-has-wings/"><u>Love Has Wings | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/making-the-leap-with-confidence-your-step-by-step-windows-11-in-place-journey/"><u>Making the Leap with Confidence: Your Step-by-Step Windows 11 In-Place Journey</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/rumor-mill-insights-into-android-16s-expected-specs-pricing-strategy-and-launch-moment-download-for-free/"><u>Rumor Mill: Insights Into Android 16'S Expected Specs, Pricing Strategy, and Launch Moment – Download for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/self-hosted-windows-gptclone-via-gpt4all/"><u>Self-Hosted Windows GPTClone via GPT4All.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-installing-the-latest-kindle-paperwhite-firmware/"><u>Step-by-Step Tutorial on Installing the Latest Kindle Paperwhite Firmware</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-unruly-0x800f0831-wave-in-windows/"><u>Taming the Unruly 0X800f0831 Wave in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-using-bluescreenview/"><u>Understanding and Using BlueScreenView</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-14-pro-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 14 Pro to PC | Dr.fone</u></a></li>
 </ul></div>
 

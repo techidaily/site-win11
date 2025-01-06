@@ -1,7 +1,7 @@
 ---
 title: "Navigating Non-Functioning Windows Apps: Top 7 Remedies"
-date: 2024-12-25T21:04:58.559Z
-updated: 2024-12-28T05:18:24.084Z
+date: 2024-12-30T17:01:06.090Z
+updated: 2025-01-06T19:05:03.796Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Main Possible Causes of App Malfunctions in Windows
 
  When encountering issues such as the inability to launch an app or experiencing crashes only a few minutes after using it, it's important to identify the root causes that could be contributing to this behavior. Here are some possible factors that could be causing these problems:
@@ -41,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  In conclusion, apps in Windows can stop working due to both software and hardware issues. Below, we have listed the different troubleshooting methods you can try to fix such issues, regardless of what is causing them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the App Troubleshooter
 
  The first course of action, after facing any kind of app-related issue on Windows should be running the built-in app troubleshooter. This utility is present in the Troubleshoot section of the Settings app and can detect and resolve issues like app crashes and compatibility problems.
@@ -53,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 ![Run Windows app troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/store-troubleshooter-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the scan has started running, wait patiently for the utility to look for potential errors in the system and generate a report based on those. If any issues are found, the troubleshooter will notify you and in most cases, will also suggest relevant fixes you can try.
 
  Although this tool effectively recognizes certain frequently encountered problems, it may have limited usefulness when dealing with complex issues. If the troubleshooter fails to help, move to the next methods below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Apps
 
@@ -67,12 +59,16 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
  You can install the latest available updates using the Microsoft Store if the program is available on the platform. Otherwise, you can also head over to the official website of the app and install the latest version from there. Several third-party apps also have a built-in update option within the interface that you can use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Reset App Cache
 
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cache is the temporary data stored by programs to access the information they need, quickly without reloading it from the local storage. However, there are times when this data can get corrupt and lead to several performance issues.
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  You can then take necessary steps to remove the problematic program to avoid any issues in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair or Reset the App
@@ -112,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
  You can access both these features in the Settings app by navigating to**Apps** \>**Apps & features** . Click on the**More** button (three dots) associated with the problematic app and choose**Advanced options** . Here, scroll down to the Reset section to find both the options.
 
 ![Reset Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-or-repair-settings-app-edit.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall the App
 
@@ -138,20 +138,21 @@ thumbnail: https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-vr-action-cams-face-off-hero5-black-vs-yis-new-release/"><u>[New] VR Action Cams Face-Off Hero5 Black Vs. Yi's New Release</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-techniques-for-stunning-android-time-lapse-captures-for-2024/"><u>[Updated] Top Techniques for Stunning Android Time-Lapse Captures for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-virtual-classrooms-future-learning-unleashed/"><u>[Updated] Virtual Classrooms Future Learning Unleashed</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-check-for-updates-context-menu-option-in-windows-10-and-11/"><u>How to Add a Check for Updates Context Menu Option in Windows 10 and 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-7-plus-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-grant-read-permission-on-hidden-outlook-directories-and-files/"><u>How to Grant Read Permission on Hidden Outlook Directories & Files</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win11.techidaily.com/innovating-cleanup-generative-erase-revolutionizes-windows/"><u>Innovating Cleanup: Generative Erase Revolutionizes Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/install-and-enjoy-discord-on-your-mac-with-ease/"><u>Install and Enjoy Discord on Your Mac with Ease</u></a></li>
-<li><a href="https://driver-error.techidaily.com/make-windows-11s-bluetech-respect-you-heres-how-to-fix-unresponsive-connection-step-by-step/"><u>Make Windows 11'S BlueTech Respect You: Here’s How To Fix Unresponsive Connection (Step-by-Step)</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-imessage-for-windows-a-step-by-step-guide/"><u>Mastering iMessage for Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-file-system-failures-a-guide-to-fixes-in-win11/"><u>Navigating File System Failures: A Guide to Fixes in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/preservation-of-windows-safescreensaver-integrity/"><u>Preservation of Windows SafeScreensaver Integrity</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-the-giants-of-online-engagement-facebook-twitter-instagram-youtube/"><u>Understanding the Giants of Online Engagement: Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>[New] 2024 Approved Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-comparative-income-freelance-vs-full-time-podcaster/"><u>[Updated] 2024 Approved Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>[Updated] 2024 Approved Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/comment-recuperer-des-fichiers-effaces-accidentellement-de-la-corbeille-sur-un-ordinateur-avec-windows/"><u>Comment Récupérer Des Fichiers Effacés Accidentellement De La Corbeille Sur Un Ordinateur Avec Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-0xc000003e-exception-in-pc-startup-procedure/"><u>Decoding the 0XC000003E Exception in PC Startup Procedure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-zte-nubia-flip-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on ZTE Nubia Flip 5G Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-c0000022-error-a-step-by-step-approach/"><u>Overcoming the C0000022 Error: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-windows-update-frozen-at-zero-completion/"><u>Overcoming the Challenge of a Windows Update Frozen at Zero Completion</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-microsoft-store-applications-with-ease/"><u>Resurrect Microsoft Store Applications with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-rectifying-windows-camera-save-malfunction/"><u>Steps for Rectifying Windows Camera Save Malfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win-pcs-issue-with-non-opening-battlenet/"><u>Troubleshooting: Win PC's Issue with Non-Opening Battle.net</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unbelievable-charted-truths-youtubes-fact-filled-figures-2017-for-2024/"><u>Unbelievable Charted Truths YouTube's Fact-Filled Figures (2017) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-full-potential-of-your-iphone-the-ultimate-guide-to-resetting-network-settings/"><u>Unlocking Full Potential of Your iPhone: The Ultimate Guide to Resetting Network Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-hazards-of-keygen-virus-and-how-to-protect-your-systems/"><u>Unveiling the Hazards of Keygen Virus & How to Protect Your Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-tips-revisiting-retro-gaming-via-my-pictures-haven/"><u>Win11 Tips: Revisiting Retro Gaming via My Pictures Haven</u></a></li>
 </ul></div>
 

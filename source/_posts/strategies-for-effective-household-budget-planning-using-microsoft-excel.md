@@ -1,7 +1,7 @@
 ---
 title: Strategies for Effective Household Budget Planning Using Microsoft Excel
-date: 2024-08-28T00:48:20.274Z
-updated: 2024-08-29T00:48:20.274Z
+date: 2024-12-31T17:23:38.430Z
+updated: 2025-01-06T19:46:40.074Z
 tags:
   - excel
 categories:
@@ -36,65 +36,52 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Click Money in Excel to display the pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/DisplayPane-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the next screen in the pane, click "Sign In" and enter your [Microsoft 365](https://games-able.techidaily.com/ultimate-console-content-psplus-or-xbox-game-pass/) username and password.
 
 ![Sign into Money in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SignInPane-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You should then see your connected accounts in the "Money in Excel" pane. Click "Update" at the top of the pane. After a few moments, depending on your internet connection, your details should be refreshed and noted with the current date and time.
 
 ![Click Update in the Money in Excel pane](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/UpdateInPane-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you're signed in and have your latest transactions and details, it's time to have a look!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  View the Snapshot Tab
 
  The "Snapshot" tab in the Money in Excel workbook is a great tool for a quick glance at your spending. Start by selecting a month and year at the very top of the sheet.
 
 ![Select a month and year for Snapshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotMonth-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then review the charts, graphs, and tables for a nice view of where your hard-earned cash goes.
 
  The "Current vs. Previous Month Spending" bar chart shows you the difference in your spending between the current month you selected at the top and the previous month.
 
 ![Current Vs Previous Month bar graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotCurrentVsPrevious-MoneyInExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  "This Month's Top Spending Categories" displays a pie chart showing where your money went in terms of category. For example, you can quickly see if you spent more on entertainment than on groceries that month.
 
 ![Top Spending Categories pie chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotTopCategories-MoneyInExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  "Cumulative Spending Throughout the Month" is a helpful graph to see at which points of the month your spending increased. This also includes the previous month for a useful comparison.
 
 ![Cumulative Spending graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotCumulative-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The two tables at the bottom show the merchants you've given your money to during the month. You can see which merchants you most frequently paid, and then which merchants received the most money from you.
 
 ![Merchants tables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotMerchants-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Each of these sections of the "Snapshot" tab serves a useful purpose. You can see exactly how your money is spent at a glance and make sensible changes.
 
 ##  Review Your Transactions
@@ -115,7 +102,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Change a Category for a transaction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/TransactionsChangeCategory-MoneyInExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can choose from a good selection of default categories that cover the most common types of spending. However, you can also create your own for more significant spending if you like. This is what we'll show you next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customize Your Categories
 
@@ -127,17 +122,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Custom Categories in Money In Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/CategoriesCustom-MoneyInExcel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you do add custom categories, you can then head back to the "Transactions" tab and change the "Category" for transactions that apply.
 
 ![Change to a Custom Category for a transaction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/TransactionsUseCustomCategory-MoneyInExcel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Plus, your newly added categories will display on the "Snapshot" tab's pie chart for top spending categories, if applicable.
 
 ![Snapshot with a Custom Category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/SnapshotCustomCategory-MoneyInExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  You've already taken a step toward better money management by setting up Money in Excel. So now, make sure that you use it to budget yourself or your household. See where your money goes, make changes where needed, and [keep track of your finances](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/) more efficiently.
@@ -148,8 +148,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +155,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dance-the-viral-dance-mix-in-some-tiktok-flavor-for-insta-success-for-2024/"><u>[New] Dance the Viral Dance Mix in Some TikTok Flavor for Insta Success for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-guide-to-premium-zero-fee-video-meeting-solutions-for-2024/"><u>[New] Guide to Premium, Zero-Fee Video Meeting Solutions for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools/"><u>[New] Haste in Video Supercharge Facebook Videos with Proxies and Tools</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-deciphering-the-value-of-free2x-cam-recorders/"><u>[Updated] 2024 Approved Deciphering the Value of Free2X Cam Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-skyrocketing-subscriber-count-on-igtv/"><u>[Updated] In 2024, The Ultimate Guide to Skyrocketing Subscriber Count on IGTV</u></a></li>
+<li><a href="https://win11.techidaily.com/playstation/"><u>「PlayStationのロイロゲームレコーダー使い方：詳細ガイド」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-nextv-networks-worldwide-streaming-with-your-locals/"><u>2024 Approved NexTV Networks Worldwide Streaming With Your Locals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unveiling-ideal-frames-per-second-for-excellent-slow-mo-videos/"><u>2024 Approved Unveiling Ideal Frames Per Second For Excellent Slow-Mo Videos</u></a></li>
+<li><a href="https://win-dash.techidaily.com/epson-xp-245-compatible-print-driver-downloads-for-windows-7-through-10/"><u>Epson XP 245: Compatible Print Driver Downloads for Windows 7 Through 10</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-website-rankings-a-deep-dive-into-page-strength-and-effective-seo-strategies-using-seo-powersuite/"><u>Mastering Website Rankings: A Deep Dive Into Page Strength and Effective SEO Strategies Using SEO PowerSuite</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-easy-ways-disabling-closed-captions-in-vlc-player-top-3-methods/"><u>Quick & Easy Ways: Disabling Closed Captions in VLC Player - Top 3 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-audio-extraction-from-dvds-speedy-software-solutions/"><u>Quick Guide to Audio Extraction From DVDs - Speedy Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/record-voice-clips-using-windows-snipping-tool-a-complete-explanation/"><u>Record Voice Clips Using Windows' Snipping Tool - A Complete Explanation!</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-tricks-effective-methods-to-reduce-email-attachments-by-compressing-videos/"><u>Simple Tricks: Effective Methods to Reduce Email Attachments by Compressing Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/solve-your-firefox-video-problems-with-these-8-proven-strategies/"><u>Solve Your Firefox Video Problems with These 8 Proven Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-on-setting-up-wonderfox-dvd-ripper-software/"><u>Step-by-Step Guide on Setting Up WonderFox DVD Ripper Software</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-converting-webm-videos-to-mp4-on-windows-11/"><u>Step-by-Step Guide: Converting WebM Videos to MP4 on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-restoring-dvd-functionality-on-an-asus-notebook/"><u>Step-by-Step Guide: Restoring DVD Functionality on an ASUS Notebook</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Audacity Device Errors
-date: 2024-12-25T18:55:02.011Z
-updated: 2024-12-28T02:38:22.761Z
+date: 2025-01-03T16:46:15.016Z
+updated: 2025-01-06T20:56:42.084Z
 tags:
   - windows10
   - windows11
@@ -36,12 +36,16 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 4. Toggle on the**Microphone access** option if you find that setting disabled.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Scroll down to Audacity on the app list below the**Microphone access** option.  
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check Sound Devices Are Enabled
 
@@ -57,14 +61,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 7. Then right-click the playback and recording devices you need to utilize with Audacity and select**Set as default devices** and**Set as Default Communication Device** .  
 
 ![The Set as Default Device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/set-as-default-device.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check Audacity’s Device Settings Match up With Your Default Devices
 
@@ -83,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 7. Also, select**Windows WASAPI** on the**Host** drop-down menu if that option is set differently.
 8. Select**OK** on the Preferences Devices window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change Audacity’s Sample Rate
 
  The “Error While Opening Sound Device” issue can sometimes arise because Audacity’s sample rate doesn’t match that of your recording microphone. Some Audacity users have said they were able to fix this error by adjusting the sampling rate. This is how you can change Audacity’s sample rate.
@@ -98,11 +90,12 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 5. Then click the**Quality** tab.  
 ![The Sample Rate drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/default-sample-rate.jpg)
 6. Set the**Default Sample Rate** option there to match the sampling rate of your recording device.
-7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
 ## 5\. Turn Off Software Playthrough
 
@@ -115,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 4. Click the Preferences window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Endpoint Builder Service
@@ -130,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 2. Enter**services** and open the Services app.
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
 
@@ -147,6 +144,10 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 4. Right-click High Definition Audio device to select an**Uninstall** context menu option.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
@@ -173,21 +174,16 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-initiating-your-sporty-online-presence-with-mac/"><u>[Updated] 2024 Approved Initiating Your Sporty Online Presence with Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pazera-free-extractor-analysis-the-ultimate-guide-to-2024-sound-freedom/"><u>[Updated] Pazera Free Extractor Analysis The Ultimate Guide to 2024 Sound Freedom</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/close-up-cinematography-secrets-with-kinemaster/"><u>Close-Up Cinematography Secrets with Kinemaster</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ng-mastery-in-streams-a-comprehensive-review/"><u>Earning Mastery in Streams A Comprehensive Review</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-smooth-start-of-programs-despite-qt-platform-missing/"><u>Ensuring Smooth Start of Programs Despite Qt Platform Missing</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m34-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M34 5G Phone?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-inadequate-video-ram-issues-in-witchcraft-and-wizardry-simulation/"><u>Mending Inadequate Video RAM Issues in Witchcraft & Wizardry Simulation</u></a></li>
-<li><a href="https://win11.techidaily.com/optimized-experience-faster-teams-slimmer-memory-use/"><u>Optimized Experience: Faster Teams, Slimmer Memory Use</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-microphone-problems-for-smooth-gaming/"><u>Resolving Microphone Problems for Smooth Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/silencing-windows-graphics-enhancements-from-geforce/"><u>Silencing Windows Graphics Enhancements From GeForce</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-puzzle-get-tekken-8-up-and-running-on-pc-with-our-expert-tips/"><u>Solve the Puzzle: Get Tekken 8 Up and Running on PC with Our Expert Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-greyed-recycle-icon-problem-in-windows/"><u>Solving Greyed Recycle Icon Problem in Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/trouble-accessing-roblox-game-crash-or-connection-errors-at-play/"><u>Trouble Accessing Roblox – Game Crash or Connection Errors at Play?</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-win11s-network-insight-through-netstat-applications/"><u>Understanding Win11's Network Insight Through Netstat Applications</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/windows-11-challenges-microsofts-race-against-time-within-just-one-year-technews-today/"><u>Windows 11 Challenges: Microsoft's Race Against Time Within Just One Year | TechNews Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-steps-a-compre-point-of-view-on-screen-record-with-adobe-captivate/"><u>[New] Advanced Steps A Compre Point of View on Screen Record with Adobe Captivate</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-clearing-the-darkness-remedies-for-invisible-gaming-captures-by-obs/"><u>[Updated] In 2024, Clearing the Darkness Remedies for Invisible Gaming Captures by OBS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-12-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi 12 has native HEVC support?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://win11.techidaily.com/infusing-update-capability-into-the-file-management-tool/"><u>Infusing Update Capability Into the File Management Tool</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/step-by-step-instructions-for-viewing-the-pubg-international-tournament-on-your-television-set/"><u>Step-by-Step Instructions for Viewing the PUBG International Tournament On Your Television Set</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-controls-overcoming-mouse-sluggishness-in-bf2/"><u>Swift Controls: Overcoming Mouse Sluggishness in BF2</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-engagement-mastering-instagram-stories/"><u>The Ultimate Guide to Engagement Mastering Instagram Stories</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620235665-transform-mp4-videos-into-mpeg-with-simple-techniques-for-mac-users-free-conversion-tips/"><u>Transform MP4 Videos Into MPEG with Simple Techniques for Mac Users - Free Conversion Tips!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-file-is-corrupt-error-code-0x80070570-in-windows-1011/"><u>Troubleshooting 'File Is Corrupt' Error Code: 0X80070570 in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-bluescreenview-application/"><u>Unraveling the Mysteries of BlueScreenView Application</u></a></li>
 </ul></div>
 

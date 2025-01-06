@@ -1,7 +1,7 @@
 ---
 title: Remedy for Windows Specs Deficiency in Game Captures
-date: 2024-12-21T16:01:01.618Z
-updated: 2024-12-28T04:11:00.053Z
+date: 2024-12-31T20:34:21.197Z
+updated: 2025-01-06T19:47:22.529Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 7. Exit Game DVR Config and [open Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 8. Look for the Broadcast DVR server on the **Processes** tab. Right-click Broadcast DVR Server and select **End task** if you can find that process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Edit the Control Registry Key
 
  Editing the Control registry key is a fix that’s worked for some users. Try editing that key like this:
@@ -57,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg)
 5. Double-click on the **PortableOperatingSystem** DWORD in the Control key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Delete the **0** number and input **1** within the **Value data** box.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window.jpg)
 7. Set the value by clicking **OK** inside the Edit DWORD window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Then close out of the Registry Editor app and restart Windows.
 
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
  An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you [how to update a PC’s graphics driver in Windows](http://www.makeuseof.com/update-graphics-drivers-in-windows-10/).
 
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enable the Windows Game Recording and Broadcasting Policy
 
@@ -86,16 +86,16 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 ![The Group Policy Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-policy-editor.jpg)
 5. Click **Enabled** if that policy is disabled.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select **Apply** to enable the recording policy and **OK** to close the window.  
 ![The Enables or disables Windows Game Recording and Broadcasting policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg)
 7. Close Group Policy Editor, bring up your Start menu and select **Power** \> **Restart**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Erase Data in the GameDVR Registry Key
@@ -113,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 5. Click the Start menu’s Power button and select **Restart**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Recording Again With the Xbox Game Bar
@@ -132,21 +132,19 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[Updated] 2024 Approved Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>[Updated] Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/front-seat-escapades-beyond-athletic-viewing/"><u>Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-make-your-content-explode-10-tips-for-instagram-fame/"><u>How to Make Your Content Explode: 10 Tips for Instagram Fame</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-official-drivers-for-the-epson-wf-2630-on-windows-operating-systems-win-7win-81win-10/"><u>Install Official Drivers for the Epson WF-2630 on Windows Operating Systems: Win 7/Win 8.1/Win 10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-perks-you-can-get-from-windows-11-god-mode/"><u>Professional Perks You Can Get From Windows 11 God Mode</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/pros-of-choosing-best-pc-video-grabbers-for-win11-for-2024/"><u>Pros of Choosing Best PC Video Grabbers for Win11 for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/rapidly-develop-dazzling-facebook-collage-designs/"><u>Rapidly Develop Dazzling Facebook Collage Designs</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-screen-display-lags-in-windows-laptops/"><u>Resolving Screen Display Lags in Windows Laptops</u></a></li>
-<li><a href="https://win11.techidaily.com/resuming-printer-services-a-windows-guide/"><u>Resuming Printer Services: A Windows Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steady-precision-how-to-stop-mouse-speed-scaling-in-windows/"><u>Steady Precision: How to Stop Mouse Speed Scaling in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-permission-issues-in-win11win10-installation/"><u>Tackling Permission Issues in Win11/Win10 Installation</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-freezes-in-ps-windows-edition/"><u>Troubleshooting Freezes in PS: Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-why-are-windows-folders-flagged-with-an-x/"><u>Unraveling: Why Are Windows Folders Flagged with an X?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-transcript-download-analyze-content/"><u>[New] 2024 Approved Transcript Download, Analyze Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-startup-zoom-navigating-participant-groups/"><u>[New] Startup Zoom Navigating Participant Groups</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[Updated] 2024 Approved Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725286525363-ai-60120/"><u>激进提速AI填充解决方案 - 优化影片至60/120帧平滑过渡技巧</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypting-windows-update-failure-0x80242016/"><u>Decrypting Windows Update Failure: 0X80242016</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-subsystem-effect-on-linux-market/"><u>Evaluating Subsystem Effect on Linux Market</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-food-meets-tech-failure-wendys-attempt-at-a-smartphone-is-utterly-silly/"><u>Fast Food Meets Tech Failure: Wendy's Attempt at a Smartphone Is Utterly Silly.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-samsung-unpacked-2025-schedule-revealed-product-announcements-and-rumored-innovations/"><u>Inside Samsung Unpacked 2025: Schedule Revealed, Product Announcements & Rumored Innovations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-art-with-gaomon-pd1560-an-insiders-tablet-test-report/"><u>Mastering Art with Gaomon PD1560 - An Insider's Tablet Test Report</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-performance-insight-taskbar-with-hardware-data/"><u>Optimal Performance Insight: Taskbar with Hardware Data</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-11-for-multiple-monitors/"><u>Optimizing Windows 11 for Multiple Monitors</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721430445638-redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-why-your-windows-files-may-have-an-x/"><u>Understanding Why Your Windows Files May Have an X</u></a></li>
 </ul></div>
 

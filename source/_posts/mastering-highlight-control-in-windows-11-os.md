@@ -1,7 +1,7 @@
 ---
 title: Mastering Highlight Control in Windows 11 OS
-date: 2024-08-23T06:07:32.310Z
-updated: 2024-08-24T06:07:32.310Z
+date: 2025-01-01T18:23:49.990Z
+updated: 2025-01-06T17:34:01.213Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,29 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
  So, keep on reading to find out three ways to turn search highlights on and off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Turn Search Highlights On and Off in the Settings App
 
  Press **Win + I** to open the Settings app. Then, select **Privacy & security** on the left side menu, and then click on **Search permissions** in the right panel.
 
 ![the privacy and security page on Windows with Search permissions showing in the right panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-search-permissions.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down to the **More settings** section, and then click the toggle under **Show search highlights** to turn the feature on or off.
 
 ![the Seach permissions page on Windows 11 with the More settings section showing and the toggle for Show search highlights set to on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-search-permissions-settings.jpg)
 
  You should no longer see search lights now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Turn Search Highlights On and Off in the Local Group Policy Editor
 
@@ -44,11 +56,12 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![the Allow search highlights policy being edited on Windows and it is set to Not configured](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-search-highlights-not-configured-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To disable search highlights, check the **Disabled** radio button, and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Turn Search Highlights On and Off in the Registry Editor
 
  Press **Win + R** to open the Windows Run dialog box, type **regedit** in the text box, and then hit the **Enter** key. Click **Yes** in the UAC prompt to finally launch the Registry Editor.
@@ -63,28 +76,21 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
 
 ![creating a dword value in the Windows registry for the SearchSettings key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/creating-dword-windows-registry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the right panel, double-click **IsDynamicSearchBoxEnabled** (the value you just created) and then enter **1** in the **Value data** text box to turn search highlights on. Then, click **OK** to apply the change.
 
 ![the IsDynamicSearchBoxEnabled value in the Registry Editor and Value data has been set to 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/editing-isdynamicsearchboxenabled-value-windows-registry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To turn search highlights off, enter **0** in the **Value data** text box, and then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Control Your Search Highlights on Windows 11
 
  Windows 11 being customizable is what makes interacting with the OS enjoyable. The power is in your hands whether you want to see search highlights or not in Windows Search. And now you know three ways to enable or disable them.
 
  So, keep on reading to find out three ways to turn search highlights on and off.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -92,3 +98,21 @@ thumbnail: https://thmb.techidaily.com/0e4e69a266c0e21cfaa72121cb274553aaa959ab8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/nduring-removal-protocol-say-no-to-youtube-shorts-for-2024/"><u>[New] Enduring Removal Protocol Say No to YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-what-is-virtual-reality-and-how-does-it-work/"><u>[New] In 2024, What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-tick-tock-restoring-windows-time-service/"><u>Fixing the Tick-Tock: Restoring Windows Time Service</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-track-and-blur-faces-in-premiere-pro/"><u>How To Track and Blur Faces in Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-exception-breakpoint-hit-on-windows-issues/"><u>Overcoming Exception Breakpoint Hit on Windows Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/pathways-to-troubleshooting-with-winrm-utility/"><u>Pathways to Troubleshooting with WinRM Utility</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-windows-assertion-of-an-unempty-directory-error-x80070091/"><u>Remedying Windows' Assertion of an Unempty Directory (Error X80070091)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-fn-keys-on-a-dell-laptop-the-definitive-guide-to-restoration-and-maintenveeance/"><u>Reviving the Fn Keys on a Dell Laptop: The Definitive Guide to Restoration and Maintenveeance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-clearing-your-chatgpt-conversation-records/"><u>Step-by-Step Guide: Clearing Your ChatGPT Conversation Records</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-common-freezing-issues-with-steam-and-games-on-windows/"><u>Tackling Common Freezing Issues with Steam and Games on Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-imagination-with-these-grading-techniques-7-must-try-tips/"><u>Unleashing Imagination with These Grading Techniques 7 Must-Try Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/victory-over-visual-vexations-solve-sonic-adventures-full-screen-crash-issues-in-windows-11/"><u>Victory over Visual Vexations: Solve Sonic Adventure's Full-Screen Crash Issues in Windows 11</u></a></li>
+</ul></div>
+

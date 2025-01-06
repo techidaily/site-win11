@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2024-12-22T17:00:53.017Z
-updated: 2024-12-28T05:46:28.038Z
+date: 2025-01-02T18:45:06.514Z
+updated: 2025-01-06T20:41:00.222Z
 tags:
   - windows10
   - windows11
@@ -25,9 +25,17 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. List All User Accounts
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Before you start managing user accounts with **net user**, it helps to know all the user accounts on your computer. To list them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/), enter the below command, and hit the **Enter** key to run it:
 
@@ -35,17 +43,9 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Keep the names you see in mind, as you will need them as you use the **net user** command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  Once you run the command, you'll be able to see, the user's full name, when their password expires, when they last logged in, whether they're an administrator, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Add and Delete a User Account
@@ -77,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Now net user will remove the account from the computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
 
@@ -104,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Username /domain /active:no`
 
  If you want to enable an account on a domain, just use the **/active:yes** switch in the above command structure instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Set User Account Login Times
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 11\. Set a Home Directory for Users
 
  When creating a new user profile using **net user**, you can set the home directory, which is where Windows will store the user's personal files and settings. By default, Windows places the home directory of each user account in **This PC > Local Disk (C:) > Users**. To change this with **net user** during account creation, the basic syntax is as follows:
@@ -182,7 +182,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
@@ -203,21 +203,24 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-3-step-guide-to-exceptional-gopro-videos/"><u>[Updated] 2024 Approved The 3-Step Guide to Exceptional GoPro Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-5-high-performance-hdds-built-for-xbox-use/"><u>2024 Approved 5 High-Performance HDDs Built for Xbox Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/5li76kab44gq44ot44oh44kq44ov44kp44o844oe44od44oi44gr5zci44kp44gb44gm5yuv55s744ks5asj5oplusb44gz44klic0g6kmz57sw44ks44kk44oj/"><u>主要なビデオフォーマットに合わせて動画を変換する - 詳細ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-navigating-windows-11-with-a-customizable-taskbar/"><u>Efficiently Navigating Windows 11 with a Customizable Taskbar</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-tips-for-superior-4k-visual-quality-with-gear/"><u>Expert Tips for Superior 4K Visual Quality with Gear</u></a></li>
-<li><a href="https://win11.techidaily.com/ideal-vm-setups-for-windows-11-maximizing-potential-and-efficiency/"><u>Ideal VM Setups for Windows 11: Maximizing Potential & Efficiency</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://win11.techidaily.com/installing-chrome-on-windows-11-everything-you-need-to-know/"><u>Installing Chrome on Windows 11: Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/manipulating-windows-defense-display-settings/"><u>Manipulating Windows Defense Display Settings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722997655349-nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-patient-care-through-conversational-ai-insights-into-chatgpt/"><u>Transforming Patient Care Through Conversational AI: Insights Into ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-options-on-nvidia-settings-window/"><u>Troubleshooting No Options on Nvidia Settings Window</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-to-eliminate-xerox-printer-update-malfunction-error-number-0x800f020b/"><u>Troubleshooting Tips to Eliminate Xerox Printer Update Malfunction (Error Number 0X800F020B)</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-os-anomalies-a-step-by-step-approach-to-identifying-and-fixing-error-codes-using-commands/"><u>Unveiling OS Anomalies: A Step-by-Step Approach to Identifying and Fixing Error Codes Using Commands</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-secrets-windows-11-on-mac-with-parallels/"><u>Unveiling the Secrets: Windows 11 on Mac with Parallels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-comprehensive-guide-to-androids-top-podcast-apps/"><u>Your Comprehensive Guide to Android's Top Podcast Apps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/asy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments-for-2024/"><u>[New] Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nnovate-on-screen-imagery-with-youtubes-green-screens-edge/"><u>[New] Innovate On-Screen Imagery with YouTube’s Green Screens Edge</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>[Updated] Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-vlc-use-manual-for-mac-users/"><u>[Updated] Comprehensive VLC Use Manual for Mac Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quality-control-vll-approach-to-apps/"><u>[Updated] Quality Control VLL Approach to Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-moments-with-full-screen-movies-on-iphones/"><u>Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722842383478-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-ux-with-windows-11s-advanced-widget-system/"><u>Enhance UX with Windows 11'S Advanced Widget System</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-proplus-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 13 Pro+ 5G Without PUK Codes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-youtube-regulations-on-personal-recordings/"><u>In 2024, YouTube Regulations on Personal Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-access-to-windows-11-without-lock-screen/"><u>Instant Access to Windows 11 without Lock Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/making-sense-of-device-interconnectivity-with-nearby/"><u>Making Sense of Device Interconnectivity with Nearby</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-web-interface-of-windows-11/"><u>Mastering the Web Interface of Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-new-horizons-in-pc-operating-systems-homes-vs-pro-win11/"><u>Navigating New Horizons in PC Operating Systems: Homes Vs. Pro Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-denied-to-windows-registry-editor/"><u>Overcoming Access Denied to Windows Registry Editor</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-non-active-system-temp-directive/"><u>Reinstating Non-Active System Temp Directive</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-dxgierrordeviceremoved-in-win-oses/"><u>Tackling DXGI_ERROR_DEVICE_REMOVED in Win OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-files-in-windows-quickly-and-correctly/"><u>Transform Your Files in Windows Quickly & Correctly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Eliminating Unwanted Spaces From Your Data in Microsoft Excel"
-date: 2024-08-28T00:49:06.678Z
-updated: 2024-08-29T00:49:06.678Z
+date: 2025-01-05T18:57:30.087Z
+updated: 2025-01-06T20:51:59.849Z
 tags:
   - excel
 categories:
@@ -35,16 +35,10 @@ Related: [How to Use the TRIM Function in Microsoft Excel](https://graphic-issue
 
 ![An Excel spreadsheet with extra spaces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-extra-space-spreadsheet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select the cell next to the first record in your spreadsheet. This is where your text without the extra spaces will appear.
 
 ![Select the cell next to the first record.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-select-cell-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  In the selected cell, type the following `TRIM` function and press Enter. In the function, replace
 
         `B2`
@@ -59,9 +53,17 @@ Related: [How to Use the TRIM Function in Microsoft Excel](https://graphic-issue
 
 ![Drag the TRIM function cell downwards.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-copy-trim-function.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You now have your text without any extra spaces in your spreadsheet.
 
 ![Extra spaces removed from cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-remove-spaces-cells.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Got any duplicate rows in your spreadsheet? If so, it's [easy to remove them](https://visual-screen-recording.techidaily.com/new-precision-in-capturing-androids-best-techniques-for-2024/).
 
@@ -76,34 +78,33 @@ Related: [How to Remove Duplicate Rows in Excel](https://visual-screen-recording
 ![Select the cells containing extra spaces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-select-cells-with-spaces.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Excel's ribbon at the top, click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-excel-home-tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  In the "Home" tab, from the "Editing" section, select the "Find & Select" option.
 
 ![Choose "Find & Select" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/8-excel-find-select.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  From the expanded menu, select "Replace."
 
 ![Click "Replace" in the "Find & Select" menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/9-excel-replace-feature.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Excel will open a "Find and Replace" window. Here, click the "Find What" box and type a space. Leave the "Replace With" field empty. Then click "Replace All" at the bottom of the window.
 
 ![Enter a space in the "Find What" box and click "Replace All."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-replace-spaces-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel will find and delete all spaces from your worksheet.
 
  If you realize you made a mistake, quickly bring your spaces back by pressing Ctrl+Z on Windows or Command+Z on Mac.
@@ -124,8 +125,6 @@ Related: [How to Quickly and Easily Delete Blank Rows and Columns in Excel](http
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +132,23 @@ Related: [How to Quickly and Easily Delete Blank Rows and Columns in Excel](http
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>[Updated] 2024 Approved Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-interactive-slides-with-youtube-videos/"><u>[Updated] Interactive Slides with YouTube Videos</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mka-mp3-mp3-movavi/"><u>線上免費 MKA MP3 格式數據到MP3 - 便利的Movavi音頻變更服務</u></a></li>
+<li><a href="https://fox-http.techidaily.com/capturing-essence-photos-meet-music-videos-for-2024/"><u>Capturing Essence Photos Meet Music Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-windows-11-navigation-quick-cmd-command-tips/"><u>Enhance Windows 11 Navigation: Quick Cmd Command Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-free-passwords-creator-apps-for-windows-users/"><u>Essential Free Passwords Creator Apps for Windows Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-a-stalled-or-halted-windows-11-update-process-guide/"><u>Fixing a Stalled or Halted Windows 11 Update Process - Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-windows-simulators-unmatched-nintendo-switch-games/"><u>Leading Windows Simulators: Unmatched Nintendo Switch Games</u></a></li>
+<li><a href="https://techtrends.techidaily.com/optimal-image-configurations-for-your-samsung-qled-4k-display/"><u>Optimal Image Configurations for Your Samsung QLED 4K Display</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oppo-a59-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Oppo A59 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-errors-when-accessing-roblox-on-windows-accounts/"><u>Solving Errors when Accessing Roblox on Windows Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/the-missing-link-how-to-find-and-fix-your-pcs-missing-enhancements/"><u>The Missing Link: How to Find and Fix Your PC’s Missing Enhancements</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-win10s-critical-error-code-0x80n0705b4-in-system-updates/"><u>Troubleshooting and Solving Win10's Critical Error Code 0X80n0705b4 in System Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-disabling-mobility-center-in-windows-11/"><u>Tutorial: Disabling Mobility Center in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-to-avoid-risks-with-inexpensive-windows-codes/"><u>Unlocking Secrets to Avoid Risks with Inexpensive Windows Codes</u></a></li>
+</ul></div>
 

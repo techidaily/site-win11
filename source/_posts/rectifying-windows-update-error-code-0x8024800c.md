@@ -1,7 +1,7 @@
 ---
 title: "Rectifying Windows Update: Error Code 0X8024800C"
-date: 2024-08-23T06:09:02.577Z
-updated: 2024-08-24T06:09:02.577Z
+date: 2025-01-04T18:09:42.768Z
+updated: 2025-01-06T20:38:13.022Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
  Sometimes, a simple restart can fix minor computer issues. It may also help if you experience system instability or frequently encounter this error. Restarting your computer will refresh the system, clearing out any corrupted data that may have caused this issue. So before proceeding, [restart your computer](https://www.makeuseof.com/windows-restart-methods/) and try updating again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Windows Update Troubleshooter
 
  Windows has a built-in troubleshooter tool that identifies and resolves common Windows Update problems. Here’s how to use it:
@@ -50,17 +54,14 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 4. Now move to the right pane and click **Troubleshoot > Other troubleshooters**.  
 ![Other trouble-shooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-trouble-shooters.jpg)
 5. Click the **Run** button next to Windows Update.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-update-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After following the above steps, the troubleshooter will scan your system for errors. When it’s done, the troubleshooter will present you with any solutions it finds. Follow the on-screen instructions and apply any recommendations to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 4\. Clear the SoftwareDistribution Folder
 
  The Software Distribution folder is where Windows stores data related to updates. It includes temporary files and download logs. Corrupted or missing system files in this folder can cause the 0x8024800C issue. To fix it, you must delete these files from your system. Here’s how:
@@ -76,9 +77,6 @@ net stop bits`
 
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Once you're done, go back to the Command Prompt and type the following commands:
 
 `net start wuauserv  
@@ -87,9 +85,9 @@ net start bits`
  This will restart the Windows Update service and the Background Intelligent Transfer Service. Now try downloading updates for your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Third-Party Antivirus Software Temporarily
 
  If you're experiencing problems updating Windows, your antivirus might be the culprit. These programs can sometimes interfere with Windows Update components, causing errors like 0x8024800C. To be sure, we recommend [disabling your antivirus temporarily](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and checking if this solves the issue.
@@ -163,9 +161,11 @@ net start cryptsvc`
 7. Name your file **WUReset.bat** and save it on your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-update-components.jpg)
 8. Once you have created the file, right-click on it and choose **Run as administrator**.
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9. If you see a UAC prompt, click **Yes** to confirm.
 
  This will reset the Windows Update components and fix the 0x8024800C error. After that, you can try updating Windows again.
@@ -177,13 +177,12 @@ net start cryptsvc`
  If the problem isn't fixed, you can [try either system restore](https://www.makeuseof.com/windows-11-create-restore-point/) or reinstalling Windows. These options will reset your computer to its original settings, which will most likely resolve any software-related problems. And remember to [back up your Windows data](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) before trying these solutions so you have something to fall back on if something goes wrong.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x8024800C
 
  Having trouble downloading and installing Windows updates? You might be facing Windows Update Error 0x8024800C, which prevents your PC from accessing the latest updates and security patches. Thankfully we have some easy solutions that may help you fix this error code on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +190,27 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-elevate-your-voice-discovering-the-leading-vocal-changer-applications-for-android/"><u>[New] 2024 Approved Elevate Your Voice Discovering the Leading Vocal Changer Applications for Android</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-cross-platform-sharing-tweeting-videos-across-fb/"><u>[New] Cross-Platform Sharing Tweeting Videos Across FB</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-transform-your-casual-gopro-footage-to-a-pro-level/"><u>[Updated] 2024 Approved Transform Your Casual Gopro Footage to a Pro Level</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-deeper-dive-into-high-definition-online-visibility/"><u>[Updated] A Deeper Dive Into High Definition Online Visibility</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-essential-igtv-picks-for-a-creative-edge/"><u>2024 Approved Essential IGTV Picks for a Creative Edge</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-industry-standards-the-top-5-online-video-devices/"><u>2024 Approved Industry Standards The Top 5 Online Video Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/complete-walkthrough-forcing-reboot-your-iphone-and-entering-device-service-mode/"><u>Complete Walkthrough: Forcing Reboot Your iPhone & Entering Device Service Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-software-management-skills-using-windows-package-manager/"><u>Elevate Your Software Management Skills Using Windows Package Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-counteract-windows-startup-disruption-from-winscomrssvdll/"><u>How to Counteract Windows Startup Disruption From WinscomrssvDLL</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delete-account-details-efficiently-post-login/"><u>How to Delete Account Details Efficiently Post-Login</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-stealthy-sound-softening-with-garageband/"><u>In 2024, Stealthy Sound Softening with Garageband</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incremental-introduction-for-2024/"><u>Incremental Introduction for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-1011-app-resetting-guide/"><u>Mastering Windows 10/11: App Resetting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-application-failed-to-launch-error-xc000003e-on-windows-11/"><u>Overcoming Application Failed to Launch Error Xc000003e on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-solving-operation-0x0000011b-in-windows-11/"><u>Preventing and Solving Operation 0X0000011B in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/procedures-for-initiating-system-restore-in-windows-11-os/"><u>Procedures for Initiating System Restore in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-unveiling-of-the-os-preferences/"><u>Stepwise Unveiling of the OS Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-frozen-windows-update-with-precision/"><u>Tackling Frozen Windows Update With Precision</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-carbon-footprint-myth-how-to-truly-assess-impacts/"><u>The Carbon Footprint Myth: How to Truly Assess Impacts</u></a></li>
+</ul></div>
+

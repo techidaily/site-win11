@@ -1,7 +1,7 @@
 ---
 title: Establishing Default Settings in Windows Terminal
-date: 2024-12-23T17:02:33.508Z
-updated: 2024-12-28T01:05:13.444Z
+date: 2025-01-02T20:38:41.881Z
+updated: 2025-01-06T20:17:21.135Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change the Default Terminal App via Windows Terminal's Settings
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 5. Optionally, you can set the **Default profile** that opens when you launch the Terminal app.
 6. Click the **Save** button at the bottom.  
 ![Set Windows Terminal as the Default App via Terminal Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to undo the above changes later, simply repeat the above steps and select **Windows console host** or **Let Windows decide** in the **Default terminal application** drop-down menu.
 
@@ -58,11 +62,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -103,24 +103,18 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-premier-platforms-to-rework-classic-ps3-titles-for-2024/"><u>[New] Premier Platforms to Rework Classic PS3 Titles for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac-2023-update/"><u>[Updated] 2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac-2023 Update</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-to-the-best-images-at-pexels/"><u>[Updated] Navigating to the Best Images at Pexels</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-ultimate-guide-to-mastering-videos-with-vida/"><u>[Updated] The Ultimate Guide to Mastering Videos with Vida</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/utube-starter-templates-a-guide-to-popularity-for-2024/"><u>15 YouTube Starter Templates A Guide to Popularity for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-compreayers-blueprint-to-fb-image-security/"><u>A Compreayer's Blueprint to Fb Image Security</u></a></li>
-<li><a href="https://win11.techidaily.com/de-jam-windows-and-run-handbrake-successfully/"><u>De-Jam Windows and Run HandBrake Successfully</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-curing-slow-gpsvc-on-pcs/"><u>Decoding and Curing Slow GPSVC on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-for-documenting-user-account-control-messages/"><u>Easy Steps for Documenting User Account Control Messages</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-on-correcting-windows-11-typing-error-code-x80049dd3/"><u>Expert Advice on Correcting Windows 11 Typing Error Code X80049DD3</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/novice-to-notoriety-steps-for-a-youtube-channel-in-gaming/"><u>From Novice to Notoriety Steps for a YouTube Channel in Gaming</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-newest-geforce-rtx-3070-driver-updates-and-download-for-your-pc-windows-1110-supported/"><u>Get the Newest GeForce RTX 3070 Driver Updates & Download for Your PC (Windows 11/10 Supported)</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-type-faster-with-powertoys-on-windows/"><u>How to Type Faster With PowerToys on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-fixes-for-malfunctioning-windows-charmap-errors/"><u>Mastering Fixes for Malfunctioning Windows CharMap Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-black-screen-issues-in-pc-games-on-winos/"><u>Remedying Black Screen Issues in PC Games on WINOS</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ified-guide-instant-deletion-methods-for-youtube-discussions-for-2024/"><u>Simplified Guide Instant Deletion Methods for Youtube Discussions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-overcoming-your-windows-hello-fingerprint-failures/"><u>Solutions: Overcoming Your Windows Hello Fingerprint Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-virtual-machines-ram-shortage-on-pcs/"><u>Tackling Virtual Machine's RAM Shortage on PCs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-resolving-issues-with-iphones-guided-access-feature/"><u>Troubleshooting Guide: Resolving Issues with iPhone's Guided Access Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/xploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>[New] Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charting-a-path-to-monthly-earnings-from-youtube/"><u>[Updated] In 2024, Charting a Path to Monthly Earnings From YouTube</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-vm-disk-image-recovery-software-top-5-picks-for-retrieving-vmdk-files/"><u>Best Free VM Disk Image Recovery Software: Top 5 Picks for Retrieving VMDK Files</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s24plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S24+ Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-misattributed-audio-application-use-in-pc/"><u>Eliminating Misattributed Audio Application Use in PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13 Ultra FRP</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In 2024, In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-xbox-audio-output-on-windows-devices/"><u>Mastering Xbox Audio Output on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-visual-performance-the-winning-plan-for-increased-vram/"><u>Skyrocket Your Visual Performance: The Winning Plan for Increased VRAM</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-from-auto-restarting-abruptly/"><u>Stop Windows 11 From Auto-Restarting Abruptly</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-risks-of-transparent-chatbot-conversations/"><u>The Risks of Transparent Chatbot Conversations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unleashing-efficiency-end-stutter-issues/"><u>Unleashing Efficiency: End Stutter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings</u></a></li>
 </ul></div>
 

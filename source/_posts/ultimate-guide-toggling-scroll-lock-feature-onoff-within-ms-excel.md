@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Toggling Scroll Lock Feature On/Off Within MS Excel"
-date: 2024-08-28T00:49:07.848Z
-updated: 2024-08-29T00:49:07.848Z
+date: 2024-12-31T17:04:35.151Z
+updated: 2025-01-06T19:28:22.812Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 ---
 
 ## Ultimate Guide: Toggling Scroll Lock Feature On/Off Within MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/88b9d1a1839e87bc852a7b88397e12987972348fa
 
 Related: [What Are the Sys Rq, Scroll Lock, and Pause Break Keys on My Keyboard?](https://tech-haven.techidaily.com/revolutionize-your-social-presence-write-stellar-posts-with-chatgpts-help/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Does Enabling and Disabling Scroll Lock Do in Excel?
 
  When you disable Scroll Lock and [press the arrow keys](https://youtube-data.techidaily.com/024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/), Excel lets you move between cells in your spreadsheet. For example, if you press the Down Arrow key, you go down a cell in your worksheet. This is usually the default behavior and allows for quick editing.
@@ -31,10 +39,6 @@ Related: [What Are the Sys Rq, Scroll Lock, and Pause Break Keys on My Keyboard?
 
 Related: [How to Fix Arrow Key Scrolling in Excel](https://youtube-data.techidaily.com/024-approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  Enable or Disable Scroll Lock When Using Excel
 
  One way to toggle Scroll Lock on Windows is to press the dedicated Scroll Lock key on your keyboard. This key is usually located in the top-first row of your keyboard, to the right of the [Print Screen key](https://instagram-clips.techidaily.com/2024-approved-unveiling-techniques-for-more-extended-instagram-video-posts/).
@@ -42,15 +46,17 @@ Related: [How to Fix Arrow Key Scrolling in Excel](https://youtube-data.techidai
 ![Press the Scroll Lock key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/1-scroll-lock-key-on-keyboard.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you press the key, you'll see the Scroll Lock light turn on on your keyboard (if your keyboard has one). This indicates the option is enabled. To turn off Scroll Lock, press the same key again.
 
  On a MacBook, you can use the key combination Fn+Shift+F12 to toggle scroll lock.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Toggle Scroll Lock Without a Keyboard
 
  If your keyboard doesn't offer a dedicated Scroll Lock key, [use the on-screen keyboard](https://screen-capture.techidaily.com/updated-2024-approved-how-to-record-your-desktop-screen-on-windows-for-free-3-methods/) to enable or disable the feature. Open that keyboard by accessing the "Start" menu, searching for "On-Screen Keyboard", and selecting the app in the search results.
@@ -58,23 +64,17 @@ Related: [How to Fix Arrow Key Scrolling in Excel](https://youtube-data.techidai
 ![Launch On-Screen Keyboard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/2-launch-on-screen-keyboard.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you see the virtual keyboard, to activate Scroll Lock, click the ScrLk button. It will turn blue indicating the lock is enabled.
 
 ![Click the "ScrLk" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/3-enable-scroll-lock.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  To deactivate the lock, click the same key again.
 
 ![Select the "ScrLk" key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/4-disable-scroll-lock.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  And that's all there is to using the Scroll Lock in Microsoft's spreadsheet program. We hope you find it useful.
 
 ---
@@ -89,8 +89,6 @@ Related: [How to Make Your Scroll Lock Key Useful on a Windows 10 PC](https://vi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +96,18 @@ Related: [How to Make Your Scroll Lock Key Useful on a Windows 10 PC](https://vi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-finding-purpose-in-film-our-selection-of-top-motivational-titles/"><u>[Updated] Finding Purpose in Film Our Selection of Top Motivational Titles</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782065-9781594775086-a-lapidary-of-sacred-stones/"><u>A Lapidary of Sacred Stones | Free Book</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-apple-iphone-14-pro-imei-checker-by-drfone-ios/"><u>Best Free Apple iPhone 14 Pro IMEI Checker</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-window-based-facebook-messaging-problems/"><u>Decoding Window-Based Facebook Messaging Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-the-latest-nvidia-quadro-graphics-drivers-on-your-window-10-pc/"><u>How to Install the Latest NVIDIA Quadro Graphics Drivers on Your Window 10 PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-beginner-friendly-guide-to-iphone-screen-recordings/"><u>In 2024, Beginner-Friendly Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://win11.techidaily.com/methodology-to-mend-win1110s-nvidia-cp-access-issue/"><u>Methodology to Mend Win11/10's NVidia CP Access Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-offline-errors-a-guide-for-steam-users/"><u>Overcoming Offline Errors: A Guide for Steam Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screencasting-made-easy-top-10-tools-reviewed/"><u>Screencasting Made Easy Top 10 Tools Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-ps-sync-a-quick-fix-guide/"><u>Streamlining Win-PS Sync: A Quick Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/user-interface-renaissance-a-proposal-of-6-taskbar-improvements-for-windows-11/"><u>User Interface Renaissance: A Proposal of 6 Taskbar Improvements for Windows 11</u></a></li>
+</ul></div>
 

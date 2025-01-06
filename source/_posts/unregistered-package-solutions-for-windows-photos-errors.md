@@ -1,7 +1,7 @@
 ---
 title: Unregistered Package Solutions for Windows Photos Errors
-date: 2024-12-23T06:16:48.196Z
-updated: 2024-12-28T03:32:35.979Z
+date: 2024-12-30T20:10:09.932Z
+updated: 2025-01-06T20:16:54.098Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  Start your error troubleshooting with a troubleshooter for UWP apps on Microsoft Store. Windows Store Apps is a troubleshooter that could identify and resolve an issue with the Photos app. These are the steps for running that troubleshooter in Windows 11:
@@ -36,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The troubleshooters in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-troubleshooters-in-settings.jpg)
 5. Then select to apply fixes suggested by the Windows Store App troubleshooter.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-store-apps-troubleshooter.jpg)
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Update Photos
 
@@ -54,15 +58,19 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The Get updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/get-updates-button.jpg)
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Repair and Reset the Photos Apps
 
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run the Deployment Image and System File Checker Tools
 
@@ -73,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 `sfc /scannow`
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Photos
 
@@ -88,23 +100,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Reset Windows
 
  If you’ve tried all other resolutions suggested here, there could be a deeper Windows issue causing the “Package could not be registered” Photos error. Then a system reset could be needed to remedy that deeper issue. Resetting Windows will refresh the platform’s components and restore it to a default state.
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
 
@@ -127,21 +127,14 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-jokes-laughgenix-hub/"><u>[Updated] Image Jokes LaughGenix Hub</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-annotating-emotions-through-trailer-tunes/"><u>[Updated] In 2024, Annotating Emotions Through Trailer Tunes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-maximize-view-count-best-yt-thumbnail-sizes-for-2024/"><u>[Updated] Maximize View Count Best YT Thumbnail Sizes for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximizing-viewership-with-effective-game-streaming-for-2024/"><u>[Updated] Maximizing Viewership with Effective Game Streaming for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discover-prime-sites-offering-free-got-soundtracks/"><u>2024 Approved Discover Prime Sites Offering Free GoT Soundtracks</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-and-repairing-win-error-31-on-your-computer/"><u>Dissecting and Repairing WIN Error 31 on Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-system-files-top-6-access-methods/"><u>Exploring System Files: Top 6 Access Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/in-depth-comparison-the-new-macbook-air-m3-against-the-previous-generation-m2-expert-advice-from-zdnet/"><u>In-Depth Comparison: The New MacBook Air (M3) Against the Previous Generation (M2) – Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-application-floods-on-windows-solving-error-0x80860010/"><u>Navigating Application Floods on Windows: Solving Error 0X80860010</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-absent-cpu-cooling-directive-in-os/"><u>Reinstating Absent CPU Cooling Directive in OS</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-unresponsive-disk-optimization-utility/"><u>Solutions for Unresponsive Disk Optimization Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-discord-javascript-dilemma-on-windows-11-pcs/"><u>Steps to Eliminate Discord Javascript Dilemma on Windows 11 PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-why-hasnt-alan-wake-2-released-yet/"><u>Troubleshooting Guide: Why Hasn't Alan Wake 2 Released Yet?</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-compress-videos-for-free-10-best-online-tools-with-no-downloads/"><u>Updated 2024 Approved Compress Videos for Free 10 Best Online Tools with No Downloads</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-users-wanted-learn-backup-tricks-for-notebooks/"><u>Windows Users Wanted: Learn Backup Tricks for Notebooks</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/44oi44ol44k44o844k144o844ov44kn44k544gn44gu5yuv55s76yyy55s744og44kv44ol44od44kv6zugioodrplusocpoodpoodroocueawuew8jplusinoplusiqra/"><u>モニターサーフェスでの動画録画テクニック集 ワイヤレス方式解説</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-seamless-downloads-4-prime-ringtones-providers/"><u>[Updated] In 2024, Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/anticipating-apples-event-in-october-unveiling-of-the-new-m4-powered-mac-mini-latest-ipad-models-and-insights-on-apple-ai-advancements/"><u>Anticipating Apple's Event in October: Unveiling of the New M4-Powered Mac Mini, Latest iPad Models & Insights on Apple AI Advancements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions-for-2024/"><u>Archive Artistry Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/eb477dw-hp-printer-drivers-compatible-with-windows-11-windows-10-and-windows-8-free-download/"><u>Eb477DW HP Printer Drivers Compatible with Windows 11, Windows 10 & Windows 8 - Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-a-non-functional-wsreset-utility-in-windows/"><u>Fixes for a Non-Functional WSReset Utility in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-unlock-full-potential-eliminating-error-code-80080300-in-win11/"><u>Quick Fixes to Unlock Full Potential: Eliminating Error Code 80080300 in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-silenced-headset-microphone-on-windows-pcs/"><u>Reactivating Silenced Headset Microphone on Windows PCs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-compact-free-media-players-for-pcs/"><u>Top 7 Compact, FREE Media Players for PCs</u></a></li>
 </ul></div>
 

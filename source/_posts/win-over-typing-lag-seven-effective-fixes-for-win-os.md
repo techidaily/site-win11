@@ -1,7 +1,7 @@
 ---
 title: "Win over Typing Lag: Seven Effective Fixes for WIN OS"
-date: 2024-08-23T06:10:07.440Z
-updated: 2024-08-24T06:10:07.440Z
+date: 2025-01-03T20:33:21.508Z
+updated: 2025-01-06T18:57:15.034Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,11 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 2. Click **Enter**. This will open the keyboard properties window, where you will see the option to adjust the **Repeat delay** and **Repeat rate**. The Repeat delay allows you to set the delay between you press-holding a key and the initiation of the repeated output of the key. The Repeat rate allows you to adjust the speed at which this output is repeated.  
 ![changing keyboard settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-settings.jpg)
 3. Shorten the **Repeat delay** and increase the **Repeat rate** to eliminate the input lag. This may require some experimentation before you find the sweet spot, but there's a convenient test box built right into the Keyboard properties window to help you find the right balance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. When you've found an ideal Repeat delay and Repeat rate, press **OK** at the bottom to save and exit.
 
 ## 2\. Update or Reinstall the Keyboard Driver
@@ -59,20 +64,19 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 ![Turning off the Use Filter Keys button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turning-off-the-use-filter-keys-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you're running Windows 11, you'll find the option to disable Filter Keys in **Settings > Accessibility > Keyboard > Filter Keys**.
 
 ![disabling filter keys on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, try typing something into your text editor and see if it still lags.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Keyboard Troubleshooter
 
  Fortunately, Windows comes with some great built-in troubleshooting tools. Whether you're experiencing an input lag or your [keyboard isn't working at all](https://www.makeuseof.com/tag/laptop-keyboard-not-working/), the keyboard troubleshooter can provide you with a solution. Follow these steps to use the troubleshooter:
@@ -85,10 +89,11 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 
 ![running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  The troubleshooter will look for potential issues. If it finds something to fix, go ahead and follow the directions. When you're done, see if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the DISM Command Line Tool
 
@@ -105,16 +110,10 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Let the process finish, then verify if this trick solved the keyboard input lag.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Perform Specific Fixes for Wireless Keyboards
 
  The above issues apply to keyboards in general. However, some issues are specific to wireless keyboards. If your keyboard is wireless, try the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 1\. Replace the Batteries
 
  Start by ruling out the possibility of the lag being caused by a drained battery. To do this, replace the battery or recharge your keyboard to full. If this doesn't fix the problem, try the next solution.
@@ -123,9 +122,17 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Start by trying to re-sync your keyboard with the USB receiver. If that doesn't help, insert the USB receiver into a different USB port on your computer if the current port lacks enough power. Try placing the keyboard closer to the USB receiver if possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Remove Interference From Wireless Devices
 
  If you've placed other Wi-Fi devices such as a router or a cell phone near the computer, move it away and see if that eliminates the input lag.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Consider Getting a New Keyboard
 
@@ -135,10 +142,11 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
 ![launching on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/on-screen-keyboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can use one of the several [virtual keyboard apps](https://www.makeuseof.com/windows-best-virtual-keyboards/) available out there. If you don't like the idea of virtual keyboards, you can use speech-to-text software to type without having the user your keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Back to Buttery-Smooth Typing on Windows
 
@@ -148,11 +156,26 @@ DISM /Online /Cleanup-Image /RestoreHealth`
 
  Before you troubleshoot the issue, ensure that it really is the keyboard that's causing the problem. Sometimes, you may be inadvertently doing things that cause your Windows PC to slow down, which can also be a reason for keyboard input lag. However, if that's not the case, here are some easy fixes you can try to rid yourself of the annoying keyboard input lag.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clubbing-essentials-top-rated-dj-template-vids/"><u>[Updated] 2024 Approved Clubbing Essentials Top-Rated DJ Template Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting-for-2024/"><u>[Updated] From Basics to Best Achieving Superior Sound via Zoom for Podcasting for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-craft-your-story-leading-drawers-in-ipados/"><u>[Updated] In 2024, Craft Your Story Leading Drawers in iPadOS</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-delete-safety-windows-options-explored/"><u>Enhancing Delete Safety: Windows Options Explored</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-mobile-vlog-editing-top-10-apps/"><u>New The Ultimate Guide to Mobile Vlog Editing Top 10 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/routes-to-the-windows-11-security-configuration/"><u>Routes to the Windows 11 Security Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-overcome-error-0x800700e1-in-windows-11/"><u>Techniques to Overcome Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-0x80073d26-in-microsofts-store/"><u>Troubleshooting Error 0X80073D26 in Microsoft's Store</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-apple-iphone-15-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-drivers-available-now-enhance-your-tp-link-ac-adapter-performance-in-windows-7-to-11/"><u>Updated Drivers Available Now: Enhance Your TP-Link Ac Adapter Performance in Windows 7 to 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-woes-banish-opera-download-bottlenaske/"><u>Windows Woes: Banish Opera Download Bottlenaske</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-editing-essentials-a-comprehensive-guide-to-song-inserts/"><u>YouTube Editing Essentials A Comprehensive Guide to Song Inserts</u></a></li>
+</ul></div>
+

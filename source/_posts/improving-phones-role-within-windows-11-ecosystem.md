@@ -1,7 +1,7 @@
 ---
 title: Improving Phones' Role Within Windows 11 Ecosystem
-date: 2024-12-21T05:02:28.162Z
-updated: 2024-12-27T21:47:33.445Z
+date: 2025-01-05T16:00:45.166Z
+updated: 2025-01-06T19:03:32.594Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 ![Get started with the Phone Link app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/phone-link.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Phone Link is an app for Windows 10 and 11 to help you connect your Android and iPhone devices to your PC. After connecting your phone to your PC, you can send or receive your phone's text message directly to your PC via the Phone Link app. You can also make calls and view your phone photos. And if you own a premium Samsung Galaxy Phone or a Surface Duo, you can also run your phone apps on your PC via the Phone Link app. You can check our [definitive Windows Phone Link guide](https://www.makeuseof.com/windows-phone-link-guide/) to learn more about what's possible with the app.
 
  To use all the functionalities, you need to [set up and connect your phone to your PC](http://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) via Phone Link. After the setup is complete, your phone will be connected to your PC every time you launch the Phone Link app.
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  However, after spending significant time using Phone Link, you might realize the app is missing some key features. Here are some areas we think it could be improved.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. The Ability to Forward Text Messages
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  One of the major offerings of the Phone Link is that it allows you to receive and send text messages from your PC. This eliminates the need to reach your phone to see if you received any text messages while working on your PC.
 
  However, Microsoft can take the messaging experience of Phone Link to the next level by adding more capabilities. For one, it can add the ability to forward a text message right from the Phone Link app, just like how easily it can be done on phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. A Password Protection Feature for the Phone Link App
 
@@ -59,27 +59,27 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 ![Screenshot showing the ability to copy image in Phone Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-image-edit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can copy and share your phone photos via the Phone Link app on your PC. However, the sharing experience is pretty basic in the app. For example, you can not select multiple photos and copy or share them.
 
  If you need to copy or share multiple photos at once quickly, it is better to reach your phone rather than use the Phone Link app for it. This is because it will take some time to send them by copying or sharing each photo one by one.
 
  Hopefully, Microsoft will bring the necessary change to improve the sharing experience on Phone Link in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Timestamped Text Messages
 
 ![Screenshot showing messages in Phone Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/phone-link-message-edited.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you open a message on Phone Link, you can't tell easily at what time the messages were received. It shows only the dates and days on which they were sent. However, hovering your mouse cursor over the message will show you the exact date, time, and sender's number.
 
  Instead of needing to hover the mouse cursor over the message to see the time it was received, we should be able to see the time right after the message ends, just like on the messaging app on your mobile phone. This way, it would be much more straightforward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. The Ability to Delete Messages
 
@@ -88,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  To be able to delete text messages from within the Phone Link can save you time. With that option in Phone Link, you do not have to waste your time by rechecking your phone to find and delete those messages. Microsoft should add this functionality in future updates.
 
  Apart from being able to delete individual text messages, Microsoft should also introduce functionality to delete multiple messages simultaneously. This will save even more time, as the ability to bulk delete eliminates the need to delete them individually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. A More Robust Copy and Paste Experience
 
@@ -100,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
  Microsoft recommends installing the latest version of Windows, Android, and iOS on your devices for Phone Link to work best. The minimum requirement is this: Windows 10 with the May 2019 Update or later, or Windows 11, Android 7.0, iOS 14 on iPhone. However, not every phone Link feature will work even if you are running the latest version of Windows, Android, or iOS.
 
  Features such as the ability to run phone apps on your PC via Phone Link, Phone screen, and RCS messaging are limited to select Samsung, Surface Duo, and HONOR handsets. Microsoft should make these capabilities available to more devices with lower specifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Microsoft Needs to Do More With Phone Link
 
@@ -121,24 +121,22 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-should-itop-top-your-list-for-screen-recorders/"><u>[New] 2024 Approved Should ITop Top Your List for Screen Recorders?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-timeless-tales-of-summer-delight-top-10-kids-movies/"><u>[New] Timeless Tales of Summer Delight Top 10 Kid's Movies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-basic-tactics-to-archive-webcam-chats-for-2024/"><u>[Updated] Basic Tactics to Archive Webcam Chats for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-wacom-device-malfunctions-and-how-to-resolve-them-quickly/"><u>Common Wacom Device Malfunctions and How to Resolve Them Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-secure-your-browsing-in-win-11-using-microsofts-application-guard/"><u>Efficiently Secure Your Browsing in Win 11 Using Microsoft's Application Guard</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/einfach-gemacht-die-perfekte-anleitung-zur-replikierung-von-datentragern-mit-ssd/"><u>Einfach Gemacht: Die Perfekte Anleitung Zur Replikierung Von Datenträgern Mit SSD</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevated-archiving-top-5-future-proof-cloud-service-providers/"><u>Elevated Archiving Top 5 Future-Proof Cloud Service Providers</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-security-posture-adding-passwords-to-text-files/"><u>Elevating Your Security Posture: Adding Passwords to Text Files</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-notepad-strategies-for-a-responsive-windows-companion-app/"><u>Fixing Notepad: Strategies for a Responsive Windows Companion App</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-watcher-to-writer-embrace-the-linguistic-journey-of-ks/"><u>From Watcher to Writer: Embrace the Linguistic Journey of KS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-correct-failed-file-generation-by-camera-app/"><u>How to Correct Failed File Generation by Camera App</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-moto-g23-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Moto G23 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/interactive-sphere-expands-windows-for-iphonesipads-pcsmac-unveiled/"><u>Interactive Sphere Expands: Windows for iPhones/iPads, PCs/Mac Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/maintaining-your-sticky-notes-on-pc/"><u>Maintaining Your Sticky Notes on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-options-in-the-win-11-context-list/"><u>Minimizing Options in the Win 11 Context List</u></a></li>
-<li><a href="https://win11.techidaily.com/sleek-software-not-so-slick-the-throttling-of-your-pcs-speed/"><u>Sleek Software, Not So Slick: The Throttling of Your PC's Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-future-on-windows-empower-your-pc-with-vivetool/"><u>Unlocking the Future on Windows: Empower Your PC with ViVeTool</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-personalized-audio-settings-key-combinations-explained/"><u>Win11's Personalized Audio Settings: Key Combinations Explained</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-your-picture-at-a-glance-quick-steps-for-saving-social-media-pics/"><u>[New] In 2024, Your Picture at a Glance Quick Steps for Saving Social Media Pics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-demand-video-text-transformers-prime-selections/"><u>[New] On-Demand Video-Text Transformers Prime Selections</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unleash-the-power-of-branded-icons-and-gifs-in-instagram-stories/"><u>[Updated] In 2024, Unleash the Power of Branded Icons & GIFs in Instagram Stories</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unhindered-vision-capture-tool-for-2024/"><u>[Updated] Unhindered Vision Capture Tool for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-see-clearly-now-the-leading-online-tools-for-flawless-photos/"><u>2024 Approved See Clearly Now The Leading Online Tools for Flawless Photos</u></a></li>
+<li><a href="https://win11.techidaily.com/flat-faces-for-windows-cutting-corners-off/"><u>Flat Faces for Windows: Cutting Corners Off</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-huawei-p60-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Huawei P60 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-galaxy-a24-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Galaxy A24</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-rufus-for-bypassing-tpmsecure-boot-in-windows-11/"><u>Navigating Rufus for Bypassing TPM/Secure Boot in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-os-limits-with-win11-upgrade-guide/"><u>Overcoming OS Limits with Win11 Upgrade Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-inconsistency-in-your-pcs-choosing-printer/"><u>Preventing Inconsistency in Your PC's Choosing Printer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recon-70-mic-repair-guide-fixing-non-functional-headset-microphones/"><u>Recon 70 Mic Repair Guide: Fixing Non-Functional Headset Microphones</u></a></li>
+<li><a href="https://win11.techidaily.com/scrutinizing-windows-n-features-which-to-choose/"><u>Scrutinizing Windows N Features: Which to Choose?</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-touchpad-glitches-in-windows-environment/"><u>Solving Touchpad Glitches in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/teamwork-enhanced-agile-communication-tech/"><u>Teamwork Enhanced: Agile Communication Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-f54-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy F54 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/window-into-worldwide-weather-premium-windows-11-apps-guide/"><u>Window Into Worldwide Weather: Premium Windows 11 Apps Guide</u></a></li>
 </ul></div>
 

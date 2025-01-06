@@ -1,7 +1,7 @@
 ---
 title: "Insider's Look: How to Access and Erase Windows 10 History"
-date: 2024-12-27T07:04:51.720Z
-updated: 2024-12-28T03:10:30.220Z
+date: 2024-12-30T17:30:30.465Z
+updated: 2025-01-06T17:50:24.932Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 10
@@ -56,6 +56,11 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
 2. Then, click **Privacy**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
@@ -63,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
- This will clear the activity history for the account you're currently using.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This will clear the activity history for the account you're currently using.
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -78,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 2. Click the **Clear** button under the **Clear activity history** section, and you're done.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
@@ -90,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable Activity Tracking on the Windows 10 Timeline
@@ -106,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
@@ -133,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -146,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Keeping Your Data Safe in Windows 10
@@ -167,20 +168,22 @@ thumbnail: https://thmb.techidaily.com/19529825bc864f6a7105eee056c51264b322fc80a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-beam-brighter-adopting-the-playful-cartoon-lens-on-snapchat/"><u>[New] 2024 Approved Beam Brighter Adopting the Playful Cartoon Lens on Snapchat</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-integrating-comfort-with-efficiency-modern-approaches-to-office-design-for-2024/"><u>[Updated] Integrating Comfort with Efficiency Modern Approaches to Office Design for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-xs-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone XS Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-empty-cell-copies-master-the-shortcuts-for-efficient-data-transfer-in-ms-excel/"><u>Avoiding Empty Cell Copies: Master the Shortcuts for Efficient Data Transfer in MS Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/easily-arrange-spreadsheet-cells-based-on-shade-with-excels-color-feature/"><u>Easily Arrange Spreadsheet Cells Based on Shade with Excel's Color Feature</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oppo-reno-11-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Oppo Reno 11 5G IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-realme-12-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Realme 12 5G Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/psvr2-launch-update-latest-info-on-release-timeline-pricing-and-technical-details/"><u>PSVR2 Launch Update: Latest Info on Release Timeline, Pricing & Technical Details</u></a></li>
-<li><a href="https://win11.techidaily.com/simple-steps-transferring-data-between-sheets-using-microsoft-excel/"><u>Simple Steps: Transferring Data Between Sheets Using Microsoft Excel</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-data-visualization-with-excel-2010-your-step-by-step-sparkline-tutorial/"><u>Simplify Data Visualization with Excel 2010: Your Step-by-Step Sparkline Tutorial</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-automatically-populating-date-columns-in-excel/"><u>Step-by-Step Guide: Automatically Populating Date Columns in Excel</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/step-by-step-guide-unpacking-zip-files-made-easy-with-yl-software-solutions/"><u>Step-by-Step Guide: Unpacking ZIP Files Made Easy with YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-tutorial-on-controlling-information-input-in-microsoft-excel-through-data-validation-rules/"><u>Step-by-Step Tutorial on Controlling Information Input in Microsoft Excel Through Data Validation Rules</u></a></li>
-<li><a href="https://win11.techidaily.com/unifying-data-points-merging-text-from-various-excel-cells-into-a-single-cell/"><u>Unifying Data Points: Merging Text From Various Excel Cells Into a Single Cell</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-all-about-youtube-tv-your-comprehensive-resource/"><u>[New] In 2024, All About YouTube TV Your Comprehensive Resource</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-techniques-for-iphone-image-compilation/"><u>[Updated] Innovative Techniques for iPhone Image Compilation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-with-iphone-burst-photography/"><u>[Updated] Unleash Creativity with iPhone Burst Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-narrative-blueprint-a-basic-overview/"><u>2024 Approved Narrative Blueprint A Basic Overview</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/7-steps-to-sensational-surprise-revelation/"><u>7 Steps to Sensational Surprise Revelation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/3gp-mp4-3/"><u>最新無料プログラムリスト: 3GP 画像と MP4に完璧なフォーマット変換 - ベスト3ピックアップ!</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-contrast-microsoft-account-vs-standard-local-access-on-pcs/"><u>Comprehensive Contrast: Microsoft Account vs Standard Local Access on PCs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/immersive-narratives-vr-storytelling-breakthroughs-for-2024/"><u>Immersive Narratives VR Storytelling Breakthroughs for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-critical-vr-movies-you-cant-skip/"><u>In 2024, Critical VR Movies You Can't Skip</u></a></li>
+<li><a href="https://win11.techidaily.com/infuse-personalized-aesthenticity-in-window-apps/"><u>Infuse Personalized Aesthenticity in Window Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/inside-out-windows-style-mastery-of-opening-internal-personality-insight/"><u>Inside Out, Windows Style: Mastery of Opening Internal Personality Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-the-continuous-run-of-edge-in-win11/"><u>Managing the Continuous Run of Edge in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-rectify-microsoft-store-problem-on-windows/"><u>Steps to Rectify Microsoft Store Problem on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-boot-procedures-for-windows-audiovisual-service/"><u>Streamlining Boot Procedures for Windows Audiovisual Service</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-search-by-eliminating-artifacts/"><u>Streamlining Windows Search by Eliminating Artifacts</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-rectifying-onedrives-invalid-tag-on-a-pc/"><u>Tips for Rectifying OneDrive’s Invalid Tag on a PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-using-retro-effects-on-edits-for-2024/"><u>Ultimate Guide to Using Retro Effects on Edits for 2024</u></a></li>
 </ul></div>
 

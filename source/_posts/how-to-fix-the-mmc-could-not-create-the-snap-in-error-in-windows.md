@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2024-12-25T06:57:28.790Z
-updated: 2024-12-28T06:47:31.064Z
+date: 2025-01-03T19:03:46.805Z
+updated: 2025-01-06T17:30:19.829Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
  Fortunately, you can easily enable the .NET Framework feature using the Turn Windows features on or off dialog. Here’s how to do it.
@@ -63,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -76,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -104,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
@@ -116,7 +116,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-ventures-steps-for-monetizing-content/"><u>[New] YouTube Ventures Steps for Monetizing Content</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-beat-fiends-exploring-the-most-popular-rap-songs-on-tiktok/"><u>[Updated] 2024 Approved Beat Fiends Exploring the Most Popular Rap Songs on TikTok</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-psychoacoustic-enhancement-for-playstation-titles/"><u>[Updated] In 2024, Psychoacoustic Enhancement for PlayStation Titles</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-othe-for-2024/"><u>[Updated] The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Othe for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/androidplusios-ai-curated-instavideo-mosaic/"><u>Android+iOS AI-Curated InstaVideo Mosaic</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-defective-battery-meter-on-windows-11-devices/"><u>Correcting Defective Battery Meter on Windows 11 Devices</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/guide-successfully-sharing-high-resolution-movies-on-instagram/"><u>Guide: Successfully Sharing High-Resolution Movies on Instagram</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-features-unveiled-special-edition-improvements-coming-to-certain-apple-airpods-later-this-year-zdnet-insights/"><u>New Features Unveiled: Special Edition Improvements Coming to Certain Apple AirPods Later This Year | ZDNET Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-disconnect-restarting-your-hotspot-in-windows-11/"><u>Overcoming the Disconnect: Restarting Your Hotspot in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-gameplay-mastery-fixing-frames-drops-in-valorant/"><u>Seamless Gameplay Mastery: Fixing Frames Drops in Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/skip-the-haste-disabling-early-edge-tab-activation-in-win11/"><u>Skip the Haste: Disabling Early Edge Tab Activation in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-your-computer-embracing-the-power-of-16gb/"><u>Upgrading Your Computer: Embracing the Power of 16GB</u></a></li>
-<li><a href="https://win11.techidaily.com/why-you-might-prefer-windows-11-to-apples-macos/"><u>Why You Might Prefer Windows 11 to Apple's macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-directory-for-free-visual-treasures/"><u>[New] In 2024, Ultimate Directory for Free Visual Treasures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-essential-guide-to-capturing-skype-conversations-on-windowsmac-for-2024/"><u>[New] The Essential Guide to Capturing Skype Conversations on Windows/Mac for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-dji-x20-drone-vision-wear-review/"><u>[Updated] 2024 Approved The DJI X20 Drone Vision Wear Review</u></a></li>
+<li><a href="https://win11.techidaily.com/developing-a-secure-quick-access-for-hardware-uninstall-in-win11/"><u>Developing a Secure, Quick Access for Hardware Uninstall in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-unresponsive-discord-window-on-pc/"><u>Diagnosing and Repairing Unresponsive Discord Window on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/diminish-high-graphics-draw-of-desktop-window-manager-on-windows/"><u>Diminish High Graphics Draw of Desktop Window Manager on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-muted-sound-capture-obs-studio-guide-on-win-11/"><u>How to Unlock Muted Sound Capture: OBS Studio Guide on Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 To Phone | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-gameplay-with-corsair-one-pro-a-comprehensive-pc-hardware-review/"><u>Mastering Gameplay with Corsair One Pro: A Comprehensive PC Hardware Review</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-productivity-paste-and-jump-tutorials/"><u>Maximizing Productivity: Paste & Jump Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-entry-how-to-find-and-fix-missing-pin-on-win-11/"><u>Regain Entry: How to Find & Fix Missing PIN on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-winerror-misplaced-settings-in-file-history/"><u>Solving WinError: Misplaced Settings in File History</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sony-a6400-the-unseen-movie-problem/"><u>Sony A6400 The Unseen Movie Problem</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-review-of-camstudio-capturing-features-for-2024/"><u>The Ultimate Review of CamStudio Capturing Features for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-heroes-and-monsters-iii-pc-instability-issues/"><u>Troubleshooting Steps for Resolving Heroes and Monsters III PC Instability Issues</u></a></li>
 </ul></div>
 

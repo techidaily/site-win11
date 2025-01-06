@@ -1,7 +1,7 @@
 ---
 title: Optimizing Windows Settings for Flawless Valorant
-date: 2024-08-23T06:12:39.145Z
-updated: 2024-08-24T06:12:39.145Z
+date: 2025-01-01T20:28:33.308Z
+updated: 2025-01-06T16:19:58.498Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 
  Here's how to boost FPS in Valorant and keep it stable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Don't Let Valorant Limit Your Frame Rate
 
  Valorant comes with settings built into it that limit your FPS in various situations. These settings allow you to limit your FPS when the game is idle when you scroll through menus, when the game is minimized, or when you are using the laptop battery as the primary power source. You can also set it to limit your FPS at all times.
@@ -34,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 3. Turn off the options next to **Limit FPS on Battery** and **Limit FPS Always**. Also, increase the maximum frame rate.
 4. Turn on the **Limit FPS in Menus** and **Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Change the Screen Resolution Settings in Valorant
 
@@ -52,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
 
  Hardware-accelerated GPU scheduling transfers some CPU workload to your GPU. It enhances the performance of high-priority processes on your device. Although handy, this can put extra strain on your GPU and prevent it from using all its resources when playing Valorant, causing the frame rate to drop.
@@ -67,9 +76,9 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
  If you use any such overlay or keep more than one overlay enabled while playing Valorant, turn them off to see how much of an impact it has on your game's performance.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Apply Some Windows-Specific Fixes
 
  If none of the fixes covered so far haven't helped boost your FPS on Valorant, don't fret. Try applying the following Windows-based tweaks and see if they help things:
@@ -78,23 +87,23 @@ thumbnail: https://thmb.techidaily.com/6e0cdf2b7038ec925488e32c1b0811331fe39479e
 2. Turn off the Xbox Game Bar to stop it from consuming resources. Open the **Settings** app, select the **Gaming** tab, click on **Xbox Game Bar**, and turn it off.  
 ![Disable the Xbox Game Bar Option in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-disable-the-xbox-game-bar-option-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 3. Enable Windows' Game Mode feature. This will automatically turn off background processes and apps as you play. You can even [use Windows Game Mode to prove the performance of any app](https://www.makeuseof.com/windows-game-mode-app-performance/), not just games. To do that, go to **Settings > Gaming > Game Mode** and enable it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Enable Game Mode in the Gaming Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/9-enable-game-mode-in-the-gaming-tab-of-the-windows-settings-app.jpg)
 4. [Update your graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to the latest version. Also, [update your copy of Windows](https://www.makeuseof.com/update-windows-manually/) to take care of any minor glitches that might be causing the issue.
 5. Boost the performance of Valorant by setting the **Graphics preference** settings to **High**. This ensures you're [using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the **Details** tab, right-click the **Valorant** process, and select **High** from the **Set priority** menu.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
-![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
+
 ## 6\. Optimize Your Graphics Card Software
 
  If you've previously tweaked your GPU's software settings (for example, you [customized your graphics card settings using the NVIDIA Control Panel](https://www.makeuseof.com/how-to-customize-graphics-settings-nvidia-control-panel-geforce-experience/)), open the software again and turn down some of the settings. This is especially true if you told the GPU software to override any in-game settings you've set up.
@@ -103,9 +112,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Similarly, you can [overclock your GPU](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) to get the best performance from your hardware. Try overclocking your GPU and see if it improves your FPS. Note, however, that overclocking the GPU can sometimes affect the game's performance negatively. If that happens, revert the change and turn off overclocking again.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Keep Your FPS High and Stable in Valorant
 
  Low FPS can easily ruin your gaming experience. Hopefully, by now, you will have a better understanding of why the FPS drops suddenly or remains low for so long in Valorant. If you carefully optimize the in-game settings and follow the rest of the steps above, you should be able to boost the overall frame rate and make it more stable.
@@ -114,11 +120,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Here's how to boost FPS in Valorant and keep it stable.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-igtv-on-instagram-stories/"><u>[New] In 2024, Mastering the Art of IGTV on Instagram Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-lore-of-roguelites-amidst-classic-rpgs/"><u>[Updated] 2024 Approved The Lore of Roguelites Amidst Classic RPGs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023-linking-tweets-to-facebook-videos-effortlessly/"><u>[Updated] In 2024, 2023 Linking Tweets to Facebook Videos Effortlessly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-file-writing-restrictions-in-windows-1011/"><u>Curing File Writing Restrictions in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conjure-imagination-in-ai-art-forms-using-paint-cocreator-and-windows-11/"><u>How to Conjure Imagination in AI Art Forms Using Paint Cocreator and Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-z-fold-5-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy Z Fold 5 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-typical-anomalies-in-anydesk-for-windows/"><u>Navigating Through Typical Anomalies in AnyDesk for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/shattering-the-scripts-off-glass-ceiling-in-powershell-execution/"><u>Shattering the 'Scripts Off' Glass Ceiling in PowerShell Execution</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-windows-11-search-with-these-top-tips/"><u>Supercharge Your Windows 11 Search with These Top Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/vanquish-virtual-spectators-boosting-youtube-traffic/"><u>Vanquish Virtual Spectators Boosting YouTube Traffic</u></a></li>
+</ul></div>
+

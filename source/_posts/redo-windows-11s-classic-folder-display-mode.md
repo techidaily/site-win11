@@ -1,7 +1,7 @@
 ---
 title: Redo Windows 11'S Classic Folder Display Mode
-date: 2024-12-23T04:28:59.823Z
-updated: 2024-12-28T06:59:21.377Z
+date: 2025-01-02T18:23:01.456Z
+updated: 2025-01-06T20:53:19.778Z
 tags:
   - windows10
   - windows11
@@ -23,12 +23,16 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset Folder View Settings to Default on Windows
 
  There are three ways to reset your Folder View Settings to the default view. The first method is to run a batch file, the second using File Explorer, whereas the third and final method involves tweaking the registry editor. This post explains each method in detail. Let's dive into it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Run a Batch File to Reset Folder View Settings to Default
@@ -66,15 +70,11 @@ start explorer.exe`
 7. From the left pane, select**Desktop** as the location.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
@@ -85,16 +85,12 @@ start explorer.exe`
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
@@ -110,6 +106,11 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
 ## Reset Folder View Settings to Default
@@ -133,18 +134,17 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-google-account-integration-for-private-youtube-video-sharing-for-2024/"><u>[New] Google Account Integration for Private YouTube Video Sharing for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-advanced-screen-recording-methods-on-dell-laptops/"><u>[New] In 2024, Advanced Screen Recording Methods on Dell Laptops</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-iphone-7-proven-strategies-for-screen-capture/"><u>[New] In 2024, IPhone 7 Proven Strategies for Screen Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-exploring-the-nuances-of-audio-overlap-crossfade/"><u>[Updated] Exploring the Nuances of Audio Overlap (Crossfade)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-overcoming-inaudibility-in-obs-captured-audio/"><u>2024 Approved Overcoming Inaudibility in OBS Captured Audio</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/advanced-interactive-learning-with-chatgptplus-for-languages/"><u>Advanced Interactive Learning with ChatGPT+ for Languages</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-insufficient-privilege-error-during-windows-setup/"><u>Combatting Insufficient Privilege Error During Windows Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-the-no-available-projectors-windows-alert/"><u>Correcting the 'No Available Projectors' Windows Alert</u></a></li>
-<li><a href="https://win11.techidaily.com/deferring-windows-edge-tabs-on-windows-11/"><u>Deferring Windows Edge Tabs on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-for-resolving-check-pin-error-in-windows-1110/"><u>Essential Techniques for Resolving Check Pin Error in Windows 11/10</u></a></li>
-<li><a href="https://media-tips.techidaily.com/huge-black-friday-sale-save-30-on-rokus-top-rated-4k-streaming-box/"><u>Huge Black Friday Sale: Save $30 on Roku's Top-Rated 4K Streaming Box</u></a></li>
-<li><a href="https://win11.techidaily.com/in-depth-analysis-of-windows-system-boot-configurations/"><u>In-Depth Analysis of Windows System Boot Configurations</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-glitch-maze-fixing-microsoft-store-errors-on-1011/"><u>Navigating the Glitch Maze: Fixing Microsoft Store Errors on 10/11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-picture-perfect-the-essential-photo-editing-tools-for-2024/"><u>[New] Picture Perfect The Essential Photo Editing Tools for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>[Updated] Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-fixing-device-casting-glitches-in-windows-11/"><u>Comprehensive Guide to Fixing Device Casting Glitches in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/deleting-default-browser-configuration-in-w11/"><u>Deleting Default Browser Configuration in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-the-most-out-of-windows-10-on-older-pcs/"><u>How to Make the Most Out of Windows 10 on Older PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-0x80370102-in-wsl-setup/"><u>Strategies to Tackle Windows Error 0X80370102 in WSL Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-of-pictures-notetaking-with-obsidian/"><u>The Power of Pictures: Notetaking with Obsidian</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-empfohlene-serie-und-filmwunschliste-fur-kostenloses-streamen-im-internet/"><u>Top-Empfohlene Serie Und Filmwunschliste Für Kostenloses Streamen Im Internet</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-purpose-of-yourphoneexe-in-windows-os/"><u>Understanding the Purpose of YourPhone.exe in Windows OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-potential-with-chatgpts-wellbee-planning-tips/"><u>Unlock Potential with ChatGPT's Wellbee Planning Tips</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728501810918-usb/"><u>USBメモリ同士をコピーする究極ガイド – 始めから完璧に学べます!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

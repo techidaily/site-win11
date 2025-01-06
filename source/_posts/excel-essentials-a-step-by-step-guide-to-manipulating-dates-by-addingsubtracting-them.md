@@ -1,7 +1,7 @@
 ---
 title: "Excel Essentials: A Step-by-Step Guide to Manipulating Dates by Adding/Subtracting Them"
-date: 2024-08-28T00:49:40.877Z
-updated: 2024-08-29T00:49:40.877Z
+date: 2025-01-01T19:41:52.036Z
+updated: 2025-01-06T18:37:19.285Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
 ---
 
 ## Excel Essentials: A Step-by-Step Guide to Manipulating Dates by Adding/Subtracting Them
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b8
  Adjusting dates on a spreadsheet can be cumbersome. Rather than digging out your calendar to count days or months, you can adjust dates right in Microsoft Excel with simple addition or subtraction.
 
  Whether it's a project schedule with deadlines, a budget with due dates for bills, or an inventory sheet with shipping dates, adjusting those dates doesn't have to be a pain. In a few simple steps, you can enter the addition or subtraction and calculate your new dates automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set Up Your Microsoft Excel Spreadsheet
 
@@ -43,9 +51,6 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter days to add or subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/AddAdjustmentDays-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Next, go to the first cell in the column for your new dates and enter a sum formula to add the number of days to the original date. Depending on the columns and rows that you have in your sheet, the cell references might differ.
 
  For our sheet, we'll enter:
@@ -54,6 +59,10 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter the adjustment sum formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/EnterAdjustmentDaysFormula-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hit Enter or Return to apply the formula. You can then check to make sure that the formula calculated correctly.
 
  To save manual work, you can [use the fill handle](https://visual-screen-recording.techidaily.com/new-in-2024-top-5-best-hdmi-21-gaming-monitors-ps5-compatible/) to drag the cell containing the formula to the remaining cells in your column. Excel will automatically adjust the formulas to the corresponding cell references.
@@ -61,18 +70,17 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 ![Use the fill handle to copy the formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/CopyAdjustmentDaysFormula-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have the formulas in your new date column, you can change the number of days in the adjustment column whenever you need to.
 
 ![Adjusted new dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/FinishedAdjustmentDays-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
+
 ##  How to Add or Subtract Months from Dates in Excel
 
  You might have a spreadsheet where you need to add or subtract months rather than days. Maybe it's a savings, loan, or investment sheet. The setup is similar, but you'll use the EDATE function to help calculate the adjustment.
@@ -83,9 +91,6 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter months to add or subtract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/AddAdjustmentMonths-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Go to the first cell in the column for your new dates and enter the function to add the original date to the number of months. Once more, your particular cell references might differ.
 
  For our sheet, we'll enter:
@@ -108,9 +113,6 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
 
 ![Enter the adjustment function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/EnterAdjustmentYearsFunction-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Another handy way to work with dates in your Excel sheets is to [calculate the number of days between two dates](https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nova-y71-by-fonelab-android-recover-music/). Check out our tutorial if you want to try it!
 
 <ins class="adsbygoogle"
@@ -119,8 +121,6 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,22 @@ Related: [How to Convert Text to Date Values in Microsoft Excel](https://screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-funimate-playbook-strategies-for-success/"><u>[New] 2024 Approved Funimate Playbook Strategies for Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-new-era-of-capturing-life-with-updated-lg-360-cameras-for-2024/"><u>[New] The New Era of Capturing Life with Updated LG 360 Cameras for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-3d-video-player-for-android/"><u>Best 3D Video Player for Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-nokia-c110-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Nokia C110</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-prevent-endless-sign-in-attempts-in-teams/"><u>How to Prevent Endless Sign-In Attempts in Teams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c110-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C110 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveal-hidden-configurations-unearth-missing-controls-in-win11/"><u>Reveal Hidden Configurations: Unearth Missing Controls in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-synergy-linking-gmail-and-outlook-on-your-pc-windows/"><u>Seamless Synergy: Linking Gmail & Outlook on Your PC, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-script-snags-in-windows-immediate-remedies-available/"><u>Sidestep Script Snags in Windows: Immediate Remedies Available</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-art-of-real-time-video-collaboration-on-fb-for-2024/"><u>The Art of Real-Time Video Collaboration on FB for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-essential-guide-to-choosing-between-a-macbook-air-or-macbook-pro/"><u>The Essential Guide to Choosing Between a MacBook Air or MacBook Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winerror-for-disconnected-networks/"><u>Troubleshooting WinError for Disconnected Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-data-dynamics-python-server-for-windows-file-sharing/"><u>Unlocking Data Dynamics: Python Server for Windows File Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/win-fix-top-4-steps-for-pct/"><u>Win Fix: Top 4 Steps for PCT</u></a></li>
+<li><a href="https://win11.techidaily.com/winfixer-guide-for-eliminating-update-error-0x80070003/"><u>Winfixer Guide for Eliminating Update Error 0X80070003</u></a></li>
+</ul></div>
 

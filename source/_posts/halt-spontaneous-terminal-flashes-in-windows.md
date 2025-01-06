@@ -1,7 +1,7 @@
 ---
 title: Halt Spontaneous Terminal Flashes in Windows
-date: 2024-12-24T18:26:55.318Z
-updated: 2024-12-28T01:42:23.552Z
+date: 2024-12-30T16:09:00.184Z
+updated: 2025-01-06T16:32:07.094Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Basic Fixes to Stop CMD From Randomly Popping Up
 
  The first thing we'd recommend you do to stop Command Prompt from randomly popping up is to restart your computer and see if it keeps happening again. If it does, then you should check for corrupted, damaged, or missing system files, as well as fix any hard drive errors your storage disk may have encountered. To that end, you can [perform an SFC, DISM, and CHKDSK scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/).
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  If those scans don't work, you can try [updating your Windows computer](https://www.makeuseof.com/update-windows-manually/) to see if Microsoft has released a fix that can address the issue. If there are no updates or the update doesn't fix the problem, try performing a virus scan in case the issue is related to malware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clear the RAM Cache
@@ -54,18 +58,18 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![the cmd task in startup apps in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/cmd-in-startup-apps-in-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer and check if the problem persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Try Performing a Clean Boot
 
  When some apps glitch out, they can cause some unexpected behavior on your computer. The problem, however, is that isolating the app while your computer has already booted up, with all the third-party apps and services running, can be a problem. To get to the bottom of this, you'd have to boot up your PC without them by [performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) and then trying to find the offending app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Check for Tasks That Could Be Causing CMD to Randomly Pop Up
 
@@ -75,15 +79,15 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![opening the Task Scheduler using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/opening-task-scheduler-from-windows-run.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Task Scheduler, select **Task Scheduler Library > Microsoft > Windows** and check if Command Prompt is there. If it is, right-click it and select **Delete**.
 
 ![delete-the-command-prompt-task-in-task-scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-the-command-prompt-task-in-task-scheduler.jpg)
 
  In the popup, click on **Yes** to confirm that you want to remove it from the queue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Command Prompt
 
@@ -103,10 +107,6 @@ net user /add username password
 
  Keep in mind that this will create a local account. And if Command Prompt stops opening randomly on that new account, consider making it your default one on the computer and transfer all your important data to it (make sure to delete the corrupted account).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Open Command Prompt Only When You Want It
 
  Having Command Prompt constantly disrupt you from using your computer can ruin the Windows experience. Luckily, you can troubleshoot the issue, especially if the problem boils down to an issue with startup settings, the Task Scheduler, or third-party app conflicts. Once you fix the issue, you will be able to open Command Prompt when you actually need it.
@@ -123,21 +123,20 @@ net user /add username password
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-award-winners-in-writing-for-different-movie-types-for-2024/"><u>[New] Award Winners in Writing for Different Movie Types for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-capture-app-windows-10-edition/"><u>[New] In 2024, Ultimate Capture App - Windows 10 Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mkv-mastery-top-mac-apps/"><u>[New] MKV Mastery Top Mac Apps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-content-that-captivates-for-virality-on-ig-for-2024/"><u>[Updated] Crafting Content that Captivates for Virality on IG for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/avi-gif/"><u>AVI ファイルを瞬時にGIFで再生可能 - ステップバイステップコツの変換</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/can-googles-newly-updated-chromebook-outperform-microsofts-copilot-with-advanced-ai-capabilities-zdnet/"><u>Can Google's Newly Updated Chromebook Outperform Microsoft's Copilot with Advanced AI Capabilities? | ZDNET</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-latest-in-computer-gear-with-toms-hardware-experts/"><u>Discover the Latest in Computer Gear with Tom's Hardware Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-insight-converting-esd-files-to-iso-on-windows-machines/"><u>Essential Insight: Converting ESD Files to ISO on Windows Machines</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-transformation-into-a-simpler-social-media-platform/"><u>Facebook’s Transformation Into a Simpler Social Media Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/from-invisible-to-visible-reversing-off-screen-window-absence-in-windows-11/"><u>From Invisible to Visible: Reversing Off-Screen Window Absence in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/insider-secrets-discovering-where-your-programs-take-root/"><u>Insider Secrets: Discovering Where Your Programs Take Root</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-guide-to-resolving-windows-http-too-many-requests-issue/"><u>Mastery Guide to Resolving Windows' HTTP Too Many Requests Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-gaming-screen-blackouts-on-win-os/"><u>Preventing Gaming Screen Blackouts on Win OS</u></a></li>
-<li><a href="https://win11.techidaily.com/rav-antivirus-popping-up-origin-and-safely-uninstalling/"><u>Rav Antivirus Popping Up: Origin & Safely Uninstalling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/simple-steps-modify-windows-speech-of-sea-creatures-for-2024/"><u>Simple Steps Modify Windows Speech of Sea Creatures for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-on-resetting-achievements-in-steam-titles/"><u>Tips on Resetting Achievements in Steam Titles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unleash-the-power-of-zoom-your-win10-journey-begins-here/"><u>[New] 2024 Approved Unleash the Power of Zoom Your Win10 Journey Begins Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-practices-for-seamless-transitions-using-b-roll/"><u>[Updated] Best Practices for Seamless Transitions Using B Roll</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-top-notch-gif-utilities-on-ios-devices/"><u>[Updated] Exploring Top-Notch GIF Utilities on iOS Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-linguistic-edge-influential-expressions-for-leaders/"><u>[Updated] The Linguistic Edge Influential Expressions for Leaders</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-program-use-via-right-click-menu-upgrade/"><u>Efficient Program Use via Right-Click Menu Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-techniques-for-username-customization-in-windows/"><u>Innovative Techniques for UserName Customization in Windows</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g402-precision-gaming-mouse-driver-downloads-and-install-guide/"><u>Logitech G402 Precision Gaming Mouse: Driver Downloads & Install Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-your-tabs-a-guide-to-resurrecting-key-functions/"><u>Reactivate Your Tabs: A Guide to Resurrecting Key Functions</u></a></li>
+<li><a href="https://common-error.techidaily.com/say-goodbye-a-comprehensive-guide-on-fixing-recurring-usb-recognition-issues/"><u>Say Goodbye: A Comprehensive Guide on Fixing Recurring USB Recognition Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-icon-size-from-falling-short/"><u>Stop Windows 11 Icon Size From Falling Short</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-with-a-mac-os-layout-heres-how/"><u>Streamline Your Windows With A Mac OS Layout: Here's How</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-pc-inadequate-for-game-captures-on-pc/"><u>Tackling PC Inadequate for Game Captures on PC</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi A2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-lags-achieve-android-like-speed-on-pc/"><u>Windows Lags? Achieve Android-Like Speed on PC</u></a></li>
 </ul></div>
 

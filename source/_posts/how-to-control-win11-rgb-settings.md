@@ -1,7 +1,7 @@
 ---
 title: How to Control Win11 RGB Settings
-date: 2024-08-28T00:50:07.221Z
-updated: 2024-08-29T00:50:07.221Z
+date: 2025-01-01T20:35:15.282Z
+updated: 2025-01-06T16:13:15.157Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 ![RGB Lighting Tweaking Software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-tweaking-software.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft noticed this problem and put forward a plan to unite all RBG accessories on Windows 11\. The Windows Insider build 25295 has a hidden experimental feature that adds a Lighting option in the Personalization section of the Settings app.
 
  This setting will act as a central hub to manage and tweak all the connected devices with RGB lighting. So, you will need fewer or no third-party apps for adjusting RGB effects on any connected device in Windows 11.
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  The RGB lighting feature is in the testing phase and is only available in Windows Insider build 25295 and above. So, you need to first update to the latest Canary channel build and then use ViveTool to enable the feature on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 1\. Change to the Insider Build
 
  You can download the Insider build 25295 by enrolling in the Windows Insider program and then checking for new builds using the Update Windows section in the Settings app.
@@ -48,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
  However, if you don’t want to enroll in the program, you can use[UUP Dump to download the latest Windows Insider builds](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) and try it on your system or on a virtual machine. After that, install the build and boot to the desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Enable RGB Lighting Using ViVeTool
 
  You can enable the hidden experimental features on Windows using[ViVeTool](https://www.makeuseof.com/vivetool-windows-guide/) . There is a command line version and a GUI version of[ViVeTool available on GitHub](https://github.com/thebookisclosed/ViVe/releases) . Download and extract the ViVeTool to the C drive and then repeat the following steps:
@@ -63,35 +65,34 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
 6. Type**exit** in the Command Prompt window to close it. Restart your system to apply changes made by the ViVeTool.  
 ![Enabling RGB Lighting Using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabling-rgb-lighting-using-vivetool.jpg)
 7. Once you boot to the Desktop, press**Win + I** to launch the Settings app.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. Click on the**Personalization** option in the left-hand side menu.  
 ![RGB Lighting Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-1.jpg)
 9. Scroll down, and you see the**Lighting** option in the personalization settings. Click on it and then tweak the RGB lighting of all the supported devices. You can even match the RGB effects of a device with the Windows accent color.  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![RGB Lighting Settings 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rgb-lighting-settings-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Control All Your RGB Peripherals in One Place
 
  RGB has amplified its appeal in the last five years. It has moved from bland boring colors to customizable effects. But installing separate software to tweak each device isn’t a good idea. Thankfully, Microsoft is working on centralizing RGB lighting customization, so you won’t need to install a sketchy RGB tweaking app ever again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +101,20 @@ vivetool /enable /id:41355275 vivetool /enable /id:35262205
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-achieving-spotlight-submitting-on-apple-platform-for-2024/"><u>[Updated] Achieving Spotlight Submitting on Apple Platform for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastering-3d-luts-complete-guide/"><u>[Updated] Mastering 3D LUTs Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-on-eliminating-slowdowns-and-glitches-in-dying-light/"><u>Expert Tips on Eliminating Slowdowns and Glitches in Dying Light</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-electronics-with-toms-gear-guides/"><u>Exploring Electronics with Tom's Gear Guides</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-spark-20-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mpeg-4mp3/"><u>MPEG-4ファイルをMP3形式に変換するための詳細ガイド</u></a></li>
+<li><a href="https://win11.techidaily.com/new-htc-windows-phone-7-series-hd7-smartphone-hits-retail-shelves/"><u>New HTC Windows Phone 7 Series HD7 Smartphone Hits Retail Shelves</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-original-excellence-with-wonderfox-turn-your-videos-into-crisp-clear-gifs-effortlessly/"><u>Preserve Original Excellence with WonderFox: Turn Your Videos Into Crisp, Clear GIFs Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tips-for-optimizing-videos-in-your-inbox-the-ultimate-compression-guide/"><u>Quick Tips for Optimizing Videos in Your Inbox: The Ultimate Compression Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-upconversion-from-standard-definition-to-dynamic-range-extraordinaire-for-2024/"><u>Seamless Upconversion From Standard Definition to Dynamic Range Extraordinaire for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/shazam-tutorial-how-to-identify-music-in-videos-across-android-ios-and-pcs/"><u>Shazam Tutorial: How to Identify Music in Videos Across Android, iOS, and PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/simplifying-visual-sharing-in-ms-teams-with-snap-camera/"><u>Simplifying Visual Sharing in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210809808-9781608687312-swimming-in-the-sacred/"><u>Swimming in the Sacred | Free Book</u></a></li>
+</ul></div>
 

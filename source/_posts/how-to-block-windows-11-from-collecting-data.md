@@ -1,7 +1,7 @@
 ---
 title: How to Block Windows 11 From Collecting Data
-date: 2024-08-23T06:12:35.715Z
-updated: 2024-08-24T06:12:35.715Z
+date: 2025-01-02T17:56:26.744Z
+updated: 2025-01-06T20:24:26.293Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  If you, like most people, are concerned about your data privacy and do not want Microsoft taking advantage of your user activity, you should consider turning off tracking features on Windows 11\. Even if you cannot completely disable the tracking features, you should opt out of voluntary data collection preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Disable Advertising Data Tracking on Windows 11
 
  If you’re concerned about your data or activity patterns being used by third parties for advertisement, you should consider turning off the relevant settings. To turn off advertising data tracking on Windows 11:
@@ -44,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Disable Activity Tracking on Windows 11
 
  Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to[Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
@@ -72,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 7. Disable the**Tailored experiences** option to stop Microsoft from using your diagnostic data for ads, personalized tips, and recommendations.
 8. You can also delete existing diagnostic data via the**Delete diagnostic data** option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Stop Microsoft Edge Data Collection on Windows 11
 
  Microsoft Edge is one of the best browsers around, and it takes your privacy very seriously. There are several different privacy-related options that you can tweak to your liking and level of comfort.
@@ -85,9 +73,18 @@ To disable tracking within Microsoft Edge:
 2. Click on the 3-dots menu icon in the far right and select**Settings** from the dropdown menu.  
 ![edge tracking prevention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-tracking-prevention.jpg)
 3. Select**Privacy, search and services** from the side menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enable**Tracking prevention** , and choose the tracking level you want to allow during your browsing sessions.
 
  If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Delete Activity Tracking Data from Microsoft Account
 
@@ -98,32 +95,37 @@ To disable tracking within Microsoft Edge:
 1. Login to your[Microsoft account](http://account.microsoft.com) and complete any two-factor authentication required by the site.  
 ![microsoft account dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-account-dashboard.jpg)
 2. From your dashboard, select**Privacy** and then**Privacy dashboard** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the**Manage your activity data** , you should see several groups such as **Location activity, Browsing history, Search history, App and service activity** .  
 ![privacy dashboard Microsoft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/privacy-dashboard.jpg)
 4. One by one, select each tab and click**Clear all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![clear microsoft cloud data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-cloud-data.jpg)
 5. For example, to clear the**2,323** instances of app and service-related activity stored by the above Microsoft account, we’ll select the**App and service activity** tab and then select**Clear all app and service activity** .
 6. In the popup window, select**Clear** , and choose how frequently you want Microsoft to clear the selected data automatically.
 7. You can also choose to**Download your data** to have a closer look at the extent of the data that Microsoft has collected.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Controlling Your Location Tracking on Windows 11
 
  Many apps utilize location services, and while some may use them out of necessity (in the case of map services), others might exploit the location permission for advertisement purposes. It's crucial you make sure your location data is not being misused by any app on your Windows 11 device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +134,24 @@ To disable tracking within Microsoft Edge:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-in-depth-exploration-of-morphvox-for-precise-sound-alteration/"><u>[New] 2024 Approved In-Depth Exploration of MorphVOX for Precise Sound Alteration</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-mosaicmaker-elite-designing-with-digital-threads/"><u>[New] 2024 Approved MosaicMaker Elite Designing with Digital Threads</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-simplified-steps-for-crafting-professional-srt-files/"><u>[Updated] In 2024, Simplified Steps for Crafting Professional SRT Files</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unmatched-mounting-premier-photos-tripods/"><u>[Updated] Unmatched Mounting Premier Photos Tripods</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-invalid-response-error-on-steam/"><u>Eliminating Invalid Response Error on Steam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-official-hp-deskjet-driver-updates-and-support-for-your-windows-pc-windows-7-8-10/"><u>Get Official HP DeskJet Driver Updates & Support for Your Windows PC (Windows 7, 8, 10)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-learning-chatgpt-can-boost-your-professional-skills-a-guide-for-job-hunters/"><u>How Learning ChatGPT Can Boost Your Professional Skills: A Guide for Job Hunters</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-frozen-intellij-unison-app-on-your-win11-pc/"><u>How to Fix a Frozen IntelliJ Unison App on Your Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-backward-typing-on-windows/"><u>How to Fix Backward Typing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-lunar-application-from-suddenly-exiting-on-your-personal-computer/"><u>How to Stop Lunar Application From Suddenly Exiting on Your Personal Computer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-workspace-notetaking-on-w11w10/"><u>Personalizing Your Workspace: Notetaking on W11/W10</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-active-windows-11-context-menus/"><u>Restoring Active Windows 11 Context Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/tweaking-windows-11s-default-home-path/"><u>Tweaking Windows 11'S Default Home Path</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-hidden-mastering-dark-modes-in-notepad-win-11-edition/"><u>Unlock the Hidden: Mastering Dark Modes in Notepad, Win 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-want-current-pass-window-error/"><u>Unlocking the ‘Want Current Pass’ Window Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/waiting-for-chatgpts-desktop-version-is-tough-heres-a-great-free-software-replacement/"><u>Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement</u></a></li>
+</ul></div>
 

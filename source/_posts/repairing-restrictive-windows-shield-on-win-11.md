@@ -1,7 +1,7 @@
 ---
 title: Repairing Restrictive Windows Shield on Win 11
-date: 2024-12-21T17:35:26.623Z
-updated: 2024-12-28T04:28:23.581Z
+date: 2025-01-01T19:00:45.661Z
+updated: 2025-01-06T16:38:48.228Z
 tags:
   - windows10
   - windows11
@@ -38,14 +38,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![security at glance menu in windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-security.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Security app will be enabled instantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows 11
 
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Third-Party Antivirus
@@ -76,11 +72,11 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Security App
 
@@ -125,13 +121,13 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
  When you’re done, [simply restart your PC](https://www.makeuseof.com/windows-restart-methods/) for the changes to take effect, and see if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Security Service
 
@@ -160,12 +156,16 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![two types of reset options in the reset this pc on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-this-pc-windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s it. Follow the onscreen instructions ahead and your Windows will be formatted and reinstalled in no time. When your PC restarts, all your settings will be at ground zero again.
 
  The whole process is fairly straightforward, but if you face any difficulties during the reset, make sure you go through a [complete guide on Windows 10 factory reset](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) and verify if you're making any slip-ups in between the steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the Issues With Windows Security
 
@@ -185,22 +185,24 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-role-of-rhythm-and-pitch-in-trailer-tunes/"><u>[New] The Role of Rhythm and Pitch in Trailer Tunes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action/"><u>[Updated] 2024 Approved Highest Priority List Best 10 Apps for Live Baseball & Basketball Action</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-easy-to-follow-guide-leveraging-mobizen-screensaver/"><u>2024 Approved Easy-to-Follow Guide Leveraging Mobizen Screensaver</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/complete-step-by-step-tutorial-capturing-your-playstation-4-gaming-moments-using-a-computer/"><u>Complete Step-by-Step Tutorial: Capturing Your PlayStation 4 Gaming Moments Using a Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/easing-expiry-headache-fixing-windows-license-alarms/"><u>Easing Expiry Headache: Fixing Windows License Alarms</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/emotionally-enhanced-youtube-commentary-for-2024/"><u>Emotionally-Enhanced YouTube Commentary for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/filter-not-working-error-in-excel-2013-fix-2024-stellar-by-stellar-guide/"><u>Filter Not Working Error in Excel 2013 Fix 2024 | Stellar</u></a></li>
-<li><a href="https://win11.techidaily.com/get-the-best-of-linux-ditch-wsl/"><u>Get the Best of Linux - Ditch WSL</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-lenovo-monitor-drivers-comprehensive-downloading-instructions/"><u>How to Get the Latest Lenovo Monitor Drivers - Comprehensive Downloading Instructions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-flawlessly-capture-your-ios-devices-screen/"><u>In 2024, How to Flawlessly Capture Your iOS Device's Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-spotify-crash-in-windows-11-without-it-help/"><u>Overcoming Spotify Crash in Windows 11 without IT Help</u></a></li>
-<li><a href="https://win11.techidaily.com/quantifying-storage-quotient-for-windows-programs/"><u>Quantifying Storage Quotient for Windows Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-stopping-windows-11-from-running/"><u>Quick Fixes: Stopping Windows 11 From Running</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-steams-unavailable-content-servers-issue-on-pc/"><u>Resolving Steam's Unavailable Content Servers Issue on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/separating-the-sincere-from-the-spoof-in-the-windows-store/"><u>Separating the Sincere From the Spoof in the Windows Store</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-11-22h2-moment-update-could-bring-7-exciting-features/"><u>The Windows 11 22H2 Moment Update Could Bring 7 Exciting Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-perfect-screen-recording-tool-for-windows-11-ranked/"><u>Ultimate Guide to Choosing the Perfect Screen Recording Tool for Windows 11 - Ranked!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-experts-recommendations-for-image-watermarking/"><u>[New] Expert's Recommendations for Image Watermarking</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-swiftly-freeze-action-in-your-iphone-photography-journey/"><u>[New] In 2024, Swiftly Freeze Action in Your iPhone Photography Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-editors-toolkit-using-markers-in-professional-editing/"><u>[Updated] In 2024, The Editor's Toolkit Using Markers in Professional Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-unveiled-the-power-of-10-customizations-for-better-dialogue/"><u>ChatGPT Unveiled: The Power of 10 Customizations for Better Dialogue</u></a></li>
+<li><a href="https://win11.techidaily.com/command-center-transformation-the-terminal-takes-priority/"><u>Command Center Transformation: The Terminal Takes Priority</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-to-fixing-windows-error-code-0x80072f8f-on-11-and-10-versions/"><u>Comprehensive Guide to Fixing Windows Error Code 0X80072F8F on 11 & 10 Versions</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-performance-the-power-of-dxvk-for-windows-games/"><u>Dive Into Performance: The Power of DXVK for Windows Games</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-gadgets-to-preserve-the-pristine-look-of-your-iphone-13-techradar/"><u>Essential Gadgets to Preserve the Pristine Look of Your iPhone 13 | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-advice-tackling-chrome-profile-troubles-on-pcs/"><u>Expert Advice: Tackling Chrome Profile Troubles on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-stuck-arrows-on-pc-solutions-beyond-repair/"><u>Fix Stuck Arrows on PC: Solutions Beyond Repair</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-some-update-files-arent-signed-error-in-windows-1110/"><u>How to Fix the “Some Update Files Aren’t Signed” Error in Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-the-touch-keyboard-default-open-position-in-windows-11/"><u>How to Reset the Touch Keyboard Default Open Position in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lensblend-elite-cohesive-image-composer-for-2024/"><u>LensBlend Elite Cohesive Image Composer for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-modern-workflow-with-the-asus-vivobook-s-15/"><u>Mastering Modern Workflow with the ASUS Vivobook S 15</u></a></li>
+<li><a href="https://win11.techidaily.com/steady-streams-verifying-stable-windows-connectivity/"><u>Steady Streams: Verifying Stable Windows Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-passage-for-windows-wow-freezes/"><u>Swift Passage for Windows WoW Freezes</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-a18-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo A18.</u></a></li>
 </ul></div>
 

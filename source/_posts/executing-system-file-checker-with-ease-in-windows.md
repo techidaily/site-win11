@@ -1,7 +1,7 @@
 ---
 title: Executing System File Checker with Ease in Windows
-date: 2024-12-23T17:54:15.945Z
-updated: 2024-12-28T03:04:14.794Z
+date: 2025-01-04T20:14:07.012Z
+updated: 2025-01-06T19:45:40.399Z
 tags:
   - windows10
   - windows11
@@ -36,18 +36,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![Run Command Prompt Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Prompt-Using-Windows-Search.jpg)
 3. Click**Yes** in the UAC prompt to allow Command Prompt to make changes to your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In Command Prompt, enter the below command, and then hit the**Enter** key:  
 `SFC /scannow`
 
  If you’re unfamiliar with operating system files, please read our guide on[what system files are on Windows](https://www.makeuseof.com/windows-system-files-guide/) . And to learn everything you need to know about Command Prompt, you can check out our[beginner's guide to Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Happens After I Run the System File Checker?
 
@@ -56,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
  If your system files are okay, you’ll see a message that says "Windows Resource Protection did not find any integrity violations." If SFC found and fixed all problematic files, the message will read "Windows Resource Protection found corrupt files and successfully repaired them."
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the other hand, if it found corrupted files but couldn’t repair any or all of them, the message will read "Windows Resource Protection found corrupt files but was unable to fix some of them." And if SFC encounters a problem, the message will say "Windows Resource Protection could not perform the requested operation."
 
@@ -71,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 | /offbootdir | Run this command to tell the SFC which directory contains a bootable version of Windows. You need to do this every time you use the tool outside of Windows. For example, to select the**E:** drive on your PC, enter**/offbootdir=e:\\**                                         |
 | /offwindir  | Run this command to tell the SFC which folder in the directory — the one you specified with the**SFC /offbootdir** command — contains Windows. For example, enter**/offwindir=e:\\windows** to tell the System File Checker that Windows is on the**E:** drive.                   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Run an Offline SFC Scan on Windows
 
  There are a few scenarios that warrant the use of the SFC without logging into Windows. One such scenario is if the operating system files are so corrupted that Windows cannot start.
@@ -87,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
  That above command will tell SFC to look for Windows in the**Windows** folder on the**D:** drive. But keep in mind that the Windows version on the bootable media needs to be the same as the one installed on your PC for the scan and repair to be successful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Find the SFC Log File On Windows
 
  After the SFC does its thing, it will log the results of the scan and any repairs it made into a text file called**CBS.log** . To open it, press**Win + R** to open Windows Run, enter the below text, and click**OK** :
@@ -97,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 ![cbs log file on Windows that has been opened in Notepad with the SR tag part showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/cbs-log-sfc-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don’t want to bother with searching through the**CBS.log** file for the entries with the**\[SR\]** tag, you can extract them to a file called**sfcdetails.txt** . To do that, open Command Prompt as an administrator, and run the below command:
 
 `findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt`
@@ -106,22 +106,22 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 ![the sfc details text file in File Explorer on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-details-file.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You’ll see that the log file contains entries from the System File Checker only.
 
 ![the sfc details text file on Windows opened in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-detail-txt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re doing an offline scan, you can enable logging by simply specifying the file path with the following command structure:
 
 `/offlogfile=[offline log file path]`
 
  Just replace**offline log file path** in the square brackets with the actual path you want to store the offline log file in the offline directory. Then, insert this entire command after the**/windir** command when running an offline SFC scan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Running the System File Checker, Demystified
 
@@ -144,22 +144,22 @@ thumbnail: https://thmb.techidaily.com/6ae69a61ee431cd865eb63071b7e7dab33df662ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-cinematographe-queries-explained/"><u>[New] In 2024, Cinematographe Queries Explained</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-educator-elite-selective-learning-yt-channels/"><u>[New] In 2024, Educator Elite Selective Learning YT Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-inverted-illusion-guide-transforming-visual-content-through-angled-spins/"><u>[Updated] 2024 Approved The Inverted Illusion Guide Transforming Visual Content Through Angled Spins</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-videos-making-a-statement-on-instagram/"><u>2024 Approved YouTube Videos Making a Statement on Instagram</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-battles-in-league-of-legends-fix-that-frustrating-fps-slowdown-now/"><u>Boost Your Battles in League of Legends - Fix That Frustrating FPS Slowdown Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/claude-vs-gpt-a-deep-dive-into-4-crucial-enhancements-for-users/"><u>Claude vs GPT: A Deep Dive Into 4 Crucial Enhancements for Users</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-synthetic-followers-for-true-popularity-peak/"><u>Defeat Synthetic Followers for True Popularity Peak</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-substitute-methods-for-the-ls-command-in-windows/"><u>Discovering Substitute Methods for the LS Command in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-systems-refusal-to-run-latest-windows-version/"><u>Overcoming System's Refusal to Run Latest Windows Version</u></a></li>
-<li><a href="https://discover-help.techidaily.com/overcoming-the-obstacle-of-windows-restart-issue-a-step-by-step-guide-to-resolve-error-code-0x802n4a11a/"><u>Overcoming the Obstacle of Windows Restart Issue: A Step-by-Step Guide to Resolve Error Code 0X802n4A11A</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-update-issue-code-0x800f0845/"><u>Overcoming Update Issue: Code 0X800F0845</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-no-sound-issues-with-usb-headphones-on-a-windows-7-system-guide/"><u>Resolving No-Sound Issues with USB Headphones on a Windows 7 System [Guide]</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-up-deletions-with-customized-context-menus-in-windows/"><u>Speed up Deletions with Customized Context Menus in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tech-tip-quiet-down-windows-hardware-keys/"><u>Tech Tip: Quiet Down Windows' Hardware Keys</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-to-recover-lost-gpeditmsc-access/"><u>Unlocking Secrets to Recover Lost Gpedit.msc Access</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-control-panel-hacks-usb-access-management/"><u>Windows Control Panel Hacks: USB Access Management</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-simple-process-of-uploading-videos-to-twitter/"><u>[Updated] In 2024, The Simple Process of Uploading Videos to Twitter</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigate-the-metaverse-with-friends-top-10-games/"><u>[Updated] Navigate the Metaverse with Friends - Top 10 Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-laws-governing-recording-youtube-live-streams/"><u>2024 Approved Laws Governing Recording YouTube Live Streams</u></a></li>
+<li><a href="https://fox-links.techidaily.com/exclusive-list-of-top-8-wallpapers-for-macbooks/"><u>Exclusive List of Top 8 Wallpapers for MacBooks</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-uninstall-epic-launcher-from-windows-11-pcs/"><u>Expert Tips to Uninstall Epic Launcher From Windows 11 PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/get-precise-audio-capturing-for-your-pc-with-x-recorder/"><u>Get Precise Audio Capturing for Your PC with X-Recorder</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-15-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 15 (4 Methods) | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-waterfront-top-5-cameras-for-big-waters/"><u>In 2024, Master the Waterfront Top 5 Cameras For Big Waters</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>New In 2024, The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-corporate-browser-management-hurdles-in-chrome-and-edge/"><u>Overcoming Corporate Browser Management Hurdles in Chrome and Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-premature-edges-a-11-way-guide/"><u>Preventing Premature Edges: A 11-Way Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-creating-numerous-subfolders-simultaneously-on-windows-os/"><u>Quick Guide: Creating Numerous Subfolders Simultaneously on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-error-code-0x80073d26-for-ms-store-on-windows-11/"><u>Resolving Error Code 0X80073d26 for MS Store on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unauthorized-installer-errors-in-win11win10/"><u>Resolving Unauthorized Installer Errors in Win11/Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-stop-spotify-application-hang-ups-on-windows-11/"><u>Tactics to Stop Spotify Application Hang-Ups on Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-the-most-efficient-snow-clearing-machines-for-winter-2024-insights-from-zdnet/"><u>Ultimate List of the Most Efficient Snow Clearing Machines for Winter 2024 – Insights From ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-successful-file-syncing-in-google-chrome-windows-based/"><u>Unlock Successful File Syncing in Google Chrome, Windows-Based</u></a></li>
 </ul></div>
 

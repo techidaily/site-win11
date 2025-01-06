@@ -1,7 +1,7 @@
 ---
 title: "Enhance Efficiency: Reducing Memory/CPU Load in Windows 10"
-date: 2024-12-20T17:41:34.748Z
-updated: 2024-12-27T23:24:53.585Z
+date: 2025-01-03T21:01:30.819Z
+updated: 2025-01-06T19:08:27.613Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Windows Update Hotfix
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
 
@@ -59,10 +55,14 @@ To install a Windows 11 update:
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Disable News and Interests on Windows 11
@@ -74,6 +74,10 @@ To install a Windows 11 update:
  The easiest way to disable Widgets is from the Taskbar settings. If that does not work or if your Windows 11 isn't activated, you can use Registry Editor to disable the Widgets icon from the taskbar.
 
  If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
@@ -91,11 +95,11 @@ To install a Windows 11 update:
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
 
- After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
 
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
@@ -122,13 +126,13 @@ To disable the news feed feature using Windows Registry:
 
 5. Close the Registry Editor and restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add and Disable EnableFeeds Using PowerShell
 
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 
@@ -138,10 +142,6 @@ To disable the news feed feature using Windows Registry:
 `REG ADD "HKLM\SOFTWARE\Policies\Microsoft\Windows\Windows Feeds" /v "EnableFeeds" /t REG_DWORD /d 0 /f`
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
@@ -162,24 +162,17 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-swiftly-switch-srt-and-text-files-with-this-easy-guide-for-2024/"><u>[New] Swiftly Switch SRT and Text Files with This Easy Guide for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-4-marvel-intro-makers-online/"><u>[New] Top 4 Marvel Intro Makers Online</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-direct-music-upload-top-tools-for-turning-spotify-into-youtube-listings/"><u>[Updated] Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-step-by-step-guide-through-the-landscape-of-srt/"><u>A Step-by-Step Guide Through the Landscape of SRT</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-utilize-windows-hello-biometric-lock-in-windows-11/"><u>How to Utilize Windows Hello Biometric Lock in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-12-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 12 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-amd-chipset-software-for-windows-117881-free-download-links/"><u>Latest AMD Chipset Software for Windows 11/7/8/8.1 - Free Download Links</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-system-efficiency-through-cpu-settings/"><u>Maximizing System Efficiency Through CPU Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-system-failure-windows-error-0x8007045d/"><u>Overcoming System Failure - Windows Error 0X8007045D</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/professional-animal-photography-and-backgrounds-for-pcmac-quality-wallpapers-from-yl-computing-studio/"><u>Professional Animal Photography & Backgrounds for PC/MAC - Quality Wallpapers From YL Computing Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-path-errors-on-windows-810-systems/"><u>Remedying PATH Errors on Windows 8/10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-selecthighlight-problems-in-windows-pdfs/"><u>Solutions for Select/Highlight Problems in Windows PDFs</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-prevent-csgo-launch-issues-on-windows-11/"><u>Strategies to Prevent CS:GO Launch Issues on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-online-journey-with-gesture-controls-in-ms-edge-win-11-edition/"><u>Streamline Your Online Journey with Gesture Controls in MS Edge, Win 11 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-perfected-notes-on-obsidian-canvas/"><u>The Path to Perfected Notes on Obsidian Canvas</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-picks-for-phone-based-asmr-enthusiasts-for-2024/"><u>Top Picks for Phone-Based ASMR Enthusiasts for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-how-to-stop-escape-from-tarkov-from-freezing-and-crashing-on-your-desktop/"><u>Troubleshooting Success! How to Stop 'Escape From Tarkov' From Freezing and Crashing on Your Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-networks-decoded-arp-cache-understanding/"><u>Windows Networks Decoded: ARP Cache Understanding</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-to-innovate-your-podcast-previews-and-trailers/"><u>[New] In 2024, How to Innovate Your Podcast Previews and Trailers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-instagram-story-width-height-run-time/"><u>[New] Instagram Story Width, Height, Run Time</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-scripting-success-the-art-of-good-documentaries/"><u>[Updated] Scripting Success The Art of Good Documentaries</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-stabilizing-high-flying-camera-work-a-guide/"><u>2024 Approved Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/clouding-safety-store-steam-game-images/"><u>Clouding Safety: Store Steam Game Images</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-originality-of-knacks-character-amidst-a-formulaic-gaming-experience/"><u>Exploring the Originality of Knack's Character Amidst a Formulaic Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991126232-master-your-gaming-experience-no-more-praey-crashes-on-pc/"><u>Master Your Gaming Experience: No More Praey Crashes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-0x80242016-in-your-windows-update/"><u>Overcome 0X80242016 in Your Windows Update</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-to-reversing-videos-on-snapchat-learn-how-today/"><u>Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-enhancing-virtual-memory-usage/"><u>Strategies for Enhancing Virtual Memory Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-control-of-admin-commands-in-terminal/"><u>Taking Control of Admin Commands in Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-shortcut-to-take-screenshots-effortlessly/"><u>Windows 11 Shortcut to Take Screenshots Effortlessly</u></a></li>
 </ul></div>
 

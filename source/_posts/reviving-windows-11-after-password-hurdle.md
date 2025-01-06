@@ -1,7 +1,7 @@
 ---
 title: Reviving Windows 11 After Password Hurdle
-date: 2024-08-23T06:11:37.918Z
-updated: 2024-08-24T06:11:37.918Z
+date: 2025-01-01T20:46:05.524Z
+updated: 2025-01-06T20:13:13.892Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,19 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 5. In the Troubleshoot screen, click on **Reset this PC**.  
 ![reset this pc Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reset-this-pc-Windows-11.png)
 6. In the Reset this PC screen, you will be presented with two options. The **Keep my files** option will remove all the third-party apps and settings from your PC, but keep your personal files such as documents, media, etc. If you want to remove everything, then select **Remove everything.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, you will be presented with two options again to reinstall Windows. If you select **Cloud Download**, Windows will first download the required operating system files and then perform a reinstall. In comparison, **Local Reinstall** will use the existing system files from the device to reinstall Windows.  
 ![reinstall windows cloud download local reinstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reinsall-windows-cloud-download-local-reinstall.png)
 8. To speed up the process, select **Local reinstall**. If that does not work, you can use the **Cloud download** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reinstalling Windows-11 after reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/reinstalling-Windows-11-after-reset.jpg)
 9. In the **Are you ready to reset this device** screen, click on the **Reset** button to confirm the action and start the reset process.
 
@@ -50,9 +60,17 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 
  If the reset process fails and requests additional system files, use the **Cloud download** option to perform a reset and try again. This often happens if your existing Windows installation is missing critical system files or corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. How to Factory Reset Windows 11 Using a Windows Installation Media
 
 ![Windows 11 setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-setup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using the Reset This PC option should help you bypass the Windows login password and reset the PC. However, if that does not work, you can [clean install the Windows OS](https://www.makeuseof.com/how-to-clean-install-windows-11/) using a bootable USB drive. This is useful if you can't boot into Windows or the system image is damaged beyond repair.
 
@@ -67,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 5. Next, click the **Install Now** button.  
 ![install windows 11 clean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/insatll-windows-11-clean.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. On the **Activate Windows** page, click the **I don’t have a product key** link.
 2. Next, select the **Windows 11 edition** you want to install. If not, select the default option and click **Next**.  
 ![windows 11 setup select edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-11-setup-select-edition.png)
@@ -79,16 +101,11 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
 
  If you prefer to create and use a local user account instead, read our guide on [how to install and set up Windows 11 without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) and create one that way.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Factory Reset a Windows Computer Without an Admin Password
 
  Although you can factory reset the PC to bypass the admin password, setting up your system from scratch is cumbersome. To avoid this hassle, consider using a password manager. It not only stores difficult and long passwords and syncs them across devices but also protect them from hacker and other prying eyes with encryption.
 
  For situations like this, Windows 11 offers a few alternative ways to factory reset your computer. You can factory reset Windows 11 without the admin password from the lock screen or by using a bootable Windows installation media. Let's explore the two ways you can bypass a Windows admin password and reset your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +113,20 @@ thumbnail: https://thmb.techidaily.com/af9c45bcb0e197000016d357a0225b4459ab82775
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-8-high-performance-screenshots-for-2024/"><u>[New] Best 8 High-Performance Screenshots for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-the-art-of-funimate-video-extraction/"><u>[New] Master the Art of Funimate Video Extraction</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-wildlife-wonders-androids-finest-animal-game-collection/"><u>[Updated] 2024 Approved Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-presentation-content-with-automated-transcription/"><u>2024 Approved Revolutionizing Presentation Content with Automated Transcription</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-14-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 14 Pro Max Online</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-killing-of-wsl-how-to-delete-in-windows-11/"><u>Complete Killing of WSL: How to Delete in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-choice-accuracy-employ-checkboxes-in-windows-11/"><u>Elevate Choice Accuracy: Employ Checkboxes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-printing-in-application-guard-for-edge-on-windows-11/"><u>How to Enable Printing in Application Guard for Edge on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/times-tick-tock-a-guide-to-reviving-missing-windows-server-services/"><u>Time's Tick-Tock: A Guide to Reviving Missing Windows Server Services</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-techniques-for-complete-data-cleansing-wisdom-from-stellars-pros/"><u>Top Techniques for Complete Data Cleansing - Wisdom From Stellar's Pros</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wizardry-uninstall-and-reinstall-optional-features-with-ease/"><u>Windows Wizardry: Uninstall and Reinstall Optional Features with Ease</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastery of File Timeline: Windows 11'S Archive Access"
-date: 2024-08-23T06:11:44.256Z
-updated: 2024-08-24T06:11:44.256Z
+date: 2025-01-01T19:01:58.370Z
+updated: 2025-01-06T20:26:24.353Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Using the Settings App
 
  The Settings app doesn't have File History as a separate section but can redirect you to its Control Panel page. Repeat the following steps:
@@ -51,8 +48,13 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 4. The Control Panel window will open with the File History page.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -63,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 3. The File History page will open.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using File Explorer
 
  Like most Windows utilities, File History is also present in the **System32** folder in the C drive. So, you can access it from there in case [Control Panel is not opening](https://www.makeuseof.com/fix-control-panel-wont-open/) or working on your PC. Repeat the following steps:
@@ -84,9 +87,9 @@ thumbnail: https://thmb.techidaily.com/029ba41f4072a625a12663e242fe0241f864e3cc7
 2. Click on the **Run new task** button. Now, type **FileHistory.exe** in the text box and click on the **OK** button.  
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
 3. File History will launch on your system. Close the Task Manager
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Using Terminal App
@@ -98,14 +101,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Now, type the following command and press the **Enter** key to execute it: **control /name Microsoft.FileHistory**  
 ![Open File History Using Terminal App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-terminal-app.jpg)
 4. Close the Terminal app.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using a Desktop Shortcut
 
  The fastest method to access any app is by [creating a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/). You can switch to the desktop and launch programs with or without administrator privileges. Repeat the following steps:
@@ -115,6 +115,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the Create Shortcut window, go to the textbox. Type **"C:\\Windows\\System32\\FileHistory.exe"** in the text box and click on the **Next** button.  
 ![Open File History Using Desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-desktop-shortcut.jpg)
 4. Name the shortcut **File History** and click on the **Finish** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
 
 ## Access File History Settings In a Jiffy
@@ -123,11 +128,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-breakthrough-visuals-hp-envy-27-monitors-4k-showcase-for-2024/"><u>[New] Breakthrough Visuals HP Envy 27 Monitor's 4K Showcase for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastery-in-voice-change-with-morphvox-for-2024/"><u>[New] Mastery in Voice Change with MorphVOX for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-16-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[Updated] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-the-world-of-drone-races-and-top-fpv-choices/"><u>[Updated] In 2024, Navigating the World of Drone Races & Top FPV Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-repair-defective-alt-keys-in-windows-48-characters/"><u>How to Repair Defective ALT Keys in Windows (48 Characters)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-frustrating-error-0x80070570-quickly-and-effectively/"><u>How to Resolve the Frustrating 'Error 0X80070570' Quickly & Effectively</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-tech-world-affordable-lifetime-access-to-free-windows-11-on-black-friday-for-keys-fans/"><u>Master Your Tech World - Affordable Lifetime Access to Free Windows 11 on Black Friday for Keys Fans</u></a></li>
+<li><a href="https://win11.techidaily.com/masterfully-managing-software-dependencies-with-the-package-manager/"><u>Masterfully Managing Software Dependencies with the Package Manager</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-bluestacks-stability-issues-with-these-simple-fixes/"><u>Solve Your BlueStacks Stability Issues with These Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-8-pomodoro-timers-maximizing-time-management-on-windows/"><u>The Ultimate 8 Pomodoro Timers: Maximizing Time Management on Windows</u></a></li>
+<li><a href="https://win-updates.techidaily.com/titre-comment-numeriser-perturbe-le-contenu-de-votre-pc-methodes-gratuites-sous-windows-7-8-10-and-11/"><u>Titre : Comment Numériser Perturbé Le Contenu De Votre PC - Méthodes Gratuites Sous Windows 7, 8, 10 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-explored-and-deletion-strategies-revealed-139-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Windows ARP Cache Explored & Deletion Strategies Revealed (139 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Formula Protection: A Step-by-Step Guide to Secure Your Data in MS Excel"
-date: 2024-08-28T00:48:25.002Z
-updated: 2024-08-29T00:48:25.002Z
+date: 2025-01-05T19:54:29.431Z
+updated: 2025-01-06T20:30:39.978Z
 tags:
   - excel
 categories:
@@ -26,9 +26,6 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 
  This way, users can edit the values of all cells in your worksheet except for the ones that have formulas in them.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Lock a Formula Cell in Excel
 
  To avoid getting your formula cells altered, first, launch your spreadsheet with Microsoft Excel.
@@ -37,10 +34,6 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 
 ![Choose "Format Cells" from the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/1-format-all-cells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  On the "Format Cells" window, from the top, select the "Protection" tab. Then disable the "Locked" option and click "OK."
 
 ![Turn off "Locked" and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-unlock-all-cells.png) 
@@ -52,8 +45,9 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 ![Select Find & Select > Go To Special.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/3-excel-go-to-special.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Go To Special" box, enable the "Formulas" option and click "OK."
 
 ![Activate "Formulas" and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/4-select-all-formula-cells.png) 
@@ -63,11 +57,16 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 ![Click "Format Cells" in the menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-format-formula-cells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Format Cells" window, access the "Protection" tab. Then enable the "Locked" option and click "OK."
 
 ![Enable "Locked" and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/6-lock-formula-cells.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The cells containing formulas in your worksheet are now locked. To prevent their modification, from Excel's ribbon at the top, select the "Review" tab.
 
@@ -80,11 +79,16 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 ![Type the password and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/8-enter-protection-password.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you used a password in the previous step, then in the "Confirm Password" box that opens, re-enter that password and click "OK."
 
 ![Re-enter the password and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/9-re-enter-protection-password.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that's it. All the cells containing formulas in your worksheet are now locked. If you or someone else attempts to alter the contents of these cells, Excel will display an error message.
 
@@ -94,9 +98,6 @@ Related: [How to Lock Cells in Microsoft Excel to Prevent Editing](https://video
 
 ![Choose "Unprotect Sheet."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/11-unprotect-excel-sheet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  And that's how you avoid getting your formulas messed up in your Excel spreadsheets. Very useful!
 
 ---
@@ -111,8 +112,6 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +119,19 @@ Related: [How to Lock the Position of a Chart in Excel](https://easy-unlock-andr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>[New] How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-liminal-film-narrative-plan-for-2024/"><u>[Updated] Liminal Film Narrative Plan for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44kk44oz44k44o844on44od44oi44gl44kj5yuv55s744ks44kt44oj44ox44ob44oj44gz44kl44gf44kb44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj44cn/"><u>「インターネットから動画をキャプチャするためのステップバイステップガイド」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-giants-clash-a-detailed-twitchyoutube-analysis/"><u>2024 Approved Streaming Giants Clash A Detailed Twitch/YouTube Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/a-simple-guide-converting-stunning-hdr-videos-into-compatible-sdr-format/"><u>A Simple Guide: Converting Stunning HDR Videos Into Compatible SDR Format</u></a></li>
+<li><a href="https://games-able.techidaily.com/buying-a-ps5-heres-what-will-shape-your-choice/"><u>Buying a PS5? Here's What Will Shape Your Choice</u></a></li>
+<li><a href="https://win11.techidaily.com/can-i-trust-online-video-conversion-services-understanding-their-security-risks-and-benefits/"><u>Can I Trust Online Video Conversion Services? Understanding Their Security Risks and Benefits</u></a></li>
+<li><a href="https://win11.techidaily.com/clipchampgif/"><u>Clipchampによる簡単なGIF制作手順とヒント:動画から始めましょう!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dells-vision-for-the-future-with-an-insight-into-p2715q-monitor-specs/"><u>Dell's Vision for the Future with an Insight Into P2715Q Monitor Specs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-melodies-crafting-unique-phone-ringtones-for-android-enthusiasts/"><u>In 2024, Mobile Melodies Crafting Unique Phone Ringtones for Android Enthusiasts</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/score-the-ultimate-prime-day-specials-on-apple-products/"><u>Score the Ultimate Prime Day Specials on Apple Products</u></a></li>
+<li><a href="https://win11.techidaily.com/44oh44oh44kj44ki44ov44kh44kk44or566h55cg44gr54m55yyw44gx44gf44gv44gplus44gw44gplus44gq44k944ov44oi44km44kn44ki44o744oe44o844or44go44ki44ox44oq44kx44o844k34490/"><u>メディアファイル管理に特化したさまざまなソフトウェア・ツールとアプリケーションを紹介する</u></a></li>
+</ul></div>
 

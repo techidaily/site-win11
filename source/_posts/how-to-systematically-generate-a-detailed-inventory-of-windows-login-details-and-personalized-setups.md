@@ -1,7 +1,7 @@
 ---
 title: How To Systematically Generate A Detailed Inventory of Windows Login Details & Personalized Setups
-date: 2024-08-28T00:48:35.932Z
-updated: 2024-08-29T00:48:35.932Z
+date: 2025-01-02T17:46:57.217Z
+updated: 2025-01-06T19:08:26.867Z
 tags:
   - excel
 categories:
@@ -43,6 +43,10 @@ Related: [How to Check Your Motherboard Model Number on Your Windows PC](https:/
 
 Related: [How PowerShell Differs From the Windows Command Prompt](https://instagram-videos.techidaily.com/new-2024-approved-adapting-to-instagrams-evolved-content-curation/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Get a Quick List of Just User Account Names
 
  If all you need is a list of account names without any other details, type the following command at the prompt and then press Enter:
@@ -61,9 +65,6 @@ wmic useraccount get name,fullname
 
  In this example, you can see that the "Michelle" and "Simon" accounts do not have full names associated, but my "wjgle" account does have my full name.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Get a List of User Accounts with More Details
 
  If you'd like create a list of user accounts with a full set of account details, type the following command at the prompt and hit Enter:
@@ -73,8 +74,9 @@ wmic useraccount list full
 ![ual_4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That image shows just one user account from the list with all its details. You can see the user account name and full name, as well as additional details like the following:
 
 * **AccountType**. If you're on PC that is not part of a domain---which is almost certainly the case if you're on your home or small business PC---you'll always see an account type of 512\. If the PC is part of a domain, you'll see other values here that represent what type of domain account it is.
@@ -97,9 +99,6 @@ wmic useraccount get name,fullname,status
 
  So, this is all well and good if you just want to view user account information on the fly, but it becomes much more useful when you redirect the results to a text file.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Redirect the Results of a Command to a File
 
  It's great being able to view a list of user account details at the Command Prompt, but the real usefulness of these commands lie in the fact that you can pipe the results straight into a file that you can then save or print. To do this with any `wmic` command, you just have to add an `/output` switch along with a path for the file directly after the `wmic` command.
@@ -113,8 +112,9 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full
 ![ual_6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And if you want to get even fancier, you could also direct the output to a comma-separated value (CSV) file that could then easily be imported into a spreadsheet app or database. The trick to this is that you'll also have to add a `/format:csv` switch to the end of the command. So, for example, if you wanted to redirect the output of the same command we used above to a CSV file, you'd use something like the following command:
 
 wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
@@ -124,15 +124,17 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
 ![ual_7](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And if you import it into something like Microsoft Excel, you can have a nicely formatted table with little work.
 
 ![ual_8](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/12/ual_8.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Of course, there's a lot more you can do with the `wmic useraccount` command, including changing some of the user account details like whether an account is locked or unlocked. You can get more information on that by typing `wmic /?` at the Command Prompt. There's also a whole lot more you can do with the `wmic` command in general. For more information on that, check out the [official WMIC page](https://msdn.microsoft.com/en-us/library/aa394531%28v=vs.85%29.aspx) from Microsoft and the list of [useful WMIC queries](https://blogs.technet.microsoft.com/askperf/2012/02/17/useful-wmic-queries/) from the Microsoft Performance Team blog.
 
 <ins class="adsbygoogle"
@@ -141,8 +143,6 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +150,19 @@ wmic /output:C:\logs\useraccounts.txt useraccount list full /format:csv
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-premier-10-survival-showdowns/"><u>[New] Premier 10 Survival Showdowns</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmonious-updates-musical-whatsapp-statues/"><u>[Updated] Harmonious Updates Musical WhatsApp Statues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-entrepreneurs-roadmap-turning-snapchat-into-a-profitable-venture-for-2024/"><u>[Updated] The Entrepreneur's Roadmap Turning Snapchat Into a Profitable Venture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/imgburn-dvd-dvd/"><u>ImgBurn フリーウェアで簡単DVDバックアップ: DVDコピー機能をご案内し、コピーガード解除に最適なツールも紹介</u></a></li>
+<li><a href="https://win11.techidaily.com/master-video-conversion-for-portable-gaming-systems-pspps3-compatible-solutions/"><u>Master Video Conversion for Portable Gaming Systems - PSP/PS3 Compatible Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-consistent-sound-quality-tips-for-balancing-mp4-audio/"><u>Mastering Consistent Sound Quality: Tips for Balancing MP4 Audio</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/mastering-your-pc-tailoring-mouse-preferences-on-windows-a-guide-by-yl-computing/"><u>Mastering Your PC: Tailoring Mouse Preferences on Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/most-effective-windows-11-dvd-regions-bypass-tool-reviews-and-comparisons/"><u>Most Effective Windows 11 DVD Regions Bypass Tool: Reviews & Comparisons</u></a></li>
+<li><a href="https://win11.techidaily.com/mp3-to-m4a/"><u>MP3 to M4A変換フリーツール比較ガイド - 使いやすくて正確なソフトウェア集めました!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/seamless-ios-image-migration-tutorial-moving-pictures-from-your-old-iphone-to-a-new-iphone-iphone-12-13-14-or-15/"><u>Seamless iOS Image Migration Tutorial: Moving Pictures From Your Old iPhone to a New iPhone (iPhone 12, 13, 14, or 15)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-format-fluidity-convert-srt-quickly-for-2024/"><u>Unlocking Format Fluidity Convert SRT Quickly for 2024</u></a></li>
+</ul></div>
 

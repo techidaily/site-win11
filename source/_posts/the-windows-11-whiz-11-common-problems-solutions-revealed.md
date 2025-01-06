@@ -1,7 +1,7 @@
 ---
 title: "The Windows 11 Whiz: 11 Common Problems, Solutions Revealed"
-date: 2024-08-23T06:10:28.889Z
-updated: 2024-08-24T06:10:28.889Z
+date: 2025-01-04T17:53:11.570Z
+updated: 2025-01-06T21:05:40.423Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 
  Here we have constructed a list of common Windows 11 problems and how to fix them so that you can have the best experience using the best Windows OS version yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Unable to Upgrade from Windows 10 to 11
 
  With the much-desired design overhaul, Windows 11 is also tight on security requirements. When the OS was initially released, several old-gen but capable systems were left out of the upgrade queue.
@@ -36,17 +40,10 @@ thumbnail: https://thmb.techidaily.com/29a05cd0ac7c666a10c5dac5d641535795c3a88c9
 
  The update issue can occur due to a corrupted software distribution folder and insufficient storage space. Explore our guide on[how to fix the Windows 11 Version 22H2 update not installing](https://www.makeuseof.com/windows-11-22h2-not-installing/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 3\. Windows 11 No Sound Issues
 
 ![troubleshoot sound problems windows taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshoot-sound-problems-windows-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The[no sound problem in Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) is largely due to external factors. At times, you may also experience[low audio on your Windows 11 PC](https://www.makeuseof.com/windows-11-low-audio/) . The audio issues are often due to an incorrect configuration of playback devices.
 
  If you have installed an audio tuning utility, make sure it is correctly configured to use your default sound device. Additionally, try to restart the Windows audio services and run Windows audio troubleshooter to fix any issues.
@@ -59,9 +56,6 @@ To run the audio troubleshooter:
 
  In case of Bluetooth audio issues, explore our guide to fix[Bluetooth audio not working on Windows 11](https://www.makeuseof.com/windows-11-bluetooth-audio-not-working/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. The Windows 11 Start Menu Is Not Working
 
 ![taskbar alighnment windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/taskbar-alighnment-windows-11.jpg)
@@ -76,9 +70,17 @@ To run the audio troubleshooter:
 
  That said, the Start menu is still prone to some malfunction. A common issue includes the[missing Start menu icons](https://www.makeuseof.com/fix-missing-start-menu-icons-windows-11-10/) . Then you may also encounter the[Start menu critical error](https://www.makeuseof.com/windows-start-menu-critical-error-fix/) . These issues are often triggered due to temporary conflict with the Start menu services and third-party software that can be resolved quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. The File Explorer Not Working on Windows 11
 
 ![restart file explorer process windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-file-explorer-process-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer has been around since Windows 95\. It's an extremely handy file manager application making it a breeze to access your file folders on your PC. With Windows 11, Microsoft has made the venerable file manager even better.
 
@@ -95,9 +97,6 @@ To run the audio troubleshooter:
 
 ![disable startup apps windows 11 task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-startup-apps-windows-11-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Officially, Windows 11 needs 4GB of RAM and 64GB of storage to install the OS. But in a real-case scenario, you will need at least 8 GB of RAM and preferably a 128GB SSD boot drive for a smooth day-to-day operation.
 
  At times the performance issue can plague even higher-end computers running Windows 11\. Check out these[best tips to speed up a Windows computer](https://www.makeuseof.com/windows-11-speed-up-tricks/) to improve your system performance.
@@ -113,8 +112,9 @@ To run the audio troubleshooter:
  You can likely fix performance issues with a few tweaks to your system settings and troubleshooting internal causes. In rare instances, you may need a hardware upgrade to boost your system performance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Windows 11 Wi-Fi and Ethernet Connectivity Issues
 
  Another common issue you may encounter with Windows 11 is related to network connectivity. Irrespective of whether you are connected to a wireless or wired connection, network issues can occur due to several reasons.
@@ -127,24 +127,15 @@ To do this:
 2. Open the**Network & internet** tab and then click on**Advanced network settings.**  
 ![advanced network settings windows 11 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-network-settings-windows-11-1.jpg)
 3. Scroll down and click on**Network reset.**  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![network reset reset now windows 11 reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/network-reset-reset-now-windows-11-reset-now.jpg)
 4. Click**Reset** now to confirm the action.
 
  In an ideal setup, an Ethernet connection is likely to cause fewer issues. It is also easy to set up and offers better speed and less lag over a wireless network. That said if the wired connection starts to act up, follow these troubleshooting steps to[fix your Ethernet connection on Windows 11](http://www.makeuseof.com/windows-11-ethernet-not-working/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Windows 11 Screen Flashing, Flickering, Blurry, and Black Screen Problems
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 11 comes with a[Microsoft Basic Display Adapter](https://www.makeuseof.com/microsoft-basic-display-adapter-guide/) installed out of the box. It's a generic display driver that lets you access your display after a clean install and help complete the setup.
 
  Ideally, you should install all the pending Windows updates after a fresh install or on your new PC after the initial boot. This can help you fix display resolution and blurry screen problems on a new or fresh setup. To install Windows updates:
@@ -157,6 +148,10 @@ To do this:
 
  If you encounter a black screen issue, try to[perform a repair install of Windows 11](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . If that does not help, assuming that you don't have a hardware issue, a reset or fresh install may be necessary to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Disabling Bing Web Search in Windows 11
 
  The built-in Windows Search bar lets you find files and folders quickly. However, it does more than what the user asked for. By default, Windows Search shows matching search terms from Bing.
@@ -164,6 +159,10 @@ To do this:
  What may seem like a handy feature is the promotion of Microsoft's search engine, as there is no way to customize this feature to show results from other search engines, such as Google.
 
  In addition, this can clutter the search dialog by showing unnecessary information. Fortunately, with the help of a registry tweak, you can[disable Bing web searches on Windows 11](https://www.makeuseof.com/windows-11-disable-bing-search/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Disable Annoying Ads on Your Windows 11 Device
 
@@ -175,9 +174,6 @@ To do this:
 
 ![Windows update blocker disable update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-blocker-disable-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 11 automatically downloads critical updates to keep your computer up to date with new security patches and performance improvements. However, some updates can cause more issues than they resolve.
 
  If you would rather prefer to install all the updates manually, you can[disable automatic updates on Windows 11](https://www.makeuseof.com/windows-11-stop-automatic-updates/) . One way is to use a third-party utility, UpdateBlocker. To do this:
@@ -185,6 +181,10 @@ To do this:
 1. Go to the[Windows Update Blocker page](https://www.sordum.org/9470/windows-update-blocker-v1-7/) and download the utility.
 2. Run the tool and select**Disable updates.**
 3. Click**Apply Now** and restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Windows 11's Most Frequent Issues
 
@@ -196,8 +196,6 @@ To do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +203,21 @@ To do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensive-guide-to-iptv-recording-mastery-for-2024/"><u>[New] A Comprehensive Guide to IPTV Recording Mastery for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-the-blueprint-best-practices-for-social-media-video-publishing/"><u>[New] Unveiling the Blueprint Best Practices for Social Media Video Publishing</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-script-execution-with-newly-minted-run-software/"><u>Elevate Script Execution with Newly Minted Run Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-unmatched-audio-quality-with-the-top-rated-gaming-sound-system-now-discounted-on-amazon-save-big-today/"><u>Experience Unmatched Audio Quality with the Top-Rated Gaming Sound System Now Discounted on Amazon - Save Big Today!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-photoshop-scratch-disk-full-errors/"><u>How to Fix Photoshop 'Scratch Disk Full' Errors</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-infinix-smart-8-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Infinix Smart 8 Pro FRP</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-clients-adopting-windows-terminal-by-default/"><u>Mastering Clients: Adopting Windows Terminal by Default</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-unseen-in-multiple-oses/"><u>Nvidia Unseen in Multiple OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/old-pcs-new-life-without-windows/"><u>Old PCs, New Life without Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/saving-system-resources-manage-multiple-processes/"><u>Saving System Resources: Manage Multiple Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailor-your-text-experience-openais-gpt-custom-shops/"><u>Tailor Your Text Experience – OpenAI's GPT Custom Shops</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-high-graphics-usage-by-wm/"><u>Troubleshooting High Graphics Usage by WM</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-powertoys-text-and-click-efficiency/"><u>Unlocking PowerToys' Text and Click Efficiency</u></a></li>
+</ul></div>
 

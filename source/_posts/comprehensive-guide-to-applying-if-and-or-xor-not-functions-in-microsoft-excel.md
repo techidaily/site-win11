@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Applying IF, AND, OR, XOR, Not Functions in Microsoft Excel
-date: 2024-08-28T00:47:41.949Z
-updated: 2024-08-29T00:47:41.949Z
+date: 2025-01-02T17:13:49.735Z
+updated: 2025-01-06T20:34:58.658Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Logical functions are some of the most popular and useful in Excel. They can test values in other cells and perform actions dependent upon the result of the test. This helps us to automate tasks in our spreadsheets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use the IF Function
 
  The IF function is the main logical function in Excel and is, therefore, the one to understand first. It will appear numerous times throughout this article.
@@ -34,10 +38,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 * **value\_if\_true:** The action to perform if the condition is met, or is true.
 * **value\_if\_false:** The action to perform if the condition is not met, or is false.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ###  Comparison Operators to Use with Logical Functions
 
  When performing the logical test with cell values, you need to be familiar with the comparison operators. You can see a breakdown of these in the table below.
@@ -45,6 +45,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Comparison operators for logical functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/comparison-operators.png) 
 
  Now let's look at some examples of it in action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  IF Function Example 1: Text Values
 
@@ -59,8 +63,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Although the IF function is not case sensitive, the text must be an exact match.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  IF Function Example 2: Numeric Values
 
  The IF function is also great for comparing numeric values.
@@ -71,10 +76,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![If condition with numeric values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/if-example-numbers-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  The IF function is a lot more than just displaying different text on the result of a test. We can also use it to run different calculations.
 
  In this example, we want to give a 10% discount if the customer spends a certain amount of money. We will use £3,000 as an example.
@@ -87,6 +88,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  What's important is that you can use any formula in the `value_if_true` or `value_if_false` sections. And running different formulas dependent upon the values of other cells is a very powerful skill to have.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  IF Function Example 3: Date Values
 
  In this third example, we use the IF function to track a list of due dates. We want to display the word "Overdue" if the date in column B is in the past. But if the date is in the future, calculate the number of days until the due date.
@@ -98,11 +103,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![Testing if dates are due](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/due-dates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ###  What are Nested IF Formulas?
 
  You may have heard of the term nested IFs before. This means that we can write an IF function within another IF function. We may want to do this if we have more than two actions to perform.
@@ -115,18 +118,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![nested-ifs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/nested-ifs-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We have now extended our formula to beyond what just one IF function can do. And you can nest more IF functions if necessary.
 
  Notice the two closing brackets on the end of the formula---one for each IF function.
 
  There are alternative formulas that can be cleaner than this nested IF approach. One very useful alternative is [the SWITCH function in Excel](https://support.office.com/en-us/article/switch-function-47ab33c0-28ce-4530-8a45-d532ec4aa25e).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ##  The AND and OR Logical Functions
 
  The AND and OR functions are used when you want to perform more than one comparison in your formula. The IF function alone can only handle one condition, or comparison.
@@ -145,9 +142,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Let's see an example of both of them evaluating two conditions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  AND Function example
 
  The AND function is used below to test if the customer spends at least £3,000 and has been a customer for at least three years.
@@ -156,11 +150,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![AND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/and-function.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can see that it returns FALSE for Matt and Terry because although they both meet one of the criteria, they need to meet both with the AND function.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  OR Function Example
 
  The OR function is used below to test if the customer spends at least £3,000 or has been a customer for at least three years.
@@ -170,6 +169,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![The OR logical function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/or-function.png) 
 
  In this example, the formula returns TRUE for Matt and Terry. Only Julie and Gillian fail both conditions and return the value of FALSE.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Using AND and OR with the IF Function
 
@@ -183,12 +186,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Excel formula with IF and AND functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/if-and-and.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ##  The XOR Function
 
  In addition to the OR function, there is also an exclusive OR function. This is called the XOR function. The XOR function was introduced with the Excel 2013 version.
@@ -222,6 +219,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 =IF(XOR(B2>=3000,C2>=3000),"Yes","No")
 
 ![The XOR Function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/xor.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The NOT Function
 
@@ -263,9 +264,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![NOT function example 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/not-function2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Mastering logical functions will give you a big advantage as an Excel user. To be able to test and compare values in cells and perform different actions based on those results is very useful.
 
 ---
@@ -278,8 +276,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,4 +283,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-your-digital-signature-to-a-docx-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Add Your Digital Signature to a .docx Document</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-overcome-hal-initialization-errors-and-get-your-pc-running-smoothly-again/"><u>How to Overcome HAL Initialization Errors and Get Your PC Running Smoothly Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-muted-audibility-with-effortless-fading-in-lumafusion/"><u>In 2024, Achieving Muted Audibility with Effortless Fading in Lumafusion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-v30t-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme V30T to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-pinnacle-studio-for-mac-top-competitors-and-options-for-2024/"><u>New Pinnacle Studio for Mac Top Competitors and Options for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-setup-of-intel-hdgraphics-520/"><u>Quick Setup of Intel HDGraphics 520</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transferring-picture-memories-how-to-shift-google-photos-to-icloud/"><u>Transferring Picture Memories: How to Shift Google Photos to iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-how-to-troubleshoot-video-issues-in-your-android-device/"><u>Ultimate Guide: How to Troubleshoot Video Issues in Your Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-step-by-step-tutorial-cropping-footage-with-davinci-resolve/"><u>Ultimate Step-by-Step Tutorial: Cropping Footage with DaVinci Resolve</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-techniques-for-securely-managing-digital-copies-of-dvds-and-cds-rip-burn-and-duplicate/"><u>Ultimate Techniques for Securely Managing Digital Copies of DVDs and CDs - Rip, Burn, and Duplicate</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-leaked-clip-insights-and-teasers-for-the-affordable-next-generation-iphone/"><u>Uncovering Leaked Clip Insights & Teasers for the Affordable Next Generation iPhone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-pls-files-a-comprehensive-guide-on-opening-and-conversion/"><u>Understanding PLS Files: A Comprehensive Guide on Opening & Conversion</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-5-free-online-tone-generators/"><u>Updated The Ultimate List 5 Free Online Tone Generators</u></a></li>
+<li><a href="https://win11.techidaily.com/video/"><u>Videoダウンロードハンドラーの効果的な利用法を学ぶ</u></a></li>
+<li><a href="https://win11.techidaily.com/watch-youre-next-a-top-recommendation-for-fans-seeking-a-thrilling-horror-experience/"><u>Watch 'You're Next': A Top Recommendation for Fans Seeking a Thrilling Horror Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11stereo-mix/"><u>Windows 11でStereo Mixによる単音声録音手法</u></a></li>
+<li><a href="https://win11.techidaily.com/wonderfox-navigation-error-why-you-cant-find-the-content-anymore-new-link-text/"><u>WonderFox Navigation Error: Why You Can’t Find the Content Anymore – New Link Text</u></a></li>
+</ul></div>
 

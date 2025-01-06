@@ -1,7 +1,7 @@
 ---
 title: Mastering Microsoft's Filter Key Functionality
-date: 2024-08-23T06:07:04.360Z
-updated: 2024-08-24T06:07:04.360Z
+date: 2024-12-30T20:27:38.230Z
+updated: 2025-01-06T18:26:25.673Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,13 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 ![Turn Filter Keys On or Off via the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Enable or Disable Filter Keys Using the Control Panel
 
  Although Microsoft plans to retire Control Panel at some point in the future, you can use it to configure most of the settings on your Windows computer for now.
@@ -65,11 +69,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Turn Filter Keys On or Off via the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## 4\. How to Enable or Disable Filter Keys From the Sign-In Screen
 
  Both Windows 10 and 11 offer the convenience of managing accessibility settings from the sign-in screen. If you are looking to enable or disable Filter Keys from the sign-in screen, use these steps:
@@ -79,27 +81,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Turn Filter Keys On or Off via the Sign-in Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-filter-keys-on-or-off-via-the-sign-in-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Similarly, you can also enable or disable Sticky Keys from the sign-in screen. For more information on this, check our guide on[different ways to turn Sticky Keys on or off on Windows 11](https://www.makeuseof.com/windows-11-sticky-keys-on-off/) .
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Enabling or Disabling Filter Keys on Windows Is Easy
 
  As we just saw, enabling or disabling Filter Keys on your Windows 10 or 11 computer should be a quick process, regardless of the method you use.
 
  Filter Keys isn’t the only accessibility feature available in Windows. If you need some extra help using your computer, there are plenty of useful accessibility options on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +109,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-mobile-experience-apple-android-and-youtube-for-2024/"><u>[New] The Ultimate Mobile Experience Apple, Android and YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-asus-mg28uqs-crystal-clear-display-for-2024/"><u>[Updated] The Ultimate Guide to ASUS MG28UQ's Crystal Clear Display for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-how-to-banish-windows-temp-files-for-good/"><u>Discover How to Banish Windows Temp Files for Good</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-x50iplus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor X50i+ Phone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-rectify-server-stumbled-issues-on-windows/"><u>Efficient Methods to Rectify Server Stumbled Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/excellence-in-design-best-windows-laptops-for-24/"><u>Excellence in Design: Best Windows Laptops for '24</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-definitive-searches-in-windows-11/"><u>Instant Definitive Searches in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/making-windows-1011-notifications-directly-available-in-right-click/"><u>Making Windows 10/11 Notifications Directly Available in Right-Click</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-nddrive-mapping-in-win11/"><u>Mastering NDDrive Mapping in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-resuming-lost-remote-access-in-windows/"><u>Strategies for Resuming Lost Remote Access in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-screen-saver-duration-on-windows/"><u>Tailoring Screen Saver Duration on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dangers-of-ai-writing-and-how-to-spot-ai-generated-text/"><u>The Dangers of AI Writing and How to Spot AI-Generated Text</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-narzo-60-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme Narzo 60 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210563928-9781087954714-transcendence/"><u>Transcendence | Free Book</u></a></li>
+<li><a href="https://win-latest.techidaily.com/two-methods-of-installing-windows-11-on-a-new-ssd-cd-based-and-diskless-setup/"><u>Two Methods of Installing Windows 11 on a New SSD: CD-Based and Diskless Setup</u></a></li>
+</ul></div>
 

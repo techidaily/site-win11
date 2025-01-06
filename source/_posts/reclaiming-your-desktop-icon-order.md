@@ -1,7 +1,7 @@
 ---
 title: Reclaiming Your Desktop Icon Order
-date: 2024-08-23T06:11:05.328Z
-updated: 2024-08-24T06:11:05.328Z
+date: 2024-12-31T18:05:10.584Z
+updated: 2025-01-06T16:59:43.661Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  As such, let's explore both apps and find the one right for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Save and Restore Desktop Icon Layouts With DesktopOK
 
  DesktopOK is an old app for saving and restoring Windows desktop icon layouts that’s still actively supported. You can utilize this software on the Windows 11/10/8/7 platforms. Aside from enabling you to manually save desktop layouts, it includes options for automatically saving desktop layouts. This is how you can save and restore a desktop icon layout with DesktopOK:
@@ -37,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 4. Click **Save** to save a copy of your current Windows desktop icon layout.  
 ![The Save button in the DesktopOK winow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/desktopok-window.jpg)
 5. Next, click the **Punch the icons** option and **Yes** to scatter the icons across the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select your saved desktop icon layout and click **Restore** to return all the icons to their positions.
 
  DesktopOK will save your desktop icon layouts with default screen resolution titles. To enter a custom title for the saved desktop icon layout, select it in the DesktopOK window and click the ab| option. Then input a different title for the desktop icon layout. You can also erase saved layouts by selecting them in the window and clicking **Delete**.
@@ -44,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
  If you want the app to automatically save icon layouts on the desktop, you’ll need to enable that feature. Click **Options** \> **Auto-Save** to view a submenu with options for automatically saving layouts. Select **Use this feature** and a time interval option for saving the icon layouts.
 
 ![The Auto-Save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/auto-save-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Save and Restore Desktop Icon Layouts With Restore Desktop Icon Layouts
 
@@ -62,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 ![The Add to the Desktop Context Menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-context-menu-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can access that context menu by right-clicking on the desktop and selecting **Show more options** (in Windows 11) and **Desktop Icon Layout**. There are three **Save to Icon Layout** options you can select there. Click the corresponding **Restore Icon Layout** option on that submenu to restore its layout.
 
 ![The Desktop Icon Layout submenu on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/desktop-icon-layout-context-menu.jpg)
@@ -69,15 +86,14 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
  You can also create desktop shortcuts for saved desktop shortcuts with ReIcon. To do so, right-click the saved layout in the Restore Desktop Icon Layouts window and select **Create shortcut**. Then you’ll see a desktop shortcut for a saved icon layout you can double-click on to activate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore Icons’ Positions on the Windows Desktop With DesktopOK or ReIcon
 
  DesktopOK and ReIcon are both useful apps for saving and restoring desktop icons. They’re especially useful for restoring desktop icon layouts after playing Windows games that rearrange icons’ positions by applying resolution changes. Utilizing those apps will enable you to quickly sort out a messed-up desktop layout whenever needed.
 
  As such, let's explore both apps and find the one right for you.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,3 +101,27 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unlock-world-languages-find-the-top-14-video-translators-for-effortless-conversion/"><u>[New] Unlock World Languages Find the Top 14 Video Translators for Effortless Conversion</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ps1-reimagined-the-best-emulators-for-game-revival-on-pc/"><u>2024 Approved PS1 Reimagined The Best Emulators for Game Revival on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-your-youtube-presence-with-these-8-free-courses/"><u>Elevate Your YouTube Presence with These 8 Free Courses</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-forecasting-apps-for-the-modern-windows-user/"><u>Elite Forecasting Apps for the Modern Windows User</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-selection-of-far-reaching-routers-to-transform-your-network-experience/"><u>Elite Selection of Far-Reaching Routers to Transform Your Network Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-windows-11-app-accessibility/"><u>Fast-Track to Windows 11 App Accessibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-pc/"><u>Hitman 지금이 시작하기에 문제: PC분 해결 방식</u></a></li>
+<li><a href="https://win11.techidaily.com/icloud-setup-woes-fixes-for-windows-users-here/"><u>ICloud Setup Woes? Fixes for Windows Users Here</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-ways-to-bypass-tpm-on-windows-11/"><u>Innovative Ways to Bypass TPM on Windows 11</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/integration-abbyy-lance-a-paperstream-nx-pour-une-saisie-de-documents-flexible-et-efficace-avec-le-connecteur-flexicapture/"><u>Intégration ABBYY Lance À PaperStream NX Pour Une Saisie De Documents Flexible Et Efficace Avec Le Connecteur FlexiCapture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-storage-4-methods-for-accessing-windows-disk-manager/"><u>Maximizing Storage: 4 Methods for Accessing Windows Disk Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permission-based-save-errors-in-microsoft-os/"><u>Overcoming Permission-Based Save Errors in Microsoft OS</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-error-0x80073d26-on-windows-devices/"><u>Remedy for Error 0X80073D26 on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-os-maintenance-autoupdate-switch-amd-drivers/"><u>Seamless OS Maintenance: Autoupdate, Switch AMD Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-high-memory-usage-problem-in-edge-browser/"><u>Solving High-Memory Usage Problem in Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-access-using-powershell-commands/"><u>Streamlining File Access Using PowerShell Commands</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uncovering-the-magic-of-minecraft-an-inclusive-gaming-experience-for-players-of-all-ages/"><u>Uncovering the Magic of Minecraft: An Inclusive Gaming Experience for Players of All Ages</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-infinix-smart-8-hd-by-drfone-android/"><u>Universal Unlock Pattern for Infinix Smart 8 HD</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-honor-magic-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Honor Magic 5 Pro | Dr.fone</u></a></li>
+</ul></div>
+

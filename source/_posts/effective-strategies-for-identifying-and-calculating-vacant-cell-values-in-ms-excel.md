@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Identifying and Calculating Vacant Cell Values in MS Excel
-date: 2024-08-28T00:48:31.835Z
-updated: 2024-08-29T00:48:31.835Z
+date: 2025-01-05T19:22:08.366Z
+updated: 2025-01-06T16:24:42.556Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Effective Strategies for Identifying and Calculating Vacant Cell Values in MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +48,10 @@ Related: [How to Count Blank or Empty Cells in Google Sheets](https://video-capt
 
 ![Use the COUNTBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/COUNTBLANK-ExcelCountBlanks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also combine the COUNTBLANK function with itself to count the number of blank cells in different cell ranges of the same workbook. Type the following formula into the cell replacing the cell ranges with your own and press Enter.
 
 =COUNTBLANK(B2:F12)+COUNTBLANK(J2:N12)
@@ -60,10 +68,6 @@ Related: [How to Count Blank or Empty Cells in Google Sheets](https://video-capt
 
 Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-savvy.techidaily.com/1723808302722-effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Count Blank Cells Using the Find Feature
 
  If you would rather not keep [a formula](https://extra-resources.techidaily.com/2024-approved-crafting-visuals-in-ae-selecting-excellent-plugin-choices/) in your sheet, but merely see a quick count of blank cells, use the Find feature.
@@ -73,15 +77,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Click Find and Replace and pick Find](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/HomeFind-ExcelCountBlanks.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Find and Replace window opens, leave the Find What box blank. Then, click "Options" to expand the section at the bottom.
 
 ![Click Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FindReplaceOptions-ExcelCountBlanks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Adjust the three drop-down boxes on the left side to use the following:
 
 * **Within**: Sheet
@@ -91,22 +93,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Adjust the Find feature options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FindBlanks-ExcelCountBlanks.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're ready, click "Find All." You'll then see the number of cells found on the bottom left of the window.
 
 ![Blank cells found](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FindAllBlanks-ExcelCountBlanks.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll also see a list of those empty cells in your sheet. You can click one to go directly to it or click "Find Next" to move to each of the results in the list one at a time.
 
 ![Move to each blank cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FindNext-ExcelCountBlanks.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Close" when you finish.
 
  Counting blank or empty cells in your spreadsheet is easy to do. And if you want to make them stand out so you don't lose track of them, learn how to [highlight blanks in your Excel sheet](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/).
@@ -117,8 +118,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +125,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ultra-clear-gaming-best-21-hdmi-compatible-monitors-ps5/"><u>[New] In 2024, Ultra Clear Gaming Best 2.1 HDMI Compatible Monitors [PS5]</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030317707-dvdusb/"><u>「市販・レンタルDVDからUSBメモリーへのコピー方法：自動コピーガイド」</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030303703-windows-foto/"><u>「WINDOWS FOTOを使った簡単なビデオ編集手順」</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-audioscapevisumedia-network/"><u>2024 Approved Harmonizing Audioscape/Visumedia Network</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-of-microsoft-sculpt-keyboards-latest-drivers/"><u>Effortless Installation of Microsoft Sculpt Keyboard's Latest Drivers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cut-pro-elevating-your-youtube-edits-from-good-to-great/"><u>FinalCut Pro Elevating Your YouTube Edits From Good to Great</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029325694-iwara/"><u>Iwara動画ダウンロード＆セーブガイド: ステップバイステップ・プロセス</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/optimize-your-speeches-top-7-ai-assistants/"><u>Optimize Your Speeches: Top 7 AI Assistants</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-distribute-your-youtube-collection/"><u>Step-by-Step Guide Distribute Your YouTube Collection</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-top-free-flv-video-editors-for-windows-and-mac/"><u>Updated In 2024, Top Free FLV Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029778424-mkvmp3/"><u>ステップバイステップでMKVをMP3に直す方法：最新変換ツールと戦略</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030019491-dvd/"><u>ワンダーフォックス DVDビデオ変換機能で動画視聴手順</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transition Tactics: Replacing Older Software with Windows 11"
-date: 2024-08-23T06:07:01.192Z
-updated: 2024-08-24T06:07:01.192Z
+date: 2025-01-04T17:23:28.793Z
+updated: 2025-01-06T20:45:46.194Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 
  But what if you could eliminate the hours spent in finding and installing every single app, and configuring every setting? We will discuss two methods to effortlessly migrate most of your old apps to your new PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Microsoft Account
 
  If you used a Microsoft account on your old PC, Windows 11 offers multiple options to back up your App list, Preferences, and use OneDrive for personal files. To do that, you must enable [OneDrive](https://www.makeuseof.com/what-is-onedrive/)and back up all your personal files and folders to it. It will only take care of the files part but the apps and preferences are still left. But you must also enable the backup of these two things on your old PC before [reinstalling Windows 11](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) or migrating to a new PC.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 ![Backup Apps and Preferences to Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/backup-apps-and-preferences-to-microsoft-account.jpg)
 4. You will notice that the top section of the Windows backup page will mark each of these features as “**backed up**”.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you reinstall Windows 11, the OOBE page will ask you to [sign in with a Microsoft account](https://www.makeuseof.com/windows-switch-local-account-to-microsoft-account/). Enter your credentials, and you will see a “Welcome back, User!” message with an option to restore all apps, settings, and files present on your previous machine. Click on the **Next** button and proceed setup up your new PC
 
 ![Install Old Apps Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account.jpg)
@@ -43,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
  Microsoft Store will display all the remaining apps available for restoration. Click on the **Restore All** button if you want to bring back every app. Wait for the apps to install and then close Microsoft Store.
 
 ![Install Old Apps Using Microsoft Account 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-old-apps-using-microsoft-account-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Using a Winget JSON File
 
@@ -59,25 +75,20 @@ thumbnail: https://thmb.techidaily.com/e77b802386df347968174243d9eec6b1ff5aaa13a
 5. Patiently wait while winget downloads and installs all the packages in the JSON file one by one. Then, close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About Any Left Out Apps?
 
  Even after using both methods, some apps will still be left out. It is because Microsoft Account sign-in only brings back Windows settings and Microsoft Store apps. The winget export file can restore only the apps listed in its official repository.
 
  As such, you still need to download the programs that aren’t included in both of these methods. But it will be a very short list compared to the effort you would have to put in if you just performed a normal installation.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Time When Setting Up Windows 11
 
  Make sure to enable files, apps, and preferences backup on your PC and create a winget export file beforehand. After you have both these backups in place, you can begin reinstalling Windows 11 on a different PC or reinstalling on the same PC.
 
  But what if you could eliminate the hours spent in finding and installing every single app, and configuring every setting? We will discuss two methods to effortlessly migrate most of your old apps to your new PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -85,3 +96,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>[New] 2024 Approved Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-cutting-edge-strategies-for-iptv-capture-success-for-2024/"><u>[New] Cutting-Edge Strategies for IPTV Capture Success for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-verdict-on-vllo-performance/"><u>[Updated] 2024 Approved The Verdict on VLLO Performance</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-peeking-into-pixel-performance-a-complete-guide-to-measuring-views-and-income-on-youtube/"><u>[Updated] Peeking Into Pixel Performance A Complete Guide to Measuring Views and Income on YouTube</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/effortless-conversion-guide-turn-your-camcorder-videos-into-mp4-for-seamless-playback/"><u>Effortless Conversion Guide: Turn Your Camcorder Videos Into MP4 for Seamless Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-ditch-input-lag-top-fixes-for-faster-typing-on-microsoft-os/"><u>How to Ditch Input Lag: Top Fixes for Faster Typing on Microsoft OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-narzo-n55-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme Narzo N55 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-microsoft-store-themes-a-step-by-step-approach/"><u>Implementing Microsoft Store Themes: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-on-ignoring-notifications-risks-of-silencing-wins-11/"><u>Insights on Ignoring Notifications: Risks of Silencing Wins 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-ms-paint-windows-11s-toolbox/"><u>Navigating to MS Paint, Windows 11'S Toolbox</u></a></li>
+<li><a href="https://win11.techidaily.com/open-local-group-policy-quick-and-secure-methods-on-win11/"><u>Open Local Group Policy: Quick and Secure Methods on Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-fix-guide-for-defective-zip-extractions-in-windows-11/"><u>Quick-Fix Guide for Defective ZIP Extractions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-winerror-0xc0000005-in-windows-systems/"><u>Resolving WinError 0Xc0000005 in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-shift-of-heic-photos-to-jpeg-format/"><u>Seamless Shift of HEIC Photos to JPEG Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-shadowplay-fixing-non-recording-issues-in-windows/"><u>Troubleshooting Shadowplay: Fixing Non-Recording Issues in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-amazons-budget-friendly-unlimited-grocery-delivery-is-it-a-game-changer/"><u>Unveiling Amazon's Budget-Friendly Unlimited Grocery Delivery - Is It a Game Changer?</u></a></li>
+</ul></div>
+

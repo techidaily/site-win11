@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula"
-date: 2024-08-28T00:48:01.939Z
-updated: 2024-08-29T00:48:01.939Z
+date: 2025-01-03T17:44:31.810Z
+updated: 2025-01-06T18:49:58.801Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 ## Mastering Microsoft Excel: A Complete Guide to Utilizing the FV Formula
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The FV Function in Excel](https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-g24-power-to-your-pcmac-drfone-by-drfone-android/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
  If you use Microsoft Excel for keeping track of your money, you might use it for [calculating loan amounts](https://article-tips.techidaily.com/2024-approved-deciphering-the-world-of-augmented-reality-stickers-googles-role/) or [budgeting your finances](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/). To go along with these, you might track your investments too, which means using the FV function.
 
  In Excel, the FV function calculates the future value of an investment. With just a few pieces of data, you can obtain this amount to easier work toward your goal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The FV Function in Excel
 
@@ -35,8 +43,9 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
  To determine the future [value of your investment](https://screen-recording.techidaily.com/2024-approved-ultimate-guide-cost-effective-pc-screen-recording-apps/), make sure you have the annual interest rate, the total number of payments, and the payment amount each period.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use the FV Function
 
  As an example, we have our rate in cell B2, number of payments in cell B3, and payment amount in cell B4\. Note that you must enter the payment amount as a negative number when using the FV function.
@@ -44,17 +53,15 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 ![Investment data in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/InvestmentData-ExcelFVFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the cell to display the result. This is where you'll enter the formula for the function. To find the future value of our investment with the data you see, you'd use the following formula:
 
 =FV(B2/12,B3,B4)
 
 ![FV function formula with required arguments only](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaRequiredArguments-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The interest rate is divided by 12 because it's an annual interest rate.
 
  Easy, right? Now let's add in those optional arguments. Here, we'll add a `pv` (present value) of 100 which must also be a negative number. You can use either the value or a cell reference in the formula.
@@ -63,9 +70,6 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 
 ![FV function formula with present value argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaPVArgument-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, let's add a 1 for the last optional argument of `type` to indicate payments are due at the beginning of the period. Again, you can enter the value or use a cell reference in the formula:
 
 =FV(B2/12,B3,B4,-100,1)
@@ -73,17 +77,15 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
 ![FV function formula with all arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaAllArguments-ExcelFVFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to use the `type` argument without the `pv` argument, you can do this by entering nothing between the commas inside the formula as:
 
 =FV(B2/12,B3,B4,,1)
 
 ![FV function formula with type argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FormulaTypeArgument-ExcelFVFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you want to find out how much your investment is worth in the end, the FV function in Excel comes through. For additional help with your finances, take a look at [how to use Microsoft's Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -98,8 +100,6 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +107,22 @@ Related: [How to Use the Built-In Stocks Feature in Microsoft Excel](https://scr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/outube-shorts-earning-strategies-crucial-elements-possible-returns-for-2024/"><u>[New] Youtube Shorts Earning Strategies Crucial Elements, Possible Returns for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-delving-into-the-realm-of-yis-action-video-potential/"><u>[Updated] 2024 Approved Delving Into the Realm of Yi's Action Video Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/aacm4a/"><u>音声ファイルの変換:AACとM4Aを比べて、最適な無劣化方法は何ですか？</u></a></li>
+<li><a href="https://win11.techidaily.com/best-split-screen-video-software-discover-the-5-most-user-friendly-options-for-making-split-videos-with-ease/"><u>Best Split Screen Video Software: Discover the 5 Most User-Friendly Options for Making Split Videos with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/best-video-format-changer-app-for-ps4-easy-steps-to-enjoy-any-content/"><u>Best Video Format Changer App for PS4: Easy Steps to Enjoy Any Content!</u></a></li>
+<li><a href="https://win11.techidaily.com/complete-tutorial-on-restoring-damaged-mkv-movie-files/"><u>Complete Tutorial on Restoring Damaged MKV Movie Files</u></a></li>
+<li><a href="https://win11.techidaily.com/daznpc/"><u>DAZN映像取得・保管手順に関するPCユーザ向けの詳細マニュアル</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-top-10-no-cost-image-repositories-with-extensive-high-end-visual-archives/"><u>Discover the Ultimate Selection: Top 10 No-Cost Image Repositories with Extensive, High-End Visual Archives</u></a></li>
+<li><a href="https://win11.techidaily.com/duplicate-dvds-easily-using-1click-dvd-copy-plus-top-alternatives-revealed/"><u>Duplicate DVDs Easily Using 1Click DVD Copy - Plus Top Alternatives Revealed!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-google-pixelbook-go-exceptional-chrome-os-experience-with-high-cost/"><u>Expert Analysis of the Google Pixelbook Go: Exceptional Chrome OS Experience with High Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-0-to-million-views-the-ultimate-content-blueprint-for-2024/"><u>From 0 to Million Views The Ultimate Content Blueprint for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-iphones-high-dynamic-range-photography/"><u>In 2024, Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigating-through-premade-gaming-pcs-which-one-fits-your-needs/"><u>Navigating Through Premade Gaming PCs - Which One Fits Your Needs?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-footage-to-film-mastering-video-editing-with-windows-movie-maker-for-2024/"><u>New From Footage to Film Mastering Video Editing with Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/optimal-pc-functioning-understanding-the-impact-of-random-access-memory-in-boosting-performance/"><u>Optimal PC Functioning: Understanding the Impact of Random-Access Memory in Boosting Performance</u></a></li>
+</ul></div>
 

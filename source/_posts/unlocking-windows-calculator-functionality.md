@@ -1,7 +1,7 @@
 ---
 title: Unlocking Window's Calculator Functionality
-date: 2024-12-24T21:18:26.474Z
-updated: 2024-12-27T16:29:14.759Z
+date: 2025-01-05T16:54:55.579Z
+updated: 2025-01-06T16:15:29.096Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Calculator Through Windows Search Tool
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 2. Click on the Calculator shortcut that appears in the search results.
 
  After opening the Calculator, you can begin using it to perform basic math operations. If you need more advanced features, such as scientific or programmer modes, click the navigation button in the top left corner and select the desired mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Open Calculator Via Run Command
 
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 
 1. Open Windows File Explorer (see[how to open the Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) ).
 2. In the address bar, type "calc" and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Calculator Using Command Prompt
 
@@ -84,6 +84,10 @@ To open Calculator using Windows PowerShell, follow these steps:
 ![Open Calculator Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-windows-powershell.jpg)
 4. This command will cause the Calculator application to open quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. How to Open Calculator Through Task Manager
 
  Task Manager has been a part of the Windows operating system since its inception. It manages the performance of your computer as well as opens different applications.
@@ -96,7 +100,7 @@ To open the Calculator application on Windows 11, use these steps:
 3. Type “calc” into the text box and click**OK** to open the Calculator.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Calculator From Start Menu
@@ -108,11 +112,11 @@ To open the Calculator application on Windows 11, use these steps:
 ![Open Calculator Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-start-menu.jpg)
 3. Once you find it, click on it and a pop-up window will appear with all its features.
 
-You are now ready to start performing calculations!
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+You are now ready to start performing calculations!
 
 ## 8\. How to Open Calculator With Desktop Shortcut
 
@@ -129,6 +133,10 @@ You are now ready to start performing calculations!
 5. You will see a shortcut icon appear on the desktop of your computer.
 6. Double-click it to open the Calculator application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. How to Open Calculator Using Keyboard Shortcut
 
  If you prefer using keyboard shortcuts, you'll be happy to know that you can create a shortcut key for opening the Calculator in Windows 11\. Here's how to do this in Windows 11:
@@ -140,16 +148,12 @@ You are now ready to start performing calculations!
 ![Open Calculator Using Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-calculator-using-batch-file.jpg)
 3. In the Shortcut field, type any letter or number you like.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Apply > OK** to save your selections.
 
  To open Calculator using the shortcut key, hold down**Ctrl + Alt** and then type the letter or number. For example, if you select**D** as a shortcut letter, you will have to press**Ctrl + Alt + D** on your keyboard to open the Calculator application on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. How to Pin the Calculator to the Taskbar
@@ -162,10 +166,6 @@ To do this, follow these steps:
 2. Right-click on the result that appears and select**Pin to taskbar** .
 
  From now on, you can simply click on the Calculator icon on your taskbar to start performing calculations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You’re Now Ready To Use the Calculator on Windows 11
 
@@ -186,16 +186,19 @@ To do this, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-direct-from-twitter-posting-engaging-video-content-on-snapchat/"><u>[New] Direct From Twitter Posting Engaging Video Content on Snapchat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-splicing-sounds-to-videos-on-w11-desktop/"><u>[Updated] Splicing Sounds to Videos on W11 Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/customizing-win11s-systray-with-caps-lock-and-num-key-icons/"><u>Customizing Win11's SysTray with Caps Lock & Num Key Icons</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-elegance-and-innovation-unveiling-our-thoughtful-review-of-the-latest-lg-watch-style-with-wear-os-20/"><u>Discovering Elegance and Innovation: Unveiling Our Thoughtful Review of the Latest LG Watch Style with Wear OS 2.0</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-clearer-captures-await-with-next-gen-tracker-tech/"><u>In 2024, Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-color-mastery-simple-steps-in-photoshop/"><u>In 2024, Color Mastery Simple Steps in Photoshop</u></a></li>
-<li><a href="https://win11.techidaily.com/stream-gaming-secrets-integrating-intelligence-with-intel/"><u>Stream Gaming Secrets: Integrating Intelligence with Intel</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-background-services-on-windows/"><u>Streamlining Background Services on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-mastering-github-desktop-for-windows-based-developers/"><u>Tutorial: Mastering GitHub Desktop for Windows-Based Developers</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 40 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/win-operating-system-customize-how-you-handle-file-deletions/"><u>Win Operating System: Customize How You Handle File Deletions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-confirmation-procedures-for-youtube-users/"><u>[New] In 2024, Confirmation Procedures for YouTube Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>2024 Approved GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-lightning-fast-windows-photo-inspector/"><u>2024 Approved Lightning-Fast Windows Photo Inspector</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-new-photography-these-are-your-cams-in-24/"><u>2024 Approved New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-xiaomi-redmi-13c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-safely-how-to-append-trusted-domains-on-windows-11/"><u>Navigate Safely: How to Append Trusted Domains on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-optional-components-in-windows-11-a-step-by-step-approach/"><u>Optimizing Optional Components in Windows 11: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-integrating-airpods-with-windows-computers/"><u>Quick Start: Integrating AirPods With Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-invisible-windows-your-guide-to-regaining-lost-panes-in-windows/"><u>Revitalize Invisible Windows: Your Guide to Regaining Lost Panes in Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-guide-to-creating-popular-youtube-openings-for-2024/"><u>Step-by-Step Guide to Creating Popular YouTube Openings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reclaim-lost-files-in-windows-environment/"><u>Strategies to Reclaim Lost Files in Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-prime-day-2024-over-35-exceptional-tablet-deals-still-available-zdnets-complete-guide/"><u>Unmissable Prime Day 2024: Over 35 Exceptional Tablet Deals Still Available - ZDNET's Complete Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win-fix-guide-override-firewallantivirus-prohibiting-chrome-access/"><u>Win Fix Guide: Override Firewall/Antivirus Prohibiting Chrome Access</u></a></li>
 </ul></div>
 

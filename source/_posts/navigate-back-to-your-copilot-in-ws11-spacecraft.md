@@ -1,7 +1,7 @@
 ---
 title: Navigate Back to Your Copilot in WS11 Spacecraft
-date: 2024-08-23T06:10:47.062Z
-updated: 2024-08-24T06:10:47.062Z
+date: 2025-01-04T18:40:10.146Z
+updated: 2025-01-06T18:16:23.411Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  If you go by what Microsoft says, Copilot is the future of Windows. But what if you want to try it but can’t find it? We’ve got some tricks to try if Copilot is missing on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where is Copilot?
 
  If Copilot is properly installed on Windows 11, you should be able to find the icon in the very **bottom-left corner of your screen**. Click the button here and the Copilot side panel will pop up.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  On some versions of Windows, depending on which build you’re currently running, simply mousing over the Copilot icon activates it. Otherwise, you simply need to click or tap the button to get started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Need a Microsoft Account for Copilot
 
@@ -37,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  You may have other reasons for not using a Microsoft account with Windows 11, but regardless of your reasons, Copilot will simply not work without a Microsoft account.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Have You Updated Windows?
 
  Copilot may also be slow to roll out to your computer if you don’t have automatic updates enabled. To resolve this issue, either turn on automatic updates or simply check for updates manually.
@@ -48,13 +57,15 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![Updating Windows 11 in search of Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/updating-windows-11-in-search-of-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If any updates are available, choose to install them. After a restart, hopefully you’ll find Copilot is not present on your Windows 11 installation.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## You'll Need Some Patience
 
  If you’re looking to try newer Copilot features right away, you’ll need to run an [Insider build of Windows 11](https://www.makeuseof.com/windows-11-insider-program-join/). These are handy for trying out new features, but they do increase the possibility of instability on your computer.
@@ -67,11 +78,27 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
  If you go by what Microsoft says, Copilot is the future of Windows. But what if you want to try it but can’t find it? We’ve got some tricks to try if Copilot is missing on Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-boost-your-earnings-on-youtube-shorts-a-guide-for-2024/"><u>[Updated] Boost Your Earnings on YouTube Shorts A Guide for 2024</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/activating-windows-defender-a-step-by-step-guide-tips-from-yl-computing-experts/"><u>Activating Windows Defender: A Step-by-Step Guide - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://driver-error.techidaily.com/audio-mastered-on-quality-hub-hd/"><u>Audio Mastered on Quality Hub (HD)</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-storing-custom-sound-levels-effectively/"><u>Methods for Storing Custom Sound Levels Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-nuances-of-window-11-widget-installation/"><u>Navigating Through the Nuances of Window 11 Widget Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/secret-scrolls-of-system-files-unveil-the-steps/"><u>Secret Scrolls of System Files: Unveil the Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-windows-install-on-steam-deck/"><u>Step-by-Step Windows Install on Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-journey-to-w11s-printer-tools-max-50-chars/"><u>Streamline Your Journey to W11’s Printer Tools (Max 50 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-of-progress-windows-beyond-11/"><u>The Pinnacle of Progress: Windows Beyond 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-13-mini-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 13 mini Making It Possible</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unmatched-performance-in-your-lap-how-the-new-ipad-pro-2021-m1-redefines-productivity/"><u>Unmatched Performance in Your Lap: How the New iPad Pro (2021, M1) Redefines Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-elon-musks-secret-project-a-deep-dive-into-the-mysterious-truthgpt/"><u>Unveiling Elon Musk's Secret Project: A Deep Dive Into the Mysterious TruthGPT</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-ultimate-resource-for-catching-spider-man-no-way-home-through-streaming-services/"><u>Your Ultimate Resource for Catching 'Spider-Man: No Way Home' Through Streaming Services</u></a></li>
+</ul></div>
+

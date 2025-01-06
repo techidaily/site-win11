@@ -1,7 +1,7 @@
 ---
 title: "Rapid Text Entry: TypingAid for Speed Enthusiasts"
-date: 2024-12-24T22:21:05.487Z
-updated: 2024-12-27T20:58:03.506Z
+date: 2025-01-03T19:50:49.352Z
+updated: 2025-01-06T16:44:35.751Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is TypingAid for Windows?
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
  What's best is that TypingAid "learns" new words and adds them to its database after you type them X times (the number is configurable). Thus, the more you use it, the better it becomes at recommending terms you use based on your vocabulary and writing style.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Download & Install TypingAid
 
  Download the script/app from[TypingAid's official Github page](https://github.com/ManiacDC/TypingAid) . By default, it comes in a compressed archive. Extract it in any folder you like, and run the executable among the rest of the files to use TypingAid.
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![TypingAid GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-github-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note that TypingAid is also available in its original AutoHotkey script format. If you download this version, you'll also need to have AutoHotkey installed to use it. You'll find that at[AutoHotkey's official site](https://www.AutoHotkey.com/) .
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
 ![TypingAid Exe and AHK Versions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-exe-and-ahk-versions.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can empower TypingAid to offer suggestions from the get-go instead of waiting for it to populate its database from scratch with the words you're writing. For that, though, you'll need a wordlist.
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 Then, run TypingAid.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Configure TypingAid
@@ -87,7 +87,15 @@ Then, run TypingAid.
 
 ![TypingAid Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Let's see the essential settings worth tweaking in TypingAid.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. General Settings
 
@@ -108,10 +116,6 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
 * **Show wordlist after X characters** defines how many characters you'll have to type for TypingAid to start showing suggestions.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
@@ -127,21 +131,17 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 ![TypingAid Settings Programs Selecting an App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs-selecting-an-app.jpg)
 
- It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It's easy to include or exclude any app or window by clicking on**Edit** next to the appropriate enabled or disabled field, and selecting one of the active windows from the pull-down menu, or typing its name yourself.
 
 ### 4\. Advanced
 
  We suggest you skip this section, except for the rare case where you want to customize TypingAid's**Terminating Characters** . If that term sounds alien, that's precisely why most people won't have to tweak anything here!
 
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
 
@@ -180,17 +180,22 @@ Let's see the essential settings worth tweaking in TypingAid.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>[Updated] Light Up Your Feed Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unleash-your-potential-top-8-tablets-for-stellar-photo-editing-for-2024/"><u>[Updated] Unleash Your Potential Top 8 Tablets For Stellar Photo Editing for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-5-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-windows-webcam-written-as-how-to-fix-your-webcam-showing-a-black-screen-on-windows/"><u>Correcting Windows Webcam' Written as How to FIX Your WebCam Showing a BLACK SCREEN on WINDOWS</u></a></li>
-<li><a href="https://win11.techidaily.com/first-timers-guide-to-navigating-windows-tools/"><u>First Timer's Guide to Navigating Windows Tools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-motorola-g24-power-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Motorola G24 Power</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-editors-playbook-for-social-media-stardom/"><u>In 2024, The Editor's Playbook for Social Media Stardom</u></a></li>
-<li><a href="https://win11.techidaily.com/rejuvenating-your-system-replacing-outdated-windows-cards/"><u>Rejuvenating Your System: Replacing Outdated Windows Cards</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-copypaste-errors-on-windows-11-pcs/"><u>Resolving Copy/Paste Errors on Windows 11 PCs</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-best-20-words-for-marketing-success-for-2024/"><u>The Best 20 Words for Marketing Success for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-a-smartwatch-in-depth-fitbit-versa-lite-evaluation-at-unbeatable-prices/"><u>Unveiling the Power of a Smartwatch: In-Depth Fitbit Versa Lite Evaluation at Unbeatable Prices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-premium-giggle-and-graphics-editor/"><u>[Updated] 2024 Approved Premium Giggle & Graphics Editor</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-loop-creating-impactful-content-for-instagram/"><u>[Updated] In 2024, Mastering the Art of Loop Creating Impactful Content for Instagram</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vcs-vision-recorder-check-detailed-scrutiny/"><u>2024 Approved VCS Vision Recorder Check Detailed Scrutiny</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-winning-scenarios-prime-video-recording-software-for-windows/"><u>2024 Approved Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78plus-t1-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78+ (T1) Edition to Roku | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enliven-your-windows-11-desktop-live-wallpaper-tutorial/"><u>Enliven Your Windows 11 Desktop: Live Wallpaper Tutorial</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/glassify-privacy-webcam-panel-for-2024/"><u>Glassify Privacy Webcam Panel for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-14-ultrawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 14 Ultrawith/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/hotkey-hacks-reducing-clutter-with-system-tray-integration/"><u>Hotkey Hacks: Reducing Clutter with System Tray Integration</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-rectify-windows-11-unwritable-files-issue/"><u>Methods to Rectify Windows 11: Unwritable Files Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-the-uncharted-territory-of-windows-reliability-and-performance/"><u>Probing the Uncharted Territory of Windows' Reliability & Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/protective-measures-against-unauthorized-insiders/"><u>Protective Measures Against Unauthorized Insiders</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-memory-write-errors/"><u>Resolving Windows Memory Write Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-transitioning-techniques-in-and-out-of-window-terminals-attention-spotlight/"><u>Swift Transitioning Techniques: In & Out of Window Terminal's Attention Spotlight</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-intel-drivers-for-rapid-storage-tech-secure-download-and-enhanced-performance/"><u>Updated Intel Drivers for Rapid Storage Tech – Secure Download & Enhanced Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-gameplay-8-steps-to-better-frames/"><u>Upgrade Your Gameplay: 8 Steps to Better Frames</u></a></li>
 </ul></div>
 

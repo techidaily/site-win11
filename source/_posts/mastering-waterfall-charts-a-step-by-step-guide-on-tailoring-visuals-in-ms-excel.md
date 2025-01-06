@@ -1,7 +1,7 @@
 ---
 title: "Mastering Waterfall Charts: A Step-by-Step Guide on Tailoring Visuals in MS Excel"
-date: 2024-08-28T00:49:26.055Z
-updated: 2024-08-29T00:49:26.055Z
+date: 2025-01-02T16:47:30.287Z
+updated: 2025-01-06T21:00:41.537Z
 tags:
   - excel
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 
 Related: [How to Automatically Generate Charts in Google Sheets](https://fox-direct.techidaily.com/2024-approved-visual-storytelling-through-photomosaics/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Waterfall Chart in Excel
 
  If you have data that would fit perfectly into a waterfall chart for a useful visual, let's get right to it! For this tutorial, we'll use a checking account as an example.
@@ -42,20 +46,22 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![On the Insert tab, click Waterfall and select Waterfall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertChartWaterfall-ExcelWaterfall.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The waterfall chart will pop into your spreadsheet.
 
 ![Waterfall chart inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertedWaterfallChart-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, you might notice that the starting and ending totals don't match with the numbers on the vertical axis and aren't colored as Total per the legend. Not to worry---this is a simple fix!
 
 ![Waterfall chart with no totals](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/WaterfallChartNoTotals-ExcelWaterfall.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel recognizes those starting and ending amounts as parts of the series (positives and negatives) rather than totals.
 
  To fix this, double-click the chart to display the Format sidebar. Select the bar for the total by clicking it twice. Click the Series Options tab in the sidebar and expand Series Options if necessary.
@@ -82,30 +88,26 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
 
 ![Open the Format Chart Area sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatChartArea-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Select the chart and use the buttons on the right (Excel on Windows) to adjust [Chart Elements like labels](https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/) and the legend, or Chart Styles to pick a theme or color scheme.
 
 ![Adjust the Chart Elements](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartElements-ExcelWaterfall.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the chart and go to the Chart Design tab. Then, use the tools in the ribbon to select a different layout, change the colors, pick a new style, or adjust your data selection.
 
 ![Click the Chart Design tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartDesignTab-ExcelWaterfall.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also move your chart to a new spot on your sheet by simply dragging it. And, to resize your chart, drag inward or outward from a corner or edge.
 
 ![Drag a corner or edge to resize the chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ResizeChart-ExcelWaterfall.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For help with other chart types, take a look at how to [make a bar chart in Excel](https://extra-support.techidaily.com/updated-premium-psd-aesthetic-optimization/) or [create a combo chart](https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/).
 
 <ins class="adsbygoogle"
@@ -114,8 +116,6 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,26 @@ Related: [How to Automatically Generate Charts in Google Sheets](https://fox-dir
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-flawlessly-merge-streamlabs-and-obs-on-mac/"><u>[Updated] How to Flawlessly Merge Streamlabs & OBS on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-visualsnap-win11-instant-desktop-capture-and-save-for-2024/"><u>[Updated] VisualSnap Win11 Instant Desktop Capture & Save for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-expert-iphone-macro-photography-tips-and-tricks/"><u>2024 Approved Expert iPhone Macro Photography Tips and Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-gratuita-da-mxf-a-mpeg-online-con-movavi-scopri-come/"><u>Conversione Gratuita Da MXF a MPEG Online Con Movavi - Scopri Come!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/duel-for-dominance-physical-vs-virtual-spectacle/"><u>Duel for Dominance Physical vs Virtual Spectacle</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-write-access-for-files-on-windows-1011/"><u>Enabling Write Access for Files on Windows 10/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpegs-audio-recapture-challenge-for-2024/"><u>FFmpeg's Audio Recapture Challenge for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-it-faster-6-proven-windows-techniques-for-restoring-your-internet-connections/"><u>Fix It Faster: 6 Proven Windows Techniques for Restoring Your Internet Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-avoid-automatic-bios-mode-at-windows-start-up/"><u>Guide to Avoid Automatic BIOS Mode at Windows Start-Up</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c55-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C55 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-for-windows-activation-error-0x8007251d/"><u>Mastering the Fix for Windows Activation Error 0X8007251D</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-steams-e84-error/"><u>Navigating the Maze of Steam's E84 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blank-screen-glitch-in-windows-os/"><u>Overcoming Blank Screen Glitch in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-volume-regulation-failure-in-win-1011/"><u>Overcoming Volume Regulation Failure in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-control-tackling-scheduler-malfunctions/"><u>Reclaim Control: Tackling Scheduler Malfunctions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/tecno-spark-20c-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Spark 20C ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/three-column-widget-configuration-in-modern-windows-11/"><u>Three Column Widget Configuration in Modern Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-getting-counter-strike-2-to-start-without-glitches/"><u>Unlock the Secrets: Getting Counter-Strike 2 to Start Without Glitches</u></a></li>
+</ul></div>
 

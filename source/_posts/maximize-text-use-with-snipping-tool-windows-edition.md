@@ -1,7 +1,7 @@
 ---
 title: Maximize Text Use with Snipping Tool Windows Edition
-date: 2024-08-23T06:08:35.394Z
-updated: 2024-08-24T06:08:35.394Z
+date: 2025-01-04T16:21:06.267Z
+updated: 2025-01-06T17:40:25.856Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
  Originally, Windows 11 lacked a native Optical Character Recognition (OCR) feature. The closest thing to OCR is possible using Microsoft PowerToys which offers copying text from images feature. Fortunately, Microsoft changed all that with a new feature in the Snipping Tool.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the Text Actions Feature in the Snipping Tool?
 
@@ -46,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Redact Text in the Snipping Tool
 
  Apart from the text identification and copy feature, you can also redact text in the Snipping Tool. Redacting a text means excluding some types of texts which contain sensitive information. Currently, you only get two redact options in the tool; email addresses and phone numbers.
@@ -58,13 +59,15 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
@@ -72,20 +75,20 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,3 +96,27 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>[New] From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dive-into-the-world-of-youtuber-shorts-for-2024/"><u>[Updated] Dive Into the World of Youtuber Shorts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proactive-ways-to-record-breathtaking-live-sports-games-for-2024/"><u>[Updated] Proactive Ways to Record Breathtaking Live Sports Games for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-techniques-succeeding-in-spotify-advertising/"><u>[Updated] Top Techniques Succeeding in Spotify Advertising</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/complete-tutorial-for-seamless-download-and-installation-of-auto-gpt/"><u>Complete Tutorial for Seamless Download and Installation of Auto-GPT</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-quick-boot-windows-11s-speed-up-mode-guide/"><u>Enabling Quick Boot: Windows 11'S Speed Up Mode Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-partially-working-windows-headphone-speakers/"><u>Fixing Partially Working Windows Headphone Speakers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hc-v770-review-expensive-simplicity/"><u>HC-V770 Review: Expensive Simplicity?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premiere-visionary-film-glimpses/"><u>In 2024, Premiere Visionary Film Glimpses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/m4amp45/"><u>M4Aファイルを自由にMP4形式に変更するためのベストソフトウェア魅力5選</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-struggles-successfully-installing-icloud-on-windows-pc/"><u>No More Struggles: Successfully Installing iCloud on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/precise-techniques-to-outmaneuver-windows-logon/"><u>Precise Techniques to Outmaneuver Windows Logon</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-digital-giants-mastering-content-on-facebook-twitter-instagram-and-youtube/"><u>The Digital Giants: Mastering Content on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/unlinking-onedrive-from-your-windows-based-microsoft-account/"><u>Unlinking OneDrive From Your Windows-Based Microsoft Account</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-all-about-windows-display-hangouts/"><u>Unveiling All About Windows Display Hangouts</u></a></li>
+<li><a href="https://win11.techidaily.com/whats-on-windows-11s-horizon-7-features-to-look-out-for/"><u>What's on Windows 11’S Horizon? 7 Features to Look Out For</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-most-reliable-drawing-app-compilation/"><u>Win 11'S Most Reliable Drawing App Compilation</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-is-now-an-app-for-iphones-ipads-macs-and-pcs/"><u>Windows Is Now an App for iPhones, iPads, Macs, and PCs</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Aliases: Enhancing Developer Efficiency"
-date: 2024-12-21T05:03:00.354Z
-updated: 2024-12-28T03:57:22.730Z
+date: 2025-01-05T17:28:29.065Z
+updated: 2025-01-06T16:45:07.671Z
 tags:
   - windows10
   - windows11
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/4d7617bc6e515df66cf877ac9aa76e35a27d5b140
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Are App Execution Aliases?
 
@@ -48,7 +44,7 @@ In Windows 11:
 ![app aliases in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In Windows 10:
@@ -60,10 +56,14 @@ In Windows 10:
 ![app aliases in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/app-alias-win10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, in both Windows 10 and 11, you can only enable or disable existing app aliases. But if you don't mind editing the Registry, you can create new aliases for many other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create App Execution Aliases in Registry Editor
 
@@ -80,7 +80,7 @@ In Windows 10:
 6. In the Value data field, you will need to enter the full path to the app executable file. For example**C:\\Program Files (x86)\\Calendar.exe** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Right-click in the right pane and select**New > String value** . Name the string**path** . The change the Value data to the same path as above, but without the app filename.
@@ -88,7 +88,7 @@ In Windows 10:
  You can now close the Registry Editor. The new App Execution Alias will now be available to use in the Windows CLIs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using and Creating App Execution Aliases
@@ -110,18 +110,17 @@ In Windows 10:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-how-to-write-a-great-podcast-techniques-and-10plus-free-example-scripts-inside/"><u>[Updated] 2024 Approved How to Write a Great Podcast Techniques & 10+ Free Example Scripts Inside</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-coders-showdown-which-codec-will-dominate-video-quality/"><u>[Updated] Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-crafting-courteous-responses-in-discord-chat-for-2024/"><u>[Updated] Crafting Courteous Responses in Discord Chat for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-create-youtube-channel-in-mobile-with-ease-personal-and-business/"><u>[Updated] How to Create YouTube Channel in Mobile with Ease [Personal & Business]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-iphone-layout-artistry-for-2024/"><u>Mastering iPhone Layout Artistry for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-flawed-menu-navigation-in-windows-desktops/"><u>Overcoming Flawed Menu Navigation in Windows Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-overcoming-xbox-game-pass-warzones-directx-issues/"><u>Quick Fixes for Overcoming Xbox Game Pass Warzone's DirectX Issues</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/step-by-step-process-for-securely-clearing-your-entire-iphone-storage/"><u>Step-by-Step Process for Securely Clearing Your Entire iPhone Storage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/steps-to-remove-unseen-portions-in-streamed-youtube-videos-for-2024/"><u>Steps to Remove Unseen Portions in Streamed YouTube Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-windows-11-logon-from-pin-to-password-a-step-by-step-guide/"><u>Switching Windows 11 Logon From PIN to Password: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-operation-failed-problem-on-pcs/"><u>Tackling the Operation Failed Problem on PCs</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-s17-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo S17 Pro Screen | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/undisclosed-snapshotting-mastering-invisible-image-capture-on-snapchat-for-2024/"><u>Undisclosed Snapshotting Mastering Invisible Image Capture on Snapchat for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-subtitles-in-a-click-our-free-top-10-converter-picks-for-2024/"><u>[New] Subtitles in a Click - Our Free, Top 10 Converter Picks for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-image-archive-platforms/"><u>[Updated] Prime Image Archive Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-oppo-a58-4g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Oppo A58 4G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expertise-in-capturing-high-quality-verbal-notes-for-2024/"><u>Expertise in Capturing High-Quality Verbal Notes for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-timestamps-in-windows-files-step-by-step/"><u>Fine-Tuning Timestamps in Windows Files: Step by Step</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-run-as-administrator-not-working-in-windows/"><u>How to Fix Run as Administrator Not Working in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streaming-platforms-face-off-choosing-between-vimeo-youtube-dailymotion/"><u>In 2024, Streaming Platforms Face-Off Choosing Between Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a05s-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A05s Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-screen-space-unique-snaps-using-powertoys/"><u>Optimize Your Screen Space: Unique Snaps Using PowerToys</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/superior-sound-recognizers-in-education/"><u>Superior Sound Recognizers in Education</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-film-previews-unveiled/"><u>Top Film Previews Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-hidden-fixes-for-temp-file-woes-in-windows/"><u>Unlock Hidden Fixes for Temp File Woes in Windows</u></a></li>
 </ul></div>
 

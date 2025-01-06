@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 11: Connectivity with 5GHz Networks"
-date: 2024-08-23T06:09:34.095Z
-updated: 2024-08-24T06:09:34.095Z
+date: 2025-01-01T16:58:58.889Z
+updated: 2025-01-06T20:59:33.497Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
  When encountering this problem, it might be difficult to identify the exact cause. It might be a problematic network driver, incorrect system settings, a Windows bug, or maybe you’re not using the right internet protocol.
 
  If you’re sure your computer supports 5GHz connections but have no success when trying to connect to 5GHz Wi-Fi, go through the solutions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update Windows
 
@@ -54,11 +58,9 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 ![Run the network and internet troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/network-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
+
 ## 4\. Restart Your Router
 
  Windows 11’s inability to connect to 5GHz Wi-Fi might be due to a router glitch. While we often ignore it, we should restart the router to keep it working smoothly. However, simply unplugging it for a few minutes might not be enough to fix the issue. Instead, [use the correct way to restart your router](https://www.makeuseof.com/reboot-router-correct-way/).
@@ -81,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  If you aren’t that close to the router and the signal is getting weak, you should manually switch back to the 2.4 GHz band.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update the Network Driver
 
  Another possible reason for Windows’s issue when it comes to connecting to the 5GHz band might be an outdated or corrupt Wi-Fi driver. Fortunately, you can easily update it through Device Manager.
@@ -93,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 3. Right-click the Wi-Fi driver and select **Update driver**.
 
 ![Update the Wi-Fi driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-wifi-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Windows is showing **The best drivers for your device are already installed** message, head to the manufacturer's website and check if there are any updates available.
 
@@ -110,13 +113,9 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 ![Use a different Wi-Fi driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-wi-fi-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 9\. Enable IPv6
 
  Internet Protocol version 6 (or IPv6) is the newest version of Internet Protocol (or IP) and newer routers and networks are already using it. If IPv6 is turned off on your Windows computer, it might lead to conflict, which is why you can’t connect to the 5GHz band.
@@ -133,30 +132,26 @@ The powerful video editing program for your Windows PC</a>
 ![Internet protocol settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ipv6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
+
 ## 10\. Use a Dual Band USB Wi-Fi Dongle
 
  If you already own a Dual Band Wi-Fi Dongle, you can use it to solve the connectivity issue. However, if you plan on buying one, it might be better to just stick with using the 2.4GHz band as [Wi-Fi dongles don’t have the best performance](https://www.makeuseof.com/tag/reasons-wireless-dongle-performance-sucks/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 11\. Reset the Network Settings
 
  If you can’t find anything wrong on your computer, there’s a chance that improper network settings are stopping you from connecting to the 5GHz band. In this case, you should [reset your network settings to their default values](https://www.makeuseof.com/reset-network-settings-windows-11/). Before doing so, it’s best to save any work in progress as Windows will ask you to restart your device once the reset is complete.
 
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Connect Windows 11 to 5GHz Wi-Fi Again
 
@@ -166,11 +161,25 @@ The powerful video editing program for your Windows PC</a>
 
  If you’re sure your computer supports 5GHz connections but have no success when trying to connect to 5GHz Wi-Fi, go through the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-social-media-sensations-most-liked-and-watched-amazon-originals-for-2024/"><u>[Updated] The Social Media Sensations Most Liked & Watched Amazon Originals for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtubes-secrets-integrating-text-overlays-in-your-clips-for-2024/"><u>[Updated] YouTube's Secrets Integrating Text Overlays in Your Clips for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-deciphering-the-world-of-touchless-interaction/"><u>2024 Approved Deciphering the World of Touchless Interaction</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/auto-gpt-setup-simplified-easy-steps-for-download-and-installation/"><u>Auto-GPT Setup Simplified: Easy Steps for Download and Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/evasive-maneuvers-for-bypassing-windows-sign-ins/"><u>Evasive Maneuvers for Bypassing Windows Sign-Ins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-textbooks-to-streaming-a-students-roadmap-to-cheaper-youtube-premium-access/"><u>From Textbooks to Streaming: A Student's Roadmap to Cheaper YouTube Premium Access</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-youtubes-monetization-metrics-for-a-million-viewers/"><u>In 2024, Youtube's Monetization Metrics for A Million Viewers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-mist-of-talos-extension-fix/"><u>Mastering the Mist of Talos Extension Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/pioneering-quick-access-to-windows-11s-calculator-utility/"><u>Pioneering Quick Access to Windows 11'S Calculator Utility</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-powershell-not-available-error-on-pcs/"><u>Remedy for 'PowerShell Not Available' Error on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wi-fi-prowess-silence-your-neighbors/"><u>Windows Wi-Fi Prowess: Silence Your Neighbors</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2024-12-24T00:45:43.215Z
-updated: 2024-12-27T18:05:13.480Z
+date: 2025-01-05T20:28:26.151Z
+updated: 2025-01-06T19:30:41.948Z
 tags:
   - windows10
   - windows11
@@ -25,12 +25,16 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ## 2\. Neglecting Keyboard Shortcuts
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
@@ -57,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
  Moreover, you should also mark important files as favorites. File Explorer has a **Favorites** section where it lists everything you labeled as a favorite. By avoiding the **Favorites** section, you could spend more time finding that important file whenever needed. Both **Recent** and **Favorites** items are displayed on the File Explorer Home Page.
@@ -65,17 +77,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  If you're a privacy-minded user, you should know [how to adjust various control options to protect your privacy](https://www.makeuseof.com/windows-11-privacy-options-explained/) in Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
@@ -99,10 +103,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
  There are also some restrictions to what you can use in a file or folder name. You must know all that to avoid getting surprises whenever you name them.
@@ -113,13 +113,13 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
  One of the most widely used customization options is changing how folders and files are displayed in File Explorer. You can view files and folders with different view options, including tiles, lists, icons, content, and more. You can also [hide or reveal files containing sensitive information](https://www.makeuseof.com/tag/3-quick-easy-ways-hide-folder-windows-7/) at your convenience from File Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Windows File Explorer Like a Pro
 
@@ -139,17 +139,20 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-elite-club-of-youtubes-big-bucks-for-2024/"><u>[Updated] The Elite Club of YouTube's Big Bucks for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-the-top-methods-of-video-and-screenshots/"><u>[Updated] Unveiling the Top Methods of Video & Screenshots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shedding-light-on-luts-impact-on-image-quality/"><u>2024 Approved Shedding Light on LUTs' Impact on Image Quality</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-of-your-soundmax-device-with-windows-pc-using-latest-drivers/"><u>Easy Setup of Your SoundMAX Device with Windows PC Using Latest Drivers</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-tutorials-on-how-to-transfer-photos-from-apple-iphone-15-plus-to-new-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Tutorials on How to Transfer Photos From Apple iPhone 15 Plus to New iPhone | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-discovering-the-newest-tiktok-songs-that-excite-us/"><u>In 2024, Discovering the Newest TikTok Songs that Excite Us</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-framed-fantasies-expert-recommendations-on-software-and-sites/"><u>In 2024, Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-unselectable-text-in-windows-pdf-viewers/"><u>Resolve Unselectable Text in Windows' PDF Viewers</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-xpatch-problem-error-code-0x80073712/"><u>Tackling XPatch Problem: Error Code 0X80073712</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-peaceful-application-management-in-window-11/"><u>The Path to Peaceful Application Management in Window 11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-a79-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo A79 5G FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/wsl-influence-on-desktop-linux-landscape-shift/"><u>WSL Influence on Desktop Linux Landscape Shift</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-streamlining-screenshot-tasks-in-minutes/"><u>[Updated] Streamlining Screenshot Tasks in Minutes</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-microphone-problems-for-xbox-app-users/"><u>Diagnosing Microphone Problems for Xbox App Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-outdated-media-quality-an-introduction-to-madvr-on-windows/"><u>Enhance Outdated Media Quality: An Introduction to MadVR on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reestablish-sync-in-microsoft-to-do-app/"><u>How to Reestablish Sync in Microsoft To-Do App</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lapdock-solutions-how-to-convert-your-smartphone-into-a-personal-computer-on-the-go/"><u>Lapdock Solutions: How to Convert Your Smartphone Into a Personal Computer on the Go</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-power-efficiency-in-high-end-pc-gaming/"><u>Mastering Power Efficiency in High-End PC Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/path-adjustment-changing-onedrives-abode-with-ease-on-windows/"><u>Path Adjustment: Changing OneDrive's Abode with Ease on Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-sound-design-for-captivating-canvas-clips-for-2024/"><u>The Art of Sound Design for Captivating Canvas Clips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-eradicating-0x8007045d-in-win11/"><u>The Ultimate Guide to Eradicating 0X8007045d in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-mastering-the-art-of-pinned-conversations-on-instagram/"><u>Ultimate Guide: Mastering the Art of Pinned Conversations on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-google-drive-sync-woes-on-pc/"><u>Winning Against Google Drive Sync Woes on PC</u></a></li>
 </ul></div>
 

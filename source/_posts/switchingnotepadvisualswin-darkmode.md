@@ -1,7 +1,7 @@
 ---
 title: "SwitchingNotepadVisuals:Win-DarkMode"
-date: 2024-08-28T00:50:22.176Z
-updated: 2024-08-29T00:50:22.176Z
+date: 2024-12-31T19:10:12.418Z
+updated: 2025-01-06T20:47:33.478Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,9 @@ Here is how you can enable it:
  Your system will take a few seconds to apply these changes. Once that is done, you can launch the notepad to see if the changes are applied.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Download a Third-Party Alternative
 
  As we mentioned earlier, the high contrast feature might not be for everyone. If you do not want to enable it, then you can download a third-party alternative using the Microsoft Store.
@@ -58,8 +59,9 @@ Here is how you can enable it:
 ![Black Notepad in Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/black-notepad.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also look for other options online with advanced functionality if you use Notepad on a regular basis.
 
  In case you have downloaded a third-party text editor and wish to continue using it instead of Notepad, you should make it your default editor. For this, right-click on any text file and choose**Open with** \>**Choose another app** .
@@ -69,16 +71,17 @@ Here is how you can enable it:
  Choose the targeted app in the following dialog and checkmark the box for "Always use this app to open .txt files."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Dark Mode in Notepad on Windows 11
 
  The new Windows operating system also allows users to[enable and customize dark mode](https://www.makeuseof.com/windows-11-dark-mode/) on their systems, just like Windows 10 does. If you are a Windows 11 user, then follow one of the methods below to enable dark mode in your Notepad.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Use the Settings App
 
  In this method, we will be switching to dark system mode. However, if the Notepad on your Windows is not configured to use the system theme, then these changes will not work for you. In that case, you can proceed with the next method below.
@@ -90,9 +93,6 @@ Here is how you can make the changes within the Settings app:
 3. Click on**Colors** in the following window.  
 ![Color settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/personalization-colors-1.jpg)
 4. Expand the dropdown for**Choose your mode** and choose**Dark** from the context menu.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Dark mode option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/choose-your-mode-dark.jpg)
 
  You can now launch the Notepad and check if the dark mode has been enabled successfully. If not, try following the steps in the next method.
@@ -108,9 +108,6 @@ Follow these steps to proceed:
 3. Choose**Dark** from the options and see if the changes have been made successfully.  
 ![Notepad settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This should enable the dark mode in Notepad successfully. Nevertheless, in Windows 11 as well, you can install third-party applications from the Microsoft Store or other sources if you cannot follow the aforementioned methods for some reason.
 
  To undo these changes, simply follow the steps listed above again and choose the**Light** or**Use System setting** option from the list available. This should return the Notepad back to the light mode but if you are unable to do so, head over to our[guide on how to fix a Windows device that is stuck in dark mode](https://www.makeuseof.com/windows-device-stuck-dark-mode/) .
@@ -126,10 +123,19 @@ Follow these steps to proceed:
 1. Launch Notepad ++ and head over to**Settings** \>**Style Configurator** .  
 ![Style configurator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-settings-style-configurator.jpg)
 2. In the following window, expand the dropdown for**Select theme** and choose**Deep Black** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Deep black theme in Notepad++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/notepad-theme-deep-black.jpg)
 3. You can customize the app further by changing the overall style of the app, fonts, and colors. Once you are done, click on**Save & Close** .
 
  Your Notepad ++ app should display the dark mode now. Don’t forget to set it as the default text editor by following the steps we highlighted above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Dark Mode in Notepad With Ease
 
@@ -137,14 +143,11 @@ Follow these steps to proceed:
 
  Hopefully, the methods listed above helped you in switching to dark mode without any issues. You can always revert the changes by following the same steps if you ever have a change of mind.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +156,23 @@ Follow these steps to proceed:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-transcribe-without-breaking-the-bank-learn-how-with-our-free-guide/"><u>[New] 2024 Approved Transcribe Without Breaking the Bank Learn How with Our Free Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-tips-for-youtube-audio-optimization-for-2024/"><u>[New] Essential Tips for YouTube Audio Optimization for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>[New] In 2024, The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-top-hits-on-reddit-a-compilation-of-the-best-ten-for-2024/"><u>[New] Top Hits on Reddit - A Compilation of the Best Ten for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovative-vocal-alteration-apps-beyond-echo-magic-for-2024/"><u>[Updated] Innovative Vocal Alteration Apps Beyond Echo Magic for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-prime-15-web-based-editing-platforms-reviewed-all-free/"><u>[Updated] Prime 15 Web-Based Editing Platforms Reviewed, All FREE</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-guide-how-to-take-stunning-valorant-gameplay-clips/"><u>「Visual Guide: How to Take Stunning Valorant Gameplay Clips」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-methods-for-efficiently-attaching-a-link-to-tiktok-bios/"><u>2024 Approved Ultimate Methods for Efficiently Attaching a Link to TikTok Bios</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comment-graviter-vers-des-conversions-de-dvd-en-h265-a-partir-de-fichiers-blu-ray-sans-cout/"><u>Comment Graviter Vers Des Conversions De DVD en H.265 À Partir De Fichiers Blu-Ray Sans Coût ?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/is-more-the-best-video-url-reducers-revealed/"><u>Less Is More The Best Video URL Reducers Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-converting-psp-pmf-movies-into-high-quality-mp4-format-with-sound/"><u>Step-by-Step Guide to Converting PSP PMF Movies Into High-Quality MP4 Format With Sound</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-shrinking-flac-file-size-without-losing-quality/"><u>Step-by-Step Guide: Shrinking FLAC File Size Without Losing Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-transforming-mkv-files-into-avi-format-with-premium-quality-offline-and-online-methods/"><u>Step-by-Step Guide: Transforming MKV Files Into AVI Format with Premium Quality Offline & Online Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/top-platforms-showcasing-real-life-japan-no-script-just-reality/"><u>Top Platforms Showcasing Real-Life Japan: No Script, Just Reality</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-quicktimes-inability-to-open-mov-files-3-effective-methods/"><u>Troubleshoot QuickTime's Inability to Open MOV Files - 3 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-mp4-format-compatibility-with-apple-tv-for-smooth-viewing-experience/"><u>Troubleshooting MP4 Format Compatibility with Apple TV for Smooth Viewing Experience</u></a></li>
+</ul></div>
 

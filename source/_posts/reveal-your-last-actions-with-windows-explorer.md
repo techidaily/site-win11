@@ -1,7 +1,7 @@
 ---
 title: Reveal Your Last Actions with Windows Explorer
-date: 2024-12-24T01:47:24.140Z
-updated: 2024-12-28T00:05:24.339Z
+date: 2025-01-05T19:27:18.109Z
+updated: 2025-01-06T20:28:09.824Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to See Recently Opened Files on Windows
 
  Windows offers two ways to view recently opened files; using Quick Access or the Recent Items folder.
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  Moreover, Quick Access does not allow you to sort recently opened files by specific parameters, which is easy to do in the Recent Items folder. Let's see how you can access recently opened files on Windows using both methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to View Recently Opened Files in Quick Access
 
  You can view recently opened items in Quick Access by opening**File Explorer** from the taskbar and selecting**Quick access** from the left sidebar. Following that, you will see a list of recently opened files in the right pane. So, scroll down to find the recent file or folder you were looking for.
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  In most cases, Quick Access displays the recently opened files in File Explorer; however, there are times when it breaks and stops showing them. If that's the case for you, check out our article on[fixing Quick Access when it doesn't show recent files](https://www.makeuseof.com/windows-11-fix-quick-access-not-showing-recent-files/) .
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
 
@@ -74,15 +70,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to View Recently Opened Files for Specific Apps on Windows
 
@@ -94,9 +82,21 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
@@ -135,22 +135,18 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-the-essence-including-dates-in-image-files/"><u>[New] Capturing the Essence Including Dates in Image Files</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-trimming-tactics-for-time-strapped-youtubers/"><u>[New] Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-gopro-hero5-black-batteries-with-certified-chargers/"><u>2024 Approved Premier GoPro Hero5 Black Batteries with Certified Chargers</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-the-workings-of-runtime-brokers-in-computing/"><u>Delving Into the Workings of Runtime Brokers in Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/from-chaos-to-order-windows-arrow-restoration-guide/"><u>From Chaos to Order: Windows Arrow Restoration Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-hands-on-the-latest-sound-blaster-audigy-drivers-free-download-available-now/"><u>Get Your Hands on the Latest Sound Blaster Audigy Drivers - Free Download Available Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/high-performance-amplifi-hd-mesh-network-solution-eliminates-wi-fi-black-spots/"><u>High-Performance Amplifi HD Mesh Network Solution Eliminates Wi-Fi Black Spots</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-effective-policy-review-the-gpresult-methodology/"><u>Initiating Effective Policy Review: The GPResult Methodology</u></a></li>
-<li><a href="https://win11.techidaily.com/perfect-your-notification-management-skills-on-win-11/"><u>Perfect Your Notification Management Skills on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resilience-reinstated-the-5-key-repairs-for-family-safe/"><u>Resilience Reinstated: The 5 Key Repairs for Family Safe</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-updating-windows-without-internet/"><u>Securely Updating Windows Without Internet</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-input-flows-disable-mouse-acceleration-on-win-devices/"><u>Streamline Your Input Flows: Disable Mouse Acceleration on Win Devices</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782749-9781594775826-taoist-feng-shui/"><u>Taoist Feng Shui | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-future-of-editing-with-vita-a-complete-review/"><u>The Future of Editing with Vita - A Complete Review</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210574008-9781956796148-the-white-brother/"><u>The White Brother | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-creative-potential-with-microsofts-innovative-paint-updates/"><u>Unlock Your Creative Potential with Microsoft's Innovative Paint Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-low-fps-is-not-a-gamers-bane-on-consoles/"><u>Why Low FPS Is Not a Gamer's Bane on Consoles</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-recollect-rivals-mobile-battlegrounds-in-samsungs-for-2024/"><u>[New] Recollect Rivals Mobile Battlegrounds in Samsungs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-whats-your-take-home-pay-in-podcasting-for-2024/"><u>[New] What’s Your Take-Home Pay in Podcasting for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-preeminent-online-spaces-enhancing-youtube-traffic/"><u>[Updated] Preeminent Online Spaces Enhancing YouTube Traffic</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-microsofts-commitment-to-long-term-support-of-windows-11/"><u>Decoding Microsoft's Commitment to Long-Term Support of Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-geforce-experience-settings-retrieval-errors/"><u>How to Resolve GeForce Experience Settings Retrieval Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lava-yuva-3-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-16-a-new-era-of-enhanced-repairability-according-to-apple-zdnet-insight/"><u>IPhone 16: A New Era of Enhanced Repairability, According to Apple | ZDNet Insight</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/modernize-windows-audios-with-a-simple-driver-update-routine/"><u>Modernize Windows Audios with a Simple Driver Update Routine</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-poco-m6-pro-4g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Poco M6 Pro 4G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/top-strategies-for-restoring-vanished-windows-11-panes/"><u>Top Strategies for Restoring Vanished Windows 11 Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-securely-without-lock-screen/"><u>Unlock Windows Securely Without Lock Screen</u></a></li>
 </ul></div>
 

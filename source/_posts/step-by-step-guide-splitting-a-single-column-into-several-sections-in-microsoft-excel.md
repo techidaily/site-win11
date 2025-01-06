@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Splitting a Single Column Into Several Sections in Microsoft Excel"
-date: 2024-08-28T00:48:57.453Z
-updated: 2024-08-29T00:48:57.453Z
+date: 2025-01-05T16:38:11.200Z
+updated: 2025-01-06T18:50:45.201Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/069b298bfedee9c280f30a09eb725e41e8884f90f
 ---
 
 ## Step-by-Step Guide: Splitting a Single Column Into Several Sections in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,15 +36,27 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Data, in a single column, in Microsoft Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Column-Initial-Data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll need to select the cells containing your data first (cells A1 to A12 in the example above).
 
  From Excel's "Data" tab, click the "Text to Columns" button found in the "Data Tools" section.
 
 ![To access Text to Columns in Excel, click Data &gt; Text to Columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Columns-Button.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will bring up the "Convert Text to Columns Wizard" window and allows you to begin separating your data. From the options, select the "Delimited" radio button and click "Next" to continue.
 
 ![In the Convert Text to Columns wizard, choose Delimited, then click Next to continue](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Convert-Text-to-Column-First-Menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, Excel will choose to try and separate your single column data by each tab it finds. This is fine, but for our example, we're using data that's separated by semicolons.
 
@@ -66,9 +82,6 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Data in Excel, separated using the Text to Column feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Column-Finished-Data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use Flash Fill in Excel
 
  If you'd like to keep your original data intact, but still separate the data, you can use the "Flash Fill" feature instead.
@@ -77,18 +90,12 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Data, separated by a delimiter, in Microsoft Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Data-Example.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  To use the "Flash Fill" feature, start by typing out the column headers in row 1\. For our example, "Employee ID" would go in cell B1, "First Name" in cell C1, etc.
 
  For each column, select your header row. Start with B1 (the "Employee ID" header in this example) and then, in the "Data Tools" section of the "Data" tab, click the "Flash Fill" button.
 
 ![Select your column header cell, then click Data > Flash Fill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Repeat the action for each of your header cells (C1, D1, etc) to automatically fill the new columns with the matching data.
 
  If the data is formatted correctly in your original column, Excel will automatically separate the content using the original header cell (A1) as its guide. If you receive an error, type the following value in the sequence in the cell below your header cell, then click the "Flash Fill" button again.
@@ -97,16 +104,14 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Data in Microsoft Excel, ready for the Flash Fill feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Each new column will fill with the data from the original column, using the initial first or second rows as the guide to choose the correct data.
 
 ![Data in Microsoft Excel, ready for the Flash Fill feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the example above, the long column (column A) has been separated into six new columns (B to G).
 
  Because the layout of rows 1 to 12 is the same, the "Flash Fill" feature is able to copy and separate the data, using the header row and first bit of data.
@@ -117,8 +122,6 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +129,22 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/hriving-in-the-freefire-arena-with-pro-gamers-guide/"><u>[New] Thriving in the FreeFire Arena with Pro Gamers' Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exclusive-list-top-5-advanced-webcams-for-remote-meetings-for-2024/"><u>[Updated] Exclusive List Top 5 Advanced Webcams for Remote Meetings for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028360556-7/"><u>「最適なビデオ寸法変更サイト・上位7推奨」</u></a></li>
+<li><a href="https://win11.techidaily.com/44cm44km44kn44ow44ox44os44k844oz44og44o844k344on44oz44gu44gf44kb44gr44k544op44kk44oj44k344on44o844ot44oh44kq44ks5yq55p6c55qe44gr57eo6zug44gz44kl5oqa6kgt44cn1/"><u>「ウェブプレゼンテーションのためにスライドショービデオを効果的に編集する技術」</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-up-your-image-game-the-best-free-online-editors/"><u>2024 Approved Step Up Your Image Game The Best Free Online Editors</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728480243407-ssd/"><u>優秀なクルシアルSSD用データ移行無料プログラム</u></a></li>
+<li><a href="https://win11.techidaily.com/a-beginners-guide-to-converting-dvd-content-into-avi-format-with-minimal-hassle/"><u>A Beginner's Guide to Converting DVD Content Into AVI Format with Minimal Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/alcwavmp3/"><u>ALCフォーマットを効率的にWAVやMP3に変換する方法 | ハイレゾ音質移行手順</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028106781-dvd/"><u>DVDの正常再生を保証する!理解しやすく簡単に修復する方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/feast-your-eyes-on-9-whole-film-winter-wonders-no-charge-for-2024/"><u>Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>In 2024, How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/1726029205926-iphone/"><u>IPhoneにおける「読み込めない動画エラー」を克服する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/1726028985392-mp3/"><u>MP3音量比率変更ツールをご利用いただける場所と使い方ガイド</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-pubg-hardware-essentials-ensure-smooth-gameplay-with-ideal-setup-guidelines/"><u>Navigating PUBG Hardware Essentials: Ensure Smooth Gameplay with Ideal Setup Guidelines</u></a></li>
+</ul></div>
 

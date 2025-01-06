@@ -1,7 +1,7 @@
 ---
 title: Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems
-date: 2024-12-21T02:35:46.463Z
-updated: 2024-12-27T21:46:59.233Z
+date: 2024-12-31T20:24:14.981Z
+updated: 2025-01-06T20:06:12.661Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,16 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Run the program in compatibility mode option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-in-compatibility-mode-for.jpg)
 5. Then select the latest Windows platform that was available in the game’s release year. If you’re not sure, choose a **Windows 8** or 7 option on the menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select **Apply** to set the new compatibility option.
 7. Click **OK** to close out of the properties window.
 
  There’s also a Program Compatibility Troubleshooter that might be useful for troubleshooting the DirectDraw error. That troubleshooter includes an option that sets recommended compatibility settings for a selected program. It enables you to test programs with compatibility settings.
 
  If selecting the compatibility mode setting doesn’t work, consider utilizing the Program Compatibility Troubleshooter. This [Program Compatibility Troubleshooter guide](https://www.makeuseof.com/program-compatibility-troubleshooter-windows-11-guide/) provides guidelines for accessing and utilizing that troubleshooter.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set a 640 x 480 Resolution for the Game
 
@@ -62,16 +62,8 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Try starting the game or software.
 
@@ -90,10 +82,14 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 6. Press **OK** to install the features.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Restart Windows after installing the features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -113,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
  If nothing has worked yet, there are some simple Windows tricks that usually fix display issues with software and games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Update Your Video Card’s Driver
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall the Affected Game or Software
 
  Reinstall affected games or software packages if you’re still trying to fix the DirectDraw error after applying other possible resolutions in this guide. If you’ve installed a game with gaming client software like Steam, Epic, or GOG, you can uninstall it with the same software. Or remove the software within the Control Panel or Settings with a method in this [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -135,13 +135,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
@@ -160,19 +160,24 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[New] 2024 Approved The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-best-free-software-to-save-your-discord-talks-for-2024/"><u>[Updated] Best Free Software to Save Your Discord Talks for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-onedrives-reparse-point-tag-misstep-on-windows/"><u>Correcting OneDrive's Reparse Point Tag Misstep on Windows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/demystifying-3d-manufacturing-economics-expert-tips-on-computing-production-expenses/"><u>Demystifying 3D Manufacturing Economics: Expert Tips on Computing Production Expenses</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/elite-home-theater-selections-for-best-3d-blu-ray-viewing-for-2024/"><u>Elite Home Theater Selections for Best 3D Blu-Ray Viewing for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-google-chrome-profile-crashes-on-windows/"><u>Fixing Google Chrome Profile Crashes on Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/freeze-the-fun-screenshots-and-recording-in-win10/"><u>Freeze the Fun Screenshots & Recording in Win10</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-activate-a-black-background-in-wincalc/"><u>How To Activate a Black Background in WinCalc</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-n3-flip-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find N3 Flip Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-11-help-functionality/"><u>Steps for Restoring Windows 11 Help Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-voice-transmission-via-windows/"><u>Streamlining Voice Transmission via Windows</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/the-rhythm-revolution-crafting-mesmerizing-tiktok-dances-with-mac-for-2024/"><u>The Rhythm Revolution Crafting Mesmerizing TikTok Dances with Mac for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-your-desktops-drag-dilemma-on-win11/"><u>Unlock Your Desktop's Drag Dilemma on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unsung-storage-issues-reviving-your-c-drives-lifespan/"><u>Unsung Storage Issues: Reviving Your C: Drive's Lifespan</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-bridging-communication-gaps-effective-use-of-slack-and-filmora/"><u>[New] Bridging Communication Gaps Effective Use of Slack and Filmora</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ideal-start-kit-top-gopro-supplementary-gear-for-2024/"><u>[New] Ideal Start Kit Top GoPro Supplementary Gear for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-asmr-apps-for-android-and-ios-you-should-know/"><u>[Updated] In 2024, Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-depth-review-of-razers-high-res-cam/"><u>[Updated] In 2024, In-Depth Review of Razer's High-Res Cam</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-zip-or-unzip-files-using-the-command-prompt-and-windows-powershell/"><u>How to Zip or Unzip Files Using the Command Prompt and Windows PowerShell</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-a2-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo A2 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-photomontage-artisans-blueprint/"><u>In 2024, The PhotoMontage Artisan's Blueprint</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-non-recoverable-trash-into-your-windows-workspace/"><u>Integrating Non-Recoverable Trash Into Your Windows Workspace</u></a></li>
+<li><a href="https://extra-support.techidaily.com/introduction-to-vlogging-tools-for-getting-started-for-2024/"><u>Introduction to Vlogging Tools for Getting Started for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-10-restore-eliminating-error-code-0x80042306/"><u>Mastering Windows 10 Restore: Eliminating Error Code 0X80042306</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-avoiding-disk-read-errors/"><u>Mastering Windows: Avoiding Disk Read Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-mmc-snaps-not-displayed-on-windows/"><u>Navigating Through MMC Snaps Not Displayed on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-screen-mirroring-failure-a-guide-to-solutions/"><u>Overcoming Screen Mirroring Failure: A Guide to Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/selecting-the-optimal-nearby-sharing-technique-googles-or-windows-way/"><u>Selecting the Optimal Nearby Sharing Technique: Google's or Windows' Way</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-access-to-tools-setting-up-command-line-tricks/"><u>Speedy Access to Tools: Setting up Command-Line Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-dll-failure-in-steam-interface/"><u>Steps to Correct DLL Failure in Steam Interface</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-modern-nomads-best-travel-companion-the-canon-g9x-mark-ii-reviewed-and-rated/"><u>The Modern Nomad's Best Travel Companion – The Canon G9X Mark II Reviewed & Rated</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-110-unbeatable-holiday-offers-on-apple-gadgets-televisions-computers-and-extras-insights-from-zdnet/"><u>Top 110 Unbeatable Holiday Offers on Apple Gadgets, Televisions, Computers & Extras - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/vanishing-in-the-crowd-how-to-peruse-instagram-stories-on-various-platforms-anonymously/"><u>Vanishing in the Crowd How to Peruse Instagram Stories on Various Platforms Anonymously</u></a></li>
 </ul></div>
 

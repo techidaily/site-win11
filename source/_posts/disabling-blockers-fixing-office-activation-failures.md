@@ -1,7 +1,7 @@
 ---
 title: "Disabling Blockers: Fixing Office Activation Failures"
-date: 2024-08-23T06:08:04.028Z
-updated: 2024-08-24T06:08:04.028Z
+date: 2024-12-30T16:57:43.292Z
+updated: 2025-01-06T17:25:37.845Z
 tags:
   - windows10
   - windows11
@@ -32,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/b46dbabb50d5277c1ad28a5993cc958234753eefe
 
  As you now better understand what causes this error, let's see how to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix the "Product Activation Failed" Error in Microsoft Office Apps
 
  To fix the "Product Activation Failed" error, ensure your subscription is active, you're signed in with the right account, and the date is correct. Other possible solutions include updating the Office app where you are encountering the issue and confirming that you have a genuine copy of Windows installed on your computer.
 
  Now let's see how to check the above settings and apply the solutions to prevent this error from occurring again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 1\. Apply Some Preliminary Fixes
 
 First, perform the following preliminary checks:
@@ -48,20 +49,22 @@ First, perform the following preliminary checks:
 * Run the Office application as an administrator. Type the app name in Windows Search, right-click its icon, and click**Run as administrator** .  
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 If the above steps don't help, try applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Don't Use a Cracked Version of Microsoft Office Apps
 
  To activate Microsoft Office apps legally, you should always purchase the subscription from Microsoft's website or its trusted partners. If you have used a crack or third-party activator to activate these apps and encountered this issue after a few days, Microsoft is likely to have detected this unauthorized activation and blocked it.
 
  Therefore, if you have chosen an illegitimate path, purchase the Microsoft 365 subscription, and this error will be resolved. If you want to get a better deal, check out our article covering[different ways to get cheap Microsoft Office and Microsoft Word licenses](https://www.makeuseof.com/tag/microsoft-office-cheap/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't Use a Pirated Copy of Windows
 
@@ -71,32 +74,12 @@ If the above steps don't help, try applying the remaining fixes.
 
  However, if you are already subscribed to Microsoft 365 and Windows is registered, ensure it hasn't expired.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### 4\. Ensure Your Subscription Hasn't Expired
 
  Check the email account you used to purchase the subscription to see if you have recently received an email from Microsoft. If you find an email regarding subscription expiration, log in to your Microsoft 365 account to confirm.
 
  If the subscription has expired, you will have to renew it to fix the error. However, if you have not received any email and the subscription is still active, you might be logged in to Microsoft apps with a different account.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### 5\. Ensure You Are Logged Into the Correct Account
 
  You must use the same Microsoft account you used to buy the subscription to access all features of the Office apps. If you share your computer with others, they might have logged in to their accounts that do not have active subscriptions.
@@ -106,6 +89,10 @@ To ensure that's not the case, follow the below steps:
 1. Open the Office application where you are experiencing the error.
 2. Navigate to the**File** tab and select**Account** on the left sidebar.
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Ensure the Date Is Set Correctly
 
@@ -119,9 +106,6 @@ To ensure that's not the case, follow the below steps:
 
  If you want to reset the app but aren't familiar with the process, check out our guide on[how to reset any Windows app](https://www.makeuseof.com/windows-reset-app/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 8\. Run the OSPREARM.exe File
 
  If you have not been successful in fixing this error, you can try running a .exe file named OSPREARM. This is an activation verifier which is known to fix most activation errors. Here's how to access and run this file:
@@ -135,18 +119,19 @@ C:\Program Files\Microsoft Office\Office16
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix the "Product Activation Failed" Error on Windows
 
  Running into the "Product Activation Failed" error and finding most of the features of Office apps restricted isn't a great experience. Hopefully, the solutions covered above will help you resolve the issue. In case they don't work, try the workaround. If that does not work as well, reinstall the Office application.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +140,21 @@ C:\Program Files\Microsoft Office\Office16
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>[New] Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precision-tips-for-effective-network-livestreaming-using-vlc/"><u>[New] Precision Tips for Effective Network Livestreaming Using VLC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-melodic-waters-a-legal-guide-on-instagram/"><u>[Updated] In 2024, Navigating Melodic Waters A Legal Guide on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-windowed-mode-switch-to-fullscreen-successfully/"><u>Conquering Windowed Mode: Switch to Fullscreen Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/liberate-locked-windows-run-handbrake-now/"><u>Liberate Locked Windows: Run HandBrake Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-seas-without-interruptions-five-quick-ways-to-stop-world-of-warships-from-crashing-on-your-computer/"><u>Master the Seas without Interruptions: Five Quick Ways to Stop World of Warships From Crashing on Your Computer</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/navigating-through-windows-10s-default-screen-capture-tools-and-location/"><u>Navigating Through Windows 10'S Default Screen Capture Tools & Location</u></a></li>
+<li><a href="https://fox-place.techidaily.com/paso-a-paso-sincronizando-con-exito-sus-carpetas-en-la-nube-y-drive-synology/"><u>Paso a Paso: Sincronizando Con Éxito Sus Carpetas en La Nube Y Drive Synology</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-windows-screen-lock-time/"><u>Personalize Windows Screen Lock Time</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-access-to-disconnected-windows-11-printers/"><u>Regaining Access to Disconnected Windows 11 Printers</u></a></li>
+<li><a href="https://win11.techidaily.com/the-purely-in-os-cloning-methodology/"><u>The Purely In-OS Cloning Methodology</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-camera-app-performance-eliminate-0xa00f425d/"><u>Unlocking Camera App Performance: Eliminate 0xA00F425D</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-the-power-of-batched-video-extraction-from-tiktok/"><u>Unlocking the Power of Batched Video Extraction From TikTok</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/yl-computings-tutorial-how-to-change-time-and-date-in-windows-through-the-ease-of-use-control-panel/"><u>YL Computing's Tutorial: How to Change Time and Date in Windows Through the Ease of Use Control Panel</u></a></li>
+</ul></div>
 

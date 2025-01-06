@@ -1,7 +1,7 @@
 ---
 title: "Mastering Time Calculation: Turning Minutes and Seconds Into Decimals with Excel Tutorials"
-date: 2024-08-28T00:48:43.855Z
-updated: 2024-08-29T00:48:43.855Z
+date: 2024-12-31T17:02:35.572Z
+updated: 2025-01-06T19:13:10.865Z
 tags:
   - excel
 categories:
@@ -42,13 +42,14 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Format Cells as Number in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FormatCellsNumber-ExcelConvertTimeDecimal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you end up with a whole number as your result, you can use the [Increase and Decrease Decimal buttons](https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/) in the Number section of the Home tab to adjust the appearance. This lets you display 624.00 as 624.
 
  You're then ready to start converting.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Convert Using Multiplication
 
  If you're not fond of [using functions](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) and building the accompanying formulas in Excel, you can convert time to decimals with simple multiplication.
@@ -70,8 +71,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Multiplication conversions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Multiplication-ExcelConvertTimeDecimal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Convert Using the CONVERT Function
 
  Another option for getting decimals for [times in Excel](https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-f54-5g-by-drfone-android/) is with the CONVERT function. This versatile function lets you convert times, measurements, weights, and more.
@@ -87,8 +93,9 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 ![CONVERT function formula for hours](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ConvertFunctionHours-ExcelConvertTimeDecimal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use "d" instead of "day" for the `from` argument.
 
  To convert that same time to minutes and seconds, you would use these formulas:
@@ -99,9 +106,6 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 
 ![CONVERT function formula for minutes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ConvertFunctionMinutes-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  You can also use "min" instead of "mn" for minutes and "s" instead of "sec" for seconds.
 
 ##  Convert Using Time Function Formulas
@@ -116,9 +120,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Time function formula for hours](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionHours-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each function references the cell A2 and the results are added together. The MINUTE portion is divided by 60 for 60 minutes in an hour and the SECOND portion is divided by 3,600 for 3,600 seconds in an hour.
 
  To convert the same time to minutes, you would use this formula:
@@ -126,6 +127,10 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 =HOUR(A2)*60+MINUTE(A2)+SECOND(A2)/60
 
 ![Time function formula for minutes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionMinutes-ExcelConvertTimeDecimal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similar to the formula for hours, you add the result of the functions together. The HOUR portion is multiplied by 60 for 60 minutes in an hour and the SECOND portion is divided by 60 for 60 seconds in a minute.
 
@@ -135,9 +140,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Time function formula for seconds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionSeconds-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  With this formula, the HOUR portion is multiplied by 3,600 for 3,600 seconds in an hour and the MINUTE portion is multiplied by 60 for 60 seconds in a minute.
 
  As you can see, this last method requires more effort, but if you're familiar with using time functions in Excel, it might be your preferred one.
@@ -150,8 +152,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +159,20 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-live-broadcasters-dilemma-which-tool-triumphs-obs-or-streamlabs-for-2024/"><u>[Updated] Live Broadcasters' Dilemma Which Tool Triumphs – OBS or Streamlabs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/pciphoneandroid/"><u>動画中の指定された音を消す - PC、iPhone、Android向けガイド</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-smart-8-hd-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Smart 8 HD FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mastering-the-art-of-handling-job-interview-qanda-tips-from-zdnet/"><u>Mastering the Art of Handling Job Interview Q&A: Tips From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/mp4iphoneandroid/"><u>MP4形式ビデオを着信音として使うiPhone/Androidの方法解説</u></a></li>
+<li><a href="https://win11.techidaily.com/new-advanced-dvd-ripping-tool-launched-by-wonderfox-fully-compatible-with-modern-mobile-gadgets/"><u>New Advanced DVD Ripping Tool Launched by WonderFox: Fully Compatible with Modern Mobile Gadgets</u></a></li>
+<li><a href="https://win11.techidaily.com/no-luck-with-internet-dvd-burners-explore-our-top-recommended-replacements/"><u>No Luck with Internet DVD Burners? Explore Our Top Recommended Replacements!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/preserving-your-nintendo-switch-experiences-a-guide/"><u>Preserving Your Nintendo Switch Experiences A Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/prevention-of-fetal-alcohol-syndrome/"><u>Prevention of Fetal Alcohol Syndrome</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snap-happy-with-iphone-burst-mode/"><u>Snap-Happy with iPhone Burst Mode</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-leads-in-ai-chatter-analyzing-chatgpt-versus-google-bards-capabilities/"><u>Which Leads in AI Chatter? Analyzing ChatGPT Versus Google Bard's Capabilities</u></a></li>
+</ul></div>
 

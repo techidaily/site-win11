@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Checkbox Counting in MS Excel Worksheets
-date: 2024-08-28T00:48:06.558Z
-updated: 2024-08-29T00:48:06.558Z
+date: 2025-01-03T19:48:42.992Z
+updated: 2025-01-06T20:36:43.904Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Mastering the Art of Checkbox Counting in MS Excel Worksheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,9 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  If you [use Excel to create a checklist](https://android-location-track.techidaily.com/3-solutions-to-find-your-poco-f5-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/), you may want to count the number of checked or unchecked boxes. With a simple formula, you can tally them in a cell that adjusts as more boxes are marked or unmarked.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Designate Cells for the Checkbox Controls
 
  When you check a box in Excel, the result of the check is True. For unchecked boxes, the result is False.
@@ -44,16 +45,21 @@ Related: [How to Count Checkboxes in Google Sheets](https://blog-min.techidaily.
 
 ![Cell reference in the Cell Link box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/CellLink-ExcelCountCheckboxes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the same process for the other checkboxes that you want to count in your sheet.
 
  You should then see the True result for checked boxes and False for unchecked boxes in the designated cells.
 
 ![Checked boxes displaying True](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/CheckedTrue-ExcelCountCheckboxes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  If you set the default Value for the checkbox as Unchecked, it won't display False unless you check the box and then uncheck it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the COUNTIF Function
 
@@ -71,9 +77,6 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
 
 ![COUNTIF True for checked boxes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/COUNTIFTrue-ExcelCountCheckboxes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To count the unchecked boxes instead, simply replace True with False in the formula:
 
 =COUNTIF(C2:C11,FALSE)
@@ -83,8 +86,9 @@ Related: [How to Use the COUNT Function in Microsoft Excel](https://android-loca
  If you set the default Value for the checkbox as Mixed, it will not count toward the True or False result. It [displays as #N/A](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) until the box is checked or unchecked.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Optional: Hide the Result Cells
 
  It may not be ideal to display the True and False results in your sheet. It might be distracting from the data you want to see.
@@ -98,15 +102,13 @@ Related: [How to Hide Cells, Rows, and Columns in Excel](https://apple-account.t
 ![Hide in the column menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/HideColumn-ExcelCountCheckboxes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The formula for the checked or unchecked boxes will work just the same with the results hidden.
 
 ![Results column hidden in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/HiddenColumn-ExcelCountCheckboxes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Counting the number of completed tasks, incomplete orders, or something similar is easy to do with the COUNTIF function and a bit of checkbox manipulation in Excel.
 
  For more, check out how to [use checkboxes in your Word documents](https://instagram-clips.techidaily.com/updated-spark-dialogue-with-personalized-and-creative-story-inquiries/) too.
@@ -117,8 +119,6 @@ Related: [How to Hide Cells, Rows, and Columns in Excel](https://apple-account.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,23 @@ Related: [How to Hide Cells, Rows, and Columns in Excel](https://apple-account.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-bidding-adieu-to-instagram-your-complete-deletion-manual/"><u>[New] In 2024, Bidding Adieu to Instagram Your Complete Deletion Manual</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-5-uavs-for-elevating-your-gopro-videos-and-movies-for-2024/"><u>[New] Top 5 UAVs for Elevating Your GoPro Videos and Movies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-creativity-in-youtube-video-splitting-for-2024/"><u>[Updated] Unlocking Creativity in YouTube Video Splitting for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>2024 Approved A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
+<li><a href="https://win11.techidaily.com/tver/"><u>画面録画機能を使ってTVer番組視聴法：パソコンでの設定ガイド</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p55plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P55+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphring-and-diagnosing-predominant-windows-anydesk-problems/"><u>Deciphring and Diagnosing Predominant Windows AnyDesk Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g84-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G84 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-10-iphone-and-android-video-editing-apps-for-gopro-for-2024/"><u>Top 10 iPhone & Android Video Editing Apps for GoPro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-music-collection-convert-doobie-brothers-dvds-to-high-quality-mp4mp3-files/"><u>Transform Your Music Collection: Convert Doobie Brothers' DVDs to High-Quality MP4/MP3 Files</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013134928-troubleshooting-frozen-screens-in-rocket-league-solutions-inside/"><u>Troubleshooting Frozen Screens in Rocket League – Solutions Inside!</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-incompatible-sound-codes-on-samsung-tvs-simple-solutions-for-audio-issues/"><u>Troubleshooting Incompatible Sound Codes on Samsung TVs - Simple Solutions for Audio Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-solving-the-mp4-playback-issue-in-vlc-on-your-windows-pc/"><u>Ultimate Guide: Solving the MP4 Playback Issue in VLC on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/unauthorized-tutorial-steps-to-modify-someone-elses-youtube-content/"><u>Unauthorized Tutorial: Steps to Modify Someone Else's YouTube Content</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10movjpeg/"><u>Windows 10向けMOVファイルからの高品質JPEGへの変換手順</u></a></li>
+<li><a href="https://win11.techidaily.com/windowsiphoneandroidtop5/"><u>Windows、iPhone、Android用動画連結手法TOP5 - スムーズな映像編集</u></a></li>
+</ul></div>
 

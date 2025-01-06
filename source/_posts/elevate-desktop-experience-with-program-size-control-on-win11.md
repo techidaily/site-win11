@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2024-12-23T06:25:25.546Z
-updated: 2024-12-28T03:28:20.216Z
+date: 2024-12-30T20:00:34.948Z
+updated: 2025-01-06T21:18:24.197Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Set Sizes for Software Windows With AutoSizer
 
  AutoSizer is a lightweight freeware app you can utilize on most Windows platforms. That software enables you to set program windows to open at specified width and height values with its**Resize** action option. Or you can select alternative**Maximize** ,**Minimize** , or**Restore** action options in that app. This is how you can set preset sizes for software windows with AutoSizer:
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -61,16 +53,12 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
@@ -87,6 +75,11 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -104,6 +97,10 @@ Now it's time to use WinSize2 to size our windows:
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
  You can change the saved width and height values for the window. To do so, click inside the width and height boxes to input different values there. Select**Change** and**OK** to apply the new window size.
@@ -117,7 +114,11 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -139,18 +140,16 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>[Updated] 2024 Approved Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-correct-yt-monetization-checklist-maximize-your-earnings/"><u>[Updated] In 2024, Correct YT Monetization Checklist – Maximize Your Earnings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-list-of-5-chrome-addons-to-download-facebook-videos/"><u>2024 Approved The Ultimate List of 5 Chrome Addons to Download Facebook Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/does-pressing-prtscr-start-snipping-tool-on-win-11-trick-to-block-it/"><u>Does Pressing PrtScr Start Snipping Tool on Win 11? Trick to Block It</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-trade-off-high-durability-yet-limited-velocity-in-a-thorough-review-of-the-cat-s42-rugged-phone/"><u>Evaluating the Trade-Off: High Durability Yet Limited Velocity in a Thorough Review of the Cat S42 Rugged Phone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fix-your-graphics-issues-with-the-newest-amd-vega-64-drivers-on-windows-solution/"><u>Fix Your Graphics Issues with the Newest AMD Vega 64 Drivers on Windows [Solution]</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-s23plus-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy S23+ Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-window-transparency-on-windows-11-machines/"><u>Maximizing Window Transparency on Windows 11 Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/six-proven-techniques-for-pinpointing-your-pcs-brand-and-version/"><u>Six Proven Techniques for Pinpointing Your PC's Brand & Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-29-alternatives-to-gpts-pos-software/"><u>Top 29 Alternatives to GPT's POS Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-4-free-methods-to-transform-ogg-files-into-m4r-on-pc-and-online/"><u>Top 4 FREE Methods to Transform OGG Files Into M4R on PC and Online</u></a></li>
-<li><a href="https://win11.techidaily.com/zero-internet-window-upgrades-strategy/"><u>Zero Internet Window Upgrades Strategy</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-resolving-missing-sound-in-obs/"><u>[New] In 2024, Resolving Missing Sound in OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[Updated] 2024 Approved Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>[Updated] Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-win-error-31-on-your-computer/"><u>How to Eradicate WIN Error 31 on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-guide-selecting-best-windows-portals-to-switch-games/"><u>Master Guide: Selecting Best Windows Portals to Switch Games</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-failed-file-operations-with-onedrive-windows/"><u>Solving Failed File Operations with OneDrive (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-powertoys-adjustment-on-pc-upgrade/"><u>Streamlining PowerToys Adjustment on PC Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-inaccessible-application-removal/"><u>Tackling Windows' Inaccessible Application Removal</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-4k-blu-ray-experience-best-player-selection/"><u>Ultimate 4K Blu-Ray Experience Best Player Selection</u></a></li>
 </ul></div>
 

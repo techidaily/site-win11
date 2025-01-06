@@ -1,7 +1,7 @@
 ---
 title: Steps for Eliminating Windows Generic Sound Problem
-date: 2024-12-27T00:32:21.736Z
-updated: 2024-12-28T02:19:00.545Z
+date: 2024-12-31T17:09:13.815Z
+updated: 2025-01-06T17:59:38.301Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
  Our guide on [fixing too many background processes running](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides more detail on how to terminate unneeded background apps and services with Task Manager.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. End and Restart the Windows Explorer Process
 
  Some users confirm ending and restarting the File Explorer process fixes the “Windows can’t stop your generic volume device” error. That highlights File Explorer is causing the error and needs to be stopped from utilizing the USB drive.
@@ -53,20 +49,20 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/end-task-option.jpg)
 4. Click Task Manager’s **File** menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select **Run new task** on the menu.
 6. Then input **explorer** in Create new task.  
 ![The Create a new task tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-create-a-new-task-window.jpg)
 7. Select **Create this task with administrative privileges**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click **OK** to restart Explorer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Troubleshoot the Device
 
@@ -83,15 +79,15 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hardware-and-devices-troubleshooter4.jpg)
 5. The troubleshooter might ask you to select a device. If it does, select your connected USB storage device.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A USB Attached option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/usb-attached-option.jpg)
 6. Click **Apply this fix** if the Hardware and Devices troubleshooter suggests a resolution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Select the Quick Removal Option
@@ -108,13 +104,13 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![The Change settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/change-settings-button.jpg)
 6. Select **Policies** in the second window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Then click the **Quick removal (default)** option.  
 ![The Quick removal radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-removal-option.jpg)
 8. Select **OK** to exit the device properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Deselect the Index Drive Setting
 
@@ -129,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 4. Select **Apply** and **OK** to set the drive’s new setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Set the Connected USB Drive to Be in Offline Mode
@@ -144,6 +140,11 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 `list disk`  
 ![The diskpart command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/list-disk-command.jpg)
 5. Next, execute this command to select your USB drive:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `select disk <drive number>`
 6. Finally, set the selected disk to offline by executing this command:  
 `offline disk`  
@@ -183,22 +184,21 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-fixed-youtubes-missing-minute-media/"><u>[New] 2024 Approved Fixed YouTube's Missing Minute Media</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-free-online-tools-for-youtube-channel-starters/"><u>[Updated] 2024 Approved Free Online Tools for YouTube Channel Starters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/10-chatgpt-pdf-plugins-that-can-save-you-time-and-effort/"><u>10 ChatGPT PDF Plugins That Can Save You Time and Effort</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-screencasting-apps-that-transform-classroom-dynamics/"><u>2024 Approved Ideal Screencasting Apps That Transform Classroom Dynamics</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/discover-the-leading-12-ai-powered-free-video-editing-tools-for-windows-and-mac-users-online/"><u>Discover the Leading 12 AI-Powered Free Video Editing Tools for Windows and Mac Users Online</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-error-0xc00ce556-in-winoss-parsing/"><u>Eliminating Error 0xC00CE556 in WinOSs PARSING</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-windows-performance-data-accuracy/"><u>Ensuring Windows Performance Data Accuracy</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-androids-premier-music-video-experience-6-picks/"><u>In 2024, Android's Premier Music Video Experience 6 Picks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-steady-snaps-premier-tripods-for-mobile-cameras/"><u>In 2024, Steady Snaps Premier Tripods for Mobile Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/optimal-program-management-thwarting-windows-autoshrink/"><u>Optimal Program Management: Thwarting Windows' Autoshrink</u></a></li>
-<li><a href="https://win11.techidaily.com/overhauling-inadequate-systems-to-satisfy-intel-graphic-standards/"><u>Overhauling Inadequate Systems to Satisfy Intel Graphic Standards</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-non-running-mcuicntexe-file-error-on-pcs/"><u>Remedying the Non-Running McUICnt.exe File Error on PCs</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/retrouver-des-images-png-perdues-5-techniques-neuve-ainsi-gratuites-a-tentative-vraie/"><u>Retrouver Des Images PNG Perdues : 5 Techniques Neuve-Ainsi Gratuites À Tentative Vraie !</u></a></li>
-<li><a href="https://techtrends.techidaily.com/reviving-the-brightness-of-your-androids-screen-how-to-fix-dark-screens/"><u>Reviving the Brightness of Your Android's Screen – How-To Fix Dark Screens</u></a></li>
-<li><a href="https://win11.techidaily.com/slip-through-system-demands-barrier-in-win11/"><u>Slip Through System Demands Barrier in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-connectivity-how-to-enable-telnet-in-windows-os/"><u>Streamline Connectivity: How to Enable Telnet in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/venturing-into-the-visual-void-ms-paints-dark-mode-guide/"><u>Venturing Into the Visual Void: MS Paint's Dark Mode Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-essential-media-makers-software-linux-edition/"><u>[Updated] 2024 Approved Essential Media Makers' Software Linux Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-submerged-splendor-top-underwater-video-techniques-with-gopro/"><u>[Updated] Submerged Splendor Top Underwater Video Techniques with GoPro</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-upload-made-easy-your-device-based-guide-for-youtube-shorts-for-2024/"><u>[Updated] Upload Made Easy Your Device-Based Guide for YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-leading-no-cost-photo-editor-apps-for-mac-a-comprehensive-guide-beyond-movavi/"><u>Discover the Leading No-Cost Photo Editor Apps for Mac: A Comprehensive Guide Beyond Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-aspects-of-sound-and-sight-in-asmr-recording-for-2024/"><u>Elevate Your Aspects of Sound and Sight in ASMR Recording for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-8t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 8T Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-samsung-ssd-connectivity-issues-under-the-windows-os-complete-solution/"><u>How to Resolve Samsung SSD Connectivity Issues Under the Windows OS [Complete Solution]</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-virtualboxs-efail-windows-issue-0x80004005/"><u>Navigating Through Virtualbox's E_FAIL (Windows) Issue: 0X80004005</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-display-brightness-issues/"><u>Overcoming Windows 11 Display Brightness Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-tools-excluding-microsofts-snipping-for-efficient-screen-grabbing/"><u>Prime Tools Excluding Microsoft's Snipping for Efficient Screen Grabbing</u></a></li>
+<li><a href="https://windows11.techidaily.com/python-server-setup-for-effective-windows-based-data-sharing/"><u>Python Server Setup for Effective Windows-Based Data Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnecting-ethernet-on-windows-os/"><u>Reconnecting Ethernet on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-memory-integrity-for-secure-windows-11/"><u>Reinstating Memory Integrity for Secure Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-missing-microphone-sounds-while-recording-on-pc/"><u>Remedy for Missing Microphone Sounds While Recording on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-your-computers-network-link/"><u>Restoring Your Computer's Network Link</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/survival-in-shambles-selecting-the-top-8-zombie-classics-for-2024/"><u>Survival in Shambles Selecting the Top 8 Zombie Classics for 2024</u></a></li>
 </ul></div>
 

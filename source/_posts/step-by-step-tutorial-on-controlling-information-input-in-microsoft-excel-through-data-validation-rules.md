@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Controlling Information Input in Microsoft Excel Through Data Validation Rules
-date: 2024-08-28T00:49:37.773Z
-updated: 2024-08-29T00:49:37.773Z
+date: 2025-01-05T16:50:52.597Z
+updated: 2025-01-06T16:50:35.842Z
 tags:
   - excel
 categories:
@@ -63,8 +63,6 @@ If you use Excel spreadsheets to collect data from other people, but find that t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -72,8 +70,24 @@ If you use Excel spreadsheets to collect data from other people, but find that t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-peeling-back-layers-of-the-apple-m1-chip/"><u>[New] Peeling Back Layers of the Apple M1 Chip</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-comprehensive-approach-to-online-advertising-mastery/"><u>[Updated] A Comprehensive Approach to Online Advertising Mastery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-all-you-need-to-know-about-the-next-gen-foldable-iphone-price-insights-launch-date-speculations-and-detailed-specifications/"><u>Discover All You Need to Know About the Next-Gen Foldable iPhone: Price Insights, Launch Date Speculations, and Detailed Specifications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/elevate-listener-engagement-seo-strategies-for-podcasts-for-2024/"><u>Elevate Listener Engagement Seo Strategies for Podcasts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-failed-updates-on-microsoft-store/"><u>How to Rectify Failed Updates on Microsoft Store</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-dimming-features-in-windows-power-settings/"><u>Mastering Dimming Features in Windows Power Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-ukrainian-quickly-the-ten-minute-technique-97-chars/"><u>Mastering Ukrainian Quickly: The Ten-Minute Technique (97 Chars)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-syncing-colors-across-clips-the-ultimate-powerdirector-tutorial/"><u>New In 2024, Syncing Colors Across Clips The Ultimate PowerDirector Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivate-device-usage-post-sleep-in-win11/"><u>Reactivate Device Usage Post-Sleep in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-to-rectify-errant-keyboard-arrows/"><u>Reboot to Rectify Errant Keyboard Arrows</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocketing-performance-with-just-six-simple-steps-in-windows/"><u>Skyrocketing Performance with Just Six Simple Steps in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-remedies-for-correction-of-wsls-errortoomanyretries/"><u>Swift Remedies for Correction of WSL's ERROR_TOO_MANY_RETRIES</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

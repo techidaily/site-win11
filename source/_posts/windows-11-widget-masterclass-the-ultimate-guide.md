@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Widget Masterclass: The Ultimate Guide"
-date: 2024-12-26T01:29:35.102Z
-updated: 2024-12-27T23:42:40.780Z
+date: 2024-12-31T18:56:52.285Z
+updated: 2025-01-06T16:42:43.466Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Display the Widgets Button in Taskbar
 
  The only location from where you can launch widgets is the Taskbar. If you just bought a new PC or updated to Windows 11 recently, you should see the**Widgets button** on the left side of the Taskbar because this is usually the default setup.
@@ -32,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
  However, if you are not seeing it for some reason, you can quickly enable the ability to launch the Widget panel from the Taskbar by going to the Settings app.
 
 ![Enable Widgets from Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-widgets-from-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can follow the below steps to bring the shortcut to launch the widgets panel to Taskbar:
 
@@ -68,16 +68,16 @@ Follow the below steps to add widgets:
 
 ![Size of Widgets in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/size-of-widgets.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To change the size of widgets, follow the below steps:
 
 1. Click on the three-dot view in the right corner of the widget to bring the context menu.
 2. Select from**Small** ,**Medium** , and**Large** .
 
  You will see the change immediately after you change the size. But bear in mind that not every widget supports all three sizes. For example, Microsoft Outlook only supports**Medium** and**Large** , whereas the Watchlist widget supports**Small** alongside the other two.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Customize Your News Feed to Get a More Personalized Experience
 
@@ -99,23 +99,15 @@ To change the size of widgets, follow the below steps:
 
 ![Widgets Settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/widgets-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In**Widgets settings** , you get to tweak the**Widget taskbar behaviors** in three different ways: enabling or disabling**Show notification badges** ,**Show announcements** , and**Open Widgets board on hover** toggles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Expand the Widgets Panel
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The ability to expand the widgets board to take up the entire screen space of your computer screen was not available when Microsoft first launched it. However, the full-screen widgets experience should be available to you if you are running Windows 11 22H2 with Windows Web Experience Pack version (423.2300.0.0).
 
@@ -126,6 +118,10 @@ To expand the widgets panel, follow the below steps:
 
  It is important to note that a full-screen widgets panel will remember its previous state when you close it. If the previous state of the panel was full-screen, it would take the entire screen space when you launch it next time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Use Widgets Without a Microsoft Account
 
  The widgets panel in Windows 11 will provide you with a more personalized experience when you are logged in with a Microsoft account. However, if you do not want to sign in to the Widgets panel, you can still get the most important information from the supported app widgets in the panel.
@@ -133,6 +129,10 @@ To expand the widgets panel, follow the below steps:
  If you stay signed in, Microsoft will collect data and learn your usage pattern to provide you with the best experience. Individual widgets can also collect data.
 
  If you are running Windows 11 Insider builds, you can use widgets without logging in with your Microsoft account. If you are running Windows 11 22H2, you need to make sure you have Windows Web Experience Pack version 423.3000.10.0 installed on your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You Are Ready to Get the Most Out of Widgets in Windows 11
 
@@ -153,19 +153,15 @@ To expand the widgets panel, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/pic-soundscape-trending-audio-for-cutting-edge-youtube-short-videos/"><u>[New] Epic Soundscape Trending Audio for Cutting-Edge YouTube Short Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>[New] In 2024, Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-digital-decor-best-platforms-and-software-for-photo-frameups/"><u>[Updated] In 2024, Digital Decor Best Platforms & Software for Photo Frameups</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-resolve-deceptive-user-appearance-within-chat-environments/"><u>2024 Approved Resolve Deceptive User Appearance Within Chat Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-windows-ram-cache/"><u>Comprehensive Guide to Window’s RAM Cache</u></a></li>
-<li><a href="https://win11.techidaily.com/ease-into-windows-11-troubleshooting-update-issue-0x30017/"><u>Ease Into Windows 11: Troubleshooting Update Issue #0X30017</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effective-remedies-for-lenovo-portable-hardware-connectivity-issues/"><u>Effective Remedies for Lenovo Portable Hardware Connectivity Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-efficient-installation-of-msixbundle-and-apppackages-from-microsoft-store/"><u>Fast Track: Efficient Installation of MSixbundle & Apppackages From Microsoft Store</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-poco-f5-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Poco F5 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/maximize-your-gaming-experience-ultimate-guide-to-increasing-fps-in-ring-of-elysium/"><u>Maximize Your Gaming Experience: Ultimate Guide to Increasing FPS in Ring of Elysium</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-vintage-windows-pcs-for-elders/"><u>Reimagining Vintage Windows PCs for Elders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-minds-comparing-strong-vs-weak-artificnicial-intelligence/"><u>The Battle of Minds: Comparing Strong vs Weak Artificnicial Intelligence</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-wins-update-failure-on-win11-v22h2/"><u>Troubleshooting Wins Update Failure on Win11 V22H2</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-image-camouflage-techniques-for-zip-files/"><u>Win11 Image Camouflage Techniques for ZIP Files</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-creative-freedom-the-best-9-online-editors-for-beginners-for-2024/"><u>[Updated] Creative Freedom The Best 9 Online Editors for Beginners for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-recording-movies-best-practices-with-windows-11/"><u>2024 Approved Recording Movies Best Practices with Windows 11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a79-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A79 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-troubleshooting-techniques-for-renaming-folders-issue-on-windows-11/"><u>Easy Troubleshooting Techniques for Renaming Folders Issue on Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/editing-on-steroids-top-40-final-cut-pro-x-keyboard-shortcuts/"><u>Editing on Steroids Top 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/erase-unnecessary-highlighted-icon-on-win11/"><u>Erase Unnecessary Highlighted Icon on Win11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-can-you-air-facebook-videos-on-your-television-set-for-2024/"><u>How Can You Air Facebook Videos on Your Television Set for 2024</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/optimized-web-interactions-with-cookiebot-technology/"><u>Optimized Web Interactions with Cookiebot Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-integrity-to-nonworking-troubleshooters-in-modern-windows/"><u>Restoring Integrity to Nonworking Troubleshooters in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-windows-error-0x80071a90/"><u>Understanding and Rectifying Windows Error: 0X80071A90</u></a></li>
 </ul></div>
 

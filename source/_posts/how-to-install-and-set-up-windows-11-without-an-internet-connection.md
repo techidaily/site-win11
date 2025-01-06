@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2024-12-22T17:08:22.787Z
-updated: 2024-12-27T17:00:40.604Z
+date: 2024-12-30T18:41:04.489Z
+updated: 2025-01-06T16:50:56.240Z
 tags:
   - windows10
   - windows11
@@ -26,16 +26,12 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
 ![lets connect you to a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/lets-connect-you-to-a-network.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  According to Microsoft, you need an active internet connection to perform updates and download and use some features. In addition, Windows 11 Home edition requires a Microsoft Account to complete device setup on first use.
 
@@ -63,21 +59,25 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
 3. Select **Custom: Install Windows Only (Advanced).**  
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the setup screen, select your region and keyboard layout.
 
 1. Once in the **Let’s connect you to a network** screen, press **Shift + F10** to launch the **Command Prompt.**  
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
@@ -89,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 6. Accept the **License Agreement** and proceed to create your local user account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **More Details** to open Task Manager in full view.
@@ -124,16 +124,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
 1. At the Let’s connect you to a network screen, press **Shift + F10** to launch Command Prompt.
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -161,17 +161,17 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences/"><u>[New] 2024 Approved Techniques to Enhance Your Slow Motion Photos for Instagram Audiences</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-craftsmanship-incorporating-descriptive-texts/"><u>[New] In 2024, Instagram Craftsmanship Incorporating Descriptive Texts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-video-excellence-mirrorless-cameras-vs-traditional-dslrs/"><u>[New] In 2024, Video Excellence Mirrorless Cameras vs Traditional DSLRs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-savor-on-screen-mastering-food-films-with-these-7-essentials/"><u>[New] Savor on Screen - Mastering Food Films with These 7 Essentials</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-captivate-and-enchant-explore-the-best-creative-reactions-on-yt/"><u>2024 Approved Captivate and Enchant Explore the Best Creative Reactions on YT</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-file-funneling-features-5-techniques-to-desktops/"><u>2024 Approved File Funneling Features 5 Techniques to Desktops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experts-choice-ultimate-selection-of-apple-watch-bands-thoroughly-tested-and-evaluated-zdnet/"><u>Experts Choice: Ultimate Selection of Apple Watch Bands - Thoroughly Tested and Evaluated | ZDNET</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/head-to-head-comparison-the-new-galaxy-s24-vs-its-predecessor-the-s23-ultra/"><u>Head to Head Comparison: The New Galaxy S24 Vs. Its Predecessor, the S23 Ultra</u></a></li>
-<li><a href="https://win11.techidaily.com/nexus-controller-down-regain-control-with-these-fixes/"><u>Nexus Controller Down? Regain Control with These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-corrupted-recycle-bin-on-win-11/"><u>Tackling Corrupted Recycle Bin on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-approach-to-turn-off-gpgpu-prioritization-on-winos/"><u>Unveiling the Approach to Turn Off GPGPU Prioritization on WINOS</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrading-virtualbox-to-70-in-win11-a-comprehensive-tutorial/"><u>Upgrading VirtualBox to 7.0 in Win11: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-perfecting-time-sync-in-video-postings-on-youtube/"><u>[New] Perfecting Time Sync in Video Postings on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-ios-18-the-full-list-by-zdnet/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with iOS 18 - The Full List by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-forecasting-software-w10w11/"><u>Cutting-Edge Forecasting Software W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/empower-your-windows-pc-leverage-tdarr-for-multi-node-transcoding/"><u>Empower Your Windows PC: Leverage Tdarr for Multi-Node Transcoding</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-counter-dark-screens-while-playing-windows-titles/"><u>Guidelines to Counter Dark Screens While Playing Windows Titles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ss-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-delete-your-facebook-account-on-android/"><u>How to Delete Your Facebook Account on Android</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-stubborn-0x800736cc-windows-update-error/"><u>Overcoming the Stubborn 0X800736CC Windows Update Error</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
+<li><a href="https://win-community.techidaily.com/recover-unseen-file-losses-on-windows-11-when-the-recycle-bin-is-empty/"><u>Recover Unseen File Losses on Windows 11 When the Recycle Bin Is Empty</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essence-of-shareable-humorous-content-for-2024/"><u>The Essence of Shareable Humorous Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-ultimate-command-center-in-windows-11/"><u>Unlocking The Ultimate Command Center in Windows 11</u></a></li>
 </ul></div>
 

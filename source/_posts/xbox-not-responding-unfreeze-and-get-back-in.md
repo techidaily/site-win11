@@ -1,7 +1,7 @@
 ---
 title: Xbox Not Responding? Unfreeze and Get Back In
-date: 2024-12-24T22:44:38.568Z
-updated: 2024-12-27T17:50:50.107Z
+date: 2024-12-31T20:31:39.986Z
+updated: 2025-01-06T18:56:43.159Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/39eb12846caac832ee1b1d85070e2dd4cb557f022
  A sketchy internet connection may prevent you from downloading or launching games from the Xbox app. Hence, before spending time on any advanced solutions,[run a quick internet speed test](https://www.makeuseof.com/best-free-websites-test-internet-speed/) on your PC to check your connection. You can also try switching to a different network connection if one is available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Correct Date and Time on Your PC
@@ -51,10 +51,6 @@ Restart the Xbox app after this and see if it works fine.
 
  If the clock keeps messing up after this fix, check out[the reasons why your Windows 10 or 11 time is wrong](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) for more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sign Out and Back Into the Xbox App
 
  Authentication issues with your account can also cause the Xbox app to stop working. One way to fix such issues is to sign out of the Xbox app and sign back in.
@@ -62,6 +58,14 @@ Restart the Xbox app after this and see if it works fine.
  In the Xbox app, click on your username in the top left corner and select**Sign out** . Then, click the**Sign in** option and enter your account details. Then, try using the app again.
 
 ![Sign Out of Xbox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Sign-Out-of-Xbox-App.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Gaming Services App
 
@@ -81,6 +85,10 @@ Restart the Xbox app after this and see if it works fine.
 
 [Restart your PC](https://www.makeuseof.com/windows-restart-methods/) after this and try to use the Xbox app again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Run the Windows Store Apps Troubleshooter
 
  Windows Store Apps troubleshooter is a built-in tool that can scan your apps for common issues and suggest fixes accordingly. You can use this tool if the Xbox app fails to open or work on your computer.
@@ -94,7 +102,7 @@ To run the Windows Store Apps troubleshooter:
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Repair or Reset Xbox App
@@ -113,10 +121,6 @@ To repair the Xbox app on Windows:
  Windows will attempt to repair the app. You should see a checkmark next to the Repair button once the process is complete. If the problem persists, you can try resetting the app from the same menu. ​​​​​​
 
  If any Windows apps begin to misbehave in the future, check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for similar steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -142,10 +146,6 @@ To leave the Xbox Insider Program:
 6. Select**Continue** when prompted.  
 ![Leave Xbox Insider Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Leave-Xbox-Insider-Program.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart the Xbox app after this and try to use it again.
 
 ## Troubleshooting the Xbox App on Windows
@@ -169,22 +169,22 @@ Restart the Xbox app after this and try to use it again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-gopro-evolution-a-step-by-step-comparison-tutorial/"><u>[New] Gopro Evolution A Step-by-Step Comparison Tutorial</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-professional-livestreamers-vmix-or-wirecast-in-2024/"><u>[New] The Ultimate Guide to Professional Livestreamers VMix or Wirecast, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-guide-to-resolving-minecraft-black-screen-glitch-tips-and-tricks-for-smooth-gaming/"><u>2024 Guide to Resolving Minecraft Black Screen Glitch: Tips and Tricks for Smooth Gaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/basmati-rice-this-long-grain-rice-is-known-for-its-fragrant-aroma-and-delicate-texture-when-cooked-its-essential-to-the-dish-because-it-absorbs-flavors-well112/"><u>Basmati Rice: This Long-Grain Rice Is Known for Its Fragrant Aroma and Delicate Texture when Cooked. It's Essential to the Dish because It Absorbs Flavors Well and Remains Separate, Not Sticky or Mushy, Which Is Characteristic of Biryani's Presentation.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
-<li><a href="https://win11.techidaily.com/examining-wsls-influence-on-linux-adoption/"><u>Examining WSL's Influence on Linux Adoption</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-the-working-state-of-speakers-and-sound-devices-in-windows-11/"><u>How to Restore the Working State of Speakers and Sound Devices in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/illuminating-holiday-joy-window-decor-inspirations/"><u>Illuminating Holiday Joy - Window Decor Inspirations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-creative-storytelling-vault/"><u>In 2024, Creative Storytelling Vault</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-parrot-ar-drone-20-elite-overview/"><u>In 2024, Parrot AR Drone 2.0 Elite Overview</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-macos-with-external-windows-programs/"><u>Mastering macOS with External Windows Programs</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-cure-all-ppt-save-errors-6-must-try-methods-in-win11/"><u>Quick Cure-All PPT Save Errors: 6 Must-Try Methods in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/screen-splendor-series-designing-distinct-displays-on-win-1011-per-monitor/"><u>Screen Splendor Series: Designing Distinct Displays on WIN 10/11 Per Monitor</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-increasing-volume-on-windows-11-machines/"><u>Step-by-Step Solutions for Increasing Volume on Windows 11 Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-failed-to-install-discord-error-win/"><u>Tackling the Failed to Install Discord Error (Win)</u></a></li>
-<li><a href="https://win11.techidaily.com/the-project-pro-essential-ms-project-keys-explained/"><u>The Project Pro: Essential MS Project Keys Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-for-windows-multi-monitor-brightness-tuning/"><u>The Ultimate List for Windows Multi-Monitor Brightness Tuning</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ackground-blur-101-boosting-video-clarity-on-youtube-for-2024/"><u>[New] Background Blur 101 Boosting Video Clarity on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-evaluating-dailymotion-vs-youtube-profitability/"><u>2024 Approved Evaluating Dailymotion vs YouTube Profitability</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/eract-bot-visitors-for-real-audience-growth/"><u>Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://driver-error.techidaily.com/enhancing-windows-10-lenovo-bt-driver/"><u>Enhancing Windows 10 Lenovo BT Driver</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-mend-disk-errors-on-modern-windows-systems/"><u>Essential Tips to Mend Disk Errors on Modern Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-mfc71u-dll-loss-in-windows-system/"><u>Fixing Mfc71u DLL Loss in Windows System</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-8-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 8</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-retrace-your-steps-on-windows-11s-search-settings/"><u>How to Retrace Your Steps on Windows 11'S Search Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-malware-defense-restoring-windows-defender-engine-capability/"><u>Mastering Malware Defense: Restoring Windows Defender Engine Capability</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/mastering-the-name-game-for-top-podcast-titles/"><u>Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-a-seamless-software-shift-with-windows-11-upgrade/"><u>Securing a Seamless Software Shift with Windows 11 Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-other-users-windows-microsoft-login-issue/"><u>Solving the Other User's Windows Microsoft Login Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-threat-strategies-to-identify-and-eliminate-wacatacbml/"><u>The Hidden Threat: Strategies to Identify and Eliminate Wacatac.B!ml</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-comprehensive-guide-to-cutting-edge-hardware/"><u>Tom's Tech Insights: Comprehensive Guide to Cutting-Edge Hardware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-guide-to-repairing-and-restoring-audio-functionality-on-windows-10-systems/"><u>Ultimate Guide to Repairing and Restoring Audio Functionality on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-process-for-purging-history-from-ms-defender/"><u>Unveiling the Process for Purging History From MS Defender</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-vs-vimeo-exploring-user-experience-variance/"><u>YouTube vs Vimeo Exploring User Experience Variance</u></a></li>
 </ul></div>
 

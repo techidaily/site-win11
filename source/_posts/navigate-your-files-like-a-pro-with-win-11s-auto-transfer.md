@@ -1,7 +1,7 @@
 ---
 title: Navigate Your Files Like a Pro with Win 11’S Auto-Transfer
-date: 2024-12-24T23:43:43.626Z
-updated: 2024-12-28T05:28:42.857Z
+date: 2025-01-03T17:36:11.496Z
+updated: 2025-01-06T19:40:06.427Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With Files 2 Folder
@@ -40,24 +40,29 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 3. Select **Yes** to register the shell extension.  
 ![The register shell extension prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/register-shell-extension-prompt.jpg)
 4. Now bring up a directory that includes some files with which to create a new folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select files to include in your new folder.
 6. Then right-click a selected file and select **Show more options** and **Files 2 Folder** on the classic context menu.  
 ![The Files 2 Folder option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files-2-folder-option.jpg)
 7. Input a folder name within the text for the **Move all selected items into a subfolder named** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Files 2 Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/files2folder-window.jpg)
 8. Click **OK** to create the new folder with the files selected moved into it. The new folder will be in the directory where you selected the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also select one of three alternative folder creation options within the Files 2 Folder window. The **Move each file to individual subfolders based on their names** option does what its label says. Or create a dated directory by selecting **Move all selected files to a date folder**.
 
  If you need to organize selected files according to format, select **Move each file to subfolders based on their file extensions**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Place Selected Files Into a New Folder With TeraCopy
@@ -73,15 +78,11 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 ![The Teracopy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/teracopy-window.jpg)
 5. Make sure the **Add to Explorer context menu** option is selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click **OK** to exit the preferences and close the TeraCopy window.  
 ![The Add to Explorer context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-to-explorer-context-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that TeraCopy is ready to go, let's put it to use.
@@ -111,18 +112,22 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/uick-response-guide-adding-youtubes-closed-captions-and-subtitles-for-2024/"><u>[New] Quick-Response Guide Adding YouTube's Closed Captions and Subtitles for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-platform-pair-comparison-twitch-and-youtube/"><u>[New] The Ultimate Platform Pair Comparison Twitch and YouTube</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-complete-checklist-for-recording-fb-chats-and-meets/"><u>[Updated] 2024 Approved The Complete Checklist for Recording FB Chats and Meets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-slidestream-creator-pro-macos/"><u>2024 Approved SlideStream Creator Pro (macOS)</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-exploring-and-expunging-windows-history/"><u>Essential Steps for Exploring and Expunging Windows History</u></a></li>
-<li><a href="https://some-tips.techidaily.com/happy-joyful/"><u>Happy - Joyful</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a59-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Oppo A59 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96260778-9782268100234-la-maitrise-parfaite/"><u>La Maîtrise parfaite | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-win1110-store-issue-0x80072efd/"><u>Mastering the Resolution of Win11/10 Store Issue 0X80072EFD</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-ssd-capabilities-integrate-windows-and-fresh-optimization/"><u>Maximize SSD Capabilities: Integrate Windows & Fresh Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-errors-validating-windows-11-temporary-folder/"><u>Preventing Errors: Validating Windows 11 Temporary Folder</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-faulty-input-devices-on-a-windows-system/"><u>Resolving Faulty Input Devices on a Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-windows-11-wallpaper-location-secret/"><u>Uncover Windows 11 Wallpaper Location Secret</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premier-8-safe-video-communication-programs-for-smbs/"><u>[New] In 2024, Premier 8 Safe Video Communication Programs for SMBs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-f54-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy F54 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/conclude-computing-essential-strategies-for-windows-11-silencing/"><u>Conclude Computing: Essential Strategies for Windows 11 Silencing</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-absentee-windows-search-results-in-win-1011/"><u>Correcting Absentee Windows Search Results in Win 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-the-best-graphics-support-on-windows-with-new-rx-570-drivers/"><u>Get the Best Graphics Support on Windows with New RX 570 Drivers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-use-apple-maps-on-a-windows-pc/"><u>How to Use Apple Maps on a Windows PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop Life360 from Tracking You On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-12-proplus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12 Pro+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/italian-journey-speak-mastering-local-dialects/"><u>Italian Journey Speak: Mastering Local Dialects</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-top-10-rainmeter-errors-on-windows/"><u>Overcoming the Top 10 Rainmeter Errors on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/power-up-with-enhanced-script-policy-management-in-windows/"><u>Power Up with Enhanced Script Policy Management in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-the-functionality-of-secure-boot-after-disabling-in-windows-bios/"><u>Restoring the Functionality of Secure Boot After Disabling in Windows BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-missing-logins-on-win1011-oses/"><u>Steps to Address Missing Logins on WIN10/11 OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mend-crashing-asana-apps-on-desktops/"><u>Steps to Mend Crashing Asana Apps on Desktops</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-face-cropping-tools/"><u>The Ultimate Guide to Face Cropping Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-it-with-feeling-a-beginners-guide-to-making-a-valentines-day-video/"><u>Updated Say It with Feeling A Beginners Guide to Making a Valentines Day Video</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-fixing-windows-os-errors/"><u>Winning at Fixing Windows OS Errors</u></a></li>
 </ul></div>
 

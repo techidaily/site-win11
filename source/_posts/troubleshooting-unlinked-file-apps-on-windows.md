@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unlinked File Apps on Windows
-date: 2024-12-21T21:27:32.917Z
-updated: 2024-12-27T23:52:18.147Z
+date: 2025-01-02T16:37:46.130Z
+updated: 2025-01-06T16:59:02.730Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Ensure You Have an App Installed That Can Open Such Files
 
  Windows presents this error primarily when it fails to find the appropriate app to open files. Therefore, first, you should check whether you have the right app installed to open files in this particular format. There are several ways to check this, but here is one of the easiest:
@@ -48,11 +44,11 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
 ![Windows Suggesting Some Apps to Open the Image File in PNG Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-suggesting-some-apps-to-open-the-image-file-in-png-format.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If that's the case, simply go to any of your browsers, search for Windows apps that can run files in that format, and download them. After downloading the appropriate app, make it the default for opening this file type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set the Default Application for the File Type
 
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -88,19 +88,15 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
 4. If it's not there, right-click in the blank area and go to**New > String Value** . Then rename it to**"IsShortcut** .**"**  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
 5. If the string value is already there, right-click on it and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Restart your device once after that.
 
@@ -112,7 +108,7 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're opening a folder by searching it in Windows Search or Quick Access, consider opening it directly from File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Do You Encounter the Error When Opening Apps or Games? Try These Tips
@@ -122,6 +118,10 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 * If you're using a shortcut to open games, especially the ones installed in a gaming client, open them from the gaming client or the installation directory.
 * In case the game launcher requires you to log in before playing any of the installed games, ensure you do so.
 * If you're experiencing this error in a specific game or app, ensure its files haven't been corrupted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easily Open Your Apps, Files, and Folders Again on Windows
 
@@ -142,21 +142,20 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-decoding-youtubes-thumbnail-impact-on-traffic/"><u>[New] In 2024, Decoding YouTube's Thumbnail Impact on Traffic</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-breaking-down-manycams-recording-capabilities-for-professionals/"><u>[Updated] Breaking Down ManyCam's Recording Capabilities for Professionals</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-zero-to-hero-learning-the-art-of-youtube-content/"><u>[Updated] In 2024, From Zero to Hero Learning the Art of YouTube Content</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/banishing-pc-bugs-solving-the-final-fantasy-xiv-online-issues/"><u>Banishing PC Bugs: Solving the Final Fantasy XIV Online Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-unwanted-edge-shortcut-popups/"><u>Conquering Unwanted Edge Shortcut Popups</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-connection-integrate-your-pc-and-phone-through-flow/"><u>Effortless Connection - Integrate Your PC & Phone Through Flow</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-11s-zerox-error-code-0x80049dd3-and-enhance-typing/"><u>Fix Windows 11'S Zerox Error (Code: 0X80049DD3) and Enhance Typing</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-resolve-the-wsl-error-4294967295-on-windows/"><u>How to Resolve the WSL Error 4294967295 on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-hdmi-audio-output-for-your-windows/"><u>How to Restore HDMI Audio Output for Your Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/savings-saved-the-hidden-dangers-in-cheap-windows-activation-codes/"><u>Savings, Saved? The Hidden Dangers in Cheap Windows Activation Codes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/silent-signals-solved-reviving-ring-tones-on-your-iphone-device/"><u>Silent Signals Solved: Reviving Ring Tones on Your iPhone Device</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-no-stress-approach-to-hawki-cars-repairs/"><u>The No-Stress Approach to Hawki Cars Repairs</u></a></li>
-<li><a href="https://win11.techidaily.com/transitioning-to-virtualbox-70-on-windows-11-your-ultimate-walkthrough/"><u>Transitioning to VirtualBox 7.0 on Windows 11 – Your Ultimate Walkthrough</u></a></li>
-<li><a href="https://win-latest.techidaily.com/wiederholung-geloschter-dateien-auf-tape-diktierern-losungen-und-methoden/"><u>Wiederholung Gelöschter Dateien Auf Tape-Diktierern – Lösungen Und Methoden</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-print-admin-a-user-friendly-approach/"><u>Windows Print Admin: A User-Friendly Approach</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-insider-tips-on-investing-in-top-hdr-cameras/"><u>[Updated] 2024 Approved Insider Tips on Investing in Top HDR Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-30-pro-windows-10-secrets-revealed-for-2024/"><u>[Updated] Top 30 Pro Windows 10 Secrets Revealed for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-full-review-insights-acevideo-editor-2023-edition/"><u>2024 Approved Full Review Insights AceVideo Editor, 2023 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004405247-conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers !</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-notetaking-techniques-for-windows-users/"><u>Effortless Notetaking Techniques for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-6-task-management-apps-optimized-for-windows-11-systems/"><u>Essential 6 Task Management Apps Optimized for Windows 11 Systems</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/essential-tips-for-enhancing-images-on-snapchat/"><u>Essential Tips for Enhancing Images on Snapchat</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-fix-unstoppable-volume-controller-on-windows/"><u>Guide to Fix 'Unstoppable Volume Controller' On Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-pros-and-cons-comprehensive-review-of-hp-stream-14s-value-proposition-in-budget-computing/"><u>Navigating Pros and Cons: Comprehensive Review of HP Stream 14'S Value Proposition in Budget Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-prime-viewing-deciphering-subtitle-woes-in-windows-11/"><u>Streamline Your Prime Viewing: Deciphering Subtitle Woes in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nokia-g42-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nokia G42 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-vmware-start-failures-in-wm11pluswindows/"><u>Troubleshoot VMware Start Failures in WM11+Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-win11-filesystem-issues/"><u>Troubleshooting Win11 FileSystem Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-xiaomi-redmi-note-13-proplus-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Xiaomi Redmi Note 13 Pro+ 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/vr-in-schools-the-evolving-educational-sphere/"><u>VR in Schools The Evolving Educational Sphere</u></a></li>
 </ul></div>
 

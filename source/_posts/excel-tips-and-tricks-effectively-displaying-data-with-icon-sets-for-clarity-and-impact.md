@@ -1,7 +1,7 @@
 ---
 title: "Excel Tips & Tricks: Effectively Displaying Data with Icon Sets for Clarity and Impact"
-date: 2024-08-28T00:49:16.067Z
-updated: 2024-08-29T00:49:16.067Z
+date: 2024-12-31T19:54:19.494Z
+updated: 2025-01-06T17:50:00.499Z
 tags:
   - excel
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 ![Hover your cursor to preview Icon Sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingPreviewIconSets-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you spot one that you want to use, simply click it. This applies the conditional formatting rule to your selected cells with the icon set that you chose. As you can see in the screenshot below, we selected the stars from our initial example.
 
 ![Star Icon Set Example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/SimpleStarIconSets-Excel.png) 
@@ -49,37 +53,37 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 ![On the Home tab, click Conditional Formatting, New Rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingNewRuleIconSets-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the New Formatting Rule window opens, select "Format All Cells Based on Their Values" at the top.
 
 ![Pick Format All Cells Based on Their Values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesIconSets-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At the bottom of the window, click the Format Style drop-down list and pick "Icon Sets." You'll then customize the details for the rule.
 
 ![Select Icon Sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesChooseIconSets-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the Icon Style in the next drop-down list. Again, you can pick from three, four, or five categories. If you prefer the icons in the opposite arrangement, click "Reverse Icon Order."
 
 ![Pick an Icon Set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesSelectIconSet-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  A handy feature of the Icon Sets custom rule is that you aren't stuck with the exact set of icons that you select. Below that Icon Style drop-down box, you'll see boxes for the icons in the group. This allows you to customize the exact icons for your rule. So if you, for example, want to use a star, flag, and arrow instead of three stars, go for it!
 
 ![Pick custom icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/CustomIconSet-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  The final part to setting up your rule is entering the values for the range. Choose "Greater Than" (>) or "Greater Than or Equal to" (>=) in the first drop-down box. Enter your value in the next box and choose whether it's a number, percent, formula, or percentile. This gives you great flexibility to set up your rule.
 
 ![Add the values and type of values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatBasedValuesIconSetValues-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, click "OK" to apply your rule.
 
  One more handy feature worth mentioning is that you can display the icon only. By default, Excel shows both the icon and the value that you enter. But there might be cases where you plan to rely solely on the icon. In that case, check the box for "Show Icon Only."
@@ -97,16 +101,14 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
 
 ![Sample icon only rule setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/SampleIconSetRule-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Now, all we have to do in our sheet is type "1" for new orders, "2" for those in progress, and "3" for complete orders. When we hit Enter, all we see is our green, yellow, and red traffic light indicators.
 
 ![Example icon conditional formatting rule in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/SampleIconSetRuleDisplay-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully, this how-to for using Icon Sets in Microsoft Excel prompts you to take advantage of this wonderful feature. And for another way to use conditional formatting, take a look at [how to create progress bars in Excel](https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/).
 
 <ins class="adsbygoogle"
@@ -115,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,26 @@ thumbnail: https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-edge-your-way-to-success-instagrams-finest-border-applications/"><u>[New] 2024 Approved Edge Your Way to Success Instagram's Finest Border Applications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-step-by-step-inserting-chapters-in-vimeo-videos-for-2024/"><u>[New] Step-by-Step Inserting Chapters in Vimeo Videos for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-two-dimensions-techniques-for-3d-text-in-illustrator/"><u>[Updated] From Two-Dimensions Techniques for 3D Text in Illustrator</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-one-way-startup-on-secure-windows-for-office-suite/"><u>Combatting the One-Way Startup on Secure Windows for Office Suite</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-unresponsive-rpc-on-windows-systems/"><u>Dealing with Unresponsive RPC on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-windows-activation-problem-0x803f700f/"><u>Eliminating Windows Activation Problem: 0X803F700F</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-expertos-para-rescatar-archivos-de-sistema-danados-y-prevenir-la-perdida-de-datos-en-windows-7/"><u>Guía Expertos Para Rescatar Archivos De Sistema Dañados Y Prevenir La Pérdida De Datos en Windows 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-x6-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find X6 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y36i-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-10-error-e1-exception/"><u>Resolving Windows 10 Error E1 Exception</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-incompatible-media-input-vlc/"><u>Resolving Windows: Incompatible Media Input VLC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/samsung-media-player-troubles-what-to-do-when-your-blu-ray-wont-work/"><u>Samsung Media Player Troubles: What to Do When Your Blu-Ray Won't Work</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/strategies-for-compelling-facebook-video-content-for-2024/"><u>Strategies for Compelling Facebook Video Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-razer-and-windows-interaction-for-seamless-detection/"><u>Streamlining Razer and Windows Interaction for Seamless Detection</u></a></li>
+<li><a href="https://win11.techidaily.com/subtle-techniques-for-disguising-windows-11s-language-line/"><u>Subtle Techniques for Disguising Windows 11'S Language Line</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-what-to-do-when-you-cant-find-msvcr80dll/"><u>Troubleshooting: What To Do When You Can't Find MSVCR80.DLL</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlisted-youtube-explained-beyond-the-main-channels-for-2024/"><u>Unlisted YouTube Explained Beyond the Main Channels for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-clear-views-6-fixes-for-windows-resolution-confusion/"><u>Unlock Clear Views: 6 Fixes for Windows Resolution Confusion</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-sound-potential-with-windows-11/"><u>Unlock Your PC's Sound Potential with Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows 11 Login Secrets: Fixing Blank Pages"
-date: 2024-08-23T06:09:24.142Z
-updated: 2024-08-24T06:09:24.142Z
+date: 2025-01-01T19:54:30.628Z
+updated: 2025-01-06T18:26:24.628Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 **Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
@@ -44,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879c
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
 To check and update Windows 11:
@@ -53,15 +61,16 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
  While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
@@ -75,10 +84,6 @@ To check and update Windows 11:
 3. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![Windows Recovery environment troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-recovery-environment-troubleshoot.jpg)
 4. Next, click on**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
@@ -87,9 +92,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 6\. Run Startup Repair
 
  The Startup Repair is a Windows recovery tool that can scan the system for issues interrupting the normal start-up of your computer and try to fix them automatically. It is part of the Windows Recovery Environment, so you’ll need to boot into WinRE to use the option. Follow these steps to run Startup Repair in Windows 11.
@@ -98,21 +100,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
@@ -131,8 +132,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +139,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-essentialtips-for-easycamwebrecorderuse/"><u>[New] In 2024, EssentialTips for EasyCamWebRecorderUse</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-from-boredom-to-attention-unveiling-the-6-key-videos/"><u>[New] In 2024, From Boredom to Attention Unveiling the 6 Key Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-alleviate-chromes-video-viewing-problem/"><u>[Updated] Alleviate Chrome's Video Viewing Problem</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-logging-roblox-games-on-a-macbook/"><u>[Updated] Expert Strategies for Logging Roblox Games on a MacBook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-a-new-lens-on-cinema-embracing-vr-tech/"><u>[Updated] In 2024, A New Lens on Cinema Embracing VR Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tranquil-touchscreen-best-idle-phone-adventures-for-2024/"><u>[Updated] Tranquil Touchscreen Best Idle Phone Adventures for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-tp-link-wifi-adapter-driver-for-windows-users-windows-10-8-and-n-latest-release/"><u>Get the Newest TP-Link WiFi Adapter Driver for Windows Users (Windows 10, 8 & N) Latest Release</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-making-windows-kali-compatible/"><u>Guide to Making Windows-Kali Compatible</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-disguise-concealing-linguistic-line-from-windows-11-status-bar/"><u>Mastering Disguise: Concealing Linguistic Line From Windows 11 Status Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-multi-task-mastery-on-a-windows-11-device-like-an-expert/"><u>Navigate Multi-Task Mastery on a Windows 11 Device Like an Expert</u></a></li>
+<li><a href="https://win11.techidaily.com/prepping-windows-users-webcam-and-mic-checks-for-meetings/"><u>Prepping Windows Users: Webcam & Mic Checks for Meetings</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-enabling-and-disabling-windows-key/"><u>Quick Fix: Enabling and Disabling Windows Key</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-remedying-components-not-present-error-on-win10win11/"><u>Quick Guide: Remedying Components Not Present Error on Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-rockalldlldll-from-pc-disappearance/"><u>Recovering Rockalldll.dll From PC Disappearance</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-error-code-0x00709-in-windows/"><u>Rectifying Error Code 0X00709 in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solved-0x000000ea-blue-screen-error/"><u>SOLVED: 0X000000EA Blue Screen Error</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-resolving-windows-11-microphone-issues/"><u>Troubleshooting Steps: Resolving Windows 11 Microphone Issues</u></a></li>
+</ul></div>
 

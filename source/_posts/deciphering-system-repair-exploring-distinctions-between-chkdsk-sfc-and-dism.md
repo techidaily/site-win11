@@ -1,7 +1,7 @@
 ---
 title: "Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM"
-date: 2024-12-27T04:31:58.470Z
-updated: 2024-12-28T05:53:47.807Z
+date: 2025-01-01T16:17:31.043Z
+updated: 2025-01-06T19:08:39.244Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CHKDSK and When Should You Use It?](#what-is-chkdsk-and-when-should-you-use-it)
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
  When your PC starts reporting errors, slowing down, or misbehaving, you can use Windows's built-in diagnostic tools to try and fix the problem. CHKDSK, SFC, and DISM check the health of your hard drive and repair corrupt files, but the three tools work in different ways and target different areas of your system.
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is CHKDSK and When Should You Use It?
 
@@ -75,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![CHKDSK scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chkdsk-scan.jpg)
 5. Press **Enter** to scan for errors in read-only mode, which means no changes will be made.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make changes, you can use parameters with the CHKDSK command. Here are two you can use to fix problems:
 
 * To make CHKDSK fix the problems it finds, type **chkdsk /f c:** (for your C: drive).
 * To scan for bad sectors and errors, type **chkdsk /r c:**
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is SFC Scannow and When Should You Use It?
 
@@ -109,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 * **Windows Resource Protection found corrupt files but was unable to fix some of them.** This means that system files are to blame, but SFC can't replace them. Try running the tool again in Safe Mode. If you still get the same result, don't despair: it's time to use DISM.
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is DISM and When Should You Use It?
 
@@ -140,14 +144,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
 
@@ -169,18 +169,24 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-elite-selection-of-10-websites-offering-free-photos-for-2024/"><u>[New] The Elite Selection of 10 Websites Offering FREE Photos for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-to-hd-live-streaming-equipment/"><u>[New] Ultimate Guide to HD Live-Streaming Equipment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nparalleled-selection-of-budget-stock-media-sites/"><u>[New] Unparalleled Selection of Budget Stock Media Sites</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-auditory-selections-for-filmmaking/"><u>[Updated] Exclusive Auditory Selections for Filmmaking</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-microsoft-office-glitch-error-30015-26/"><u>Fixing Microsoft Office Glitch: Error 30015-26</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-x9b-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor X9b to New Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-zexmt-bluetooth-device-driver-on-your-pc-compatible-with-win-1078/"><u>Install Zexmt Bluetooth Device Driver on Your PC - Compatible with Win 10/7/8</u></a></li>
-<li><a href="https://win11.techidaily.com/lost-voice-troubleshoot-microphone-errors-in-google-meet-windows/"><u>Lost Voice? Troubleshoot Microphone Errors in Google Meet (Windows)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solutions-for-resolving-issues-with-tiktok-functionality/"><u>Solutions for Resolving Issues with TikTok Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/succeed-without-upgrading-to-windows-11-heres-how/"><u>Succeed without Upgrading to Windows 11, Here's How</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-0x800736cc-windows-update-hurdle/"><u>Tackling the 0X800736CC Windows Update Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-blue-screen-data-for-precise-repairs/"><u>Utilizing Windows Blue Screen Data for Precise Repairs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-extract-translate-and-save-youtube-subtitles-for-free/"><u>[New] 2024 Approved Extract, Translate & Save YouTube Subtitles for FREE!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-upside-down-your-instagram-videos-complete-manual/"><u>[New] 2024 Approved How to Upside Down Your Instagram Videos [Complete Manual]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-cost-free-industry-approved-video-callers/"><u>[New] 2024 Approved The Ultimate List of Cost-Free, Industry-Approved Video Callers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unlocking-the-art-of-flawless-instantaneous-iphone-podcast-downloads/"><u>[New] 2024 Approved Unlocking the Art of Flawless, Instantaneous iPhone Podcast Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-fix-hide-identities-in-photos-with-picart/"><u>[New] Quick Fix Hide Identities in Photos with PicArt</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-how-to-record-skype-calls/"><u>[Updated] In 2024, How to Record Skype Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-fixing-disk-read-errors/"><u>Comprehensive Guide: Fixing 'Disk Read' Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-compatibility-status-with-latest-windows-os/"><u>Discover Compatibility Status with Latest Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-media-player-app-when-it-stops-working-on-windows-11/"><u>How to Fix the Media Player App When It Stops Working on Windows 11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/how-to-save-iphone-calls-on-mac-or-windows-pc/"><u>How to Save iPhone Calls on Mac or Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-quick-aid-on-modern-windows-11/"><u>Launching Quick Aid on Modern Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/lost-in-the-web-seven-win-friendly-fixes-for-non-opening-sites/"><u>Lost in the Web? Seven Win-Friendly Fixes for Non-Opening Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-deskanywhere-stability-in-win11/"><u>Mastering DeskAnywhere Stability in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-poms-an-insiders-guide-to-top-8-windows-timer-tools/"><u>Mastering Poms: An Insider's Guide to Top 8 Windows Timer Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-s-best-ipad-video-editing-tools-a-comprehensive-review/"><u>New In 2024, S Best iPad Video Editing Tools A Comprehensive Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nokia-c12-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nokia C12 Phone Now with These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-jumps-to-uwp-building-windows-11-shortcuts/"><u>Quick Jumps to UWP: Building Windows 11 Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-starting-windows-11-service-configuration-explained/"><u>The Art of Starting Windows 11: Service Configuration Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-the-secrets-of-silent-video-suggestions-in-feed/"><u>Unlocking the Secrets of Silent Video Suggestions in Feed</u></a></li>
 </ul></div>
 

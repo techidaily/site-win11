@@ -1,7 +1,7 @@
 ---
 title: Crucial Excel Tricks You Need to Know for Effective Data Input
-date: 2024-08-28T00:49:30.731Z
-updated: 2024-08-29T00:49:30.731Z
+date: 2025-01-04T18:06:09.011Z
+updated: 2025-01-06T19:10:57.151Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Crucial Excel Tricks You Need to Know for Effective Data Input
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -48,8 +52,9 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![TODAY and NOW functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TodayNow-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Obtain Parts of a Text String: LEFT, RIGHT, and MID
 
  If you're working with strings of text where you need to obtain part of that string for your entry, you can do so with the LEFT, RIGHT, and MID functions.
@@ -72,15 +77,16 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![RIGHT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Right-ExcelDataEntryFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with this formula, you can obtain the five characters starting with the seventh character in cell A1:
 
 =MID(A1,7,5)
 
 ![MID function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Mid-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Change the Letter Case: UPPER, LOWER, and PROPER
 
  Maybe you have some inconsistencies in the way the text in your sheet was entered. You can [convert letters](https://some-skills.techidaily.com/in-2024-streamlining-video-editing-in-obs-with-luts/) to all uppercase or lowercase, or capitalize the first letter of each word with UPPER, LOWER, and PROPER.
@@ -106,8 +112,9 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![PROPER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Proper-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Round Your Numbers: ROUNDUP and ROUNDDOWN
 
  You might have a spreadsheet containing decimal numbers that you prefer to [round up](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/) or down, rather than display the entire string. The ROUNDUP and ROUNDDOWN functions in Excel let you round numbers easily.
@@ -122,19 +129,17 @@ Related: [How to Round Off Decimal Values in Excel](https://instagram-clips.tech
 
 ![ROUNDUP function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/RoundUp-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To round that same number down two digits, you'd use this formula:
 
 =ROUNDDOWN(A1,2)
 
 ![ROUNDDOWN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/RoundDown-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Use a positive number for the `number_digits` argument to round decimal places to the right and a negative number to round decimal places to the left.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove Unnecessary Spaces: TRIM
 
@@ -155,8 +160,13 @@ Related: [How to Round Off Decimal Values in Excel](https://instagram-clips.tech
 ![TRIM text in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TrimText-ExcelDataEntryFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Compare a Value and Return a Result: IF
 
  The [IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) is a popular tool for comparing values and returning numerical or textual results. You can then analyze those results or use them elsewhere like in another formula.
@@ -171,18 +181,12 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![IF a value equals function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/IfYes-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  For a text example, you can see if a value (A1) is greater than another value (B1) and then return "Over" if it is and "Under" if it isn't.
 
 =IF(A1>B1,"Over","Under")
 
 ![IF a value is greater than function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/IfOver-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Look Up Values: XLOOKUP
 
  When you need to look up a value or text from another location and enter it in your sheet, the XLOOKUP function is ideal.
@@ -199,11 +203,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![XLOOKUP for one field](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/XLookupPhone-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  As another example, you can use this formula to find both the phone number and the email address for that customer:
 
 =XLOOKUP(G2,A2:A10,B2:C10)
@@ -222,8 +221,6 @@ Related: [How to Create a Data Entry Form in Microsoft Excel](https://instagram-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +228,23 @@ Related: [How to Create a Data Entry Form in Microsoft Excel](https://instagram-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-ensuring-compatibility-with-macos-big-sur-release/"><u>[New] Ensuring Compatibility with MacOS Big Sur Release</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-new-take-on-favorite-movies-7-alternatives/"><u>[New] In 2024, A New Take on Favorite Movies - #7 Alternatives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-strategies-for-creating-a-positive-interview-environment/"><u>[New] Strategies for Creating a Positive Interview Environment</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-visual-vibes-building-a-repertoire-of-shareable-fb-and-insta-videos-for-2024/"><u>[New] Visual Vibes Building a Repertoire of Shareable FB & Insta Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-recording-youtube-videos-effortlessly-the-free-way-to-screencasts/"><u>[Updated] 2024 Approved Recording YouTube Videos Effortlessly - The Free Way to Screencasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-conversion-handbook-from-gif-to-sticker-across-messaging-services/"><u>2024 Approved The Ultimate Conversion Handbook From GIF to Sticker Across Messaging Services</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/comprehensive-solutions-for-win32k-memory-management-failure-error-0x000000ea/"><u>Comprehensive Solutions for Win32k Memory Management Failure (Error 0X000000EA)</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-file-protection-with-windows-password-practices/"><u>Optimize Your File Protection with Windows Password Practices</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-notice-errors-in-phone-links-windows-functionality/"><u>Overcoming No-Notice Errors in Phone Link's Windows Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/stealth-mode-abscond-with-taskview-icon/"><u>Stealth Mode: Abscond with TaskView Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-wi-fi-connectivity-issues-in-winmc-minecraft/"><u>Tackling Wi-Fi Connectivity Issues in WinMC Minecraft</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-complete-playbook-to-propel-your-youtube-gaming-vids-with-hashes/"><u>The Complete Playbook to Propel Your YouTube Gaming Vids with Hashes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-synergy-of-ai-and-commerce-at-ms-store/"><u>The Synergy of AI and Commerce at MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-mechanism-of-winos-gpu-ordering-suspension/"><u>Understanding the Mechanism of WinOS GPU Ordering Suspension</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-upgrade-to-scythes-mugen-series-models-6-and-6-black-for-optimal-silent-operation-without-breaking-the-bank/"><u>Why Upgrade to Scythe's Mugen Series (Models 6 & 6 Black) for Optimal Silent Operation Without Breaking the Bank?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-best-weather-app-picks-compiled/"><u>Window's Best Weather App Picks, Compiled</u></a></li>
+</ul></div>
 

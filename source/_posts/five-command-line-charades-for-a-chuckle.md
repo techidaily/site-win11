@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2024-12-26T03:16:52.986Z
-updated: 2024-12-28T04:26:49.590Z
+date: 2025-01-01T20:05:16.717Z
+updated: 2025-01-06T21:12:03.805Z
 tags:
   - windows10
   - windows11
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
@@ -84,15 +80,15 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
  With the command **title**, followed by a word or phrase, you can change the window header for the Command Prompt.
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Trace Where Your Data Goes
 
@@ -111,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
@@ -119,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  All it requires is inputting the command **shutdown /s**. If you're feeling fancy, you can restart your device the same way using **shutdown /r.**
 
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fun With Command Prompt
 
@@ -136,14 +136,22 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>[New] Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/amazon-primes-trending-series-twitters-choice-2023/"><u>Amazon Prime's Trending Series - Twitter's Choice, 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/decluttering-disk-space-on-windows-using-altwindirstat/"><u>Decluttering Disk Space on Windows Using altWinDirStat</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-magic-vs-2-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor Magic Vs 2</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-non-responsive-speakers-and-headphones-issue-in-windows-11-8-and-7/"><u>Diagnosing and Repairing Non-Responsive Speakers & Headphones Issue in Windows 11, 8, & 7</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721463989543-dont-miss-out-manage-your-iphone-do-not-disturb-settings-and-still-get-text-messagescalls/"><u>Don't Miss Out: Manage Your iPhone Do Not Disturb Settings and Still Get Text Messages/Calls!</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-port-scanning-for-network-windows-safety/"><u>Secure Port Scanning for Network Windows Safety</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-fixing-frozen-itunes-on-your-pc/"><u>Step-by-Step Guide: Fixing Frozen iTunes on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-system-win11-lightweight-edition/"><u>Streamline Your System: Win11 Lightweight Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-breathing-life-into-your-ig-story-text-with-animation/"><u>[Updated] 2024 Approved Breathing Life Into Your IG Story Text with Animation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-spotlight-techniques-for-android-videography/"><u>[Updated] 2024 Approved Spotlight Techniques for Android Videography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-wealth-dissection-of-the-elusive-mr-beast/"><u>[Updated] In 2024, Wealth Dissection of the Elusive Mr. Beast</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-en-ligne-convertissez-votre-video-mpeg-en-m4a-pour-rien-solutions-facile-dacces-de-movavi/"><u>Conversion en Ligne : Convertissez Votre Vidéo MPEG en M4A Pour Rien - Solutions Facile D'accès De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-playstation-network-disruption-in-windows-os/"><u>Correcting PlayStation Network Disruption in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-an-inactive-window-control-center/"><u>Fixing an Inactive Window Control Center</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-same-user-ms-account-error-on-desktop/"><u>Fixing Same-User MS Account Error on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-sidestep-the-vac-rejected-issue-in-gaming/"><u>How to Sidestep the “VAC Rejected” Issue in Gaming</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-n55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo N55 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/legal-yet-cost-free-ultimate-soundtracks-sites-for-2024/"><u>Legal, Yet Cost-Free Ultimate Soundtracks Sites for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/qbittorrent-relocation-from-one-pc-to-another-seamless-move/"><u>QBittorrent Relocation: From One PC, To Another Seamless Move</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-default-windows-options-after-restart/"><u>Regain Default Windows Options After Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-chrome-edge-firefox-pasting-problems/"><u>Steps to Correct Chrome, Edge, Firefox Pasting Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-securely-locate-lost-windows-1011-serial-numbers/"><u>Strategies to Securely Locate Lost Windows 10/11 Serial Numbers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/streamline-your-workflow-with-speedy-downloads-of-dell-latitude-e6420-essential-drivers/"><u>Streamline Your Workflow with Speedy Downloads of Dell Latitude E6420 Essential Drivers</u></a></li>
 </ul></div>
 

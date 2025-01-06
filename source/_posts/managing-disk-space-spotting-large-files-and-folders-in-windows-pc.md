@@ -1,7 +1,7 @@
 ---
 title: "Managing Disk Space: Spotting Large Files & Folders in Windows PC"
-date: 2024-08-23T06:08:20.386Z
-updated: 2024-08-24T06:08:20.386Z
+date: 2025-01-05T21:05:05.758Z
+updated: 2025-01-06T16:05:51.492Z
 tags:
   - windows10
   - windows11
@@ -45,13 +45,18 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Free Up Your Windows Storage Drive
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Manage Your Apps and Features
 
 Follow these steps to remove extra apps and features:
@@ -63,18 +68,17 @@ Follow these steps to remove extra apps and features:
 5. Select**Size (Large to small)** from the dropdown menu next to**Sort by** .  
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Manage System and Reserved Files Storage
 
  Be cautious when managing the disk space used by the system and reserved files, as deleting essential files could cause unexpected problems. The overall storage occupied by the system and reserved files is normally divided into five categories: system files, reserved storage, virtual memory, hibernation file, and system restore files.
@@ -82,13 +86,18 @@ Follow these steps to remove extra apps and features:
 ![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
 
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
 
  Likewise, restore points consume a considerable amount of storage, but it is worth it since it allows you to restore your device to a previous point in time if something goes wrong. However, having multiple restore points would be a waste of space on the hard drive. Therefore, it is recommended to[delete any extra restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) you created.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Manage Temporary Files Storage
 
@@ -101,30 +110,21 @@ Follow these steps to remove extra apps and features:
 
 ![Managing the Temporary File Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-managing-the-temporary-file-storage-in-storage-tab-of-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Avoid Cluttering Up Your Precious Disk Space
 
  Having insufficient disk space and not knowing what's causing it can be a horrible experience. Hopefully, using the tips in this article, you will be able to identify what apps and files are draining your disk storage the most.
 
  If they are safe to delete, wipe them out. If not, move them to a different drive with more disk space left and relieve some of the pressure from an overfilled drive.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +133,24 @@ Follow these steps to remove extra apps and features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-ensuring-correct-ad-revenue-a-comprehensive-guide-to-yt-channel-earnings/"><u>[New] Ensuring Correct Ad Revenue A Comprehensive Guide to YT Channel Earnings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-expert-guide-to-shooting-awe-inspiring-igtv-content-on-mobile-and-dslrs/"><u>[New] Expert Guide to Shooting Awe-Inspiring IGTV Content on Mobile & DSLRs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed-for-2024/"><u>[New] From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-full-potential-of-video-storage-in-modern-hardware-64128gb/"><u>[Updated] Unveiling the Full Potential of Video Storage in Modern Hardware (64/128GB)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-6-mc-survival-home-blueprints/"><u>2024 Approved Best 6 MC Survival Home Blueprints</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nokia-c02-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nokia C02</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-tech-cooperation-with-samsung-flow-link/"><u>Effortless Tech Cooperation with Samsung Flow Link</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-utorrent-speed-game-win-friendly-tips/"><u>Elevate Your uTorrent Speed Game - Win-Friendly Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-cyber-defenses-integrate-trustworthy-websites-on-windows-11/"><u>Enhance Cyber Defenses: Integrate Trustworthy Websites on Windows 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-calls-for-caution-younger-generations-stepping-back-from-instagram/"><u>Facebook Calls for Caution: Younger Generations Stepping Back From Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-note-30i-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Note 30i Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-designing-new-sections-for-win-11-desktop/"><u>Introduction to Designing New Sections for Win 11 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-windows-terminal-and-quake-mods/"><u>Introduction: Windows Terminal and Quake Mods</u></a></li>
+<li><a href="https://solve-info.techidaily.com/managing-your-pcs-software-with-the-control-panel-addremove-program-instructions-from-yl-software/"><u>Managing Your PC's Software with the Control Panel - Add/Remove Program Instructions From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-blue-screen-5-must-do-fixes-for-win11-issues/"><u>Prevent Blue Screen: 5 Must-Do Fixes for Win11 Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-common-pc-issues-post-windows-11-installation/"><u>Rectifying Common PC Issues Post-Windows 11 Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-inner-workings-of-windows-pe/"><u>Understanding the Inner Workings of Windows PE</u></a></li>
+</ul></div>
 

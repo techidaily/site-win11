@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2024-12-22T00:57:10.643Z
-updated: 2024-12-27T17:23:49.463Z
+date: 2025-01-02T18:26:03.926Z
+updated: 2025-01-06T17:15:49.481Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
@@ -57,23 +53,27 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,22 +112,15 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-complete-analysis-gopro-silver-edition-hero4-assessment-for-2024/"><u>[New] Complete Analysis GoPro Silver Edition HERO4 Assessment for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools/"><u>[New] IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-refining-screen-enlargement-for-clear-views-for-2024/"><u>[New] Refining Screen Enlargement for Clear Views for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-how-to-download-part-of-a-youtube-videos/"><u>[Updated] In 2024, How to Download Part of a YouTube Videos?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-creator-studio-vs-youtube-studio-beta/"><u>[Updated] In 2024, YouTube Creator Studio Vs. YouTube Studio (Beta)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-memory-limitation-indicators-on-windowsvmware-systems/"><u>Correcting Memory Limitation Indicators on Windows/VMware Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-official-realtek-card-software-and-drivers-for-your-windows-10-pc/"><u>Download Official Realtek Card Software & Drivers for Your Windows 10 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-gaming-game-optimal-adventure-play-in-full-hd-via-windows-and-scummvm/"><u>Elevate Your Gaming Game: Optimal Adventure Play in Full HD via Windows & ScummVM</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-pcs-space-top-7-free-volume-enhancers-for-windows/"><u>Elevate Your PC's Space: Top 7 Free Volume Enhancers for Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-windows-filing-techniques-max-156/"><u>Essential Windows Filing Techniques (Max 156)</u></a></li>
-<li><a href="https://win11.techidaily.com/five-gone-windows-feature-retrospective/"><u>Five Gone: Windows Feature Retrospective</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-from-avi-to-mkv-movavi/"><u>Free Online Converter From AVI to MKV - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-xbox-console-choices-and-installation/"><u>Navigating Xbox Console Choices and Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-tweaking-proxy-settings-in-windows-11/"><u>Step-by-Step Guide to Tweaking Proxy Settings in Windows 11</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/tudo-sobre-o-cortador-de-mp3-da-movavi-funcionamento-download-e-tecnicas-de-baixar-com-maior-sucesso/"><u>Tudo Sobre O Cortador De Mp3 Da Movavi: Funcionamento, Download E Técnicas De Baixar Com Maior Sucesso</u></a></li>
-<li><a href="https://win11.techidaily.com/uninstalling-wsl-an-all-inclusive-guide/"><u>Uninstalling WSL: An All-Inclusive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-slowdown-beneath-calm-exteriors-lurk-resource-hogging-tools/"><u>Windows 11 Slowdown: Beneath Calm Exteriors Lurk Resource Hogging Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-zoom-audio-settings-for-getting-audio-quality-2-ways/"><u>[Updated] 2024 Approved Best Zoom Audio Settings for Getting Audio Quality [2 Ways]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-broadcasting-going-from-xbox-to-fb-live-for-2024/"><u>[Updated] Streamline Broadcasting Going From Xbox to FB Live for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/bulk-image-uploads-on-facebook-a-step-by-step-guide/"><u>Bulk Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clearing-up-full-capacity-message-for-chatgpt/"><u>Clearing Up Full Capacity Message for ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-self-how-to-start-windows-personalized-introspection-engine/"><u>Delving Into Self: How to Start Windows' Personalized Introspection Engine</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-solve-xp709-error/"><u>Methods to Solve XP709 Error</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-internet-disconnections-keeping-lele-online/"><u>Overcoming Internet Disconnections: Keeping LeLë Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/playing-retro-games-on-steam-deck-with-emudeck/"><u>Playing Retro Games on Steam Deck with EmuDeck</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-computers-double-clicking-technique/"><u>Revolutionize Your Computer's Double-Clicking Technique</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrade-now-the-newest-thunderbird-update-version-52-available-on-mozilla-platforms/"><u>Upgrade Now: The Newest Thunderbird Update, Version ^52, Available on Mozilla Platforms</u></a></li>
 </ul></div>
 

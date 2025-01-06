@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2024-12-25T18:04:34.497Z
-updated: 2024-12-27T20:02:20.776Z
+date: 2025-01-02T18:30:39.633Z
+updated: 2025-01-06T16:17:06.782Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Checkboxes Using the Command Bar
@@ -39,14 +39,10 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 4. Select the**Item check boxes** option.  
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. You might need to restart your computer to see the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Checkboxes Using the Folder Option
@@ -63,7 +59,11 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
@@ -80,11 +80,11 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Type**1** in the**Value data** and click**OK** to save the changes.  
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
- If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
 ## Enabling Checkboxes in the File Explorer
 
@@ -105,22 +105,16 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-exploring-vr-landscapes-perks-pitfalls-and-pivots/"><u>[New] Exploring VR Landscapes Perks, Pitfalls and Pivots</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-countering-harshness-maintaining-poise-online/"><u>[Updated] Countering Harshness Maintaining Poise Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-graphics-with-asus-pa32u-true-to-color/"><u>[Updated] Professional Graphics with ASUS PA32U True to Color</u></a></li>
-<li><a href="https://games-able.techidaily.com/a-gamble-worth-taking-adventures-in-independent-gaming/"><u>A Gamble Worth Taking: Adventures in Independent Gaming</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-1011-search-visibility-and-functionality/"><u>Enhancing Windows 10/11 Search Visibility & Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/enriching-windows-11-with-dolby-atmos-experience/"><u>Enriching Windows 11 with Dolby Atmos Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-ios-145-could-pave-the-way-to-a-privacy-revolution/"><u>How iOS 14.5 Could Pave the Way to a Privacy Revolution</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-repair-windows-11s-isdonedll-complications/"><u>How to Repair Windows 11'S ISDone.dll Complications</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-learn-from-the-greats-strategies-for-confident-online-sharing/"><u>In 2024, Learn From the Greats Strategies for Confident Online Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/project-proficiency-through-keyboard-kudos/"><u>Project Proficiency Through Keyboard Kudos</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-chrome-download-issues-in-the-windows-environment/"><u>Remedying Chrome Download Issues in the Windows Environment</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-edge-to-cloud-tech-in-modern-digital-shifts-zdnet-insights/"><u>Revolutionizing Business with Edge-to-Cloud Tech in Modern Digital Shifts | ZDNet Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-malfunction-fixing-windows-update-error-0x80246007/"><u>Swift Solution to Upgrade Malfunction: Fixing Windows Update Error 0X80246007</u></a></li>
-<li><a href="https://win11.techidaily.com/turbocharging-android-dev-tools-speed-boost-for-windows-users/"><u>Turbocharging Android Dev Tools: Speed Boost for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-11s-netstat-function-for-network-surveillance/"><u>Unveiling Windows 11'S Netstat Function for Network Surveillance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-hp-laserjet-p3225-printer-software-on-windows-pcs-heres-how/"><u>Update Your HP LaserJet P3ˈ225 Printer Software on Windows PCs - Here's How</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/apocalypse-alert-the-ultimate-list-of-thrilling-zombie-games/"><u>Apocalypse Alert The Ultimate List of Thrilling Zombie Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-showdown-can-claude-outperform-chatgpt-in-conversation/"><u>Chatbot Showdown: Can Claude Outperform ChatGPT in Conversation?</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-sticky-note-consistency-across-w11-devices/"><u>Perfecting Sticky Note Consistency Across W11 Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-installation-problems-in-windows-store/"><u>Remedying Installation Problems in Windows Store</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/say-hello-to-ultra-hd-streaming-with-apple-tv-a-detailed-look-at-the-2021-model-and-its-cutting-edge-functions/"><u>Say 'Hello' To Ultra HD Streaming with Apple TV: A Detailed Look at the 2021 Model and Its Cutting-Edge Functions</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-techniques-to-optimize-memory-on-windows-11/"><u>Stepwise Techniques to Optimize Memory on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-3-free-dvd-ripping-software-para-windows-11-baixe-a-versao-integral/"><u>Top 3 Free DVD Ripping Software Para Windows 11 - Baixe a Versão Integral</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-skype-call-techniques-for-effective-recordings-free-and-paid-on-computers-for-2024/"><u>Top Skype Call Techniques for Effective Recordings (Free & Paid) on Computers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-complexity-of-intel-network-driver-upgrades/"><u>Unraveling the Complexity of Intel Network Driver Upgrades</u></a></li>
 </ul></div>
 

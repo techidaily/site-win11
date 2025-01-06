@@ -1,7 +1,7 @@
 ---
 title: How to Disable Windows 11'S Tracking Features
-date: 2024-08-23T06:11:26.717Z
-updated: 2024-08-24T06:11:26.717Z
+date: 2024-12-31T21:06:01.524Z
+updated: 2025-01-06T20:04:03.468Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
  Some methods Microsoft uses to collect data from an average Windows 11 user are location services, cookies, diagnostic feedback, and browser activity in Microsoft Edge. Any third-party apps installed on your Windows 11 PC may also collect your activity and location data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Be Worried About Your Data Privacy on Windows 11?
 
  As a Windows 11 user, you should be aware of apps that collect your data and understand what your preset Windows 11 activity tracking preferences mean. Microsoft tracks its users to improve the experience of their users, but more importantly, to make advertisements more relevant and personalized.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 
  If you, like most people, are concerned about your data privacy and do not want Microsoft taking advantage of your user activity, you should consider turning off tracking features on Windows 11\. Even if you cannot completely disable the tracking features, you should opt out of voluntary data collection preferences.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Disable Advertising Data Tracking on Windows 11
 
  If you’re concerned about your data or activity patterns being used by third parties for advertisement, you should consider turning off the relevant settings. To turn off advertising data tracking on Windows 11:
@@ -44,16 +45,15 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 1. Open the**Start** menu and launch the**Settings** app.  
 ![disable ad tracking windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-ad-tracking.jpg)
 2. From the side pane, select**Privacy & security** , and then under**Windows permissions,** select the**General** tab.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Turn off all of the general preferences by using the toggle option.
 
  Once you complete the above steps, you will successfully opt out of personalized ads on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Disable Activity Tracking on Windows 11
 
  Activity history is a shady Windows 11 feature that has plenty of privacy concerns. According to[Microsoft](https://support.microsoft.com/en-us/windows/-windows-activity-history-and-your-privacy-2b279964-44ec-8c2f-e0c2-6779b07d2cbd) , the feature allows users to keep track of how they use their Windows 11 devices. This includes recording what apps, services, websites, and files users have used or accessed recently. If your PC is signed in with a Microsoft account, your data is sent to Microsoft; otherwise, your activity history is only stored locally on your device.
@@ -67,17 +67,16 @@ thumbnail: https://thmb.techidaily.com/45eb95de820412631e47a9a054cb53f933466e540
 3. Under**Windows permissions** , select**Activity history** .  
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
 4. Click the**Activity history** tab and disable the**Store my activity history on this device** option.
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. We also recommend choosing the**Clear activity history for this account** option.
 6. Similarly, navigate to **Settings > Privacy & security > Diagnostics & feedback** .
 7. Disable the**Tailored experiences** option to stop Microsoft from using your diagnostic data for ads, personalized tips, and recommendations.
 8. You can also delete existing diagnostic data via the**Delete diagnostic data** option.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stop Microsoft Edge Data Collection on Windows 11
 
  Microsoft Edge is one of the best browsers around, and it takes your privacy very seriously. There are several different privacy-related options that you can tweak to your liking and level of comfort.
@@ -88,13 +87,19 @@ To disable tracking within Microsoft Edge:
 2. Click on the 3-dots menu icon in the far right and select**Settings** from the dropdown menu.  
 ![edge tracking prevention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edge-tracking-prevention.jpg)
 3. Select**Privacy, search and services** from the side menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Enable**Tracking prevention** , and choose the tracking level you want to allow during your browsing sessions.
 
  If you’re still unsatisfied and want to take privacy protection to another level, you should check out our dedicated[Microsoft Edge privacy guide](https://www.makeuseof.com/best-microsoft-edge-privacy-add-ons/) .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete Activity Tracking Data from Microsoft Account
 
  Even if you disable and delete Activity history from your Windows 11 device, there might still be data that you need to data off your Microsoft cloud account.
@@ -116,14 +121,11 @@ To disable tracking within Microsoft Edge:
 
  Many apps utilize location services, and while some may use them out of necessity (in the case of map services), others might exploit the location permission for advertisement purposes. It's crucial you make sure your location data is not being misused by any app on your Windows 11 device.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +134,26 @@ To disable tracking within Microsoft Edge:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-spectacular-gopro-time-lapses-made-easy/"><u>[New] Crafting Spectacular GoPro Time-Lapses Made Easy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unveiling-the-best-zoomed-experience-in-virtual-meetings/"><u>[New] In 2024, Unveiling the Best Zoomed Experience in Virtual Meetings</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-compressed-archives-cab-and-their-setup/"><u>Decoding Windows Compressed Archives (CAB) & Their Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/economical-airborne-photography-drone-deals-under-100/"><u>Economical Airborne Photography Drone Deals Under $100</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-true-windows-time-and-date-configuration/"><u>Ensuring True Windows Time & Date Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-seamless-windows-11-sign-in/"><u>Essential Tips for Seamless Windows 11 Sign-In</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-note-13-proplus-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi Note 13 Pro+ 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-windows-11s-mixer-functionality/"><u>How to Navigate Windows 11'S Mixer Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-swiftly-handle-isdonedll-issues-in-windows-11/"><u>How to Swiftly Handle ISDone.dll Issues in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/itel-a05s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Itel A05s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-software-execution-by-nickname-definitions/"><u>Navigating Software Execution by Nickname Definitions</u></a></li>
+<li><a href="https://win11.techidaily.com/power-users-tips-enhancing-task-manager-features-for-filters-and-themes-windows-11/"><u>Power Users' Tips: Enhancing Task Manager Features for Filters and Themes (Windows 11)</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-could-not-create-java-virtual-machine-error/"><u>Rectifying 'Could Not Create Java Virtual Machine' Error</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-asus-zenwifi-xt8-ax6600-revolutionizing-home-wi-fi-networks/"><u>The Ultimate Guide to ASUS ZenWiFi XT8 AX6600: Revolutionizing Home Wi-Fi Networks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-underrated-champion-of-laptops-exploring-dells-latest-model-brimming-with-smart-features-at-an-attractive-cost-gadgetguru/"><u>The Underrated Champion of Laptops: Exploring Dell’s Latest Model Brimming With Smart Features at an Attractive Cost | GadgetGuru</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-safest-and-most-stylish-ipad-air-cases-of-2-seal-of-approval-from-industry-experts-zdnet/"><u>Ultimate Guide to the Safest & Most Stylish iPad Air Cases of 2# - Seal of Approval From Industry Experts | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-power-of-windows-internet-services-manager/"><u>Unlocking the Power of Windows Internet Services Manager</u></a></li>
+</ul></div>
 
