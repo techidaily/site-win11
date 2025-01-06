@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-policy-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option.jpg">
-<meta property="article:published_time" content="2024-12-21T08:01:01.618Z">
-<meta property="article:modified_time" content="2024-12-27T20:11:00.053Z">
+<meta property="article:published_time" content="2024-12-31T12:34:21.197Z">
+<meta property="article:modified_time" content="2025-01-06T11:47:22.529Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -720,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-21 16:01:01</span>
-        <span class="mobile">2024-12-21 16:01:01</span>
+        <span class="desktop">2024-12-31 20:34:21</span>
+        <span class="mobile">2024-12-31 20:34:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-28 04:11</span>
-            <span class="mobile">2024-12-28 04:11</span>
+            <span class="desktop">2025-01-06 19:47:22</span>
+            <span class="mobile">2025-01-06 19:47:22</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -815,28 +815,23 @@
 <li>Exit Game DVR Config and <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/ways-to-open-task-manager-windows-10/" >open Task Manager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
 <li>Look for the Broadcast DVR server on the <strong>Processes</strong> tab. Right-click Broadcast DVR Server and select <strong>End task</strong> if you can find that process.</li>
 </ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Edit-the-Control-Registry-Key"><a href="#Edit-the-Control-Registry-Key" class="headerlink" title="Edit the Control Registry Key"></a>Edit the Control Registry Key</h2><p> Editing the Control registry key is a fix that’s worked for some users. Try editing that key like this:</p>
 <ol>
-<li>To activate Run, simultaneously press <strong>Win</strong> + <strong>R</strong>.</li>
-<li>Type <strong>regedit</strong> within the Run command box and press the <strong>Enter</strong> key.</li>
-<li>Clear the text in the address bar and input this registry key location there:<br><code>Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control</code></li>
-<li>If there isn’t a <strong>PortableOperatingSystem</strong> DWORD already, right-click on the <strong>Control</strong> key and select <strong>New</strong> and <strong>DWORD</strong>. Input <strong>PortableOperatingSystem</strong> within the new key’s text box.<br><img  
+<li><p>To activate Run, simultaneously press <strong>Win</strong> + <strong>R</strong>.</p>
+</li>
+<li><p>Type <strong>regedit</strong> within the Run command box and press the <strong>Enter</strong> key.</p>
+</li>
+<li><p>Clear the text in the address bar and input this registry key location there:<br><code>Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control</code></p>
+</li>
+<li><p>If there isn’t a <strong>PortableOperatingSystem</strong> DWORD already, right-click on the <strong>Control</strong> key and select <strong>New</strong> and <strong>DWORD</strong>. Input <strong>PortableOperatingSystem</strong> within the new key’s text box.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-key-options.jpg"
                       alt="The New and Key options"
-                ></li>
-<li>Double-click on the <strong>PortableOperatingSystem</strong> DWORD in the Control key.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="6">
+                ></p>
+</li>
+<li><p>Double-click on the <strong>PortableOperatingSystem</strong> DWORD in the Control key.</p>
+</li>
 <li><p>Delete the <strong>0</strong> number and input <strong>1</strong> within the <strong>Value data</strong> box.<br><img  
                      lazyload
                      src="/images/loading.svg"
@@ -846,8 +841,13 @@
 </li>
 <li><p>Set the value by clicking <strong>OK</strong> inside the Edit DWORD window.</p>
 </li>
-<li><p>Then close out of the Registry Editor app and restart Windows.</p>
-</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="8">
+<li>Then close out of the Registry Editor app and restart Windows.</li>
 </ol>
 <h2 id="Update-Your-Graphics-Adapter’s-Driver"><a href="#Update-Your-Graphics-Adapter’s-Driver" class="headerlink" title="Update Your Graphics Adapter’s Driver"></a>Update Your Graphics Adapter’s Driver</h2><p> An outdated or faulty graphics driver might be causing this recording issue on your PC. Try installing the latest graphics driver for your GPU if you haven’t updated it in a while (or ever). This guide tells you <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/update-graphics-drivers-in-windows-10/" >how to update a PC’s graphics driver in Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p><img  
@@ -856,35 +856,44 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-download.jpg"
                       alt="The NVIDIA graphics driver download page"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Enable-the-Windows-Game-Recording-and-Broadcasting-Policy"><a href="#Enable-the-Windows-Game-Recording-and-Broadcasting-Policy" class="headerlink" title="Enable the Windows Game Recording and Broadcasting Policy"></a>Enable the Windows Game Recording and Broadcasting Policy</h2><p> Group Policy Editor includes a Game Recording and Broadcasting policy that prevents recording when disabled. So, Windows Pro and Enterprise users must make sure that the Game Recording and Broadcasting policy is set to enabled. Do note that Windows Home doesn’t include the Group Policy Editor.</p>
 <p> Here is how you can enable that policy:</p>
 <ol>
-<li><a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/" >Open Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and double-click <strong>Computer Configuration</strong> when it appears.</li>
-<li>Double-click <strong>Administrative Templates</strong> &gt; <strong>Windows Components</strong>.</li>
-<li>Select <strong>Windows Game Recording and Broadcasting</strong> in Group Policy’s sidebar.</li>
-<li>Then double-click on the <strong>Enables or disables Windows Game Recording and Broadcasting</strong> policy.<br><img  
+<li><p><a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/" >Open Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and double-click <strong>Computer Configuration</strong> when it appears.</p>
+</li>
+<li><p>Double-click <strong>Administrative Templates</strong> &gt; <strong>Windows Components</strong>.</p>
+</li>
+<li><p>Select <strong>Windows Game Recording and Broadcasting</strong> in Group Policy’s sidebar.</p>
+</li>
+<li><p>Then double-click on the <strong>Enables or disables Windows Game Recording and Broadcasting</strong> policy.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/group-policy-editor.jpg"
                       alt="The Group Policy Editor window"
-                ></li>
-<li>Click <strong>Enabled</strong> if that policy is disabled.</li>
-</ol>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<ol start="6">
-<li>Select <strong>Apply</strong> to enable the recording policy and <strong>OK</strong> to close the window.<br><img  
+                ></p>
+</li>
+<li><p>Click <strong>Enabled</strong> if that policy is disabled.</p>
+</li>
+<li><p>Select <strong>Apply</strong> to enable the recording policy and <strong>OK</strong> to close the window.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-game-and-recording-policy-window.jpg"
                       alt="The Enables or disables Windows Game Recording and Broadcasting policy window"
-                ></li>
-<li>Close Group Policy Editor, bring up your Start menu and select <strong>Power</strong> &gt; <strong>Restart</strong>.</li>
+                ></p>
+</li>
+<li><p>Close Group Policy Editor, bring up your Start menu and select <strong>Power</strong> &gt; <strong>Restart</strong>.</p>
+</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Erase-Data-in-the-GameDVR-Registry-Key"><a href="#Erase-Data-in-the-GameDVR-Registry-Key" class="headerlink" title="Erase Data in the GameDVR Registry Key"></a>Erase Data in the GameDVR Registry Key</h2><p> Corrupted GameDVR entries within the registry can cause the “PC doesn’t meet the hardware requirements for captures” error. You can fix that by deleting DWORDs and strings in the GameDVR registry key, which will automatically regenerate. However, we still recommend users back up the registry before applying this potential solution.</p>
@@ -902,7 +911,7 @@
 <li>Click the Start menu’s Power button and select <strong>Restart</strong>.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Get-Recording-Again-With-the-Xbox-Game-Bar"><a href="#Get-Recording-Again-With-the-Xbox-Game-Bar" class="headerlink" title="Get Recording Again With the Xbox Game Bar"></a>Get Recording Again With the Xbox Game Bar</h2><p> The potential solutions covered here are widely confirmed to resolve the “PC doesn’t meet the hardware requirements for captures” by users who’ve needed to fix that issue. So, it’s most likely applying the potential fixes above will resolve that Game Bar recording issue on your Windows laptop or desktop. Then you can record video while gaming with the Game Bar’s recording feature again.</p>
@@ -915,22 +924,20 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-2024-approved-ultra-30-review-the-virb-action-cam-for-adventurers/"><u>[Updated] 2024 Approved Ultra 30 Review – The VIRB Action Cam for Adventurers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-knowledge.techidaily.com/updated-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>[Updated] Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-lessons.techidaily.com/front-seat-escapades-beyond-athletic-viewing/"><u>Front Seat Escapades Beyond Athletic Viewing</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-renaissance.techidaily.com/how-to-make-your-content-explode-10-tips-for-instagram-fame/"><u>How to Make Your Content Explode: 10 Tips for Instagram Fame</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-amazing.techidaily.com/install-official-drivers-for-the-epson-wf-2630-on-windows-operating-systems-win-7win-81win-10/"><u>Install Official Drivers for the Epson WF-2630 on Windows Operating Systems: Win 7/Win 8.1/Win 10</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://win11.techidaily.com/professional-perks-you-can-get-from-windows-11-god-mode/"><u>Professional Perks You Can Get From Windows 11 God Mode</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/pros-of-choosing-best-pc-video-grabbers-for-win11-for-2024/"><u>Pros of Choosing Best PC Video Grabbers for Win11 for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/rapidly-develop-dazzling-facebook-collage-designs/"><u>Rapidly Develop Dazzling Facebook Collage Designs</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-screen-display-lags-in-windows-laptops/"><u>Resolving Screen Display Lags in Windows Laptops</u></a></li>
-<li><a href="https://win11.techidaily.com/resuming-printer-services-a-windows-guide/"><u>Resuming Printer Services: A Windows Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/steady-precision-how-to-stop-mouse-speed-scaling-in-windows/"><u>Steady Precision: How to Stop Mouse Speed Scaling in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-permission-issues-in-win11win10-installation/"><u>Tackling Permission Issues in Win11/Win10 Installation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/top-rated-smartwatches-comprehensive-reviews-by-tech-specialists-zdnet/"><u>Top-Rated Smartwatches : Comprehensive Reviews by Tech Specialists | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-freezes-in-ps-windows-edition/"><u>Troubleshooting Freezes in PS: Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-why-are-windows-folders-flagged-with-an-x/"><u>Unraveling: Why Are Windows Folders Flagged with an X?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/new-2024-approved-transcript-download-analyze-content/"><u>[New] 2024 Approved Transcript Download, Analyze Content</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/new-startup-zoom-navigating-participant-groups/"><u>[New] Startup Zoom Navigating Participant Groups</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-the-secrets-for-a-viral-instagram-account-gain-fans-and-verified-status-in-less-than-150-characters/"><u>[Updated] 2024 Approved Unlock the Secrets for a Viral Instagram Account Gain Fans and Verified Status in Less Than 150 Characters</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/1725286525363-ai-60120/"><u>激进提速AI填充解决方案 - 优化影片至60/120帧平滑过渡技巧</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decrypting-windows-update-failure-0x80242016/"><u>Decrypting Windows Update Failure: 0X80242016</u></a></li>
+<li><a href="https://win11.techidaily.com/evaluating-subsystem-effect-on-linux-market/"><u>Evaluating Subsystem Effect on Linux Market</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://hardware-help.techidaily.com/fast-food-meets-tech-failure-wendys-attempt-at-a-smartphone-is-utterly-silly/"><u>Fast Food Meets Tech Failure: Wendy's Attempt at a Smartphone Is Utterly Silly.</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/inside-samsung-unpacked-2025-schedule-revealed-product-announcements-and-rumored-innovations/"><u>Inside Samsung Unpacked 2025: Schedule Revealed, Product Announcements & Rumored Innovations</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/mastering-art-with-gaomon-pd1560-an-insiders-tablet-test-report/"><u>Mastering Art with Gaomon PD1560 - An Insider's Tablet Test Report</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-performance-insight-taskbar-with-hardware-data/"><u>Optimal Performance Insight: Taskbar with Hardware Data</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-windows-11-for-multiple-monitors/"><u>Optimizing Windows 11 for Multiple Monitors</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-savvy.techidaily.com/1721430445638-redefine-your-browsing-experience-bings-smart-ai-search/"><u>Redefine Your Browsing Experience: Bing's Smart AI Search</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-why-your-windows-files-may-have-an-x/"><u>Understanding Why Your Windows Files May Have an X</u></a></li>
 </ul></div>
 
 
@@ -943,11 +950,11 @@
         <li><strong>Title:</strong> Remedy for Windows Specs Deficiency in Game Captures</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2024-12-21 16:01:01</li>
+                :</strong> 2024-12-31 20:34:21</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-28 04:11:00
+                    :</strong> 2025-01-06 19:47:22
             </li>
         
         <li>
@@ -991,13 +998,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/elevate-pc-display-switch-to-advanced-wmlayouts/"
+                        href="/streamline-workflows-with-windows-11-multitasking-tips/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Elevate PC Display: Switch to Advanced WMLayouts</span>
+                                <span class="post-nav-title-item">Streamline Workflows with Windows 11 Multitasking Tips</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1007,10 +1014,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/efficient-methods-to-snap-windows-security-messages/"
+                        href="/windows-11-god-mode-essential-tasks-to-enhance-efficiency/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Efficient Methods to Snap Windows&#39; Security Messages</span>
+                                <span class="post-nav-title-item">Windows 11 God Mode: Essential Tasks to Enhance Efficiency</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1074,7 +1081,7 @@
               <span>2017</span>
               -
             
-            2024 David.&nbsp;&nbsp; All Rights Reserved.
+            2025 David.&nbsp;&nbsp; All Rights Reserved.
             
         </div>
         
