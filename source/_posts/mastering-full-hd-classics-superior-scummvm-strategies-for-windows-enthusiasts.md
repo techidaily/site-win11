@@ -1,7 +1,7 @@
 ---
 title: "Mastering Full HD Classics: Superior ScummVM Strategies for Windows Enthusiasts"
-date: 2025-01-04T16:26:36.094Z
-updated: 2025-01-06T17:50:16.542Z
+date: 2025-01-11T19:46:19.168Z
+updated: 2025-01-13T06:05:46.755Z
 tags:
   - windows10
   - windows11
@@ -53,25 +53,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![ScummVM Mass Add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm_mass_add.jpg)
 2. ScummVM will analyze the folder you selected, scan its contents, and prompt you to import any compatible games it finds.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ScummVM Scanning Folders For Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-scanning-folders-for-games.jpg)
 3. All imported and playable games appear in ScummVM's game list with bold text. You can launch them by double-clicking on their title or selecting them and clicking the start button on the right of the window. Supported titles that weren't found (and thus aren't playable) have a grey color.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![ScummVM Bold Added Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-bold-added-games.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Configure ScummVM's Global Settings
@@ -86,16 +74,22 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![ScummVM Global Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-options-button.jpg)
 3. Move to the**Keymaps** tab and take note of the key combination for accessing ScummVM's global main menu. If you don't like the default shortcut, click on it and bind it to another key combination.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![ScummVM Global Keymaps Global Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-keymaps-global-main-menu.jpg)
 4. Scroll down and do the same for the**Toggle Fullscreen** shortcut.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ScummVM Global Keymaps Toggle Fullscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-keymaps-toggle-fullscreen.jpg)
 5. Move to the**Audio** tab, and from the**Text and speech** options, select if you'd prefer**Speech** ,**Subtitles** , or**Both** for your games.  
 ![ScummVM Global Audio Text And Speech](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-audio-text-and-speech.jpg)
 6. Although it's not a crucial option for playing games, you can change how ScummVM looks by switching between various themes. Those are accessible from the**Theme** option on the**GUI** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ScummVM Global GUI Themes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-global-gui-themes.jpg)
 7. On the same page, you will find another option that you may find helpful if you like jumping from game to game: to avoid having to relaunch ScummVM after exiting a title, place a checkmark before**Return to the launcher when leaving a game** .  
 
@@ -106,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  Although most options we will see are also available globally, it's best to tweak them separately for each game.
 
 ![ScummVM Game Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-button.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To tweak a particular game's options in ScummVM, select it on the list and click on**Game Options** on the right.
 
@@ -121,13 +119,13 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![ScummVM Game Options Graphics Stretch Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-stretch-mode.jpg)
 3. Are you checking how a game looks after tweaking some options? You can use the combination we saw earlier to access ScummVM's game menu. By default, it's CTRL + F5\. From there, you can a) return to your game by clicking on**Resume** , b)**Load** or c)**Save** your progress, d) access game-specific**Options** , e) read more**About** ScummVM, f)**Return to Launcher** , or g)**Quit** the running game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ScummVM Game Menu Return To Launcher Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-menu-return-to-launcher-entry.jpg)
 4. Return to the launcher and revisit the selected game's options, moving to the**Graphics** tab. From there, you can change the**Scaler** used for stretching the game's graphics. ScummVM offers various ways of scaling a game's graphics. Some try to preserve a game's original blocky, pixelated appearance, while others may smoothen the graphics, leading to a more "cartoony" appearance. We chose**SuperSAI** .  
 ![ScummVM Game Options Graphics Scaler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-scaler.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Getting Better Visuals With Shaders
 
@@ -138,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 2. Although a shader might add artificial imperfections to a game's visuals, almost counter-intuitively, the final result can look better.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ScummVM Beneath a Steel Sky With CRT Shader](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-beneath-a-steel-sky-with-crt-shader.jpg)
@@ -146,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
  Are you not a fan of adventures (on which ScummVM specializes) but would appreciate a facelift for your old emulated games? RetroArch supports scaling and shaders, too. For more info on that, check our guide on[how to make your retro games look like they used to with RetroArch's shaders](https://www.makeuseof.com/make-retro-games-look-like-used-to-retroarch-shaders/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Apply Anti-Aliasing to LucasArts 3D Adventures
@@ -158,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 2. Move to the**Graphics** tab and examine the last two options. Change the first one to**OpenGL with shaders** to ensure ScummVM will use your GPU for improved visuals.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ScummVM Game Options Graphics Game 3D Renderer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-game-3d-renderer.jpg)
@@ -166,10 +164,14 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 ![ScummVM Game Options Graphics 3D Anti Aliasing Level](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/scummvm-game-options-graphics-3d-anti-aliasing-level.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you're done going on adventures, why not try making your own adventure game? You can start small with our guide on[how to create a text-based adventure game in Python](https://www.makeuseof.com/python-text-adventure-game-create/) and take it from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Adventure of Playing Old Adventures With ScummVM
 
@@ -192,20 +194,22 @@ thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-windows-11-photo-inspector/"><u>[Updated] Prime Windows 11 Photo Inspector</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-video-requirement-you-can-know-aspect-ratio-included/"><u>2024 Approved Twitter Video Requirement You Can Know [Aspect Ratio Included]</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-your-traffic-with-cookiebot-the-ultimate-personalization-tool/"><u>Boost Your Traffic with Cookiebot: The Ultimate Personalization Tool</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/cookiebot-the-secret-ingredient-for-dynamic-website-optimization/"><u>Cookiebot: The Secret Ingredient for Dynamic Website Optimization</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-resolving-frozen-ctrl-issues-for-windows-11/"><u>Diagnosing and Resolving Frozen Ctrl Issues for Windows 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-13-mini-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 13 mini Without Previous Owner?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-craft-of-macro-video-production-techniques/"><u>In 2024, Mastering the Craft of Macro Video Production Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-isdonedll-crashes-in-w11-and-11x-operating-systems/"><u>Overcoming ISDone.dll Crashes in W11 & 11X Operating Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/swift-remediation-of-windows-drivers/"><u>Swift Remediation of Windows Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-switch-status-of-the-installer-service/"><u>Techniques to Switch Status of the Installer Service</u></a></li>
-<li><a href="https://win11.techidaily.com/the-complete-walkthrough-of-windows-11s-widget-features/"><u>The Complete Walkthrough of Windows 11'S Widget Features</u></a></li>
-<li><a href="https://win11.techidaily.com/the-veiled-window-of-you-uncovering-windows-private-self-profile-access/"><u>The Veiled Window of You: Uncovering Windows’ Private Self-Profile Access</u></a></li>
-<li><a href="https://win11.techidaily.com/top-5-tips-to-revive-a-frozen-wi-fi-mouse-on-windows/"><u>Top 5 Tips to Revive a Frozen Wi-Fi Mouse on Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-sounds-in-new-world-tips-and-solutions-for-optimal-performance/"><u>Troubleshooting Sounds in 'New World': Tips and Solutions for Optimal Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/unzip-success-troubleshoot-windows-11-failures/"><u>Unzip Success: Troubleshoot Windows 11 Failures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-inside-the-io-recording-process-what-you-must-know/"><u>[New] 2024 Approved Inside the IO Recording Process What You Must Know</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-30-metaverse-meme-creation-tips-and-trends/"><u>[New] Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-a-step-by-step-process-of-board-use-in-zoom-sessions-desktopiosandroid/"><u>[Updated] In 2024, A Step-by-Step Process of Board Use in Zoom Sessions (Desktop/iOS/Android)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[Updated] Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reel-in-rave-6-top-rated-music-video-apps-for-android-for-2024/"><u>[Updated] Reel in Rave 6 Top-Rated Music Video Apps for Android for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/decluttering-made-simple-spotting-and-purging-vacant-folders-in-windows/"><u>Decluttering Made Simple: Spotting & Purging Vacant Folders in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-resolving-cc-issues-in-win11/"><u>Decoding and Resolving CC Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-android-apps-for-a-richer-windows-11-experience/"><u>Essential Android Apps for a Richer Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-win11s-capabilities-for-comics-enthusiasts/"><u>Harnessing Win11's Capabilities for Comics Enthusiasts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>In 2024, The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
+<li><a href="https://games-able.techidaily.com/pro-level-gaming-mouse-by-logitech/"><u>Pro-Level Gaming Mouse by Logitech</u></a></li>
+<li><a href="https://win11.techidaily.com/release-the-chains-widows-handbrake-fixes/"><u>Release the Chains: Widows' HandBrake Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-6-best-to-do-list-apps-for-windows-11-and-11/"><u>The 6 Best To-Do List Apps for Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-mastering-win-11-taskbar-controls/"><u>The Ultimate Guide to Mastering Win 11 Taskbar Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-accurate-monitoring-of-tasks-cpu-impact-on-system/"><u>Tips for Accurate Monitoring of Tasks' CPU Impact on System</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-premier-8-voice-recognition-tools-windows-macos-and-cloud-solutions-roundup-for-2024/"><u>Updated Premier 8 Voice Recognition Tools Windows, macOS & Cloud Solutions Roundup for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-smooth-audio-transitions-2-methods-to-fade-in-and-out-in-fcp-for-2024/"><u>Updated Smooth Audio Transitions 2 Methods to Fade In and Out in FCP for 2024</u></a></li>
 </ul></div>
 

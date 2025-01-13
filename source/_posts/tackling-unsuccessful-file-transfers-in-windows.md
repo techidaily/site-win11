@@ -1,7 +1,7 @@
 ---
 title: Tackling Unsuccessful File Transfers in Windows
-date: 2024-12-31T17:17:09.591Z
-updated: 2025-01-06T19:09:32.728Z
+date: 2025-01-09T19:12:59.878Z
+updated: 2025-01-13T07:38:18.390Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Free Up Drive Storage Space
 
  First, we recommend you check how much free space is available on your PC’s hard drive. You might not be able to download any files because your PC’s hard drive has hardly any free space left on it. Check out [how to check your local drive storage](https://www.makeuseof.com/windows-11-check-locak-drive-storage-space/) for several methods on how to view how much space is left on a drive.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Clean your local drive if it has less than two gigabytes of free storage space. You can free up some drive space by uninstalling software packages, utilizing the Disk Clean-up tool, and deleting user files. Our guide to [freeing up storage space on Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) provides step-by-step instructions for the various methods.
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
 
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -70,13 +66,14 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then click **Yes** on the logoff prompt.
 
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
 
@@ -91,21 +88,17 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
- If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
@@ -114,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
 
@@ -128,10 +125,14 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Reset** inside the confirmation prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
@@ -143,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -164,21 +165,22 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-expert-tag-analyzer-devices-for-popular-platforms-fbtwitterinsta-for-2024/"><u>[New] Expert Tag Analyzer Devices for Popular Platforms (FB/Twitter/Insta) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-engaging-and-memorable-youtube-channel-graphics/"><u>[Updated] In 2024, Creating Engaging and Memorable YouTube Channel Graphics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>[Updated] Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-to-downloading-and-installing-lenovo-t430-drivers-on-windows-pcs-versions-7-10/"><u>Comprehensive Guide to Downloading and Installing Lenovo T430 Drivers on Windows PCs (Versions 7-10)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-core-differences-the-ultimate-guide-to-mac-and-pc-contrasts/"><u>Discovering Core Differences: The Ultimate Guide to Mac and PC Contrasts</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-sd-card-on-pc-explorer-troubleshooting-steps/"><u>Elusive SD Card on PC Explorer - Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-essential-elements-required-warning-in-w10w11-os/"><u>Fixing Essential Elements Required Warning in W10/W11 OS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-missing-text-display-on-discord-client-for-pc/"><u>Fixing Missing Text Display on Discord Client for PC</u></a></li>
-<li><a href="https://win11.techidaily.com/steady-your-display-tackling-win1011-screen-issues/"><u>Steady Your Display: Tackling WIN10/11 Screen Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-best-spots-for-free-downloadable-got-ringtones/"><u>The Best Spots for Free Downloadable GoT Ringtones</u></a></li>
-<li><a href="https://win11.techidaily.com/tricks-to-expand-your-windows-11-pin-count/"><u>Tricks to Expand Your Windows 11 Pin Count</u></a></li>
-<li><a href="https://win11.techidaily.com/unheard-no-more-5-apps-to-elevate-your-pcs-volume-over-100/"><u>Unheard No More: 5 Apps to Elevate Your PC’s Volume Over 100%</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinct-features-of-cable-tv-and-streaming-services/"><u>Unraveling the Distinct Features of Cable TV and Streaming Services</u></a></li>
-<li><a href="https://win11.techidaily.com/utilizing-windows-features-for-audio-capture/"><u>Utilizing Windows Features for Audio Capture</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/yl-software-presents-chloe-coleman-visual-collection-stunning-backgrounds-and-wallscapes-to-elevate-your-digital-experience/"><u>YL Software Presents Chloe Coleman Visual Collection: Stunning Backgrounds and Wallscapes to Elevate Your Digital Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>[New] Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nhance-video-magic-find-your-favorite-mobile-edit-apps/"><u>[New] Enhance Video Magic Find Your Favorite Mobile Edit Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-tools-for-youtube-to-webm-conversion/"><u>[New] In 2024, Top 10 Tools for YouTube to WebM Conversion</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-skype-the-top-10-audio-capture-tools-for-2024/"><u>[New] Skype The Top 10 Audio Capture Tools for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-virtual-worlds-in-action-essential-360-shooting-advice-top-9/"><u>[New] Virtual Worlds in Action Essential 360 Shooting Advice (Top 9)</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-leading-intro-editors-for-device-applications/"><u>[Updated] In 2024, Leading Intro Editors for Device Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-building-competence-with-lut-software/"><u>2024 Approved Building Competence with LUT Software</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable.</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-your-inboxes-add-gmail-to-outlook-on-windows-pcs/"><u>Navigate Your Inboxes: Add Gmail to Outlook on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-correcting-defenders-error-code-0x80004004/"><u>Navigating & Correcting Defender’s Error Code: 0X80004004</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-monitor-settings-in-latest-os-version/"><u>Optimize Monitor Settings in Latest OS Version</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-power-usage-solutions-for-unrealcefsubprocess-in-windows/"><u>Optimizing Power Usage: Solutions for UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpointing-windows-shots-hideaway/"><u>Pinpointing Windows Shots' Hideaway</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-fixing-admin-controlled-windows-settings/"><u>Understanding and Fixing Admin-Controlled Windows Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-processor-state-displayment/"><u>Unlocking the Secrets to Processor State Displayment</u></a></li>
 </ul></div>
 

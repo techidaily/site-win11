@@ -1,7 +1,7 @@
 ---
 title: Discovering the Magic in W11’s Moment #22H2 Update
-date: 2024-08-16T00:54:04.676Z
-updated: 2024-08-17T00:54:04.676Z
+date: 2025-01-12T09:56:00.839Z
+updated: 2025-01-12T23:44:16.883Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
  Windows 11 currently provides a more feature-rich experience since it was launched. The upcoming Windows 11 22H2 Moment update might add to the enhancements.
 
  Moment is the internal codename Microsoft uses internally to deliver new features and improvements to Windows 11, version 22H2\. Windows 11's next feature update will come via Moment 2, which is rumored to arrive next month. And we are putting together a list of what you might expect from it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. A Tablet-Optimized Taskbar
 
@@ -43,23 +47,18 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ## 3\. Tabbed Interface in Notepad
 
 ![Tabbed interface in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tabbed-interface-in-notepad-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft introduced File Explorer tabs in the Windows 11 22H2 update last year. Tabs support might expand to the Notepad app as well. Microsoft is currently testing tabs in Notepad with Windows 11 Insiders, hinting that it has a high chance of becoming available in upcoming Moment updates.
 
  Just like how[File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Animated Icons in the Settings App
 
 ![animated icons in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/animated-icons-in-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Image credit:[Microsoft](https://learn.microsoft.com/en-in/windows/apps/design/signature-experiences/motion#delightful-unexpected-moments-of-joy-with-purpose)
 
@@ -70,17 +69,11 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 ## 5\. Built-in Screen Recording
 
 ![Snipping tool with screen recording](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/snipping-tool-with-screen-recording.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
  The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. New Dark Mode Toggle
 
  A dark mode toggle in Windows 11 Quick Setting panel was recently spotted in Insider builds. The new dark mode toggle will allow you to turn on or off dark mode whenever you like without opening the Settings app, which is very similar to how you can turn on or off dark mode quickly from the notification panel of your Android phone.
@@ -91,29 +84,35 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our[guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Task Manager Improvements
 
 ![Windows 11 Task Manager search bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-task-manager-search-bar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Task Manager in Windows 11 shows you information on applications and processes on your computer. It is also where you can get a good idea about your PC's current state. However, finding one particular process or application that may need your attention when you run into trouble is quite a task.
 
  An improved Task Manager that Microsoft is currently testing with Insiders has a new search bar to help look up the exact process or application within seconds. In the new Task Manager search bar, you can search with a name, publisher, or process identification number (PID). Microsoft may introduce the new search bar to the upcoming Moment 2 or 3 updates, set to release this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Features Coming to Windows 11 22H2 Moment Update
 
  The capabilities above have a high chance of getting into the list of features that Microsoft will introduce in Moment 2\. But we can not rule out the possibility of some features not making it to the final release. Therefore, they may be split across Moment 3 and subsequent updates.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,20 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-data-delivery-guide-top-5-methods-to-get-files-on-your-pc/"><u>[New] Data Delivery Guide Top 5 Methods to Get Files on Your PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-choice-12-superior-clicking-adventures-on-your-pc-for-2024/"><u>[New] Ideal Choice 12 Superior Clicking Adventures on Your PC for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dns-flush-strategies-for-windows-11-users/"><u>DNS Flush Strategies for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-dead-pixels-from-windows-steam/"><u>Eliminating Dead Pixels From Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-server-stumble-a-guide-to-fixing-ms-store-in-windows-11-and-11/"><u>Eliminating the Server Stumble: A Guide to Fixing MS Store in Windows 11 and 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-veracity-in-the-realm-of-health-recommendations/"><u>GPT's Veracity in the Realm of Health Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-avoid-windows-will-expire-soon-error/"><u>Guidelines to Avoid 'Windows Will Expire Soon' Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-agni-2-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Agni 2 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-innovation-top-picks-from-microsofts-store-2-infuse-your-living-space-with-a-touch-of-history-while-maintaining-modern-comfort-and-style-lets-embark-24/"><u>Ignite Innovation: Top Picks From Microsoft's Store, 2 Infuse Your Living Space with a Touch of History While Maintaining Modern Comfort and Style? Let's Embark on an Exciting Home Decor Journey Together</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-management-of-network-safety-areas-in-windows/"><u>Masterful Management of Network Safety Areas in Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-the-art-of-note-taking-mematic-way/"><u>Perfect the Art of Note-Taking - Mematic Way</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-kid-friendly-halloween-video-template-ideas/"><u>Top Kid-Friendly Halloween Video Template Ideas</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/troubleshooting-mkv-streaming-issues-tips-for-compatible-ipad-playback/"><u>Troubleshooting MKV Streaming Issues: Tips for Compatible iPad Playback</u></a></li>
+</ul></div>
 

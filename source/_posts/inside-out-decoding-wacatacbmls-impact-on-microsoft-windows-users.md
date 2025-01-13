@@ -1,7 +1,7 @@
 ---
 title: "Inside Out: Decoding Wacatac.B!ml's Impact on Microsoft Windows Users"
-date: 2025-01-03T16:50:22.005Z
-updated: 2025-01-06T21:07:07.545Z
+date: 2025-01-08T09:21:56.420Z
+updated: 2025-01-13T10:02:32.437Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Wacatac.B!ml Trojan?
@@ -57,15 +57,19 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 ![clicking on the choose file button on the VirusTotal official website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-on-the-choose-file-button-on-the-virus-total-official-website.jpg)
 2. Navigate to the path of the affected item where Windows Defender has detected a Trojan. Most of the time, it'll be as follows:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `C:\WINDOWS\System32\config\systemprofile\AppData\Local\Microsoft\Windows\INetCache\IE\QINNLJOV.htm`
 3. Select the infected file and upload it.  
 ![Uploading the infected file on the VirusTotal official website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uploading-the-infected-file-on-the-virus-total-official-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the scan turns up clean, it's probably a false alarm. However, whether the file is clean or the scan detects Trojans or malware, it's best to scan and remove them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove the Wacatac.B!ml Trojan From Your Device
 
@@ -77,13 +81,13 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 
 ![Deleting the Infected File after Locating It by Navigating to the Path in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Deleting-the-Infected-File-after-Locating-It-by-Navigating-to-the-Path-in-the-File-Explorer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After deleting the file, run a security check on your computer again. If the Trojan continues to appear on your system, move on to the next fix.
 
  If the file in which Windows Defender finds a threat is a Windows operating system file, you should be cautious before deleting it. Otherwise, it could make your computer unbootable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Remove the Threat Manually
 
@@ -95,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 ![Opening Windows Security Settings by Clicking on Privacy & Security Option in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Opening-Windows-Security-Settings-by-Clicking-on-Privacy--Security-Option-in-Windows-Settings-App.jpg)
 4. Click**Virus & threat protection** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Then click**Protection history** .  
 ![Clicking on Protection History Option Under Virus & Threat Protection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Clicking-on-Protection-History-Option-Under-Virus--Threat-Protection-in-Windows-Settings-App.jpg)
 6. Click on the Wacatac's threat.
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 ![Removing the Wacatac’s Threat by Clicking on Remove Button in the Actions Dropdown in Protection History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Removing-the-Wacatac’s-Threat-by-Clicking-on-Remove-Button-in-the-Actions-Dropdown-in-Protection-History.jpg)
 
  Run the scan again. If it doesn't remove the threat, follow the same steps and choose**Quarantine** from the**Actions** dropdown. This will prevent further virus spread. Next, move on to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run a Malware Scan in Safe Mode
 
@@ -123,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 ## 4\. Reset Your Operating System
 
  When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a[guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does the Wacatac Trojan Alert Appear When You Download a File?
 
@@ -139,11 +139,11 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 4. Hit**Enter** .  
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Your Privacy From the Wacatac Trojan
 
@@ -164,20 +164,21 @@ thumbnail: https://thmb.techidaily.com/6193b23bc0e674c0853b0708bb0c2b43a5237bddc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/igital-dreams-unite-conference/"><u>[New] Digital Dreams Unite Conference</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/uide-to-structuring-youtube-content-with-separate-chapters-for-2024/"><u>[New] Guide to Structuring YouTube Content with Separate Chapters for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-cutting-edge-zooming-tactics-for-collaborative-ms-teams/"><u>[Updated] 2024 Approved Cutting Edge Zooming Tactics for Collaborative MS Teams</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-subtitled-content-download-without-paying/"><u>[Updated] 2024 Approved Free YouTube Subtitled Content Download Without Paying</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-extreme-sports-face-off-comparing-hero5-black-to-session/"><u>[Updated] Extreme Sports Face-Off Comparing Hero5 Black to Session</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-continuity-moving-your-torrent-software-on-windows/"><u>Ensuring Continuity: Moving Your Torrent Software on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-fix-blinded-hdd-on-pcs/"><u>Guide to Fix Blinded HDD on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-tweak-taskbar-width-in-windows-11-os/"><u>How to Tweak Taskbar Width in Windows 11 OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210768063-9781646998685-interpretar-el-tarot/"><u>Interpretar el tarot | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/preemptively-handling-file-lock-issues-on-windows-11-pcs/"><u>Preemptively Handling File Lock Issues on Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-grammarlys-functionality-in-windows-environments/"><u>Restoring Grammarly's Functionality in Windows Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-pdf-experience-fix-selective-features-on-windows/"><u>Simplify Your PDF Experience: Fix Selective Features on Windows</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-6-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 6</u></a></li>
-<li><a href="https://win11.techidaily.com/whisper-desktop-instantaneous-voice-to-text-power/"><u>Whisper Desktop: Instantaneous Voice-to-Text Power</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-conclusion-mastery-customized-screens-in-focus/"><u>[Updated] 2024 Approved Channel Conclusion Mastery Customized Screens in Focus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[Updated] Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-for-smooth-video-trimming-in-photos/"><u>[Updated] Expert Tips for Smooth Video Trimming in Photos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-nubia-z50s-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Nubia Z50S Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ai-enhanced-frame-interpolation-boost-frame-rate-and-achieve-smoother-transitions/"><u>AI Enhanced Frame Interpolation - Boost Frame Rate and Achieve Smoother Transitions</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-secure-data-transfer-application-guard-edge-use-case-win-11-methodology/"><u>Enabling Secure Data Transfer: Application Guard (Edge) Use Case, Win 11 Methodology</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-no-hypervisor-detected-error-on-windows-sandbox/"><u>How to Solve No Hypervisor Detected Error on Windows Sandbox</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-look-at-the-asus-rog-rapture-gt-ax11000-router-gaming-enhanced-and-lightning-fast-internet-speeds-unleashed/"><u>In-Depth Look at the Asus ROG Rapture GT-AX11000 Router: Gaming Enhanced and Lightning Fast Internet Speeds Unleashed</u></a></li>
+<li><a href="https://win11.techidaily.com/key-to-savings-discover-black-fridays-top-price-on-windows-11-at-612lifetime/"><u>Key to Savings - Discover Black Friday's Top Price on Windows 11 at $6.12/Lifetime</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-new-era-windows-11s-compatibility-tool-explained/"><u>Navigating the New Era: Windows 11’S Compatibility Tool Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-windows-ease-center-the-essential-guide/"><u>Navigating To Windows Ease Center: The Essential Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-dll-not-loaded-in-steam/"><u>Strategies for Fixing Dll Not Loaded in Steam</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-fix-resurrecting-missing-dxgidll-file/"><u>Win11 Fix: Resurrecting Missing Dxgi.dll File</u></a></li>
 </ul></div>
 

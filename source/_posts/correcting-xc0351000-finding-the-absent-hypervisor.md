@@ -1,7 +1,7 @@
 ---
 title: "Correcting XC0351000: Finding the Absent Hypervisor"
-date: 2024-08-16T00:52:14.676Z
-updated: 2024-08-17T00:52:14.676Z
+date: 2025-01-05T22:54:38.176Z
+updated: 2025-01-12T19:52:12.783Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,17 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  Follow the steps in the article below to troubleshoot this error on your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check and Enable Virtualization Technology in BIOS
 
 ![virtualization status windows task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/virtualization-status-windows-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  All the virtualization-based tools need hardware virtualization enabled in BIOS to work. If you haven’t configured your hardware virtualization, check if it is enabled in Task Manager. If not, you can manually enable it in BIOS to support virtualization tools.
 
@@ -51,8 +59,9 @@ To check the virtualization status:
  Wait for your computer to restart. Open Task Manager to see the Virtualization status in the CPU tab. If it says "Enabled," try to open Windows Sandbox to see if it works without the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Virtual Machine Platform Features
 
  Windows Sandbox is available as an optional feature that you can install from the Windows Features dialog, and we've covered how to do this in our guide on[how to enable and set up Windows Sandbox in Windows 11](https://www.makeuseof.com/enable-set-up-windows-sandbox-windows-11/) . Similarly, you may need to enable a few additional optional features essential to run the virtualization tool successfully.
@@ -64,21 +73,21 @@ To enable virtualization features:
 1. Press**Win + I** to open**Settings** .
 2. Type**appwiz.cpl** and click**OK** to open**Control Panel.**  
 ![turn windows features on off windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-featureson-off-windows-11-control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the left pane, click on**Turn Windows features on or off.**  
-![turn on virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-virtual-machine-platform-windows-hypervisor-platform.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![turn on virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-on-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. In the**Windows Features** dialogue, scroll down and locate**Virtual Machine Platform** and**Windows Hypervisor Platform.**
 5. Select both options and click**OK** .
 6. Windows will start installing the necessary files. So, wait for the process to complete. Once done, click on**Restart Now** to restart your system and apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Set Hypervisor to Run at System Startup
 
  Windows Sandbox may not work if Hypervisor fails to start during system startup. To fix this issue, you can modify your Boot Configuration Data (BCD) file to launch Hypervisor automatically at system startup.
@@ -102,23 +111,17 @@ To set Hypervisor to launch at system startup:
 
 Once done, restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Get Set With Your Sandbox Again
 
  While only available on the Pro, Enterprise, and Education editions of the Windows 10 and 11 running systems, Sandbox is an excellent lightweight virtualization solution to test unsafe files and apps on your PC.
 
  However, if this virtualization option is unavailable, consider using a Windows Sandbox alternative such as Sandboxie-Plus. It is free to use and works on all the editions of Windows OS.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +130,18 @@ Once done, restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-essential-specs-for-smooth-operation-of-big-sur/"><u>[New] 2024 Approved Essential Specs for Smooth Operation of Big Sur</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlock-audience-potential-with-curated-video-shorts/"><u>[Updated] Unlock Audience Potential with Curated Video Shorts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-spark-go-2023-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Spark Go (2023) FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-pc-issues-with-sons-of-the-forest-a-step-by-step-solution/"><u>Fixing Pc Issues with Sons of the Forest: A Step-by-Step Solution</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-quieting-audible-outputs-a-windowsmac-guide/"><u>In 2024, Quieting Audible Outputs A Windows/Mac Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-device-disconnection-issues-within-virtualbox-environment/"><u>Resolving Device Disconnection Issues Within VirtualBox Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/rise-to-the-top-of-graphics-memory-increase-your-pcs-punch/"><u>Rise to the Top of Graphics Memory: Increase Your PC's Punch</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-nvidia-display-error-message/"><u>Steps to Correct Nvidia Display Error Message</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-remedy-for-elevation-necessary-error-in-windows/"><u>Swift Remedy for 'Elevation Necessary' Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-classic-console-redux-reviving-oldschool-pc-games/"><u>The Classic Console Redux: Reviving Oldschool PC Games</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Ethernet Net Access
-date: 2025-01-05T19:08:42.491Z
-updated: 2025-01-06T17:32:46.599Z
+date: 2025-01-10T18:05:25.086Z
+updated: 2025-01-12T21:51:38.599Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,7 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rule Out Router Issues
 
@@ -55,17 +47,21 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Troubleshoot Your Ethernet Connection
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Rule Out Operating System Issues
 
@@ -87,15 +83,19 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, restart your device once to ensure the changes take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
@@ -107,10 +107,6 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Effortlessly Connect Your Device to an Ethernet Connection
 
@@ -135,24 +135,19 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-marvelous.techidaily.com/budget-friendly-z-edge-z3plus-in-depth-analysis-a-smart-choice-for-your-driving-needs/"><u>Budget-Friendly Z-Edge Z3+ In-Depth Analysis: A Smart Choice for Your Driving Needs</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-file-sorting-utilizing-w11s-copy-and-move/"><u>Effortless File Sorting: Utilizing W11’s Copy and Move</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-visuals-and-performance-fps-upgrade-techniques/"><u>Enhancing Visuals & Performance: FPS Upgrade Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-no-audio-on-your-hp-laptop-solutions-for-windows-10-users/"><u>Fixing No Audio on Your HP Laptop - Solutions for Windows 10 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-is-chatgpt-potentially-applicable-to-cybersecurity-threats-specifically-malware-development/"><u>How Is ChatGPT Potentially Applicable to Cybersecurity Threats, Specifically Malware Development?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-disk-defragmenter-not-working-in-windows/"><u>How to Fix the Disk Defragmenter Not Working in Windows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-8-pioneering-online-photo-combination-suite/"><u>In 2024, 8 Pioneering Online Photo Combination Suite</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v29-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V29 FRP Bypass</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-11-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme 11 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s Plus Passcode Screen?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-seamlessly-post-pictures-your-youtube-visual-guide/"><u>In 2024, Seamlessly Post Pictures Your YouTube Visual Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-look-how-youtuber-shorts-work-for-2024/"><u>Inside Look How Youtuber Shorts Work for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/next-level-art-software-alternatives-to-procreates-win-version/"><u>Next-Level Art Software: Alternatives To Procreate's Win Version</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-update-failure-winerror-x8019/"><u>Resolving Update Failure - WinError X8019</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-restore-disrupted-remote-play-service/"><u>Steps to Restore Disrupted Remote Play Service</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-clearing-dark-screen-on-steam-os/"><u>Strategies for Clearing Dark Screen on Steam OS</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-system-monitoring-with-interactive-windows-panels/"><u>Streamline System Monitoring with Interactive Windows Panels</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-how-to-stop-fps-fluctuations-and-lags-in-modern-warfare-n-windows-edition/"><u>Troubleshooting Guide: How to Stop FPS Fluctuations & Lags in Modern Warfare N WINDOWS Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-artisans-path-to-perfecting-video-chroma-balance-11-lessons/"><u>[New] 2024 Approved The Artisan's Path to Perfecting Video Chroma Balance (11 Lessons)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-instant-grooves-lasting-stories-making-sense-of-music-shorts/"><u>[New] In 2024, Instant Grooves, Lasting Stories Making Sense of Music Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-pinnacle-of-immersion-highest-rated-oculus-headsets/"><u>[New] The Pinnacle of Immersion Highest-Rated Oculus Headsets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-uniting-digital-and-physical-worlds/"><u>[New] Uniting Digital and Physical Worlds</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>[Updated] 2024 Approved Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secure-and-share-your-live-sounds-5-proven-online-approaches/"><u>[Updated] 2024 Approved Secure & Share Your Live Sounds - 5 Proven Online Approaches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-role-in-advancing-research-endeavors/"><u>AI's Role in Advancing Research Endeavors</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-in-the-professional-arena-key-tips-and-tricks/"><u>Facebook in the Professional Arena: Key Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-salvage-your-unzipping-troubles-with-ease-win-11-style/"><u>How To Salvage Your Unzipping Troubles with Ease, Win 11 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-average-user-into-power-user/"><u>How to Turn Average User Into Power-User</u></a></li>
+<li><a href="https://win11.techidaily.com/instantaneous-speech-recognition-the-whisper-approach/"><u>Instantaneous Speech Recognition - The Whisper Approach</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/journey-through-the-metaverse-6-illustrative-examples/"><u>Journey Through the Metaverse 6 Illustrative Examples</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-forgotten-windows-programs-with-a-restart/"><u>Rejuvenating Forgotten Windows Programs with a Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-embraces-sudo-mastery-guide/"><u>Windows Embraces Sudo: Mastery Guide</u></a></li>
 </ul></div>
 

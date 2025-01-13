@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Restriction Error: Disable 'Limited Admin Power'"
-date: 2024-12-31T16:29:11.950Z
-updated: 2025-01-06T20:45:59.831Z
+date: 2025-01-11T03:02:03.918Z
+updated: 2025-01-13T04:10:35.652Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Your User Account to an Admin Account
@@ -35,15 +35,15 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall Third-Party Security Software
 
  Have you installed a third-party antivirus app on your PC? If so, that security software could be by conflicting with Microsoft Defender and causing the “Page not available” error. Try uninstalling the third-party antivirus utility you’ve installed with a method in our guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Or utilize a dedicated removal tool for your antivirus app if there’s one available.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove Any Work or School Accounts
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
@@ -83,15 +79,11 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
 7. Double-click the**Enable headless UI mode** policy to view it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
@@ -113,13 +109,13 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Modify the Registry via Command Prompt
@@ -154,6 +150,10 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 ![The reg delete command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reg-delete.jpg)
 5. Open the Start menu, select**Power** , and press the**Restart** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a System Restore
 
  If the “Page not available” error remains after applying other potential solutions, try performing a system restore. That might work if you can select a restore point predating the “Page not available” error on your PC. Rolling Windows back to an earlier time could undo any system changes that caused the issue to arise.
@@ -181,14 +181,16 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-ensuring-seamless-gotomeeting-experience-with-device-recording/"><u>[New] In 2024, Ensuring Seamless GoToMeeting Experience with Device Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-insiders-move-to-effortless-discord-calls/"><u>[Updated] In 2024, The Insider's Move to Effortless Discord Calls</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-productivity-unleash-potential-via-flow-launcher/"><u>Enhance Productivity: Unleash Potential via Flow Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-search-bar-in-the-windows-11-settings-app-not-working/"><u>How to Fix the Search Bar in the Windows 11 Settings App Not Working</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-the-favorite-photo-viewer-functionality-in-windows-11/"><u>Reactivating the Favorite Photo Viewer Functionality in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-tasks-to-enhance-pc-functionality/"><u>Streamlining Tasks to Enhance PC Functionality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-photographers-guide-to-digital-cropting-for-2024/"><u>The Photographer's Guide to Digital Cropting for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-secrets-unlocked-accessing-deity-mode-in-windows-11/"><u>The Secrets Unlocked: Accessing Deity Mode in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-ai-conversations-in-your-linux-shell-utilizing-chatgpt-via-shellgpt/"><u>Unlocking AI Conversations in Your Linux Shell: Utilizing ChatGPT via ShellGPT</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-debating-on-the-significance-of-truthfulness-in-selfies/"><u>[New] 2024 Approved Debating on the Significance of Truthfulness in Selfies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-regain-control-recovering-after-a-facebook-breach-for-2024/"><u>[Updated] Regain Control Recovering After a Facebook Breach for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/are-you-still-using-the-latest-version-of-an-obsolete-ipad/"><u>Are You Still Using the Latest Version of an Obsolete iPad?</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-the-core-microsoft-pc-manager-for-windows-11-users/"><u>Configuring the Core: Microsoft PC Manager for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-most-frequent-windows-errors-quickly/"><u>Fixing the Most Frequent Windows Errors Quickly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-magic-in-managing-photos-with-magix/"><u>In 2024, Magic in Managing Photos with MAGIX</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-the-inoperative-lunar-client-message-in-windows/"><u>Remedying the Inoperative Lunar Client Message in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-navigating-to-system-preferences/"><u>Step-by-Step Guide: Navigating to System Preferences</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-11-default-apps-settings/"><u>Unveiling the Secrets of Windows 11 Default Apps Settings</u></a></li>
 </ul></div>
 

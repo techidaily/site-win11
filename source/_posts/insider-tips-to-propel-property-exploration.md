@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2024-12-31T20:21:02.925Z
-updated: 2025-01-06T18:37:07.855Z
+date: 2025-01-11T17:12:12.070Z
+updated: 2025-01-12T17:28:37.482Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Then press**Alt + Enter** keys at once to open the file properties window.  
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Using the Mouse and Keyboard Shortcut
 
  This method eliminates the usage of the enter key to open the file properties windows. Repeat the following steps to open the properties window:
@@ -46,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
@@ -61,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Using the File Explorer
 
  You can also view the file properties using the File Explorer app and not press a keyboard key even once. The option to view properties is hidden in the menu bar. Here’s how to open file properties using File Explorer:
@@ -75,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. A drop-down menu will open. Select the**Properties** option from the menu.  
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -128,22 +128,21 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[New] Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-masterclass-setting-up-countdowns-in-obs-studio-for-2024/"><u>[New] Masterclass Setting Up Countdowns in OBS Studio for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/20-anker-charger-the-ultimate-solution-to-your-portable-battery-woes-insights-from-zdnet/"><u>$20 Anker Charger: The Ultimate Solution to Your Portable Battery Woes – Insights From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/disarming-the-0x8007045d-blue-screen-on-windows-11-pcs/"><u>Disarming the 0X8007045D Blue Screen on Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-create-a-mobile-internet-access-point-with-windows-11/"><u>Effortlessly Create a Mobile Internet Access Point with Windows 11</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/how-to-automate-regular-backups-for-your-sql-server-databases-sql-server-2012-2019/"><u>How to Automate Regular Backups for Your SQL Server Databases (SQL Server 2012-2019)</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y02t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y02T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-overcome-bluetooth-pin-related-link-failures-in-win11win10/"><u>How To Overcome Bluetooth PIN-Related Link Failures in Win11/Win10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-twitch-a-guide-to-solving-puzzling-aspects-for-novice-users/"><u>Navigating Twitch: A Guide to Solving Puzzling Aspects for Novice Users</u></a></li>
-<li><a href="https://win11.techidaily.com/per-screen-prowess-custom-themes-for-every-monitor-in-win-1011/"><u>Per-Screen Prowess: Custom Themes for Every Monitor in WIN 10/11</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-honor-magic-6-pro-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 6 Pro Black and White | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-macos-organization-with-craft-a-step-by-step-user-manual/"><u>Revolutionize Your macOS Organization with Craft - A Step-by-Step User Manual</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-dissuade-non-requested-console-opening/"><u>Strategies to Dissuade Non-Requested Console Opening</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-guide-to-weaving-gopro-footage-into-circular-films-for-2024/"><u>Ultimate Guide to Weaving GoPro Footage Into Circular Films for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-online-spaces-7-fixes-for-windows-browsers-that-refuse-access/"><u>Unlocking Online Spaces: 7 Fixes for Windows Browsers that Refuse Access</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-your-pcs-control-center-on-windows-11/"><u>Unlocking Your PC's Control Center on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-theme-bliss-beyond-mainstream/"><u>Windows 11 Theme Bliss Beyond Mainstream</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-impressive-analysis-and-rival-proposals/"><u>[New] 2024 Approved Impressive Analysis & Rival Proposals</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-ms-edges-picture-in-picture-magic/"><u>[New] In 2024, Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unite-video-files-into-playlist-assembly/"><u>[Updated] Unite Video Files Into Playlist Assembly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-incor-written-by-sarah-johnson/"><u>2024 Approved Advanced Techniques for Incor Written By Sarah Johnson</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-win1011-recycle-error-step-by-step-fixes/"><u>Conquering WIN10/11 Recycle Error: Step-by-Step Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-techniques-for-uac-prompt-snaps/"><u>Essential Techniques for UAC Prompt Snaps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-your-unmatched-bumble-account-expert-advice-for-success/"><u>Fixing Your Unmatched Bumble Account: Expert Advice for Success</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-power-windows-task-scheduler-for-batches/"><u>Harnessing Power: Windows Task Scheduler for Batches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-output-problems-when-cable-is-loose/"><u>How To Resolve Nvidia Graphics Output Problems When Cable Is Loose</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-ios-mapping-within-a-windows-framework/"><u>Integrating iOS Mapping Within a Windows Framework</u></a></li>
+<li><a href="https://win11.techidaily.com/priced-too-low-the-reality-behind-cheap-windows-licenses/"><u>Priced Too Low: The Reality Behind Cheap Windows Licenses</u></a></li>
+<li><a href="https://win-web3.techidaily.com/professioneel-hoe-begeven-en-definieren-van-invalide-instellingen-op-windows-1011/"><u>Professioneel Hoe Begeven en Definieren Van Invalide Instellingen Op Windows 10/11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-your-playstation-4-from-locking-up-with-these-simple-repair-steps/"><u>Stop Your PlayStation 4 From Locking Up with These Simple Repair Steps!</u></a></li>
+<li><a href="https://win11.techidaily.com/the-connoisseurs-guide-navigating-and-tweaking-windows-registry-through-cli/"><u>The Connoisseur’s Guide: Navigating & Tweaking Windows Registry Through CLI</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-ace-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Ace 2 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-application-couldnt-start-hexadecimal-problem/"><u>Unpacking The Application Couldn't Start Hexadecimal Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2024-12-30T18:41:04.489Z
-updated: 2025-01-06T16:50:56.240Z
+date: 2025-01-10T17:46:39.371Z
+updated: 2025-01-12T21:53:24.279Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
 ![lets connect you to a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/lets-connect-you-to-a-network.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  According to Microsoft, you need an active internet connection to perform updates and download and use some features. In addition, Windows 11 Home edition requires a Microsoft Account to complete device setup on first use.
 
@@ -59,19 +59,11 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup i dont have product key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-i-dont-have-product-key.jpg)
 5. Enter your product key. If you don't have a product key, click the **I don't have a product key** link in the bottom right corner. If you are upgrading from Windows 10 and had Windows 11 previously installed, the operating system will automatically recognize and validate the Windows product key linked to your computer hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Next, if prompted, select the edition of Windows 11 you want to install.
 2. Check the box to accept terms and click **Next**.
 3. Select **Custom: Install Windows Only (Advanced).**  
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. In the setup screen, select your region and keyboard layout.
 
@@ -84,15 +76,19 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows-11-setup-select-installation-i-don't-have-internet-connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-i-don-t-have-internet-connection.jpg)
 4. Follow the on-screen instructions to complete the setup. When you reach the **Let’s connect you to a network screen**, click on **I don’t have Internet** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, click on **Continue with limited setup.**  
 ![Windows 11 setup select installation continue with limited setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-continue-with-limited-setup.jpg)
 6. Accept the **License Agreement** and proceed to create your local user account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -108,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 3. Alternatively, use the **Ctrl + Shift + Esc** shortcut to launch Task Manager without Command Prompt.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **More Details** to open Task Manager in full view.
@@ -124,16 +120,16 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 ![end network connection flow command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/end-network-connection-flow-command-prompt.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are unable to end the Network Connect Flow through Task Manager, you can directly kill it using the Command Prompt. Here’s how to do it.
 
 1. At the Let’s connect you to a network screen, press **Shift + F10** to launch Command Prompt.
 2. In the Command prompt window, type the following command and hit enter to execute:  
 `taskkill /F /IM oobenetworkconnectionflow.exe`
 3. Once executed, close the Command Prompt window to continue with the setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Skip Let’s Connect You to a Network Page with Alt + F4
 
@@ -142,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  For more such handy shortcuts, explore our [ultimate guide to Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/).
 
  If successful, Windows 11 will skip the current screen and move to the next step. Once you're past this step, you can create a local user account and then complete the setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Completing the Windows 11 Setup Without Internet Access
 
@@ -161,17 +161,22 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-perfecting-time-sync-in-video-postings-on-youtube/"><u>[New] Perfecting Time Sync in Video Postings on YouTube</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-guide-upcoming-iphone-models-compatible-with-ios-18-the-full-list-by-zdnet/"><u>Comprehensive Guide: Upcoming iPhone Models Compatible with iOS 18 - The Full List by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-forecasting-software-w10w11/"><u>Cutting-Edge Forecasting Software W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/empower-your-windows-pc-leverage-tdarr-for-multi-node-transcoding/"><u>Empower Your Windows PC: Leverage Tdarr for Multi-Node Transcoding</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-counter-dark-screens-while-playing-windows-titles/"><u>Guidelines to Counter Dark Screens While Playing Windows Titles</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ss-the-power-of-youtube-videos-to-create-stunning-gifs-online/"><u>Harness the Power of Youtube Videos to Create Stunning Gifs Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-delete-your-facebook-account-on-android/"><u>How to Delete Your Facebook Account on Android</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-stubborn-0x800736cc-windows-update-error/"><u>Overcoming the Stubborn 0X800736CC Windows Update Error</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pushing-perception-analyzing-the-dreamcolors-z32x-4k/"><u>Pushing Perception Analyzing the DreamColor's Z32X 4K</u></a></li>
-<li><a href="https://win-community.techidaily.com/recover-unseen-file-losses-on-windows-11-when-the-recycle-bin-is-empty/"><u>Recover Unseen File Losses on Windows 11 When the Recycle Bin Is Empty</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-essence-of-shareable-humorous-content-for-2024/"><u>The Essence of Shareable Humorous Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-ultimate-command-center-in-windows-11/"><u>Unlocking The Ultimate Command Center in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-deadly-dominance-the-quintessential-zombie-gameplay/"><u>[New] Deadly Dominance The Quintessential Zombie Gameplay</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-beats-studio-mac-basics/"><u>[New] In 2024, Capturing Beats Studio Mac Basics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-a-unified-brand-presence-on-youtube/"><u>2024 Approved Crafting a Unified Brand Presence on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-whats-the-best-orientation-horizontalvertical-on-facebook/"><u>2024 Approved What's The Best Orientation Horizontal/Vertical on Facebook?</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-setting-up-two-or-more-displays-on-windows-11/"><u>Expert Tips for Setting Up Two or More Displays on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-locations-to-grab-snapchat-chime-downloads/"><u>In 2024, Prime Locations to Grab Snapchat Chime Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-live-broadcast-performance-on-steam/"><u>Optimizing Live Broadcast Performance on Steam</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-invisible-displays-at-os-ignition/"><u>Overcoming Invisible Displays at OS Ignition</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-measures-for-win-11-upgrades-enable-tpm-secure-boot/"><u>Proactive Measures for Win 11 Upgrades: Enable TPM, Secure Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-windows-standard-battery-settings/"><u>Steps For Restoring Windows’ Standard Battery Settings</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamlining-freesync-integration-in-amd-systems/"><u>Streamlining FreeSync Integration in AMD Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ringtone-choices-essential-downloads-guide/"><u>Top Ringtone Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/top-windows-laptops-unleashing-power-and-performance/"><u>Top Windows Laptops : Unleashing Power & Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-guide-connected-but-unresponsive-bluetooth-keyboard-and-pc-woes/"><u>Troubleshooting Guide: Connected But Unresponsive - Bluetooth Keyboard & PC Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-operational-taskbar-icons-on-pcs/"><u>Troubleshooting Non-Operational Taskbar Icons on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-refreshed-examining-the-newly-added-functions/"><u>Windows 11 Refreshed: Examining the Newly Added Functions</u></a></li>
 </ul></div>
 

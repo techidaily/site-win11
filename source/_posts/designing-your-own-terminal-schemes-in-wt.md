@@ -1,7 +1,7 @@
 ---
 title: Designing Your Own Terminal Schemes in WT
-date: 2025-01-04T18:29:16.031Z
-updated: 2025-01-06T18:38:59.416Z
+date: 2025-01-11T16:53:05.201Z
+updated: 2025-01-13T09:12:07.405Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Edit a Color Scheme in Windows Terminal?
 
  Editing the color scheme is just one of the many[ways you can customize the Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) . To do that, follow the steps below:
@@ -33,27 +37,27 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![opening windows terminal from the power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-open-start.jpg)
 2. In the tab bar at the top, click on the**dropdown arrow** and select**Settings** from the menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![opening the settings of windows terminal from the title bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-tab-settings.jpg)
 3. On the left side menu, select**Color Schemes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
 5. Under**Terminal colors** or**System colors** , you’ll see several options, such as**Black** ,**Red** ,**White** ,**Foreground** , and**Background** , with a color next to them. Click on the color to bring up the editor.  
 ![the windows terminal color schemes page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-color-scheme.jpg)
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
@@ -71,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 3. In the**Profiles** section of the left side menu, select**Defaults** if you want to apply the scheme to all profiles or select a specific profile, such as[Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) or Command Prompt, to apply it to that particular one.  
 ![the profiles section of windows terminal settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/profiles-section-windows-terminal.jpg)
 4. In the**Additional settings** section at the bottom of the right panel, click**Appearance** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![the additional settings of a profile in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-additional-settings.jpg)
 5. In the**Text** section, click on the**dropdown** next to**Color scheme** and select the edited or custom color scheme that you want to apply.  
@@ -116,15 +116,18 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[New] Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximize-your-valorant-potential-try-this-costless-game-changer-today/"><u>[New] In 2024, Maximize Your Valorant Potential - Try This Costless Game Changer Today</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-premium-pages-on-mobile-best-ig-covers-app-for-2024/"><u>[New] Premium Pages on Mobile Best IG Covers App for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/engaging-enhanced-widget-picker-functionality-in-windows-11/"><u>Engaging Enhanced Widget Picker Functionality in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-amd-195-software-installer-cannot-continue-error-on-windows/"><u>How to Fix the AMD 195 Software Installer Cannot Continue Error on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-7-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/inhibit-tracking-of-windows-application-startups/"><u>Inhibit Tracking of Windows Application Startups</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-stealthy-item-access-windows-11s-secret-menu-guide/"><u>Mastering Stealthy Item Access: Windows 11'S Secret Menu Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-new-service-raises-questions-about-its-impact/"><u>Nvidia's New Service Raises Questions About Its Impact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-web-apps-to-enhance-your-ai-prompt-crafting-abilities/"><u>Ultimate List of Web Apps to Enhance Your AI Prompt Crafting Abilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use/"><u>[Updated] The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-srt-a-complete-reference-guide-for-conversion/"><u>2024 Approved Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cutting-edge-drones-pairing-perfectly-with-gopros/"><u>Cutting-Edge Drones Pairing Perfectly with GoPros</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-high-contrast-effectiveness-in-windows/"><u>Eliminate High Contrast Effectiveness in Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exceptional-14-visual-text-motion-examples-for-2024/"><u>Exceptional 14 Visual Text Motion Examples for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-computer-controls-internationally-using-powertoys-capabilities/"><u>Master Your Computer Controls Internationally Using PowerToys' Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-your-intel-unison-errors-with-these-tips-for-win11/"><u>Overcome Your Intel Unison Errors with These Tips for Win11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/prime-action-cameras-with-superior-mics-for-2024/"><u>Prime Action Cameras with Superior Mics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-enabling-imessage-for-non-ios-devices/"><u>The Insider’s Guide: Enabling iMessage for Non-iOS Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-internet-router-control-panel/"><u>Troubleshooting No Internet Router Control Panel</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2024-12-30T18:57:22.817Z
-updated: 2025-01-06T17:56:10.631Z
+date: 2025-01-09T08:59:31.595Z
+updated: 2025-01-13T05:30:07.595Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Microsoft Defender Blocking Third-Party Antivirus Software
 
  When you install a third-party antivirus program, Windows Defender may get automatically disabled. However, if you receive a notification or prompt stating that Microsoft Defender is blocking your third-party antivirus software, it means that both security solutions are active.
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Disable Tamper Protection
 
@@ -41,13 +49,17 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After disabling Tamper Protection, see if your third-party antivirus works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Turn Off Microsoft Defender
 
@@ -72,22 +84,14 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 6. If the UAC prompts you for permission, click **Yes**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -98,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  To reinstall, uninstall the app using one of the [many ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). After uninstalling, restart your computer.
 
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
 
@@ -119,22 +119,22 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-diving-into-youtube-creation-and-making-it-monetary/"><u>[New] 2024 Approved Diving Into YouTube Creation & Making It Monetary</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-rapid-photo-reader-for-windows-users/"><u>[Updated] Rapid Photo Reader for Windows Users</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-shocking-stats-mind-bending-youtube-visual-facts-17/"><u>[Updated] Shocking Stats Mind-Bending Youtube Visual Facts ('17)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-mp3-from-pinterest-video-files-with-these-steps/"><u>[Updated] Unlocking MP3 From Pinterest Video Files with These Steps</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/convert-your-windows-11-32-bit-into-64-bit-form/"><u>Convert Your Windows 11 (32-Bit) Into 64-Bit Form</u></a></li>
-<li><a href="https://games-able.techidaily.com/correcting-xbox-controllers-unintended-movements/"><u>Correcting Xbox Controllers' Unintended Movements</u></a></li>
-<li><a href="https://article-tips.techidaily.com/discover-the-top-6-android-music-video-platforms/"><u>Discover the Top 6 Android Music Video Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-completely-sever-non-primary-accounts-on-windows/"><u>Guide to Completely Sever Non-Primary Accounts on WIndows</u></a></li>
-<li><a href="https://fox-search.techidaily.com/is-it-possible-to-copy-an-active-windows-drive/"><u>Is It Possible to Copy an Active Windows Drive?</u></a></li>
-<li><a href="https://win11.techidaily.com/master-pointer-customization-for-maximum-comfort-and-control/"><u>Master Pointer Customization for Maximum Comfort and Control</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-note-adhesion-in-windows-11-and-10/"><u>Mastering Window Note Adhesion in Windows 11 & 10</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-dism-commands-in-win11-repair/"><u>Navigating DISM Commands in Win11 Repair</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-cut-and-trim-3gp-files-with-ease-updated-2023-for-2024/"><u>New Cut and Trim 3GP Files with Ease Updated 2023 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-system-diagnostics-windows-troubleshooter-key-combinations/"><u>Simplifying System Diagnostics: Windows Troubleshooter Key Combinations</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-hidden-bluetooth-on-device-mgr/"><u>Strategies for Fixing Hidden Bluetooth on Device Mgr</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-disk-knowledge-understanding-c-and-d/"><u>Unlocking Disk Knowledge: Understanding 'C' & 'D'</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-silently-vanish-language-line-from-taskbar/"><u>Windows 11: Silently Vanish Language Line From Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boosting-your-youtube-views-a-strategy-guide/"><u>[New] Boosting Your YouTube Views A Strategy Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expedite-tech-advancement-how-to-embrace-macos-11-big-sur-for-2024/"><u>[New] Expedite Tech Advancement How to Embrace macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-digital-media-seeker/"><u>[Updated] Digital Media Seeker</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-manipulate-sound-rate-in-youtube-playback/"><u>[Updated] In 2024, Manipulate Sound Rate in YouTube Playback</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-instant-tutorial-green-screen-techniques-unveiled/"><u>2024 Approved Instant Tutorial Green Screen Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-mastery-elevating-your-channel-with-strategic-spotlight-techniques/"><u>2024 Approved YouTube Mastery Elevating Your Channel with Strategic Spotlight Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-mend-common-directdraw-errors-plaguing-win11-users/"><u>Expert Tips to Mend Common DirectDraw Errors Plaguing Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-click-issues-in-win11-no-action-buttons/"><u>Fix Click Issues in Win11: No Action Buttons</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-master-fcs-world-winning-gameplay-on-a-budget-pc/"><u>How to Master FC's World: Winning Gameplay on a Budget PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-0-apple-iphone-4-now-enables-flash-player-support/"><u>IPhone #0 Apple iPhone 4 Now Enables Flash Player Support</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/overcoming-iphones-endless-data-retrieval-phase-steps-to-success/"><u>Overcoming iPhone’s Endless 'Data Retrieval' Phase – Steps to Success</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steams-inaccessible-remote-mode/"><u>Overcoming Steam's Inaccessible Remote Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-wsl-hurdles-in-new-windows-11-version/"><u>Overcoming WSL Hurdles in New Windows 11 Version</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-inactive-devices-issue-in-win11-sleep/"><u>Solving Inactive Devices Issue in Win11 Sleep</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-win-11s-menu-with-fewer-choices-displayed/"><u>Streamline Win 11'S Menu with Fewer Choices Displayed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-buzz-creation-blueprint-for-marketing-success-for-2024/"><u>The Buzz-Creation Blueprint for Marketing Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/triple-play-win-11-tips-how-to-transform-gaming-for-ultimate-fun-and-finesse/"><u>Triple Play Win 11 Tips: How to Transform Gaming for Ultimate Fun and Finesse</u></a></li>
 </ul></div>
 

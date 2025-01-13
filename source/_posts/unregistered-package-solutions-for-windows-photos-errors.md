@@ -1,7 +1,7 @@
 ---
 title: Unregistered Package Solutions for Windows Photos Errors
-date: 2024-12-30T20:10:09.932Z
-updated: 2025-01-06T20:16:54.098Z
+date: 2025-01-12T08:10:20.087Z
+updated: 2025-01-13T08:39:56.853Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  Start your error troubleshooting with a troubleshooter for UWP apps on Microsoft Store. Windows Store Apps is a troubleshooter that could identify and resolve an issue with the Photos app. These are the steps for running that troubleshooter in Windows 11:
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Update Photos
 
  Updating Microsoft Store apps like Photos can fix issues with them. So, try updating Microsoft Photos like this:
@@ -59,11 +51,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 4. Wait for the Photos app update to finish before closing Microsoft Store.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Photos Apps
@@ -71,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
  Repairing or resetting Photos will likely fix the “Package could not be registered” if that app has corrupted files or data. You can select adjacent**Repair** and**Reset** troubleshooting options for Photos within Settings’ Apps & Features tool. To apply this solution, follow the instructions in our guide for[resetting Microsoft Store apps](https://www.makeuseof.com/windows-reset-app/) . Select the**Repair** option first and**Reset** second if necessary.
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Deployment Image and System File Checker Tools
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 `sfc /scannow`
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall Photos
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Windows
 
@@ -127,14 +127,22 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-seamless-downloads-4-prime-ringtones-providers/"><u>[Updated] In 2024, Seamless Downloads 4 Prime Ringtones Providers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipating-apples-event-in-october-unveiling-of-the-new-m4-powered-mac-mini-latest-ipad-models-and-insights-on-apple-ai-advancements/"><u>Anticipating Apple's Event in October: Unveiling of the New M4-Powered Mac Mini, Latest iPad Models & Insights on Apple AI Advancements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/archive-artistry-seamlessly-fuse-infinite-no-charge-cloud-and-premium-subscriptions-for-2024/"><u>Archive Artistry Seamlessly Fuse Infinite, No-Charge Cloud & Premium Subscriptions for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/eb477dw-hp-printer-drivers-compatible-with-windows-11-windows-10-and-windows-8-free-download/"><u>Eb477DW HP Printer Drivers Compatible with Windows 11, Windows 10 & Windows 8 - Free Download</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-a-non-functional-wsreset-utility-in-windows/"><u>Fixes for a Non-Functional WSReset Utility in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-unlock-full-potential-eliminating-error-code-80080300-in-win11/"><u>Quick Fixes to Unlock Full Potential: Eliminating Error Code 80080300 in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-silenced-headset-microphone-on-windows-pcs/"><u>Reactivating Silenced Headset Microphone on Windows PCs</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/sapphire-unveils-affordable-pcie-gen-4-mini-itx-am5-board-for-chinese-market/"><u>Sapphire Unveils Affordable PCIe Gen 4 Mini ITX AM5 Board for Chinese Market</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-compact-free-media-players-for-pcs/"><u>Top 7 Compact, FREE Media Players for PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>[New] 2024 Approved Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-finding-the-right-angle-for-your-fb-videos-for-2024/"><u>[Updated] Finding the Right Angle for Your FB Videos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-xs-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone XS Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-problems-with-windows-spotlight-not-loading-photos-in-windows-11-solutions-included/"><u>Common Problems with Windows Spotlight Not Loading Photos in Windows 11 – Solutions Included</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-os-repair-procedures-chkdsk-sfc-dism-insights/"><u>Deciphering OS Repair Procedures: CHKDSK, SFC, DISM Insights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-for-resetting-your-iphone-and-navigating-to-recovery-mode-successfully/"><u>Expert Tips for Resetting Your iPhone & Navigating to Recovery Mode Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-troubleshoot-chatgpts-bodystream-glitch-with-these-effective-solutions/"><u>How to Troubleshoot ChatGPT's BodyStream Glitch with These Effective Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-windows-sfc-tool-with-ease/"><u>Launching Windows SFC Tool with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-god-mode-in-windows-11-a-compreranble-approach/"><u>Mastering God Mode in Windows 11: A Compreranble Approach</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/propel-your-instagram-videos-into-the-public-eye-for-2024/"><u>Propel Your Instagram Videos Into the Public Eye for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-null-sound-driver-error-on-windows-pc/"><u>Resolving Null Sound Driver Error on Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-improved-files-transfer-on-windows-11-2/"><u>Strategies for Improved Files Transfer on Windows 11 (2)</u></a></li>
+<li><a href="https://win11.techidaily.com/the-dreaded-wacatacbml-trojan-identification-and-removal-strategies/"><u>The Dreaded Wacatac.B!ml Trojan - Identification and Removal Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-improving-laptop-performance-with-external-monitors/"><u>Tips for Improving Laptop Performance with External Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-onedrive-emblem-from-windows-explorer-interface/"><u>Uninstalling OneDrive Emblem From Windows Explorer Interface</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Setting up Oculus Quest 2 in Windows PC Environment
-date: 2025-01-01T19:45:14.911Z
-updated: 2025-01-06T21:12:17.674Z
+date: 2025-01-07T01:46:17.376Z
+updated: 2025-01-13T03:53:00.319Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,21 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![The Download Software option for Oculus Windows app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-software-option.jpg)
 3. Double-click the**OculusSetup** file once it's downloaded.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Get started** and**Agree** buttons.
 5. Select**Install Now** to add Oculus to your software library.  
 ![The Install Now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/install-now-button.jpg)
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Oculus Link
@@ -62,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 3. Select the**Add Headset** option.  
 ![Add-Headset-option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-headset-option.jpg)
 4. Click the Oculus Quest 2 option and press the**Continue** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Select**Link (Cable)** and click**Continue** .
 
@@ -83,7 +87,11 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
@@ -91,10 +99,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
  When you’ve enabled Quest Link in your headset, you’ll enter a new Oculus Dash home environment. That’s essentially a new user interface in which you can browse the Oculus Rift store from which to download/install apps for your Quest 2\. Press the**Store** button to bring up the Oculus Rift storefront.
 
 ![The Oculus Rift Store in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/oculus-rift-storefront.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you’ll have the Oculus Rift store at your fingertips on your Oculus Quest 2\. There you can download and install VR apps that will be stored on your PC’s hard drive. Download a freely available entertainment app from there to get started.
 
@@ -113,31 +117,23 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![The Library button in Dash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/library-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Oculus Dash also has a Home VR feature. That’s a customizable virtual living room you can have some fun in. There you can pick up objects and rearrange the living room as you see fit.
 
 ![A screenshot captured in Dash's Home VR feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-feature-sceenshot.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can access that virtual environment by pressing the**Home** button on the Dash bar. Press the**Menu** button on the left control stick to bring up the menu for customizing the environment. Then select**Inventory** to add new things to the environment from the**Base** ,**Objects** , and**Decorations** tabs on that menu.
 
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
 
  When you want to go back to the default Quest 2 home environment, select the**Disable Quest Link** option on the Dash taskbar. You can return to the Dash environment anytime from the Settings dashboard. Select the clock with your controller to enable Quest Link from there.
 
 ![The Disable Quest Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-quest-link-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Manage Your PC VR App Library from Windows
 
@@ -159,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![Audio settings for PC VR in the Oculus software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Upgrade the Oculus Quest 2 With Your Windows PC
 
  Enabling Oculus Link is a great way to upgrade an Oculus Quest 2 headset. By combining your Windows 10 or 11 computer with an Oculus headset, you can enjoy all the best PC VR Rift apps on your Oculus Quest 2\. You can also have lots of VR fun with the Oculus Home feature and live events in Dash.
@@ -178,18 +178,22 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-methods-for-extracting-video-tweets-as-compact-mp3-files/"><u>[New] In 2024, Methods for Extracting Video Tweets as Compact MP3 Files</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-virtual-reality-lgs-360-degree-experience/"><u>Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-11r-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus 11R</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-high-res-video-leading-4k-conversion-tools/"><u>In 2024, Unlock High-Res Video Leading 4K Conversion Tools</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/lexicon-loops-fast-definitions-in-windows-11/"><u>Lexicon Loops: Fast Definitions in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-the-stubbornness-of-a-non-opening-windows-notepad-with-ease/"><u>Overcome the Stubbornness of a Non-Opening Windows Notepad with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-functional-search-on-windows-11/"><u>Overcoming Non-Functional Search on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-routine-discovering-9-gpt-life-enhancements/"><u>Revolutionize Routine: Discovering 9 GPT Life Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-eliminating-fatal-javascript-errors-on-windows-10plusdiscord/"><u>Solutions for Eliminating Fatal Javascript Errors on Windows 10+Discord</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-top-methods-for-converting-mpeg-files-to-aac-format-in-windows/"><u>Step-by-Step Guide: Top Methods for Converting MPEG Files to AAC Format in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-windows-update-failure-0xca00a009/"><u>Steps to Correct Windows Update Failure 0xCA00A009</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-pro-enable-telnet-with-ease/"><u>Windows 11 Pro: Enable Telnet with Ease</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-tiktok-production-zooms-role/"><u>[New] 2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capitalizing-on-hairstyle-demonstrations/"><u>[New] In 2024, Capitalizing on Hairstyle Demonstrations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[New] In 2024, Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/5-unbeatable-chatgpt-plugins-to-transform-your-site-today/"><u>5 Unbeatable ChatGPT Plugins to Transform Your Site Today</u></a></li>
+<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/decoding-bitcoin-and-altcoin-equity-monitoring-a-deep-dive-into-yl-software-solutions/"><u>Decoding Bitcoin & Altcoin Equity Monitoring: A Deep Dive Into YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-printer-removal-methods-in-windows-11-os/"><u>Efficient Printer Removal Methods in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-system-health-hardware-checks-with-live-tiles/"><u>Empowering System Health: Hardware Checks with Live Tiles</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-auto-updates-for-windows-and-swap-amd-gpu-drivers/"><u>Enable Auto-Updates for Windows & Swap AMD GPU Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-telnet-three-steps-for-win-1011/"><u>Enabling Telnet: Three Steps for Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-apples-magic-mouse-driver-a-step-by-step-tutorial-for-windows-users/"><u>Installing Apple's Magic Mouse Driver: A Step-by-Step Tutorial for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-on-reaching-protected-windowsapps-location/"><u>Masterclass on Reaching Protected WindowsApps Location</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-making-mouseclicklock-easier-in-windows/"><u>Masterclass: Making MouseClickLock Easier in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-preventing-vscode-freeze-on-w11/"><u>Solutions for Preventing VSCode Freeze on W11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Pro Max from iCloud</u></a></li>
 </ul></div>
 

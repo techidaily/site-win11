@@ -1,7 +1,7 @@
 ---
 title: "Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap"
-date: 2025-01-02T18:51:09.858Z
-updated: 2025-01-06T19:10:08.584Z
+date: 2025-01-05T21:12:46.932Z
+updated: 2025-01-13T08:03:21.694Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,21 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Internet Plan
 
 ![wifi speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wifi-speed-test.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure you have a high-speed connection capable of delivering speeds greater than 100Mbps before you blame other factors for limiting your internet speed. Check with your internet provider that you're subscribed to a plan that offers 100Mbps+ or more. Also, ensure the ISP has a good reputation and track record of consistently delivering high speeds.
 
  If your internet service provider is reliable and you are subscribed to a good plan, then it's likely that something on your side is keeping the speed from reaching its maximum.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform Some Basic Checks
 
@@ -63,27 +67,15 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
 ![a close up shot of router ports](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router-ports.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Like your network card, your router should also be capable of delivering 100Mbps+ speeds. You can check that by looking at the router's documentation or description on the manufacturer's website. If the router manufacturer claims this specific model is a gigabit router, it can likely deliver gigabit speeds.
 
  If you have a gigabit router, make sure the port where your Ethernet cable is connected is also a gigabit LAN port that can handle up to 1Gbps data rates. Switch to a gigabit port if it's connected to a "Fast Ethernet" port, which can only deliver 100Mbps. Hopefully, this will increase your internet connection's speed.
 
  If your router doesn't support a gigabit connection, you will have no choice but to switch to one that does.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Get a High-Category Ethernet Cable
 
@@ -94,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Remove Restrictions in the Router Settings
@@ -110,11 +102,19 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
@@ -140,21 +140,21 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[New] In 2024, Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/android-vs-iphone-the-strategic-showdown-of-tetris-mastery/"><u>Android vs iPhone: The Strategic Showdown of Tetris Mastery</u></a></li>
-<li><a href="https://fox-links.techidaily.com/capture-perfection-iphone-x8plus-ultimate-lens-tools/"><u>Capture Perfection IPhone X/8+ Ultimate Lens Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-driver-needs-update-issue-on-your-pc-tips-for-minecraft-players/"><u>Fixing the 'Driver Needs Update' Issue on Your PC – Tips for Minecraft Players</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-sony-xperia-1-v-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Sony Xperia 1 V to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-hibernation-freezes-windows-solutions/"><u>Overcoming Hibernation Freezes: Windows Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/shift-file-chronology-efficient-windows-tools-at-hand/"><u>Shift File Chronology: Efficient Windows Tools at Hand</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-bring-your-offline-printer-back-online/"><u>Steps to Bring Your Offline Printer Back Online</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-epic-games-downloads-on-windows-pcs/"><u>Streamlining Epic Games Downloads on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-to-uncover-inaccessible-ubisoft-hub/"><u>Techniques to Uncover Inaccessible Ubisoft Hub</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210001994-9781601636331-the-worlds-most-haunted-places/"><u>The World's Most Haunted Places | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-strategies-for-swift-desktop-connection-w11-edition/"><u>Top 10 Strategies for Swift Desktop Connection, W11 Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unseen-recording-techniques-mastering-covert-screen-recording-for-windows-and-mac-users/"><u>Unseen Recording Techniques: Mastering Covert Screen Recording for Windows & Mac Users</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-initiating-calculator-access/"><u>Windows 11: Initiating Calculator Access</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/3gp-swf-movavi/"><u>영구성 비용: 3GP 파일을 SWF로 사용자가 쉽게 변환하는 방법 - Movavi의 도우미 시리즈</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ig-tik-combined-expertise-for-smooth-integration/"><u>[New] IG-Tik Combined Expertise for Smooth Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spotlight-on-blurbs-captivating-podcast-intros/"><u>[Updated] 2024 Approved Spotlight on Blurbs Captivating Podcast Intros</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-unified-note-taking-experience-on-win11/"><u>Crafting a Unified Note-Taking Experience on WIN11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-empty-windows-directories-a-complete-removal-guide/"><u>Dealing with Empty Windows Directories: A Complete Removal Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-dull-to-dynamic-adding-animated-effects-to-instagram-stories-for-2024/"><u>From Dull to Dynamic Adding Animated Effects to Instagram Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enable-pathway-to-files-in-windows-errors/"><u>Guide to Enable Pathway to Files in Windows Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-windows-disk-read-errors-effectively/"><u>Handling Windows Disk Read Errors Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-infinix-note-30-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Infinix Note 30 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-educational-visuals-on-windows-11/"><u>Optimize Educational Visuals on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/shift-onedrives-location-effortlessly-in-win-11/"><u>Shift OneDrive's Location Effortlessly in Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simplified-path-to-mastery-in-using-cc-licenses-for-2024/"><u>Simplified Path to Mastery in Using CC Licenses for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-locate-desired-text-with-ease-on-flipbuilder-websites/"><u>Step-by-Step Tutorial: Locate Desired Text with Ease on FlipBuilder Websites</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-voice-changes-experts-handbook-for-morphvox-transformation-for-2024/"><u>The Ultimate Guide to Voice Changes Expert's Handbook for MorphVOX Transformation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/two-innocent-looking-apps-are-slowing-down-your-windows-11-pc/"><u>Two Innocent-Looking Apps Are Slowing Down Your Windows 11 PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a23-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A23 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/win10win11-speedy-foreign-languages-switch-with-hotkeys/"><u>Win10/Win11: Speedy Foreign Languages Switch with Hotkeys</u></a></li>
 </ul></div>
 

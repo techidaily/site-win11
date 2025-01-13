@@ -1,7 +1,7 @@
 ---
 title: Enabling Active Audio Input on OBS Studio - Windows 11 Guide
-date: 2025-01-04T20:40:13.437Z
-updated: 2025-01-06T21:11:06.815Z
+date: 2025-01-12T07:27:32.331Z
+updated: 2025-01-12T20:01:56.038Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Restart OBS Studio
 
  Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
@@ -48,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 4. Click**Apply** \>**OK** to save the settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unmute OBS Studio in the Settings App
@@ -62,17 +58,17 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 ![Unmute OBS Studio in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unmute-obs-studio.jpg)
 5. Also, click the drop-down icon next to OBS Studio, then choose the correct input device.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart OBS Studio and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Use the Correct Recording Device
 
@@ -84,6 +80,10 @@ Restart OBS Studio and check if the problem persists.
 4. Right-click on the correct recording device and choose the**Set as Default Device** option from the context menu.  
 ![Set as default option in Sound properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-as-default-option.jpg)
 5. Click**Apply** and then**OK.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
 
@@ -98,6 +98,10 @@ Restart OBS Studio and check if the problem persists.
 4. Next, enable the toggle next to**Let desktop apps to access your microphone** option.  
 
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
 
@@ -114,11 +118,7 @@ Restart OBS Studio and check if the problem persists.
 6. Choose**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7 . Adjust the Audio Mixer Settings
@@ -138,6 +138,10 @@ Restart OBS Studio and check if the problem persists.
 
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Download the Latest Audio Driver Updates
 
  A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to[update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
@@ -150,14 +154,10 @@ You can do that by following the below steps:
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-driver-2.jpg)
 4. Choose**Search automatically for drivers** option in the window that crops up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall OBS Studio
@@ -185,18 +185,19 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-effortlessly-journey-to-your-custom-designed-music-library-on-youtube/"><u>[Updated] Effortlessly Journey to Your Custom-Designed Music Library on Youtube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pros-secret-insights-into-windows-11/"><u>[Updated] Pro's Secret Insights Into Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-microsoft-shop-breakdowns-code-0x80073cf3/"><u>Confronting Microsoft Shop Breakdowns: Code 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-manage-windows-11-security/"><u>Essential Steps to Manage Windows 11 Security</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-xs-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone XS Max iOS? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-create-professional-valorant-thumbnails-in-no-time/"><u>In 2024, Create Professional Valorant Thumbnails in No Time</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-small-scale-startups-guide-to-trustworthy-video-tools/"><u>In 2024, Small-Scale Startups' Guide to Trustworthy Video Tools</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95913246-9782268097190-les-therapeutes-de-linvisible/"><u>Les thérapeutes de l'invisible | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-setup-process-ms-defender-aguard-on-windows-11-edge-browser/"><u>Navigate the Setup Process: MS Defender Aguard on Windows 11 Edge Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-problems-with-downloading-data-on-windows/"><u>Navigating Through Problems with Downloading Data on Windows</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled-for-2024/"><u>New Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-google-chrome-error-on-microsoft-os/"><u>Resolving Google Chrome Error on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-exacting-windows-ram-type-identification/"><u>Step-by-Step: Exacting Windows RAM Type Identification</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-ultimate-free-resource-pack-high-quality-pp-samples/"><u>[Updated] 2024 Approved The Ultimate Free Resource Pack High-Quality PP Samples</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-media-non-xsplit-options-revealed-for-2024/"><u>[Updated] Mastering Media Non-Xsplit Options Revealed for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287175582-dvd/"><u>大容量DVDのクローン作成手順：限界付近で効果的なトランスファイア方法</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/boosting-your-pcs-capacity-how-windows-memory-management-impacts-storage-needs/"><u>Boosting Your PC's Capacity: How Windows Memory Management Impacts Storage Needs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-comprehensive-guide-to-asus-z370-e-drivers-for-optimal-performance/"><u>Download & Setup: Comprehensive Guide to ASUS Z370-E Drivers for Optimal Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmacbook/"><u>DVDファイル読み込み・再生手順：MacBookでうまくいく方法と問題解決</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-a-script-error-in-windows-try-these-fixes/"><u>Getting a Script Error in Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-handle-endless-edge-operation-on-windows-11/"><u>How to Handle Endless Edge Operation on Windows 11?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-13-ultra-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi 13 Ultra Phone Now with These Tips</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-profits-in-pixels-the-complete-guide-to-making-money-on-vimeo/"><u>In 2024, Profits in Pixels The Complete Guide to Making Money on Vimeo</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-halt-indefinite-tab-generation-in-google-chrome/"><u>Methods to Halt Indefinite Tab Generation in Google Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-disks-effortlessly-mastery-of-4-steps-to-windows-disk-management-in-win11/"><u>Navigating Disks Effortlessly: Mastery of 4 Steps to Windows Disk Management in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-unresponsive-windows-software-woes/"><u>Navigating Through Unresponsive Windows Software Woes</u></a></li>
 </ul></div>
 

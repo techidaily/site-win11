@@ -1,7 +1,7 @@
 ---
 title: "Sticky Ideas on Screens: Essential Notes Apps for Windows Users"
-date: 2024-08-16T00:52:58.591Z
-updated: 2024-08-17T00:52:58.591Z
+date: 2025-01-05T18:04:45.087Z
+updated: 2025-01-13T01:16:32.177Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,16 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
  Different apps fit different niches, so it's important to find the one that nails exactly what you want to do with it. Our list isn't in a specific order, so feel free to pick out the one that resonates with you best, even if it's listed near the bottom.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Stickies
 
 ![stickies app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/stickies-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The goal of a note-taking app is to simplify and not clutter. As such, an app with a clean, minimalist design is a perfect fit for the job, which will help you stay focused on your tasks.
 
@@ -39,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/10b343d090bf904bc6bf8fe5ac35deb164bc4c886
 
 **Download:**[Stickies](https://www.zhornsoftware.co.uk/stickies/download.html) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Windows Sticky Notes
 
 ![sticky notes for windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-for-windows.PNG)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  No list of note-taking apps will be complete without the original Sticky Notes. The app has been going strong since its release back in 2002, with its last update on August 7, 2019\. If nothing else, you won't have to worry about stability, that's for sure.
 
 ![sticky notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-app.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  Some apps are designed with a specific use case in mind. There are, for example, [special note-taking apps intended specifically for programmers](https://www.makeuseof.com/tag/best-note-taking-tools-programmers/). Similarly, Sticky Notes is your go-to option for a note-taking app if you're more of a creative person.
 
@@ -66,9 +67,6 @@ The powerful video editing program for your Windows PC</a>
 ### 3\. Notezilla
 
 ![screenshot of notezilla app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/screenshot-of-notezilla.PNG)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The Notezilla app is similar to Sticky Notes in its design. However, what differentiates Notezilla from other apps on this list is its cloud connectivity feature. Through this, you access your notes right from your phone as well. In fact, if you're interested in online solutions, be sure to check out our guide on the [best online sticky note tools](https://www.makeuseof.com/best-online-sticky-note-tools/).
 
@@ -79,8 +77,9 @@ The powerful video editing program for your Windows PC</a>
 **Download:**[Notezilla](http://www.conceptworld.com/Notezilla/download) (Free, Premium version available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. 7 Sticky Notes
 
 ![7 sticky notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/7-sticky-notes-app.PNG)
@@ -100,11 +99,16 @@ The powerful video editing program for your Windows PC</a>
  If you right-click on the icon in your notification tray, you'll find the Notes Manager. This view will give you an organizable overview of all your notes, which is a super helpful sticky notes app if your desktop is flooded with them.
 
 ![notes manager in 7 sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/notes-manager-in-7-sticky-notes.png)
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Download:**[7 Sticky Notes](http://www.7stickynotes.com/download.php) (Free)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Hott Notes
 
@@ -112,19 +116,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![hott notes installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/hott-notes-installation.PNG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It also has global hotkeys that allow you to start a note from anywhere, and it allows you to customize what double-clicking the icon in the notification tray will do. That's a small tweak, but super helpful.
 
 ![hott notes set up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/hott-notes--set-up-1.PNG)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it's all set up, the layout is similar to 7 Sticky Notes, with a small editing box that appears next to each note when you want to customize it. Similarly, you can edit the font, the color of the note, and set an alarm. Not as full-featured as 7 Sticky Notes, but presented in a less cluttered way.
 
 ![hott notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/hott-notes.PNG)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
  My only complaint was with the list form of notes, which requires the user to click "Create New Item" for every list item, rather than hitting enter or tab after. If you plan on using the list function, this could get annoying.
 
@@ -145,9 +147,6 @@ The powerful video editing program for your Windows PC</a>
  The Live Tiles that display a given note come in three sizes: small, medium, and wide. The wide view is shown below, while the medium is about half that and really can't show much text. The small view is even worse, not displaying any text at all. You'll definitely want to go for the wide, and even then, keep your notes brief.
 
 ![sticky-notes-8-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-notes-8-2.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  The biggest standout feature here is built-in syncing with OneDrive (which is a fantastic app for backing up everything on Windows 8). If you want to ensure that your sticky notes are backed up, this is the solution for you.
 
@@ -158,9 +157,6 @@ The powerful video editing program for your Windows PC</a>
  Don't let the incredibly similar name fool you; Sticky Tiles (with an "s") is a much better app than the Sticky Tile (without an "s"), a bare-bones app that will only leave you frustrated. Sticky Tiles doesn't have any interface for viewing all your notes, and is instead focused entirely on the Live Tile.
 
 ![sticky-tiles-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-1.png)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  When you open the app, you're immediately prompted to give a title and information for the Live Tile, choose the color, choose the style, and then pin it. It has the same three sizes as the others—small, medium, and wide—and you'll run into the same problem of limited space for text here.
 
@@ -174,11 +170,16 @@ The powerful video editing program for your Windows PC</a>
 
 **Download:**[Sticky Tiles](https://apps.microsoft.com/store/detail/sticky-tiles/9WZDNCRFJ1RP) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. StickyPad
 
 ![sticky notes interface on stickypad app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stickypad-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  StickyPad is one of the [best lightweight note-taking apps](https://www.makeuseof.com/note-taking-apps-link-ideas-together/) for Windows users looking for something minimal yet powerful enough to get their note-taking activities out of the way.
@@ -197,11 +198,33 @@ The powerful video editing program for your Windows PC</a>
 
  Whatever your needs are, there are dozens of Windows note-taking apps out there that you can use. It can be hard to narrow down all those apps into a handful of winners, but you need not fret; we've done all the hard work for you. Here are the best free sticky note apps for Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-obs-for-android-streaming/"><u>[New] 2024 Approved Mastering OBS for Android Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-list-of-best-videocall-services-without-cost/"><u>[New] In 2024, Elite List of Best Videocall Services Without Cost</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fiendish-funny-factory/"><u>[Updated] Fiendish Funny Factory</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-7-key-tools-to-convert-youtube-videos-easily/"><u>[Updated] In 2024, 7 Key Tools to Convert YouTube Videos Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-farm-tastic-fun-and-games-the-ultimate-agricompanion-titles/"><u>2024 Approved Farm-Tastic Fun & Games The Ultimate AgriCompanion Titles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-role-in-mastering-wholesome-cooking-techniques/"><u>ChatGPT's Role in Mastering Wholesome Cooking Techniques</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-your-ideal-apple-laptop-in-depth-comparison-of-macbook-pro-vs-macbook-air-zdnet/"><u>Choosing Your Ideal Apple Laptop: In-Depth Comparison of MacBook Pro Vs. MacBook Air | ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-network-unavailable-in-windows-xp7/"><u>Correcting Network Unavailable in Windows XP/7</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-read-only-fixes-for-corrupted-file-directories/"><u>Counteracting Read-Only: Fixes for Corrupted File Directories</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-failed-to-connect-usb-device-error-in-virtualbox-virtually-speaking/"><u>Fixing Failed to Connect USB Device Error in VirtualBox, Virtually Speaking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/introducing-apples-magic-touch-in-ai-localized-image-wizardry-without-the-cloud-zdnet/"><u>Introducing Apple's Magic Touch in AI - Localized Image Wizardry Without the Cloud | ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-vanguards-user-mode-service-issues-in-windows/"><u>Navigating Through Vanguard’s User-Mode Service Issues in Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-changes-made-by-nvidia-gui-on-win11-systems/"><u>Restoring Lost Changes Made by Nvidia GUI on Win11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/successfully-handling-ios-image-import-failures-into-windows-11-pcs/"><u>Successfully Handling iOS Image Import Failures Into Windows 11 PCs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-m14-4g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy M14 4G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-0x800700e9-hitch-in-xbox-game-passwindows-11/"><u>Unraveling the 0X800700E9 Hitch in Xbox Game Pass/Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-art-of-highlighting-mouse-cursors-in-win-11/"><u>Unveiling the Art of Highlighting Mouse Cursors in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-stalled-by-error-solutions-available/"><u>Windows Stalled by Error? Solutions Available</u></a></li>
+</ul></div>
+

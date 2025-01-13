@@ -1,7 +1,7 @@
 ---
 title: How to Disconnect Unauthorized Accounts on Win 11
-date: 2024-12-30T20:39:34.039Z
-updated: 2025-01-06T19:21:07.523Z
+date: 2025-01-11T19:21:37.552Z
+updated: 2025-01-13T05:02:00.828Z
 tags:
   - windows10
   - windows11
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 * [Log Off Other Users Using Process Explorer](#log-off-other-users-using-process-explorer)
 * [Ask Other Users Before You Sign Them Out](#ask-other-users-before-you-sign-them-out)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To sign out other users on Windows 11, you can use Task Manager, Command Prompt, or Process Explorer.
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 * Be sure to consider any unsaved work before logging off a user.
 
  Each active user session on your PC means your computer's resources are shared with others, which can impact system performance. If someone is not actively using their session, you can log off the idle user from your account to reclaim those system resources.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Sign Out Other Users Using the Task Manager
 
@@ -56,12 +48,17 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 2. In Task Manager, open the **Users** tab in the left pane which displays the number of users currently logged in. If not visible, click the **Open Navigation** button (three horizontal bars) in the top left corner.  
 ![Winx Menu Task Manager Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winx-menu-task-manager-windows-11.png)
 3. In the **Users** tab, locate the account you want to sign off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on the user account and select **Sign off**.  
 ![Users Tab in Task Manager with Logoff Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/users-tab-in-task-manager-with-logoff-option-in-windows-11.jpg)
 5. Click **Sign out user**. Windows will close all the open apps and running processes and then log out the user.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out Other Users Using the Command Prompt
@@ -83,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 ![Command Prompt With Logoff Command Running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/command-prompt-with-logoff-command-running-on-windows-11.jpg)
 7. Once done, type **exit** and press Enter to close the Command Prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Log Off Other Users Using Process Explorer
 
  Process Explorer is part of [Windows Sysinternal Tools, a suite of system administration utilities](http://www.makeuseof.com/windows-sysinternals-guide/) from Microsoft. Though the freeware is popular among developers and system admins, anyone can use Process Explorer to use some of its advanced features.
@@ -92,23 +93,24 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 1. Go to Microsoft's official [Process Explorer page](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) and download Process Exploreras a zip file to a location on your desktop.  
 ![Download Process Explorer Web Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/download-process-explorer-web-page.jpg)
 2. Right-click on the **ProcessExplorer.zip** archive, and select **Extract All**. Select a location and extract the folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer Exe File Run as Administrator Option in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-exe-file-run-as-administrator-option-in-windows-11.jpg)
 3. Open the **ProcessExplorer** folder, right-click on **procexp64.exe**, and select **Run as administrator**.  
 ![Process Explorer App User Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-option-selected-in-windows-11.jpg)
 4. In the **Process Explorer** window, click **Users** to view all the active user sessions.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Process Explorer App User Account Logoff Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/process-explorer-app-user-account-logoff-option-selected-in-windows-11.jpg)
 5. Hover your cursor over the user account name and select **Logoff**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Process Explorer will sign out the selected user account from your computer. If you get an [access denied error](https://www.makeuseof.com/windows-11-fix-access-denied-error/), run the procexp64.exe executable with administrator privileges and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ask Other Users Before You Sign Them Out
 
@@ -124,24 +126,22 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-deciphering-digital-marketing-the-power-of-youtube-keywords-for-2024/"><u>[Updated] Deciphering Digital Marketing The Power of YouTube Keywords for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/affordable-4k-hd-hisense-50-inch-tv-review-the-best-value-in-large-screens/"><u>Affordable 4K HD Hisense 50-Inch TV Review: The Best Value in Large Screens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-creativity-determining-top-chatbots-mastery-with-a-common-creative-challenge/"><u>Battle of Creativity: Determining Top Chatbot's Mastery with a Common Creative Challenge</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978378333-easy-update-process-for-epson-printers-on-windows-10-find-out-now/"><u>Easy Update Process for Epson Printers on Windows 10 - Find Out Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-use-of-resources-windows-application-size/"><u>Efficient Use of Resources: Windows Application Size</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-a-valid-temp-directory-how-to-fix-errors-on-windows-11/"><u>Ensuring a Valid Temp Directory: How to Fix Errors on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-game-audio-issues-a-2024-roadmap-for-pc-gamers/"><u>Fixing Game Audio Issues: A 2024 Roadmap for PC Gamers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-xs-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone XS Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x80073d26-in-windows-11-and-11/"><u>How to Fix the Microsoft Store Error 0X80073D26 in Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-this-app-couldnt-be-installed-on-the-microsoft-store/"><u>How to Fix This App Couldn’t Be Installed on the Microsoft Store</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-quickly-fix-the-0x80071a90-windows-problem/"><u>How to Quickly Fix the 0X80071a90 Windows Problem</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/in-2024-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>In 2024, Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-master-videoleap-to-capture-up-close-footage/"><u>In 2024, Master Videoleap to Capture Up-Close Footage</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inside-windows-10-a-snapshot-of-its-transformation-for-2024/"><u>Inside Windows 10 A Snapshot of Its Transformation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-enhancing-win-11s-context-menu/"><u>Mastering the Art of Enhancing Win 11'S Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-winget-efficiency-on-modern-windows-pcs/"><u>Resurrecting Winget Efficiency on Modern Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-your-windows-11-icons-to-their-full-form/"><u>Revive Your Windows 11 Icons to Their Full Form</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-delete-files-at-the-click-setting-up-a-trash-bin-for-permanent-deletion-in-windows-pcs-11/"><u>Securely Delete Files at the Click: Setting up a Trash Bin for Permanent Deletion in Windows PCs (11)</u></a></li>
-<li><a href="https://win-online.techidaily.com/mpgwmv-wmf-movavi/"><u>영구인 MPG/WMV를 전자보감 WMF로 대체 - Movavi 솔루션</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-achieving-success-in-your-youtube-endeavours-a-step-by-step-blueprint-for-2024/"><u>[New] Achieving Success in Your YouTube Endeavours A Step-by-Step Blueprint for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-prime-traffic-magnet-design-for-2024/"><u>[New] Prime Traffic Magnet Design for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-live-stream-platform-showdown-xsplit-and-obs-face-off-for-2024/"><u>[Updated] Live Stream Platform Showdown XSplit & OBS Face-Off for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-podcasting-perfection-premium-recording-mics/"><u>[Updated] Podcasting Perfection Premium Recording Mics</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-breaking-through-virtual-barriers-crafting-engaging-metaverse-content/"><u>2024 Approved Breaking Through Virtual Barriers Crafting Engaging Metaverse Content</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/experts-advice-a-five-step-strategy-for-fixing-audio-troubles-in-windows-11/"><u>Experts' Advice: A Five-Step Strategy for Fixing Audio Troubles in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-elden-rings-multiplayer-feature-malfunction-issues/"><u>How to Resolve Elden Ring's Multiplayer Feature Malfunction Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-turn-off-google-chrome-notifications-on-windows/"><u>How to Turn Off Google Chrome Notifications on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lay-groundwork-first-then-vbox-on-windows/"><u>Lay Groundwork First, Then VBox on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-fixes-to-tackle-non-syncing-google-drive-windows/"><u>Nine Fixes to Tackle Non-Syncing Google Drive Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-spotify-not-responding-error-in-windows-11/"><u>Overcoming Spotify Not Responding Error in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-self-opening-of-file-explorer/"><u>Preventing Self-Opening of File Explorer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-steps-to-tilt-your-videos-at-90-180-and-270-degree-angles/"><u>Simple Steps to Tilt Your Videos at 90, 180 & 270-Degree Angles</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-low-resource-message-in-vmware/"><u>Strategies to Combat Low Resource Message in VmWare</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-preventing-black-display-in-win-gaming/"><u>Tips for Preventing Black Display in Win Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11s-approach-to-overcoming-device-detachment-issue/"><u>Win 11'S Approach to Overcoming Device Detachment Issue</u></a></li>
 </ul></div>
 

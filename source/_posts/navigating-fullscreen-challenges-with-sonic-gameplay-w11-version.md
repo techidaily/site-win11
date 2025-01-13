@@ -1,7 +1,7 @@
 ---
 title: Navigating Fullscreen Challenges with Sonic Gameplay, W11 Version
-date: 2024-08-16T00:53:26.854Z
-updated: 2024-08-17T00:53:26.854Z
+date: 2025-01-09T22:15:01.942Z
+updated: 2025-01-13T06:29:13.083Z
 tags:
   - windows10
   - windows11
@@ -20,48 +20,52 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
  If you're encountering a crash in Sonic Frontiers when switching to full-screen on Windows 11, here's a possible fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Is Sonic Frontiers Crashing When It's Switched to Full-Screen Mode?
 
 ![screenshot of the sonic frontiers graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_graphics_menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sonic Frontiers may exhibit a strange bug where the game doesn't properly utilize your dedicated GPU.
 
  While running in windowed mode, Sonic Frontiers has no problem using the correct hardware. However, when switching to full-screen, the game attempts to switch to your integrated GPU. Your PC's integrated GPU is most likely not powerful enough to run the game, or it might even be non-existent depending on your setup. Either way, this causes the game to crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Sonic Frontiers' Full-Screen Crash on Windows 11
 
 ![screenshot of the windows graphics settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_graphics_settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The quickest way to fix this is through Window's graphic settings page. Open this page by searching**Graphics** in the start menu search bar, and click on**Graphics Settings.**
 
 ![screenshot of sonic frontiers in the windows graphics menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontier_in_graphics_menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  From here, search Sonic Frontiers in the search bar. If the game doesn't appear, you can hit**Browse** to manually locate the game.
 
  Next, click into Sonic Frontiers in the list of games and hit**Options.**
 
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Switch the game to**High Performance** , then save your changes. This should fix the crash entirely.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Prevent Further Crashes in Sonic Frontiers
 
 ![screenshot of sonic frontiers in amd graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_in_amd_graphics_settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is good practice to always ensure your GPU drivers are up-to-date, especially when playing new releases.
@@ -70,23 +74,17 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
 
  This has a similar effect to the steps described above, except you'll have even more options to tweak the graphical performance of the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Sonic Frontiers Crash Is Annoying, but It's an Easy Fix
 
  The PC launch of Sonic Frontiers was a bit rocky, and it's surprising to see that the game can accidentally switch itself to an integrated GPU, even if none exists.
 
  Thankfully the fix is easy enough, and the full-screen crash should stop getting in the way of you playing Sonic Frontiers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +93,19 @@ thumbnail: https://thmb.techidaily.com/1950983d0af24cf7ccce7d0d9b553dd604417e3bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-8-best-photo-grid-online-makers-to-polish-your-pictures/"><u>[Updated] 2024 Approved 8 Best Photo Grid Online Makers to Polish Your Pictures</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>[Updated] 2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-vivo-y78-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Vivo Y78 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/clearing-up-common-causes-of-the-unautntricated-error-on-your-website/"><u>Clearing Up Common Causes of the 'Unautntricated' Error on Your Website</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-and-managing-taskbar-size-wins11/"><u>Fine-Tuning and Managing Taskbar Size Wins11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-a-this-pc-icon-to-the-desktop-in-windows/"><u>How to Add a This PC Icon to the Desktop in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-visual-spectacle-gears-challenge-to-lgcam/"><u>Immersive Visual Spectacle Gear's Challenge to LGCam</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Phantom V Flip</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infiltrating-hidden-user-communications-on-yt-platforms/"><u>In 2024, Infiltrating Hidden User Communications on YT Platforms</u></a></li>
+<li><a href="https://win-bits.techidaily.com/resolving-the-0xc000000e-error-post-cloning-on-windows-10-systems/"><u>Resolving the 0xC000000E Error Post-Cloning on Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-pathway-entering-windows-11-safe-mode/"><u>The Ultimate Pathway: Entering Windows 11 Safe Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-cmd-command-potential-learn-these-essentials/"><u>Unlock CMD Command Potential: Learn These Essentials</u></a></li>
+</ul></div>
 

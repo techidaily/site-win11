@@ -1,7 +1,7 @@
 ---
 title: Fixing Function Keys Not Adjusting Screen Brighness in Win 11
-date: 2025-01-01T19:09:40.301Z
-updated: 2025-01-06T16:49:57.135Z
+date: 2025-01-09T06:22:42.191Z
+updated: 2025-01-12T21:44:45.993Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
  If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
@@ -41,16 +41,12 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 
  If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Make Sure the Function Key Is Enabled
 
  The function key may not work if it is disabled on your keyboard. To make sure it is enabled, press the**Fn + Esc** keys simultaneously. Doing this will toggle the function lock on and off. If it was disabled, enabling it should help fix the brightness key not working issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run the Hardware and Devices Troubleshooter
@@ -89,6 +85,10 @@ To update the keyboard driver, follow these steps:
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 4. Next, click**Search automatically for drivers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 
  Follow the on-screen instructions to complete the process. Once you've done this, restart your computer and check if the issue is resolved.
@@ -101,10 +101,14 @@ To update the keyboard driver, follow these steps:
 3. Click**Uninstall** again to confirm and follow the on-screen instructions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After performing the above steps, restart your computer to reinstall the drivers. Once you power up again, check if the function key works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Turn Off the Filter Keys
 
@@ -120,10 +124,6 @@ To update the keyboard driver, follow these steps:
 5. Click**Apply** and then**OK** .
 
 Now check if your keyboard is working properly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Scan for Malicious Programs
 
@@ -142,7 +142,7 @@ Now check if your keyboard is working properly.
  If you find that your keyboard is the issue, then it’s time to replace it with a new one or get it repaired.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make Use of the Function Key Again on Windows
@@ -164,20 +164,19 @@ Now check if your keyboard is working properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premier-band-live-streams/"><u>[New] Premier Band Live Streams</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/rime-8-edits-suites-on-linux-os/"><u>[New] Prime 8 Edits Suites on Linux OS</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-spiritual-soundtracks-where-to-find-christian-tunes/"><u>[New] Spiritual Soundtracks Where to Find Christian Tunes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-autoplay-youtube-videos-on-facebook/"><u>[Updated] How to Autoplay Youtube Videos on Facebook?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-full-analysis-compreenaside-with-camstudio-screencap/"><u>[Updated] In 2024, Full Analysis Compreenaside with CamStudio Screencap</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-zoom-effectively-on-chrome-devices/"><u>2024 Approved Navigating Zoom Effectively on Chrome Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-proper-functionality-of-packages-on-windows-devices/"><u>How to Restore Proper Functionality of Packages on Windows Devices</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-oppo-f23-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Oppo F23 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/leading-tech-essential-video-recorders-of-the-net-for-2024/"><u>Leading Tech Essential Video Recorders of the Net for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-windows-interface-control-panel-routes/"><u>Mastering the Windows Interface: Control Panel Routes</u></a></li>
-<li><a href="https://win11.techidaily.com/real-time-gameplay-screencasting-using-intel-software/"><u>Real-Time Gameplay Screencasting Using Intel Software</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-setup-launching-outlook-preview-on-pcs/"><u>Secure Setup: Launching Outlook Preview on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/spotlight-on-windows-11-speed-actionable-fixes-for-slowdowns/"><u>Spotlight on Windows 11 Speed: Actionable Fixes for Slowdowns</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-phone-dialer-window-11/"><u>Unveiling the Phone Dialer Window 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays/"><u>[Updated] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>2024 Approved Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-against-online-distractions-using-chatgpt-top-8-prompts/"><u>Effective Strategies Against Online Distractions Using ChatGPT – Top 8 Prompts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-y77t-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo Y77t Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-number-of-displayed-pin-items-in-w11-menu/"><u>Increase Number of Displayed Pin Items in W11 Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-solutions-for-recognizing-and-fixing-disabled-hard-drives-on-win-11/"><u>Innovative Solutions for Recognizing and Fixing Disabled Hard Drives on Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-past-falsehoods-in-ai-conversation-with-6-techniques/"><u>Navigating Past Falsehoods in AI Conversation With 6 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/pointer-problems-solved-mastering-control-in-win11/"><u>Pointer Problems Solved: Mastering Control in Win11</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/schnell-lernende-tools-zum-schutz-ihrer-outlook-2016-pst-dateien/"><u>Schnell Lernende Tools Zum Schutz Ihrer Outlook 2016 PST-Dateien</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-streaming-mastery-of-windows-techniques-to-tame-video-jitter/"><u>Seamless Streaming: Mastery of Windows Techniques to Tame Video Jitter</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reestablish-lost-remote-link-in-vpn/"><u>Steps to Reestablish Lost Remote Link in VPN</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-when-the-0x800f0845-error-causes-failed-windows-updates/"><u>What to Do When the 0X800f0845 Error Causes Failed Windows Updates</u></a></li>
 </ul></div>
 

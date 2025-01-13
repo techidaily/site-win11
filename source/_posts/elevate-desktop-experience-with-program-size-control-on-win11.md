@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2024-12-30T20:00:34.948Z
-updated: 2025-01-06T21:18:24.197Z
+date: 2025-01-09T17:53:30.165Z
+updated: 2025-01-12T17:37:48.098Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 1. Next, open the software you want to set the preset window size for. You should then see that software listed in the**Currently open windows** box.  
 ![The AutoSizer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosizer-window.jpg)
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
 
@@ -58,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
@@ -77,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
@@ -88,6 +93,10 @@ Now it's time to use WinSize2 to size our windows:
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -96,10 +105,6 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -114,11 +119,7 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -140,16 +141,16 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-resolving-missing-sound-in-obs/"><u>[New] In 2024, Resolving Missing Sound in OBS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleash-potential-in-online-engagement-through-zoom-screenshares/"><u>[Updated] 2024 Approved Unleash Potential in Online Engagement Through Zoom Screenshares</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>[Updated] Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fingerprint-sensor-showdown-unveiling-the-differences-between-ultrasonic-and-optical-technologies/"><u>Fingerprint Sensor Showdown: Unveiling the Differences Between Ultrasonic and Optical Technologies</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-eradicate-win-error-31-on-your-computer/"><u>How to Eradicate WIN Error 31 on Your Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-guide-selecting-best-windows-portals-to-switch-games/"><u>Master Guide: Selecting Best Windows Portals to Switch Games</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-failed-file-operations-with-onedrive-windows/"><u>Solving Failed File Operations with OneDrive (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-powertoys-adjustment-on-pc-upgrade/"><u>Streamlining PowerToys Adjustment on PC Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-inaccessible-application-removal/"><u>Tackling Windows' Inaccessible Application Removal</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-4k-blu-ray-experience-best-player-selection/"><u>Ultimate 4K Blu-Ray Experience Best Player Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tapping-into-igtvs-potential-a-hashtag-guide-to-growth/"><u>[New] 2024 Approved Tapping Into IGTV's Potential A Hashtag Guide to Growth</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-unleashed-the-mg28uq-review-of-high-definition-vision/"><u>2024 Approved ASUS Unleashed - The MG28UQ Review of High-Definition Vision</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-app-reviewed-the-ultimate-photo-editor/"><u>2024 Approved Toolwiz App Reviewed The Ultimate Photo Editor?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728481238063-usb4/"><u>最適な自動バックアップUSBドライブトップ4品種：データ保護に不可欠！</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-game-crashes-wow-issue-132-fix-guide/"><u>Eliminating Game Crashes: WOW Issue #132 Fix Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-in-media-text-curve-concepts/"><u>Pushing Boundaries in Media Text Curve Concepts</u></a></li>
+<li><a href="https://win11.techidaily.com/shatter-wired-network-cap-of-100mbps-on-windows-systems/"><u>Shatter Wired Network Cap of 100Mbps on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-wintools-guide-for-windows-performance-gains/"><u>The Ultimate WinTools Guide for Windows Performance Gains</u></a></li>
+<li><a href="https://win-unique.techidaily.com/unable-to-locate-webpage-error-code-404-displayed/"><u>Unable to Locate Webpage: Error Code 404 Displayed</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-gpu-potential-maximizing-system-vram-on-win1011/"><u>Unlocking GPU Potential: Maximizing System VRAM on Win10/11</u></a></li>
 </ul></div>
 

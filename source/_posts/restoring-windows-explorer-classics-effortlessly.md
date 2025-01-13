@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Explorer Classics Effortlessly
-date: 2024-08-16T00:52:39.857Z
-updated: 2024-08-17T00:52:39.857Z
+date: 2025-01-07T08:19:31.441Z
+updated: 2025-01-13T03:50:29.816Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,16 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 4. Then click the **Up to “Desktop”** button (up arrow) button on the Control Panel’s navigation bar. Alternatively, press the **Alt + Up arrow key** keyboard shortcut.  
 ![The Up to Desktop button in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/up-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you’ll see the classic File Explorer from Windows 10 that incorporates a tab bar. You’ll always need to open the Control Panel first to access classic File Explorer through it. So, consider [setting up a Control Panel shortcut](https://www.makeuseof.com/windows-11-set-up-control-panel-shortcuts/) in Windows 11 to give you more direct access.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Manually Edit the Registry
 
  Users utilizing Windows 11 21H2 or earlier versions can restore the classic File Explorer ribbon by manually tweaking the registry. However, the same registry tweak will not work in Windows 11 22H2 or later builds. This is how you can restore the classic File Explorer ribbon interface by manually editing the registry:
@@ -45,25 +50,24 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Shell Extensions\`
 3. If you can’t see a **Blocked** subkey, right-click ShellExtensions and select New and Key. You can skip through to step five if you can already see a Blocked key.  
 ![The New and Key options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/new-key-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 4. Input **Blocked** to create that key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Right-click the **Blocked** key and select **New** \> **String Value**.
 6. Input **{e2bf9676-5f8f-435c-97eb-11607a5bedf7**} in the new string’s text box. You can copy and paste that string name in by selecting its text, pressing **Ctrl** \+ **C**, and then pressing **Ctrl** \+ **V**.  
 ![The string value for restoring File Explorer's ribbon UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-string-value.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Then you'll need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) or Windows 11 for the registry tweak to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now press the **File Explorer** taskbar button to see the change. Or open that file manager app with any other method you prefer to [open File Explorer on Windows](https://www.makeuseof.com/windows-open-file-explorer/). The File Explorer that opens will have the tabbed ribbon interface from Windows 10\.
 
 ![The tabbed ribbon interface in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-tabbed-ribbon-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  If you ever want to go back to the original command bar, delete the string you added. To do so, right-click **{e2bf9676-5f8f-435c-97eb-11607a5bedf7}** within the **Blocked** key and select **Delete**. Click **Yes** when asked to confirm deletion.
 
@@ -106,15 +110,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
  ExplorerPatcher has other settings with which you can further restore the Windows 10 File Explorer design. For example, File Explorer in Windows 10 has square corners. You can restore those square corners by clicking **Other** \> **Disable rounded corners for applications windows** in ExplorerPatcher.
 
 ![The Disable rounded corners option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-rounded-corners-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Windows 11’s File Explorer also has a redesigned context menu. You can disable that new right-click menu by clicking the **Disable the Windows 11 context menu** option on the **File Explorer** tab. Then right-clicking a file in Explorer will show only the classic context menu, as in Windows 10\.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore a Tabbed User Interface in Windows 11's File Explorer
 
  Although Windows 11’s command bar has its advantages, there are some good reasons to restore File Explorer’s tabbed ribbon UI of old with the methods above.
@@ -123,11 +125,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Do you prefer the tabbed File Explorer in Windows 10? If so, you don’t have to stick with File Explorer’s command bar in Windows 11\. This is how you can restore Explorer’s classic ribbon interface on a Windows 11 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-craft-compelling-fb-video-covers-from-scratch/"><u>[New] 2024 Approved How to Craft Compelling FB Video Covers From Scratch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-closer-views-for-efficient-tech-meetings/"><u>2024 Approved Navigating Closer Views for Efficient Tech Meetings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-photos-step-by-step-background-cleanup-for-canva-users/"><u>2024 Approved Transform Photos Step-by-Step Background Cleanup for Canva Users</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-registry-an-insightful-approach/"><u>Decoding Windows 11 Registry: An Insightful Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-password-prompt-for-current-windows-user/"><u>Disabling Password Prompt for Current Windows User</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-unfamiliar-yet-valuable-windows-11-tools/"><u>Discover Unfamiliar Yet Valuable Windows 11 Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-deal-alert-save-big-with-up-to-1100-discounts-on-top-tier-gaming-and-video-editing-laptops-detailed-guide/"><u>Exclusive Deal Alert: Save Big with Up to $1100 Discounts on Top-Tier Gaming and Video Editing Laptops | Detailed Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138590917-9781449731434-hers-to-treasure/"><u>Hers to Treasure | Free Book</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resize-software-with-your-keyboard-in-windows-11/"><u>How to Resize Software With Your Keyboard in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-the-non-installing-update-problem-on-win11-v22h2/"><u>Strategies for the Non-Installing Update Problem on WIN11 V22H2</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-switching-to-admin-command-prompt-anytime-anywhere/"><u>Swiftly Switching to Admin Command Prompt, Anytime, Anywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/the-complete-manual-for-effective-bluescreenview-use/"><u>The Complete Manual for Effective BlueScreenView Use</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-shared-content-via-geforce/"><u>Unblocking Shared Content via GeForce</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlocking-your-wellbeing-potential-with-fitbit-versa-2-the-wearable-that-combines-activity-tracking-excellence-and-smartwatch-brilliance/"><u>Unlocking Your Wellbeing Potential with Fitbit Versa 2 - The Wearable that Combines Activity Tracking Excellence and Smartwatch Brilliance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2708434-9781608683970-whispers-from-the-wild/"><u>Whispers from the Wild | Free Book</u></a></li>
+</ul></div>
+

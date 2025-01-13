@@ -1,7 +1,7 @@
 ---
 title: The Subtle Art of Hidden Storage in Windows 11/10
-date: 2024-08-16T00:53:51.057Z
-updated: 2024-08-17T00:53:51.057Z
+date: 2025-01-05T22:23:04.228Z
+updated: 2025-01-12T23:27:27.575Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/34ef4ca08c3dfcb784929375e3e95bcc8f2ba6210
 
  By hiding a drive on Windows, you can prevent others from accessing sensitive files within that drive and keep them safe. If you're interested in doing that, this guide will walk you through four different methods to hide drives on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/34ef4ca08c3dfcb784929375e3e95bcc8f2ba6210
  Once you complete the above steps, your drive will no longer appear in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Hide a Drive in Windows With Diskpart Command
 
  If you're a power user who prefers to make changes via the command-line interface, you can use the diskpart command to hide a drive on Windows. Fortunately, this isn't as intimidating as it might sound.
@@ -54,9 +59,6 @@ To hide a drive in Windows with Command Prompt, follow these steps:
 7. Lastly, run the following command to remove the drive letter and hide the volume.  
 `remove letter X`  
 ![Hide a Drive Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should see a message that reads **Diskpart successfully removed the drive letter or mount point** . Following that, the drive will no longer appear on your PC.
 
@@ -77,14 +79,16 @@ Here's what you need to do:
 5. Double-click the**Hide these specified drives in My Computer** policy on your right.  
 ![Hide a Drive With Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-with-group-policy-editor.jpg)
 6. Select the**Enabled** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
  Another brilliant tool that allows you to configure system settings in Windows easily is the Registry Editor. You can use Registry Editor to hide a drive if none of the above methods work. However, you must be careful[not to accidentally mess up the Windows Registry](https://www.makeuseof.com/tag/not-accidentally-mess-windows-registry/) in the process.
@@ -102,13 +106,11 @@ Here's what you need to do:
 7. Double-click the**NoDrives** DWORD.
 8. In the**Edit DWORD (32-bit) Value** dialog box, select**Decimal** as the Base.  
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
@@ -118,22 +120,20 @@ Here's what you need to do:
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hiding Drives in Windows Is Easy
 
  Regardless of the method you use, hiding a drive on Windows is fairly simple and shouldn't take more than a few minutes.
 
  Alternatively, if you don't want to hide an entire drive, Windows also lets you hide specific files and folders in a few easy steps.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +142,23 @@ Here's what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-essential-resource-compilation-30-top-websites-for-free-vectr-artists/"><u>[New] In 2024, Essential Resource Compilation 30 Top Websites for Free Vectr Artists</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-racing-hearts-22-short-track-triumph/"><u>2024 Approved Racing Hearts '22 Short-Track Triumph</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-7-voice-changer-recorder-apps/"><u>2024 Approved Top 7 Voice Changer Recorder Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-valorant-image-crafting-skilled-thumbnails-created-instantly/"><u>2024 Approved Valorant Image Crafting Skilled Thumbnails Created Instantly</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/adorable-godzilla-themed-wallpaper-and-image-collections-by-yl-computing-your-trusted-source-for-unique-graphics/"><u>Adorable Godzilla-Themed Wallpaper & Image Collections by YL Computing - Your Trusted Source for Unique Graphics</u></a></li>
+<li><a href="https://facebook.techidaily.com/claiming-a-portion-of-the-mega-settlement-from-facebook/"><u>Claiming a Portion of the Mega-Settlement From Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-pc-temperature-limits-in-windows/"><u>Configuring PC Temperature Limits in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/discovering-5-free-windows-podcast-polish-tools/"><u>Discovering 5 Free Windows Podcast Polish Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-edge-over-competition-fixing-street-fighter-6s-latency-and-improving-your-online-matches/"><u>Getting Edge over Competition: Fixing Street Fighter 지오 6'S Latency & Improving Your Online Matches</u></a></li>
+<li><a href="https://win11.techidaily.com/has-windows-security-stopped-working-on-your-windows-11-heres-how-you-can-fix-it/"><u>Has Windows Security Stopped Working on Your Windows 11? Here's How You Can Fix It</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-spark-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-digital-drawing-on-the-xp-pen-artist-16-pro-expert-review-insights/"><u>Mastering Digital Drawing on the XP-Pen Artist 16 Pro: Expert Review Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-stable-networks-in-windows-os/"><u>Navigating Stable Networks in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-triadic-widget-display-for-enhanced-productivity/"><u>Setting up Triadic Widget Display for Enhanced Productivity</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-taskbar-button-image-glitches/"><u>Solutions for Taskbar Button Image Glitches</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-windows-error-30005-issue/"><u>Understanding and Resolving Windows Error 30005 Issue</u></a></li>
+</ul></div>
 

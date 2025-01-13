@@ -1,7 +1,7 @@
 ---
 title: Optimize Win11 with Custom Screen Savers
-date: 2025-01-05T21:14:13.129Z
-updated: 2025-01-06T19:51:59.963Z
+date: 2025-01-11T03:28:00.150Z
+updated: 2025-01-12T21:54:12.943Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
 
  The Screen Saver Settings window is where you can set your screensaver. It also has a Settings button that'll let you customize them. However, 3D Text and Photos are the only default screensavers for which Windows 11 has some built-in settings.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The 3D Text Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below are some motion settings you can alter to change how the 3D text rotates. Click the**Rotation Type** drop-down menu to choose a different rotation style setting. Drag the**Rotation Bar** slider's left and right to change how quickly the text rotates.
@@ -56,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
  To change the texture of the text, you'll first need to download a BMP texture file from a suitable source (or convert a JPEG file to[Bitmap image format](https://www.makeuseof.com/what-is-a-bitmap-image/) ). Websites like Unsplash, Pixabay, and Freepik have a multitude of texture backgrounds you can download. Click the**Texture** \>**Custom Texture** settings in the 3D Text window. Press the**Choose Texture** button to select your downloaded BMP file.
 
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
 
@@ -74,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Extract Compressed Folders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/extract-compressed-window.jpg)
 5. Next, open the extracted screensavertweaker folder.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click the Windows 8 and x64 subfolders.
 7. Then double-click**ScreensaversTweaker.exe** to open the Windows Screensavers Tweaker software.
 
@@ -86,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
  Click the**Bubbles** tab to view options for customizing that screensaver. There you can change the number of bubbles the screensaver has by dragging the slider on the**Number** of**Spheres** bar. To change the size of the bubbles, drag the slider on the**Sphere Radius** bar. You can change the force of turbulence (bubble bounce) by dragging the slider on the**Turbulence Force** bar.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
 
@@ -100,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
@@ -108,14 +116,6 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
  You can select to preview all changes you make to screensavers within the software. Click**Play Preview** to see the screensaver in a small thumbnail screen. Or choose**Full Screen** to see what the customized screensaver looks like in fullscreen mode.
 
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customize Windows 11's Screensavers for Better Effect
 
@@ -136,17 +136,20 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/our-iphones-mp3-fix-6-free-tools-to-convert-youtube-audio/"><u>[New] Your iPhone's MP3 Fix 6 Free Tools to Convert YouTube Audio</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-igniting-online-frenzy-essential-trending-hashes/"><u>2024 Approved Igniting Online Frenzy Essential Trending Hashes</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Realme C55? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-narzo-60-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme Narzo 60 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-use-kapwing-meme-maker/"><u>In 2024, Use Kapwing Meme Maker</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-compatibility-hurdles-with-easy-to-follow-steps/"><u>Navigate Compatibility Hurdles with Easy-to-Follow Steps</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/navigating-crypto-acquisition-with-ease-expert-insights-from-yl-software/"><u>Navigating Crypto Acquisition with Ease - Expert Insights From YL Software</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-disk-space-limit-in-windows-os/"><u>Overcoming Disk Space Limit in Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/patch-windows-7-dell-tapping-issue/"><u>Patch Windows 7 Dell Tapping Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tips-to-skyrocket-downloads-in-battlenet-pcs/"><u>Quick Tips to Skyrocket Downloads in Battle.net PCs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/transformative-video-techniques-for-zoom-mastery/"><u>Transformative Video Techniques for Zoom Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-adoption-lag-seven-major-obstacles-explored/"><u>Windows 11 Adoption Lag: Seven Major Obstacles Explored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[New] In 2024, Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-and-tricks-perfecting-webcam-recordings-on-macbook-for-2024/"><u>[Updated] Tips & Tricks Perfecting Webcam Recordings on MacBook for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
+<li><a href="https://facebook.techidaily.com/10-messenger-rooms-tips-and-tricks-for-beginners/"><u>10 Messenger Rooms Tips and Tricks for Beginners</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-gopro-extras-for-2024/"><u>Beginner's Guide to GoPro Extras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-correcting-missing-msvcrt120dll-errors-on-pcs/"><u>Guide to Correcting Missing Msvcrt120dll Errors on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-regain-access-email-and-calendar-in-windows-11/"><u>How to Regain Access: Email & Calendar in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/instantly-stop-notifications-in-windows-11-ui/"><u>Instantly Stop Notifications in Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/ranking-the-peak-fps-counter-apps-for-windows-11/"><u>Ranking the Peak FPS Counter Apps for Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210127143-9781950241835-the-gift-of-courage-3rd-ed/"><u>The Gift of Courage (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-your-potential-best-windows-to-dos/"><u>Unleashing Your Potential: Best Windows To-Dos</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/why-the-samsung-galaxy-note-9-reigns-as-top-large-display-mobile-device/"><u>Why the Samsung Galaxy Note 9 Reigns as Top Large-Display Mobile Device</u></a></li>
 </ul></div>
 

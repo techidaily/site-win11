@@ -1,7 +1,7 @@
 ---
 title: Mending Windows 11 Taskbar Interactions
-date: 2025-01-04T20:30:20.946Z
-updated: 2025-01-06T17:19:11.028Z
+date: 2025-01-09T16:05:06.637Z
+updated: 2025-01-13T07:46:14.226Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Windows File Explorer
 
 ![restart windows file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restart-windows-file-explorer.jpg)
@@ -39,17 +43,9 @@ To restart a Windows Explorer service:
 4. Click the**Restart** task button in the top right corner. Alternatively, right-click on**Windows Explorer** and select**Restart** .
 5. Your screen may flicker for a moment as the Windows Explorer restarts. Your taskbar should start working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Reinstall and Re-Register All Windows Apps for All Accounts
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
@@ -71,12 +67,16 @@ To reinstall and register all Windows apps:
 
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Close Conflicting System Services
 
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
@@ -95,10 +95,6 @@ To restart system services in Task Manager:
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
  Another nifty trick to fix the taskbar not working issue is to make the Start menu use XAML and resolve issues that may cause the menu to stop working.
@@ -115,13 +111,13 @@ To make the Start menu use XAML:
 ![registry editor advanced new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value.jpg)
 5. Rename the value as**EnableXamlStartMenu.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, double-click on the newly created**EnableXamlStartMenu** value to modify it.  
 ![registry editor advanced new dword value data 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value-data-0.jpg)
 7. Type**0** in the**Value data** field and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8. Close Registry Editor and restart your PC.
 
@@ -144,13 +140,13 @@ To make the Start menu use XAML:
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Select the most recent one but created before the date of the taskbar issue and click**Next** . If you want to view which programs will be affected, click on**Scan for affected programs.**
 7. Read the description and click on**Finish** to confirm your restore point.
@@ -162,6 +158,10 @@ To make the Start menu use XAML:
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
 
@@ -184,20 +184,19 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/command-your-computer-manage-updates-and-downtime-in-windows-11/"><u>Command Your Computer: Manage Updates and Downtime in Windows 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/deciding-on-live-stream-software-streamlabs-vs-obs-comparison-for-2024/"><u>Deciding on Live Stream Software Streamlabs Vs. OBS Comparison for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-stuck-loading-screen-in-league-of-legends/"><u>Fixing Stuck Loading Screen in League of Legends</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-started-with-windows-hello-fingerprint-login/"><u>Getting Started with Windows Hello Fingerprint Login</u></a></li>
-<li><a href="https://win11.techidaily.com/ignite-performance-gains-in-winoutlook-today/"><u>Ignite Performance Gains in WinOutlook, Today!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-integrating-songs-and-snaps-online/"><u>In 2024, Integrating Songs and Snaps Online</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-iphone-video-editing-shorten-crop-and-resize-basics/"><u>In 2024, IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-files-win8-apps-that-modify-dates/"><u>Master Your Files: Win8 Apps That Modify Dates</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-disguising-taskbar-search-in-windows-11/"><u>Mastery: Disguising Taskbar Search in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/mobile-nostalgia-playing-snes-and-nes-on-ios/"><u>Mobile Nostalgia: Playing SNES & NES on iOS</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ps5xbox-x-visuals-the-top-5-game-tvs/"><u>PS5/Xbox X Visuals The Top 5 Game TVs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/streamed-dialogue-scribe/"><u>Streamed Dialogue Scribe</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-rated-shot-recording-gear-for-the-hunter/"><u>Top-Rated Shot-Recording Gear for the Hunter</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-classics-using-madvr-in-windows-os/"><u>Upgrade Your Classics Using MadVR in Windows OS</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-amazons-premier-hits-peak-twitter-engagement-and-viewership/"><u>[New] In 2024, Amazon's Premier Hits Peak Twitter Engagement & Viewership</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-content-utilizing-the-green-screen-on-instagram/"><u>2024 Approved Enhance Your Content Utilizing the Green Screen on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/bare-bones-budget-friendly-best-5-windows-10-recording-apps/"><u>Bare-Bones, Budget-Friendly Best 5 Windows 10 Recording Apps</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-optimize-your-website-with-advanced-tracking-and-personalization/"><u>Cookiebot-Enabled: Optimize Your Website with Advanced Tracking and Personalization</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-best-windows-10-drawing-apps-for-your-creativity/"><u>Discover the Best Windows 10 Drawing Apps for Your Creativity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/get-your-onikuma-headsets-mic-working-again-a-step-by-step-guide/"><u>Get Your Onikuma Headset's Mic Working Again - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rise-to-greatness-with-these-10-elevating-films/"><u>In 2024, Rise to Greatness with These 10 Elevating Films</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-security-how-to-use-microsofts-defender-aguard-for-win-11-edge/"><u>Installing Security: How to Use Microsoft's Defender Aguard for Win 11 Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-file-system-hiccups-in-windows-oses/"><u>Overcoming File System Hiccups in Windows OSes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/privacy-pioneers-explore-instagram-stories-secretly/"><u>Privacy Pioneers Explore Instagram Stories Secretly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-samsung-galaxy-m14-4g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Samsung Galaxy M14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-reinstate-disabled-features-with-win11-fixes/"><u>Regaining Control: Reinstate Disabled Features with Win11 Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-batch-file-execution-issues/"><u>Resolving Windows Batch File Execution Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-error-0x80004005-a-complete-walkthrough/"><u>Step-by-Step Solution for Error 0X80004005 - A Complete Walkthrough</u></a></li>
 </ul></div>
 

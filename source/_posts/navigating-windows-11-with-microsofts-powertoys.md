@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2025-01-05T17:29:46.694Z
-updated: 2025-01-06T20:04:49.677Z
+date: 2025-01-09T07:36:07.786Z
+updated: 2025-01-13T04:08:28.267Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
@@ -42,10 +42,14 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
 
@@ -58,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys From the GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-from-the-github-page.jpg)
 3. Now look for a file that is named something like **PowerToysSetup-0.##.#-x64.exe**. Here, the **#** represents the version number. Click on this file to start the download. After that, navigate to your downloads folder and double-click on it. This will start the installation process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. A window might pop up asking for permission to change your device. Click **Yes** to continue. The setup wizard will then open. Here, follow the installation prompts. Typically, you just need to click **Next** a few times and then **Install**.
 5. Once the installation process is completed, you'll be prompted to finish and exit the setup. Click **Finish**. You might be asked to agree to terms and conditions, choose an installation location, and decide whether you want a shortcut created.
 
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
 
@@ -81,14 +85,10 @@ winget install --id Microsoft.PowerToys
 ![Installing PowerToys Through Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/installing-powertoys-through-command-prompt.jpg)
 5. Now hit Enter to execute the command. This will download and install Microsoft PowerToys.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
@@ -109,19 +109,19 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-detailed-guide-on-voice-memos-best-practices-for-2024/"><u>[New] Detailed Guide on Voice Memos Best Practices for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces/"><u>[New] In 2024, Harness the Power of YouTube Video for Stunning GIF Masterpieces</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-to-facebook-in-a-flash-easy-connection-methods-for-2024/"><u>[New] Instagram to Facebook in a Flash Easy Connection Methods for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-fast-track-to-youtube-partner-level-achieve-10k-views/"><u>[Updated] Fast Track to YouTube Partner Level - Achieve 10K Views</u></a></li>
-<li><a href="https://win11.techidaily.com/command-line-centralization-opt-for-terminal-by-default/"><u>Command Line Centralization: Opt for Terminal by Default</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-validating-webcammicrophone-on-windows/"><u>Essential Tips: Validating Webcam/Microphone on Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-herramientas-de-edicion-de-video-remplazo-al-windows-movie-maker/"><u>Gratis Herramientas De Edición De Video: Remplazo Al Windows Movie Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-error-code-0xc19001e1-when-upgradinginstalling-windows-10/"><u>How to Overcome Error Code 0Xc19001e1 When Upgrading/Installing Windows 10</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a15-4g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A15 4G in Minutes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolve-infinite-scrolling-problems-excel-tips-windows/"><u>Resolve Infinite Scrolling Problems: Excel Tips (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-non-detection-of-razers-by-synapse-in-windows-11/"><u>Resolving Non-Detection of Razers by Synapse in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-high-privilege-user-tasks-in-windows/"><u>Streamlining High-Privilege User Tasks in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-peak-performance-mastering-time-management-tech-and-hacks-for-optimized-daily-workflow-guidance/"><u>Unlock Peak Performance: Mastering Time Management Tech and Hacks for Optimized Daily Workflow | Guidance</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-file-handling-on-windows-11-addition-of-movecopy/"><u>Upgrade Your File Handling on Windows 11 - Addition of Move/Copy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-cutting-edge-strategies-for-real-time-green-screen-applications-for-2024/"><u>[New] Cutting-Edge Strategies for Real-Time Green Screen Applications for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-subtle-art-of-easing-audio-intensity-garageband-for-2024/"><u>[New] The Subtle Art of Easing Audio Intensity (Garageband) for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-assessing-vlcs-competitors-and-contenders/"><u>[Updated] Assessing VLC's Competitors and Contenders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-lightweight-voice-alteration-maximizing-your-gameplay-in-pubg/"><u>2024 Approved Lightweight Voice Alteration Maximizing Your Gameplay in PUBG</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amazingly-clear-and-bright-displays-at-unbeatable-prices-top-lightweight-laptops-revealed/"><u>Amazingly Clear and Bright Displays at Unbeatable Prices - Top Lightweight Laptops Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-remote-connections-tips-for-windows-11-users/"><u>Decoding Remote Connections: Tips for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-scope-windows-terminal-vs-powershells-features/"><u>Exploring The Scope: Windows Terminal Vs. PowerShell's Features</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-se-2020-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone SE (2020) iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/lean-cloud-archive-efficient-low-cost-large-data/"><u>Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-non-initialized-disk-errors-in-windows-810/"><u>Navigating Through Non-Initialized Disk Errors in Windows 8/10</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-0x8007045d-blue-screen-problems-in-win11/"><u>Quick Fixes for 0X8007045D Blue Screen Problems in Win11</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sustaining-classic-machines-in-a-new-age-windows-11-through-to-go-and-rufus/"><u>Sustaining Classic Machines in a New Age: Windows 11 Through To Go and Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-battery-status-updates-for-windows-devices/"><u>Tailored Battery Status Updates for Windows Devices</u></a></li>
 </ul></div>
 

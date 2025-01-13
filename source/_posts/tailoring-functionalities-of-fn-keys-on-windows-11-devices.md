@@ -1,7 +1,7 @@
 ---
 title: Tailoring Functionalities of FN Keys on Windows 11 Devices
-date: 2024-08-16T00:55:35.197Z
-updated: 2024-08-17T00:55:35.197Z
+date: 2025-01-12T04:29:25.573Z
+updated: 2025-01-12T18:30:18.660Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  We have a detailed[guide to function keys](https://www.makeuseof.com/windows-function-keys-guide/) where we discuss what all 12 keys do. You can check it out for more insight on the topic.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Change the Function Key Settings Using the Mobility Settings on Dell Computers
 
  The easiest way to change function keys is by modifying settings within the Windows Mobility Center. This method, however, will only work for those of you using a Dell device.
@@ -42,15 +39,13 @@ Here is how to proceed:
 ![Hardware and Sound in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/hardware-and-sound.jpg)
 3. Click on**Windows Mobility Center** .  
 ![Windows mobility center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hardware-and-sound-windows-mobility-center.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 4. In the following window, look for the Fn key row section and expand the drop-down under it.
 5. If you wish to choose the F keys for basic functions, choose**Function key** .
 6. Select**Multimedia key** if you want to use the F keys to perform functions that typically require pressing the Fn key.  
 ![Multimedia key in Windows Mobility Center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-mobility-center-multimedia-key-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you own other devices, then you might want to look for similar options in the System or keyboard settings. You can also search the manufacturer’s official website for information regarding such customizations.
@@ -76,9 +71,9 @@ Similarly, if you have an Acer device, follow these steps:
 3. Pick the desired mode and hit Exit.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
 
  If you cannot boot into BIOS for some reason, try changing the Fn keys using UEFI settings. UEFI is basically BIOS on steroids, as it offers a bunch of additional functions and is more powerful.
@@ -88,11 +83,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press the Win + I keys to open Windows Settings.
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. Choose Restart now.  
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you are a Windows 11 user, follow these steps:
 
@@ -100,8 +96,9 @@ If you are a Windows 11 user, follow these steps:
 2. Type Recovery in the search field and choose**Recovery options** from the list of options available.
 3. Finally, click on**Restart now** associated with Advanced startup.  
 ![Click on Restart now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-now-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have booted in the Windows Recovery Environment using these steps, proceed with the following:
@@ -115,8 +112,9 @@ If you are a Windows 11 user, follow these steps:
 5. Click**Save** and then press**Exit** to sign out of BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Fn Lock
 
  If you do not want to press the Fn key every time you want to enable/disable any of the 12 functions, you can toggle on the Fn lock. With this feature, the Fn key will appear to always be held down on the keyboard, and you will be able to use any function key without having to first press the Fn key.
@@ -143,14 +141,11 @@ If you are a Windows 11 user, follow these steps:
 
  Function keys are great for improving productivity and efficiency. With the right techniques in mind, you can make the most of them. We hope that following the steps above enabled you to modify the setting of your function keys. It is also important to note that all the methods outlined above don't make a permanent change to the system, so you can always revert the changes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +154,19 @@ If you are a Windows 11 user, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-decreasing-decibents-deliberately-logic-pros-volume-techniques/"><u>[Updated] In 2024, Decreasing Decibents Deliberately Logic Pro's Volume Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-audience-market-leaders-in-youtubes-short-clips-downloads/"><u>2024 Approved Audience’ Market Leaders in YouTube's Short Clips Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-metaspace-contrasted-with-cosmic-universe/"><u>2024 Approved Metaspace Contrasted with Cosmic Universe</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dissecting-machine-might-strong-vs-weak-ai/"><u>Dissecting Machine Might: Strong Vs. Weak AI</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-operational-cut-and-paste-feature/"><u>Fixing Non-Operational Cut and Paste Feature</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-recover-deleted-files-from-external-hdd-without-trash-bin/"><u>How to Recover Deleted Files From External HDD Without Trash Bin</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-outlook-alert-performance-a-step-by-step-approach/"><u>Improving Outlook Alert Performance: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-compatible-bluetooth-adapters-and-drivers-for-windows-pcs/"><u>Latest Compatible Bluetooth Adapters and Drivers for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-excel-notation-on-notepad/"><u>Quick Fixes for Excel Notation on Notepad</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-correct-write-file-access-problem-on-pcs/"><u>Steps to Correct Write File Access Problem on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-new-features-in-the-latest-win11-update/"><u>Top 9 New Features in the Latest Win11 Update</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-in-this-article-we-will-introduce-how-to-make-a-time-lapse-video-with-photos-and-videos-with-one-of-the-best-time-lapse-software-filmora-in-/"><u>Updated In 2024, In This Article, We Will Introduce How to Make a Time Lapse Video with Photos and Videos with One of the Best Time Lapse Software Filmora in Details</u></a></li>
+</ul></div>
 

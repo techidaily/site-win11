@@ -1,7 +1,7 @@
 ---
 title: Fixing Your PC's Refusal to Run Windows 11
-date: 2024-08-16T00:54:37.078Z
-updated: 2024-08-17T00:54:37.078Z
+date: 2025-01-11T08:03:45.261Z
+updated: 2025-01-13T01:30:34.269Z
 tags:
   - windows10
   - windows11
@@ -48,20 +48,22 @@ Additionally, you may also see the following error:
  Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the[PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### What Is UEFI Boot Mode?
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -73,22 +75,13 @@ Additionally, you may also see the following error:
 
  If you use legacy boot mode, you need to set the Boot Mode to UEFI in your BIOS setup to enable the Secure Boot feature (and potentially switch TMP 1.2/2.0 on, too).
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix the "This PC Can't Run Windows 11 Error?"
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
@@ -103,9 +96,6 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
@@ -134,16 +124,23 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Right-click on the**MoSetup** key and selec**t New > DWORD** (32-bit) value.  
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
 
  You may encounter the**No Boot Device Found** error if you change the Boot Mode for an existing Windows 10 installation from Legacy to UEFI. However, there's nothing to worry about.
@@ -154,18 +151,19 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the This PC Can't Run Windows 11 Error
 
  Windows computers with the BIOS legacy firmware enabled won't be able to install Windows 11\. Fortunately, you can easily fix the error by tweaking your BIOS setup utility to enable UEFI firmware mode to enable Secure Boot and TPM 2.0.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +172,20 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-avoid-common-mistakes-in-youtube-livestreaming-with-best-webcams-for-2024/"><u>[Updated] Avoid Common Mistakes in YouTube Livestreaming with Best Webcams for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-epic-finale-for-virtual-escapades-for-2024/"><u>[Updated] Epic Finale for Virtual Escapades for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-design-principles-for-eye-catching-yt-previews/"><u>[Updated] In 2024, Design Principles for Eye-Catching YT Previews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-what-is-the-difference-between-youtube-and-dailymotion/"><u>[Updated] In 2024, What Is the Difference Between YouTube and Dailymotion</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-update-and-synchronization-service/"><u>Decoding Windows Update and Synchronization Service</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-resetting-search-to-factory-standards-in-win11/"><u>Expert Tips: Resetting Search to Factory Standards in Win11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-modern-setup-host-causing-high-cpu-usage-on-windows/"><u>How to Fix Modern Setup Host Causing High CPU Usage on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on iPhone SE (2020)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/m1-powered-macbook-air-a-new-era-for-editors-in-2024/"><u>M1-Powered MacBook Air A New Era for Editors, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-steps-to-scrub-microsofts-defender-traces-on-win-11/"><u>Methodical Steps to Scrub Microsoft’s Defender Traces on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-nvidia-driver-matches-gamingstudio-distinction/"><u>Optimal Nvidia Driver Matches: Gaming/Studio Distinction</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-privacy-trusted-sites-listing-in-windows-11/"><u>Prioritizing Privacy: Trusted Sites Listing in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-x100-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo X100 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

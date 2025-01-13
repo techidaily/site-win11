@@ -1,7 +1,7 @@
 ---
 title: Repairing Non-Deletable Keys on Microsoft Platforms
-date: 2024-08-16T00:52:43.150Z
-updated: 2024-08-17T00:52:43.150Z
+date: 2025-01-10T19:45:00.110Z
+updated: 2025-01-13T07:03:43.073Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  This guide walks you through possible fixes for a non-functioning Delete key on a Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check for Physical Damage
 
  The first thing you should do is check the Delete key for physical damage. Sometimes cleaning or adjusting the keys can solve the issue. Here's what to do:
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  If your keyboard is not physically damaged, [reboot your Windows computer](https://www.makeuseof.com/windows-restart-methods/). This general troubleshooting tip often repairs minor glitches and refreshes your system. Once your computer restarts, see if the Delete key works.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Hardware and Devices troubleshooter is an inbuilt Windows program that diagnoses and solves hardware-related issues. So, if restarting the computer didn't work, try this tool. It will scan your system for problems and suggest fixes.
@@ -45,16 +46,14 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 2. In the text field, type **msdt.exe -id DeviceDiagnostic** and press Enter. The Hardware and Devices troubleshooter will open.
 3. Click **Advanced** and check **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Now click **Next** and it'll scan for hardware problems.
 
  In the end, it will suggest possible fixes. Follow the instructions and see if that resolves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter finds no issues, try running the Keyboard troubleshooter. This tool is similar to the previous one, but it targets keyboard-related problems.
@@ -79,10 +78,12 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 2. Expand the **Keyboards** section and right-click on your keyboard driver.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
 3. Select Update driver from the context menu. You'll see two options: **Search automatically for drivers** and **Browse my computer for drivers**.  
-![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
 4. Choose the first option and let Windows search for available updates. If it finds one, follow the prompts to install it.
 5. After that, restart your computer and see if the Delete key works.
 
@@ -92,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  After that, restart your computer and Windows will automatically reinstall the driver. Check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Try a Different Keyboard Layout
 
  Sometimes, the issue is with your keyboard layout settings. Your Delete key may be mapped to another function or disabled altogether. To check this, switch to a different keyboard layout and see if it works. Here's how:
@@ -103,12 +101,18 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 2. From the left sidebar, select **Time & language**.  
 ![Language & region in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-region-in-settings.jpg)
 3. In the right pane, click on **Language & region**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **Preferred languages**, click the three dots next to the language you're using and select **Language options**.  
 ![Language Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-options.jpg)
 5. Next, scroll down to the **Keyboards** section and click **Add a keyboard**. Then choose a different layout from the list.  
 ![Add a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-keyboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After adding the new layouts, switch to them and see if the Delete key works. To switch between layouts, press **Win + Space** on your keyboard. If switching to a different layout solves the Delete key issue, you can remove the added layouts and stick to the one that works for you.
@@ -119,9 +123,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  For this, you must use [antivirus software that provides real-time protection](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/). If you don't have one, we recommend Windows Defender. It's a free and reliable alternative. You can also try [Windows PowerShell to scan and remove malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). After running a full system scan, see if the Delete key works correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Try the On-Screen Keyboard
 
  Digital technologies make life easier. The on-screen keyboard is one of them.
@@ -131,11 +132,12 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 1. [Open the Run command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **osk** in the text box and press **Enter**. This will pop up an on-screen keyboard.  
 ![Try On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/try-on-screen-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 
  Use the mouse or touchpad to click on the Delete key and see if it works. If it does, you can continue using the on-screen keyboard until you find a permanent solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Delete Key Is Now Working Again
 
@@ -143,11 +145,29 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  This guide walks you through possible fixes for a non-functioning Delete key on a Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-explore-and-review-every-application-az-screenshotters-way/"><u>[New] In 2024, Explore & Review Every Application - AZ Screenshotter's Way</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-social-media-magic-viral-trends-in-youtube-hashing/"><u>[Updated] 2024 Approved Social Media Magic Viral Trends in YouTube Hashing</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-the-art-of-alluring-youtube-live-image-creation/"><u>[Updated] In 2024, Unlocking the Art of Alluring YouTube Live Image Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/easily-fix-no-permissions-issue-for-windows-files/"><u>Easily Fix No-Permissions Issue for Windows Files</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-winx-updater-error-0x80246007-in-windows-1011/"><u>Eliminate WinX Updater Error: 0X80246007 in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/enders-guide-stopping-unseen-windows-programs/"><u>Ender's Guide: Stopping Unseen Windows Programs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-craft-and-modify-iphone-motion-videos-reducing-pace-effectively/"><u>In 2024, How to Craft & Modify iPhone Motion Videos Reducing Pace Effectively</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-innovations-the-biz-advantages-of-chatgpt-and-whisper/"><u>Leveraging Innovations: The Biz Advantages of ChatGPT & Whisper</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-access-issues-win1110s-nvidia-control-panel/"><u>Overcoming Access Issues: Win11/10's NVidia Control Panel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/summit-masterpiece-lab-check/"><u>Summit Masterpiece Lab Check</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-best-procreate-alternatives-for-windows/"><u>The 5 Best Procreate Alternatives for Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-battle-of-ais-assessing-gemini-against-chatgpt-for-ultimate-language-model-supremacy/"><u>The Battle of AIs: Assessing Gemini Against ChatGPT for Ultimate Language Model Supremacy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oppo-k11-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Oppo K11 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/unmasking-invisible-hardware-on-pcs/"><u>Unmasking Invisible Hardware on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-and-beyond-ai-copilots-revolutionary-impact/"><u>Windows 11 and Beyond: AI Copilot's Revolutionary Impact</u></a></li>
+</ul></div>
+

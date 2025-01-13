@@ -1,7 +1,7 @@
 ---
 title: The Sunsetting of Windows 7 and 8.1 by Microsoft
-date: 2024-08-16T00:55:57.889Z
-updated: 2024-08-17T00:55:57.889Z
+date: 2025-01-10T09:35:49.336Z
+updated: 2025-01-13T00:23:17.526Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
 ![Windows 8 laptop with a touchscreen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-8-laptop-with-a-touchscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: gorekun/[flickr](https://www.flickr.com/photos/14340225@N03/8132800351)
 
  Windows 7, which launched in 2009, actually ceased to have mainstream support in 2015\. However, due to its popularity, Microsoft extended it to 2020\. It then further extended security updates for Windows 7 until 2023 to give corporate users more time to upgrade to Windows 10 or 11.
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
  Now that Microsoft is no longer releasing updates for both of these operating systems, it's high time that their users upgrade to Windows 10 or 11\. That way, they can ensure the security and smoothness of their computers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Should You Do If Your Computer Is Still on Windows 7 or 8.1?
 
 ![Windows 10 nag screen view with a finger on top of it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2015/12/windows-10-upgrade-nag-screen-intro.jpg)
@@ -49,38 +54,38 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
  Or, if you can afford it, why not buy a new laptop or PC instead? Several[great budget laptops you can buy](https://www.makeuseof.com/tag/best-laptops-under-500/) run Windows 11, ensuring you can get the latest security patches and cover your most basic needs.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Could Happen to Your PC If You Don't Upgrade to Windows 10 or 11?
 
  If you choose to stay with Windows 7 or 8.1, you'll likely encounter several problems. Here are a few of the possible issues you might encounter:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Your Computer's Security Could Become Compromised
 
 ![anonymous hooded figure on laptop hidden by question mark](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/question-mark-anon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The biggest issue with the lack of security updates is that your data is more vulnerable. Without the security patches, anything saved on your computer—like your personal data, financial information, and files—can be stolen or leaked online.
 
  It may not happen immediately, but since Microsoft is no longer continuously monitoring Windows 7 and 8.1, any future security problems and bugs discovered will no longer be fixed. Threat actors can then use these vulnerabilities to target computers that still run these operating systems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### 2\. You Can't Use the Latest Versions of Chromium-Based Browsers Anymore
 
 ![Chrome Edge and Vivaldi](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Chrome-Edge-Vivaldi.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Google announced in[Google Chrome Help](https://support.google.com/chrome/thread/185534985/sunsetting-support-for-windows-7-8-1-in-early-2023?hl=en) that Chrome 109 is the last version of Chrome that'll support Windows 7 and 8.1\. Given that some of the most popular browsers today, like Microsoft Edge and Google Chrome, use this as a base, you can no longer use the latest versions of these browsers.
 
  While you can still use older versions of Chrome and Edge, these won't have the latest features and security protections. Furthermore, as companies release newer versions of their browsers, you can expect older ones to get less and less stable.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. You Might Encounter Issues Running Newer Peripherals and Hardware
 
 ![webcam error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/webcam-error.jpg)
@@ -99,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 
  But if you want to play PUBG: BATTLEGROUNDS or Call of Duty: Modern Warfare II, you must have at least a Windows 10 PC. You also need an updated operating system to run Microsoft 365, Microsoft Office 2021, and Adobe Creative Cloud apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## It's Time to Upgrade Your Windows 7 or 8.1 PC
 
  We had a good run with Windows 7, although not so much with Windows 8.1\. Nevertheless, it's time to upgrade our operating systems, given that these Windows versions are 14 and 10 years old, respectively.
@@ -114,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,22 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>[New] 2024 Approved Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hampions-tech-the-ultimate-gaming-toolkit/"><u>[New] Champion's Tech The Ultimate Gaming Toolkit</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-audience-engagement-and-its-impact-on-youtube-performance/"><u>[Updated] In 2024, Audience Engagement and Its Impact on YouTube Performance</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-15-groundbreaking-film-processors-for-gopro-cinematography/"><u>[Updated] Premium 15 Groundbreaking Film Processors for GoPro Cinematography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-master-the-art-of-capturing-gaming-moments-the-ultimate-guide-to-recording-your-pc-gameplay-in-6-effective-methods/"><u>1. Master the Art of Capturing Gaming Moments: The Ultimate Guide to Recording Your PC Gameplay in 6 Effective Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-a-personalized-context-menu-with-windows-11/"><u>Crafting a Personalized Context Menu with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insight-for-thriving-at-ps1-on-win-a-detailed-guide-by-duckstation/"><u>Expert Insight for Thriving at PS1 on WIN - A Detailed Guide by Duckstation</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/fehlerbehebung-externe-festplatten-backup-fur-windows-11-nicht-funktioniert/"><u>Fehlerbehebung: Externe Festplatten-Backup Für Windows 11 Nicht Funktioniert</u></a></li>
+<li><a href="https://win11.techidaily.com/improve-your-boltgun-gameplay-ending-window-latency/"><u>Improve Your Boltgun Gameplay: Ending Window Latency</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/new-release-nvidia-geforce-rtx-2070-drivers-compatible-with-windows-11-10-and-7/"><u>New Release: NVIDIA GeForce RTX 2070 Drivers Compatible with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win11.techidaily.com/outsmarting-google-chromes-webp-image-saving-on-windows/"><u>Outsmarting Google Chrome's WebP Image Saving on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/path-to-victory-windows-guide-to-opening-game-folders/"><u>Path to Victory: Windows Guide to Opening Game Folders</u></a></li>
+<li><a href="https://driver-download.techidaily.com/streamline-your-setup-with-easy-to-download-and-upgrade-netgear-wna3100-drivers/"><u>Streamline Your Setup with Easy-to-Download & Upgrade Netgear WNA3100 Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-repairing-setup-glitches-in-winx/"><u>Streamlining the Process: Repairing Setup Glitches in WinX</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-differences-showing-why-pc-is-superior-to-mac/"><u>Top 9 Differences Showing Why PC Is Superior to Mac</u></a></li>
+</ul></div>
 

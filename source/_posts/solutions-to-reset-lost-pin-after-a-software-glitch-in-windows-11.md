@@ -1,7 +1,7 @@
 ---
 title: Solutions to Reset Lost PIN After a Software Glitch in Windows 11
-date: 2024-08-23T06:06:03.773Z
-updated: 2024-08-24T06:06:03.773Z
+date: 2025-01-08T23:59:52.067Z
+updated: 2025-01-13T02:02:58.046Z
 tags:
   - windows10
   - windows11
@@ -64,20 +64,34 @@ To reset your user account password:
 2. Select the**Password** option. Here, enter anything as your password and press**Enter** . Windows will show the**Password is incorrect** screen. Click**OK** .  
 ![the password is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-password-is-incorrect.jpg)
 3. Next, click on the**Reset Password** option. This will open the reset password dialog.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset password lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-password-lock-screen.jpg)
 4. Next, you need to answer the three security questions and press**Enter** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. When successful, Windows will ask you to enter your new password. So, enter your new password and confirm the same. Press enter to save the password.
 
  Now you can sign in with your new account password. Next, change your PIN following the steps described above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Delete the NGC Folder
 
 ![delete ngc folder windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/delete-ngc-folder-windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If the issue persists when signing in with a PIN, check the NGC folder for permission issues. The NGC folder is where Windows stores your login information. If the folder is corrupted or lacks sufficient permission, it can result in the Something happened and your PIN isn't available error.
 
  To fix the corrupted folder, you'll need to delete the folder and let Windows recreate it. Here's how to delete the NGC folder to add a new PIN to your account.
@@ -89,9 +103,6 @@ To delete your NGC folder:
 3. Click on**View > Show** and select**Hidden Items** . Make sure Hidden Item option has a check mark.  
 ![show hidden item file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/show-hidden-item-file-explorer.jpg)
 4. Next, navigate to the following path:  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 `C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft`
 5. Next, right-click on the**Ngc** folder and select**Delete** . Click on**Delete** again to confirm the action.
 
@@ -102,15 +113,13 @@ To delete your NGC folder:
 ![advanced options uninstall updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-uninstall-updates-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you determine the error to have appeared after installing a Windows update, uninstalling the same should help you undo the changes and fix the error.
 
  There are[many ways to uninstall updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) , including from the Settings app and Windows Recovery Environment. If you are unable to sign in using a password, you can use the Windows Recovery Environment method to uninstall Windows updates.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Perform a System Restore Using Restore Point
 
  Windows creates automatic restore points before a major change is made to your system, including installing an update. You can use the restore point to restore your PC to an earlier time when it was working without an error.
@@ -121,9 +130,11 @@ To delete your NGC folder:
 2. Next, press and hold the**Shift** key and click on**Restart** . Click on**Restart anyway** if a confirmation prompt appears. Make sure to hold the Shift key until the PC starts to restart.  
 ![choose an option windows recovery environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-1.jpg)
 3. In the**System Recovery** section, click on**Troubleshoot** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![choose an option windows recovery environment advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-an-option-windows-recovery-environment-advanced-options-1.jpg)
 4. Next, select**Advanced options** .
 5. Click on**System Restore.**  
@@ -140,15 +151,16 @@ To delete your NGC folder:
 
 ![advanced options startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-options-startup-repair-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Startup repair is a built-in troubleshooting tool on Windows to fix issues with files required to boot the OS. You can run Startup Repair from the Windows Recovery Environment. Here's how to do it.
 
 1. In the sign-in screen, click on the**Power** icon. Then press and hold the**Shift** key and click on**Restart** . Hold the key until the PC restarts.
 2. Next, under**Choose an option,** go to**Troubleshoot > Advanced Options.**
 3. Click on**Startup Repair** . Windows will start diagnosing your PC and repair any issues with the startup files.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Perform a System Reset
 
 ![reset this pc windows 11 recovery](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-this-pc-windows-11-recovery-1.jpg)
@@ -167,8 +179,9 @@ To perform a system reset:
  If you are unable to sign in, follow this guide to[factory reset Windows 11 without the admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restore the PIN Sign-in Functionality on Windows 11
 
  Windows may refuse to accept your sign-in PIN if the folder containing the information is corrupted or due to system file issues. Before trying any advanced troubleshooting steps, try to use an alternate login method to sign in and remove and change your PIN. If not, you can use system repair to fix startup issues or restore your PC using a restore point.
@@ -179,8 +192,6 @@ To perform a system reset:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +199,21 @@ To perform a system reset:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[New] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-anonymous-story-consumption-navigating-through-instagram-stories-on-desktopmobile-free/"><u>[Updated] 2024 Approved Anonymous Story Consumption Navigating Through Instagram Stories on Desktop/Mobile [Free]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/an-intense-and-captivating-journey-through-my-favorite-show-using-apple-vision-pro-insights-and-reflections-zdnet/"><u>An Intense and Captivating Journey Through My Favorite Show Using Apple Vision Pro - Insights & Reflections | ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-smart-8-hd-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Smart 8 HD</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-tracking-anydesk-fixes-for-frequent-windows-glitches/"><u>Fast-Tracking AnyDesk Fixes for Frequent Windows Glitches</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/droid-playback-silent-youtube-autoplay-tips-for-2024/"><u>IOS/Android Playback Silent YouTube Autoplay Tips for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-swap-faces-like-a-pro-the-best-apps-for-ios-and-android-for-2024/"><u>New Swap Faces Like a Pro The Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/precision-in-post-production-fixing-your-youtube-green-screen/"><u>Precision in Post-Production: Fixing Your YouTube Green Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-installing-msixbundle-and-msix-packages-via-microsoft-store/"><u>Quick Guide: Installing MSixBundle & MSIX Packages via Microsoft Store</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-methods-to-temporarily-halt-windows-security-in-windows-11/"><u>Quick Methods to Temporarily Halt Windows Security in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-speaker-configuration-after-discrepancies/"><u>Resetting Speaker Configuration After Discrepancies</u></a></li>
+<li><a href="https://win11.techidaily.com/starting-windows-media-player-in-windows-os/"><u>Starting Windows Media Player in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-error-0x800700e1-in-windows-11/"><u>Strategies for Correcting Error 0X800700E1 in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Three Approaches to Test Windows 11 Activation
-date: 2024-08-16T00:52:25.064Z
-updated: 2024-08-17T00:52:25.064Z
+date: 2025-01-10T03:36:21.662Z
+updated: 2025-01-13T09:54:44.816Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
  Although Microsoft allows you to use Windows 11 without activation, using a non-activated copy may not be the best idea as it restricts your access to certain key features and critical security updates. If you’re unsure, there are several ways to know if your copy of Windows 11 is activated.
 
  You can check your Windows 11 PC’s activation status via the Settings app, the Run command, or a command-line tool. This post will walk you through all three methods in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
 
@@ -42,11 +46,12 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Check Windows 11 Activation State via the Run Command
 
  Run command is a useful tool for executing commands, opening system utilities, and[launching apps and programs in Windows](https://www.makeuseof.com/open-apps-programs-windows/) . You can also use this tool to see Windows' activation status.
@@ -57,15 +62,13 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 2. Type**slmgr.vbs /xpr** in the text field and click**OK** or press**Enter** .
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
 
  Command Prompt and PowerShell are two built-in command-line tools in Windows 11 commonly used for performing complex administrative tasks and troubleshooting various errors. However, did you know you could also use these tools to reveal essential system information such as Windows' activation state?
@@ -76,30 +79,28 @@ thumbnail: https://thmb.techidaily.com/925e71f91fee67d832ccee7c6f17e9bb429f4160d
 2. In the console, type**slmgr /xpr** and press**Enter** .
 3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Checking Windows 11’s Activation Status, Made Easy
 
  You now know several ways to determine whether your copy of Windows 11 is genuine or not.
 
  If your Windows 11 is not activated, you may need to purchase a license key online to activate it. However, it's important to be cautious of online deals that seem too good to be true while making the purchase.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +109,23 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-taming-twitch-audio-for-top-notch-streaming-saves-for-2024/"><u>[New] Taming Twitch Audio for Top-Notch Streaming Saves for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-quick-scan-recorder-for-chrome-devices/"><u>[Updated] 2024 Approved Quick Scan Recorder for Chrome Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-harness-ease-of-video-editing-on-windows-11-for-2024/"><u>[Updated] Harness Ease of Video Editing on Windows 11 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-msi-sound-card-drivers-on-windows-pcs/"><u>Download Latest MSI Sound Card Drivers on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-frozen-and-blank-screen-problems-in-winsteam/"><u>Fixing Frozen and Blank Screen Problems in WinSteam</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-expert-techniques-for-removing-audio-disturbances/"><u>In 2024, Expert Techniques for Removing Audio Disturbances</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-itel-a05s-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Itel A05s to New Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/ions-bold-step-forward-with-pro-3-a-comprehensive-camera-review-for-2024/"><u>ION's Bold Step Forward with Pro 3 - A Comprehensive Camera Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-access-denied-hurdles/"><u>Mastery over Windows Access Denied Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-world-of-windows-11-multi-tasking-like-a-pro/"><u>Navigating the World of Window's 11 Multi-Tasking Like a Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-measures-for-microsoft-teams-freeze-in-wins-11-and-10/"><u>Preventive Measures for Microsoft Teams Freeze in Wins 11 & 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/self-made-windows-voice-recognition-tool-integrating-whisper-and-autohotkey/"><u>Self-Made Windows Voice Recognition Tool: Integrating Whisper & AutoHotkey</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-remove-your-it-admin-cant-access-alert-on-pc/"><u>Steps to Remove Your IT Admin Can’t Access Alert on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-rectify-sound-malfunction-in-audacity-on-win-1111/"><u>Strategies to Rectify Sound Malfunction in Audacity on Win 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/what-no-longer-happens-in-windows-layouts/"><u>What No Longer Happens in Windows Layouts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Text Display Error in Windows 11 Resource
-date: 2024-08-16T00:52:04.378Z
-updated: 2024-08-17T00:52:04.378Z
+date: 2025-01-07T09:20:02.258Z
+updated: 2025-01-12T19:54:59.145Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check and install Windows updates:
 
 1. Press **Win + I** to open the **Settings** app.
@@ -43,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 2. Right-click on **Windows** **PowerShell** and select **Run as administrator**.  
 ![remove holographicsfirstrun app powershell windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/remove-holographicsfirstrun-app-powershell-windows.jpg)
 3. In the PowerShell window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-AppxPackage -all *HolographicFirstRun* | Remove-AppPackage -AllUsers`
 
  Once you've run the command, be sure to restart your computer.
@@ -55,6 +64,11 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 5. In Task Manager, click **Run new task**. On Windows 10 and older versions, click **File** and select **Run new task**.  
 ![run new task open tempstate folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-new-task-open-tempstate-folder-file-explorer.jpg)
 6. In the **Create new task** dialog, type the following path and click the **Browse** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `%localappdata%\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy`
 7. In the File Explorer window, delete the **TempState** folder.
 8. Go back to Task Manager, and click **Run new task**.
@@ -62,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  Once done, give your PC another restart.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Re-Register Your Microsoft Store Apps
 
  You can [re-register Microsoft Store apps using PowerShell](https://www.makeuseof.com/reregister-microsoft-store-apps-windows/) to stop the error appearing when using Microsoft apps. Doing so should remove any leftover entries showing up in the Start Menu after the update.
@@ -78,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
  To determine the app name click on the app entry and check if you can find any information about the app. If not, right-click on the app entry in the **Start Menu** and select **Open File Location**.
 
 ![view application folder windows 11 run shell apps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/view-application-folder-windows-11-run-shell-apps-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can view the application directory to view the installed apps. Press **Win + R** to open Run, type **shell:appsfolder**, and click **OK**. It will open the **Applications** folder. Go through the apps to see if you can locate an app named **ms-resource:Appname/Text** or similar to the entry in the Start Menu.
 
@@ -103,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  If you don’t see a Windows Store App troubleshooter option, you are likely running a newer version of the OS without this option. In this instance, try to repair the Microsoft Store app.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Repair the Microsoft Store App
 
 ![repair microsoft store windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-store-windows-11.jpg)
@@ -121,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 5. Scroll down to the **Reset** section.
 6. Click the **Repair** button, wait for the process to complete, and show a checkmark. If the repair is successful, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reset the Microsoft Store App
 
  In addition to performing a repair, you can also reset the Microsoft Store app to resolve common issues with the store apps. You can perform a reset from the Advanced Options section. Before that, run the wsreset.exe tool to clear the store cache to see if that helps.
@@ -128,9 +137,6 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
  To reset the Microsoft Store App cache:
 
 ![wsreset.exe command in the Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsreset-exe-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 1. Press **Win + R** to open the **Run** dialog.
 2. Type **wsreset.exe** and click **OK**.
@@ -138,8 +144,9 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
  Still not resolved? Try to [perform a Microsoft Store reset](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). Doing so will delete all app data, and you may need to sign in to your Microsoft account again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Other Troubleshooting Steps You Can Try
 
  If the issue persists, here are a few additional troubleshooting steps you can follow:
@@ -150,8 +157,9 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 4. **Clean install** – [Performing a Windows clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) will erase everything on your computer and reinstall Windows 11 from scratch. Make sure to back up important data before attempting a clean install.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the "ms-resource:Appname/Text" Error in Windows 11
 
  Often this entry in the start menu is a ghost entry from an unsuccessful or leftover installation of a Microsoft app. To remove the entry or restore the app, you can re-register the Microsoft app, remove the affected app package or run the Windows Store Apps Troubleshooter.
@@ -160,11 +168,24 @@ thumbnail: https://thmb.techidaily.com/bff355a17bbebb56de3c041755295c5c8bf9f4acf
 
  This entry in the Start Menu is a trace for a built-in app that has been removed in the successive upgrade. Depending on where you are seeing the error, follow the steps in the article below to resolve this error on your computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-boosting-video-impact-on-tiktok-via-sound-change/"><u>[New] Boosting Video Impact on TikTok via Sound Change</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-oculus-game-collection-top-8-popular-picks/"><u>[New] Oculus Game Collection Top 8 Popular Picks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974119817-halt-amd-glitch-enter-game/"><u>Halt AMD Glitch, Enter Game!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-fix-high-memory-utilization-issues-on-windows-10-computers/"><u>How to Fix High Memory Utilization Issues on Windows 10 Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/launch-success-a-guide-to-10-motivating-movies/"><u>Launch Success A Guide to 10 Motivating Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/lessen-resource-usage-by-disabling-unnecessary-features/"><u>Lessen Resource Usage by Disabling Unnecessary Features</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-monitor-settings-high-res-windows/"><u>Mastering Monitor Settings: High Res Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mir4-on-windows-expert-tips-for-eliminating-game-crashes-and-enhancing-performance/"><u>Mir4 on Windows - Expert Tips for Eliminating Game Crashes and Enhancing Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-1011-mastering-the-art-of-clearing-security-history/"><u>Windows 10/11: Mastering the Art of Clearing Security History</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-users-what-to-expect-after-taskbar-chat-is-discontinued/"><u>Windows 11 Users: What to Expect After Taskbar Chat Is Discontinued</u></a></li>
+</ul></div>
+

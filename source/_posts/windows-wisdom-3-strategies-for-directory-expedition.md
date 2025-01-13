@@ -1,7 +1,7 @@
 ---
 title: "Windows Wisdom: 3 Strategies for Directory Expedition"
-date: 2024-08-16T00:53:22.029Z
-updated: 2024-08-17T00:53:22.029Z
+date: 2025-01-06T22:51:37.867Z
+updated: 2025-01-12T22:58:54.167Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Let's have a look at different ways you can track down a game directory.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Follow the Shortcut
 
 ![screenshot of the right click menu showing open file location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screcreenshot_of_right_click_menu_open_file_location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The easiest way to find the directory for most games, as well as general programs, is to follow the shortcut.
 
@@ -30,14 +38,12 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  Some game directories store their .exe in different locations. You might arrive at the root directory, or you may arrive at a folder imbedded in this directory. Either way, you're in the right place.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Via the Properties Menu
 
 ![screenshot of the binding of isaac properties menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_properties_menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another option would be to use that same shortcut to view the **Properties** menu.
@@ -46,14 +52,12 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  This will bring you to the installation directory, as well as tell you exactly where that is.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Via the Game Launcher
 
 ![screenshot of the binding of isaac in steam showing browse local files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot_of_binding_of_isaac_steam_browse_local_files.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you've installed your game with a game launcher, such as Steam, or through the Epic Games Store, you'll find easier ways to open up game directories.
@@ -65,17 +69,14 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
  If you still can't track down the game launcher you're looking for, remember that games are just like any other program. All common [ways to find installation directories in Windows](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) will work for games, too.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Finding the Game Directory Is Easy
 
  Games are just programs, so there are plenty of ways to find their installation directory. Whether you're modding the game or just need to see some files, you'll be able to do so by the shortcut or the game launcher itself.
 
  Let's have a look at different ways you can track down a game directory.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -83,3 +84,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[Updated] 2024 Approved Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pro-photos-master-the-art-of-adding-motion-blur-effects/"><u>[Updated] In 2024, Pro Photos Master the Art of Adding Motion Blur Effects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-transforming-photos-to-videos-the-leading-snapchat-edit-tools/"><u>[Updated] In 2024, Transforming Photos to Videos The Leading Snapchat Edit Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-directly-connect-tweeting-with-videos-on-whatsapp/"><u>2024 Approved Directly Connect Tweeting with Videos on WhatsApp</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eyeem-pro-your-ultimate-guide-to-freepaid-substitutes/"><u>2024 Approved EyeEm Pro Your Ultimate Guide to Free/Paid Substitutes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-itel-p40-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Itel P40 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-color-variations-the-ultimate-windows-guide/"><u>Conquering Color Variations: The Ultimate Windows Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/curtailing-window-11s-early-edge-preload/"><u>Curtailing Window 11'S Early Edge Preload</u></a></li>
+<li><a href="https://win11.techidaily.com/from-installer-to-application-setting-up-ms-workspace/"><u>From Installer to Application: Setting up MS Workspace</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-privileges-fixes-for-win10-and-win11-errors/"><u>Mastering Privileges Fixes for Win10 & Win11 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-terminal-settings-in-windows/"><u>Navigating Through Terminal Settings in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-insider-builder-from-unauthorized-use/"><u>Securing Insider Builder From Unauthorized Use</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-repairing-lgs-incompatible-usb-drivers-on-various-windows-systems-win11-win8-and-win7/"><u>Step-by-Step Guide to Repairing LG's Incompatible USB Drivers on Various Windows Systems (Win11, Win8 & Win7)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ate-profit-prodigy-in-the-digital-age-for-2024/"><u>Ultimate Profit Prodigy in the Digital Age for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-disk-read-failed-in-windows/"><u>Unraveling Disk Read Failed in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/what-to-do-if-the-default-printer-keeps-changing-on-windows/"><u>What to Do if the Default Printer Keeps Changing on Windows</u></a></li>
+</ul></div>
+

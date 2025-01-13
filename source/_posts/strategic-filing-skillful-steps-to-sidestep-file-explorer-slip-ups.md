@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2025-01-05T20:28:26.151Z
-updated: 2025-01-06T19:30:41.948Z
+date: 2025-01-10T03:39:37.769Z
+updated: 2025-01-13T05:01:13.915Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
@@ -46,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ## 2\. Neglecting Keyboard Shortcuts
 
 ![two people using a windows laptop](https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  From opening the File Explorer to creating folders, keyboard shortcuts can help you work faster, which otherwise would've taken longer. [Keyboard shortcuts in Windows 11](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) are also the only solution when your trackpad or mouse is not working. And if you're facing the same issue, you should learn [how to fix your laptop's trackpad](https://www.makeuseof.com/tag/fix-laptop-touchpad-not-working/).
 
@@ -66,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
@@ -81,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
  You should avoid this common mistake to work more efficiently on Windows. Instead, you need to use what's called "search syntax" in File Explorer to find the exact item you're looking for.
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  If you aren't aware of checkboxes in File Explorer, you'll commit the mistake of selecting multiple files using both the keyboard and mouse.
@@ -99,9 +95,17 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
@@ -112,10 +116,6 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
@@ -139,20 +139,24 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlining-screenshot-tasks-in-minutes/"><u>[Updated] Streamlining Screenshot Tasks in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-microphone-problems-for-xbox-app-users/"><u>Diagnosing Microphone Problems for Xbox App Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-tecno-camon-20-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Tecno Camon 20 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-outdated-media-quality-an-introduction-to-madvr-on-windows/"><u>Enhance Outdated Media Quality: An Introduction to MadVR on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-to-other-iphone-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 to Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reestablish-sync-in-microsoft-to-do-app/"><u>How to Reestablish Sync in Microsoft To-Do App</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A05? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/lapdock-solutions-how-to-convert-your-smartphone-into-a-personal-computer-on-the-go/"><u>Lapdock Solutions: How to Convert Your Smartphone Into a Personal Computer on the Go</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-power-efficiency-in-high-end-pc-gaming/"><u>Mastering Power Efficiency in High-End PC Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/path-adjustment-changing-onedrives-abode-with-ease-on-windows/"><u>Path Adjustment: Changing OneDrive's Abode with Ease on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-art-of-sound-design-for-captivating-canvas-clips-for-2024/"><u>The Art of Sound Design for Captivating Canvas Clips for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-eradicating-0x8007045d-in-win11/"><u>The Ultimate Guide to Eradicating 0X8007045d in Win11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-mastering-the-art-of-pinned-conversations-on-instagram/"><u>Ultimate Guide: Mastering the Art of Pinned Conversations on Instagram</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-against-google-drive-sync-woes-on-pc/"><u>Winning Against Google Drive Sync Woes on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-selection-best-idevice-custom-alerts/"><u>[New] Ultimate Selection Best iDevice Custom Alerts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ridiculous-rhythms-satirical-song-stories/"><u>[Updated] 2024 Approved Ridiculous Rhythms Satirical Song Stories</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-journey-through-virtual-realms-on-youtubes-channel/"><u>[Updated] In 2024, Journey Through Virtual Realms on YouTube's Channel</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-effortless-link-upload-on-instagrams-social-sphere/"><u>2024 Approved Effortless Link Upload on Instagram's Social Sphere</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-guide-to-phone-carrier-definitions-and-roles/"><u>A Comprehensive Guide to Phone Carrier Definitions & Roles</u></a></li>
+<li><a href="https://win11.techidaily.com/historical-hurdles-crossed-using-an-older-product-key-in-windows-11-setup/"><u>Historical Hurdles Crossed: Using an Older Product Key in Windows 11 Setup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-post-a-vimeo-video-on-instagram-in-2024/"><u>How to Post a Vimeo Video on Instagram, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-voice-from-images-turning-instagram-into-mp3s/"><u>In 2024, Voice From Images Turning Instagram Into MP3s</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installing-unverified-drivers-amidst-signature-enforcement/"><u>Installing Unverified Drivers Amidst Signature Enforcement</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-disk-limits-in-windows-10/"><u>Managing Disk Limits in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-hang-solution-to-error-0x887a0006/"><u>Overcoming Device Hang: Solution to Error 0X887A0006</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-freeze-in-the-epic-launcher-on-windows-pcs/"><u>Overcoming Freeze in the Epic Launcher on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/scheme-for-activatingdeactivating-setup-service-on-pcs/"><u>Scheme for Activating/Deactivating Setup Service on PCs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-your-windows-11-audio-environment-easily/"><u>Taming Your Windows 11 Audio Environment Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/the-window-to-your-digital-past-file-history-guide/"><u>The Window to Your Digital Past: File History Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts-for-2024/"><u>Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-mysteries-of-windows-group-policies-3-different-perspectives/"><u>Unlocking the Mysteries of Windows Group Policies: 3 Different Perspectives</u></a></li>
 </ul></div>
 

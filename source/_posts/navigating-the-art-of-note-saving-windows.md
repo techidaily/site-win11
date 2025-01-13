@@ -1,7 +1,7 @@
 ---
 title: Navigating the Art of Note-Saving Windows
-date: 2024-12-30T18:09:35.651Z
-updated: 2025-01-06T20:04:27.333Z
+date: 2025-01-09T17:39:04.018Z
+updated: 2025-01-12T20:57:45.743Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Back Up and Restore YourSticky Notes Using a Microsoft Account
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 ![the Sync Now button in Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/sync-now-button-in-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -68,14 +68,14 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -104,17 +104,18 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-beyond-views-and-likes-pursuing-profits-on-youtube/"><u>[New] 2024 Approved Beyond Views and Likes Pursuing Profits on YouTube</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-full-insight-guide-to-efficiently-use-google-docs-speech-to-text/"><u>[New] In 2024, Full Insight Guide to Efficiently Use Google Docs Speech-to-Text</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-catcher-showdown/"><u>[New] Ultimate Catcher Showdown</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unbeatable-reflections-best-4k-mirrorless-cameras-today/"><u>[Updated] 2024 Approved Unbeatable Reflections Best 4K Mirrorless Cameras Today</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/aesthetic-alchemy-transforming-youtube-videos/"><u>Aesthetic Alchemy Transforming YouTube Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/decoy-control-panel-mastering-invisibility-in-win-1011/"><u>Decoy Control Panel - Mastering Invisibility in Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-premier-laptops-from-ifa-2023/"><u>Discover Premier Laptops From IFA 2023</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/from-amateurs-to-pros-mastering-mac-audio-in-audacity/"><u>From Amateurs to Pros Mastering Mac Audio in Audacity</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-motorola-moto-g-stylus-5g-2023-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Motorola Moto G Stylus 5G (2023) Phones? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-windows-to-its-original-energy-configuration/"><u>Resetting Windows to Its Original Energy Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-address-windows-breakpoint-exception-message/"><u>Steps to Address Window's Breakpoint Exception Message</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-menus-fresh-ideas-for-freezing-fix/"><u>Unlocking Windows Menus: Fresh Ideas for Freezing Fix</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-youtube-broadcast-handbook/"><u>[New] In 2024, The Ultimate YouTube Broadcast Handbook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-effortless-access-to-youtube-comments/"><u>[Updated] Expert Tips for Effortless Access to YouTube Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-for-activation-of-frozen-wsreset-in-windows/"><u>Essential Guide for Activation of Frozen WSReset in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-you-to-me-updating-your-social-network-identifier/"><u>From You to Me: Updating Your Social Network Identifier</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-update-the-epson-l3150-driver-on-pc-windows-10-8-and-7/"><u>How to Download and Update the Epson L3150 Driver on PC (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-edge-40-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Edge 40 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-14-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 14 Plus SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-y78-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo Y78 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-fix-disabled-desktop-icons/"><u>Methods to Fix Disabled Desktop Icons</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-nooks-to-fix-file-download-issues-on-windows-11-2/"><u>Navigating Nooks to Fix File Download Issues on Windows 11 (2)</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-thumbnails-ability-to-pop-up/"><u>Restoring Thumbnails' Ability to Pop Up</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-directdraw-fixes-your-win11-and-11-suggestions-needed/"><u>Simplifying DirectDraw Fixes: Your Win11 & 11 Suggestions Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-recovery-6-effective-steps-to-counteract-save-errors/"><u>Speedy Recovery: 6 Effective Steps to Counteract Save Errors</u></a></li>
 </ul></div>
 

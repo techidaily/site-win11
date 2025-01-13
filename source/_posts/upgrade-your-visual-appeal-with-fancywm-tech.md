@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Visual Appeal with FancyWM Tech
-date: 2024-08-16T00:54:11.129Z
-updated: 2024-08-17T00:54:11.129Z
+date: 2025-01-05T16:29:49.173Z
+updated: 2025-01-12T16:49:04.342Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,11 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
  FancyWM combines both approaches. The app grants Windows the ability to automatically "tile" windows on the screen. Still, you can switch the feature on and off at will or individually set windows to float. And although FancyWM relies on shortcuts, too, for advanced window management, it's also mouse-friendly.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## How to Download and Install FancyWM
 
  You can read more about the app at [FancyWM's official GitHub page](https://github.com/FancyWM), but the best "source" for installing it is the Microsoft Store. Launch the Microsoft Store app and search for "fancywm", or visit the [FancyWM Microsoft Store page](https://apps.microsoft.com/store/detail/fancywm-dynamic-tiling-window-manager/9P1741LKHQS9?hl=en-us&gl=us) directly.
 
 ![Microsoft Store Searching for FancyWM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-store-searching-for-fancywm.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  Install FancyWM from its Microsoft Store page, and then launch it.
 
@@ -51,31 +44,41 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![FancyWM Spotify Notepad Vertical Split](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-spotify-notepad-vertical-split.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same will happen if you open more windows. If one takes up "more than its share", that's because some windows have a "locked" minimum width and height.
 
 ![FancyWM Spotify Notepad Microsoft Edge Vertical Split](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-spotify-notepad-microsoft-edge-vertical-split.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Interactions with FancyWM start with its activation hotkey, by default mapped to the **Shift** \+ **Windows key** combination, followed by another key. If you only press the initial activation hotkey, FancyWM will show you a panel with the actions you can perform at any time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Managing Window Groups
 
  FancyWM allows you to create horizontally, vertically, and stacked groups of windows and combine them on your screen. However, you can't create horizontal and vertical "sub-groups" within a stacked group, and vice-versa.
 
 ![FancyWM Horizontal Vertical Layout Combination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-horizontal-vertical-layout-combination.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Press FancyWM's activation hotkey followed by **V**, **H**, or **S** to turn the active window into a vertical, horizontal, or stacked window group. To add more windows to a group, drag and drop them where you want them to appear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tweaking Your Layouts
 
  To tweak a layout, resize a window, and the rest will "react" accordingly. You can also resize windows by using FancyWM's activation key followed by the **left or right angle bracket** (**\[** or **\])**.
 
 ![FancyWM Resizing Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-resizing-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  To move windows around in the layout with your keyboard instead of the mouse, hit FancyWM's activation key followed by **CTRL** \+ **Cursor Keys**. To have windows swap positions, use **Shift** \+ **Cursor Keys** instead.
 
@@ -84,37 +87,33 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
  To assist with navigation, FancyWM presents each stacked window's title on a bar on the top of the group. You can switch between the windows by clicking on their titles.
 
 ![FancyWM Split Vertical Layout with Stacked Spotify Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-split-vertical-layout-with-stacked-spotify-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Using All Your Virtual Desktops & Monitors
 
  If you press FancyWM's activation key and then one of the **numerical keys** (from 1 to 9), you can switch between desktops. To move a window to another desktop, keep **Shift** held while pressing the desktop's number.
 
  Are you using multiple monitors with your computer? You can switch between the displays (after using FancyWM's activation key) with the **function keys** (F1-F9). To move a window to any of them, keep **Shift** held while pressing a function key.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use Floating Windows With FancyWM
 
  To temporarily turn off FancyWM's automatic tiling, use its activation key followed by **F11**. Do the same to re-enable it.
 
 ![FancyWM Floating Microsoft Edge Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-floating-microsoft-edge-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove a window from a tiled layout and have it freely float on your screen, use FancyWM's **activation hotkey** followed by **F**.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use FancyWM's Mouse Controls
 
  FancyWM also offers a mouse-friendly menu for managing your windows. To access it, move your mouse "over" any window managed by FancyWM and then back to its "title bar" area. You should see a floating menu appear.
@@ -143,8 +142,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  Would you like to increase or decrease the gap between tiled windows? Scroll down and, under **Interface**, adjust the **Window gap** value.
 
 ![FancyWM Settings Window Gap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-window-gap.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Are you using more than one monitor? You can choose from the **Displays** page if FancyWM should tile windows on all of them.
@@ -154,9 +154,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
  You don't like FancyWM's default shortcuts, or they clash with other software you're using? Change them on the **Keybindings** page.
 
 ![FancyWM Settings Keybinding](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-keybinding.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  As its name implies, from the **Rules** page, you can "tell" FancyWM to skip managing particular windows and have them always **float** (until you manually "tile them").
 
@@ -169,9 +166,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![FancyWM Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/fancywm-settings-advanced.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Power User's Approach to Window Management
 
  After you try FancyWM, you may feel like a supreme power user. Without taking your hands off your keyboard, by pressing three or four keys, you'll be jumping between desktops and monitors while windows rearrange on your screens.
@@ -180,11 +177,31 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  The "tiling" approach is regaining popularity in the world of Linux but, tools like FancyWM bring window tiling to Microsoft's Windows. Here's how it can help you keep your desktop clean and organized and, as a bonus, boost your productivity.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-amplify-youtube-twits-with-superior-hd-views-for-2024/"><u>[New] Amplify YouTube Twits with Superior HD Views for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-reimagining-mobile-photoshopping-iphone-x-insights-for-2024/"><u>[New] Reimagining Mobile Photoshopping IPhone X Insights for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-framing-the-perfect-waterway-narrative/"><u>[Updated] Framing the Perfect Waterway Narrative</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-paw-some-profits-the-paychecks-of-pewdiepie/"><u>2024 Approved Paw-Some Profits The Paychecks of PewDiePie</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-reactivate-classic-photo-viewer-in-windows-11/"><u>Easy Steps to Reactivate Classic Photo Viewer in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-samsung-galaxy-s24-ultra-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Samsung Galaxy S24 Ultra 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-to-stop-hyper-v-in-windows-11-os/"><u>Instructions to Stop Hyper-V in Windows 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-network-proxy-errors/"><u>Overcoming Windows Network Proxy Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-microsoft-teams-instability-tips-for-ws11ws10/"><u>Preventing Microsoft Teams Instability: Tips for WS11/WS10</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-interference-fixing-restart-and-shutdown-problems-from-apps/"><u>Removing Interference: Fixing Restart and Shutdown Problems From Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-ms-store-glitch-error-code-0x0-on-windows-1011/"><u>Resolving MS Store Glitch: Error Code 0X0 on Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-instagram-mavens-guide-to-spectaculous-unboxing-reels/"><u>The Instagram Maven's Guide to Spectaculous Unboxing Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-ipad-gadgets-and-peripherals-the-latest-picks-zdnet-review/"><u>Top-Rated iPad Gadgets and Peripherals - The Latest Picks (ZDNet Review)</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-top-9-comparisons-proving-pc-supremacy-over-mac/"><u>Unveiling Top 9 Comparisons Proving PC Supremacy Over Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-outlook-turbocharged-tips/"><u>Winning Strategies: Outlook Turbocharged Tips</u></a></li>
+</ul></div>
+

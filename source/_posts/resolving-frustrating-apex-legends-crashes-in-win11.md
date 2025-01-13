@@ -1,7 +1,7 @@
 ---
 title: Resolving Frustrating Apex Legends Crashes in Win11
-date: 2024-08-23T06:06:49.562Z
-updated: 2024-08-24T06:06:49.562Z
+date: 2025-01-06T18:18:34.747Z
+updated: 2025-01-13T07:11:52.229Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
  Like most Battle Royale games, Apex Legends has its fair share of bugs and glitches. These are understandable to an extent, but it gets frustrating when it crashes on every launch on your Windows 11 PC.
 
  Here are some things you can do to resolve the Apex Legends crashing issue on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Ensure Your Computer Fulfills the Game's Minimum Requirements
 
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  Next, switch to Apex Legends and check if you still experience the crash.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
@@ -88,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
  These settings work well on most low-end devices. Still, you can play around with these settings till you get the best combination for your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check the Apex Legends Files for Corruption
 
  Apex Legends will likely crash on your computer if its files are corrupted. To detect and remove corruption, you'll have to verify the integrity of game files.
@@ -101,13 +106,18 @@ Here's how to do it in the EA app:
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
  If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Graphics Driver
 
  At times, the graphics driver you are using might not be compatible with Apex Legends and cause it to crash. You can always fix graphics driver issues by updating it to the latest version. Here's how:
@@ -119,13 +129,18 @@ Here's how to do it in the EA app:
 ![Update Graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-driver.jpg)
 5. Select**Search automatically for drivers** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Device Manager will search for and download any available graphics driver update on your computer.
 
  Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 
  Windows Defender Firewall might interfere with the Apex Legends launcher and cause it to crash. To stop this from happening, you'll have to allow the launcher to run through the Windows Defender Firewall. Here's how:
@@ -134,34 +149,21 @@ Here's how to do it in the EA app:
 2. Type**Allow an app through Windows Firewall** and choose**Open.**  
 ![Allow an app through Windows Firewall in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-windows-firewall.jpg)
 3. Click the**Change settings** option.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Apex Legends Crashing Issue, Fixed
 
  Multiplayer games like Apex Legends are always prone to crashes. These crashes often result due to corruption in the game files or misconfigured in-game settings. Fortunately, you can use the above solutions to quickly troubleshoot the crashing issue for good.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +172,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-secure-online-methods-convert-youtube-audio-to-mp3-effortlessly-and-safely/"><u>[New] Secure Online Methods Convert YouTube Audio to MP3 Effortlessly & Safely</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-superior-picks-top-rated-webcam-grips/"><u>[New] Superior Picks Top-Rated Webcam Grips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>[Updated] In 2024, The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-tier-auditory-theatre-plays/"><u>[Updated] Top-Tier Auditory Theatre Plays</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unravel-the-mystery-of-accessing-your-watchlist-on-facebook-for-2024/"><u>[Updated] Unravel the Mystery of Accessing Your Watchlist on Facebook for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/assessing-the-longevity-and-support-life-cycle-of-huawei-p10/"><u>Assessing the Longevity & Support Life Cycle of Huawei P10</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-errors-fixing-failed-windows-mmc-snap-creation/"><u>Demystifying Errors: Fixing Failed Windows MMC Snap Creation</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-lightweight-power-with-acer-swift-edges-revolutionary-4k-oled-display-in-depth-review/"><u>Experience Lightweight Power with Acer Swift Edge's Revolutionary 4K OLED Display | In-Depth Review</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-and-fix-a-frozen-spotify-on-windows-11/"><u>How to Stop and Fix a Frozen Spotify on Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-smart-choices-best-video-call-programs-on-devices/"><u>In 2024, Smart Choices Best Video Call Programs on Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-index-configuration/"><u>Mastering Windows Index Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/past-window-features-that-went-extinct/"><u>Past Window Features That Went Extinct</u></a></li>
+<li><a href="https://games-able.techidaily.com/peering-beyond-the-screen-4-tactics-for-online-status/"><u>Peering Beyond the Screen: 4 Tactics for Online Status</u></a></li>
+<li><a href="https://win11.techidaily.com/silencing-google-chrome-on-your-windows-machine/"><u>Silencing Google Chrome on Your Windows Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-disabling-fake-security-warnings-from-chrome/"><u>Steps for Disabling Fake Security Warnings From Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-excessive-memory-demand-from-microsofts-edge/"><u>Troubleshooting Excessive Memory Demand From Microsoft's Edge</u></a></li>
+<li><a href="https://fox-where.techidaily.com/troubleshooting-windows-11-effective-solutions-for-fixing-the-active-partition-not-found-issue/"><u>Troubleshooting Windows 11: Effective Solutions for Fixing the Active Partition Not Found Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-how-to-reconstruct-icon-cache-efficiently/"><u>Troubleshooting: How To Reconstruct Icon Cache Efficiently</u></a></li>
+<li><a href="https://win11.techidaily.com/win-free-up-space-expert-guide-to-erase-temp-files/"><u>Win-Free Up Space: Expert Guide to Erase Temp Files</u></a></li>
+</ul></div>
 

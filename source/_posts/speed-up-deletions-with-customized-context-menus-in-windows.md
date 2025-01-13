@@ -1,7 +1,7 @@
 ---
 title: Speed up Deletions with Customized Context Menus in Windows
-date: 2024-08-23T06:06:31.657Z
-updated: 2024-08-24T06:06:31.657Z
+date: 2025-01-12T07:53:45.288Z
+updated: 2025-01-13T02:23:24.266Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,25 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 5. The**Powerful Uninstall** context menu option should be enabled by default, but you can double-check by clicking**Options** \>**Settings** in IObit Uninstaller. Select the**Add Powerful Uninstall** **option to Windows context menu** setting on the**Uninstall** tab if necessary, and click the**OK** button.  
 ![The Add Powerful Uninstall option to context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-add-powerful-uninstall-checkbox-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go ahead and try out the**Powerful Uninstall** context menu option. Right-click a software shortcut on your desktop (preferably for a program you want to remove) and select**Show more options** (in Windows 11). Click the new**Powerful Uninstall** option on the context menu. An IObit Uninstaller window will then open, on which you can select**Uninstall** to remove the program.
 
 ![The Powerful Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerful-uninstall-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll notice that the IOBit Uninstaller window in which the**Powerful Uninstall** option opens also includes an**Automatically remove residual files** setting. Selecting that checkbox will enable a more thorough removal of the program by deleting any leftover residual files and registry keys it leaves behind. That's an option worth selecting before clicking**Uninstall** to[erase junk files](https://www.makeuseof.com/windows-10-remove-junk-files/) .
 
 ![The Automatically remove residual files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatically-remove-residual-files-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add an Uninstall Context Menu Option With Windows Uninstaller
 
@@ -63,15 +75,20 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 ![The Install option for Windows Uninstaller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-install-option-1.jpg)
 7. Press**Install** to add the new**Uninstall** context menu option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After installing Windows Uninstaller, right-click a software icon on your desktop area and select**Show more options** to access the classic menu. There you'll see the**Uninstall** option shown in the screenshot below. Click**Uninstall** to bring up the software's default uninstaller.
 
 ![The Uninstall desktop context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-context-menu-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This context menu option is also available beyond the desktop. For example, you can right-click EXE files in installation folders to remove software packages. It also adds an**Uninstall** option to the Start menu's context menu in older Windows platforms like Vista/XP.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Uninstall Windows Software With a Handy Context Menu Shortcut
 
  With IObit Uninstaller or Windows Uninstaller, you can conveniently uninstall apps on your PC through the context menu. These shortcuts allow you to remove apps without going through the Program and Features applet or the Apps & Features tool.
@@ -84,8 +101,6 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +108,23 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[New] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unmarked-eyes-facebook-story-viewer/"><u>[Updated] Unmarked Eyes Facebook Story Viewer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/brands-on-the-rise-choose-the-best-ig-video-editing-apps/"><u>Brands on the Rise Choose the Best IG Video Editing Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-non-adjustable-gif-sizes-on-discowin11/"><u>Decoding the Mystery of Non-Adjustable GIF Sizes on DiscoWin11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-windows-11-firewall-on-demand/"><u>Disabling Windows 11 Firewall on Demand</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-method-to-address-error-0x80246007-on-win11/"><u>Efficient Method to Address Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/effortlessly-muted-music-garagebands-quiet-methods/"><u>Effortlessly Muted Music Garageband's Quiet Methods</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-bring-back-deleted-snaps-leading-software-solutions-for-iphone-users/"><u>How to Bring Back Deleted Snaps: Leading Software Solutions for iPhone Users</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/how-to-clone-hard-drives-on-windows-servers-server-2003-2016-2019-and-2022/"><u>How to Clone Hard Drives on Windows Servers (Server 2003, 2016, 2019 & 2022)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-productivity-on-your-macbook-enable-dual-monitor-support-for-the-latest-m3-model-just-like-its-air-counterpart/"><u>Maximize Productivity on Your MacBook: Enable Dual Monitor Support for the Latest M3 Model Just Like Its Air Counterpart!</u></a></li>
+<li><a href="https://win11.techidaily.com/patching-the-black-screen-problem-in-window-8-pcs/"><u>Patching the Black Screen Problem in Window 8 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/pinpoint-disk-technology-using-windows-features/"><u>Pinpoint Disk Technology Using Windows Features</u></a></li>
+<li><a href="https://win11.techidaily.com/revise-record-times-essential-tools-for-altering-createdmodified-dates-in-win8/"><u>Revise Record Times: Essential Tools for Altering Created/Modified Dates in Win8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/smartphone-entertainment-at-no-cost-our-top-picks-of-live-streamers/"><u>Smartphone Entertainment at No Cost Our Top Picks of Live Streamers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877251-9781609258672-the-disinformation-guide-to-ancient-aliens-lost-civilizations-astonishing-archaeology-hidden-history/"><u>The Disinformation Guide to Ancient Aliens, Lost Civilizations, Astonishing Archaeology & Hidden History | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-disk-errors-on-pc/"><u>Troubleshooting Steam Disk Errors on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating Stubborn Software Glitches: PS & Windows Guide"
-date: 2024-08-16T00:54:30.227Z
-updated: 2024-08-17T00:54:30.227Z
+date: 2025-01-06T07:45:33.675Z
+updated: 2025-01-12T18:53:35.617Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  This is just an overview of the minimum system requirements for Adobe Photoshop. As you work with larger files or more complex Photoshop projects, upgrading your hardware can improve your experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Apply Some General Fixes
 
  We have some quick fixes for you to try to fix some common Adobe Photoshop issues on Windows:
@@ -62,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Once you get Adobe Photoshop running, we have some [free Adobe Photoshop plugins for your creative suite](https://www.makeuseof.com/tag/free-adobe-photoshop-plugins/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Update Your Adobe Photoshop Program
 
  Adobe often releases incremental updates throughout the year to address bugs and compatibility issues in Adobe Photoshop. So, if you last updated the app long ago, you're missing out on some bug-fix patches.
@@ -71,27 +72,12 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 1. Launch Adobe Photoshop on your system.
 2. Once open, navigate to the **Help** tab at the top of the interface.  
 ![Adobe Photoshop Update Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-update-option.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. From the drop-down list, select the **Updates** option.
 4. If an update is available, it'll prompt you to update. Follow the prompts on the update wizard to replace the outdated Adobe Photoshop version.
 5. Once you update Adobe Photoshop, close it and open it again.
 
  Now start creating a new project first and then saving it. If you face an error while doing so, please move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Check for the Corrupted Presets
 
  There are many different [useful Adobe Photoshop presets](https://www.makeuseof.com/free-photoshop-actions/) available on the internet. And, with the right preset, you can enhance your images with one click. However, the presets can sometimes get corrupted, leading to app crashes.
@@ -107,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  That's it. If Photoshop operates normally with presets removed, it indicates that a corrupted preset is at fault.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Use the Adobe Creative Cloud Cleaner Tool
 
  The Adobe Creative Cloud Cleaner tool is mainly for the apps that Adobe offers to its customers. For instance, you can use this tool for Adobe Photoshop, Illustrator, and Acrobat DC, to name a few.
@@ -121,15 +104,14 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 1. Navigate to the [Adobe Help Center website](https://helpx.adobe.com/in/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) and scroll down.
 2. Access the drop-down menu next to **Filter by** text and select **Windows**. Click on the **Download** button now.  
 ![Adobe Help Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-website-screenshot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Close Adobe Photoshop now and run the **AdobeCreativeCloudCleanerTool.exe** file as an **Administrator**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. A Command Prompt window will appear now. Type the alphabet "**e**" there and press **Enter**.  
 ![AdobeCreativeCloudCleaner Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobecreativecloudcleaner-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  Similarly, follow the on-screen instructions to clean up the installation records of Adobe Photoshop.
 
@@ -143,21 +125,24 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
 1. Press the **Win + R** key combination and type **%appdata%/Adobe** in the text box.  
 ![Windows Run Dialog Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-run-dialog-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Press **Enter** to execute the command via Run. This will open the Windows File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Double-click on the folder that shows your current Adobe Photoshop version. We're using the **2023** version for this guide.  
 ![Adobe Folder In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-folder-in-file-explorer.jpg)
 4. Again, double-click on the folder that says **Adobe Photoshop \[version\] Settings**.
 5. Press **Ctrl + A** to select and delete all the files inside the settings folder. This will reset your Adobe Photoshop settings to their default state.  
 ![Adobe Photoshop Settings Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-settings-folder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're using the beta version, please remove it altogether. Beta versions offer some features in development, but this sometimes introduces new bugs and glitches!
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Tweak the Windows Services
 
  Are you still facing frequent Adobe Photoshop crashes? A simple solution for this is to tweak some Windows services. Adjusting the Windows services can often resolve various issues related to Adobe Photoshop or any graphic-intensive program on Windows. So why not give it a try once?
@@ -168,9 +153,18 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 2. Right-click on the **Windows Image Acquisition (WIA)** service. A context menu will appear; select **Restart** in that.  
 ![Windows Image Acquisition Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-image-acquisition-service.jpg)
 3. Repeat the same step with the following services to restart them: **Windows Font Cache Service**, **Application Information**, and **Program Compatibility Assistant Service**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once done, restart Adobe Photoshop and check whether it's working correctly.
 
  If restarting the Windows services fails, please reinstall Adobe Photoshop on your computer. This will reset all the corrupted data of the app and reconfigure the settings to their default state.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Adobe Photoshop Is Fixed and Working
 
@@ -178,11 +172,27 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  Often, it's not Adobe Photoshop but your Windows system causing such issues. So, let's explore some effective methods to solve Adobe Photoshop-related problems on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-how-to-upload-longer-videos-on-instagram/"><u>[New] In 2024, How to Upload Longer Videos on Instagram</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-master-your-youtube-settings-stop-auto-play-videos/"><u>[New] In 2024, Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-next-generation-of-mac-video-capture-software-not-bandicam-for-2024/"><u>[Updated] The Next Generation of Mac Video Capture Software (Not Bandicam) for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-1011-explore-dialogues-to-reflect-updates/"><u>Configuring Windows 10/11 Explore Dialogues to Reflect Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-and-correcting-sound-issue-xc00d36b4-on-windows/"><u>Confronting and Correcting Sound Issue XC00D36B4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/conveniently-connecting-to-the-clouds-dropboxgoogle-drive-on-your-system-writes/"><u>Conveniently Connecting to the Clouds: Dropbox/Google Drive on Your System' Writes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-user-administration-with-new-name-changes-on-win11/"><u>Optimize User Administration with New Name Changes on Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/paperclip-paradox-and-its-significance-in-ai-development/"><u>Paperclip Paradox and Its Significance in AI Development</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-windows-video-chat-apps-7-1-for-2024/"><u>Premier Windows Video Chat Apps #7-#1 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-gopro-camera-leap-hero4-to-hero5/"><u>The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/viking-verbal-vestiges-linguistic-traces-of-raiders/"><u>Viking Verbal Vestiges: Linguistic Traces of Raiders</u></a></li>
+</ul></div>
+

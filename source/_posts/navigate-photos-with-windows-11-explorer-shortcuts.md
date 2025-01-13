@@ -1,7 +1,7 @@
 ---
 title: Navigate Photos with Windows 11 Explorer Shortcuts
-date: 2025-01-03T16:25:04.112Z
-updated: 2025-01-06T21:02:39.634Z
+date: 2025-01-07T20:32:43.387Z
+updated: 2025-01-13T02:46:54.319Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Gallery Feature in Windows File Explorer?
 
  File Explorer’s Gallery feature works exactly like it sounds. It categorically lists all the images on your system in a separate section, so you can find and view all the images in one tab. Android File Explorers have had this feature for quite a long, but Windows seems to care about it now.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  This new feature is available in the Windows Insider build version 25300 and above. But Microsoft made a big change to the Insider program by adding a Canary channel. So, any new Canary build will also have this experimental feature. Microsoft adds the new File Explorer based on Windows App SDK, which you can verify by hovering over the “pizza” icon in the File Explorer address bar.
 
  The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable Gallery in File Explorer in Windows 11
 
@@ -71,10 +79,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
@@ -86,7 +90,7 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
@@ -101,11 +105,7 @@ To remove a folder from Gallery, repeat the following steps:
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Problems With the Gallery Section in Windows File Explorer
@@ -115,7 +115,7 @@ To remove a folder from Gallery, repeat the following steps:
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
@@ -137,24 +137,24 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-write-striking-introductions-insights-and-demonstrations/"><u>[New] 2024 Approved Write Striking Introductions Insights & Demonstrations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-game-to-giga-full-ps4-capture-using-obs/"><u>[New] In 2024, From Game to Giga Full PS4 Capture Using OBS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-pioneering-post-production-excellence-with-these-11-top-tutorials-for-2024/"><u>[New] Pioneering Post-Production Excellence with These 11 Top Tutorials for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/windows-11dvdmp4aviwmv-3/"><u>免费在Windows 11上高效转换DVD成MP4/AVI/WMV - 顶级3种软件推荐</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automating-microsoft-word-docs-via-chatgpt-a-comprehensive-guide/"><u>Automating Microsoft Word Docs via ChatGPT - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-and-resolving-d3d11-issues-for-w11w10-systems/"><u>Decoding and Resolving D3D11 Issues for W11/W10 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-unwanted-updates-with-4-tactics/"><u>Eliminate Unwanted Updates with 4 Tactics</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-addressing-unresponsive-device-camera-in-win11/"><u>Guide to Addressing Unresponsive Device: Camera in Win11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-edge-40-neo-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Edge 40 Neo to Protect Your Individual Information</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-2023s-best-intro-editor-app-for-all-your-devices/"><u>In 2024, 2023’S Best Intro Editor App for All Your Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-into-productivity-here-are-the-best-9-upgrade-points/"><u>Leap Into Productivity: Here Are the Best 9 Upgrade Points</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-troubleshooting-for-windows-msc-not-found-error/"><u>Mastering Troubleshooting for Windows MSC Not Found Error</u></a></li>
-<li><a href="https://win11.techidaily.com/pioneering-personalization-a-step-by-step-to-changing-username-on-windows-11/"><u>Pioneering Personalization: A Step-by-Step to Changing UserName on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/realign-prime-video-subtitles-with-windows-11-settings/"><u>Realign Prime Video Subtitles with Windows 11 Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-cybersecurity-why-more-than-one-antivirus-is-unnecessary-for-windows-pcs/"><u>Simplify Cybersecurity: Why More Than One Antivirus Is Unnecessary for Windows PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-beginners-guide-to-selecting-cams-in-the-year-2024/"><u>The Beginner's Guide to Selecting Cams in the Year 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-fixes-for-your-windows-net-system-max-156/"><u>The Essential Fixes for Your Windows .NET System (Max 156)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-setting-up-your-new-x-twitters-successor-profile/"><u>Ultimate Guide: Setting Up Your New X (Twitter's Successor) Profile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-itel-a05s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-tools-for-perfect-images/"><u>[New] In 2024, Essential Tools for Perfect Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-the-power-of-emojis-for-yt-feedback-for-2024/"><u>[New] Unlock the Power of Emojis for YT Feedback for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-deciphering-the-common-thought-on-vllo-for-2024/"><u>[Updated] Deciphering the Common Thought on VLLO for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[Updated] Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-issues-critical-security-advisory-on-specialized-spyware-assaults-aimed-at-iphone-owners-should-you-be-alarmed-now/"><u>Apple Issues Critical Security Advisory on Specialized Spyware Assaults Aimed at iPhone Owners – Should You Be Alarmed Now?</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-secure-key-dilemnium-5-proven-fixes-for-win11-errors/"><u>Decoding the Secure Key Dilemnium: 5 Proven Fixes for Win11 Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-windows-installation-steam-deck-edition/"><u>Easy Windows Installation: Steam Deck Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-routine-to-reinitiate-windows-updates/"><u>Efficient Routine to Reinitiate Windows Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-access-to-latest-version-wi-fi-drivers-compatible-with-win11win10win8win7-download-today/"><u>Free Access to Latest-Version Wi-Fi Drivers Compatible with Win11/Win10/Win8/Win7 - Download Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-get-your-windows-11-settings-bar-back-online/"><u>How To Get Your Windows 11 Settings Bar Back Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>In 2024, Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 5G 2023 Turbo to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-security-and-convenience-in-windows-oses/"><u>Maximizing Security and Convenience in Windows OSes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unsigned-update-file-issue-in-windows/"><u>Overcoming Unsigned Update File Issue in Windows</u></a></li>
+<li><a href="https://extra-support.techidaily.com/previewed-activities-on-facebook-are-you-exposed-for-2024/"><u>Previewed Activities on Facebook Are You Exposed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-enhancing-pc-lifespan-via-power-settings/"><u>Quick Guide to Enhancing PC Lifespan via Power Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-xbox-game-pass-failure-in-windows-devices/"><u>Resolving Xbox Game Pass Failure in Windows Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-examination-of-samsung-photo-editor-features/"><u>The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-connection-with-windows-usb-wi-fi-cards/"><u>Troubleshooting: No Connection with Windows' USB Wi-Fi Cards</u></a></li>
 </ul></div>
 

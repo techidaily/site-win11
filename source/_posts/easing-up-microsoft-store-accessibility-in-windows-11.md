@@ -1,7 +1,7 @@
 ---
 title: Easing Up Microsoft Store Accessibility in Windows 11
-date: 2024-08-23T06:06:02.717Z
-updated: 2024-08-24T06:06:02.717Z
+date: 2025-01-11T02:15:35.050Z
+updated: 2025-01-13T09:23:20.431Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
  Are you trying to install a new app but running into the “Microsoft Store is blocked” error when launching it? If you’ve already tried the usual fixes such as restarting your computer and closing the app without any luck, give the below fixes a quick try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  As the name implies, you should run this troubleshooter any time you have a problem with one of the Microsoft Store apps. Including the store itself. So, it might be a useful tool while trying to unblock the Microsoft Store app.
@@ -28,7 +32,15 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
 ![Run the Microsoft Store troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/store-troubleshooter-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will now search for any possible issues with the store apps. Once it finishes the process, it will provide troubleshooting instructions, so make sure to follow them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Switch to a Different Account
 
@@ -36,16 +48,14 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
  But if this didn’t fix the problem, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Microsoft Store
 
  You might be dealing with restricted actions in Microsoft Store due to outdated or corrupted cache files. Fortunately, there are multiple[ways to reset Microsoft Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) and fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Edit the Group Policy
 
  You may get the “Microsoft Store is blocked” error if it has been disabled through Group Policy. However, you can enable it by going through the below steps:
@@ -59,12 +69,6 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 
 ![Disabling or Enabling the Microsoft Store using the LGPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disabling-or-Enabling-the-Microsoft-Store-using-the-LGPE.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Check Registry Editor
 
  If you’re using Windows Home, there’s a chance the Group Policy is missing on your computer. However, you can edit the Registry to unblock the Microsoft Store.
@@ -76,23 +80,18 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
 ![Clicking the “RemoveWindowsStore” value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Clicking-the-“RemoveWindowsStore”-value-in-the-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Unblock the Microsoft Store on Windows
 
  Hopefully, you’ve unblocked the Microsoft Store and can now install new apps on your computer. While it’s usually overlooked, there are a lot of useful apps that you can get for free through the store.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +100,21 @@ thumbnail: https://thmb.techidaily.com/0c878b30db98d758dc708e36a3a1a79c906ed9e88
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>[Updated] Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>2024 Approved From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>2024 Approved How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-5-audio-capture-methods-in-windows-11-operating-system/"><u>2024 Approved Top 5 Audio Capture Methods in Windows 11 Operating System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nef-to-tiff/"><u>無料ウェブベースのNEF to TIFF変換 - 動画ヴァヴィで簡単に行う方法</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-radeon-top-tier-tuning-for-best-gameplay-in-windows/"><u>Elevate Your Radeon: Top-Tier Tuning for Best Gameplay in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ensuring-confidentiality-delete-your-chat-sessions-in-chatgpt-easily/"><u>Ensuring Confidentiality: Delete Your Chat Sessions in ChatGPT Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-routes-of-pc-application-installation/"><u>Exploring the Routes of PC Application Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-conceal-username-and-password-prompts-on-win-11/"><u>How to Conceal Username & Password Prompts on Win 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-xcover-7-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy XCover 7 Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/pace-up-your-pc-solutions-to-tackle-windows-11-lagging/"><u>Pace Up Your PC: Solutions to Tackle Windows 11 Lagging</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-dilemma-of-error-0x0000004e-in-win11/"><u>Tackling the Dilemma of Error 0X0000004E in Win11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-hacks-proven-right-transforming-your-pc-visuals-into-an-enormous-tv-display-with-a-simple-chromecast-cast/"><u>Tech Hacks Proven Right: Transforming Your PC Visuals Into an Enormous TV Display with a Simple Chromecast Cast</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-01-03T19:03:46.805Z
-updated: 2025-01-06T17:30:19.829Z
+date: 2025-01-10T02:25:00.705Z
+updated: 2025-01-13T05:36:30.494Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
  Making incorrect modifications to the Windows Registry involves risk and may cause your system to malfunction. We recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and [make a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) to be on the safe side.
@@ -46,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -66,16 +70,12 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
@@ -84,9 +84,17 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -103,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![uninstall microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/uninstall-microsoft-visual-c-plus-plus-distributable-package.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Select the **Microsoft Visual C++ package** in Control Panel and click on **Uninstall**.
 2. Click **Uninstall** in the **Modify Setup** dialog.
 3. Click **Finish** to complete uninstallation. Repeat the process for all the Visual C++ Redistributable packages.
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. Download the latest version of the package available on your computer. Depending on your system compatibility, you can select from ARM64, X86, and X64 architecture versions.
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
@@ -137,20 +137,15 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-directory-for-free-visual-treasures/"><u>[New] In 2024, Ultimate Directory for Free Visual Treasures</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-essential-guide-to-capturing-skype-conversations-on-windowsmac-for-2024/"><u>[New] The Essential Guide to Capturing Skype Conversations on Windows/Mac for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-dji-x20-drone-vision-wear-review/"><u>[Updated] 2024 Approved The DJI X20 Drone Vision Wear Review</u></a></li>
-<li><a href="https://win11.techidaily.com/developing-a-secure-quick-access-for-hardware-uninstall-in-win11/"><u>Developing a Secure, Quick Access for Hardware Uninstall in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-repairing-unresponsive-discord-window-on-pc/"><u>Diagnosing and Repairing Unresponsive Discord Window on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/diminish-high-graphics-draw-of-desktop-window-manager-on-windows/"><u>Diminish High Graphics Draw of Desktop Window Manager on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unlock-muted-sound-capture-obs-studio-guide-on-win-11/"><u>How to Unlock Muted Sound Capture: OBS Studio Guide on Win 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-s23-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy S23 To Phone | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mastering-gameplay-with-corsair-one-pro-a-comprehensive-pc-hardware-review/"><u>Mastering Gameplay with Corsair One Pro: A Comprehensive PC Hardware Review</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-productivity-paste-and-jump-tutorials/"><u>Maximizing Productivity: Paste & Jump Tutorials</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-entry-how-to-find-and-fix-missing-pin-on-win-11/"><u>Regain Entry: How to Find & Fix Missing PIN on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-winerror-misplaced-settings-in-file-history/"><u>Solving WinError: Misplaced Settings in File History</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sony-a6400-the-unseen-movie-problem/"><u>Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-review-of-camstudio-capturing-features-for-2024/"><u>The Ultimate Review of CamStudio Capturing Features for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-heroes-and-monsters-iii-pc-instability-issues/"><u>Troubleshooting Steps for Resolving Heroes and Monsters III PC Instability Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[New] The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-navigating-screen-recordings-with-gotomeeting/"><u>[Updated] In 2024, Navigating Screen Recordings with GoToMeeting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-your-archive-with-instagrams-filters-an-easy-guide-for-2024/"><u>[Updated] Transform Your Archive with Instagram’s Filters – An Easy Guide for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/decoding-chatgpt-unlock-techniques-pros-cons-and-what-you-should-know/"><u>Decoding ChatGPT Unlock Techniques: Pros, Cons & What You Should Know</u></a></li>
+<li><a href="https://win11.techidaily.com/dual-display-decor-curating-personalized-wallpapers-per-windows-system-screen/"><u>Dual Display Decor: Curating Personalized Wallpapers per Windows System Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-x50-gt-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor X50 GT</u></a></li>
+<li><a href="https://win11.techidaily.com/running-chatgpt-as-a-desktop-application-on-pcs/"><u>Running ChatGPT as a Desktop Application on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-screens-shine-on-windows-with-best-brightness-apps/"><u>Streamline Your Screens' Shine on Windows With Best Brightness Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/thriving-on-youtube-the-guide-to-affiliates-for-2024/"><u>Thriving on YouTube The Guide to Affiliates for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/why-steer-clear-of-bots-in-your-window-11-security-measures/"><u>Why Steer Clear of Bots in Your Window 11 Security Measures?</u></a></li>
 </ul></div>
 

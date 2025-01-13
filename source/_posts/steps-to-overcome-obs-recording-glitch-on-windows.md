@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome OBS Recording Glitch on Windows
-date: 2025-01-02T16:29:54.369Z
-updated: 2025-01-06T16:34:04.908Z
+date: 2025-01-07T07:38:33.730Z
+updated: 2025-01-12T19:10:29.793Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart OBS Studio
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
@@ -45,19 +49,11 @@ Here's what you need to do:
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
  Now, launch the OBS Studio and open your project. Then, open the Device Manager again > access the Display adapters node > right-click on the dedicated graphics driver and choose**Enable device.**
 
 ![Enable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-device.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That's it! Return to OBS Studio and check if you are able to record.
 
@@ -71,6 +67,10 @@ Here's what you need to do:
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
@@ -79,12 +79,12 @@ Here's what you need to do:
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart your computer and check if the problem continues.
 
@@ -105,7 +105,7 @@ swresample-2.dll`
 Restart your computer and check for the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Edit the OBS-Ffmpeg-Mux Installation Folder
@@ -120,21 +120,22 @@ You can do that by following the below instructions:
 ![Advanced system settings option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-system-settings.jpg)
 4. Click the**Environment Variables** button.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
 
- That's it! Now, start recording in OBS Studio and check if the problem persists.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it! Now, start recording in OBS Studio and check if the problem persists.
 
 ## 6\. Check for Corrupted or Missing Files
 
@@ -146,6 +147,10 @@ You can do that by following the below instructions:
 ![Check File Integrity option in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-file-integrity-option.jpg)
 2. Click**Yes** to confirm your selection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  OBS Studio will compare the available files with those on its server and download any missing or broken files.
 
  While you're at the OBS Studio home screen, check for and download any available updates. To do that, click**Help** and choose**Check for Updates** .
@@ -155,10 +160,6 @@ You can do that by following the below instructions:
  If you're still getting the error message, you're left with no option other than reinstalling OBS Studio. To do that, first[uninstall OBS Studio from Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
  Then, visit the[OBS Studio official website](https://obsproject.com/) , and download and install the latest version on your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Seamless Recording With OBS Studio
 
@@ -179,19 +180,21 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-advanced-tactics-for-backdrop-cleanup-in-figma/"><u>[New] Advanced Tactics for Backdrop Cleanup in Figma</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-digital-delinquency-games-comparable-to-gta-v/"><u>[Updated] Digital Delinquency Games Comparable to GTA V</u></a></li>
-<li><a href="https://techidaily.com/automated-user-tracking-with-cookiebot-boost-your-sites-visitor-insights/"><u>Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-captivating-time-lapse-videos-a-simple-guide-with-gopro-studio/"><u>Crafting Captivating Time-Lapse Videos A Simple Guide with GoPro Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-through-the-conundrum-fixer-blocked-not-broken/"><u>Cutting Through the Conundrum: Fixer Blocked, Not Broken</u></a></li>
-<li><a href="https://driver-error.techidaily.com/diagnosing-and-correcting-asus-windows-10-acpi-fails/"><u>Diagnosing & Correcting Asus Windows 10 Acpi Fails</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/direct-transformation-from-gif-to-video-with-best-web-services/"><u>Direct Transformation From GIF to Video with Best Web Services</u></a></li>
-<li><a href="https://win11.techidaily.com/dissecting-windows-n-suites-which-ones-best/"><u>Dissecting Windows N Suites: Which One's Best?</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-learning-with-windows-edition-themes/"><u>Enhance Learning with Windows Edition Themes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-maximizing-audio-capture-essential-techniques-for-facetime/"><u>In 2024, Maximizing Audio Capture Essential Techniques for FaceTime</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/iphone-and/"><u>IPhoneでカスタムビープメロディを作る - 動画&音楽利用ガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-fix-windows-error-for-non-existent-mfc71udll/"><u>Steps to Fix: Windows Error for Non-Existent Mfc71u.dll</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-screen-with-smooth-window-10-captions/"><u>Streamline Your Screen with Smooth Window 10 Captions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-pexels-image-arsenal-with-ease/"><u>Unlocking Pexels' Image Arsenal with Ease</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-boost-your-fb-ads-strategy-get-free-video-making-kit/"><u>[Updated] In 2024, Boost Your FB Ads Strategy Get Free Video-Making Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigate-to-the-best-10-sites-for-vector-image-download/"><u>2024 Approved Navigate to the Best 10 Sites for Vector Image Download</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-file-deletion-techniques-using-windows-11-command-prompt/"><u>Efficient File Deletion Techniques Using Windows 11 Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/employing-microsofts-techniques-for-error-exploration-on-w11/"><u>Employing Microsoft's Techniques for Error Exploration on W11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-edge-40-neo-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disconnected-printer-issues-on-windows-11/"><u>Fixing Disconnected Printer Issues on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/future-tech-on-your-desk-ifa-2023-winners/"><u>Future Tech on Your Desk - IFA 2023 Winners</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-connect-ps5-wireless-controllers-on-phone/"><u>Guide: Connect PS5 Wireless Controllers on Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-artificial-intelligence-is-revolutionizing-windows-software/"><u>How Artificial Intelligence Is Revolutionizing Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-file-sharing-between-windows-pcs-using-aoemi/"><u>Seamless File Sharing Between Windows PCs Using AOEMi</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-keyboard-triggers-embedding-commands-for-wordpad-into-context-menus/"><u>Streamlining Keyboard Triggers: Embedding Commands for Wordpad Into Context Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-update-failure-error-code-0xc004f050/"><u>Tackling Windows Update Failure: Error Code 0XC004F050</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-delicate-audible-reduction-within-lumafusion-for-2024/"><u>The Pathway to Delicate Audible Reduction Within Lumafusion for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/trucchi-veloci-per-risolvere-i-problemi-di-accesso-alle-cartelle-in-windows-11-explorers/"><u>Trucchi Veloci per Risolvere I Problemi Di Accesso Alle Cartelle in Windows 11 Explorers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/understanding-memes-an-introduction/"><u>Understanding Memes: An Introduction</u></a></li>
 </ul></div>
 

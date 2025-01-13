@@ -1,7 +1,7 @@
 ---
 title: Fixing Error Code 31 for Your PC's Internet Connection
-date: 2024-08-16T00:52:57.495Z
-updated: 2024-08-17T00:52:57.495Z
+date: 2025-01-12T01:36:26.086Z
+updated: 2025-01-12T17:36:06.149Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/151496d9a19ba95beb3641cc868ae237a3532fbd9
 
  Additionally, you can also find new drivers using your manufacturer's proprietary system management tool. For example, with Lenovo and HP computers, you can use the Lenovo Vantage and HP Support Assistant utility to find and install new drivers for your network adapter and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Driver Roll Back
 
  If you believe a recent driver update is causing the error, you can use the**Roll Back Driver** option to perform a rollback and reinstall the previous version of the network adapter driver.
@@ -41,16 +45,10 @@ To perform a network driver rollback:
 4. Right-click on your network device and select**Properties** .
 5. In the**Properties** dialog, open the**Driver** tab.  
 ![device manager network driver roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-driver-roll-back-driver-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
 7. Next, in the confirmation dialog, give a reason and click**Yes** .
 8. Once the driver rollback is complete, check if the problem is resolved. If not, check if you can perform another rollback for the network device driver to see if that helps.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Perform a Network Reset
 
  Windows 10 and 11 feature a "network reset" option. This will remove and reinstall the network drivers and other networking components to their factory defaults to help you fix network adapter issues on your computer.
@@ -63,24 +61,20 @@ To perform a network reset:
 4. ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11.jpg)  
  Next, click on**Network reset** .
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on**Reset now** and click**Yes** to rest your network settings.  
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 6. Your PC will restart during the process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
@@ -107,14 +101,13 @@ To perform a network reset:
 2. Next, expand the**Network Adapters** section.
 3. Right-click on the network adapter and select**Uninstall Device.**  
 ![uninstall network device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-device-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
-![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
@@ -135,9 +128,18 @@ To perform a restore point:
 5. Select the most recent restore point and click**Next** .  
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 6. Confirm your restore point and read the description to understand what apps and data on your PC are affected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Finish** to initialize the system restore process. Your PC will restart and may take some time to finish. Your PC will restart and show a system restore success or failure message.
 
  If the restore process fails, try it again. At times, it may take more than one attempt to get it right. If the computer is restored, it should hopefully restore the old network driver configuration and fix the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix the Network Adapter Code 31 Error on Windows
 
@@ -149,8 +151,6 @@ To perform a restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +158,22 @@ To perform a restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-haute-makeup-techniques-step-by-step-youtube-guide/"><u>[New] In 2024, Haute Makeup Techniques Step-by-Step YouTube Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-revamping-your-windows-11-photo-viewer-add-filters-and-background-music-for-2024/"><u>[New] Revamping Your Windows 11 Photo Viewer Add Filters and Background Music for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-iphone-photo-mosaic-skills/"><u>2024 Approved Perfect Your iPhone Photo Mosaic Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-windows-hardware-ram-allocation/"><u>Exploring Windows' Hardware RAM Allocation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-failed-hardware-abstraction-layer-hal-start-up-issue-in-windows-10/"><u>Fixing the Failed Hardware Abstraction Layer (HAL) Start-Up Issue in Windows 10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-honor-v-purse-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Honor V Purse Phones with/without a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/life-is-strange-true-colors-crash-solved/"><u>Life Is Strange: True Colors Crash [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/prevention-and-solutions-for-frozen-windows-notepad-state/"><u>Prevention and Solutions for Frozen Windows Notepad State</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-workflow-immediate-uninstall-via-win-shortcuts/"><u>Revolutionize Your Workflow: Immediate Uninstall via Win Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-system-retrieving-device-hardware-ids-via-windows/"><u>Securing Your System: Retrieving Device Hardware IDs via Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-reopening-closed-off-mailcalendar-on-w11-os/"><u>Simplify Reopening Closed-Off Mail/Calendar on W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-space-optimization-with-ntfs-compression-settings/"><u>Strategies for Space Optimization with NTFS Compression Settings</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/submergedsound-test-unwaeled-deep-water-performance/"><u>SubmergedSound Test: Unwaeled Deep Water Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-rescue-solving-windows-problems-with-expertise/"><u>Swift Rescue: Solving Windows Problems with Expertise!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-affordable-vpn-services-of-2024-comprehensive-review-by-industry-pros-techradar/"><u>Top-Rated Affordable VPN Services of 2024: Comprehensive Review by Industry Pros | TechRadar</u></a></li>
+</ul></div>
 

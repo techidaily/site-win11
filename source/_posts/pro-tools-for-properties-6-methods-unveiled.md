@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2025-01-01T18:28:15.389Z
-updated: 2025-01-06T18:24:34.225Z
+date: 2025-01-11T01:01:00.079Z
+updated: 2025-01-13T02:56:28.439Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Using the CMD Tool
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -128,15 +128,18 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/fall-update-exclusive-enhancements-for-select-apple-airpod-models-revealed/"><u>Fall Update: Exclusive Enhancements for Select Apple AirPod Models Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/gain-instant-administrator-entry-with-terminal-anytime/"><u>Gain Instant Administrator Entry with Terminal Anytime</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-ensure-proper-surge-protection-tips-and-tricks-for-your-tech-equipment/"><u>How to Ensure Proper Surge Protection: Tips and Tricks for Your Tech Equipment</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-easy-access-to-no-cost-music-for-video-makers/"><u>In 2024, Easy Access to No-Cost Music for Video Makers</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-win-xp10-extraction-issue-1152/"><u>Steps to Correct Win XP/10 Extraction Issue 1152</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-full-potential-with-resizable-gifs-in-discord/"><u>Unlocking Windows 11'S Full Potential with Resizable GIFs in Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-windows-1110s-d3d11-compatible-gpu-riddle/"><u>Unraveling Windows 11/10'S D3D11 Compatible GPU Riddle</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-edit-your-way-to-success-iosandroid-apps-for-youtube-shorts/"><u>[New] 2024 Approved Edit Your Way to Success IOS/Android Apps for YouTube Shorts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-introducing-10-elusive-instagram-story-visionaries/"><u>[New] Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>[Updated] Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-time-warp-in-media-youtube-content-upside-down/"><u>2024 Approved Time Warp in Media YouTube Content Upside Down</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-overscan-for-optimal-screen-fit/"><u>Fixing Windows Overscan for Optimal Screen Fit</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-icon-alert-disappearances/"><u>How To Fix Icon Alert Disappearances</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-check-the-pin-bluetooth-pairing-error-on-windows-1110/"><u>How to Fix the “Check the PIN” Bluetooth Pairing Error on Windows 11/10</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-galaxy-s23-ultra-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Galaxy S23 Ultra.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-hot-30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Hot 30 5G Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-text-magic-for-striking-video-scenes/"><u>Perfect Text Magic for Striking Video Scenes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transformation-made-simple-convert-your-ogv-videos-into-gif-format-at-no-cost-movavi/"><u>Transformation Made Simple: Convert Your OGV Videos Into GIF Format at No Cost - Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/turbocharged-windows-content-assessment/"><u>Turbocharged Windows Content Assessment</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-aid-evolution-with-new-tools/"><u>Windows 10 Aid Evolution with New Tools</u></a></li>
 </ul></div>
 

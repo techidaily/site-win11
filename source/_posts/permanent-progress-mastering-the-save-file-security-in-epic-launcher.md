@@ -1,7 +1,7 @@
 ---
 title: "Permanent Progress: Mastering the Save File Security in Epic Launcher"
-date: 2025-01-05T20:38:56.139Z
-updated: 2025-01-06T19:20:43.517Z
+date: 2025-01-09T22:01:47.588Z
+updated: 2025-01-12T20:09:20.232Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Cloud Saves in Epic Games Launcher
@@ -40,15 +40,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 4. Then click the checkbox labeled **Enable Cloud Saves** to select that option.  
 ![The Enable Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-cloud-saves.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now your game will start cloud saving when you play it so long as it supports that feature. You don’t have to do anything to restore data backed up to Epic’s cloud service after reinstalling a game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Check if a Game Supports Cloud Sync
 
@@ -62,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![The Cloud Saves option on the Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-cloud-saves-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll also see the last synced (backed up) date below the **Cloud Saves** option. Click the round **Sync Data Now** button to manually initiate a cloud sync backup. Then you can reinstall the game safe in the knowledge that your saved progress for it has been recently cloud synced.
 
  If a **Cloud Save** option isn’t available there, your saved game data for that title will not be backed up to Epic’s cloud service. So, you’ll need to back up your saved game data with the alternative method covered below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Handle a Cloud Save Conflict
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Copy option in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-copy-option.jpg)
 6. Open another directory to paste the folder in and press **Ctrl + V**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will now have a secondary copy of a game’s game saves folder. If you’re going to install the game on another PC, paste the copied game saves folder onto a portable USB drive. Then you can copy the game saves over to your alternative desktop or laptop from that USB drive.
 
  Reinstall the game after you’ve backed up your saved progress. To restore the game saves, you’ll need to copy and paste the backed-up folder into the Windows or Epic Games Launcher path specified for the title’s game saves on the PCGamingWiki website. You can do that with one of the methods included within our [how-to copy and paste in Windows 11 guide](https://www.makeuseof.com/windows-11-copy-paste-methods/).
@@ -101,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
  Nevertheless, it’s still recommended to manually back up game saves in that directory before reinstalling titles just in case. Then launch your game to check if you can load all previously saved progress after reinstalling it. If not, you can restore the lost game saves by moving the backed-up data into the required folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Secure Saved Gaming Progress for Your Epic Games Library
@@ -122,18 +122,24 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-techniques-for-smoothing-meetings-backgrounds-in-teams/"><u>[Updated] 2024 Approved Techniques for Smoothing Meetings' Backgrounds in Teams</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/descargar-e-imprimir-de-forma-gratuita-convertidor-de-archivos-raw-cr2-al-formato-jpegbmp/"><u>Descargar E Imprimir De Forma Gratuita: Convertidor De Archivos RAW (CR2) Al Formato JPEG/BMP</u></a></li>
-<li><a href="https://win11.techidaily.com/dialing-into-the-core-of-windows-launch/"><u>Dialing Into the Core of Windows Launch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-12-pc-clicker-games-to-elevate-gameplay/"><u>Essential 12 PC Clicker Games to Elevate Gameplay</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-direct-x-11-compatibility-with-wwe-2k-feature-level-100-error-solutions/"><u>How to Fix Direct X 11 Compatibility with WWE 2K: Feature Level 10.0 Error Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-picart-a-guide-to-clear-backgrounds-for-2024/"><u>Mastering PicArt A Guide to Clear Backgrounds for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mega-savings-on-apples-latest-macbook-air-with-m2-chip-for-cyber-monday-2n-exclusive-lowest-price-guarantee/"><u>Mega-Savings on Apple's Latest MacBook Air with M2 Chip for Cyber Monday 2N - Exclusive Lowest Price Guarantee !</u></a></li>
-<li><a href="https://games-able.techidaily.com/ps5-remote-and-phone-establishing-connections/"><u>PS5 Remote & Phone: Establishing Connections</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-win-11-sound-experience-with-dolby-atmos/"><u>Streamline Your Win 11 Sound Experience with Dolby Atmos</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharge-files-choices-enabling-selective-filters-on-win11/"><u>Supercharge Files Choices: Enabling Selective Filters on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-potential-top-5-tools-for-optimized-wins/"><u>Unlocking Potential: Top 5 Tools for Optimized Wins</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-steam-on-windows-11-after-errors/"><u>Unlocking Steam on Windows 11 After Errors</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-harmony-hunters-dive-into-free-online-beat-tracker-for-2024/"><u>[New] Harmony Hunters Dive Into Free, Online Beat Tracker for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-reverse-image-search-facebook-for-2024/"><u>[New] How to Reverse Image Search Facebook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>[New] Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-complete-analysis-gopro-silver-edition-hero4-assessment/"><u>2024 Approved Complete Analysis GoPro Silver Edition HERO4 Assessment</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-considerations-when-choosing-your-ideal-smartwatch-top-5-insights/"><u>Crucial Considerations When Choosing Your Ideal Smartwatch - Top 5 Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-battery-alerts-windows-insider-guide/"><u>Enhancing Battery Alerts: Windows Insider Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-reviews-and-advice-on-toms-computer-gear/"><u>Expert Reviews and Advice on Tom's Computer Gear</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-budding-filmmakers-best-gopro-upgrades/"><u>In 2024, Budding Filmmakers Best GoPro Upgrades</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-ninja-level-strategies-for-instagram-video-magic/"><u>In 2024, Ninja-Level Strategies for Instagram Video Magic</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-and-panache-advanced-tiktok-editing-skills-for-2024/"><u>Precision and Panache Advanced TikTok Editing Skills for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-shift-key-functionality-in-windows/"><u>Regain Shift Key Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-your-chrome-browser-on-the-latest-os-win11/"><u>Revitalizing Your Chrome Browser on the Latest OS (Win11).</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-a-permanently-deletable-desktop-bin-on-windows-11-and-11/"><u>Setting up a Permanently Deletable Desktop Bin on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-removing-error-0xc0f1103f-in-geforce-now-win/"><u>Solutions for Removing Error 0Xc0f1103f in GeForce Now, Win</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-persistent-windows-update-problems/"><u>Solving the Persistent Windows Update Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-wlanextexe-overheating/"><u>Taming Windows WLANEXT.EXE Overheating</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-how-to-for-your-youtube-music-collection/"><u>The Ultimate How-To for Your YouTube Music Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-potential-with-our-recommended-8-timer-apps-for-windows/"><u>Unleash Your Potential With Our Recommended 8 Timer Apps for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-sound-leveraging-the-volume-mixer-in-action-center/"><u>Windows 11 Sound: Leveraging the Volume Mixer in Action Center</u></a></li>
 </ul></div>
 

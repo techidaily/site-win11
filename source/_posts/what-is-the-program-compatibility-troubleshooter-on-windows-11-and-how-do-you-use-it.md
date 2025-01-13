@@ -1,7 +1,7 @@
 ---
 title: What Is the Program Compatibility Troubleshooter on Windows 11, and How Do You Use It?
-date: 2024-08-23T06:06:18.692Z
-updated: 2024-08-24T06:06:18.692Z
+date: 2025-01-12T01:34:42.624Z
+updated: 2025-01-12T16:10:10.902Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,11 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 4. Scroll down and click on**Other troubleshooters** .  
 ![the troubleshooting page in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshoot-page-settings-windows-11.jpg)
 5. You’ll find the**Program Compatibility Troubleshooter** in the**Other** section, and to launch it, click the**Run** button next to it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![the other troubleshooters page on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/other-troubleshooters-page-windows-11.jpg)
 
  For more ways to fire up this tool, please read our guide on the[different ways to run the Program Compatibility Troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
@@ -48,15 +53,20 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![the screen to select a program in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-program.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the tool analyzes the program, it will ask you to select a troubleshooting option between**Try recommended settings** and**Troubleshoot program** .
 
 ![the screen for selecting a troubleshooting option in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-troubleshooting-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Let’s see what each of them does.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Troubleshoot Compatibility With the “Try recommended settings” Option
 
  If you select**Try recommended settings** , Windows will apply the best compatibility settings to the selected program based on a previous version of Windows. However, you’ll need to click the**Test the program** button afterward to launch the app and make sure it’s working as expected. Then, click**Next** to proceed.
@@ -64,15 +74,13 @@ Let’s see what each of them does.
 ![program-compatibility-troubleshooter-test-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-test-program.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You will then be asked if you want to save the applied settings. If they worked, click**Yes, save these settings for this program** . If not, click**No, try again using different settings** – this will be like selecting**Troubleshoot program** as your troubleshooting option.
 
 ![program-compatibility-troubleshooter-save-settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-save-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Otherwise, click **No, report the problem to Microsoft and check online for a solution** .
 
 ## How to Troubleshoot Compatibility With the “Troubleshoot Program” Option
@@ -81,29 +89,24 @@ Let’s see what each of them does.
 
 ![selecting a problem in the program compatibility troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-choose-problem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you ticked **The program worked in earlier versions of Windows but won’t install or run now** , you’ll be required to pick an earlier version of Windows by clicking on the appropriate radio button. Then, click**Next** to apply the compatibility settings.
 
 ![picking an older version of Windows in the Program Compatibility Troubleshooter-pick-old-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-old-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you ticked,**The program opens but doesn’t display correctly** when choosing a problem, you’ll need to pick the display problems you’re experiencing. Then, click**Next** to apply the compatibility settings, and, remember, you can pick more than one problem to give the tool more information on how to best optimize it.
 
 ![program-compatibility-troubleshooter-pick-display-problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-display-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you ticked**The program requires additional permissions** , the compatibility settings will be applied immediately. And if you pick**I don’t see my problem on the list** , you’ll be taken to the screen where you have to pick an earlier version of Windows that the program last worked on.
 
  Then, you need to click the**Test the program** button to see if the problem is gone. Afterward, click**Next** to proceed.
 
  If the troubleshooter resolved the problem, click**Yes, save these settings for this program** on the next screen. If it didn’t, click**No, try again using different settings** to try other troubleshooting steps. If neither option applies to your situation, click **No, report the problem to Microsoft and check online for a solution** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of Program Compatibility Issues on Windows 11
 
  Now that you have a good idea of what the Program Compatibility Troubleshooter is, you can use it to fix older apps that aren’t working right on Windows 11\. It’s much better than waiting for the app’s developers to update it, which might never happen if they stopped working on it.
@@ -116,8 +119,6 @@ Let’s see what each of them does.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +126,18 @@ Let’s see what each of them does.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-convenient-alias-adjustment-in-google-meet-devices-for-2024/"><u>[New] Convenient Alias Adjustment in Google Meet Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-the-fb-algorithm-maximizing-page-visibility/"><u>[Updated] In 2024, Navigating the FB Algorithm Maximizing Page Visibility</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-no-more-ghosting-on-social-reinstate-disappearing-facebook-videos-with-12-tips-for-2024/"><u>[Updated] No More Ghosting on Social Reinstate Disappearing Facebook Videos With 12 Tips for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-chrome-over-antivirusfirewall-hurdles-on-your-pc/"><u>Enabling Chrome Over Antivirus/Firewall Hurdles on Your PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-a-critical-examination-of-vlcs-rivals/"><u>In 2024, A Critical Examination of VLC's Rivals</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-oculus-quest-2-with-windows-vr-systems/"><u>Integrating Oculus Quest 2 with Windows VR Systems</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/seamless-pdf-conversion-and-text-extraction-using-abbyys-powerful-ocr-software-development-kit/"><u>Seamless PDF Conversion & Text Extraction Using ABBYY's Powerful OCR Software Development Kit</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-interpret-and-adjust-cpu-load-figures-in-task-manager-app/"><u>Tips to Interpret and Adjust CPU Load Figures in Task Manager App</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-apps-for-playing-mts-and-m2ts-videos-on-macos-best-picks/"><u>Top Free Apps for Playing MTS & M2TS Videos on macOS - Best Picks!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-images-proven-pixlr-strategies/"><u>Transform Your Images Proven Pixlr Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-winstall-boosting-your-windows-11-setup-with-groups/"><u>Unveiling the Power of Winstall: Boosting Your Windows 11 Setup with Groups</u></a></li>
+</ul></div>
 

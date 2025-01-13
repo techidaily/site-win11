@@ -1,7 +1,7 @@
 ---
 title: "Quick Solution: Conquer Camera Fails in Windows OS"
-date: 2024-08-16T00:55:22.376Z
-updated: 2024-08-17T00:55:22.376Z
+date: 2025-01-10T03:58:35.789Z
+updated: 2025-01-13T07:14:46.922Z
 tags:
   - windows10
   - windows11
@@ -32,12 +32,17 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![The Let apps access your camera setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/let-apps-access-your-camera.jpg)
 5. Turn on the switch for the **Camera** app setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Windows Camera
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
@@ -52,12 +57,13 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 `C:\Users\<user folder>\Pictures\`
 3. If you can’t find Camera Roll in the Pictures folder or any subfolder there (such as Screenshots), you’ll need to recreate that folder. Right-click inside the Pictures directory and select **New** \> **Folder**.  
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
 
@@ -68,9 +74,6 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 2. Click **OK** to bring up a Libraries directory.
 3. Right-click Camera Roll to select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/properties-option3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 4. Click **Add** on the **Library** tab.
 5. Next, select a folder location such as **Downloads**.
 
@@ -79,16 +82,27 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 3. Click the **Include folder** button.  
 ![The Include folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/include-folder-button.jpg)
 4. Select the Photo folder in the **Library locations** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Change Where Your Photos and Videos Get Saved
 
  Some Camera users have also said changing where that app saves pictures can resolve the “photo capture file creation failed.” If you have an external drive, alternative partitions, or USB stick, you can set photos to save there as follows:
@@ -98,27 +112,21 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 3. Select **Default save locations** to bring up those settings.
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 5. Select a different drive or partition to save images to.
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Webcam’s Driver
 
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
 
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 7\. Reinstall the Windows Camera
 
  If the “photo capture file creation failed” continues after trying other solutions in this guide, you might have to reinstall the Windows Camera app to get this issue sorted. Then you’ll have a fresh copy of the latest Windows Camera app version. As you can’t uninstall that app via Settings, you’ll need to remove Camera via Powershell and then reinstall it as follows:
@@ -145,17 +153,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Get Snapping With the Windows Camera App Again
 
  The “photo capture file creation failed” error is quite a common Windows Camera app file-saving error. Lots of users have remedied that Camera error with the potential fixes outlined in this guide.
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +165,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streamlining-your-gaming-diary-overwatch-video-documentation/"><u>[New] 2024 Approved Streamlining Your Gaming Diary Overwatch Video Documentation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-complete-youtube-editors-toolkit-for-post-publish-adjustments/"><u>[New] 2024 Approved The Complete YouTube Editor's Toolkit for Post-Publish Adjustments</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>[Updated] Snap-Happy with Hero5 Black Tips for Stunning Visuals</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/1-sing-like-a-star-with-the-latest-chart-toppers-unlock-your-royal-karaoke-experience-on-karaoke-cloud-pro/"><u>1. Sing Like a Star with the Latest Chart-Toppers: Unlock Your Royal Karaoke Experience on Karaoke Cloud Pro!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quick-tips-for-smooth-ipad-screen-capture/"><u>2024 Approved Quick Tips for Smooth iPad Screen Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-real-time-visualizer/"><u>2024 Approved Real-Time Visualizer</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-onedrives-incorrect-reparse-point-tag-on-pc/"><u>Combatting OneDrive’s Incorrect Reparse Point Tag on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-grayed-out-secure-boot-a-bios-guide-for-windows-pcs/"><u>Fixing Grayed-Out Secure Boot: A BIOS Guide for Windows PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-laserjet-m506-printer-drivers-latest-version-and-downloads/"><u>Free HP LaserJet M506 Printer Drivers: Latest Version and Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/manage-windows-11-disk-space-with-compressed-ntfs-files/"><u>Manage Windows 11 Disk Space with Compressed NTFS Files</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-onedrive-invalid-reparse-buffer-tag-mistakes/"><u>Overcoming OneDrive Invalid Reparse Buffer Tag Mistakes</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/pasos-sencillos-para-activar-movavi-en-tu-computadora-mac-instrucciones-detalladas/"><u>Pasos Sencillos Para Activar Movavi en Tu Computadora Mac: Instrucciones Detalladas</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/proven-techniques-to-elevate-your-igtv-videos-on-mobile-and-professional-cameras-for-2024/"><u>Proven Techniques to Elevate Your IGTV Videos on Mobile & Professional Cameras for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-new-potential-adding-actions-to-folder-context-menus/"><u>Unlock New Potential: Adding Actions to Folder Context Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-security-7-best-cryptography-tools-for-windows-users-149-chars/"><u>Unlock Security: 7 Best Cryptography Tools for Windows Users (149 Chars)</u></a></li>
+</ul></div>
+

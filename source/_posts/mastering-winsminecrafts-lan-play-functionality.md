@@ -1,7 +1,7 @@
 ---
 title: Mastering WinsMinecraft's LAN Play Functionality
-date: 2024-08-16T00:52:55.257Z
-updated: 2024-08-17T00:52:55.257Z
+date: 2025-01-10T16:34:50.641Z
+updated: 2025-01-12T17:15:13.912Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  If you're having issues connecting to or playing in a Minecraft LAN world, here are some fixes you can apply on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Connect Both Devices to the Same Network
 
  Users must connect to the same network connection as the host of the LAN world to play or join the server. Therefore, if you cannot enter the world or if any of your friends cannot join your server, ensure devices are connected to the same network. You can check that by clicking the Wi-Fi or internet icon in the bottom right corner.
@@ -30,15 +34,16 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 ![Uncheck the Automatic Connection Permission for the Wi-Fi Network on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uncheck-the-automatic-connection-permission-for-the-wi-fi-network-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Connect to the Same Network Using the Same Connection Method
 
  Ensure your device is connected to the network using the same type of connection as the host, such as Wi-Fi, Ethernet, etc. Although it's not a requirement from Minecraft, and most users don't have issues as long as they're connected to the same network, some players reported having problems when their connection type differed from the host's.
 
  If the connection type is different, change it. If the connection type already matches the host, you can proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Ensure You're Using the Same Minecraft Version as the Host
 
  Although this may be evident, your device must run the same Minecraft version as the host to join the LAN world. Minecraft updates automatically in most cases, so perhaps a new version came out and everyone updated to it, mismatching their version from the server's.
@@ -46,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  To check that, open the Minecraft launcher, expand the **menu** in the bottom-left, select the **Latest release**, and click **Play**. Then, attempt to join the LAN world again.
 
 ![Select the Latest Version to Play Minecraft in a LAN World](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/select-the-latest-version-to-play-minecraft-in-a-lan-world.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists, note down the version listed under the **Latest release** and confirm that the host uses the same version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change Your Windows Network Profile to Private
 
@@ -73,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform Some General Fixes
 
  If none of the solutions listed above work, it's time to attempt some general fixes:
@@ -87,8 +98,9 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
  In case the above fixes also don't work, try setting up a direct connection to the host server in Minecraft.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Create a Direct Connection in Minecraft
 
  If you cannot view or connect to other players in Minecraft on the same network, try establishing a direct connection with the host. The direct connection enables users to join the server using the server's address, which is the host's IPv4 address for the local network, and the LAN port number of the server.
@@ -97,15 +109,9 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 1. Click the **Direct Connection** button in multiplayer mode.  
 ![Open the Direct Connection in Minecraft Multiplayer Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/open-the-direct-connection-in-minecraft-multiplayer-mode.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Paste the **IPv4 address** into the **Server Address** box, add a colon, and enter the **LAN port** provided by the host.
 3. Then, click on **Join Server**.  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
 ## Join a Minecraft LAN World Seamlessly on Windows
 
@@ -113,11 +119,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 ## FAQ
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
@@ -128,11 +129,26 @@ The powerful video editing program for your Windows PC</a>
 
  If you're having issues connecting to or playing in a Minecraft LAN world, here are some fixes you can apply on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-unmasking-invisible-audiences-interactions/"><u>[Updated] Unmasking Invisible Audiences' Interactions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mpegtsmp4/"><u>「MpegTsからMP4への無償オンライン変換 - モバヴァイ」</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-30-drawing-and-sketchpad-apps-for-windows-users-reviewed/"><u>2024 Approved Top 30 Drawing and Sketchpad Apps for Windows Users Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-mememix-download-now/"><u>2024 Approved Ultimate Mememix Download Now</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-list-of-narrator-commands-and-keys/"><u>Comprehensive List of Narrator Commands and Keys</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/eco-visuals-cost-free-download/"><u>Eco Visuals, Cost-Free Download</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resolve-playback-error-in-media-player/"><u>How to Resolve Playback Error in Media Player</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lifetime-dormancy-protocols-for-ms-security-software/"><u>Lifetime Dormancy Protocols for MS Security Software</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-on-how-to-fix-error-code-0x80071a90/"><u>Quick Guide on How To Fix Error Code: 0X80071A90</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/trouble-free-uploading-of-photos-on-your-iphone/"><u>Trouble-Free Uploading of Photos on Your iPhone</u></a></li>
+</ul></div>
+

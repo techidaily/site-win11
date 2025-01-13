@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Disconnected Steam Contacts W11
-date: 2024-08-16T00:52:28.224Z
-updated: 2024-08-17T00:52:28.224Z
+date: 2025-01-10T03:43:39.090Z
+updated: 2025-01-12T23:27:37.741Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 
  Restart Steam and check if the issue is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check Steam Friends & Chat Settings
 
  If restarting Steam didn’t fix the issue, you should check your account’s Friends & Chat settings. Here’s how you can do it:
@@ -46,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Opt Out of Steam’s Beta Participation
 
  Signing up for the Steam Client Beta program allows you to use Steam’s latest features before they’re officially released. However, the Beta version might make the [Steam Client unstable](https://www.makeuseof.com/steam-client-crashing-troubleshooting/), leading to the error. Follow these steps to disable the Steam Beta Client:
@@ -59,9 +57,13 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 5. Select the **No beta chosen** option.
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit Steam’s Executable
@@ -71,9 +73,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Click **Apply** and **OK** to save the new settings and restart Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Delete the Steam Appdata Folder
 
  Similar to any software that you’ve installed, Steam stores temporary files on your computer to speed up loading times and improve the user experience. However, if the stored data gets corrupted, it will negatively impact Steam’s features and functionality.
@@ -81,10 +83,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  To delete Steam’s cache, press **Windows key + R** to launch a Run dialog. Then, type **%appdata%** and press **Enter**. In the File Explorer window, locate and permanently delete the **Steam** folder.
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
 
@@ -103,15 +101,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get Back to Playing With Your Friends
 
  The tricky part about the ”Steam friends network unreachable” error is that Steam doesn’t tell you what’s wrong and how you can fix it. If you still can’t join your friends' server, you can use Steam’s Remote Play Together. Using this feature, you can even try new games as you can join your friends even if you don’t own the game or have it installed.
 
  Even if you’re not sure about the cause, there’s no reason you should miss out on having fun with your friends. We’ve put together a list of fixes that you should try to get rid of the network unreachable error.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -119,3 +116,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-enhancing-engagement-sound-synchronization-for-fb-video-posts/"><u>[Updated] 2024 Approved Enhancing Engagement Sound Synchronization for FB Video Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/binaural-bliss-broken-recovery-steps-for-2024/"><u>Binaural Bliss Broken Recovery Steps for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ditch-frustration-discover-open-source-solutions-streaming-seamlessly-with-moonlight-and-sunshine/"><u>Ditch Frustration: Discover Open-Source Solutions - Streaming Seamlessly with Moonlight & Sunshine</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guide-complet-aux-cles-pour-deplacer-un-ssd-u2-de-samsung-explication-et-tutoriel/"><u>Guide Complet Aux Clés Pour Déplacer Un SSD U.2 De Samsung : Explication Et Tutoriel</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-ease-overuse-of-cpu-power-by-dropbox-on-pcs/"><u>How to Ease Overuse of CPU Power by Dropbox on PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-pro-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 Pro 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-infinix-note-30-vip-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Infinix Note 30 VIP? Fixed | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-how-to-convert-time-lapse-to-normal-video/"><u>New In 2024, How to Convert Time-Lapse to Normal Video</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-heatwave-in-laptops-while-playing-graphically-demanding-games/"><u>Prevent Heatwave in Laptops While Playing Graphically Demanding Games</u></a></li>
+<li><a href="https://win11.techidaily.com/redoing-lost-power-setup-options-on-ws-11/"><u>Redoing Lost Power Setup Options on WS 11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-power-of-ios-181-public-beta-and-experience-enhanced-apple-intelligence-get-started-today/"><u>Unlock the Power of IOS 18.1 Public Beta & Experience Enhanced Apple Intelligence – Get Started Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-unanticipated-visual-quirks-a-countdown/"><u>Windows 11'S Unanticipated Visual Quirks: A Countdown</u></a></li>
+</ul></div>
+

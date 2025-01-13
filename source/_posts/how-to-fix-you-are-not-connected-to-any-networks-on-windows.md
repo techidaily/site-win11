@@ -1,7 +1,7 @@
 ---
 title: How to Fix You Are Not Connected to Any Networks on Windows
-date: 2024-08-16T00:56:11.576Z
-updated: 2024-08-17T00:56:11.576Z
+date: 2025-01-11T23:06:34.084Z
+updated: 2025-01-12T22:42:43.660Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/65d1648a69e474032218f98a4f9088236faaaabb2
 
  This error is often triggered due to temporary glitches, bad network adapter drivers, and issues with your Wi-Fi router or modem. Even a loose Ethernet connection can trigger this error, so make sure your Ethernet cable is firmly connected. If the issue persists, try the additional steps described below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Airplane Mode on Windows
 
  The[Airplane mode in Windows 10 and 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) works similarly to your cellular devices. When enabled, Airplane mode disables all the connectivity options, including Bluetooth and Wi-Fi. To fix it, check and disable Airplane mode to restore your Wi-Fi connectivity.
@@ -37,9 +41,6 @@ To disable Airplane mode on Windows:
 
  Another issue you may face is that Airplane mode gets stuck with no option to enable or disable it. To[fix Airplane mode stuck in Windows 11](https://www.makeuseof.com/windows-11-stuck-airplane-mode/) , check the Radio Management Service status, run the network adapter troubleshooter, or use a registry hack to turn off the feature completely.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the Windows Network Adapter Troubleshooter
 
  Windows 10 and 11 versions feature a built-in troubleshooter to find and fix common issues with the network adapter. It scans the network adapter and applies the necessary fix to restore Internet connectivity.
@@ -50,11 +51,18 @@ To run the Network Adapter troubleshooter:
 2. In the**System** tab, scroll down and click on**Troubleshoot** .  
 ![Windows 11 troubleshoot other troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-troubleshoot-other-troubleshooter.jpg)
 3. Next, click on**Other troubleshooters** to view all the available troubleshooters.  
-![Windows 11 troubleshoot other troubleshooter network adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-troubleshoot-other-troubleshooter-network-adapter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Windows 11 troubleshoot other troubleshooter network adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-troubleshoot-other-troubleshooter-network-adapter.jpg)
 4. Locate the**Network Adapter** option and click the**Run** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. After the initial scan, select the affected network adapter and click**Next** .
 6. Apply any recommended fixes and check for any improvements.
 
@@ -68,26 +76,33 @@ To reinstall the network driver:
 2. Type**devmgmt.msc** and click**OK** to open**Device Manager.**
 3. In Device Manager, expand the**Network Adapters** section.  
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Right-click on your network device and select**Update driver.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-my-computer-for-drivers.jpg)
 5. Click on**Browse my computer for drivers.**  
 ![let me pick driver from list available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/let-me-pick-driver-from-list-available-drivers-on-my-computer.jpg)
 6. Next, click **Let me pick from my list of available drivers on my computer.**  
 ![select device driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-device-driver-you-want-to-install-for-this-hardware.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 7. In the **Select the device driver you want to install for this hardware** dialog, select the top driver for your network device and click**Next** .
 8. Windows will start to install the driver. When the success message appears, close Device Manager.
 
  Check if the issue is resolved. If not, repeat the steps but with a different available driver. Usually, a generic driver from Microsoft is available. So, select a different driver from the one you installed earlier and click**Next** to finish the installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Update Your Adapter's Network Driver
 
 ![update network driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-network-driver.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If a reinstall didn't help, try to update your network adapter driver. An outdated or buggy driver can create compatibility issues. Also, if you have upgraded your OS to a newer version, your system may be missing newer driver updates.
 
@@ -112,9 +127,6 @@ To download the drivers:
 
  Additionally, use the built-in system management utility offered by your computer manufacturer. For example, HP laptops come with an HP Support Assistant utility. You can use it to find new drivers for networking and other devices on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Perform a Windows Network Reset
 
  Windows features a network reset feature as part of advanced network settings. When you perform a network reset, it removes and reinstalls the network drivers and resets other networking components to their factory default.
@@ -124,17 +136,16 @@ To download the drivers:
 1. Click on**Start** and then select**Settings** .
 2. Open the**Network & internet** tab in the left pane.  
 ![advanced network settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down and click on**Advanced network settings.**  
 ![network reset windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, click on**Network reset** .  
 ![network reset reset now windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-reset-now-windows-11.jpg)
 5. Click the**Reset** now button for**Network reset.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Yes** to confirm the action.
 
  Windows will reset your network adapters and other components and restart your PC. After the restart, check if you can connect to the Internet.
@@ -164,14 +175,12 @@ To perform a system restore using the restore point:
 4. Check the**Show more restore points option** to view all the available restore points on your computer.
 5. Select the most recent restore point and click**Next** .  
 ![select restore point windows 11 finish](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/select-restore-point-windows-11-finish.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Read the description and click**Finish** to begin the restore process. This process can take several minutes, and your computer may restart multiple times. Wait for the process to complete and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the "You Are Not Connected to Any Networks" Error on Windows
 
  You can fix this error using the built-in network adapter troubleshooter. Alternatively, reinstall a generic network adapter driver, update your driver or perform a network reset. As a last resort, use a recent restore point to restore your PC to its last working state.
@@ -182,8 +191,6 @@ To perform a system restore using the restore point:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +198,22 @@ To perform a system restore using the restore point:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-optimal-method-for-incorporating-linktree-in-tiktok-profiles/"><u>[New] 2024 Approved Optimal Method for Incorporating Linktree in TikTok Profiles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-selecting-superior-webcams-on-windows-10-for-2024/"><u>[Updated] Selecting Superior Webcams on Windows 10 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apple-hails-mondly-among-global-ed-techs-top-10/"><u>Apple Hails Mondly Among Global Ed-Tech's Top 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bypassed-gatekeeper-vr-display-settings/"><u>Bypassed Gatekeeper: VR Display Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/dampen-windows-volume-intensification-features/"><u>Dampen Windows Volume Intensification Features</u></a></li>
+<li><a href="https://win11.techidaily.com/error-resolution-for-improperly-configured-devices-addressing-the-common-challenge-of-error-code/"><u>Error Resolution for Improperly Configured Devices: Addressing the Common Challenge of Error Code ①</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-update-for-intel-integrated-graphics-drivers-on-windows-11/"><u>Latest Update for Intel Integrated Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-microsoft-store-sign-in-hurdles/"><u>Mastering Microsoft Store Sign-In Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-the-problem-camera-not-shown-dm/"><u>Remedy the Problem: Camera Not Shown DM</u></a></li>
+<li><a href="https://win-dash.techidaily.com/sony-vaio-driver-downloads-for-windows-installation-tutorial/"><u>Sony Vaio Driver Downloads for Windows - Installation Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-pcs-office-suite-install-on-new-windows/"><u>Transforming PCs: Office Suite Install on New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-camera-function-with-error-code-0xa00f425d/"><u>Unblocking Camera Function with Error Code: 0XA00F425D</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-full-potential-with-powerdirector-a-comprehensive-review-for-2024/"><u>Unlocking Full Potential with PowerDirector - A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-wins-eliminating-common-display-issues/"><u>Winning at Wins: Eliminating Common Display Issues</u></a></li>
+</ul></div>
 

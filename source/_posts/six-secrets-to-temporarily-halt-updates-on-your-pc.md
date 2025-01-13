@@ -1,7 +1,7 @@
 ---
 title: Six Secrets to Temporarily Halt Updates on Your PC
-date: 2024-08-16T00:52:23.986Z
-updated: 2024-08-17T00:52:23.986Z
+date: 2025-01-09T16:59:45.041Z
+updated: 2025-01-12T19:25:22.557Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
  Fortunately, there are several ways to disable automatic Office updates on Windows. Let's go over each of those methods one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Stop Automatic Office Updates via the Settings App
 
  Windows lets you check for any pending Office updates directly from the Settings app. This allows you to install Office updates along with other system updates. If you don’t want that, you can disable the**Receive updates for other Microsoft products** option in the Settings app. Here are the steps for the same.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 ![Stop Automatic Office Updates Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Stop Automatic Office Updates Using One of Its Apps
 
  You can also opt out of automatic Office updates by using one of its apps, such as Word or Excel. Here’s how you can go about it.
@@ -49,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
  Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -59,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/5c0c9eb8f56df5fe4db5872765fea7c0cdfb1d4cf
 
 1. Open up your web browser and head over to Microsoft Download Center to[download the Administrative Template files (ADMX/ADML) for Office apps](https://www.microsoft.com/en-us/download/details.aspx?id=49030) .  
 ![Download Office Administrative Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-office-administrative-templates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 2. Double-click the downloaded**EXE file** to run it.
 3. Accept the license terms and click the**Continue** button.
 4. The installer will prompt you for a location to extract the contents. Select an empty folder and hit**OK** .
@@ -71,16 +73,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Head to**C: > Windows > PolicyDefinitions** folder.
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Return to the folder where you extracted the files and open the**admx** folder again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
 ![Copy Office ADML files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-adml-files-to-policydefinitions-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  After completing the above steps, you’re all set to disable automatic Office updates via the Group Policy Editor. Here are the steps you can follow.
 
@@ -97,13 +98,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
  You can also use the Registry Editor to make the above policy change and disable automatic Office updates on your computer. Since Registry Editor holds important settings for Windows and its apps, you should only use this method if you’re comfortable editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
@@ -130,20 +124,21 @@ No advertising on the website.
 9. Click**OK** .  
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
 ## Stop Automatic Office Updates on Windows
 
  It is almost always preferable to keep your Office apps up to date so that you can benefit from new features and security updates. Hence, if you disable automatic Office updates for some reason, don’t forget to check for new updates manually every once in a while.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +147,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-navigating-the-soundscape-downloading-and-instaling-vrecorder-for-2024/"><u>[New] Navigating the Soundscape Downloading and Instaling VRecorder for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>[New] Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-masterful-moments-a-deep-dive-into-youtube-to-facebook-sharing/"><u>2024 Approved Masterful Moments A Deep Dive Into YouTube-to-Facebook Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-ram-analysis-ranking-7-efficient-browsers/"><u>Comprehensive Ram Analysis: Ranking 7 Efficient Browsers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newly-updated-hp-officejet-njw-4500-printer-driver-software-for-optimal-performance/"><u>Download the Newly Updated HP OfficeJet Njw 4500 Printer Driver Software for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-rectifying-widespread-rainmeter-faults/"><u>Essential Tips for Rectifying Widespread Rainmeter Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-error-code-0x80072f8f-0x20000-on-windows/"><u>How to Fix the Error Code 0X80072f8f - 0X20000 on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-razer-blade-17-up-to-date-with-driver-support-for-windows-systems/"><u>How to Keep Your Razer Blade 17 Up-to-Date with Driver Support for Windows Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-masterclass-flawless-powerpoint-screen-recordings/"><u>In 2024, Masterclass Flawless PowerPoint Screen Recordings</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-ios-auditory-pleasures/"><u>In 2024, The Ultimate Guide to iOS Auditory Pleasures</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-game-pass-connectivity-post-error/"><u>Reestablishing Game Pass Connectivity Post-Error</u></a></li>
+<li><a href="https://win11.techidaily.com/stifling-windows-update-seekings/"><u>Stifling Windows Update Seekings</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-collaboration-5-preferred-windows-fs-apps/"><u>Streamlined Collaboration: 5 Preferred Windows FS Apps</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-basic-to-brilliant-adding-effects-in-fcp-x-in-3-easy-steps/"><u>Updated 2024 Approved From Basic to Brilliant Adding Effects in FCP X in 3 Easy Steps</u></a></li>
+</ul></div>
 

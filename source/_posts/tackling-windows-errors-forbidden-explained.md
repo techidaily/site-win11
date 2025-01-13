@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows Errors: Forbidden Explained"
-date: 2024-08-16T00:53:00.667Z
-updated: 2024-08-17T00:53:00.667Z
+date: 2025-01-09T00:30:24.498Z
+updated: 2025-01-13T08:25:59.231Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 
  Once you're confident there is no server-side issue, apply the appropriate fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Next, Apply Preliminary Checks
 
  First, apply the following preliminary checks before attempting any of the fixes below:
@@ -53,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 
  If switching browsers resolves the error, indicating a browser-specific issue, apply the following fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Clear the History, Cache, and Cookies on Your Browser
 
 ![an image showing a processing progress bar, an hourglass and cookies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/11/Manually-and-Automatically-Clear-Browser-History-Featured.jpg)
@@ -66,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 
  We have guides on clearing browsing data in[Chrome](https://www.makeuseof.com/clear-browsing-data-google-chrome/) ,[Firefox](https://www.makeuseof.com/clear-cache-firefox/) , and[Edge](https://www.makeuseof.com/how-to-clear-microsoft-edge-cache-browsing-data/) . When clearing the data, check the boxes for cache and cookies too. If you're using another browser, refer to its official website for instructions about cleaning it up.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 2\. Reset Your Browser
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
@@ -77,17 +75,14 @@ thumbnail: https://thmb.techidaily.com/3afd30f31da7656743dda52f15a6af22d0fe17904
 
  Every browser has a different reset process. For the most-used browsers, we have a guide on[how to reset Chrome and Firefox](https://www.makeuseof.com/tag/reset-chrome-firefox/) . If you are using a different browser, refer to the official guidelines provided by that particular browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Network Related Issues
 
  If changing the network connection fixes the problem on your device, and you want to use your primary network, then apply these fixes:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### 1\. Disable or Enable Your VPN
 
  First, ensure that the website's server hasn't blocked your IP address. Enabling a VPN connection is the best way to do this. With a VPN connection, you can mask your real IP address, which might be blocked on the website where this error occurs. It also helps you eliminate the possibility of specific content being unavailable in your area.
@@ -97,44 +92,40 @@ No advertising on the website.
 Proceed to the next step if either of these changes does not help.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Change Your DNS
 
  Sometimes your ISP blocks you from accessing certain types of web content. If the site you're accessing also falls under the blocked content, you'll likely encounter errors. Changing your DNS can help eliminate this possibility. If you're unfamiliar with the process, check out[our guide on how to change DNS in Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### 3\. Disable Any Proxy Servers You Are Using
 
 ![storage servers placed on top of one another in a room](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/storage-servers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Do you prefer to browse the web privately and always keep your proxy server on at all times? If so, the proxy server could be causing the interference. The best way to determine whether this is the case is to disable it and see if it fixes the issue. Our guide explains[how to turn off or disable the proxy setting](https://www.makeuseof.com/windows-11-disable-proxy/) if you've never done it before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Ensure the Firewall Isn't Causing the Problem
 
  The Windows firewall or antivirus can prevent you from accessing specific URLs. To prevent that from happening, whitelist the browser in firewall settings. Don't know where to begin? Check out our guide on[how to whitelist any app through a Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix Annoying Browser Errors on Windows
 
  Random errors can upset us when accessing our favorite content. Hopefully, after applying the fixes in this article, you should be able to fix the annoying "you don't have permission to access / on this server" error. If the error persists on your default browser, you should switch to another browser and make it your default.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +134,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-10-essential-methods-to-record-virtual-seminars-at-no-expense-for-2024/"><u>[New] 10 Essential Methods to Record Virtual Seminars at No Expense for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-adding-clear-timestamps-to-your-youtube-channels-live-streams/"><u>[Updated] Adding Clear Timestamps to Your YouTube Channel's Live Streams</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-mythical-device-spec-error-in-windows-11/"><u>Fixing Mythical Device Spec Error in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-nokia-g22-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Nokia G22 Devices | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-p40-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel P40 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-10-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 10 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigate-through-photoshop-errors-with-ease-resolving-the-full-scratch-disk-issue/"><u>Navigate Through Photoshop Errors with Ease: Resolving the Full Scratch Disk Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/technique-to-turn-off-keyboard-for-your-win-run-devices/"><u>Technique to Turn Off Keyboard for Your Win-Run Devices</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-solutions-resolving-issues-with-iphones-guided-access-feature/"><u>Top Solutions: Resolving Issues with iPhones' Guided Access Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-autodelete-a-compreenas-guide-to-disk-management/"><u>Win11's Autodelete: A Compreenas Guide to Disk Management</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-drop-error-step-by-step-solutions/"><u>Win11's Drop Error: Step-by-Step Solutions</u></a></li>
+</ul></div>
 

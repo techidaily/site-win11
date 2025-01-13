@@ -1,7 +1,7 @@
 ---
 title: Maximizing Your Windows 11 Experience with Forgotten Features
-date: 2024-12-31T17:38:51.362Z
-updated: 2025-01-06T17:43:35.662Z
+date: 2025-01-10T17:46:45.720Z
+updated: 2025-01-12T17:40:29.940Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Windows 11 Features You Ought to Familiarize Yourself With
 
  Here are a few features of Windows 11 we think you should know about and use more often:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Get Familiar With Snap Layouts
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  We’ve got a comprehensive article on[how to use the new Windows 11 Focus Sessions](https://www.makeuseof.com/how-to-use-windows-11-focus-sessions/) , which explains what they are and guides you to set things up so you can get the most out of your time at your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Leverage the Clipboard Manager
@@ -71,7 +67,15 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 ![The Clipboard history tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-clipboard-history-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though it may seem overwhelming, there’s nothing complicated about[using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Quicker Text Capture With Voice Typing
 
@@ -80,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to[set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use Taskbar Hotkeys for Fast Switching
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
  The Windows 11 taskbar automatically sets up hotkeys when you pin items to it. Not sure what a hotkey is? We’ve got more about them and[how to make your own hotkeys](https://www.makeuseof.com/what-is-a-hotkey-how-to-make-custom/) .
 
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
@@ -120,15 +120,24 @@ thumbnail: https://thmb.techidaily.com/46a1cbcc9f3ef94937263b6008c9b5073cf79aa9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eading-list-of-16-youtube-openers-for-audience-expansion/"><u>[New] Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-photographers-resource-efficient-online-photo-cropping/"><u>2024 Approved The Photographer's Resource Efficient Online Photo Cropping</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-writing-skills-on-a-windows-machine/"><u>Elevate Your Writing Skills on a Windows Machine</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-steams-missing-files-hurdle-on-win11-os/"><u>Overcoming Steam's Missing Files Hurdle on Win11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-mcuicntexe-execution-issue-on-pcs/"><u>Resolving McUICnt.exe Execution Issue on PCs</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-how-to-get-your-overwatch-push-to-talk-feature-up-and-running-again/"><u>Solved! How to Get Your Overwatch Push-to-Talk Feature Up and Running Again</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-rectifying-rdp-errors-in-windows-11/"><u>Strategies for Rectifying RDP Errors in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-bad-chunks-repairing-sector-issues/"><u>Tackling Bad Chunks: Repairing Sector Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-cropping-and-editing-music-in-canva-for-2024/"><u>The Ultimate Guide Cropping & Editing Music in Canva for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-record-iphoneipads-screen-2023-latest-method/"><u>[New] In 2024, How to Record iPhone/iPad’s Screen [2023 Latest Method]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-professional-smoothness-blurring-the-video-backdrop/"><u>[New] Professional Smoothness Blurring the Video Backdrop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-of-audible-alteration-a-journey-through-cost-free-audio-effects-software/"><u>[Updated] 2024 Approved The Art of Audible Alteration A Journey Through Cost-Free Audio Effects Software</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-navigating-free-vs-paid-the-ultimate-guide-to-downloading-videos-from-vimeo/"><u>[Updated] Navigating Free Vs. Paid The Ultimate Guide to Downloading Videos From Vimeo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-streaming-equipment-for-broadcasters/"><u>2024 Approved Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-basics-for-windows-users-how-to-connect-and-configure-unfamiliar-speakers/"><u>Audio Basics for Windows Users: How to Connect and Configure Unfamiliar Speakers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensible-steps-to-resolve-usb-not-recognized-in-virtualbox/"><u>Comprehensible Steps to Resolve 'USB Not Recognized' In VirtualBox</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-11-in-depth-look-at-new-backup-method/"><u>Decoding Windows 11: In-Depth Look at New Backup Method</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortlessly-overcome-csgo-crashing-issues-with-these-proven-fixes/"><u>Effortlessly Overcome CS:GO Crashing Issues with These Proven Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delay-the-end-of-use-extending-shutdown-in-running-windows-10/"><u>How to Delay the End of Use: Extending Shutdown in Running Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unlock-and-activate-a-dormant-windows-guard/"><u>How to Unlock and Activate a Dormant Window's Guard</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>In 2024, Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-steam-speed-for-better-windows-gaming/"><u>Optimizing Steam Speed for Better Windows Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-black-screen-in-windows-remote-access/"><u>Overcoming Black Screen in Windows Remote Access</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-error-code-0xc0000005/"><u>Overcoming Windows Error Code 0XC0000005</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-repeated-asks-to-log-in-on-microsoft-teams-windows-edition/"><u>Remedying Repeated Asks to Log In on Microsoft Teams Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-over-error-80080300-strategies-for-smooth-team-updates-on-w11/"><u>Winning Over Error 80080300: Strategies for Smooth Team Updates on W11</u></a></li>
 </ul></div>
 

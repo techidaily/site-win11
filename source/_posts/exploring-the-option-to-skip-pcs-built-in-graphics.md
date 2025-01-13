@@ -1,7 +1,7 @@
 ---
 title: Exploring the Option to Skip PC's Built-In Graphics
-date: 2024-08-16T00:55:52.573Z
-updated: 2024-08-17T00:55:52.573Z
+date: 2025-01-09T02:41:28.375Z
+updated: 2025-01-12T19:18:12.979Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check If You Have A Dedicated GPU
 
  Before you disable your integrated GPU (iGPU), you need to verify that your computer has a dedicated GPU installed and that it's working properly. To do that, right-click an empty part of the Taskbar and select **Task Manager**.
@@ -30,33 +34,32 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ![the Performace tab of Task Manager with the dedicated GPU selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/performace-tab-of-task-manager-with-gpu-selected-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you confirm you have an extra GPU on your computer, you can disable the iGPU.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How To Turn Off Your Windows Computer’s Integrated Graphics
 
  You can disable your iGPU in the Device Manager. To do that press **Win + R** to open Windows Run. Type **devmgmt.msc** in the text box and hit the **Enter** key to [open Device Manager](https://www.makeuseof.com/windows-open-device-manager/).
 
 ![Opening device driver with windows run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/opening-device-manager-with-run.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Expand the **Display adapters** section, right-click your integrated GPU, and select **Disable device**.
 
 ![disabling an iGPU in Device Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disabling-igpu-in-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  In the prompt that appears, confirm you want to disable the iGPU by clicking on **Yes**. That should turn off the integrated graphics on your Windows computer so that the system relies on the dedicated graphics.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Turn Off Integrated Graphics?
 
  While dedicated GPUs tend to be more powerful than iGPUs and can boost your computer's graphical performance, that is not always the case.
@@ -68,15 +71,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  However, this may cause the iGPU to bottleneck the dedicated GPU in some scenarios if they're both running applications and there aren't enough system resources to go around.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Your Dedicated Graphics Card When You Need It
 
  All in all, you're better off using your dedicated graphics card, especially if you are into graphically demanding applications. But if your computer doesn't have a dedicated GPU, disabling integrated graphics is not an option. The decision depends on what you're ultimately trying to achieve on your Windows computer.
 
  In this guide, we're going to show you how to disable integrated graphics on your Windows computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -84,3 +86,25 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unleash-marketing-potential-with-unpacked-plans/"><u>[New] In 2024, Unleash Marketing Potential with Unpacked Plans</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-converting-youtube-audio-securely-master-3-proven-techniques/"><u>2024 Approved Converting YouTube Audio Securely Master 3 Proven Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-productivity-a-comprehensive-guide-to-making-multiple-directories-concurrently/"><u>Elevate Your Productivity: A Comprehensive Guide to Making Multiple Directories Concurrently</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-app-aesthetics-enable-autocolor-in-win11-devices/"><u>Empowering App Aesthetics: Enable AutoColor in Win11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/games-galore-directory-discovery-on-your-pc/"><u>Games Galore: Directory Discovery on Your PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/german-fehlender-respekt-wiedergutmachen/"><u>German: Fehlender Respekt Wiedergutmachen</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-update-error-0x80246007-in-windows-10-and-11/"><u>How to Fix the Windows Update Error 0X80246007 in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-translate-foreign-languages-with-hotkeys-in-windows-10-and-11/"><u>How to Translate Foreign Languages With Hotkeys in Windows 10 & 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-s18-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo S18</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-gionee-f3-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Gionee F3 Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-leveraging-viewership-the-mechanics-of-product-sponsored-youtube-videos/"><u>In 2024, Leveraging Viewership The Mechanics of Product-Sponsored YouTube Videos</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211304830-mastering-airpod-connectivity-easy-steps-to-sync-with-windows-11-in-the-new-year/"><u>Mastering AirPod Connectivity: Easy Steps to Sync with Windows 11 in the New Year</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-windows-11-experience-through-customization/"><u>Maximize Your Windows 11 Experience Through Customization</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-activate-the-latest-widget-selection-tool/"><u>Steps to Activate the Latest Widget Selection Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pathway-to-prominent-cursors-on-modern-windows-machines/"><u>The Pathway to Prominent Cursors on Modern Windows Machines</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-here-we-prepared-an-overview-of-the-best-split-screen-video-apps-for-ios-and-android-you-can-use-to-record-create-and-share-great-look/"><u>Updated 2024 Approved Here We Prepared an Overview of the Best Split Screen Video Apps for iOS and Android You Can Use to Record, Create, and Share Great-Looking Multimedia with Minimal Effort</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Mastering Bloatware Removal in Windows 11
-date: 2024-08-16T00:55:21.275Z
-updated: 2024-08-17T00:55:21.275Z
+date: 2025-01-08T21:48:17.608Z
+updated: 2025-01-12T21:49:19.711Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  When you buy a new PC—whether a high-end gaming device or an entry-level laptop—you expect it to be clean from the start. However, Windows 11 typically comes with at least a few unwanted pre-installed apps, called bloatware. How should you remove bloatware from your PC?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Bloatware, and Which Apps Should You Uninstall?
 
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Uninstall Bloatware Using Windows 11 Settings
 
  The easiest way to remove bloatware is [through the Windows 11 Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/). As long as you know where to go, uninstalling bloatware (or any app, for that matter) on Windows 11 is quick and simple:
@@ -53,18 +58,17 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 2. In the sidebar, click **Apps,** then choose **Installed apps**.  
 ![Windows 11 Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-menu.jpg)
 3. Under the **Installed apps** window, find the app you want to remove.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. A small pop-up window will appear after you press **Uninstall**; click on **Uninstall** again to confirm your choice.
 
  With this, you can manually remove pre-installed apps quickly, as the Settings window does not close after uninstalling one app. Note that you cannot remove some apps, like Photos and the Microsoft Store, with this method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Remove Pre-Installed Windows 11 Apps From the Start Menu
 
  Another way to remove unwanted apps is to remove them straight from the Start menu. While tedious if you plan to remove several programs, it's quick if you only need to uninstall one or two apps:
@@ -89,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 5. User Account Control will then ask if you want the app to make changes to your device; choose **Yes** to run it.
 6. **Win11Debloat – Setup** will then open in a new Windows PowerShell window. Type either **1** or **2** to choose the method of removing bloatware, then hit **Enter**.  
 ![Win11Debloat Powershell Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/win11debloat-powershell-setup.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Once you’ve chosen, remember to follow the on-screen instructions to run the uninstallation process successfully.
 
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Try a Clean Install of Windows 11
 
  If your computer has a particularly bad case of bloatware and you think Win11Debloat won’t work, a Windows 11 clean install will remove most unwanted apps. This is especially true if your computer comes with a ton of third-party apps that your PC’s manufacturer added from the factory.
@@ -110,25 +108,30 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 1. Open the Windows Settings app.
 2. In the sidebar, click on **System**, then choose **Recovery**.  
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 3. Click on **Reset PC**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. If you have any unwanted apps installed on other drives, ensure that the slider under **Delete files from all drives?** is set to **Yes, all drives**. Be careful though, as this will erase all drives connected to your PC. Don't accidentally erase external drives where you store pictures and the like!  
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 8. Once you’ve confirmed this setting, hit **Next**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
 
@@ -136,11 +139,26 @@ thumbnail: https://thmb.techidaily.com/cb431f215cf0eee5f553b44b6e0b6eba3871dc3f5
 
  Although bloatware isn’t typically dangerous, these apps are annoying as they could slow your PC down, especially if they all launch when you turn your computer on. So by removing these apps—and quickly doing so—you’re reducing your PC’s workload, allowing it to run better.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-grand-revelations-in-cinema-trailers/"><u>[New] Grand Revelations in Cinema Trailers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-projector-or-tv-optimal-choice-for-excellent-4k-display-experience/"><u>[New] Projector or TV Optimal Choice for Excellent 4K Display Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-share-audio-waves-with-followers-on-instagram/"><u>[Updated] 2024 Approved Share Audio Waves with Followers on Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/a-beginner-friendly-approach-to-srt-knowledge/"><u>A Beginner-Friendly Approach to SRT Knowledge</u></a></li>
+<li><a href="https://win11.techidaily.com/experience-the-future-first-steps-with-windows-11-widgets/"><u>Experience the Future: First Steps with Window's 11 Widgets</u></a></li>
+<li><a href="https://some-tips.techidaily.com/flip-the-script-on-phone-plus-earbuds-pairing-discover-correct-usage-tips-s-latest-guide/"><u>Flip The Script on Phone + Earbuds Pairing! Discover Correct Usage Tips 'S Latest Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-x5-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco X5 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directories-not-empty-error-code-0x80070091-in-win11-os/"><u>Overcoming Directories Not Empty Error (Code: 0X80070091) in Win11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-defense-blockade-by-domain-managers-decision/"><u>Overcoming Windows Defense Blockade by Domain Manager's Decision</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-non-functional-radeon-tools-on-windows-os/"><u>Reviving Non-Functional Radeon Tools on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-input-with-custom-shortcuts/"><u>Streamline Windows Input with Custom Shortcuts</u></a></li>
+</ul></div>
+

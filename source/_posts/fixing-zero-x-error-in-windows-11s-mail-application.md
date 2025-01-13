@@ -1,7 +1,7 @@
 ---
 title: Fixing Zero X Error in Windows 11'S Mail Application
-date: 2024-08-16T00:55:30.855Z
-updated: 2024-08-17T00:55:30.855Z
+date: 2025-01-09T03:00:02.467Z
+updated: 2025-01-13T09:22:03.576Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  Mail isn’t much good when users can’t add accounts and send emails with it. Does the 0x800713f error occur in your Mail app? If it does, you can resolve error 0x800713f with these potential resolutions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Store Apps Troubleshooter
 
  The Windows Store Apps troubleshooter doesn’t fix every app error that occurs. However, that troubleshooting tool is always worth a try whenever a UWP app like Mail throws up an error code. You can give the Windows Store Apps troubleshooter a whirl as follows:
@@ -35,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  The same troubleshooter is available in Windows 10, but the steps for accessing it in Settings are a little different. You’ll need to select the**Update & Security** category in Windows 10’s Settings app. Then select the**Troubleshoot** tab and**Additional troubleshooters** to view the list of troubleshooting tools.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the Privacy Settings for the Mail App
 
  The 0x800713f error can occur when the Mail and Calendar app isn’t allowed to access your email. So, you may need to enable email access for Mail via Settings, which is one of the most widely confirmed ways to fix the 0x800713f error. This is how you can change that privacy setting:
@@ -48,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 4. Turn on**Email access** if that option isn’t enabled.
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Toggle the**Mail and Calendar** app on if it’s not already.
 7. Also, turn on the**People** app listed there.
 
@@ -61,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to[resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
@@ -72,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 1. Open Windows Defender Firewall in your Control Panel. If you’re not sure how to access that applet, have a look at our guide for[opening the Windows firewall](https://www.makeuseof.com/windows-11-open-firewall-control-panel/) .
 2. Click the**Turn Windows Defender Firewall on or off** option situated along the left side of the WDF applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-windows-defender-firewall-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the two**Turn off Windows Defender Firewall** settings available for public and private networks.  
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-windows-defender-firewall-options.jpg)
 4. Next, press the**OK** button below the firewall settings.
@@ -86,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Log in to Windows With a Local User Account
 
  Do you log in to Windows 11 with a Microsoft account? If yes, try logging in with a local user account and utilizing Mail from there. To do that, you’ll need to switch to a local one by changing your account settings like this:
@@ -98,10 +95,11 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 3. Next, select**Your Info** inside the**Accounts** tab.
 4. Select the**Sign in** **with a local account** **instead** option.  
 ![The Sign in with a local account instead](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-with-a-local-user-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Next** on the window that asks for confirmation about switching to a local account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Type in your Microsoft account password or PIN.
 2. Then fill out the local account boxes, and select the**Next** option.  
@@ -109,11 +107,17 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 3. Press the**Sign out** **and** **Finish** button.  
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
 4. Log in to your local user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open**Mail** to check if the 0x800713f error has been fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall Mail and Calendar
 
  If nothing else resolves error 0x800713f, maybe you need to reinstall Mail and Calendar. Doing that will give you a fresh and up-to-date Mail app. You can uninstall and reinstall that app like this:
@@ -122,14 +126,16 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 2. Click**Mail and Calendar’s menu button** (with the three dots) in Apps & Features.
 3. Select Mail and Calendar’s**Uninstall** option from there.  
 ![The Uninstall option for Mail and Calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-uninstall-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click**Uninstall** a second time to remove the app.
 5. Next, open the Mail and Calendar store page in whatever alternative browser you utilize.
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Get** to reinstall Mail.
 
  The steps for reinstalling Mail in Windows 10 Settings are similar. You’ll need to select the**Apps** category in Settings. Then select Mail and Calendar in Apps & features, and press its**Uninstall** button.
@@ -144,8 +150,6 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +157,20 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-blueprint-for-seamless-integration-of-instagram-and-tiktok-for-2024/"><u>[New] Blueprint for Seamless Integration of Instagram and TikTok for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-beat-infused-imagery-mobile-video-making-on-iphone/"><u>[New] In 2024, Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-mastering-the-art-of-animation-in-viral-online-videos/"><u>[New] Mastering the Art of Animation in Viral Online Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-se-2020-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone SE (2020) Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-pc-capabilities-with-chatgpt-on-windows/"><u>Enhance PC Capabilities with ChatGPT on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pcs-prowess-tackling-lags-in-windows-11/"><u>Ignite Your PC's Prowess: Tackling Lags in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-nord-ce-3-lite-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Nord CE 3 Lite 5G Users</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-software-for-retrieving-accidentally-erased-iphone-notes-and-memos/"><u>Professional Software for Retrieving Accidentally Erased iPhone Notes and Memos</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-frozen-media-player-apps-in-windows-11/"><u>Quick Fixes for Frozen Media Player Apps in Windows 11</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/schritt-fur-schritt-anleitung-zum-loschen-und-zurucksetzen-eines-windows-pcs/"><u>Schritt-Für-Schritt-Anleitung Zum Löschen Und Zurücksetzen Eines Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-no-signs-after-os-launch/"><u>Solving No Signs After OS Launch</u></a></li>
+<li><a href="https://win11.techidaily.com/start-your-freezes-fix-handbrake-windows-issue/"><u>Start Your Freezes: Fix HandBrake Windows Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-hack-for-recovering-windows-1011-keys/"><u>The Ultimate Hack for Recovering Windows 10/11 Keys</u></a></li>
+</ul></div>
 

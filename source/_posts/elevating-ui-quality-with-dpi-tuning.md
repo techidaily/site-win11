@@ -1,7 +1,7 @@
 ---
 title: Elevating UI Quality with DPI Tuning
-date: 2024-08-16T00:53:46.888Z
-updated: 2024-08-17T00:53:46.888Z
+date: 2025-01-06T18:52:09.518Z
+updated: 2025-01-12T22:56:38.192Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
  DPI stands for "dots per inch" and it refers to the number of individual dots that can be packed into an inch of space on your screen. The higher the number, the sharper and clearer the display. But here's the thing, sometimes you might want your text and images to be bigger, while at other times, you might want them smaller. That's where DPI scaling comes in; it's your very own personal adjustment tool.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling via Windows Settings
 
  The Settings app is the simplest and easiest way to change display scaling in Windows 11\. Here's how to do it.
@@ -37,17 +38,18 @@ thumbnail: https://thmb.techidaily.com/31170fc82b47adef76e35b1dbe5e6312865cece8c
 4. Scroll down to the**Scale and layout** section.
 5. Next to the**Scale** option, click the dropdown menu and change the scaling.  
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 6. Select the one that best fits your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you've made your changes, close the window and restart your computer, so the changes take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Change Display DPI Scaling Using the Registry Editor
 
  If the Settings app isn't working, or you don't have access to it, you can change the scaling through the Registry Editor. But keep in mind that it can be a bit tricky, and you should[back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making any changes.
@@ -64,10 +66,12 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 
 1. Choose one of the following Value data fields and set the base to**Decimal** .  
 ![Change Display DPI Scaling in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-in-windows.jpg)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 | Value data | DPI scale                  |  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 | ---------- | -------------------------- |  
 | 96         | Smaller 100% (Recommended) |  
 | 120        | Medium 125%                |  
@@ -80,29 +84,25 @@ HKEY_CURRENT_USER\Control Panel\Desktop
 2. When you're done making these changes, click**OK** to save them.
 3. Next, double-click**Win8DpiScaling** in the right pane. If you don't see the Win8DpiScaling DWORD key there, you must create it manually in the same way as you created LogPixels.  
 ![Change Display DPI Scaling Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-display-dpi-scaling-using-registry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. In the pop-up menu, set the Value data to**0** if you set Logpixels to 96, or**1** if you used any other value.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Hexadecimal** as the base and click**OK** .
 
  After performing the above steps, restart your computer to take effect the changes. If you ever need to restore the default settings, just open Registry Editor and go to the same location. Then double-click on Win8DpiScaling and change the Value data to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Scale the Display DPI on Windows
 
  If you're in search of ways to give your screen a sharper and crisper look, change the DPI scaling! You can customize different elements displayed on your device like text size, icons, and more so that it's easier for you to read and navigate.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +111,22 @@ HKEY_CURRENT_USER\Control Panel\Desktop
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>[Updated] Classroom Visuals Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-efficiency-with-6-top-computer-utilization-apps/"><u>Enhanced Efficiency with 6 Top Computer Utilization Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-uses-for-vcplusplus-redistribution/"><u>Essential Uses for VC++ Redistribution</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-non-working-imessage-features-across-iphone-ipad-and-mac-platforms/"><u>How to Resolve Non-Working iMessage Features Across iPhone, iPad and Mac Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-troubleshooting-for-windows-ui-glitches/"><u>Instant Troubleshooting for Windows UI Glitches</u></a></li>
+<li><a href="https://extra-information.techidaily.com/kodi-media-center-multimedia-alternative-for-pcs/"><u>Kodi Media Center Multimedia Alternative for PCs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/maximizing-drive-capacity-in-windows-11-with-simple-cleanup-techniques/"><u>Maximizing Drive Capacity in Windows 11 with Simple Cleanup Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/monitor-mania-tailoring-your-taskscape-with-themed-windows/"><u>Monitor Mania: Tailoring Your Taskscape with Themed Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-take-when-your-iphone-cant-detect-nearby-objects/"><u>Steps to Take When Your iPhone Can't Detect Nearby Objects</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-pinnacle-collection-best-free-aid-for-windows-11-users/"><u>The Pinnacle Collection: Best Free Aid for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tutorial-on-how-to-retain-image-thumbnails-in-ms-word-documents/"><u>Tutorial on How to Retain Image Thumbnails in MS Word Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-11-home-features/"><u>Understanding Windows 11 Home Features</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-poco-by-drfone-android/"><u>Universal Unlock Pattern for Poco</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-revolutionary-messaging-upgrade-in-ios-18-your-iphone-gets-a-new-lifesaver-not-powered-by-ai/"><u>Unveiling the Revolutionary Messaging Upgrade in iOS 18: Your iPhone Gets a New Lifesaver – Not Powered by AI</u></a></li>
+</ul></div>
 

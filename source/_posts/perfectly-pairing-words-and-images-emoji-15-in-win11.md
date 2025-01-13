@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Pairing Words and Images: Emoji 15 in Win11"
-date: 2024-08-23T06:06:23.397Z
-updated: 2024-08-24T06:06:23.397Z
+date: 2025-01-11T04:12:16.152Z
+updated: 2025-01-13T02:02:15.509Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  For convenience, while setting up ViveTool on your PC, ensure the extracted content is in the folder**C:/ViVeTool** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Emoji 15 via ViveTool
 
 ![Enable Emoji 15 using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-emoji-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After setting up ViveTool on your Windows 11 PC, you need to enable the feature ID specific to the Emoji 15 support. You can follow the below steps to enable the feature ID for the latest set of emojis from Unicode on Windows 11:
 
@@ -45,17 +53,15 @@ vivetool /enable /id:40213648
  After the restart, you will see on your emoji keyboard a bunch of new emoticons based on the Unicode 15 standard on your PC. The emoji keyboard will appear on your PC screen after you press the**Win key** +**. (period key)** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Do You Get in Emoji 15?
 
  According to the Draft Release Notes of Unicode's Emoji v15, there are only 31 recommended emojis this year, significantly less than last year's 112 recommendations. In fact, Unicode has never recommended a set of new emojis this small in its history. Also, it has happened for the first time that the recommended list does not include any new people emoji.
 
 ![Emoji 15 by Unicode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/emoji-15-edit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Image credit:[Emojipedia](https://emojipedia.org/emoji-15.0/)
 
 The 31 recommended emojis include:
@@ -100,27 +106,26 @@ The 31 recommended emojis include:
  Microsoft has its own design for all the 31 recommended emojis approved by Unicode.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will Microsoft Bring Emoji 15 to Every Windows 11 User?
 
  Emoji 15 may remain an exclusive feature for Windows Insiders, at least until the release of the Windows 11 22H2 Moment 3 update. It is possible that Microsoft will begin rolling out the Emoji 15 support via Windows 11 Moment 3, due in April. Either way, when it is generally available to everyone, you will no longer need the ViveTool to access Unicode's latest set of emojis on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Express Yourself in New Ways on Windows 11
 
  Now that you know the steps to enable Emoji 15 on your Windows 11 PC, you can express yourself in new ways and spice up your conversations. However, do not expect everything to be perfect until Microsoft makes Emoji 15 available for a stable Windows 11 release.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +134,16 @@ The 31 recommended emojis include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-from-download-to-usage-setting-up-obs-on-a-mac-for-2024/"><u>[New] From Download to Usage Setting Up OBS on a Mac for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-inshot-audio-techniques-for-professional-editors/"><u>[New] InShot Audio Techniques for Professional Editors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-building-your-screencasting-skills-from-the-ground-up/"><u>[Updated] In 2024, Building Your Screencasting Skills From the Ground Up</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-m6-pro-4g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco M6 Pro 4G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/fixed-websites-refusing-entry-solutions-for-windows-users/"><u>Fixed Websites Refusing Entry: Solutions for Windows Users</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/it-must-include-the-name-purpose-and-principal-place-of-business-for-the-corporation/"><u>It Must Include the Name, Purpose, and Principal Place of Business for the Corporation.</u></a></li>
+<li><a href="https://win11.techidaily.com/live-stream-success-the-art-of-capturing-gameplays-via-intelligence/"><u>Live Stream Success: The Art of Capturing Gameplays via Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-app-starts-with-missing-qt-plugins/"><u>Troubleshooting App Starts with Missing Qt Plugins</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-worlds-how-to-incorporate-apple-maps-into-windows/"><u>Uniting Worlds: How to Incorporate Apple Maps Into Windows</u></a></li>
+</ul></div>
 

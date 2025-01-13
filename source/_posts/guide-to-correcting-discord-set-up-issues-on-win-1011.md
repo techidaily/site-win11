@@ -1,7 +1,7 @@
 ---
 title: Guide to Correcting Discord Set-Up Issues on Win 10/11
-date: 2024-08-16T00:53:56.412Z
-updated: 2024-08-17T00:53:56.412Z
+date: 2025-01-07T21:37:42.421Z
+updated: 2025-01-12T17:54:41.741Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 ![The Download Public Test Build button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-public-test-build.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the Windows Troubleshooter for Installing and Uninstalling Programs
 
  The Microsoft Program Install and Uninstall troubleshooter resolves issues blocking software installation by examining the registry. So, running the troubleshooter could feasibly be a solution for the “Installation has failed” error. You can download and open the Program Install and Uninstall troubleshooter in the following steps:
@@ -41,10 +38,23 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 4. Double-click**MicrosoftProgram\_Install\_and\_Uninstall.meta.diagcab** to launch the troubleshooter.  
 ![The Program Install and Uninstall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-program-install-and-uninstall-troubleshooter.jpg)
 5. Select**Next** to go to the first step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Installing** to view a program list.
 7. Select**Discord** if you can see that software on the list. If Discord isn’t there, click the**Not listed** option.  
 ![The program selection list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-program-list.jpg)
 8. Then press**Next** again to start troubleshooting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Any Background Discord Processes
 
@@ -55,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 3. Look for Discord-related processes within the Background processes section.
 4. Right-click any Discord process you find and select**End task** .  
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Repeat the fourth step for all Discord-related processes.
 6. Try installing Discord after disabling related background processes.
 
@@ -68,23 +75,26 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 1. Open the Power User menu (right-click the**Start** icon), and select**Run** .  
 ![The Run shortcut on the Power User menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-run-option.jpg)
 2. Type**%appdata%** into Run and click**OK** to bring up a Roaming directory.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click a Discord data folder in the Roaming directory to select**Delete** .  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-delete-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Launch**Run** again, and input**%localappdata%** inside its**Open** box.
 5. Select**OK** to view a Local folder.
 6. Right-click a Discord data folder there if you can find one and select**Delete** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the Discord Setup File as an Administrator
 
  Running the Discord setup file as an administrator will ensure the installer has fuller system access, which might make a difference. To do so, open whatever folder includes the**DiscordSetup.exe** file. Then right-click**DiscordSetup.exe** to select its**Run as administrator** option.
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-as-adminstrator-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Install the .NET Framework on Windows
 
@@ -95,27 +105,26 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 3. Bring up the directory containing the downloaded**dotNetFx45\_Full\_setup.exe** file in Explorer.
 4. Double-click**dotNetFx45\_Full\_setup** to open the Microsoft .NET Framework 4.5 window.  
 ![The Microsoft .NET Framework 4.5 installer window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microsoft-net-framework-installer-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click**Continue** if that option isn’t grayed out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If .NET Framework isn’t missing, there could still be an issue with that framework. You can instead try to repair it by running the .NET Framework Repair Tool. Check out our guide about[repairing .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more details.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 7\. Turn Off Antivirus Utilities Before Installing Discord
 
  It’s not entirely unusual for antivirus utilities to cause third-party software installation issues. Antivirus apps are designed to block malware from installing, but can sometimes confuse legitimate third-party software packages to be something they aren’t. So, it’s recommended users turn off antivirus shields before attempting to install Discord.
 
 ![The Real-time protection setting in the Windows Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can turn off the Windows Security real-time protection by following the instructions in our[how to disable Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) article. If you’ve got third-party antivirus software installed, right-click its icon within the system tray to select an option for temporarily disabling the shield. You can also probably find a disable shield option within its settings tab.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 8\. Try Installing Discord in Safe Mode
 
  Some background third-party apps and drivers can also feasibly generate Discord installation issues. So, it’s also possible something in the background other than antivirus software could be causing the “Installation has failed” installation error on your PC. You can eliminate such a potential cause by installing Discord in the Windows safe mode, which disables superfluous background apps and drivers.
@@ -124,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  There are numerous ways to enter safe mode in Windows. You can do so with any of the methods in our guide for[how to enter safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) . Select the**Enable Safe Mode with Networking** option on the Startup Settings menu. Then download Discord again and try installing it in safe mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get Chatting Again in Discord for Windows
 
  The potential “Installation has failed” error solutions in this guide are among the most widely confirmed ways to fix that issue in Windows 10 and 11\. The third and fourth resolutions particularly often resolve the “Installation has failed” error for users trying to reinstall Discord. However, you can also contact Discord’s support service if nothing seems to work.
@@ -137,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs-for-2024/"><u>[New] Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-youtube-subtitles-srt-3-steps-guide/"><u>[New] Unlocking YouTube Subtitles (SRT) - 3 Steps Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>[Updated] The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-tiktok-malfunctions-resetting-or-repairing-for-2024/"><u>[Updated] TikTok Malfunctions Resetting or Repairing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-efficient-gpo-analyses-with-gpresult/"><u>Executing Efficient GPO Analyses with GPResult</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-video-memory-shortfall-for-virtual-witchcraft-university-experience/"><u>Fixing Video Memory Shortfall for Virtual Witchcraft University Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unzipping-for-srt-methods-and-tips/"><u>In 2024, Unzipping for SRT Methods and Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/"><u>IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/limit-cpu-overuse-optimizing-media-consumption-on-windows-pcs/"><u>Limit CPU Overuse: Optimizing Media Consumption on Windows PCs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-tips-for-picture-perfect-posts/"><u>Mastering Instagram Tips for Picture-Perfect Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-gl-errors-fix-for-windows-10-win11-nvidia/"><u>Overcoming GL Errors: Fix for Windows 10, Win11 Nvidia</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-display-transition-to-dynamic-wmdesk/"><u>Revolutionize Display: Transition to Dynamic WmDesk</u></a></li>
+<li><a href="https://win11.techidaily.com/routes-through-settings-access-window-11-authorization-center/"><u>Routes Through Settings: Access Window 11 Authorization Center</u></a></li>
+<li><a href="https://win11.techidaily.com/the-8-windows-11-missteps-to-forget-immediately/"><u>The 8 Windows 11 Missteps to Forget Immediately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unique-excel-skills-no-chatgpt-has/"><u>The Unique Excel Skills No ChatGPT Has</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-error-in-updates-code-0x8019/"><u>Unblocking Error in Updates: Code 0X8019</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-design-potential-with-craft-the-exceptional-document-software-for-macos-a-comprehensive-tutorial-zdnet/"><u>Unleash Your Design Potential with Craft, the Exceptional Document Software for macOS - A Comprehensive Tutorial | ZDNET</u></a></li>
+</ul></div>
 

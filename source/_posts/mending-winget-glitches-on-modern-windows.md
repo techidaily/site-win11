@@ -1,7 +1,7 @@
 ---
 title: Mending Winget Glitches on Modern Windows
-date: 2025-01-01T17:37:29.646Z
-updated: 2025-01-06T20:21:40.400Z
+date: 2025-01-09T03:37:11.891Z
+updated: 2025-01-13T01:15:30.093Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons Why Winget Stops Working on Windows
 
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
  You can also check if your Windows PC can connect to the internet. Simply open a web browser and access a website or run a web-based app to confirm internet connectivity. If the servers are down, you will have to wait until they come up live again to use Winget.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Perform a Complete System Shutdown
 
  Windows uses Fast Startup to hibernate kernel-level processes and if any of these glitch, they remain in that state after your power on the system. So, perform a complete shutdown to close and relaunch all the core services and then try to run Winget. Here’s how to do it:
@@ -61,14 +61,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 3. Your system will shut down. It will take longer than a usual shutdown because Windows will close everything.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Power on your system and try to run Winget using the Terminal app to check if it works now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update App Installer
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  Winget is a part of Windows 10 and 11 now and is shipped to PCs using the App Installer application. If you haven’t updated the App Installer in a while, you can face issues in running Winget and managing packages. Winget is included only in version 1.11.11451 or higher of the App Installer. If you have a version older than that, you cannot use Winget from the terminal.
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
 
@@ -90,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -104,7 +100,15 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
 4. Click on the **OK** button. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Open the Terminal app and check if Winget works or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 `Add-AppxPackage -DisableDevelopmentMode -Register "C:\Program Files\WindowsApps\Microsoft.Winget.Source_2021.718.1322.843_neutral__8wekyb3d8bbwe\AppXManifest.xml" -Verbose`
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -142,21 +142,17 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-syncopating-youtube-melodies-with-visuals/"><u>[New] Syncopating YouTube Melodies with Visuals</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[Updated] In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-master-zoom-recording-with-essential-gear/"><u>[Updated] Master Zoom Recording with Essential Gear</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-selected-360-cameras-for-youtube-and-facebook/"><u>2024 Approved Expertly Selected 360° Cameras for YouTube & Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-rounded-corners-in-windows-desktop/"><u>Cutting Rounded Corners in Windows Desktop</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-lost-network-connectivity-from-unplugged-cables-in-windows/"><u>Diagnosing and Fixing Lost Network Connectivity From Unplugged Cables in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-alternative-processes-to-start-your-programs-on-windows/"><u>Finding Alternative Processes to Start Your Programs on Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-reno-8t-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Reno 8T 5G</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-list-15-must-watch-unboxing-channels/"><u>In 2024, Ultimate List 15 Must-Watch Unboxing Channels</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2670369-9781515409335-life-power-and-how-to-use-it/"><u>Life Power and How to Use It | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-low-tide-the-guide-to-relaxation-on-windows/"><u>Navigating Low Tide: The Guide to Relaxation on Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-backward-typing-issues-in-windows-10/"><u>Overcoming Backward Typing Issues in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-user-profile-errors-in-windows-10-and-11/"><u>Rectifying User Profile Errors in Windows 10 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-disconnect-errors-in-windows-discord/"><u>Solutions to Disconnect Errors in Windows Discord</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-strategy-for-swift-folder-setup-in-win11/"><u>Step-by-Step Strategy for Swift Folder Setup in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-xbox-service-disconnect-error/"><u>Steps to Overcome Xbox Service Disconnect Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-tapping-into-no-cost-melodies-for-video-projects/"><u>[New] 2024 Approved Tapping Into No-Cost Melodies for Video Projects</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/"><u>[New] In 2024, Clip Groove Best BGM Choices For Today's Popular YT Shorts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-sims-4-recording-techniques-for-gamers/"><u>[New] Sims 4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-revamping-videos-the-art-of-editing-via-story-remix-and-windows-photos/"><u>[Updated] 2024 Approved Revamping Videos The Art of Editing via Story Remix and Windows Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdaviwinx-dvd-ripper/"><u>効率的にDVDをAVI形式に変換するためのWinX DVD Ripper入門 - 無料ソフトで楽しむ変換テクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-for-stopping-hyper-v-service-on-win11/"><u>Easy Steps for Stopping Hyper-V Service on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-access-setting-up-shortcut-next-to-the-windows-power-button/"><u>Efficient Access: Setting Up Shortcut Next to the Windows Power Button</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-reset-of-windows-auto-updates-and-office-patches/"><u>Quick Reset of Windows Auto-Updates and Office Patches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reconnect-your-logitech-g923-controller-expert-tips-for-resolving-connectivity-issues/"><u>Reconnect Your Logitech G923 Controller - Expert Tips for Resolving Connectivity Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/shrouded-signals-wi-fi-network-discretion-in-windows/"><u>Shrouded Signals: Wi-Fi Network Discretion in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-fixing-loadlibrary-error-87-on-pcs/"><u>Tips for Fixing LoadLibrary Error 87 on PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-realme-narzo-n55-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Realme Narzo N55 Phone</u></a></li>
 </ul></div>
 

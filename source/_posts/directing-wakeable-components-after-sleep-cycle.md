@@ -1,7 +1,7 @@
 ---
 title: Directing Wakeable Components After Sleep Cycle
-date: 2024-08-16T00:54:36.046Z
-updated: 2024-08-17T00:54:36.046Z
+date: 2025-01-06T19:27:26.306Z
+updated: 2025-01-12T16:50:28.207Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 
  Windows gives you complete control over devices that can wake your computer from a sleep state. In this guide, we will discuss how you can manage those devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check Which Devices Are Capable of Waking Your Windows PC From Sleep Mode
 
  Not every device connected to your system can wake Windows from sleep mode. You can use Command Prompt or Windows PowerShell to determine which of your devices supports waking the computer.
@@ -34,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
  On this list, you'll see devices like your keyboard, mouse, network adapter, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Which Devices Are Allowed to Wake Your Windows PC From Sleep Mode
 
  Command Prompt or PowerShell can also tell you which devices are permitted to wake your Windows PC from sleep mode. Here's how to find out.
@@ -44,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/d4eab409da91970ce7997d6d71b3df31e4667cec8
 2. Type the following command and press**Enter** to view a list of devices that are allowed to wake your computer from sleep mode.  
 `powercfg -devicequery wake_armed`  
 ![Devices Are Allowed to Wake Your Windows PC From Sleep Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Devices-Are-Allowed-to-Wake-Your-Windows-PC-From-Sleep-Mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Find Out What Woke Your Windows PC From Sleep Mode
 
  Many times, you may find that your Windows computer wakes from sleep mode on its own. Often, it's one of the connected devices or processes that causes your computer to wake up. Windows can tell you exactly what woke your computer from sleep mode.
@@ -62,17 +67,11 @@ The powerful video editing program for your Windows PC</a>
 3. Input the following command and press**Enter** .  
 `powercfg -lastwake`  
 ![Check What Woke Windows From Sleep](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-What-Woke-Windows-From-Sleep.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you run the above command, Windows will tell you which device or process woke your computer from sleep mode.
 
  If you see something like**Wake History Count - 0** , it means that Windows doesn't have a record of wake history. This can happen if you've recently rebooted your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## How to Allow or Deny a Device Permission to Wake Your Windows PC From Sleep Mode
 
  Once you know which devices are waking up your computer without your consent, you can take the necessary steps to prevent them from doing so.
@@ -92,20 +91,18 @@ To allow or deny a device permission to wake your computer:
  Aside from your devices, your network connections, scheduled tasks, and background wake timers can also wake Windows from sleep mode. If you want to stop that from happening, check our guide on[how to prevent your Windows computer from waking up randomly](https://www.makeuseof.com/tag/stop-windows-computer-randomly-waking/) .
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Manage Your Computer’s Sleep
 
  Now you know what devices can wake your computer from a sleep state and how to prevent them from doing so. That said, putting your computer in sleep mode may not always be the best option for your laptop. Sometimes, it’s better to shut it down completely.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -114,4 +111,20 @@ To allow or deny a device permission to wake your computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-peervid-grabber-fb-live/"><u>[Updated] 2024 Approved PeerVid Grabber FB Live</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[Updated] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-infinix-note-30-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Infinix Note 30</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-solutions-winning-windows-nintendo-emulators/"><u>Cutting-Edge Solutions: Winning Windows Nintendo Emulators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy F15 5G Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-realme-narzo-60-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Realme Narzo 60 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-and-11-file-share-functionality/"><u>Mastering Windows 11 & 11 File-Share Functionality</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cropping-images-in-fcpx-tips-tricks-and-best-practices/"><u>New In 2024, Cropping Images in FCPX Tips, Tricks, and Best Practices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/remedy-for-warped-gopro-imagery-a-comprehensive-tutorial-for-2024/"><u>Remedy for Warped GoPro Imagery A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-chrome-screen-blankness-issue/"><u>Resolving Chrome Screen Blankness Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/shortcut-to-engagement-analyzing-facebooks-video-trends/"><u>Shortcut to Engagement Analyzing Facebook's Video Trends</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-escape-repetitive-credential-entry-alerts/"><u>Strategies to Escape Repetitive Credential Entry Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quick-guide-launching-administrative-powershell-in-win11/"><u>The Quick Guide: Launching Administrative PowerShell in Win11</u></a></li>
+</ul></div>
 

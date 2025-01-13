@@ -1,7 +1,7 @@
 ---
 title: "Explaining and Resolving Windows Error Code: 30005 Failure"
-date: 2024-08-16T00:54:09.022Z
-updated: 2024-08-17T00:54:09.022Z
+date: 2025-01-06T20:39:53.859Z
+updated: 2025-01-13T02:35:19.609Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
  Now that you know why you might be experiencing this error, let's discuss how you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. First, Perform Some Preliminary Checks
 
  You should first perform the following preliminary checks before moving on to the main fixes:
@@ -67,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
  If you encounter the same error again, proceed to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Can't Uninstall the EasyAntiCheat.Sys File?
 
  Some users have reported encountering an error when deleting the EasyAntiCheat.sys file that says that the file cannot be deleted since the app is running. This message indicates that Easy Anti-Cheat is running in the background, so you must turn off the program before uninstalling it. Here's how you can do it:
@@ -75,17 +76,11 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 2. Locate Easy Anti-Cheat in the list of running processes.
 3. Right-click the process and select **End task**.  
 ![Disable EasyAntiCheat Software in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-easyanticheat-priority.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Repair Any Corrupted Game Files
 
  If your game files get corrupted, Easy Anti-Cheat will consider it unauthorized tampering. Therefore, repairing them is essential. Some game clients allow you to repair corrupt files from within the client; therefore, if the game you're running offers this functionality, go ahead and repair the corrupt files.
@@ -104,6 +99,10 @@ No advertising on the website.
 
  If you aren't familiar with the process to whitelist apps, check out our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/). Likewise, visit the official website of the antivirus you're using. There, you'll find the instructions to whitelist apps in that particular software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable Kernel-Mode Hardware-Enforced Stack Protection
 
  Activating Kernel-mode Hardware-enforced Stack Protection, a security feature on Windows, interferes with Easy Anti-Cheat software, as reported by a user in a [Microsoft Community forum](https://answers.microsoft.com/en-us/windows/forum/all/kernel-mode-hardware-enforced-stack-protection/e6a47f27-fd08-4ce1-bc64-ecc4306182d3). This feature prevents malicious software from interfering with the operating system but can sometimes conflict with safe programs, such as Easy Anti-Cheat.
@@ -115,16 +114,14 @@ No advertising on the website.
 3. Click **Core isolation** in the right-hand pane.
 4. Turn off the toggle under **Kernel-mode Hardware-enforced Stack Protection**.  
 ![Disable Kernel-mode Hardware-enforced Stack Protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-kernel-mode-hardware-enforced-stack-protection-in-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Reboot your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Kernel-mode Hardware-enforced Stack Protection feature isn't available in the Device Security settings, then your processor doesn't support it. If that is the case, you can skip this fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 6\. Ensure the Easy Anti-Cheat Service Is Running
 
  Easy Anti-Cheat launches a service also named Easy Anti-Cheat when you install the program on your device. If this service isn't running, Easy Anti-Cheat will throw an error. To do so, follow these steps:
@@ -143,20 +140,15 @@ No advertising on the website.
 3. Go to the **Easy Anti-Cheat** folder.
 4. Run the Easy Anti-Cheat setup file.  
 ![Running the Easy Anti-Cheat Setup File From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-easy-anti-cheat-setup-file-from-windows-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. In the UAC window, click **Yes**.
 6. Click on **Repair Service**.  
 ![Repairing the Easy Anti-Cheat Service on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/easy-anticheat-software.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. After that, click **Finish** and run the game.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall Easy Anti-Cheat
 
  If you encounter the same error when you run the game again, it indicates that the issue has not been resolved. So, reinstall the Easy Anti-Cheat program as a last resort.
@@ -164,6 +156,10 @@ No advertising on the website.
  To do that, follow the same steps explained above and run the Easy Anti-Cheat setup file again. Then, instead of clicking on **Repair**, click on **Uninstall** in the bottom-left corner.
 
 ![Uninstalling the Easy Anti-Cheat in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstalling-the-easy-anti-cheat-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, click on **Install Easy Anti-Cheat**. Then click **Finish**.
 
@@ -177,11 +173,28 @@ No advertising on the website.
 
  So, what causes this error, and how do you fix it?
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-the-power-of-free-enhancing-your-obs-studio-projects-using-luts-for-2024/"><u>[New] The Power of Free Enhancing Your OBS Studio Projects Using LUTs for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-13-substitutes-for-kisscartoon-discover-where-to-watch-your-beloved-animations/"><u>Best 13 Substitutes for KissCartoon: Discover Where to Watch Your Beloved Animations</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/come-effettuare-il-migrato-del-tuo-sistema-operativo-su-una-diversa-memoria/"><u>Come Effettuare Il Migrato Del Tuo Sistema Operativo Su Una Diversa Memoria</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-pinpoint-intel-processors-age-in-windows-systems/"><u>Expert Tips to Pinpoint Intel Processor’s Age in Windows Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-new-bite-into-misinformed-sharing-actors/"><u>Facebook's New Bite Into Misinformed Sharing Actors</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elite-10-sound-enhancers-across-os-platforms/"><u>In 2024, Elite 10 Sound Enhancers Across OS Platforms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-trends-in-effective-podcast-naming/"><u>In 2024, Top 10 Trends in Effective Podcast Naming</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-remote-sessions-in-windows-11-no-password-needed/"><u>Jumpstart Remote Sessions in Windows 11, No Password Needed</u></a></li>
+<li><a href="https://win11.techidaily.com/perfectly-installing-google-chrome-on-windows-11/"><u>Perfectly Installing Google Chrome on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-win11-terminals-original-design/"><u>Restoring Win11 Terminal's Original Design</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-invalid-profiles-clearing-windows-1111-errors/"><u>Troubleshooting Invalid Profiles: Clearing Windows 11/11 Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-solving-recurrent-rogue-software-collapses-on-desktop-computers/"><u>Understanding and Solving Recurrent Rogue Software Collapses on Desktop Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-ultimate-potential-with-customized-radeon-graphics-settings/"><u>Unleash Ultimate Potential with Customized Radeon Graphics Settings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-6-free-talking-stock-photo-sites/"><u>Updated In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
+</ul></div>
+

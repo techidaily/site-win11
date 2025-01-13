@@ -1,7 +1,7 @@
 ---
 title: Customize Your Context Menu for a Cleaner Win 11 Experience
-date: 2024-08-16T00:54:03.614Z
-updated: 2024-08-17T00:54:03.614Z
+date: 2025-01-07T09:37:48.645Z
+updated: 2025-01-12T20:56:33.655Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
  Although it was introduced to simplify things, many users still prefer the old context menu from Windows 10\. Fortunately, you can remove Show more options from the context menu on Windows 11 by following the below methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Remove "Show More Options" From the Context Menu With Folder Options
 
  The[Windows Folder Options](https://www.makeuseof.com/windows-folder-options-guide/) in File Explorer is the go-to place to view and manage File Explorer settings. You can use it to[enable compact view in File Explorer on Windows 11](https://www.makeuseof.com/how-to-enable-compact-view-windows-11-file-explorer/) , manage file thumbnails, remove the "show more options" entry, and much more.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/43b3016567177cad6fe84b916b9b05812f511a2dc
 
 Next, restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Remove Show More Options From the Context Menu Using the Command Prompt
 
  If you're a power user, you can use Command Prompt to remove the "show more options" entry from the context menu. Here's how:
@@ -46,9 +54,6 @@ Next, restart your computer for the changes to take effect.
 `reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve`
 
 ![Command to Remove Context menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-to-remove-context-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  After executing the command, you'll see the "The operation completed successfully" message to confirm that it went through.
 
@@ -60,9 +65,6 @@ Next, restart your computer for the changes to take effect.
 
 `reg delete "HKEY_CURRENT_USER\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f​`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 3\. Remove Show More Options From the Context Menu Using the Registry Editor
 
  Another quick way to remove the "show more options" entry is through the Registry Editor. Here's what you need to do:
@@ -75,15 +77,22 @@ Next, restart your computer for the changes to take effect.
 3. Right-click on the empty space on the right pane, click**New,** and then select**DWORD** **(32-bit) Value** from the context menu.
 4. Name the value as**"UndockingDisabled"** and press**Enter** .  
 ![UndockingDisabled entry in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/undockingdisabled-entry.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the UndockingDisabled key, type**1** in the**Value data,** and click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Editing UndockingDisabled in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/editing-undockingdisabled.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Remove the "Show More Options" Entry From the Context Menu Using Winaero Tweaker
 
  There are plenty of third-party tools using which you can customize the look of your Windows 11 computer. For this guide, we will use Winaero Tweaker.
@@ -96,27 +105,17 @@ Next, restart your computer for the changes to take effect.
 ![Classic Full Context Menus option of Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/classic-full-context-menus-option.jpg)
 4. Check the**Enable classic full context menus** box.  
 ![Enable classic full context menus option in Winaero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-classic-full-context-menus.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Click the**Restart Explorer** button that appears.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Enjoy an Old School Context Menu on Windows 11
 
  The desktop context menu lets you quickly access areas like the personalization menu, display settings, and much more. In Windows 11, you get the new "Show more options" entry in the context menu. But if you prefer the old design, you can quickly disable the "Show more options" entry from the context using either of the above methods.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +124,17 @@ Next, restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mirthful-user-sign-up-saga/"><u>[New] 2024 Approved Mirthful User Sign-Up Saga</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-ultimate-guide-to-mac-based-sound-capture-in-audacity/"><u>[New] The Ultimate Guide to Mac-Based Sound Capture in Audacity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-obs-potential-strategies-involving-lut-filters/"><u>[New] Unlocking OBS Potential Strategies Involving LUT Filters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-maximize-your-listening-experience-ios-podcast-mastery-for-2024/"><u>[Updated] Maximize Your Listening Experience IOS Podcast Mastery for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-new-era-in-adventure-recording-the-ultra-30-review-for-2024/"><u>A New Era in Adventure Recording The Ultra 30 Review for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-xbox-game-pass-glitch-windows-11s-0x800700e9/"><u>Dealing with Xbox Game Pass Glitch: Windows 11'S 0X800700E9</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-toggle-registry-tool-access-in-win11/"><u>How to Toggle Registry Tool Access in Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100i Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-steam-and-windows-11-privilege-problems/"><u>Navigating Through Steam and Windows 11 Privilege Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-silent-gamepad-on-windows-platforms/"><u>Reviving Silent Gamepad on Windows Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Eradicate Partitioned Units on Your Disk in a Flash
-date: 2024-08-16T00:54:16.444Z
-updated: 2024-08-17T00:54:16.444Z
+date: 2025-01-11T02:31:12.763Z
+updated: 2025-01-13T08:05:37.656Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
  Once you complete the steps, the partition and everything on it will be gone.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Delete a Drive Partition on Windows Using the Disk Management Utility
 
  Another way to delete a drive partition on Windows is via the Disk Management tool. If you want to use that, follow these steps:
@@ -46,11 +47,16 @@ thumbnail: https://thmb.techidaily.com/1766f7bb7d62dccbd0941bc3a3d98f6308c902e15
 3. In the Disk Management window, right-click the unwanted partition and click the **Delete Volume** option.
 4. Select **Yes** to confirm.  
 ![Delete a Drive Partition Using the Disk Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-disk-management-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't want to get rid of a drive altogether? You can also choose to [hide the drive on Windows](https://www.makeuseof.com/how-to-hide-a-drive-in-windows/) using the Disk Management tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Delete a Drive Partition on Windows With the Command Prompt
 
@@ -67,15 +73,13 @@ list volume`
 6. Copy and paste the following command and press **Enter** to delete the partition.  
 `delete volume`  
 ![Delete a Drive Partition Using the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-the-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Enjoy working with the Command Prompt? If so, you will surely love our guide on [customizing the Command Prompt on Windows](https://www.makeuseof.com/windows-customize-command-prompt/).
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. How to Delete a Drive Partition on Windows via PowerShell
 
  Windows PowerShell is another command-line tool that you can use to delete a disk partition. Here are the steps you need to follow.
@@ -90,23 +94,18 @@ list volume`
 `Remove-Partition -DriveLetter X`
 7. Type **Y** and press **Enter** to confirm.  
 ![Delete a Drive Partition Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-a-drive-partition-using-powershell.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you run the above commands, PowerShell will delete the specified partition.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## There Are Many Ways to Delete Drive Partitions on Windows
 
  As we just saw, deleting a drive partition on Windows is a simple process, regardless of the method you use. Once you delete a partition, the space on that drive will be unallocated. You can then create a new partition on the empty space or use the space to expand an existing partition.
 
  This guide will show you how to delete a drive partition using the Settings app, Disk Management tool, Command Prompt, and PowerShell.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +113,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-cross-service-playlist-exchange-simplified-for-2024/"><u>[New] Cross-Service Playlist Exchange Simplified for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gratis-design-elements-for-youtube-channel-for-2024/"><u>[Updated] Gratis Design Elements for YouTube Channel for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-pairing-best-6-video-capture-tools-for-macos-for-2024/"><u>[Updated] Perfect Pairing Best 6 Video Capture Tools for MacOS for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-professionals-playbook-refined-gopro-video-production-techniques/"><u>2024 Approved The Professional's Playbook Refined GoPro Video Production Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-ea-server-offline-on-windows/"><u>Combatting the EA Server Offline On Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-windows-store-app-installs-post-error/"><u>Enabling Windows Store App Installs Post-Error</u></a></li>
+<li><a href="https://win11.techidaily.com/from-novice-to-pro-mastering-windows-11s-ui-elements/"><u>From Novice to Pro: Mastering Windows 11'S UI Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-disabling-windows-aural-amplifiers/"><u>Guide to Disabling Windows Aural Amplifiers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xs-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XS Max With or Without Password</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-games-not-opening-in-full-screen-mode-on-windows/"><u>How to Fix Games Not Opening in Full Screen Mode on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-13-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 13 using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/lighten-your-load-with-laughs-fb-detainment-chuckle-highlighters/"><u>Lighten Your Load with Laughs FB Detainment Chuckle Highlighters</u></a></li>
+<li><a href="https://facebook.techidaily.com/recharge-methodically-incorporating-facebooks-daily-break-cues/"><u>Recharge Methodically: Incorporating Facebook's Daily Break Cues</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-14-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of 14 on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-tackle-windows-snipshot-issue/"><u>Step-by-Step Guide to Tackle Windows Snipshot Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-ms-store-re-registration-on-windows-11-and-11/"><u>Streamlining MS Store Re-Registration on Windows 11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-utorrent-file-download-speed-on-pcs/"><u>Turbocharge uTorrent File Download Speed on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackling-windows-files-ending-read-lock/"><u>Unshackling Windows Files: Ending Read Lock</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-use-speed-ramping-to-create-an-intense-action-footage/"><u>Updated In 2024, How To Use Speed Ramping to Create an Intense Action Footage</u></a></li>
+</ul></div>
+

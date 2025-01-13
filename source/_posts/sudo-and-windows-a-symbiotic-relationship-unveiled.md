@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-01-05T17:41:29.025Z
-updated: 2025-01-06T16:23:01.926Z
+date: 2025-01-08T02:37:43.619Z
+updated: 2025-01-13T05:04:46.105Z
 tags:
   - windows10
   - windows11
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The sudo command on Windows lets you run commands with elevated privileges.
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
@@ -54,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -82,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 `
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
@@ -112,17 +112,16 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/21-edition-deep-dive-unraveling-vegas-pros-complexities-for-2024/"><u>'21 Edition Deep-Dive Unraveling Vegas Pro’s Complexities for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-laugh-loops-unlocked-zero-cost-humor-hub/"><u>[New] 2024 Approved Laugh Loops Unlocked Zero-Cost Humor Hub</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>[New] Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>[New] Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-elevate-your-tiktok-impact-through-masterful-cloning/"><u>[Updated] In 2024, Elevate Your TikTok Impact Through Masterful Cloning</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-virtual-verbal-excellence-proven-methods-for-effective-zoom-interactions-for-2024/"><u>[Updated] Virtual Verbal Excellence Proven Methods for Effective Zoom Interactions for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-itel-p55t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Itel P55T to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-purpose-and-use-of-windows-batch-files/"><u>Exploring the Purpose & Use of Windows Batch Files</u></a></li>
-<li><a href="https://win11.techidaily.com/investigating-ftdibussys-disruption-of-windows-memory-guardrails/"><u>Investigating ftdibus.sys: Disruption of Windows' Memory Guardrails</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-1011-sound-flaw-code-0xd36b4/"><u>Overcoming Window's 10/11 Sound Flaw: Code 0Xd36b4</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-window-explorer-tab-disappearances/"><u>Repairing Window Explorer Tab Disappearances</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/transferring-media-from-your-iphone-to-a-windows-11-or-10-pc-a-step-by-step-guide/"><u>Transferring Media From Your iPhone to a Windows 11 or 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>[New] Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-every-videographers-kit-for-2024/"><u>[New] Essential Tools for Every Videographer's Kit for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-beats-and-rhythms-capturing-sounds-with-mac/"><u>[Updated] Beats & Rhythms Capturing Sounds with Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-online-classical-tone-downloads/"><u>[Updated] Top Picks for Online Classical Tone Downloads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/alaw-mp3-online-alaw-mp3-file-converter-for-free-with-movavi/"><u>Alaw MP3 영구제 - Online Alaw MP3 File Converter for Free with Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-overlay-solutions-for-your-videos/"><u>Best Overlay Solutions for Your Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-start-saving-memories-using-lunapic-for-beginners/"><u>In 2024, Start Saving Memories Using LunaPic for Beginners</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-complex-concepts-obsidian-canvas-tips/"><u>Simplifying Complex Concepts: Obsidian Canvas Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-switching-master-control-invisibility/"><u>Stealthy Switching: Master Control Invisibility</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-combat-non-functional-speech-feature-in-word-2013plus/"><u>Tips to Combat Non-Functional Speech Feature in Word 2013+</u></a></li>
+<li><a href="https://win11.techidaily.com/virtual-readiness-webcammic-validation-steps-windows/"><u>Virtual Readiness: Webcam/Mic Validation Steps (Windows)</u></a></li>
 </ul></div>
 

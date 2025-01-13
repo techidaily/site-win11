@@ -1,7 +1,7 @@
 ---
 title: How to Fix Discord's Cannot Resize GIF Error on Windows 11
-date: 2024-08-16T00:55:09.124Z
-updated: 2024-08-17T00:55:09.124Z
+date: 2025-01-06T07:54:40.948Z
+updated: 2025-01-13T08:45:48.298Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
  A picture says a thousand words, which is why we use images and GIFs to make our conversations on Discord more interesting. However, what if Discord fails to upload a GIF emote and gives you the "cannot resize GIF" error?
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Optimize the GIF
 
@@ -45,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
 4. Click the **Save** icon.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -54,35 +59,20 @@ thumbnail: https://thmb.techidaily.com/a1248d9b4e7ad7b3aedb40cb2befdc93715f7a754
 1. Launch Discord on your computer and click the **Gear icon** at the bottom left corner.
 2. Click the **Log Out** option on the left sidebar.  
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Enter your credentials and click the **Log In** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, try to upload the GIF and check if you still face the error.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
@@ -90,22 +80,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -113,3 +103,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-peeking-beyond-ustream-live-stream-options-for-2024/"><u>[New] Peeking Beyond Ustream Live Stream Options for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-superior-editing-software-tailored-to-dji-filmmaking-for-2024/"><u>[New] Superior Editing Software Tailored to DJi Filmmaking for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-save-photo-from-video-in-windows-11-photos-app/"><u>2024 Approved How to Save Photo From Video in Windows 11 Photos App</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essentials-of-sharing-music-compilations-online/"><u>2024 Approved The Essentials of Sharing Music Compilations Online</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebot-driven-automation-enhance-your-digital-presence/"><u>Cookiebot-Driven Automation: Enhance Your Digital Presence</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-15-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-the-uncharted-with-w11s-upcoming-moment-update/"><u>Exploring the Uncharted with W11's Upcoming Moment Update</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-powershell-to-auto-move-files-on-win-11/"><u>Harnessing PowerShell to Auto-Move Files on Win 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-6s-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-undo-personalized-windows-sleep-settings/"><u>How To Undo Personalized Windows Sleep Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-honor-magic-v2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor Magic V2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/soft-install-showdown-chocolatey-vs-windows-package-manager/"><u>Soft Install Showdown: Chocolatey VS. Windows Package Manager</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-look-at-notifications-on-win-11/"><u>The Insider’s Look at Notifications on Win 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210768248-9781639190782-todo-el-zodiaco-leo/"><u>Todo el Zodiaco. Leo | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-access-steps-to-locate-and-restore-your-hidden-pin-in-win-11/"><u>Unlocking Access: Steps to Locate and Restore Your Hidden PIN in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-propelled-forward-utilizing-vivetools-features/"><u>Windows Propelled Forward: Utilizing ViVeTool's Features</u></a></li>
+</ul></div>
+

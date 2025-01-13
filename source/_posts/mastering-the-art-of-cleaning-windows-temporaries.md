@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Windows' Temporaries
-date: 2024-12-30T17:07:31.296Z
-updated: 2025-01-06T20:05:58.683Z
+date: 2025-01-12T10:08:11.288Z
+updated: 2025-01-13T02:37:08.892Z
 tags:
   - windows10
   - windows11
@@ -40,15 +40,7 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 7. Click the **Delete Files** to confirm.  
 ![Delete Temp Files Using Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-disk-cleanup.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Command Prompt
 
@@ -62,7 +54,15 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*  
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the above command to run and delete the temporary files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Empty the SoftwareDistribution Folder
 
@@ -80,11 +80,11 @@ C:\Windows\SoftwareDistribution\Download
 7. Return to the Services window, right-click on the **Windows Update** service, and select **Start**.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-softwaredistribution-folder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Edit Registry Files
 
@@ -102,7 +102,7 @@ C:\Windows\SoftwareDistribution\Download
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after this and try to delete temporary files once again.
@@ -114,7 +114,7 @@ C:\Windows\SoftwareDistribution\Download
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
@@ -135,20 +135,24 @@ C:\Windows\SoftwareDistribution\Download
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-ffmpeg-analysis-maintaining-audio-format-integrity/"><u>[New] FFmpeg Analysis Maintaining Audio Format Integrity</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-pioneering-sustainability-transforming-metropolitan-environments/"><u>[Updated] In 2024, Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition/"><u>[Updated] The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-windows-access-denied-phenomenon/"><u>Demystifying Windows' 'Access Denied' Phenomenon</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-iphone-12s-latest-feature-improved-qi-charging-that-works-without-magsafe-news/"><u>Discover iPhone 12'S Latest Feature: Improved Qi Charging that Works without MagSafe News</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-to-correct-post-update-malfunctions/"><u>Effective Methods to Correct Post-Update Malfunctions</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-for-msvcr120dll-absence-errors-on-pc/"><u>Essential Fixes for 'Msvcr120_dll' Absence Errors on PC</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-xcover-7-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/linux-uncomplicated-without-wsl/"><u>Linux Uncomplicated, Without WSL</u></a></li>
-<li><a href="https://win11.techidaily.com/master-linux-development-top-wsl-2-tips-for-windows-oses/"><u>Master Linux Development: Top WSL 2 Tips for Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-challenges-of-a-non-working-windows-notepad/"><u>Overcoming the Challenges of a Non-Working Windows Notepad</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-12-pro-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 12 Pro 5G to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/top-6-windows-productivity-tools-a-to-do-guide/"><u>Top 6 Windows Productivity Tools: A To-Do Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-clip-to-cohesive-mastering-color-in-fcp/"><u>Updated In 2024, From Clip to Cohesive Mastering Color in FCP</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/zdnet-unveils-clues-to-apples-upcoming-iphone-revolution-through-their-latest-acquisition-signaling-a-leap-towards-ai-integration/"><u>ZDNet Unveils Clues to Apple's Upcoming iPhone Revolution Through Their Latest Acquisition, Signaling a Leap Towards AI Integration</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-devices-needed-for-documenting-trips/"><u>[New] 2024 Approved Devices Needed for Documenting Trips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-high-revenue-video-visionaries/"><u>[New] In 2024, High-Revenue Video Visionaries</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-platform-variations-youtube-vs-dailymention/"><u>[Updated] 2024 Approved Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[Updated] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-edge-tips-for-enhanced-dns-configuration-in-windows-11/"><u>Cutting-Edge Tips for Enhanced DNS Configuration in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-nokia-xr21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia XR21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-install-voice-assistant-powered-chatgpt-on-your-android-device-with-voicegpt-app/"><u>How to Install Voice Assistant Powered ChatGPT on Your Android Device with VoiceGPT App</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-program-resizing-techniques-via-pc-keys-on-windows-11/"><u>Mastering Program Resizing Techniques via PC Keys on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-file-management-tools-enhancements/"><u>Mastering Windows File Management Tools Enhancements</u></a></li>
+<li><a href="https://win11.techidaily.com/method-for-ceasing-copilot-functionality/"><u>Method for Ceasing Copilot Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-to-find-wordpad/"><u>Navigating Through Windows to Find WordPad</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/rising-sea-levels-are-not-just-coastal-concerns/"><u>Rising Sea Levels Are Not Just Coastal Concerns</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-chrome-on-windows-11-with-ease/"><u>Setting Up Chrome on Windows 11 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-reversing-roblox-software-failures/"><u>Techniques for Reversing Roblox Software Failures</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/ultimate-tutorial-mastering-optical-media-burning-using-yls-windows-tools/"><u>Ultimate Tutorial: Mastering Optical Media Burning Using YL's Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-your-full-potential-the-ultimate-windows-productivity-pack/"><u>Unleash Your Full Potential: The Ultimate Windows Productivity Pack</u></a></li>
 </ul></div>
 

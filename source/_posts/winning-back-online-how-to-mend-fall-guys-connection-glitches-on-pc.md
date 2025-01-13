@@ -1,7 +1,7 @@
 ---
 title: "Winning Back Online: How to Mend Fall Guys Connection Glitches on PC"
-date: 2024-08-16T00:52:02.278Z
-updated: 2024-08-17T00:52:02.278Z
+date: 2025-01-05T23:28:00.873Z
+updated: 2025-01-12T21:26:12.305Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Your Connection
 
  Before making any changes to your network settings, ensure that a weak internet connection is not causing the issue. You can check this by visiting an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
@@ -40,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
  If the results show that your connection is unstable and weak, then you'll have to troubleshoot your connection. Check out our guide on[network diagnostic tricks you can try](https://www.makeuseof.com/tag/7-simple-steps-diagnose-network-problem/) for ways to get your connection fixed again.
 
  f manual troubleshooting makes no difference, consider contacting your ISP.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Close Network Hogging Applications from Background
 
@@ -50,15 +55,17 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
  To begin with,[launch the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and look for applications consuming the maximum bandwidth. You can detect them by looking at the Network section. Note that the higher the network value, the more bandwidth the application consumes.
 
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Temporarily Disable the Windows Firewall
 
  Windows Firewall can interfere with the working of Fall Guys and cause connection errors. The solution, in this case, is to temporarily disable the Windows Firewall.
@@ -77,9 +84,6 @@ Here's how you can do that:
 2. Click the**Change settings** button and then choose the**Allow another app** option.
 3. Click**Browse** from the window that crops up.  
 ![Browse option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to the Fall Guys installation folder. It'd be**C:\\Program Files\\Epic Games\\FallGuys** if you kept the same target location during installation.
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
@@ -87,8 +91,9 @@ Here's how you can do that:
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Any Active Proxy Servers
 
  If you're connected to a[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) , there's a chance it can cause connection issues. So, disable any proxies you are using and check if it resolves the problem. Here's how you can do it:
@@ -96,9 +101,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -111,10 +113,12 @@ Follow the below steps to change to Google DNS:
 3. Click on your connection name and choose**Properties** from the window that crops up.
 4. Select**Internet Protocol Version 4 (TCP/ IPv4)** or**Internet Protocol Version 6 (TCP/ IPv6)** and then click**Properties.**  
 ![IPv6 option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv6-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select the**Use the following DNS server addresses** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. If you're on IPv4, type**8.8.8.8** in the**Preferred DNS server** and**8.8.4.4** in the**Alternate DNS server.**
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
@@ -144,8 +148,9 @@ RetryTime=0.5`
 Launch Fall Guys and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset Winsock Settings
 
  Winsock is a program that allows programs to connect to the internet through Transmission Control Protocol/ Internet Protocol (TCP/IP). If there's something wrong with this program, apps like Fall Guys will struggle to connect to the internet.
@@ -155,10 +160,6 @@ Launch Fall Guys and check if the problem persists.
 1. Open Command Prompt with admin rights, as we covered in method four above.
 2. Type**netsh winsock reset** and press**Enter** .  
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
 Now, restart your computer and check if the problem is fixed.
 
@@ -166,14 +167,11 @@ Now, restart your computer and check if the problem is fixed.
 
  Fall Guys, like most multiplayer games, requires an internet connection to function. But when it fails to connect to the internet, it is of little use. Fortunately, it is a very common issue and can easily be fixed using the above fixes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +180,20 @@ Now, restart your computer and check if the problem is fixed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secrets-to-virality-unveiling-the-mysteries-of-engagement/"><u>[New] Instagram's Secrets to Virality Unveiling the Mysteries of Engagement</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-crafting-a-non-ad-revenue-stream-on-youtube-the-self-sustaining-creators-tale-for-2024/"><u>[Updated] Crafting a Non-Ad Revenue Stream on YouTube The Self-Sustaining Creator’s Tale for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-diving-deep-into-your-twitter-archive/"><u>[Updated] In 2024, Diving Deep Into Your Twitter Archive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-prompting-made-simple-for-chatgpt-enthusiasts/"><u>Effortless Prompting Made Simple for ChatGPT Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insight-on-the-new-iphone-15-superior-choice-for-professionals-in-depth-analysis/"><u>Expert Insight on the New iPhone 15: Superior Choice for Professionals | In-Depth Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/exposing-the-9-most-puzzling-w11-layouts/"><u>Exposing the 9 Most Puzzling W11 Layouts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Infinix Hot 40i</u></a></li>
+<li><a href="https://driver-install.techidaily.com/implement-driver-installation-canon-mx870-on-win10-8/"><u>Implement Driver Installation: Canon MX870 on Win10-8</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-display-quality-with-dpi-adjustment/"><u>Improving Display Quality with DPI Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/remedies-for-the-malfunction-of-windows-11s-brightness-control-fn/"><u>Remedies for the Malfunction of Windows 11'S Brightness Control Fn</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/stay-current-with-ease-how-to-verify-your-control-panels-up-to-date-status-by-yl-technologies/"><u>Stay Current with Ease: How To Verify Your Control Panel's Up-to-Date Status by YL Technologies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016453253-troubleshooting-the-non-functional-logitech-g633-mic-solutions-inside/"><u>Troubleshooting the Non-Functional Logitech G633 Mic - Solutions Inside!</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-desktop-website-launcher-guide/"><u>Windows Desktop Website Launcher Guide</u></a></li>
+</ul></div>
 

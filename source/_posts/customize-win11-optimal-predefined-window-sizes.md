@@ -1,7 +1,7 @@
 ---
 title: "Customize Win11: Optimal Predefined Window Sizes"
-date: 2024-08-16T00:53:39.460Z
-updated: 2024-08-17T00:53:39.460Z
+date: 2025-01-10T09:04:58.539Z
+updated: 2025-01-13T03:28:21.504Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,11 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
 6. Click the**OK** button. The software window you set a size for will then be resized to the values entered.
@@ -51,14 +56,6 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
@@ -72,20 +69,24 @@ thumbnail: https://thmb.techidaily.com/fddafecbf8d052882c8613835d6b91422875b8a8a
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 6. Make sure**Show extracted files** is selected within the extraction utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
 
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Then open the software window for which to set the size.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
 5. Press the**Ctrl** +**Alt** +**Z** hotkey to save the window’s size.
@@ -94,9 +95,9 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
@@ -110,18 +111,11 @@ Now it's time to use WinSize2 to size our windows:
  To customize WinSize2’s hotkey for saving windows, click the**Extras-1** tab. Click inside the key box, and press the keyboard buttons for an alternative hotkey. Then select the**OK** option to apply.
 
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Open Your Software at Your Preferred Window Sizes
 
  Setting software packages to open with preset window sizes will save you from manually resizing them with the mouse. Both WinSize2 and AutoSize will automatically resize software windows for you when you’ve set some preset sizes with them. The additional settings they have for saving window positions will also come in handy for opening multiple programs.
@@ -132,8 +126,6 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +133,24 @@ Now it's time to use WinSize2 to size our windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-youtubes-next-gen-streaming-made-easy-with-obs-tutorial/"><u>[New] In 2024, Youtube's Next Gen Streaming Made Easy with OBS Tutorial</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/resolved-hp-deskjet-d1360-printer-drivers-wont-install-in-windows-7-8-8110/"><u>[Resolved] HP Deskjet D1360 Printer Drivers Won’t Install in Windows 7, 8, 8.1,10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-pioneering-video-tech-s-camera-race/"><u>[Updated] In 2024, Pioneering Video Tech 'S Camera Race</u></a></li>
+<li><a href="https://win-docs.techidaily.com/guide-complet-a-la-sauvegarde-de-windows-10-sur-un-dvd-techniques-et-applications-utiles/"><u>Guide Complet À La Sauvegarde De Windows 10 Sur Un DVD: Techniques Et Applications Utiles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-civi-3-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Civi 3 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-p55-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel P55 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-solutions-for-enthusiasts-discover-what-toms-hardware-offers/"><u>Innovative Solutions for Enthusiasts – Discover What Tom's Hardware Offers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-calendar-personalization-in-windows-outlook/"><u>Mastering Calendar Personalization in Windows Outlook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-computer-gadgets-and-components-tips-from-toms-hardware/"><u>Mastering Computer Gadgets & Components - Tips From Tom's Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-lsassexe-unable-to-locate-on-windows-xpvista7/"><u>Overcoming 'lsass.exe' Unable to Locate on Windows XP/Vista/7</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-taskbar-limitations/"><u>Overcoming Windows 11 Taskbar Limitations</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-google-chrome-from-autopilot-tab-creation-in-windows/"><u>Prevent Google Chrome From Autopilot Tab Creation in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-non-recognized-hardware-problems-win1011/"><u>Remedying Non-Recognized Hardware Problems, Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-among-clumped-windows-symbols/"><u>Restoring Order Among Clumped Windows Symbols</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-preferences-adjusting-windows-11-hardware-controls/"><u>Tailored Preferences: Adjusting Windows 11 Hardware Controls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tomorrows-reality-progress-in-virtual-worlds-for-2024/"><u>Tomorrow's Reality Progress in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-adobe-photoshops-accessibility-on-w11-2023/"><u>Unblocking Adobe Photoshop's Accessibility on W11, 2023</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming System's Refusal to Run Latest Windows Version
-date: 2024-08-23T06:06:27.991Z
-updated: 2024-08-24T06:06:27.991Z
+date: 2025-01-08T06:27:48.461Z
+updated: 2025-01-13T01:40:11.833Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/41c40fc075ec41a6de89c571a5a74900b640b77fd
  Microsoft Windows 11 is here, and you can use the company's PC Health Check app to check if your PC meets the minimum system requirements to install Windows 11\. Unfortunately, for many users, running the PC Health Check app returns the This PC can't Run Windows 11 error.
 
  You will most likely encounter this error if the app detects your system hardware incompatible with Windows 11\. Fortunately, there are workarounds to get around this annoying error that may prevent you from upgrading to Windows 11 successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is the Windows 11 Upgrade Error Message?
 
@@ -51,9 +55,6 @@ Additionally, you may also see the following error:
 
  You may also encounter said error when installing Windows 11 through a bootable drive or setup file from the mounted ISO.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What Is UEFI Boot Mode?
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
@@ -75,15 +76,13 @@ Additionally, you may also see the following error:
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 1. Close all the open Windows and save your work. Then shut down your PC.
@@ -101,6 +100,10 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
 1. In BIOS/UEFI, open the**Security** tab.
@@ -111,8 +114,9 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
  If your PC doesn't support Secure Boot and TPM 2.0, you can bypass the restriction using a workaround. To do this, we will modify the registry entry, allowing you to upgrade without Secure Boot and TPM 2.0 requirements.
@@ -128,12 +132,14 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Right-click on the**MoSetup** key and selec**t New > DWORD** (32-bit) value.  
 ![registry editor mosetup new value bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-bypass-windows-11-restriction.jpg)
 5. Rename the value as**AllowUpgradeWithUnsupportedTPMorCPU.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
@@ -148,30 +154,15 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the This PC Can't Run Windows 11 Error
 
  Windows computers with the BIOS legacy firmware enabled won't be able to install Windows 11\. Fortunately, you can easily fix the error by tweaking your BIOS setup utility to enable UEFI firmware mode to enable Secure Boot and TPM 2.0.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -180,4 +171,19 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mobile-mastery-premium-iphoneandroid-tripod-matches/"><u>[Updated] In 2024, Mobile Mastery Premium iPhone/Android Tripod Matches</u></a></li>
+<li><a href="https://win11.techidaily.com/diy-windows-audio-to-text-translator-with-whisper-and-autohotkey-tools/"><u>DIY Windows Audio-To-Text Translator with Whisper and AutoHotkey Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-xs-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone XS Max Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oneplus-ace-2-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on OnePlus Ace 2 Pro online without jailbreak</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-your-device-post-error-22-in-windows-11/"><u>Regaining Control over Your Device Post-Error 22 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-create-failure-with-code-32-in-windows-error-messages/"><u>Resolving Create Failure with Code 32 in Windows Error Messages</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-zip-concealment-mastering-images-on-windows-11/"><u>Stealthy ZIP Concealment: Mastering Images on Windows 11</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722962208767-the-ratio-of-wood-to-plastic-in-wpcs-can-be-adjusted-to-tailor-properties-such-as-stiffness-strength-and-impact-resistance-for-different-applications/"><u>The Ratio of Wood to Plastic in WPCs Can Be Adjusted to Tailor Properties Such as Stiffness, Strength, and Impact Resistance for Different Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-purging-windows-protection-audits/"><u>The Ultimate Guide to Purging Windows' Protection Audits</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-v30-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme V30 Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/1726225113213-mpg-wav-movavi/"><u>오피스 상대적 MPG WAV 갱신: Movavi 자체</u></a></li>
+</ul></div>
 

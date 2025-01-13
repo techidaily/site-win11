@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2025-01-02T18:30:39.633Z
-updated: 2025-01-06T16:17:06.782Z
+date: 2025-01-08T07:29:03.536Z
+updated: 2025-01-13T07:53:12.599Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Checkboxes Using the Command Bar
 
  The quickest way to enable checkboxes in File Explorer is through the command bar. Here's how:
@@ -39,11 +35,11 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 4. Select the**Item check boxes** option.  
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
- That's it. You might need to restart your computer to see the changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it. You might need to restart your computer to see the changes.
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
@@ -59,11 +55,11 @@ Here's how to use the Folder Option to enable the checkboxes:
 5. Click**Apply** and then**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
@@ -81,10 +77,14 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
 
@@ -105,16 +105,22 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/apocalypse-alert-the-ultimate-list-of-thrilling-zombie-games/"><u>Apocalypse Alert The Ultimate List of Thrilling Zombie Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatbot-showdown-can-claude-outperform-chatgpt-in-conversation/"><u>Chatbot Showdown: Can Claude Outperform ChatGPT in Conversation?</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-sticky-note-consistency-across-w11-devices/"><u>Perfecting Sticky Note Consistency Across W11 Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-installation-problems-in-windows-store/"><u>Remedying Installation Problems in Windows Store</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/say-hello-to-ultra-hd-streaming-with-apple-tv-a-detailed-look-at-the-2021-model-and-its-cutting-edge-functions/"><u>Say 'Hello' To Ultra HD Streaming with Apple TV: A Detailed Look at the 2021 Model and Its Cutting-Edge Functions</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-techniques-to-optimize-memory-on-windows-11/"><u>Stepwise Techniques to Optimize Memory on Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-g2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-3-free-dvd-ripping-software-para-windows-11-baixe-a-versao-integral/"><u>Top 3 Free DVD Ripping Software Para Windows 11 - Baixe a Versão Integral</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-skype-call-techniques-for-effective-recordings-free-and-paid-on-computers-for-2024/"><u>Top Skype Call Techniques for Effective Recordings (Free & Paid) on Computers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-complexity-of-intel-network-driver-upgrades/"><u>Unraveling the Complexity of Intel Network Driver Upgrades</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-how-to-upload-longer-videos-to-instagram-on-mac/"><u>[Updated] In 2024, How to Upload Longer Videos to Instagram on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-time-lapse-tools-the-finest-screen-recorders/"><u>[Updated] In 2024, TOP Time-Lapse Tools - The Finest Screen Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-smiles-and-laughs-app-download/"><u>2024 Approved Smiles & Laughs App Download</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/are-video-selfies-on-instagram-really-genuine/"><u>Are Video Selfies on Instagram Really Genuine?</u></a></li>
+<li><a href="https://win11.techidaily.com/ensure-smooth-operation-of-file-explorer-on-latest-windows-11/"><u>Ensure Smooth Operation of File Explorer on Latest Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-maximize-earnings-a-three-pronged-approach-to-monitoring-youtube-revenue/"><u>In 2024, Maximize Earnings A Three-Pronged Approach to Monitoring YouTube Revenue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-infinix-note-30-vip-racing-edition-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Infinix Note 30 VIP Racing Edition FRP Without Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/make-every-device-mobile-ready-with-easy-apk-installs-on-w11/"><u>Make Every Device Mobile-Ready with Easy APK Installs on W11</u></a></li>
+<li><a href="https://win-online.techidaily.com/quick-tips-successfully-watching-mkv-files-on-sony-smart-televisions/"><u>Quick Tips: Successfully Watching MKV Files on Sony Smart Televisions</u></a></li>
+<li><a href="https://win11.techidaily.com/reigning-in-resource-usage-for-superior-android-studio-speed/"><u>Reigning in Resource Usage for Superior Android Studio Speed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-1011s-dxgi-disconnection-issues/"><u>Resolving Windows 10/11'S DXGI Disconnection Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-your-workspace-learning-fn-key-management/"><u>Secure Your Workspace: Learning Fn Key Management</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-cheap-digital-camera-list/"><u>The Cheap Digital Camera List</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-the-eye-disguise-controls-for-stealth-use/"><u>Trick the Eye: Disguise Controls for Stealth Use</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-absence-of-network-router-access/"><u>Troubleshooting Absence of Network Router Access</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-android-studios-full-potential-on-windows-pcs/"><u>Unleash Android Studio's Full Potential on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-steams-session-verification-failed-woes/"><u>Unraveling Steam's Session Verification Failed Woes</u></a></li>
 </ul></div>
 

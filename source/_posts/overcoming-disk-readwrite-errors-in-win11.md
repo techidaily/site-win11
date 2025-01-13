@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disk Read/Write Errors in Win11
-date: 2025-01-02T17:23:36.164Z
-updated: 2025-01-06T19:55:26.203Z
+date: 2025-01-05T21:21:44.173Z
+updated: 2025-01-13T06:41:32.779Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -49,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run the Windows Store App Troubleshooter
 
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
 5. Apply any suggestions the troubleshooter provides.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -80,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
@@ -95,11 +91,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -109,6 +105,14 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  To apply this potential solution, read through our guide to[utilizing System Restore and creating restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . Select a restoration date that will take your PC back to a time when there wasn’t a system file error on it. The oldest restore point available is the most likely one to do that.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
@@ -152,21 +152,24 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filming-made-easy-selecting-the-right-audio-devices/"><u>[New] 2024 Approved Filming Made Easy Selecting the Right Audio Devices</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-both-webcam-and-monitor-live-feed-for-2024/"><u>[New] Capturing Both Webcam & Monitor Live Feed for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-channel-growth-blueprint-selecting-between-studio-and-latest-beta/"><u>[Updated] 2024 Approved Channel Growth Blueprint Selecting Between Studio and Latest Beta</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-beginners-blueprint-for-launching-a-vlog-series-on-product-critiques/"><u>2024 Approved Beginner's Blueprint for Launching a Vlog Series on Product Critiques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-honor-magic-vs-2-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Honor Magic Vs 2.</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-best-ways-to-alter-image-size-on-your-windows-11-system/"><u>Discover the Best Ways to Alter Image Size on Your Windows 11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-quiet-standby-on-idle-windows-devices-w10w11/"><u>Enabling Quiet Standby on Idle Windows Devices W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-camera-not-found-in-windows-11/"><u>How to Rectify Camera Not Found in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-failed-steamui-dll-function/"><u>How To Restore Failed SteamUI Dll Function</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola FRP Locks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premier-text-motion-manuals/"><u>Premier Text Motion Manuals</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-server-glitch-ms-store-issue-on-win-11-and-11/"><u>Resolving Server Glitch: MS Store Issue on Win 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-to-google-nearby-share-on-windows/"><u>Restoring Functionality to Google Nearby Share on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-resolve-unreachable-windows-ea-server-linkup/"><u>Strategies to Resolve Unreachable Windows-EA Server Linkup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-gt-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 GT Device</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia C12 Pro without backup.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] In 2024, The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[Updated] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-bsod-memory-outputs-in-windows-os/"><u>Decoding BSOD Memory Outputs in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-minmax-processor-specifications-in-control-panel/"><u>Decoding Min/Max Processor Specifications in Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-way-to-suppress-windows-mobility-hub/"><u>Effortless Way to Suppress Windows Mobility Hub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-boutique-online-portals-for-individualized-gift-artistry/"><u>In 2024, Best Boutique Online Portals for Individualized Gift Artistry</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-gionee-f3-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Gionee F3 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-0x8004def5-onedrive-errors-in-windows-11-a-guide/"><u>Overcoming 0X8004DEF5: OneDrive Errors in Windows 11 - A Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-streaming-top-6-webcams-for-zoom-users-for-2024/"><u>Professional Streaming Top 6 Webcams for Zoom Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionary-desktops-what-comes-after-11/"><u>Revolutionary Desktops: What Comes After 11?</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-windows-explore-top-picks-from-microsofts-store/"><u>Step Up Windows: Explore Top Picks From Microsoft's Store</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-repair-isdonedll-in-windows-1011/"><u>Strategies to Repair ISDone.dll in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-taskbar-and-menu-on-windows-1011/"><u>Streamline Taskbar & Menu on Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-chaos-into-order-chatgpt-organization-techniques/"><u>Transforming Chaos Into Order: ChatGPT Organization Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreeze-windows-update-easy-to-follow-tips/"><u>Unfreeze Windows Update: Easy-to-Follow Tips!</u></a></li>
 </ul></div>
 

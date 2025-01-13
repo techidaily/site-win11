@@ -1,7 +1,7 @@
 ---
 title: Mastering Folder Descriptions in Windows 11 Explorer
-date: 2024-08-16T00:55:56.838Z
-updated: 2024-08-17T00:55:56.838Z
+date: 2025-01-09T16:16:03.769Z
+updated: 2025-01-13T05:46:02.722Z
 tags:
   - windows10
   - windows11
@@ -31,11 +31,12 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 ![File Explorer Windows Folder Comments Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-windows-folder-comments-box.png)
 4. Click **OK** to add the **Comments** column.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A **Comments** column will now be visible in the directory opened. That is where you’ll see the comment added to a folder. You can expand the width of that column by placing the mouse cursor on the left or right side of the **Comments** column header, holding the left mouse button, and dragging the mouse cursor.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Reveal the desktop.ini File for a Folder
 
  Desktop.ini is a hidden configuration file for folders. So, you must [set Explorer to show hidden files](https://www.makeuseof.com/windows-11-show-hidden-files-folders/) to see and edit desktop.ini. You will also need to [change the icon of the folder](https://www.makeuseof.com/tag/customize-icon-windows/) to which you want to add a comment to make its desktop.ini file visible. These are the steps for revealing a folder’s desktop.ini file:
@@ -43,15 +44,18 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 1. Click on the **See more** menu button on Explorer’s command bar.
 2. Select **Options** to bring up a window that includes folder settings.  
 ![The See more menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-see-more-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Click **View** to access advanced Explorer settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the circle for the **Show hidden files, folders and drives** option.
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Select **Apply** to save the new Explorer settings.
@@ -65,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a New Folder Comment With the Desktop.Ini File
 
  Now you’ll be able to see the desktop.ini file within the folder to which you want to set a custom comment. You can add a custom comment for that folder by editing its desktop.ini file as follows:
@@ -77,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 ![The Open with submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-with-option.jpg)
 4. Enter **InfoTip=Add your comment here** in the line just beneath **\[.ShellClassInfo\]** within Notepad. You can change the **Add your comment here** text to whatever you want the comment for your folder to say.  
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 5. Click Notepad’s **File** menu.
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
@@ -89,11 +91,12 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
  Return to the directory that includes the folder to which you’ve just added a comment. You’ll see the custom comment for the folder in the **Comments** column. You can add comments to many more folders by changing their icons and editing the desktop.ini files in them. Note that you’ll also need to enable the **Comments** column for each directory.
 
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Useful Comment Info to Your Folders on Windows 11
 
@@ -101,11 +104,33 @@ thumbnail: https://thmb.techidaily.com/cc7f1b37ab48f04be05ddbd8e5dcdb53a3b08ee53
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-unlock-video-quality-with-apple-music-addition-for-2024/"><u>[New] Unlock Video Quality with Apple Music Addition for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-your-instagram-memories-unchained-and-safe/"><u>[New] Your Instagram Memories, Unchained & Safe</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-enigma-of-unlisted-deciphering-hidden-youtube-footage/"><u>[Updated] 2024 Approved The Enigma of 'Unlisted' Deciphering Hidden YouTube Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-resolving-the-steam-updates-wont-download-problem/"><u>Comprehensive Guide: Resolving the 'Steam Updates Won't Download' Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-age-origins-running-smoothly-on-windows-11-troubleshooting-guide/"><u>Dragon Age: Origins Running Smoothly on Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-pc-skills-with-these-5-cmd-tricks/"><u>Elevate Your PC Skills with These 5 Cmd Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-steam-faster-pace-preventing-sudden-drops-in-speed/"><u>Enhancing Steam Faster Pace: Preventing Sudden Drops in Speed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-dynamics-of-a-game-changer-the-xbox-series-xs-potent-blend-of-power-and-visual-clarity-in-4k/"><u>Exploring the Dynamics of a Game Changer: The Xbox Series X's Potent Blend of Power and Visual Clarity in 4K</u></a></li>
+<li><a href="https://win11.techidaily.com/forceful-deletion-of-windows-11-printers-explained/"><u>Forceful Deletion of Windows 11 Printers Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guide-to-extracting-and-adding-dvd-footage-into-imovie-on-your-mac/"><u>Guide to Extracting and Adding DVD Footage Into iMovie on Your Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-initiate-wordpad-functionality-in-windows/"><u>Guide to Initiate WordPad Functionality in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-erase-the-imprint-of-epic-games-hub-on-w11/"><u>How to Erase the Imprint of Epic Games Hub on W11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-15-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oneplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked OnePlus Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-in-efficiency-10-essential-windows-apps/"><u>Masterclass in Efficiency: 10 Essential Windows Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-freeze-tips-for-resource-monitors-on-windows-11/"><u>Overcoming the Freeze: Tips for Resource Monitors on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-removing-water-from-iphone-speaker-grilles/"><u>The Ultimate Guide: Removing Water From iPhone Speaker Grilles</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-overturning-personalised-windows-11-search/"><u>Tutorial: Overturning Personalised Windows 11 Search</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-cause-and-fix-for-error-code-0x80073d26/"><u>Unlocking the Cause and Fix for Error Code: 0X80073D26</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Easily Activate Snipping Tool in Modern Windows OS
-date: 2024-08-16T00:56:12.681Z
-updated: 2024-08-17T00:56:12.681Z
+date: 2025-01-08T05:43:28.524Z
+updated: 2025-01-13T02:15:16.592Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,7 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 2. Select**All apps** in the top right corner of the Start menu.
 3. Scroll down to**Snipping tool** and click on it to start using the application.  
 ![Open Snipping Tool Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Start-Menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. How to Open the Snipping Tool via Windows Search
 
  Windows 11 comes with a new and improved search feature that simplifies file searching. With Windows Search, you can simply type what you're looking for into the search box and Windows will show you a list of matching files. This is a great way to save time and get exactly what you need.
@@ -58,18 +52,21 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 1. Open the Start Menu and type "Snipping tool" into the search bar.  
 ![Open Snipping Tool Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Snipping-Tool-Using-Windows-Search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. You should see the Snipping tool application pop up in the results. Click on it to launch the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If you don't see the Snipping tool in your results, don't worry. You can also access it by typing "scissors" into the search bar.
 4. This will bring up a shortcut to the app which you can click on to open it.
 
  Once you have the Snipping tool open, you can use it just like before to take screenshots of your screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Open the Snipping Tool by Creating a Desktop Shortcut
 
  You can find the Snipping tool by searching for it in the Start menu. However, it may be more convenient to create a desktop shortcut for the Snipping tool. Here's how to do it:
@@ -78,16 +75,19 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 2. Select**Shortcut** from the list of options.
 3. In the "Create Shortcut" window, type "snippingtool" into the text field and click**Next** .  
 ![Create Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-for-Snipping-Tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type a name for your shortcut (like "Snipping tool") and click**Finish** .  
-![Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Shortcut-for-Snipping-Tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Desktop Shortcut for Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Desktop-Shortcut-for-Snipping-Tool.jpg)
+
  Upon following the above instructions, double-click on your new shortcut to open the Snipping tool!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. How to Open the Snipping Tool Using Command Prompt or Windows PowerShell
 
@@ -129,8 +129,9 @@ To open the Snipping tool using Task Manager, follow these steps:
 The Snipping tool should now be open and ready to use!
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. How to Pin the Snipping Tool to the Taskbar
 
  If you frequently use the snipping tool to take screenshots on your Windows computer, you should consider pinning it to your taskbar. This will allow you a quick and easy way to access the tool. Here's how you do it.
@@ -141,18 +142,19 @@ The Snipping tool should now be open and ready to use!
 
  Now, whenever you need to take a screenshot, just click on the Snipping tool icon in your taskbar. You can also use the keyboard shortcut**Win + Shift + S** to open the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easy Ways to Open the Snipping Tool
 
  Despite its name, the Snipping tool can do more than just snip pictures. It can also be used to capture full-screen images, active windows, and selected areas of your screen. So whether you're trying to grab a screenshot of an issue or taking an image to share with friends, the Snipping tool has you covered.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +163,26 @@ The Snipping tool should now be open and ready to use!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-audacitys-blueprint-for-high-fidelity-sound-recording/"><u>[Updated] 2024 Approved Audacity's Blueprint for High-Fidelity Sound Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-vrs-role-in-shaping-future-films/"><u>[Updated] VR's Role in Shaping Future Films</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-failures-activation-keys-not-working-on-win11/"><u>Correcting Failures: Activation Keys Not Working on Win11</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-pvpnet-patchers-kernel-stops-functioning/"><u>Effective Fixes for When Your PvP.net Patcher's Kernel Stops Functioning</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wi-fi-discovery-capabilities-on-microsofts-new-system/"><u>Enhancing Wi-Fi Discovery Capabilities on Microsoft’s New System</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/from-the-standard-32-bit-windows-11-step-up-to-64-bits/"><u>From the Standard 32-Bit Windows 11, Step up to 64 Bits</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-7a-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 7a If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-microsoft-store-error-0x800704cf-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error 0X800704CF in Windows 10 & 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-ace-3-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Ace 3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-the-power-of-windows-diskusage-for-storage-optimization/"><u>Leveraging the Power of Windows' DiskUsage for Storage Optimization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lg-unveils-new-slimline-gram-laptop-model-a-revolution-in-portability-zdnet/"><u>LG Unveils New Slimline GRAM Laptop Model: A Revolution in Portability - ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-parental-safety-features-in-windows-11-os/"><u>Navigating Parental Safety Features in Windows 11 OS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-through-the-ultimate-guide-to-top-9-free-logos/"><u>Navigating Through The Ultimate Guide to Top 9 Free Logos</u></a></li>
+<li><a href="https://win11.techidaily.com/spotting-blank-space-on-your-drive-a-step-by-step-folder-cleanup-guide/"><u>Spotting Blank Space on Your Drive: A Step-by-Step Folder Cleanup Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-unhook-your-pc-from-w11s-mobility-center/"><u>Steps To Unhook Your PC From W11's Mobility Center</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-zoom-problems-is-it-really-your-internet-or-something-else/"><u>Troubleshooting Zoom Problems: Is It Really Your Internet, or Something Else?</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pcs-potential-with-hdd-defragmentation/"><u>Unlock Your PC's Potential with HDD Defragmentation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vlcs-advanced-webcam-functionality-for-video-archiving/"><u>VLC's Advanced Webcam Functionality for Video Archiving</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-setting-a-new-path-for-your-onedrive/"><u>Win 11: Setting a New Path for Your OneDrive</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unraveling Roblox Error 403 on Windows
-date: 2024-08-16T00:53:41.647Z
-updated: 2024-08-17T00:53:41.647Z
+date: 2025-01-10T17:22:45.504Z
+updated: 2025-01-13T09:34:29.873Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee74
 
  Now, let's check out all the working fixes to eliminate the error code and get into gaming again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 1\. Check the Roblox Server Status
 
 ![Roblox Server status in server page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-Server-page.jpg)
@@ -60,16 +56,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the search bar, type **%localappdata%** and click **OK.** It'll open the **Local** folder, which contains the cache folder of all the installed applications.
 4. Search and open the **Roblox** folder.  
 ![Roblox folder in local folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Roblox-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 5. Select everything inside by pressing the **Ctrl + A** hotkeys and then pressing **Shift + Delete** to delete the selected content permanently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable Any Active VPN Connections
 
  Whether you want to bypass geo-restriction or maintain a private connection, VPNs are key. But like anything else, it has its own share of disadvantages. For example, a VPN can sometimes slow down your connection, which means you will have to wait longer to open a web page or complete a download.
@@ -80,9 +74,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you use a third-party VPN application, the steps will vary depending on which app you're using. However, they usually have a visible button or option you can click in the main window that turns the VPN off.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run an SFC and DISM Scan
 
  The error can also occur due to corruption in Windows' files. In this situation, you can run an SFC (System File Checker) scan, a Windows inbuilt tool that scans your system for missing or corrupted files and replace them if necessary.
@@ -96,6 +87,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Sfc scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sfc-scan.jpg)
 5. Wait until the scan is complete. This may take a while, so be patient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and then check for the problem. If the issue persists, you will have to run the Deployment Image Servicing and Management command line tool to restore the system files and repair any corrupted system images. Here's how:
 
 1. Launch Command Prompt with admin rights.
@@ -105,14 +100,15 @@ Dism.exe /online /cleanup-image /restorehealth`
 
  After the scan is complete, check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Allow Roblox to Run Through Firewall
 
  Oftentimes, online games like Roblox might fail to work and throw error 403 by facing interuption from Windows Firewall. To fix this issue, you'll have to allow Roblox to run through the Windows Firewall. You can check out how to do that on our guide on [how to allow apps through Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/).
 
  After that, restart your computer and check if the issue presists. If not, try the next solution on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Switch to Google DNS
 
@@ -132,6 +128,10 @@ Dism.exe /online /cleanup-image /restorehealth`
 9. Type **2001:4860:4860::8888** in the **Preferred DNS server** box and **2001:4860:4860::8844** in the **Alternate DNS server** box.
 10. Click **OK** to save the IPv6 DNS settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Make the Registry Edit
 
  Another quick way to solve the issue is to make few registry edits and give the required persmissions to the important folders. Here's how to do that:
@@ -141,17 +141,15 @@ Dism.exe /online /cleanup-image /restorehealth`
 1. Open the Start Menu, type **regedit** and press Enter.
 2. In the Registry Editor, right click on the **HKEY\_CURRENT\_USER** folder in the left pane, and choose **Permissions** from the context menu.  
 ![Permission option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/permission-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 3. Check the **Full Control** box and then click **Apply** \> **OK**.  
 ![Full control option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/full-control-option.jpg)
 
  Similary, give full control to **HKEY\_LOCAL\_MACHINE\_SOFTWARE** folder. Then, restart your computer and you'll see you're no longer facing the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Play Roblox Without Any Issues
 
  Hopefully, one of the above fixes will help you eliminate the error code 403\. But in the worst-case scenario, if you're still facing the problem, you can consider reinstalling Roblox on your computer.
@@ -160,11 +158,28 @@ Dism.exe /online /cleanup-image /restorehealth`
 
  Fortunately, it's easy to troubleshoot Roblox's 403 error code. Try the below fixes to get rid of the issue for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-how-to-choose-a-live-streaming-platform-with-10-tips-in-2024/"><u>[Updated] How to Choose a Live Streaming Platform with 10 Tips, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>2024 Approved Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
+<li><a href="https://win-net.techidaily.com/1728486306169-windows-11/"><u>轻松将应用程序在 Windows 11 上转移到新桌面的简单指南</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-screen-going-black-while-gaming-on-windows/"><u>How to Fix the Screen Going Black While Gaming on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-understanding-whatsapps-sound-conversations/"><u>In 2024, Understanding WhatsApp's Sound Conversations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/master-your-virtual-adventures-with-the-oculus-quest-2-elite-battery-extension-and-durable-case-tested-and-reviewed/"><u>Master Your Virtual Adventures with the Oculus Quest 2 Elite - Battery Extension and Durable Case Tested & Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-time-outs-and-lag-in-windows-discord-service/"><u>Minimizing Time-Outs and Lag in Windows Discord Service</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-dual-screen-video-editor-top-free-online-and-offline-choices-for-2024/"><u>New Dual-Screen Video Editor Top Free Online and Offline Choices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/online-viewers-count-counter-for-2024/"><u>Online Viewers Count Counter for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-parseerror-0xc00ce556-in-winoss/"><u>Overcoming ParseError: 0XC00CE556 in WinOSs</u></a></li>
+<li><a href="https://win11.techidaily.com/preventive-tips-for-keeping-epic-games-launcher-active/"><u>Preventive Tips for Keeping Epic Games Launcher Active</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-error-2e-to-propel-windows-update/"><u>Resolve Error 2E to Propel Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-toolbar-actions-the-sly-way-in-win-10/"><u>Unseen Toolbar Actions: The Sly Way in Win 10</u></a></li>
+<li><a href="https://win11.techidaily.com/zero-dollars-down-for-podcast-improvement-tools/"><u>Zero Dollars Down for Podcast Improvement Tools</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Append Folders to Windows 11 Menu"
-date: 2024-08-16T00:55:54.713Z
-updated: 2024-08-17T00:55:54.713Z
+date: 2025-01-11T16:06:51.277Z
+updated: 2025-01-12T18:42:40.004Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 6. Enter a name or email address within the**User Name** box, and click**Next** again.  
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
 
@@ -40,6 +45,11 @@ Once your PC has restarted:
 3. Click the**Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Done** to exit the MyFolders window.
 
 ### How to Use MyFolders
@@ -47,24 +57,19 @@ Once your PC has restarted:
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
  Right Click Context Menu Adder is an app with which you can add a folder, program, web address, and file shortcuts to Windows 11’s right-click menu. This software comes packed in a RAR archive. So, you’ll need one of the[best RAR extraction tools](https://www.makeuseof.com/tag/how-to-open-rar-files/) like 7-Zip File Manager to open up its archive.
@@ -82,9 +87,6 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 10. Press the**OK** button to extract the RAR archive.
 11. Exit the 7-Zip software.
 
@@ -95,10 +97,12 @@ Once your PC has restarted:
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 5. Press the**Choose Folder** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -106,10 +110,6 @@ Once your PC has restarted:
  Now have a look at the folder shortcut you’ve just added to the context menu. Right-click a part of the desktop area and bring up the classic menu by selecting**Show more options** . Then you can click the folder you’ve just added to the menu to access that directory.
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
 
@@ -121,9 +121,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -135,8 +143,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +150,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-best-of-the-best-ultimate-list-of-gopro-casings/"><u>[New] 2024 Approved Best of the Best Ultimate List of GoPro Casings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-one-arm-wonders-keeping-photos-steady/"><u>[Updated] One Arm Wonders Keeping Photos Steady</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-personalized-melodies-made-easy-building-a-youtube-music-collection-on-webmobile/"><u>[Updated] Personalized Melodies Made Easy Building a YouTube Music Collection on Web/Mobile</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-digital-cash-creation-a-closer-look-at-vids-vs-videos/"><u>2024 Approved Digital Cash Creation A Closer Look at Vids Vs. Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-blur-a-picture-on-iphone-4-ways/"><u>2024 Approved How to Blur a Picture on iPhone [4 Ways]</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-building-your-ideal-everyday-carry-for-summer/"><u>Expert Tips: Building Your Ideal Everyday Carry for Summer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-fix-guide-revamping-your-synaptics-ps2-touchpad-driver-with-minimal-hassle/"><u>Quick Fix Guide: Revamping Your Synaptics PS/2 Touchpad Driver with Minimal Hassle</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-your-commands-overcoming-shortcut-setbacks-in-windows/"><u>Reclaim Your Commands: Overcoming Shortcut Setbacks in Windows</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-fixing-the-hardware-failure-blue-screen-of-death-bsod-error/"><u>Resolved: Fixing the Hardware Failure Blue Screen of Death (BSOD) Error</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-hidden-panes-6-tricks-for-windows-11/"><u>Reviving Hidden Panes: 6 Tricks for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-features-for-creatives-the-latest-in-paint-upgrades/"><u>Transformative Features for Creatives: The Latest in Paint Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-keys-down-top-strategies-to-mend-non-functional-shortcuts-in-your-os/"><u>Windows Keys Down! Top Strategies to Mend Non-Functional Shortcuts in Your OS</u></a></li>
+</ul></div>
 

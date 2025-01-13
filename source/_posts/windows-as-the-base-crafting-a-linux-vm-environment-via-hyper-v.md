@@ -1,7 +1,7 @@
 ---
 title: "Windows as the Base: Crafting a Linux VM Environment via Hyper-V"
-date: 2024-08-16T00:55:03.791Z
-updated: 2024-08-17T00:55:03.791Z
+date: 2025-01-09T09:40:14.766Z
+updated: 2025-01-12T22:01:00.926Z
 tags:
   - windows10
   - windows11
@@ -28,12 +28,13 @@ thumbnail: https://thmb.techidaily.com/72529af7d2bf02239916cd0ba31d950846919ac8a
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
 
@@ -48,9 +49,6 @@ To enable Virtualization, do as follows:
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. Install Hyper-V on the Windows Virtual Machine
 
  To install Hyper-V on the VMware Windows virtual machine, repeat the following steps.
@@ -67,8 +65,9 @@ To enable Virtualization, do as follows:
  Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Create a Linux Virtual Machine Using Hyper-V
 
  The last piece of the puzzle is to create a Linux virtual machine inside the Windows virtual machine using Hyper-V. You can pick any Linux distribution that you want. We will go with Ubuntu for this experiment. You have to download the Ubuntu ISO file inside the virtual machine from the[Ubuntu website](https://ubuntu.com/download/desktop) before starting with the steps.
@@ -78,22 +77,25 @@ To create an Ubuntu virtual machine, do as follows:
 1. Boot up the Windows virtual machine. Press the**Win key** and type Hyper-V manager. Launch the app.
 2. Navigate to the right-hand side section and click on**New > Virtual Machine** .  
 ![Create a Linux Virtual Machine Using Hyper-V 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click on the**Next** button. Enter the name of the virtual machine and click on**Next** .
 4. Click on the**Generation 1** radio button and click on Next.
 5. Keep the**Startup Memory** as**2GB** and enable the**Use Dynamic memory for this virtual machine** option.  
 ![Create a Linux Virtual Machine Using Hyper-V 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
 8. Pick the**Install an operating system from a bootable CD/DVD-ROM** option located under the Installation options section. Select the Ubuntu Image file (.iso) you downloaded before beginning this step.  
 ![Create a Linux Virtual Machine Using Hyper-V 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-4.jpg)
 9. Click on the**Next** button and review the virtual machine configuration. Then, click on the**Finish** button to create the virtual machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that the virtual machine is ready, it's time to get Ubuntu up and running:
 
@@ -108,9 +110,6 @@ To create an Ubuntu virtual machine, do as follows:
 
  The virtual machine will boot to the Ubuntu desktop. You can use Ubuntu and notice that the system runs fine inside Hyper-V just like it does on any other virtualization software.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## A Few Things to Remember
 
  Creating a virtual machine inside a virtual machine is possible. But you have to remember that the underlying configuration of the host system must be such that it can run a virtual machine inside a virtual machine without any issue. If you attempt this experiment on a low-end system with 4GB RAM and a dual-core processor, it will choke the system.
@@ -119,18 +118,19 @@ To create an Ubuntu virtual machine, do as follows:
 
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
  VMware supports hardware virtualization and can extend the feature to its virtual machines. VirtualBox is yet to catch up in this aspect because Hyper-V doesn’t work in a VirtualBox virtual machine as of writing this post. Make sure that you turn off virtualization features for the Windows virtual machine when you no longer need it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +139,24 @@ To create an Ubuntu virtual machine, do as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-the-path-stream-your-google-meet-chats-to-youtube/"><u>2024 Approved Navigating the Path Stream Your Google Meet Chats to YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-step-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>2024 Approved Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-black-illusion-vs-silver-miracle/"><u>2024 Approved The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-se-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone SE Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-controlling-winapps-and-webbrowsers/"><u>Expert Guide to Controlling WinApps and Webbrowsers</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-admin-access-launching-windows-terminal-effortlessly/"><u>Mastering Admin Access: Launching Windows Terminal Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-component-services-interface-in-windows-11/"><u>Mastering Component Services Interface in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-file-undeletion-with-recuva-an-authoritative-guide-and-performance-evaluation/"><u>Mastering File Undeletion with Recuva: An Authoritative Guide and Performance Evaluation</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-pc-efficiency-with-top-5-keyboard-cars/"><u>Maximizing PC Efficiency with Top 5 Keyboard Cars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-effortlessly-inshots-role-in-video-crafting-on-devices-for-2024/"><u>Navigate Effortlessly Inshot's Role in Video Crafting on Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-faulty-data-handling-of-usb-sticks-in-windows-os/"><u>Overcoming Faulty Data Handling of USB Sticks in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-keyboard-speed-typingaid-way/"><u>Skyrocket Your Keyboard Speed - TypingAid Way</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-playthrough-solutions-to-exit-code-woc/"><u>Streamline Playthrough - Solutions to Exit Code WoC</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-portable-speakers-for-your-backyard/"><u>Top-Rated Portable Speakers for Your Backyard</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-malwarebytes-service-access-on-windows-devices/"><u>Unblocking Malwarebytes Service Access on Windows Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/video-stories-your-brands-new-voice-for-2024/"><u>Video Stories Your Brand's New Voice for 2024</u></a></li>
+</ul></div>
 

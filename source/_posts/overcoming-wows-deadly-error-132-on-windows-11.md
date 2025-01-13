@@ -1,7 +1,7 @@
 ---
 title: Overcoming WoW's Deadly Error #132 on Windows 11
-date: 2025-01-04T17:34:22.197Z
-updated: 2025-01-06T16:02:50.226Z
+date: 2025-01-11T10:15:22.375Z
+updated: 2025-01-12T16:06:14.163Z
 tags:
   - windows10
   - windows11
@@ -35,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 ![A screenshot of the Captures setting screen for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
@@ -54,25 +50,25 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
 
  Some WoW players have also confirmed deleting that game’s **Cache** folder can fix error 132\. To do that, open the **\_retail\_** or **\_classic\_** subfolder in the World of Warcraft directory as outlined in the steps above. Then right-click the **Cache** and **Interface** subfolders and select **Delete**.
 
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
 
@@ -88,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
@@ -96,13 +96,13 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -120,21 +120,20 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-analyzing-the-financial-gains-of-podcasting/"><u>[New] Analyzing the Financial Gains of Podcasting</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/icrovid-virtuoso-for-2024/"><u>[New] MicroVid Virtuoso for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unravel-costs-liberating-your-vob-experience-pcmac/"><u>[Updated] In 2024, Unravel Costs Liberating Your VOB Experience (PC/Mac)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-precision-in-numbers-a-3-step-process-to-examine-your-youtube-earnings/"><u>[Updated] Precision in Numbers A 3-Step Process to Examine Your YouTube Earnings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-visionalign-studio-for-2024/"><u>[Updated] VisionAlign Studio for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-top-6-helmet-mounts-to-upgrade-your-adventure-photography/"><u>2024 Approved Exploring The Top 6 Helmet Mounts to Upgrade Your Adventure Photography</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/decoding-the-top-rival-to-sharex-for-2024/"><u>Decoding the Top Rival to ShareX for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-redefined-artistry-with-new-microsoft-paint-tools/"><u>Discover Redefined Artistry with New Microsoft Paint Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-the-microsoft-store-with-no-hindrances-in-win11/"><u>Enabling the Microsoft Store with No Hindrances in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/from-gaming-laptop-to-kali-focused-workstation/"><u>From Gaming Laptop to Kali-Focused Workstation</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-windows-discord-search-response-times/"><u>Improving Windows Discord Search Response Times</u></a></li>
-<li><a href="https://blog-min.techidaily.com/krijg-uw-vrije-instant-activering-voor-movavi-video-converter-gratis-keuze/"><u>Krijg Uw Vrije Instant-Activering Voor Movavi Vidéo Converter: Gratis Keuze!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-calculating-storage-space-via-windows-powershell/"><u>Mastering the Art of Calculating Storage Space via Windows Powershell</u></a></li>
-<li><a href="https://win11.techidaily.com/narrow-focus-applying-group-policy-to-one-windows-account/"><u>Narrow Focus: Applying Group Policy to One Windows Account</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-the-day-bypassing-win1011-recycle-bin-issues/"><u>Saving the Day: Bypassing WIN10/11 Recycle Bin Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/select-your-footage-editor-hero-or-cube-edition-in-2024/"><u>Select Your Footage Editor Hero or Cube Edition, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[New] In 2024, Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-survive-and-thrive-top-8-zombie-game-experiences/"><u>[Updated] 2024 Approved Survive and Thrive Top 8 Zombie Game Experiences</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-winning-instagram-viewers-with-impactful-videos/"><u>[Updated] In 2024, Winning Instagram Viewers with Impactful Videos</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/44cm5pah5a2x5lplusd5ywo55mplus56er77ya6yg5ywn5lii5asx5oiw5yig6zmk5pah5lu255qe5y2b5liq57ud5oqa44cn/"><u>「文字保全百科：避免丢失或删除文件的十个绝技」</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-and-pc-compatibility-solving-common-crashes/"><u>Call of Duty Vanguard and PC Compatibility: Solving Common Crashes</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-mobile-readable-ebooks-on-your-iphone-using-flipped-pages-interactive-and-html5-based-flipbuildercom/"><u>Create Mobile Readable eBooks on Your iPhone Using Flipped Pages - Interactive and HTML5 Based [FlipBuilder.com]</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-the-wow-factors-of-the-apple-watch-10-the-three-traits-that-clinched-its-approval/"><u>Discovering the Wow Factors of the Apple Watch 10 - The Three Traits that Clinched Its Approval</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-smooth-wsl-operation-post-windows-11-shift/"><u>Ensuring Smooth WSL Operation Post-Windows 11 Shift</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-efficient-5-top-clock-saver-programs-for-windows/"><u>Expertly Efficient: 5 Top Clock Saver Programs for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-access-control-entry-is-corrupt-error-on-windows/"><u>How to Fix the “Access Control Entry Is Corrupt” Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-voice-recorders-with-precision-using-shortcuts-in-win-11/"><u>Navigate Voice Recorders with Precision Using Shortcuts in Win 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-ultimate-list-10-meme-creation-apps-for-mobile/"><u>New The Ultimate List 10 Meme Creation Apps for Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-inactive-windows-download-section/"><u>Reviving the Inactive Windows Download Section</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-windows-fixing-unresponsive-usb-devices/"><u>Solutions for Windows: Fixing Unresponsive USB Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
 </ul></div>
 

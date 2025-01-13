@@ -1,7 +1,7 @@
 ---
 title: "Reignite the Joy of Win 11 Gaming: Master These Seven Game-Changing Tweaks"
-date: 2024-08-16T00:53:14.666Z
-updated: 2024-08-17T00:53:14.666Z
+date: 2025-01-10T20:32:46.692Z
+updated: 2025-01-12T19:42:36.762Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use Auto HDR
 
  High Dynamic Range (HDR) is a big improvement over its older brother, Standard Dynamic Range (SDR). HDR features some great additions to how games look, including better brightness representation and color depth.
@@ -41,9 +38,17 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![Screenshot showing how to switch on HDR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-of-display-screen-to-switch-on-hdr.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose your display from the drop-down menu if you have multiple displays connected. Then, check under**Display Capabilities** . If the option to Use HDR is supported, toggle the options**Use HDR** and**Auto HDR** to the**On** positions.
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Games Use Your Primary GPU
 
@@ -54,8 +59,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Turn Off Enhanced Pointer Precision
 
  This tip to improve gaming experience is relatively unknown to gamers. In an attempt to enhance user experience, Windows 11 provides enhanced pointer precision to improve mouse movement.
@@ -66,11 +72,16 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![How to turn off enhanced pointer precision on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enhanced-pointer-precision.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Update Your GPU's Drivers
 
  NVIDIA, AMD, Intel, and other graphics cards are at their peak performance when their drivers are up-to-date. So, to enjoy a good gaming experience, you must update your GPU drivers regularly.
@@ -79,19 +90,12 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Update Windows
 
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
 
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 7\. Apply Generic Windows Performance Tweaks
 
  So far, we've covered how to get games working better on Windows 11 specifically. In truth, there are heaps of advice we can give you that apply to all versions of Windows, including Windows 11\. As such, it's well worth looking at some general Windows performance advice and applying them to Windows 11.
@@ -100,23 +104,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  We've also mainly covered things to enable or tweak in this article, but there are some[parts of Windows 11 you should disable for better gaming performance](https://www.makeuseof.com/windows-11-disable-gaming-performance/) too.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Improving Gaming Performance on Windows 11 PCs
 
  The tips outlined in this article are sure to enhance your gaming performance. However, you should note that the overall improvements will vary per device.
 
  To get the best results, also consider other factors, such as old graphics cards, slow or full hard drives, specific driver issues, overheating, and outdated processors. This will help you make the most out of your gaming sessions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +123,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-choosing-your-first-camera-the-2024-bestseller-list/"><u>[New] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-quick-and-easy-gif-to-video-transition-tools-listed/"><u>[New] Quick & Easy GIF-to-Video Transition Tools Listed</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-make-a-fortune-on-reddit-without-experience-top-13-methods/"><u>[Updated] In 2024, How to Make a Fortune on Reddit Without Experience - Top 13 Methods</u></a></li>
+<li><a href="https://tools.techidaily.com/coreui/products/"><u>Coreui's Products</u></a></li>
+<li><a href="https://fox-within.techidaily.com/enhanced-uwp-detection-update/"><u>Enhanced UWP Detection Update</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-itel-p55plus-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Itel P55+ 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-silence-file-explorers-default-tabs/"><u>How to Silence File Explorer's Default Tabs</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-a-novel-framework-redefining-admin-access-control/"><u>Introducing a Novel Framework: Redefining Admin Access Control</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-chroma-key-techniques-for-professional-videos-for-2024/"><u>Mastering Chroma Key Techniques for Professional Videos for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95911335-9781612833958-medicine-wheel-plain-simple/"><u>Medicine Wheel Plain & Simple | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-your-way-through-files-in-win-os-max-156/"><u>Navigate Your Way Through Files in Win OS (Max 156)</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-data-integrity-in-windows-systems-weekly/"><u>Preserving Data Integrity in Windows Systems, Weekly</u></a></li>
+<li><a href="https://win11.techidaily.com/ready-set-go-virtualbox-on-win-starts-with-deps-checks/"><u>Ready, Set, Go! VirtualBox on Win Starts With Deps Checks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos-for-2024/"><u>Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-drivers-download-and-installation-guide-for-asus-vg2email-protected-on-windows-pcs/"><u>Seamless Drivers Download & Installation Guide for Asus VG2([email Protected]) on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-gpo-management-windows-11-guide/"><u>Simplify GPO Management: Windows 11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-reading-enabling-text-interaction-on-pdfs-windows-style/"><u>Simplify Reading: Enabling Text Interaction on PDFs, Windows Style</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-windows-cab-file-mystique-its-structure-and-implementation-methods/"><u>Unraveling Windows Cab File Mystique: Its Structure & Implementation Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-freeze-no-more-disabling-autolock/"><u>Windows Freeze No More: Disabling AutoLock</u></a></li>
+</ul></div>
 

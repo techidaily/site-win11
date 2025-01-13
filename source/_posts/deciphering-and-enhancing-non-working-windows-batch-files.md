@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Enhancing Non-Working Windows Batch Files
-date: 2024-08-16T00:52:40.995Z
-updated: 2024-08-17T00:52:40.995Z
+date: 2025-01-10T00:13:57.000Z
+updated: 2025-01-12T16:47:41.094Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  Now that you know why your BAT files are being deleted, let's move on to the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Fix Syntax Errors in Your BAT File
 
  If you're not into programming, the term "**syntax**" might be too technical. Simply put, a syntax error means a wrong command, expression, or symbol in any code.
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 4. Press **Enter** or the **Send** button. Now ChatGPT will try to remove all the possible syntax errors and provide you with the modified version.
 5. Copy and replace the edited version with the code inside your BAT file.  
 ![ChatGPT Prompt Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-prompt-output.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. After making the necessary changes, save your BAT file and rerun it.
 
  To avoid such syntax error situations in the future, we recommend learning [how to create a batch file](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) properly.
@@ -66,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  If you're using the default one that ships with Windows, here's [how to disable the Windows Security app](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) for help. Remember to enable it again after running your BAT file to protect your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## 3\. Include the BAT in the Antivirus Exclusion List
 
  Another way around the antivirus issue is by adding your BAT file to the list of antivirus exclusions. This allows specific files to bypass the regular antivirus scan.
@@ -76,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
  To add the BAT file to the exclusion list, navigate to your antivirus settings or options menu. Look for a section titled **Exclusions**, **Whitelist**, or something similar. Then, add your BAT file to the exclusion list.
 
  If you're not using third-party antivirus software, check out [how to set Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) for a quick fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Adjust .BAT File Association
 
@@ -88,21 +83,24 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 1. Press the **Win + I** keys to open the **Settings** app.
 2. Click on **Apps**, then select **Default apps**.  
 ![Windows Apps Settings Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-apps-settings-screen.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll to the last and click on**Choose default by file type**.  
 ![Windows Default Apps Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-default-apps-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Locate **.bat** in the list and click on **Choose a default**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![BAT File Association Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bat-file-association-settings.jpg)
 5. Select **Command Prompt** and click the **Set Default** button.
 
  And that's it! Now, your .BAT files should open with the Command Prompt instead of getting deleted instantly.
 
  There are multiple file types in the same Settings section. If you want to change the default apps for launching a specific file type, you can do so. For example, if you use Drawboard as a PDF viewer, click on **.pdf** and select it as a default app for all your PDF files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Take Ownership of the Batch File
 
@@ -114,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 
  Remember that taking ownership carries risk. Here's why: if the file comes from an unknown source (a random website) and you take ownership, you may unknowingly execute harmful code. So, double-check the code and the file source before taking ownership.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Modify the ComSpec System Variable
 
  Don't be confused by the technical term "**ComSpec**." Simply put, the ComSpec system variable is a title or name given to the path of the Command Prompt (i.e.,%SystemRoot%\\system32\\cmd.exe). So, whenever a Windows app or program wants to open or access the Command Prompt, it uses the ComSpec system variable to open it instantly.
@@ -130,18 +125,27 @@ thumbnail: https://thmb.techidaily.com/63eaa39ba6f901f19dd5d6107e02d0bfc04195c0f
 1. Press **Win + R** to bring the **Run** app.
 2. Type **sysdm.cpl** in the textbox and click **OK** to execute it.  
 ![Sysdm Command In RUN App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sysdm-command-in-run-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 3. From the tab menu, navigate to Advanced and click the **Environment Variables** button.
 4. Under **System variables**, double-click on **ComSpec**.  
 ![System Variables List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/system-variables-list.jpg)
 5. On the **Edit Environment Variable** window, ensure the variable value matches **%SystemRoot%\\system32\\cmd.exe**. If the value is different in your case, correct that.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ComSpec System Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/comspec-system-variable.jpg)
 6. Click **OK** to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, now your BAT file will run as expected. As a final note, always exercise caution when adjusting any system variable. For additional safety, note down the original value before making any changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Resolve All Your BAT File Issues on Windows
 
@@ -151,11 +155,30 @@ The ultimate burning program for all your needs!</a>
 
  Regardless of the issue, this guide will provide methods for resolving all your BAT file issues. We will also highlight why BAT files sometimes do not run on your Windows computer.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-how-to-rotate-youtube-videos-by-any-angle-2023-guide-andeditors/"><u>[Updated] How to Rotate YouTube Videos by Any Angle [2023 Guide &Editors]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>2024 Approved Avoid Download Hassle Top 5 Online Converters for GIF to Video</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>2024 Approved Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027590826-it/"><u>専門的なITサポート・対応方法とヒント - 難しい問題を解決する</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-which-video-coder-to-use-on-windows/"><u>Decoding Which Video Coder to Use on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ease-up-on-highlighted-text-troubles-in-windows-pdfs/"><u>Ease Up on Highlighted Text Troubles in Windows PDFs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-clear-windows-webcam-blackout/"><u>Guide to Clear Windows Webcam Blackout</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-avoid-dxgi-error-after-device-disconnects/"><u>How to Avoid DXGI Error After Device Disconnects</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-grayed-out-legacy-boot-option-in-the-bios-on-windows/"><u>How to Fix a Grayed-Out Legacy Boot Option in the BIOS on Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establish-sound-capture-solutions-for-obs-and-win-11-combination/"><u>Re-Establish Sound Capture: Solutions for OBS & Win 11 Combination</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-audio-recording-on-modern-windows-systems/"><u>Streamline Audio Recording on Modern Windows Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-ultimate-guide-to-moving-content-from-mobi-books-to-your-kindle-device/"><u>The Ultimate Guide to Moving Content From MOBI Books to Your Kindle Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/visual-ventures-partnership-playbook-for-2024/"><u>Visual Ventures Partnership Playbook for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Stop W10/W11 Error Code E1
-date: 2025-01-01T18:58:28.913Z
-updated: 2025-01-06T19:12:12.667Z
+date: 2025-01-05T19:11:11.213Z
+updated: 2025-01-13T04:13:34.447Z
 tags:
   - windows10
   - windows11
@@ -43,17 +43,21 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
  If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Microsoft Defender (or Any Active Third-Party Antivirus Apps)
 
  Error 0x800700E1 can occur when antivirus software misidentifies a legitimate file to be malware (or a virus). Such a scenario is called a false positive. So, try temporarily [disabling Microsoft Defender’s Real-time protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) option just before attempting to transfer your files or perform a Windows backup.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/real-time-protection-option.jpg)
 
- If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
 
 ## 3\. Repair File Explorer
 
@@ -67,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 4. Then input this SFC command text and hit **Enter**:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `sfc /SCANFILE=C:WindowsSysWow64explorer.exe`  
@@ -75,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 5. Wait for both scans to finish and show a Windows Resource Protection message.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Clear Browsing Data
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 5. Select the **Cookies**, **History**, and T**emporary Internet Files** checkboxes.  
 ![The Delete Browsing History window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-browsing-history-window.jpg)
 6. Click **Delete** to erase browsing data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you utilize Chrome, Edge, Firefox, Opera, or another alternative, clear the browsing data with your browser’s built-in settings. All browsers include a tool or options for clearing cookies, history, and cached data. Look through your browser’s settings tab and menus to find its tool for clearing browser data.
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
  If you have a third-party antivirus app, you’ll need to select the folder within that software’s exclusion or exceptions list. You should be able to find such a feature within the settings tab of an antivirus utility. Check out your antivirus utility’s online manual on the publisher’s website for details about how to set folder exclusions in it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run SFC and DISM File Scans
@@ -130,13 +130,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![The Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/startup-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We have a guide about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) that includes step-by-step instructions for applying this potential fix. You can disable all non-essential third-party startup apps and services with the Task Manager and MSConfig tools. Then restart Windows to see if error 0x800700E1 persists after clean booting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Error 0x800700E1 Sorted in Windows
@@ -155,24 +155,18 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-hashtags-todays-must-learn-tips/"><u>[New] 2024 Approved Mastering #Instagram Hashtags Today's Must-Learn Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-masterful-marketing-top-strategies-to-thrive-in-fb-video-space/"><u>[New] Masterful Marketing Top Strategies to Thrive in FB Video Space</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevating-channel-excellence-with-ideas-and-vision/"><u>[Updated] In 2024, Elevating Channel Excellence with Ideas & Vision</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-subtitles-that-shine-discover-the-best-free-online-tools/"><u>[Updated] Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/command-center-chameleon-blend-in-with-win-1011/"><u>Command Center Chameleon: Blend in with Win 10/11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/continuous-streams-perfect-loops-of-youtube-videos-for-tvs/"><u>Continuous Streams Perfect Loops of YouTube Videos for TVs</u></a></li>
-<li><a href="https://win11.techidaily.com/expedite-finding-graphics-model-in-windows-11-haven/"><u>Expedite: Finding Graphics Model in Windows 11 Haven</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-unable-to-open-due-to-unverified-developer-on-your-macbook/"><u>Fixing 'Unable to Open Due to Unverified Developer' On Your MacBook</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978884888-fixing-samsung-all-in-one-printer-connectivity-problems-on-pc-solved/"><u>Fixing Samsung All-in-One Printer Connectivity Problems on PC - Solved!</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-steam-error-content-servers-not-reachable-in-windows/"><u>Fixing Steam Error: Content Servers Not Reachable in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-corrupted-filesdirectories-in-windows-error-x70/"><u>How to Fix 'Corrupted' Files/Directories in Windows (Error X70)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-m6-pro-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Poco M6 Pro 5G Phone without Google Account?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-a15-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy A15 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/linkedin-live-clarity-ending-the-partially-muted-frustration-for-2024/"><u>LinkedIn Live Clarity - Ending the Partially Muted Frustration for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mitigating-microsoft-store-error-code-0x80073cf3-in-windows/"><u>Mitigating Microsoft Store Error Code 0X80073CF3 in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-ms-store-bugs-error-x80072f17-solution/"><u>Navigating MS Store Bugs: Error X80072F17 Solution</u></a></li>
-<li><a href="https://win11.techidaily.com/power-uninstalling-printers-on-windows-11-os/"><u>Power Uninstalling Printers on Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-windows-error-image-id-0x80780119/"><u>Remedy for Windows Error: Image ID 0X80780119</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-desktop-experience-with-smart-wmlayouts/"><u>Transform Desktop Experience with Smart WMLayouts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-enhancing-your-stream-5-key-techniques-for-gamers/"><u>[New] 2024 Approved Enhancing Your Stream 5 Key Techniques for Gamers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>[New] The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-boosting-your-content-quality-essential-tips-for-youtube-users/"><u>2024 Approved Boosting Your Content Quality Essential Tips for YouTube Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/advanced-visual-techniques-for-impressive-after-effects-titles/"><u>Advanced Visual Techniques for Impressive After Effects Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-gt-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme GT 3 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-engage-with-widget-features-in-win11-os/"><u>How to Engage With Widget Features in Win11 OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-spark-10c-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Spark 10C to New Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-missing-file-updates-fix-guide-error-code-0x80070003/"><u>Mastering Windows' Missing File Updates Fix Guide (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/maximizing-your-hard-drives-efficiency-expert-tips-from-yl-computing/"><u>Maximizing Your Hard Drive's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-graphics-integrity-win-11s-dxgi-solutions/"><u>Secure Graphics Integrity: Win 11'S DXGI Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-windows-recovery-five-steps/"><u>Triggering Windows' Recovery: Five Steps</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1728464437180-windows-113/"><u>Windows 11のゴミ箱からデータを回復する:3つの手軌</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turn On/Off Handwriting on Windows PCs"
-date: 2024-08-16T00:52:13.357Z
-updated: 2024-08-17T00:52:13.357Z
+date: 2025-01-08T01:42:31.487Z
+updated: 2025-01-13T04:20:46.012Z
 tags:
   - windows10
   - windows11
@@ -31,14 +31,20 @@ Here is how you can proceed:
 3. Move to the right side of the window and click on**Pen & Windows Ink** .  
 ![Access the Pen & Windows Ink section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pen-and-windows-ink.jpg)
 4. Expand the**Use your handwriting to enter text** section under Handwriting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Checkmark the box associated with**Write with your fingertip** .  
 ![Write with your fingertip option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/write-with-you-fingertip-1.jpg)
 
  You can now close the Settings app if you want. To disable the feature in the future, simply follow these steps again and uncheck the Write with your fingertip option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable/Disable Fingertip Writing via the Registry Editor
 
  If the "Write with your fingertip" option is disabled in the Settings app, you can also make these changes using the Registry Editor.
@@ -56,13 +62,6 @@ Then, proceed with these steps:
 `Computer\HKEY_CURRENT_USER\Software\Microsoft\TabletTip`
 5. Right-click on**TableTip** and choose**New** \>**Key** .  
 ![Create a new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-key.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
 1. Name this key as EmbeddedInkControl.
 2. Now, move to the right pane and right-click anywhere on an empty space.
@@ -70,17 +69,15 @@ No advertising on the website.
 4. Rename this key as EnableInkingWithTouch.
 5. Double-click on**EnableInkingWithTouch** and under Value data, type 1\. This will enable the fingertip writing feature.  
 ![Enter 1 under Value data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enableinking-with-touch.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**OK** to save the changes.
 7. Close the Registry Editor and restart your computer.
 
  Upon reboot, you should be able to use the fingertip writing feature. To disable this feature, follow the aforementioned steps again and change the value data of the EnableInkingWithTouch key to 0.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable/Disable Fingertip Writing Via the Group Policy Editor
 
  The third way of enabling/disabling the fingertip writing feature is via the Group Policy Editor. Like the Windows Registry, this utility also allows the administrators to manage the advanced-level system settings in Windows.
@@ -94,15 +91,18 @@ No advertising on the website.
 `Computer Configuration > Administrative Templates > Windows Components > Handwriting`
 5. Locate the**Handwriting Panel Default Mode Docked** policy in the right pane and double-click on it.  
 ![Access the Handwriting panel default mode docked policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/handwriting-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. To enable the feature, choose**Not configured** . If you want to disable it, choose**Disable** .  
-![Enable the handwriting panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-handwriting-panel-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Enable the handwriting panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-handwriting-panel-1.jpg)
 7. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now close the Group Policy Editor and begin using the fingertip writing feature with ease.
 
@@ -112,14 +112,11 @@ No advertising on the website.
 
  The three methods we have listed above should help you manage this feature easily. However, it is important to exercise caution and create a backup before you make any changes to the system settings and configurations.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +125,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-journeying-together-on-the-big-screen-top-10-family-movies/"><u>[New] 2024 Approved Journeying Together on the Big Screen Top 10 Family Movies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hannel-progression-reach-and-maintain-10k-viewer-threshold/"><u>[New] Channel Progression Reach and Maintain 10K Viewer Threshold</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac-for-2024/"><u>[New] Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterful-8-tools-for-flawless-sub-and-srt-conversion/"><u>[Updated] Masterful 8 Tools for Flawless Sub and SRT Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-the-deadly-script-error-in-discord-for-windows-11-users/"><u>Combatting the Deadly Script Error in Discord for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-adjustments-your-guide-to-pointer-settings-in-win11/"><u>Effortless Adjustments: Your Guide to Pointer Settings in Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extensive-appraisal-a-look-into-bublcam-360/"><u>In 2024, Extensive Appraisal A Look Into Bublcam 360</u></a></li>
+<li><a href="https://article-posts.techidaily.com/learn-the-basics-of-digital-distortion-for-2024/"><u>Learn the Basics of Digital Distortion for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-synchronization-timely-windows-update/"><u>Seamless Synchronization: Timely Windows Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/slice-the-baguette-lengthwise-but-not-all-the-way-through-leave-about-an-inch-of-bread-intact-at-one-end-to-hold-it-together/"><u>Slice the Baguette Lengthwise, but Not All the Way Through – Leave About an Inch of Bread Intact at One End to Hold It Together.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-complete-exploration-of-openai-an-indispensable-reference-for-ai-enthusiasts/"><u>The Complete Exploration of OpenAI – An Indispensable Reference for AI Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-access-denied-for-windows-users/"><u>Understanding and Resolving Access Denied for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-invisible-disk-in-os-environment/"><u>Unveiling Invisible Disk in OS Environment</u></a></li>
+</ul></div>
 

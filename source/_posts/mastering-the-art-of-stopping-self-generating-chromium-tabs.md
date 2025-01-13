@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Stopping Self-Generating Chromium Tabs
-date: 2024-08-16T00:53:49.978Z
-updated: 2024-08-17T00:53:49.978Z
+date: 2025-01-07T00:26:42.452Z
+updated: 2025-01-12T16:21:08.346Z
 tags:
   - windows10
   - windows11
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 * Incorrectly configured keyboard and mouse managers can also cause apps like Chrome to malfunction. Disable or delete such an app if you also use one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Ensure That the "Open New Tabs" Shortcut Keys Aren't Pressed Down
 
  If Chrome opens new tabs immediately upon launch and doesn't stop until you close the browser, the shortcut keys for opening new tabs are probably pressed down on your keyboard. You can confirm that using the onscreen keyboard in Windows.
@@ -42,15 +43,9 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
  Simply press **CTRL + Win + O** to open the on-screen keyboard and check whether the shortcut keys to open a new tab in Chrome (**CTRL + T)** are pressed. If you see them pressed, check that the keys aren't stuck. If the keys are in their normal position but appear pressed on the on-screen keyboard, there is likely a hardware issue with the keys.
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
  Chrome comes with a built-in feature that lets users open links in new tabs. This feature helps users open and go through multiple links from the search engine results page at once without having to go back and forth.
@@ -61,10 +56,15 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 2. In the top-right corner, click **Quick Settings (gear icon)** and click **See all Search settings**.  
 ![Open See All Search Settings in the Chrome Quick Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-open-see-all-search-settings-in-the-chrome-quick-settings.jpg)
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
-![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
@@ -86,6 +86,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  There are many ways to determine whether a website is untrustworthy, so learn [how to check if a site is safe](https://www.makeuseof.com/how-to-check-if-a-website-is-safe-to-use/) for more information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Ensure Your Browser and Device are Malware-Free
 
  The Chrome browser can also misbehave or act strangely if infected with malware or viruses. If none of the fixes above resolve the problem, your browser could be infected with a [browser hijacker](https://www.makeuseof.com/what-is-browser-hijacking/).
@@ -99,15 +103,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  To reset Chrome, go to **Chrome** settings, click on **Reset settings** on the left-hand side, and click **Restore settings to their original defaults** on the right.
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Stop Chrome From Opening New Tabs on Windows
 
  New tabs automatically opening or Chrome opening new tabs for every click can disrupt our user experience. Hopefully, you now better understand why Chrome opens new tabs and what fixes you should try to stop it.
@@ -120,11 +122,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you'd like to open new links in the same tab or stop the browser from opening new tabs automatically, here are a few fixes you can try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-tackle-chromes-inability-to-load-fb-videos/"><u>[New] Tackle Chrome's Inability to Load FB Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-alliance-of-creativity-brands-and-youtubes-fusion/"><u>[Updated] 2024 Approved Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-an-intuitive-taskbar-experience-on-windows-11-tablets/"><u>Creating an Intuitive Taskbar Experience on Windows 11 Tablets</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-starter-with-microsofts-chatgpt-on-your-windows-computer-a-detailed-guide/"><u>Getting Starter with Microsoft's ChatGPT on Your Windows Computer: A Detailed Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-connection-reestablishing-obs-link-on-pc-top-7-strategies/"><u>Seamless Connection: Reestablishing OBS Link on PC (Top 7 Strategies)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-reviving-non-responsive-ctrl-in-windows-11/"><u>Troubleshooting: Reviving Non-Responsive Ctrl in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-fast-steam-downloads-on-windows-systems/"><u>Unlock Fast Steam Downloads on Windows Systems</u></a></li>
+</ul></div>
+

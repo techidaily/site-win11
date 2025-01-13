@@ -1,7 +1,7 @@
 ---
 title: "Mastering Surface Firmware Updates: A Step-by-Step Guide"
-date: 2025-01-01T16:50:21.961Z
-updated: 2025-01-06T20:51:43.839Z
+date: 2025-01-08T02:47:32.552Z
+updated: 2025-01-13T06:35:47.997Z
 tags:
   - windows10
   - windows11
@@ -23,21 +23,21 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Install Firmware Updates on Surface Computers From Settings App
 
 ![install windows 11 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Installing firmware updates on your Surface PC is simple. You can install the latest firmware version on your Surface device from the Windows Update page in the Settings app.
 
  You can open the Settings app by pressing the **Win key** \+ **I** button on your keyboard and then clicking Windows Update. Now, click Check for updates. If a new firmware version is available for your Surface PC, it will show up on the update page. After installing the update, a restart is required for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Manually Download and Install Firmware on Surface Computers
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
  Once the download is completed, you can open the file (in the **.msi** format) and follow the on-screen prompt to install the update on your Surface. To complete the installation, you need to restart the device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What You Should Remember Before Installing the Surface Firmware Update
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 ![Closed Microsoft Surface on a blue surface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/closed-microsoft-surface-on-a-blue-surface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You must have a stable power supply and internet connection during the update process. Also, be careful about installing the right firmware update for your device.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
  Also, you need to remember that Microsoft pushes driver and firmware updates for at least four years from when the device was first released. If your Surface device is older than four years, you won’t receive any firmware updates. Before manually downloading it, you need to [check whether your Surface device has reached the end of support](https://www.makeuseof.com/surface-end-of-support/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install Firmware Updates on Your Surface Devices
@@ -81,21 +81,22 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-perfect-your-presence-the-compreenas-guide-to-obs-youtube-and-twitch/"><u>[New] In 2024, Perfect Your Presence The Compreenas Guide to OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlined-file-sharing-from-your-computer-to-iphone/"><u>2024 Approved Streamlined File Sharing From Your Computer To iPhone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compreayer-printing-guide-epson-et-2650-usb-driver/"><u>Compreayer Printing Guide - Epson ET-2650 USB Driver</u></a></li>
-<li><a href="https://win11.techidaily.com/get-back-on-track-with-these-9-fixes-for-non-functioning-window-key-shortcuts/"><u>Get Back on Track with These 9 Fixes for Non-Functioning Window Key Shortcuts</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1726027697961-gif/"><u>GIF画像制作ガイド - ステップバイステップで学ぶアニメーションアイコン</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-detailed-examination-gopro-silver-hero4-camera-testing/"><u>In 2024, Detailed Examination GoPro Silver Hero4 Camera Testing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/maximizing-your-visuals-the-ultrawide-vs-uhd-4k-debate/"><u>Maximizing Your Visuals The UltraWide vs UHD 4K Debate</u></a></li>
-<li><a href="https://win11.techidaily.com/monitor-and-manage-edges-background-run-on-win11-pcs/"><u>Monitor and Manage Edge's Background Run on Win11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/procedure-to-unlink-other-users-on-win-11/"><u>Procedure to Unlink Other Users on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ready-set-gain-administrator-status/"><u>Ready, Set, Gain Administrator Status</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-cleanliness-erase-feature-in-windows-photos/"><u>Redefining Cleanliness: Erase Feature in Windows Photos</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-tecno-phantom-v-fold-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Tecno Phantom V Fold to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-windows-11-dialer-opens/"><u>Step-by-Step: Windows 11 Dialer Opens</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-the-windows-11-sound-experience-with-volume-mixer-controls/"><u>Tailor the Windows 11 Sound Experience with Volume Mixer Controls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-meme-madness-twitters-funniest-video-threads/"><u>[New] 2024 Approved Meme Madness Twitter's Funniest Video Threads</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-removing-discord-servers-step-by-step/"><u>[New] Removing Discord Servers Step-by-Step</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-beginners-pathway-to-premium-gopro-accessories/"><u>[Updated] Beginner’s Pathway to Premium GoPro Accessories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-simple-method-setting-up-snapchat-for-mac-users/"><u>2024 Approved Simple Method Setting up Snapchat for Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-vivo-y78-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Vivo Y78 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>Apex Creative Workspace Report In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/desktop-dilemrances-navigating-the-pink-phase-of-windows/"><u>Desktop Dilemrances: Navigating the Pink Phase of Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/discover-windows-11-key-combinations-for-screenshot-taking/"><u>Discover Windows 11 Key Combinations for Screenshot Taking</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-email-notification-pinning-gmail-on-windows-desktop/"><u>Easy Email Notification: Pinning Gmail on Windows Desktop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixes-and-solutions-accelerate-your-windows-11-updates/"><u>Fixes & Solutions: Accelerate Your Windows 11 Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-restoring-functionality-of-non-responsive-windows-start/"><u>Guide to Restoring Functionality of Non-Responsive Window's Start</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-stranded-xbox-message-on-your-windows-pc/"><u>How to Stop Stranded Xbox Message on Your Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-streamline-windows-views-and-trim-overscan/"><u>How to Streamline Windows Views and Trim Overscan</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimizing-windows-11-for-peak-performance/"><u>Optimizing Windows 11 for Peak Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-worrying-fix-the-non-working-esc-key-today/"><u>Stop Worrying, Fix the Non-Working Esc Key Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/surge-your-efficiency-the-secret-of-flow-launcher-awaits/"><u>Surge Your Efficiency: The Secret of Flow Launcher Awaits</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-android-experience-integrating-speech-controlled-chatgpt-using-the-voicegpt-mobile-application/"><u>Transforming Your Android Experience: Integrating Speech Controlled ChatGPT Using the VoiceGPT Mobile Application</u></a></li>
 </ul></div>
 

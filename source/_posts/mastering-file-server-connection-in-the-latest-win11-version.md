@@ -1,7 +1,7 @@
 ---
 title: Mastering File Server Connection in the Latest Win11 Version
-date: 2025-01-01T19:49:35.084Z
-updated: 2025-01-06T20:13:32.022Z
+date: 2025-01-10T16:33:12.619Z
+updated: 2025-01-12T16:05:19.254Z
 tags:
   - windows10
   - windows11
@@ -53,7 +53,7 @@ Follow the sets below to enable network discovery on Windows:
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Map a Network Drive Using File Explorer
@@ -69,6 +69,11 @@ Here's what you need to do to use File Explorer for mapping:
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
@@ -77,7 +82,7 @@ Here's what you need to do to use File Explorer for mapping:
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell for Mapping
@@ -93,14 +98,14 @@ New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -116,15 +121,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
 
@@ -136,6 +133,10 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 2. Right-click on**Network** in the left pane and choose**Disconnect network drive** from the context menu.  
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
@@ -160,18 +161,18 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-key-understanding-of-online-narration-art/"><u>[New] 2024 Approved Key Understanding of Online Narration Art</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-driving-traffic-and-likes-a-guide-for-instagram-pros/"><u>[New] Driving Traffic & Likes A Guide for Instagram Pros</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerating-ar-development-leveraging-custom-luts/"><u>Accelerating AR Development Leveraging Custom LUTs</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-realme-narzo-n53-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme Narzo N53 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/cure-windows-geforce-experience-failures-swiftly/"><u>Cure Windows GeForce Experience Failures Swiftly</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-restricted-outlook-startup-glitches/"><u>Fixing Windows-Restricted Outlook Startup Glitches</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/1723262388513-from-ssds-to-smartphones-all-your-tech-queries-answered-by-toms-hardware/"><u>From SSDs to Smartphones: All Your Tech Queries Answered by Tom's Hardware</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g04-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G04 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-tecno-pop-8-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Tecno Pop 8 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://win11.techidaily.com/leap-forward-with-windows-multiple-folder-creation-features/"><u>Leap Forward with Windows' Multiple Folder Creation Features</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-opening-hesitant-exe-files/"><u>Mastering the Art of Opening Hesitant Exe Files</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-app-launch-dilemma-0xc000003e-error-in-win11-demystified/"><u>Solving App Launch Dilemma: 0XC000003E Error in Win11 Demystified</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-windows-instant-file-review-techniques/"><u>[New] Windows Instant File Review Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimal-orientation-for-fb-content-creation/"><u>[Updated] 2024 Approved Optimal Orientation for FB Content Creation</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-troubleshooting-tips-reviving-your-non-responsive-scanner-expert-advice-by-yl-computing/"><u>1. Troubleshooting Tips: Reviving Your Non-Responsive Scanner - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/defeating-the-error-steps-to-ensure-call-of-duty-black-ops-4-proper-launch/"><u>Defeating the Error: Steps to Ensure Call of Duty: Black Ops 4 Proper Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-secure-asrock-ab350-pro4-driver-updates-for-windows-without-spending-a-penny/"><u>How to Secure ASRock AB350 Pro4 Driver Updates for Windows Without Spending a Penny</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optic-oasis-discover-the-top-10-lenses/"><u>In 2024, Optic Oasis Discover the Top 10 Lenses</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-workspace-positioning-gmail-bar-for-quick-access/"><u>Master Your Workspace: Positioning Gmail Bar for Quick Access</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigate-the-world-of-video-conferencing-for-2024/"><u>Navigate the World of Video Conferencing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-6-premier-performance-trackers-for-pcs/"><u>Navigate Through 6 Premier Performance Trackers for PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-6-engagement-realms-critical-for-corporate-networks/"><u>Prime 6 Engagement Realms Critical for Corporate Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-typical-rainmeter-glitches-on-pc/"><u>Solutions for Typical Rainmeter Glitches on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-dealing-with-immutable-windows-energy-modes/"><u>Tips for Dealing with Immutable Windows Energy Modes</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-error-code-0x800736cc/"><u>Troubleshooting Windows Update: Error Code 0X800736CC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Four Hacks: Stopping Automatic Windows & Office Updates"
-date: 2024-08-16T00:56:01.910Z
-updated: 2024-08-17T00:56:01.910Z
+date: 2025-01-06T04:03:54.870Z
+updated: 2025-01-12T19:24:41.541Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  Fortunately, there are several ways to disable automatic Office updates on Windows. Let's go over each of those methods one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Stop Automatic Office Updates via the Settings App
 
  Windows lets you check for any pending Office updates directly from the Settings app. This allows you to install Office updates along with other system updates. If you don’t want that, you can disable the**Receive updates for other Microsoft products** option in the Settings app. Here are the steps for the same.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 ![Stop Automatic Office Updates Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-automatic-office-updates-using-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Stop Automatic Office Updates Using One of Its Apps
 
  You can also opt out of automatic Office updates by using one of its apps, such as Word or Excel. Here’s how you can go about it.
@@ -43,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 4. Click the**Update Options** drop-down menu in the Manage Account section and choose**Disable Updates** .
 5. Select**Yes** to confirm.  
 ![Stop Office Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stop-office-updates.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your Office apps will not check for and install newer updates. Don't worry, you'll still be able to install updates manually.
@@ -52,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
  If you want to re-enable automatic updates later, use the same steps above and select**Enable Update** in the**Update Options** menu.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
  Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
@@ -70,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 7. Head to**C: > Windows > PolicyDefinitions** folder.
 8. Paste all the admx files in the**PolicyDefinitions** folder.  
 ![Copy Office ADMX files to PolicyDefinitions Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-office-admx-files-to-policydefinitions-folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Return to the folder where you extracted the files and open the**admx** folder again.
 10. Open the**en-US** folder and copy all the**adml files** within.
 11. Head to**C: > Windows > PolicyDefinitions** \>**en-US** folder and paste all the**adml files** .  
@@ -93,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
  You can also use the Registry Editor to make the above policy change and disable automatic Office updates on your computer. Since Registry Editor holds important settings for Windows and its apps, you should only use this method if you’re comfortable editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
@@ -106,9 +114,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 3. Select**Yes** when the User Account Control (UAC) prompt appears.
 4. Use the left pane to navigate to **Computer > HKEY\_LOCAL\_MACHINE > SOFTWARE > Policies > Microsoft** .  
 ![Registry Editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Right-click the**Microsoft** key and select**New > Key** .
 
 1. Rename the key as**Office** .
@@ -121,10 +126,6 @@ thumbnail: https://thmb.techidaily.com/1e95a148d850ecdd275c10a51292b0ccb900f6b4e
 8. Double-click**EnableAutomaticUpdates** DWORD and set its**Value Data** to**0** .
 9. Click**OK** .  
 ![Turn Off Automatic Office Updates Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-automatic-office-updates-using-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  After completing the above steps, restart your computer. Following that, Office apps won’t update automatically on your computer. If you want to undo this change, open the Registry Editor again and delete the**EnableAutomaticUpdates** DWORD.
 
@@ -132,14 +133,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It is almost always preferable to keep your Office apps up to date so that you can benefit from new features and security updates. Hence, if you disable automatic Office updates for some reason, don’t forget to check for new updates manually every once in a while.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -148,4 +146,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-unveiling-6-video-techniques-that-grab-eyes-for-2024/"><u>[New] Unveiling 6 Video Techniques That Grab Eyes for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-account-creation-on-youtube/"><u>2024 Approved Navigating Account Creation on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-microphone-blackout-during-powerpoint-video-recording/"><u>Fixing Microphone Blackout During PowerPoint Video Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-win11-strategies-for-smooth-file-transfer-1/"><u>Fixing WIN11: Strategies for Smooth File Transfer (1)</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-notification-response-for-windows-users-with-phone-link/"><u>Improving Notification Response for Windows Users with Phone Link</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-complete-guide-to-youtubes-live-image-lore/"><u>In 2024, A Complete Guide to YouTube's Live Image Lore</u></a></li>
+<li><a href="https://win11.techidaily.com/instalment-steps-for-ms-defender-aguard-in-win-11-edge-browser/"><u>Instalment Steps for MS Defender Aguard in Win 11 Edge Browser</u></a></li>
+<li><a href="https://win11.techidaily.com/locate-and-restore-unlisted-devices-in-device-management/"><u>Locate and Restore Unlisted Devices in Device Management</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-and-free-top-6-ways-to-convert-mkv-to-mp4-on-your-mac-instantly/"><u>Quick & Free: Top 6 Ways to Convert MKV to MP4 on Your Mac Instantly</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establish-steam-games-symbols-posthaste/"><u>Re-Establish Steam Games Symbols Posthaste</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-electric-vehicle-charging-chargepoints-latest-strategy-enhancing-charger-dependability/"><u>Revolutionizing Electric Vehicle Charging: ChargePoint's Latest Strategy Enhancing Charger Dependability</u></a></li>
+<li><a href="https://win11.techidaily.com/swapping-screens-in-windows-environment/"><u>Swapping Screens in Windows Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-taskbar-issues-resolved-effective-solutions-for-common-problems/"><u>Windows 11 Taskbar Issues Resolved? Effective Solutions for Common Problems</u></a></li>
+</ul></div>
 

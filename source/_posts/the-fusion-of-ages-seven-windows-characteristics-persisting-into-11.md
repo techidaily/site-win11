@@ -1,7 +1,7 @@
 ---
 title: "The Fusion of Ages: Seven Windows Characteristics Persisting Into 11"
-date: 2024-08-16T00:53:29.996Z
-updated: 2024-08-17T00:53:29.996Z
+date: 2025-01-05T21:32:06.944Z
+updated: 2025-01-13T05:30:47.569Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  Here are some ancient Windows features you can still find and use in Windows 11\. Some have been hanging around, unchanged, since the late 80s.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Command Prompt
 
 ![the command prompt tool in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Command Prompt, or cmd.exe, was the default command-line tool in Windows. It was first introduced over 35 years ago, way back in 1987, with the Windows NT version introduced in 1993\. Although its look has much improved over the years, it is essentially the same tool that appeared in Windows XP.
 
@@ -31,14 +39,12 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. The Run Dialog
 
 ![the Run Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-dialog.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In terms of overall layout and function, the Run dialog is the same in Windows 11 as it was over 20 years ago. The Run Dialog can be used to directly open an application or document where the path is known. It was first user-accessible as a tool in Windows 95, using the same keyboard shortcut it uses today:**Win + R** .
 
@@ -46,18 +52,6 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disk Management
 
 ![The Disk Management tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disk-management.jpg)
@@ -67,14 +61,12 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
  There are several powerful[Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. The Control Panel
 
 ![The Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-panel.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 saw several improvements to the main settings app. Several new options and controls were added, and some old ones were moved in from elsewhere. And yet the Control Panel remains and still contains some necessary settings. In an update like Windows 11, which was so focused on design changes, that seems a strange choice.
 
@@ -92,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  If you're running out of storage on your Windows computer, check out[how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. The Character Map
 
 ![The character map tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/character-map.jpg)
@@ -113,18 +102,19 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  Although it isn't ancient, it's still a leftover from Windows 10\. Which itself hadn't changed much for a long time. If you want to check this out, open the Control Panel and click the up arrow in the toolbar. Why this doesn't default to the new File Explorer, and even why it is there at all, is a bit of a mystery. It means there are two versions of the same feature in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Plethora of Old Windows Features, Still in Windows 11
 
  Anyone who has used Windows for any length of time will know how often it is updated. In such a large and complex operating system, it is understandable that not every app, tool, or feature can be given the same attention. But it can be surprising to learn that some parts of Windows haven't changed for years or even decades.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -133,4 +123,16 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-100-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 100 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-days-gone-on-pc-new-release-alert/"><u>Experience Days Gone on PC - New Release Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-remedying-windows-errors-version-22h2/"><u>Expert Guide to Remedying Windows Errors, Version 22H2</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-tailoring-a-unique-identity-a-roadmap-to-more-youtube-followers/"><u>In 2024, Tailoring a Unique Identity A Roadmap to More YouTube Followers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-y200-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo Y200</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-law-filters-in-windows-a-step-by-step-guide/"><u>Mastering LAW Filters in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-podcast-accessibility-10-exemplary-cost-free-ios-apps/"><u>New In 2024, Mastering Podcast Accessibility 10 Exemplary Cost-Free iOS Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-timekeeping-on-windows-platforms/"><u>Revitalizing Timekeeping on Windows Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-potential-with-easy-integration-of-msix-packages/"><u>Unlock Potential with Easy Integration of MSIX Packages</u></a></li>
+</ul></div>
 

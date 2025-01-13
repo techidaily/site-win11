@@ -1,7 +1,7 @@
 ---
 title: Streamlining Upgrades with Windows 11 In-Place Protocols
-date: 2024-08-23T06:06:43.372Z
-updated: 2024-08-24T06:06:43.372Z
+date: 2025-01-12T01:10:25.620Z
+updated: 2025-01-13T07:09:47.746Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  Microsoft offers the option to repair or reset your Windows PC from Windows 8 onwards. Before that, you needed an installation media (DVD or USB) to format your system. But what if you don’t want to create an installation media and wipe out everything on your system just to upgrade to a newer Windows version? Well, that’s where Microsoft’s in-place upgrade can help you.
 
  We will elaborate on what exactly is an in-place upgrade and how it differs from a clean installation of Windows 11\. Moreover, you will learn about the detailed method to perform the upgrade if the need arises.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an In-Place Upgrade on Windows?
 
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 * Ensure fast internet connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Perform an In-Place Upgrade on Windows 11
 
  To perform an in-place upgrade, you need to do two things. Firstly, you need to download the latest Windows 11 ISO file. Then, you need to run the setup from the ISO file, pick the appropriate in-place upgrade option, and proceed.
@@ -50,9 +55,9 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  First of all, you need to grab the Windows 11 ISO image file. If you don't already have one on hand, check out[how to download a Windows ISO without the Media Creation tool](https://www.makeuseof.com/windows-iso-direct-download/) for some easy methods.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Perform an In-Place Upgrade Using the Windows11 ISO Image File
 
  After the download completes, you need to mount the image file in File Explorer. Repeat the following steps to perform an in-place upgrade:
@@ -63,46 +68,34 @@ The ultimate burning program for all your needs!</a>
 4. In the Windows 11 setup window, click on the**Change how Setup downloads updates** option. Select the**Not right now** radio button and click on the**Next** button.  
 ![Change how Setup downloads updates setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-how-setup-downloads-updates-setting.jpg)
 5. Read the EULA page and click on the**Accept** button.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. On the**Choose what to keep** page, select the**Keep personal files and apps** option. Click on the**Next** button. Then click on the**Install** button.  
 ![Keep all your files and app in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/keep-all-your-files-and-app-in-windows-11.jpg)
 2. The setup will begin installing a new copy of Windows 11\. If you have an SSD, the installation won’t take more than 15 minutes. Your system will restart multiple times during this process.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 11 Installation Phase](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-11-installation-phase.jpg)
 3. After the setup finishes installing updates, it will redirect you to the login screen.**Input** your password and press the**Enter** key to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![Installing Updates in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installing-updates-in-windows-11.jpg)
 4. Wait for the setup to prepare your system for the first boot. You will automatically enter the desktop.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Check your installed apps list, personal files, and settings. Everything will pretty much be the same.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Don’t Reset Windows 11 Before Trying an In-Place Upgrade
 
  Windows in-place upgrade is perfect when you want to upgrade your system but cannot do so manually. In addition, you can even fix some major issues with Windows 11 that hamper its normal functioning. Use system Reset or format your PC only when the in-place upgrade has little to no effect on your system problems.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,4 +104,16 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expressive-articulation-examination-iteration-8/"><u>[Updated] 2024 Approved Expressive Articulation Examination, Iteration 8</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-instagram-leadership-for-2024/"><u>[Updated] Step-by-Step Guide to Instagram Leadership for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-and-compact-a-comprehensive-review-of-the-samsung-galaxy-s10e/"><u>Affordable & Compact: A Comprehensive Review of the Samsung Galaxy S10e</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-system-files-on-windows-11-and-11-pro/"><u>Fixing System Files on Windows 11 and 11 Pro</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-banishing-the-darkness-tips-for-a-bright-screen-on-obs/"><u>In 2024, Banishing the Darkness Tips for a Bright Screen on OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-repair-fixing-windows-office-system-hiccups/"><u>Mastering Repair: Fixing Windows Office System Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-solid-state-drive-speed-on-windows-with-ssfresh/"><u>Mastering Solid State Drive Speed on Windows - With SSFresh</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-minimizing-webview2-footprint-on-windows/"><u>Steps for Minimizing WebView2 Footprint on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-mp4-tools-for-mac-users-maximizing-youtube-productions-for-2024/"><u>Top MP4 Tools For Mac Users Maximizing YouTube Productions for 2024</u></a></li>
+</ul></div>
 

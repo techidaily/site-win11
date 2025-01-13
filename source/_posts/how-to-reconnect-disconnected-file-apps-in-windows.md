@@ -1,7 +1,7 @@
 ---
 title: How to Reconnect Disconnected File Apps in Windows
-date: 2024-08-16T00:55:24.529Z
-updated: 2024-08-17T00:55:24.529Z
+date: 2025-01-11T03:18:55.962Z
+updated: 2025-01-12T16:00:22.615Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
  The error can also occur when opening folders, mainly from Windows Search, and even when running apps and games. Here are some solutions you can apply to resolve this error regardless of where you get it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure You Have an App Installed That Can Open Such Files
 
  Windows presents this error primarily when it fails to find the appropriate app to open files. Therefore, first, you should check whether you have the right app installed to open files in this particular format. There are several ways to check this, but here is one of the easiest:
@@ -29,11 +33,19 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 3. Navigate to the**General** tab and look for the file format next to**Type of file** .  
 ![Check the File Format in Properties Window of File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it's a commonly used file format, such as PDF, JPEG, PNG, Docx, etc., for which you have the appropriate app installed, move on directly to heading #2\. However, if you see an unusual file format here—something you haven't seen before, make sure you have the appropriate app installed.
 
  To confirm this, right-click the file and navigate to**Open with > Choose another app** .
 
 ![Click on Choose Another App by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have a relevant app installed, Windows will suggest you select it to open the file. If you don't see any app suggestions here, you probably don't have any apps installed capable of opening this file type.
 
@@ -47,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
  If you haven't changed a default app before, check out our article on[Windows 11 default apps](https://www.makeuseof.com/change-windows-11-default-apps/) . The article discusses various ways to change the default app, but we recommend using the second method, which is using the Settings app. That's because this method lets you search for specific file formats and choose a default app for them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Is the Default App Already Selected? Repair or Change It
 
  If the app you intend to set as default for a particular file format is already selected as a default application, but Windows still displays this error, the app has likely become corrupt, thus causing the error.
@@ -66,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 
  Misconfiguring the Registry settings can result in undesirable outcomes and even render your device unbootable. Before you try the next fix, create a[backup of the Windows Registry so you can restore it](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if something goes wrong.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## 5\. Use the Registry
 
  If none of the above fixes have been successful, try this registry tweak as a last resort:
@@ -79,26 +85,23 @@ thumbnail: https://thmb.techidaily.com/1f78d2fb13516bc942d880b1ed451501538b368f9
 Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 4. If it's not there, right-click in the blank area and go to**New > String Value** . Then rename it to**"IsShortcut** .**"**  
-![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-5. If the string value is already there, right-click on it and select**Delete** .  
-![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
-7. Restart your device once after that.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
+5. If the string value is already there, right-click on it and select**Delete** .  
+![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
+6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+7. Restart your device once after that.
+
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
  If you get the "This file does not have an app associated with it" error when opening folders, try these checks:
@@ -124,8 +127,6 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,26 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-craft-the-best-premiere-pro-templates-2023/"><u>[New] Elevate Your Craft The Best Premiere Pro Templates 2023</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-adding-melodies-to-timelines-a-stepwise-guide-iosandroid-for-2024/"><u>[Updated] Adding Melodies to Timelines A Stepwise Guide (iOS/Android) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-find-your-ideal-21-hdmi-display-a-comparative-overview-for-2024/"><u>[Updated] Find Your Ideal 2.1 HDMI Display A Comparative Overview for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>[Updated] Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unraveling-top-6-your-guide-to-free-and-favored-shorts-downloaders/"><u>2024 Approved Unraveling Top 6 Your Guide to Free & Favored Shorts Downloaders</u></a></li>
+<li><a href="https://fox-that.techidaily.com/elevating-your-smartphone-photography-despite-having-a-lower-megapixel-iphone-camera/"><u>Elevating Your Smartphone Photography Despite Having a Lower Megapixel iPhone Camera</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959155228-ensure-peak-performance-downloading-updated-canon-pixma-ts3322-drivers-today/"><u>Ensure Peak Performance: Downloading Updated Canon PIXMA TS3322 Drivers Today</u></a></li>
+<li><a href="https://win11.techidaily.com/get-your-icloud-working-fixes-for-windows-users/"><u>Get Your iCloud Working: Fixes for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correct-missing-supported-devices-problem-in-win11/"><u>How to Correct Missing Supported Devices Problem in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-correctly-handle-windows-error-0x80071a90/"><u>How To Correctly Handle Windows Error 0X80071A90</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-or-disable-the-smartscreen-filter-in-windows-11-and-11/"><u>How to Enable or Disable the SmartScreen Filter in Windows 11 & 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-your-icloud-not-syncing-issues-today/"><u>How to Fix Your iCloud Not Syncing Issues Today</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-unlocking-win11-mouse-features/"><u>Navigating the Maze: Unlocking Win11 Mouse Features</u></a></li>
+<li><a href="https://win11.techidaily.com/recovering-access-microsoft-store-sign-in-solutions/"><u>Recovering Access: Microsoft Store Sign-In Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revealing-historys-best-anime-openers-for-2024/"><u>Revealing History's Best Anime Openers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-tackle-windows-error-code-0x8007045d/"><u>Strategies to Tackle Windows Error Code: 0X8007045D</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-click-lock-operations-for-windows-users/"><u>Streamlining Click Lock Operations for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-roblox-crashes-on-windows-demanding-termination/"><u>Troubleshooting Roblox Crashes on Windows Demanding Termination</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-a-non-responsive-search-bar-on-windows-11s-ui/"><u>Unblocking a Non-Responsive Search Bar on Windows 11’S UI</u></a></li>
+</ul></div>
 

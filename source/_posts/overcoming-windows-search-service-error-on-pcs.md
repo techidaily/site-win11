@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows Search Service Error on PCs
-date: 2024-08-23T06:06:40.119Z
-updated: 2024-08-24T06:06:40.119Z
+date: 2025-01-08T04:58:51.401Z
+updated: 2025-01-13T06:05:37.316Z
 tags:
   - windows10
   - windows11
@@ -44,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
  These are just a few basic ways we expect to work in case of a Windows search error. But, if you're still unable to search for anything, move to some advanced troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart the Relevant Windows Services
 
  When you boot up Windows, more than 50 services start simultaneously. This helps the operating system to function correctly, and most of these services are dependent on each other. So, if one service fails or stops for any reason, the dependent services will misbehave too.
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 ![Windows Update Service In Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-update-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's it. Now restart your system and check for the search error. If you’re still facing the Windows search could not start error, restarting the dependent services should do the trick. So, take your time and restart the services once.
 
 ## 3\. Fix Incorrect Group Policy Settings
@@ -75,10 +77,19 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 2. Click on **Administrative Templates > Windows Components > Search** to access all the settings related to Windows search.  
 ![Local Group Policy Editor Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/local-group-policy-editor-windows.jpg)
 3. Double-click on **Fully Disable Search UI** and select **Not Configured**. Click **OK** to save the changes and exit the settings wizard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Search Policy Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-policy-setting.jpg)
 4. You have to do the same thing, i.e., double-click, then select **Not Configured** and click **OK** with each of the following policies: **Do not allow web search**, **Configures search on the taskbar**, and **Allow search highlights**
 
  The Group Policy Editor is an advanced tool, and incorrect tweaks can cause system instability. So, be careful to change only the mentioned settings. If a setting is unavailable or locked on your computer, proceed to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable Windows Search Service via MSConfig
 
@@ -91,15 +102,9 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 3. At the top of the wizard, click on the **Services** tab.  
 ![Windows System Configuration Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-system-configuration-wizard.jpg)
 4. Scroll down the list and look for the **Windows Search** service.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If it's unchecked, check the box next to **Windows Search** to enable it, then click **Apply** and **OK**.  
 ![Windows Search In MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-search-in-msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Besides this, MSConfig has many other use cases. Read our in-depth guide on [Microsoft System Configuration Utility (MSConfig)](https://www.makeuseof.com/windows-msconfig-guide/) to know some of them.
 
 ## 5\. Delete Files in the Windows TxR Directory
@@ -114,19 +119,27 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 2. Navigate to the TxR directory (**C:\\windows\\system32\\config\\TxR**). The first time you open the folder, it'll show **This folder is empty**.  
 ![Windows TxR Directory Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-path.jpg)
 3. Click on **View** at the top bar of the File Explorer. Then, go to **Show** and tick **Hidden items**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Hidden Items File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hidden-items-file-explorer.jpg)
 4. Similarly, click on the three-dot menu at the top. Click **Options > View**. Scroll down and uncheck or disable **Hide protected operating system files (Recommended)**.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![File Explorer Folder Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-explorer-folder-options.jpg)
 5. Now all the files inside the directory should be visible to you. Please select all the files (**Ctrl + A**) and then delete them.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows TxR Directory Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-txr-directory-files.jpg)
 
  The steps might seem too complex, but the screenshots should help you. Besides, as Microsoft recommends, there's no harm in deleting the files in case of search service-related errors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Windows Search
 
@@ -136,14 +149,8 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
 ![PowerShell Script Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/powershell-script-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The script will now reset the search-related options and settings to their default state. Once done, open the Windows search bar and type something to check whether it's working.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reinstall Windows
 
  Unfortunately, if none of the solutions worked, your last option is reinstalling Windows. For this, see [how to reinstall Windows](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). There's no need to worry; this reinstallation will not remove any important files and apps.
@@ -158,11 +165,29 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
  In this guide, we'll look at some troubleshooting methods to resolve the Windows Search service error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-most-effective-9-microphone-capture-tools-online-2e/"><u>[New] 2024 Approved The Most Effective 9 Microphone Capture Tools Online (2E)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pazeras-mastery-of-sound-liberation-a-comprehensive-2024-report/"><u>[New] Pazera's Mastery of Sound Liberation A Comprehensive 2024 Report</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-detailed-review-optimal-screen-recorders-for-live-broadcasts/"><u>2024 Approved Detailed Review Optimal Screen Recorders for Live Broadcasts</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-playstation-1-triumph-winning-tips-for-gaming-pcs-duckstations-approach/"><u>Decoding PlayStation 1 Triumph: Winning Tips for Gaming PCs - Duckstation’s Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/gaining-superior-access-in-windows-settings-room/"><u>Gaining Superior Access in Windows Settings Room</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-alan-wake-2-crashing-2024-tips/"><u>How to Fix Alan Wake 2 Crashing - 2024 Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y56-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y56 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-in-telecommunication-win-1011-telnet-methods/"><u>Mastery in Telecommunication: Win 10/11 Telnet Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-best-windows-10-deals-and-product-keys/"><u>Navigating Best Windows 10 Deals & Product Keys</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/perfecting-bokeh-mastering-instagram-story-blur-for-2024/"><u>Perfecting Bokeh Mastering Instagram Story Blur for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-functional-bluetooth-mouse-on-windows-pcs/"><u>Tackling Non-Functional Bluetooth Mouse on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-functioning-windows-event-log/"><u>Troubleshooting Non-Functioning Windows Event Log</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-against-constant-c-drive-consumption/"><u>Winning Strategies Against Constant C: Drive Consumption</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-comprehensive-proton-vpn-assessment-exceptional-security-and-leak-shielding-features-for-privacy-savvy-users/"><u>ZDNet's Comprehensive Proton VPN Assessment: Exceptional Security & Leak Shielding Features for Privacy-Savvy Users</u></a></li>
+</ul></div>
+

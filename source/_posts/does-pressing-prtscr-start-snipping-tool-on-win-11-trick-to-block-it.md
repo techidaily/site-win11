@@ -1,7 +1,7 @@
 ---
 title: Does Pressing PrtScr Start Snipping Tool on Win 11? Trick to Block It
-date: 2024-08-16T00:55:05.968Z
-updated: 2024-08-17T00:55:05.968Z
+date: 2025-01-06T19:21:02.600Z
+updated: 2025-01-13T03:00:02.125Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 
  If you're not a fan of the Snipping tool, here's how to reclaim the Print Screen key on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Did Windows 11 Claim the Print Screen Key?
 
  Microsoft recently released a new Insider Preview build of Windows 11, announced via the[Windows Blog](https://blogs.windows.com/windows-insider/2023/04/07/announcing-windows-11-insider-preview-build-22621-1546-and-22624-1546/) , that changes the way the Print Screen button functions by default. Earlier, the key would screenshot your entire screen and save it to the clipboard. You’d then have the option of importing this copied image data into a program such as a photo editor or even a word processor.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
  If you update to the latest Windows 11 build, pressing the Print Screen key will open the Windows Sipping tool instead. But that’s only if you haven’t previously changed this setting. If you have it set up to do something else, your preference will be preserved, Microsoft says.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset Print Screen Functionality to Default
 
  If your Print Screen key opens the Snipping tool and you’d like to go back to the way things were, a simple settings change will turn back the clock.
@@ -39,27 +44,25 @@ thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732c
 2. Click on**Accessibility** on the left pane.
 3. Scroll down to the**On-screen keyboard, access keys, and Print screen** section.  
 ![Change how Windows print screen button works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/toggle-print-screen-button-snipping-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Toggle the print screen button option off.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Take Screenshots Easily in Windows 11
 
  There are many ways to take a screenshot in Windows 11\. Using the Print Screen key is just one of them. And if you want to reclaim the old functionality of the Print Screen key, it's easy to do so.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -68,4 +71,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-cutting-edge-home-theater-top-10-players-in-24-for-2024/"><u>[New] Cutting-Edge Home Theater Top 10 Players in '24 for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-paving-way-to-success-premier-video-gatherings-post-vidcon/"><u>[Updated] In 2024, Paving Way to Success Premier Video Gatherings (Post-VidCon)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-leading-tools-for-clear-uncompromised-4k-recordings-for-2024/"><u>[Updated] Leading Tools for Clear, Uncompromised 4K Recordings for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-full-inspection-immersing-in-virtual-reality-with-gear-360/"><u>2024 Approved Full Inspection Immersing in Virtual Reality with Gear 360</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-workflow-with-psoft-tools-in-win11/"><u>Enhance Your Workflow with PSoft Tools in Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-the-potential-of-wonder-workshops-dash-a-full-review/"><u>Explore the Potential of Wonder Workshop's Dash: A Full Review</u></a></li>
+<li><a href="https://win11.techidaily.com/from-virtualbox-62-to-v70-upgrading-made-simple-for-win11-users/"><u>From VirtualBox 6.2 to v7.0: Upgrading Made Simple for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-your-cursor-a-star-on-windows-devices/"><u>How to Make Your Cursor a Star on Windows Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-all-star-software-selecting-best-bdr-players-for-pcmac/"><u>In 2024, All-Star Software Selecting Best BDR Players for PC/Mac</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on OnePlus Nord N30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-snip-and-sketchs-screen-shot-limitations-4-essential-fixes/"><u>Overcoming Snip & Sketch's Screen Shot Limitations: 4 Essential Fixes.</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-remedies-for-windows-11-troubles/"><u>Quick Remedies for WINDOWS 11 Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-w11s-erroneous-temporary-files/"><u>Reviving Your W11's Erroneous Temporary Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/swift-pathways-into-hangul-the-easiest-alphabet-lesson/"><u>Swift Pathways Into Hangul: The Easiest Alphabet Lesson</u></a></li>
+<li><a href="https://win11.techidaily.com/turn-on-calculators-night-mode/"><u>Turn On Calculator's Night Mode</u></a></li>
+</ul></div>
 

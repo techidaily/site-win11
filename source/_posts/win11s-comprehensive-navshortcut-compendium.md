@@ -1,7 +1,7 @@
 ---
 title: Win11's Comprehensive NavShortcut Compendium
-date: 2024-08-16T00:55:13.933Z
-updated: 2024-08-17T00:55:13.933Z
+date: 2025-01-06T00:19:16.186Z
+updated: 2025-01-13T04:37:01.479Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
  Whether you are looking for assistance while using the computer or just want to learn more about accessibility tools, Narrator has many benefits that can be a big help to all users. It is basically a text-to-speech tool that reads text aloud so that you can easily access and understand information on your computer.
 
  There are many keyboard shortcuts available for Narrator to help you make the most of this useful tool. To help you use Narrator more efficiently, we've compiled this comprehensive list of keyboard shortcuts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## All the Narrator Keyboard Shortcuts in Windows 11
 
@@ -176,20 +180,18 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Windows Narrator Can Do More
 
  Are you tired of clicking around with your mouse while using Narrator? If so, learning Narrator keyboard shortcuts on Windows can enhance your productivity. Here's a list of keystrokes for Narrator that you should know.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,4 +200,17 @@ Here are all the Narrator shortcuts available to you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-essentialists-guide-to-iphone-sound-recording/"><u>[New] In 2024, The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[New] In 2024, Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-steps-to-restore-obs-fullscreen/"><u>[Updated] In 2024, Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-winning-strategies-for-win-11s-crashy-photos-app/"><u>[Updated] In 2024, Winning Strategies for Win 11'S Crashy Photos App</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-frame-by-frame-focus-analyzing-recorder-quality/"><u>2024 Approved Frame-by-Frame Focus Analyzing Recorder Quality</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-boot-overhaul-simplified-windows-restarts-in-8-steps/"><u>Easy Boot Overhaul: Simplified Windows Restarts in 8 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-directory-is-not-empty-problem-error-0x80070091-in-win11-and-11/"><u>Fixing Directory Is Not Empty Problem (Error #0X80070091) in Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-vboxs-0x80004005-error-efail/"><u>Overcoming Windows VBox's 0X80004005 Error: E_FAIL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-programs-from-your-samsung-smart-tv/"><u>Step-by-Step Guide: Removing Programs From Your Samsung Smart TV</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-access-issue-with-your-files/"><u>Troubleshooting Windows Access Issue with Your Files</u></a></li>
+</ul></div>
 

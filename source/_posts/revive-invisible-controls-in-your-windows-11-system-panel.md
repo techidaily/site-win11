@@ -1,7 +1,7 @@
 ---
 title: Revive Invisible Controls in Your Windows 11 System Panel
-date: 2024-12-31T16:10:07.330Z
-updated: 2025-01-06T17:59:24.305Z
+date: 2025-01-11T18:41:46.569Z
+updated: 2025-01-12T17:12:27.764Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
  While Microsoft hasn’t said that it plans to do away with the Control Panel app, and plenty of [old apps remain in Windows 11](https://www.makeuseof.com/ancient-windows-features-still-in-windows-11/). Still, the rate at which the company is moving settings says that Microsoft is at least considering it. Of course, this isn’t necessarily a bad thing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft's New Home For Settings
@@ -48,13 +48,13 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 ![The Windows 11 Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/the-windows-11-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eventually, this decision will likely make even more sense. For the moment, however, it can be tough to find the settings you’re looking for, especially if they’re no longer located where they had been for years.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Finding a Setting's New Home
@@ -75,18 +75,21 @@ thumbnail: https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-uniting-zooms-power-with-facebook-live-streaming/"><u>[New] Uniting Zoom's Power with Facebook LIVE Streaming</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-multimedia-in-educational-practice/"><u>[Updated] 2024 Approved Navigating Multimedia in Educational Practice</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfected-presence-the-art-of-blurring-conference-backdrops-for-2024/"><u>[Updated] Perfected Presence The Art of Blurring Conference Backdrops for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-future-fables-top-30-quotes-on-tomorrows-realities/"><u>2024 Approved Future Fables Top 30 Quotes on Tomorrow's Realities</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-pro-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-performance-issues-with-netflix-on-windows/"><u>Improving Performance Issues with Netflix on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-crashes-and-freezes-with-vmware-in-windows-11/"><u>Overcoming Crashes & Freezes with VMware in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-virtual-physical-memory-limit-exceeded/"><u>Overcoming Virtual Physical Memory Limit Exceeded</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-issues-when-starting-genshin-impact/"><u>Quick Solutions: Resolving Issues When Starting Genshin Impact</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-missing-windows-6-essential-tactics-in-win11/"><u>Reactivating Missing Windows: 6 Essential Tactics in Win11</u></a></li>
-<li><a href="https://media-tips.techidaily.com/revamped-plex-poster-collection-a-fresh-look-at-your-favorite-films/"><u>Revamped Plex Poster Collection: A Fresh Look at Your Favorite Films</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-digital-recognition-finding-sids-in-windows-11/"><u>The Path to Digital Recognition: Finding SIDs in Windows 11</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/top-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Top 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-android-sound-recording-without-root-simple-guide/"><u>[New] 2024 Approved Android Sound Recording Without Root [Simple Guide]</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-create-youtube-channel-in-mobile-with-ease-personal-and-business/"><u>[New] 2024 Approved How to Create YouTube Channel in Mobile with Ease [Personal & Business]</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-10-best-camera-apps-for-iphone-x88-plus7-7-plus-free-and-paid/"><u>[New] In 2024, 10 Best Camera Apps for iPhone X/8/8 Plus/7/ 7 Plus - Free & Paid</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-addressing-distorted-media-on-youtube-platform/"><u>[Updated] Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dissecting-ffmpeg-the-gateway-to-original-audio-retention/"><u>2024 Approved Dissecting FFmpeg The Gateway to Original Audio Retention</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-poco-x6-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/authentic-gaming-with-or-without-am08-pro/"><u>Authentic Gaming with or without AM08 Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-access-denied-windows-messages/"><u>Deciphering 'Access Denied' Windows Messages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photoshop-tutorial-creating-3d-text-illusions/"><u>In 2024, Photoshop Tutorial Creating 3D Text Illusions</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-updates-an-in-situ-guide/"><u>Mastering Windows 11 Updates: An In-Situ Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-high-contrast-settings-for-mouse-cursors-in-windows-11/"><u>Navigating Through High-Contrast Settings for Mouse Cursors in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unsuccessful-o365-sync-in-windows-11/"><u>Overcoming Unsuccessful O365 Sync in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/surpassing-100-top-5-apps-to-enhance-volume-on-windows/"><u>Surpassing 100%: Top 5 Apps to Enhance Volume on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/top-arguments-for-keeping-the-status-quo-stick-with-win10/"><u>Top Arguments For Keeping the Status Quo: Stick With Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-m365-error-code-30015-26-in-windows/"><u>Troubleshooting M365 Error Code 30015-26 in Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-guide-the-leading-10-live-streaming-networks-for-2024/"><u>Ultimate Guide The Leading 10 Live Streaming Networks for 2024</u></a></li>
 </ul></div>
 

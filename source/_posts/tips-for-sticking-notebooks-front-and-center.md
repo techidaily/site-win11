@@ -1,7 +1,7 @@
 ---
 title: Tips for Sticking Notebooks Front and Center
-date: 2024-08-16T00:51:52.819Z
-updated: 2024-08-17T00:51:52.819Z
+date: 2025-01-12T08:44:49.154Z
+updated: 2025-01-13T02:35:59.023Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,19 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
 3. In the PowerToys Settings window, open the**Always on Top** tab**.**  
 ![power toys always on top](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top.jpg)
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
 8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
 
@@ -46,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/031a4402ffc175410606d46c107303b712eafaa4d
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -60,40 +71,33 @@ To pin Sticky Notes using DeskPins:
 2. Run the installer and keep all the options selected.
 3. Once installed, search for**DeskPins** and click on the**App** icon to launch the app.  
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 5. Next, click on the**Sticky Note** app window to keep it always on top.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
  The Sticky Notes app is an excellent productivity tool if you need to continuously jot down ideas and notes. With PowerToys’s Always On Top feature, the app can stay pinned forever on your desktop and not get lost with the other hundred apps in the background. Alternatively, use DeskPins if you find PowerToys overkill for this task.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +106,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-explore-new-movie-landscapes-top-7-alternates/"><u>[New] In 2024, Explore New Movie Landscapes - Top 7 Alternates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-6-pioneering-nft-creators-spurring-artistic-genius/"><u>[Updated] 2024 Approved 6 Pioneering NFT Creators Spurring Artistic Genius</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-tecno-spark-10c-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Tecno Spark 10C without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-roblox-gaming-with-smooth-playback-on-pcs/"><u>Elevating Your Roblox Gaming with Smooth Playback on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-graphics-performance-with-extra-vram/"><u>Enhance Graphics Performance with Extra VRAM</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/enhancing-your-home-network-experience-in-depth-analysis-of-the-tp-link-deco-p9-wi-fi-solution/"><u>Enhancing Your Home Network Experience: In-Depth Analysis of the TP-Link Deco P9 Wi-Fi Solution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-window-11-search-a-comprehensive-list/"><u>Improving Window 11 Search: A Comprehensive List</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-aperture-alchemy-crafting-the-top-10-lens-list/"><u>In 2024, Aperture Alchemy Crafting the Top 10 Lens List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-6s-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 6s Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intelligent-illumination-govee-reveals-smart-lighting-that-syncs-with-your-screen-for-enhanced-ambiance-spotlighted-by-zdnet/"><u>Intelligent Illumination: Govee Reveals Smart Lighting That Syncs with Your Screen for Enhanced Ambiance, Spotlighted by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-8-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 8</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-silent-deactivating-prompts-for-win-11s-administrator-login/"><u>Securely Silent: Deactivating Prompts for Win 11'S Administrator Login</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-repairing-could-not-create-vm-error-in-windows/"><u>Steps for Repairing 'Could Not Create VM' Error in WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/transformative-ui-proposals-to-refresh-windows-11s-widget-space/"><u>Transformative UI: Proposals to Refresh Windows 11'S Widget Space</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-resolving-error-in-stores-hub-0x80073cf3/"><u>Understanding and Resolving Error in Store's Hub: 0X80073CF3</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-lost-window-panes-6-steps-to-take-with-win11/"><u>Unveiling the Lost Window Panes: 6 Steps to Take with Win11</u></a></li>
+</ul></div>
 

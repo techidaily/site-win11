@@ -1,7 +1,7 @@
 ---
 title: "Enhance File Management & Editing: Learn to Use Text Actions in Snip"
-date: 2024-08-16T00:53:38.423Z
-updated: 2024-08-17T00:53:38.423Z
+date: 2025-01-07T17:36:55.159Z
+updated: 2025-01-13T09:16:05.714Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
  Originally, Windows 11 lacked a native Optical Character Recognition (OCR) feature. The closest thing to OCR is possible using Microsoft PowerToys which offers copying text from images feature. Fortunately, Microsoft changed all that with a new feature in the Snipping Tool.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the Text Actions Feature in the Snipping Tool?
 
@@ -40,21 +44,17 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 2. Now, pick any of the screen capture dimension options and capture the screenshot.
 3. Switch to the Snipping Tool window which will show the screenshot. Click on the **Text Actions** icon.  
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Redact Text in the Snipping Tool
 
  Apart from the text identification and copy feature, you can also redact text in the Snipping Tool. Redacting a text means excluding some types of texts which contain sensitive information. Currently, you only get two redact options in the tool; email addresses and phone numbers.
@@ -62,25 +62,28 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
  After you capture a screenshot and click on the **Text Actions** button, you will see a Quick Redact option next to the Copy All text option. Click on the **Quick Redact** option, and it will unselect and hide all the phone numbers and email addresses. Now, you can copy the remaining text with the **Copy All text** button.
 
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy Text From Screenshots in a Snap
 
@@ -88,11 +91,30 @@ thumbnail: https://thmb.techidaily.com/33493674183189bab67b88de79a85b9996c293935
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-the-cinematographers-blueprint-for-simple-water-vids/"><u>[New] The Cinematographer's Blueprint for Simple Water Vids</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-professional-tips-for-youtube-and-twitch-streamers-using-obs-effectively-for-2024/"><u>[Updated] Professional Tips for YouTube & Twitch Streamers Using OBS Effectively for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1-seamless-music-transfer-ultimate-guide-to-syncing-your-itunes-library-with-an-android-device/"><u>1. Seamless Music Transfer: Ultimate Guide to Syncing Your iTunes Library with an Android Device</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-eye-catching-text-in-media/"><u>2024 Approved Top 10 Eye-Catching Text in Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-startup-hurdles-how-to-fix-outriders-not-starting-for-pc-users/"><u>Bypassing Startup Hurdles: How to Fix Outriders Not Starting for PC Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-windows-desktop-visual-aesthetics/"><u>Fine-Tuning Windows Desktop Visual Aesthetics</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-12-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme 12 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-guide-shifting-nat-settings-on-windows-11-and-10-devices/"><u>In-Depth Guide: Shifting NAT Settings on Windows 11 & 10 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-printer-problem-fixes-for-windows-11-and-11-enterprise/"><u>Mastering Printer Problem Fixes for Windows 11 & 11 Enterprise</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-complete-sen/"><u>Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-and-fix-frozen-epic-games-launcher-error/"><u>Stop and Fix Frozen Epic Games Launcher Error</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-to-reactivate-print-services-post-disconnect/"><u>Techniques to Reactivate Print Services Post Disconnect</u></a></li>
+<li><a href="https://win11.techidaily.com/the-insiders-guide-to-windows-functional-control/"><u>The Insider's Guide to Window's Functional Control</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uncover-hidden-meanings-learn-korean-for-squid-games-intrica-written-by-user/"><u>Uncover Hidden Meanings: Learn Korean for Squid Game's Intrica Written by User:</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-midland-gxt1000vp4-a-revolution-in-clear-radio-conversations/"><u>Unveiling the Midland GXT1000VP4: A Revolution in Clear Radio Conversations</u></a></li>
+<li><a href="https://win11.techidaily.com/why-disable-yourphoneexe-insights-for-windows-xp-lovers/"><u>Why Disable YourPhoneExe? Insights for Windows XP Lovers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Seamless Windows Adjustments Through Quick Key Tricks
-date: 2024-08-16T00:53:25.817Z
-updated: 2024-08-17T00:53:25.817Z
+date: 2025-01-07T01:29:19.367Z
+updated: 2025-01-12T18:54:10.151Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  Luckily, Windows gives you options to undo and redo your actions. Plus, with hotkeys handy, you can always redo and undo them much faster. Read on to discover how to do that and save precious time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Undoing and Redoing Actions on Windows
 
  Undo, as you would know, is simply reversing an action you have done on your PC. This could be to correct a typo you made while using the keyboard or move back an image you transferred to a folder.
@@ -32,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
  Remember, you can't use the redo command without undoing an action first.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Undo on Windows With a Keyboard Shortcut
 
  The**Undo** command is an anti-clockwise curved arrow on the Quick Access Toolbar that you can click with a mouse or with the left-click button on your laptop trackpad.
@@ -44,22 +45,25 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
  You can also undo several actions at a time by clicking the down arrow next to**Undo** , selecting the actions in the list that you want to undo, and then clicking the list.
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Redo in a Snap With Redo Hotkeys
 
  You can save time and quickly redo an action by pressing the**Ctrl+Y** or**F4** redo hotkeys. If F4 doesn't work, first press the**F-Lock** key or**Fn** key, then**F4** .
@@ -68,39 +72,25 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
 
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
  One of the most invaluable things we can't recover is lost time. So start using undo and redo hotkeys on Windows to save some time and a few clicks. And if you like, you can also check out all of Windows 11's keyboard shortcuts to work smarter and faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +99,24 @@ thumbnail: https://thmb.techidaily.com/606be4e6c5a29affde6b0062eb01d7884930a95dd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/rreversible-termination-of-youtubes-brevity-mode/"><u>[New] Irreversible Termination of YouTube’s Brevity Mode</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-skyrocket-engagement-20-video-tricks-for-maximum-impact/"><u>[Updated] 2024 Approved Skyrocket Engagement 20 Video Tricks for Maximum Impact</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-bringing-history-alive-old-images-in-new-video-formats-for-2024/"><u>[Updated] Bringing History Alive Old Images in New Video Formats for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>[Updated] Maximize Storage Essential Xbox Drive Picks Reviewed</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twitter-to-instagram-seamless-video-broadcasting/"><u>[Updated] Twitter to Instagram Seamless Video Broadcasting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hues-in-action-implementing-color-schemes-properly/"><u>2024 Approved Hues in Action Implementing Color Schemes Properly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-video-editing-tips-tips-for-making-a-better-home-movie/"><u>2024 Approved Video Editing Tips - Tips for Making a Better Home Movie</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-nvidia-display-settings-are-not-available-error-on-the-nvidia-control-panel-for-windows/"><u>How to Fix the “Nvidia Display Settings Are Not Available” Error on the Nvidia Control Panel for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-missing-time-remaining-indicator-in-windows-11-pcs/"><u>How to Rectify Missing Time Remaining Indicator in Windows 11 PCs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-f15-5g-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy F15 5G Phone?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-text-artisan/"><u>Motion Text Artisan</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-error-with-windows-previous-credentials/"><u>Navigating Error with Windows Previous Credentials</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-user-screen-saver-alteration-in-windows/"><u>Preventing User Screen Saver Alteration in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reasons-and-techniques-for-ditching-integrated-graphics/"><u>Reasons and Techniques for Ditching Integrated Graphics</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-control-over-a-frozen-windows-start-button/"><u>Regaining Control over a Frozen Windows Start Button</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reset-microsoft-sql-access-for-malwarebytes/"><u>Steps to Reset Microsoft SQL Access for Malwarebytes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-significance-of-dxvk-integration-in-win-based-games/"><u>The Significance of DXVK Integration in Win-Based Games</u></a></li>
+</ul></div>
 

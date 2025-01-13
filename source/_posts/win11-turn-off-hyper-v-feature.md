@@ -1,7 +1,7 @@
 ---
 title: "Win11: Turn Off Hyper-V Feature"
-date: 2024-12-31T18:09:13.331Z
-updated: 2025-01-06T16:32:51.006Z
+date: 2025-01-05T17:19:25.667Z
+updated: 2025-01-12T19:27:19.072Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
  Luckily, you can disable Hyper-V in Windows 11 with the help of the classic Windows Features dialog, Command Prompt, and PowerShell.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why You May Need to Disable Hyper-V
@@ -47,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  You may also need to disable other hypervisor-dependent features, including Device Guard, Credential Guard, and memory integrity feature part of Core Isolation in Windows Security.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check if Hyper-V Is Running on Windows 11
 
 ![System information hyper has been detected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/system-information-hyper-has-been-detected.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can access the System Information app to determine if the Hyper-V virtualization is running. This is useful if you need to verify the Hyper-V hypervisor status after or before disabling it.
 
@@ -86,15 +86,15 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![Windows features dialog disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-hyper-v.jpg)
 3. Next, scroll down and locate the **Virtual Machine Platform** and **Windows Hypervisor Platform** options.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows features dialog disable virtual machine platform windows hypervisor platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-features-dialog-disable-virtual-machine-platform-windows-hypervisor-platform.jpg)
 4. Unselect both options and click **OK**.
 
 5. Windows will uninstall Hyper-V and other features from your system.
 6. Once done, restart your PC to apply the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. How to Disable Hyper-V Using BCDEDIT
 
@@ -115,9 +115,17 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
  Additionally, you can use the BCDEdit tool to perform other advanced tasks, such as [deleting the old boot menu options](https://www.makeuseof.com/tag/delete-boot-menu-options-windows/) and [adding a safe mode shortcut to the Windows 11 boot menu](https://www.makeuseof.com/windows-11-add-safe-mode-boot-menu/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. How to Uninstall Hyper-V Using the Command Prompt
 
 ![disable hyper v command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/disable-hyper-v-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the Windows Features dialog fails to remove Hyper-V, you can use the Command Prompt to disable the hypervisor. Here's how to do it:
 
@@ -134,7 +142,7 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![Powershell disable Hyper-V](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/powershell-disable-hyper-v.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you prefer PowerShell, use the WindowsOptionalFeature cmdlet to disable Hyper-V in Windows 11\. To do this, [launch PowerShell with admin privileges](https://www.makeuseof.com/windows-open-command-prompt-powershell/) and execute the command. Here's how to do it:
@@ -165,7 +173,7 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 7. Repeat the steps to delete all the virtual network adapters associated with Hyper-V.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Once done, close Device Manager and restart your PC. Next, uninstall Hyper-V and check for any improvements.
@@ -182,18 +190,23 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 2. In the left pane, click on the **Privacy & security** tab.  
 ![Privacy and security Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/privacy-and-security-windows-security.jpg)
 3. Next, click on **Windows Security**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under the **Protection areas** section, click on **Device security.**  
 ![Windows 11 privacy and security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Windows-11-privacy-and-security.jpg)
 5. Next, click on **Core isolation details** under the **Core isolation** section.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Windows device security core isolation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-device-security-core-isolation.jpg)
 6. Toggle the switch under **Memory integrity** to turn it **Off**.  
 ![Windows 11 core isolation memory integrity turned off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-11-core-isolation-memory-integrity-off.jpg)
 7. Restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Disable Device Guard and Credential Guard
 
@@ -217,26 +230,14 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 ![Windows registry editor Lsa subkey value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-lsa-subkey-value-0.jpg)
 2. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Next, in Registry Editor, navigate to the following location:  
 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\DeviceGuard`
 4. In the right pane, check if the **EnableVirtualizationBasedSecurity** value exists. If not, right-click the **DeviceGuard** subkey and select **New > DWORD (32-bit) Value**.  
 ![Windows registry editor Device Guard subkey create new DWORD value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-device-guard-subkey-create-new-dword-value.jpg)
 5. Next, rename the key as **EnableVirtualizationBasedSecurity** and set its value to **0**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Windows registry editor device guard subkey value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/windows-registry-editor-device-guard-subkey-value-0.jpg)
 6. Click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Restart your computer to apply the changes and disable Device Guard and Credential Guard. If you ever need to enable these features, modify the value data and change it to **1**.
 
@@ -256,18 +257,22 @@ thumbnail: https://thmb.techidaily.com/7e2e77f0d86cd559dbfa986d906ed8c2ea5221019
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-from-trending-videos-to-topical-graphics-tiktok-to-gif-guide/"><u>[New] From Trending Videos to Topical Graphics TikTok-to-GIF Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastery-in-minutes-full-vsco-app-guide/"><u>[Updated] In 2024, Mastery in Minutes Full VSCO App Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-crafting-instagram-highlights/"><u>[Updated] The Art of Crafting Instagram Highlights</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/advanced-techniques-for-crafting-dynamic-video-edits-for-2024/"><u>Advanced Techniques for Crafting Dynamic Video Edits for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-blue-screen-problem-0x8007007e/"><u>Eliminating Windows Blue Screen Problem: 0X8007007E</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-y55s-5g-2023-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo Y55s 5G (2023) Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-magix-video-pro-x-analysis/"><u>In 2024, Magix Video Pro X Analysis</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-2024-with-the-most-innovative-windows-machines/"><u>Mastering 2024 with the Most Innovative Windows Machines</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-remote-desktop-access-in-the-new-windows-era/"><u>Mastering Remote Desktop Access in the New Windows Era</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/myvidhub-testing-a-quest-for-more-features-for-2024/"><u>MyVidHub Testing A Quest for More Features for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reviewing-the-near-perfect-surface-laptop-studio-2-for-creatives/"><u>Reviewing the Near-Perfect Surface Laptop Studio 2 for Creatives</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/strategies-to-improve-seamless-broadcasts-in-obs-for-2024/"><u>Strategies to Improve Seamless Broadcasts in OBS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/your-on-premise-window-to-a-costless-chatgpt-clone-via-gpt4all/"><u>Your On-Premise Window to a Costless ChatGPT Clone via GPT4All</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-slowing-youtube-videos-37-chars/"><u>[New] 2024 Approved The Ultimate Guide to Slowing YouTube Videos (37 Chars)</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-preventing-total-loss-of-image-in-streaming-videos-on-youtube/"><u>[Updated] 2024 Approved Preventing Total Loss of Image in Streaming Videos on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-capturing-imagination-best-shot-tips/"><u>[Updated] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-ultimate-guide-to-essential-10-fcp-plugins/"><u>[Updated] The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-youtube-videos-editing-tips-using-imovie/"><u>2024 Approved Perfecting YouTube Videos Editing Tips Using iMovie</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-window-capture-suite-pro-xp/"><u>2024 Approved Window Capture Suite Pro XP</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-youtube-downloader-apps-on-your-android-device-for-2024/"><u>Choosing YouTube Downloader Apps on Your Android Device for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-strategies-for-resolving-error-xffffff-on-pcs/"><u>Expert Strategies for Resolving Error XFFFFFF on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-missing-windows-patch-installation-on-your-pc/"><u>Fixing Missing Windows Patch Installation on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-overcoming-windows-1011s-sound-device-opening-problem-on-audacity/"><u>Guide: Overcoming Windows 10/11'S Sound Device Opening Problem on Audacity</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-of-outlook-preview-app-in-windows-11/"><u>Installation of Outlook Preview App in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-streaming-setup-rectifying-the-server-disconnect-in-obs/"><u>Seamless Streaming Setup: Rectifying the Server Disconnect in OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-altering-administrators-account-name-in-win11/"><u>Step-by-Step: Altering Administrator's Account Name in Win11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/transforming-video-files-a-step-by-step-guide-on-converting-mp4s-into-audio/"><u>Transforming Video Files: A Step-by-Step Guide on Converting MP4s Into Audio</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-unlock-handbrake-on-widows/"><u>Troubleshoot: Unlock HandBrake on Widows</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-apple-maps-in-windows-environment/"><u>Utilizing Apple Maps in Windows Environment</u></a></li>
 </ul></div>
 

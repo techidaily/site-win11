@@ -1,7 +1,7 @@
 ---
 title: How to Enable Advanced Graphics in Application Guard for Edge in Windows 11
-date: 2025-01-03T20:24:31.156Z
-updated: 2025-01-06T19:24:38.584Z
+date: 2025-01-07T10:03:00.243Z
+updated: 2025-01-12T23:23:52.630Z
 tags:
   - windows10
   - windows11
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 5. Select**Change Applications Guard settings** from the Isolated browsing section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then, on the Application Guard settings page, toggle**Advanced graphics** on.  
@@ -45,13 +45,13 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 7. If you see a UAC prompt, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you follow the above steps, close the Settings window and restart your computer. Application Guard will now be enabled with advanced graphics support. If you ever want to turn off this feature, just follow the same steps and turn off Advanced graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Advanced Graphics via Registry Editor
@@ -70,13 +70,13 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 6. In the Value data field, type**1** and click**OK** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Application Guard for Edge Now Works With Advanced Graphics
@@ -98,17 +98,14 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb-for-2024/"><u>[New] From Silent Screens to Captivating Media Instantly Create Captions on FB for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decode-the-access-denied-error-resolving-error-code-0x05-on-windows-updates-easily/"><u>Decode the Access Denied Error: Resolving Error Code 0X05 on Windows Updates Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/defenders-data-dilemma-how-to-clean-windows-systems/"><u>Defender’s Data Dilemma: How to Clean Windows Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/efficient-call-capturing-on-windowsmac-the-comprerances-list/"><u>Efficient Call Capturing on Windows/Mac - The Comprerances' List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-tips-for-a-working-winshift/"><u>Essential Tips for a Working WinShift</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ate-your-way-to-perfect-content-top-12-flipscreen-cams-for-2024/"><u>Navigate Your Way to Perfect Content Top 12 Flipscreen Cams for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/panoramic-lenses-and-fixed-angle-gear-for-2024/"><u>Panoramic Lenses & Fixed-Angle Gear for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-a-frozen-service-control-panel-through-these-7-essential-fixes/"><u>Reviving a Frozen Service Control Panel Through These 7 Essential Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-the-removal-of-security-logs-in-win-1111/"><u>Simplifying the Removal of Security Logs in Win 11/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/the-concept-of-gibbs-free-energy-combines-enthalpy-temperature-and-entropy-to-predict-whether-a-process-will-occur-spontane-groove-or-not-at-constant-pressu658/"><u>The Concept of Gibbs Free Energy Combines Enthalpy, Temperature, and Entropy to Predict Whether a Process Will Occur Spontane Groove or Not at Constant Pressure and Temperature</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-6-virtual-reality-vr-gloves-to-check-out/"><u>Top 6 Virtual Reality (VR) Gloves to Check Out</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-ps1-experience-with-duckstation-and-windows/"><u>Transform Your PS1 Experience with Duckstation and Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-astute-selection-of-12-motion-cameras-with-onboard-positioning/"><u>[New] In 2024, Astute Selection of 12 Motion Cameras With Onboard Positioning</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-what-is-igtv-and-how-to-use-it-everything-you-need-to-know/"><u>[Updated] What Is IGTV and How to Use It Everything You Need to Know</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-site-performance-with-the-help-of-cookiebot-technology/"><u>Boost Site Performance with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-k70-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi K70 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-lack-of-microphone-feedback-in-pc-gaming-sessions/"><u>Resolving Lack of Microphone Feedback in PC Gaming Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-fun-best-free-media-tools-for-pcs/"><u>Streamline Fun: Best Free Media Tools for PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-no-server-woes-top-strategies-for-a-smooth-gaming-experience-on-windows-(156-chars/"><u>Tackle No-Server Woes: Top Strategies for a Smooth Gaming Experience on Windows (<156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10-or-11-wont-wake-from-sleep-with-keyboard-or-mouse-what-to-do/"><u>Windows 10 or 11 Won't Wake From Sleep With Keyboard or Mouse? What to Do</u></a></li>
 </ul></div>
 

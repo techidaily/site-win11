@@ -1,7 +1,7 @@
 ---
 title: Ensuring Smooth Performance in the Epic Launcher
-date: 2024-08-16T00:55:48.392Z
-updated: 2024-08-17T00:55:48.392Z
+date: 2025-01-11T20:01:50.125Z
+updated: 2025-01-13T00:52:17.891Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/6d09665be2a2fe83c31f111bbc0153ce5984e036a
 
  Reopen the Epic Games Launcher and try using it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 2\. Run Epic Games Launcher as an Administrator
 
  Running the Epic Games Launcher with admin rights can help you avoid any issues caused by a lack of relevant permissions to access system files and settings. Right-click on the **Epic Games Launcher** shortcut and select **Run as administrator**. Select **Yes** when the UAC (User Account Control) prompt appears.
@@ -42,6 +38,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Check the Epic Games Server Status
 
@@ -59,8 +59,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Disable Fullscreen Optimizations
 
  Enabling full-screen optimizations for an app on Windows can boost its performance in full-screen mode. However, this feature can sometimes cause compatibility issues, leading to abrupt app crashes. You can try disabling full-screen optimizations for the Epic Games Launcher to see if that restores normalcy.
@@ -71,6 +72,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Clear the **Disable fullscreen optimizations** checkbox.
 5. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimizations for Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-fullscreen-optimizations-for-epic-games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Clear the Epic Games Launcher’s Webcache Folder
 
@@ -85,8 +90,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Locate and select **webcache** folders.
 6. Click the **trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Fix the D3DCOMPILER\_43.dll File
@@ -98,15 +104,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Locate the **D3DCOMPILER\_43** file and delete it.
 4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -119,20 +123,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Select **Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Follow the on-screen instructions to repair the launcher and try using it again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 9\. Reinstall the Epic Games Launcher
 
  If repairing the Epic Games Launcher proves ineffective, you can try reinstalling it on your system. This should give the launcher a fresh start on your PC and resolve any issues with it. If you need help removing Epic Games Launcher, refer to our guide on [how to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and follow the steps outlined there.
 
  After uninstalling Epic Games Launcher, press **Win + R** to open the Run dialog box. Type **%localappdata%** in the box and press **Enter**. In the File Explorer window that appears, delete the **Epic Games launcher** folder. Once done, go to [Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
@@ -140,16 +142,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility, [scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Epic Games Launcher Crashes on Windows
 
  Problems with the Epic Games Launcher can be annoying as they prevent you from playing your favorite games. In most cases, these issues are caused by a lack of permissions or a corrupted app cache. In any case, one of the tips above should help you fix the underlying issue for good.
 
  If you are facing a similar issue, this guide contains some troubleshooting tips that will help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,3 +154,27 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pushing-boundaries-with-high-speed-cinematography/"><u>[New] In 2024, Pushing Boundaries with High-Speed Cinematography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-your-pathway-to-tiktok-live-spectatorship/"><u>[Updated] 2024 Approved Your Pathway to TikTok Live Spectatorship</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-your-brand-with-in-depth-instagram-performance-analyses/"><u>[Updated] In 2024, Enhancing Your Brand with In-Depth Instagram Performance Analyses</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974529267-achieve-superior-graphical-performance-update-intel-hd-3000-for-windows-10-now/"><u>Achieve Superior Graphical Performance: Update Intel HD 3000 for Windows 10 Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anytime-anywhere-communication-the-ultimate-guide-to-using-chatgpt-plus-chatgpt-everywhere/"><u>Anytime, Anywhere Communication: The Ultimate Guide to Using ChatGPT + ChatGPT Everywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-silent-speaker-issues-in-windows/"><u>Dealing with Silent Speaker Issues in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-xr-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone XR to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/innovative-model-conversion-from-text-to-video-within-hugging-faces-collaborative-ecosystem/"><u>Innovative Model Conversion From Text to Video Within Hugging Face's Collaborative Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/interpretation-of-red-x-markings-in-file-folders/"><u>Interpretation of Red X-Markings in File Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-correcting-failures-5-ways-for-win-users/"><u>Preventing and Correcting Failures: 5 Ways for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/pruning-context-menu-on-windows-11-for-efficiency/"><u>Pruning Context Menu on Windows 11 for Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-disjointed-windows-explorer-panes/"><u>Repairing Disjointed Windows Explorer Panes</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-combat-license-ends-soon-alert-on-windows-11/"><u>Strategies to Combat License Ends Soon Alert on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-overcome-chromes-stumbling-block-with-file-downloads-in-windows/"><u>Strategies to Overcome Chrome's Stumbling Block with File Downloads in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-domain-services-errors-affecting-print-on-w11/"><u>Tackling Domain Services Errors Affecting Print on W11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/ultimate-step-by-step-tutorial-restoring-your-itunes-collection-like-a-pro/"><u>Ultimate Step-by-Step Tutorial: Restoring Your iTunes Collection Like a Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/unwind-sluggishness-of-outlook-on-your-pc/"><u>Unwind Sluggishness of Outlook on Your PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-chromebooks-best-kept-secrets-online-video-editors-you-need/"><u>Updated 2024 Approved Chromebooks Best Kept Secrets Online Video Editors You Need</u></a></li>
+</ul></div>
+

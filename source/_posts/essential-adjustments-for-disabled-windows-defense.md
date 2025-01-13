@@ -1,7 +1,7 @@
 ---
 title: Essential Adjustments for Disabled Window's Defense
-date: 2024-08-23T06:06:45.906Z
-updated: 2024-08-24T06:06:45.906Z
+date: 2025-01-09T16:45:35.950Z
+updated: 2025-01-13T04:24:21.943Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,11 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 1. Head over to the [official Microsoft page for the troubleshooter](https://support.microsoft.com/en-us/windows/automatically-diagnose-and-fix-problems-with-windows-firewall-513e9cf8-19ae-d579-2092-d5e64fe06f5f) and download it.  
 ![Download firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-troubleshooter.jpg)
 2. Click on the downloaded file and proceed with the on-screen instructions to start the scan.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Firewall troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/firewall-troubleshooter.jpg)
 3. Once the scan completes, check the results and apply the solutions suggested by the troubleshooter.
 
@@ -58,14 +63,13 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 4. Click on **System and Security** \> **Windows Defender Firewall**.  
 ![Defender Firewall in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/defender-firewall.jpg)
 5. Head over to the left pane and choose **Restore defaults**.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Restore defaults for firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restore-defaults.jpg)
+
 1. Confirm the action in the following prompt and proceed with the on-screen instructions to proceed.
 2. Once done, open Run again.
 3. Type "cmd" in the text field and press **Ctrl** \+ **Shift** \+ **Enter** keys together. This will open Command Prompt with administrator privileges.
@@ -75,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 6. Wait for the command to execute and then restart your computer. Check if the problem is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Modify the Registry Editor
 
  There is also a chance that a Registry key DisableAntiSpyware is enabled, which is preventing you from enabling Firewall on your computer.
@@ -95,25 +100,20 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 5. Move to the right side and look for the DisableAntiSpyware key. If you locate it, delete it. You can also double-click on it and change its value to 0 if you do not want to delete it.  
 ![Disable or delete the registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/antispyware-key.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 1. Once done, head over to the following location:  
 `​​​​​​​​​​​​​​HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Services/BFE`
 2. Right-click on the **BFE** key and choose **Permissions** from the context menu.  
 ![Access permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/access-permissions.jpg)
 3. Under "Group or user names", click on **Add**.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Type "Everyone" in the "Enter the object names to select" and click **OK**.  
 ![Modify permissions of the key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/modify-permissions.jpg)
 5. Now, head over to the "Permissions for Everyone" section and checkmark the box associated with **Full Control** under Allow.
 6. Click **Apply** to save the changes and check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Additional Generic Fixes to Try
 
  Apart from the fixes we have listed above, here are some additional solutions that you can try to fix the Firewall problem.
@@ -122,13 +122,15 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
 * **Scan with SFC**: You can also scan the system for underlying corruption errors that might be leading to the problem using the [System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/). You can run it via Command Prompt and analyze the results to find the culprit.
 * **Clean install Windows**: If nothing works and it is essential for you to enable Firewall, you can [perform a clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) of Windows. It will wipe the existing installation and download a new one without any underlying problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Protect Your System With Windows Firewall
 
  The steps above should help you fix issues with Windows Firewall easily. If the error persists and you do not want to clean install the system yet, you can report the issue to Microsoft and wait for them to suggest a fix.
 
  Below, we explore the different solutions you can try to fix this issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -136,3 +138,24 @@ thumbnail: https://thmb.techidaily.com/fe3425cd8bd2ff0c1232de1bab83bce21e82181cb
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-captured-moments-to-digital-fame-broadcasting-with-gopro-and-social-platforms/"><u>[Updated] In 2024, From Captured Moments to Digital Fame Broadcasting with GoPro & Social Platforms</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[Updated] In 2024, Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-videotwitteraudio-direct-conversion-for-2024/"><u>[Updated] VideoTwitterAudio Direct Conversion for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-androids-top-game-lineup-for-disconnected-device-enthusiasts/"><u>2024 Approved Android's Top Game Lineup for Disconnected Device Enthusiasts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-enjoying-authentic-cricket-games-in-real-time/"><u>2024 Approved Secrets to Enjoying Authentic Cricket Games in Real-Time</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/copyright-free-gaming-scores-the-10-leading-sources/"><u>Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
+<li><a href="https://win11.techidaily.com/find-out-the-path-where-your-background-image-is-stored/"><u>Find Out the Path Where Your Background Image Is Stored</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-smart-7-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Smart 7 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/increase-photo-resolution-unaltered-image/"><u>Increase Photo Resolution - Unaltered Image</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-productivity-mastering-wpm-on-windows-os/"><u>Maximize Productivity: Mastering WPM on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-picture-summaries-for-windows-11/"><u>Modify Picture Summaries for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quicken-type-speed-on-windows-a-powertoys-approach/"><u>Quicken Type-Speed on Windows: A PowerToys Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-quiet-windows-store-cure-for-error-x00000000/"><u>Tackling the Quiet Windows Store: Cure for Error X00000000</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-your-windows-11-apps-calendar-and-mail-included/"><u>Unblock Your Windows 11 Apps - Calendar and Mail Included</u></a></li>
+<li><a href="https://win11.techidaily.com/wake-worry-free-usb-and-kb-solutions-for-win-os-issues/"><u>Wake Worry Free: USB & KB Solutions for Win OS Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-chatgpt-be-the-next-big-thing-in-advancing-global-health-systems/"><u>Will ChatGPT Be the Next Big Thing in Advancing Global Health Systems?</u></a></li>
+</ul></div>
+

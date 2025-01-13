@@ -1,7 +1,7 @@
 ---
 title: Unlock Personalized Clock Settings, Bypass Automatic Windows Change
-date: 2024-12-30T20:33:48.142Z
-updated: 2025-01-06T16:57:37.875Z
+date: 2025-01-05T18:34:09.639Z
+updated: 2025-01-12T23:00:24.889Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
  To restart your computer, save all your work and close any running applications. After that, open the Start menu and click **Restart**. Once your computer restarts, check if that fixes the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Turn on Location Services in the Settings
 
  If restarting your computer didn't fix the issue, check if location services are enabled. Location services allow Windows to automatically detect the time zone and set it accordingly.
@@ -41,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 4. Make sure the **Location services** option is enabled. If it's not, switch the toggle to turn it on.  
 ![Enable Location Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-location-services.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now restart your computer and check if Windows can set the time zone automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set the Windows Time Service to Automatic
 
@@ -63,17 +67,9 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Windows Time Service Status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-time-service-status.jpg)
 6. Now check the **Service status**. If it reads **Stopped**, click the **Start** button to start the service.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click **Apply** and **OK** to save the changes.
 
  Once you've done this, restart your PC and check the time zone settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -92,12 +88,20 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 ![Modify Registry to change the Set time zone automatically setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modify-registry-to-change-the-set-time-zone-automatically-setting.jpg)
 6. When the Edit DWORD Value window pops up, set the Value data to **3** and click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. After doing this, you must change the location setting. To do this, navigate to the following key:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CapabilityAccessManager\ConsentStore\location`  
  You can also copy and paste the path into the Registry Editor address bar. Now press Enter and this directs you to the Location key.
 8. Move to the right pane and double-click the **Value** (REG\_SZ) value.  
 ![Edit Registry to change the location setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-registry-to-change-the-location-setting.jpg)
 9. In the Edit String window, type **Allow** in the **Value data** field and click OK.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, close the Registry Editor and restart your PC. Windows should detect the time zone automatically and set it correctly.
 
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 4. Go to the right pane and double-click on **Turn off Windows Location Provider**.  
 ![Turn off Windows Location Provider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/turn-off-windows-location-provider.jpg)
 5. In the pop-up window, check the **Not Configured** option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click **Apply** and **OK** to save the changes.
 
@@ -144,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 3. **Update Windows:** Finally, [update Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to ensure you have all the latest fixes and security patches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Can Now Automatically Set the Time Zone
@@ -161,19 +161,16 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>[New] 2024 Approved Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-sharing-the-spotlight-involving-viewers-in-your-journey/"><u>[New] In 2024, Sharing the Spotlight Involving Viewers in Your Journey</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[New] In 2024, Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unboxing-ubiquity-the-profitable-vloggers-playbook/"><u>[New] In 2024, Unboxing Ubiquity The Profitable Vlogger's Playbook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-integrating-background-footage-for-enhanced-narratives/"><u>[New] Integrating Background Footage for Enhanced Narratives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/15-places-to-download-music-for-free/"><u>15 Places to Download Music for Free</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-hairstyles-for-visual-gurus/"><u>2024 Approved Hairstyles for Visual Gurus</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-sluggish-download-times-in-battlenet-games/"><u>Conquer Sluggish Download Times in Battle.net Games</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-management-of-user-biometrics-by-domains-in-w11/"><u>Efficient Management of User Biometrics by Domains in W11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/laptop-vs-chromebook-uncovering-key-distinctions/"><u>Laptop Vs. Chromebook: Uncovering Key Distinctions</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/mastering-gopro-livestreams-connecting-to-facebook-and-periscope/"><u>Mastering Gopro Livestreams Connecting to Facebook & Periscope</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-chrome-file-transfers-your-windows-fix-guide/"><u>Seamless Chrome File Transfers: Your Windows Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-missing-camera-in-windows-11/"><u>Troubleshooting Missing Camera in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-dynamic-brightness-adjustment-in-windows-11/"><u>Unlocking Dynamic Brightness Adjustment in Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-10-best-instagram-meme-accounts-to-make-you-laugh-with-tears-for-2024/"><u>[Updated] 10 Best Instagram Meme Accounts to Make You Laugh (with Tears) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-in-depth-assessment-photo-editing-tool-for-creatives/"><u>[Updated] 2024 Approved In-Depth Assessment Photo Editing Tool for Creatives</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-virtual-decoration-google-vs-alternative-ar-tools/"><u>[Updated] 2024 Approved Virtual Decoration Google Vs. Alternative AR Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-clipboard-functionality-in-windows-11s-edge-shielding-mode/"><u>Enabling Clipboard Functionality in Windows 11'S Edge Shielding Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-screen-resolution-in-windows-11/"><u>Fine-Tuning Screen Resolution in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comparing-the-gopro-max-360-and-hero-11-determining-the-superior-gopro-video-camera/"><u>In 2024, Comparing the GoPro Max 360 and Hero 11 Determining the Superior GoPro Video Camera</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ating-lawful-practices-for-screenshotting-youtube-videos/"><u>Navigating Lawful Practices for Screenshotting YouTube Videos</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-media-mindful-like-and-share-strategies-for-advertisers/"><u>Navigating Social Media: Mindful Like & Share Strategies for Advertisers</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-restore-file-editability-on-windows-devices/"><u>Solutions to Restore File Editability on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eliminating-read-only-files-in-win10win11/"><u>Strategies for Eliminating Read-Only Files in Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-stop-random-cmd-openings-on-windows-devices/"><u>Strategies to Stop Random CMD Openings on Windows Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crafting Executables From Batch Files in Windows
-date: 2024-08-16T00:56:00.966Z
-updated: 2024-08-17T00:56:00.966Z
+date: 2025-01-10T21:22:24.156Z
+updated: 2025-01-13T08:18:29.216Z
 tags:
   - windows10
   - windows11
@@ -20,13 +20,18 @@ thumbnail: https://thmb.techidaily.com/d62120d0f92dda8643d1fb18ba050a4238aed422d
 
  In what follows, that's precisely what we're going to cover. We’ll look at the top two ways to convert your Batch files into an EXE format, and lay out the process for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Convert Your Batch Files Into an EXE File
 
  Now, there are two broad ways to go about it. First, you can rely on a handy converter and let it convert your BAT files to EXE file. But, if you’re more of a do-it-yourself person, you can also go the manual way. Let’s dive into using the in-built Windows tool first.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Convert Your Batch Files to EXE with IExpress
 
 [IExpress](https://en.wikipedia.org/wiki/IExpress) is a free Windows program, in use since Windows 2000, specifically designed to create self-extracted packages. This is what makes it super handy for converting your Batch (BAT) files into EXE ones as well.
@@ -46,8 +51,9 @@ To launch the IExpress app, follow the steps below:
 cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
@@ -55,20 +61,19 @@ cmd /c Calculator.bat
  Stick with the default option in the**Show window** and**Finished message** menu, and click**Next** . Now, in the**Package Name and Options** menu, select**Browse** to pick a target path, name the file anything you’d like, and click on**Next** . In the following few pages, click on**Next** without changing anything.
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Convert Batch Files to EXE With a Converter
 
  While IExpress is more than enough to get the job done, not everyone wants to bother with the technical complexity it brings. Don't worry; you’re not alone in feeling that way. This is exactly why some clever people have developed tools to help you[easily automate your tasks](https://www.makeuseof.com/easily-automate-tasks-useful-tools/) on Windows.
@@ -81,9 +86,6 @@ cmd /c Calculator.bat
 4. Finally, click on**Save** .
 
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
 
@@ -91,14 +93,11 @@ cmd /c Calculator.bat
 
  Converting your BAT files to .exe files doesn’t have to be complicated. While the manual method above is excellent and will do the job for you, not everyone likes (or has the time) to get their hands dirty. And this is where the automated tools come to your rescue. The tool we've suggested above, BAT to EXE Converter, is only one of many; there are many out there to pick from. So make sure you do your research and choose the one most suited to your computer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +106,19 @@ cmd /c Calculator.bat
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-steps-to-document-chat-calls-on-whatsapp/"><u>[New] 2024 Approved Streamlined Steps to Document Chat Calls on WhatsApp</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-companion-for-advanced-win10-users/"><u>[New] The Essential Companion for Advanced Win10 Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-content-game-youtube-and-facebook-sync/"><u>2024 Approved Elevate Your Content Game YouTube & Facebook Sync</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resetting-catroot2-and-distro-in-ws11/"><u>Comprehensive Guide to Resetting Catroot2 & Distro in WS11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-eliminating-windows-11-tracking-technologies/"><u>Guide to Eliminating Windows 11 Tracking Technologies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-return-crafting-kit/"><u>In 2024, Return Crafting Kit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sharp-smudge-free-shooting-with-gopro/"><u>In 2024, Sharp, Smudge-Free Shooting with GoPro</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-usb-capacity-error-windows-problem/"><u>Overcoming “USB Capacity Error” Windows Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-x90017-on-windows-media-maker-tool/"><u>Remedying Error X.90017 On Windows' Media Maker Tool</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-gaming-monitors-for-xbox-series-x-a-buyers-guide-for-2024/"><u>Top Gaming Monitors for Xbox Series X - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vcruntime140dll-not-found-heres-how-you-can-resolve-it/"><u>VCRUNTIME140.dll Not Found? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-the-windows-odbc-data-sources-app-and-how-do-you-access-it/"><u>What Is the Windows ODBC Data Sources App, and How Do You Access It?</u></a></li>
+</ul></div>
 

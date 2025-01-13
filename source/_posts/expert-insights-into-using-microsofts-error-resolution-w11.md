@@ -1,7 +1,7 @@
 ---
 title: Expert Insights Into Using Microsoft's Error Resolution W11
-date: 2024-08-16T00:55:55.745Z
-updated: 2024-08-17T00:55:55.745Z
+date: 2025-01-06T02:19:42.660Z
+updated: 2025-01-13T03:39:46.707Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 
  Microsoft Error Lookup is a lightweight command-line tool. You don’t need a copious amount of system resources to run it on your system. Here’s how to download and set up the tool on your system:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Downloading and Renaming the Tool
 
  Repeat the following steps to download and install the Microsoft Error Lookup tool:
@@ -40,10 +44,15 @@ thumbnail: https://thmb.techidaily.com/971a75711e8320cab50ce3d6d3f20ecd50a3ca987
 4. Since it is a command-line tool, you will have to run it by typing its full name. The default download name is**Err\_6.4.5** which will be trouble to remember and type correctly every time in the Command Prompt. So, we will rename it to something easier like**Err** .
 5. Right-click on the Microsoft Error Lookup tool executable file and select**Show more options** .  
 ![Renaming Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/renaming-microsoft-error-lookup-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Then, click on the**Rename** option from the context menu. Type**Err** and press the enter key to rename the tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Placing the Tool in a Convenient Location
 
@@ -54,18 +63,12 @@ Here’s how to do it:
 1. Press**Win + E** to open File Explorer and navigate to the Microsoft Error Lookup Tool download location. Now, press**Ctrl + C** to copy the file.
 2. Go to the C drive and paste the tool. Grant permissions to place the tool in C drive.  
 ![Placing Microsoft Error Lookup Tool in C drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placing-microsoft-error-lookup-tool-in-c-drive.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 3. Now, press**Win + R** to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** in the text box and press enter key.
 4. In the Command Prompt window, type the following command and press the enter key:**cd C:\\** .
 5. Now, you will be in the parent directory. Type**Err** and press enter.  
 ![Running Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/running-microsoft-error-lookup-tool.jpg)
 6. Microsoft Error Lookup Tool will run and display the format to look up error codes along with other available parameters. Don’t close the tool yet.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check Error Codes Using Microsoft Error Lookup Tool
 
  Now, you have the Microsoft Error Lookup Tool up and running on your system. All you need to do is run appropriate commands to view information about error codes. Here’s how:
@@ -78,8 +81,9 @@ Here’s how to do it:
  An error code can have multiple meanings and the error lookup tool will list all of them. You can use this information to narrow down your search and try to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Export the Output of Microsoft Error Code Tool
 
  The tools can output multiple matches for an error code and that information becomes difficult to scroll in the Command Prompt window. But we can export the results of the error code lookup to a text file on your system.
@@ -91,9 +95,6 @@ Repeat the following steps:
 3. The syntax for copying the error code lookup results is:**Err \[Error code\] > \[Path of text file\]** .
 4. So, your final command will become:**Err 0x80070490 > D:\\error.txt** .  
 ![Exporting Error Code Lookup results in Microsoft Error Lookup Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-microsoft-error-lookup-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 5. It will export the results to the text file named error on D drive. If the file doesn’t exist, the tool will create it with the same name. However, it won’t display any search result in the Command Prompt and just display the number of matches found.  
 ![Exporting Error Code Lookup results in a text file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exporting-error-code-lookup-results-in-a-text-file.jpg)
 
@@ -106,20 +107,18 @@ Repeat the following steps:
  So, you can use the error lookup tool without any worries and patiently wait for Microsoft to release a new build. You can check for the latest available build by visiting the official download page of the Microsoft Error Lookup Tool. Or, you can try a bunch of third-party options like Winerr or Error Lookup Tool for a more presentable error code lookup and troubleshooting experience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lookup Error Details With Ease
 
  Microsoft Error Lookup Tool is a free tool that you can easily run on your system. Surely, you won’t get a very descriptive troubleshooting guide with it. But you will still be able to find the issue and error string related to it, and even a suggestion, if the tool has one.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +127,26 @@ Repeat the following steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-webmaster.techidaily.com/3iso/"><u>最高の3つのフリーISO圧縮ソフトウェア推薦チョイス</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/does-windows-11-upgrade-impact-your-saved-video-games-understanding-the-effects/"><u>Does Windows 11 Upgrade Impact Your Saved Video Games? Understanding the Effects</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/elite-picks-for-touchscreen-notebooks-in-depth-testing-and-professional-insights/"><u>Elite Picks for Touchscreen Notebooks: In-Depth Testing & Professional Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-display-dpi-scaling-in-windows-11/"><u>How to Change Display DPI Scaling in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eradicate-the-0x80072af9-error-on-pc/"><u>How to Eradicate the 0X80072AF9 Error on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a14-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy A14 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-anime-inspired-dance-routines-top-20-tiktok-trends/"><u>In 2024, Anime-Inspired Dance Routines Top 20 TikTok Trends</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-secrets-to-streamlining-lone-broadcasts-a-practical-guide/"><u>In 2024, Secrets to Streamlining Lone Broadcasts A Practical Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-wont-play-on-my-motorola-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Motorola</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-glitches-making-valorants-voice-chat-work-flawlessly-again/"><u>Overcoming Glitches: Making Valorant's Voice Chat Work Flawlessly Again</u></a></li>
+<li><a href="https://win11.techidaily.com/quake-mode-entry-with-windows-terminal/"><u>Quake Mode Entry with Windows Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-operations-fixing-data-failure-on-usb-drives-windows/"><u>Restoring Operations: Fixing Data Failure on USB Drives (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/sd-reader-unseen-in-windows-explore-solutions/"><u>SD Reader Unseen in Windows Explore - Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-fresh-radeon-graphics-drivers-in-windows-11/"><u>Tailored Guide to Fresh Radeon Graphics Drivers in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-file-explorer-experience-dragging-and-dropping-tabs-windows-11-style/"><u>Transform Your File Explorer Experience: Dragging & Dropping Tabs, Windows 11 Style</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-6-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6 Plus without Face ID</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-a1x-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo A1x 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/unshielding-windows-deactivating-defender-firewall/"><u>Unshielding Windows: Deactivating Defender Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-veiled-viewer-steps-to-engage-with-windows-hidden-character-tracker/"><u>Unveiling the Veiled Viewer: Steps to Engage with Windows’ Hidden Character Tracker</u></a></li>
+</ul></div>
 

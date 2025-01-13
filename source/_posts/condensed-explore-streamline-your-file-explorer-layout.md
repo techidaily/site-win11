@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-02T18:26:03.926Z
-updated: 2025-01-06T17:15:49.481Z
+date: 2025-01-11T07:40:19.498Z
+updated: 2025-01-13T07:25:21.959Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
@@ -54,25 +54,25 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
- With that, you should have less space between your files in File Explorer.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ With that, you should have less space between your files in File Explorer.
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,15 +112,16 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-zoom-audio-settings-for-getting-audio-quality-2-ways/"><u>[Updated] 2024 Approved Best Zoom Audio Settings for Getting Audio Quality [2 Ways]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamline-broadcasting-going-from-xbox-to-fb-live-for-2024/"><u>[Updated] Streamline Broadcasting Going From Xbox to FB Live for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/bulk-image-uploads-on-facebook-a-step-by-step-guide/"><u>Bulk Image Uploads on Facebook: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/clearing-up-full-capacity-message-for-chatgpt/"><u>Clearing Up Full Capacity Message for ChatGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/delving-into-self-how-to-start-windows-personalized-introspection-engine/"><u>Delving Into Self: How to Start Windows' Personalized Introspection Engine</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-solve-xp709-error/"><u>Methods to Solve XP709 Error</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-internet-disconnections-keeping-lele-online/"><u>Overcoming Internet Disconnections: Keeping LeLë Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/playing-retro-games-on-steam-deck-with-emudeck/"><u>Playing Retro Games on Steam Deck with EmuDeck</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-your-computers-double-clicking-technique/"><u>Revolutionize Your Computer's Double-Clicking Technique</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/upgrade-now-the-newest-thunderbird-update-version-52-available-on-mozilla-platforms/"><u>Upgrade Now: The Newest Thunderbird Update, Version ^52, Available on Mozilla Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus/"><u>[New] 2024 Approved Pro Game Documentation Capturing Roblox Experiences with a Mac in Focus</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-memory-and-cpu-peaks-for-news-and-interest-apps/"><u>Cutting Down Memory & CPU Peaks for News & Interest Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-update-brings-an-end-to-laggy-playback-performance-tweaks-explained/"><u>Cyberpunk 2077 Update Brings an End to Laggy Playback - Performance Tweaks Explained</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/dota-tangled-unstuck-your-game-from-the-load-screen-nightmare/"><u>Dota Tangled: Unstuck Your Game From the Load Screen Nightmare!</u></a></li>
+<li><a href="https://win11.techidaily.com/enliven-winter-hues-magical-window-themes/"><u>Enliven Winter Hues: Magical Window Themes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Blaze 2 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-12-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 12 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-windows-team-video-sharing/"><u>Reclaiming Windows Team Video Sharing</u></a></li>
+<li><a href="https://win11.techidaily.com/remove-faded-appearance-of-windows-volume-extend/"><u>Remove Faded Appearance of Windows' Volume Extend</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-pre-purchase-checklist-crucial-factors-for-win-pcs/"><u>The Ultimate Pre-Purchase Checklist: Crucial Factors for Win PCs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-file-mxf-a-formato-wav-senza-costi-movavi/"><u>Trasforma File MXF a Formato WAV Senza Costi - Movavi</u></a></li>
 </ul></div>
 

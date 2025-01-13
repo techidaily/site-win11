@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Stopping Windows 11 Security Guard"
-date: 2024-08-16T00:55:42.527Z
-updated: 2024-08-17T00:55:42.527Z
+date: 2025-01-09T03:55:24.153Z
+updated: 2025-01-13T05:37:51.897Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 
  As such, let's explore how to turn off or disable the Microsoft Defender firewall safely and securely in Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Important Is the Microsoft Defender Firewall?
 
  A firewall acts as a shield against unwanted intrusions and prevents external connections from accessing your system without permission. When disabled, your computer becomes vulnerable, and you should take extra precautions while online.
@@ -27,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
  To ensure maximum security while disabling your firewall, always make sure that other protective measures such as antivirus programs are running in the background. Once these have been taken care of, you can disable the firewall on your Windows 11 PC. Here's how to do this:
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. How to Disable the Firewall Using Windows Security
 
  The Windows Security program allows you to disable the firewall in Windows 11\. It is the most straightforward way to disable Microsoft Defender Firewall and you don’t need to have any additional tools or software installed. Here's how:
@@ -38,17 +43,11 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 3. Once you are in Windows Security, click on the **Firewall & network protection** option.
 4. Select the **Public network** or **Private network** profile and turn off the firewall for that selection.  
 ![Disable the Firewall Using Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-the-firewall-using-windows-security.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The UAC prompt will require you to accept it, so make sure your computer is set up as an admin account. If UAC prompts on the screen, click **Yes** to continue.
 
  Now that you have completed the above steps, disable the firewall for each network profile using the same procedure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## 2\. How to Disable the Firewall Through Control Panel
 
  If you are running an older version of Windows or prefer to use a more traditional method, you can disable your firewall through the Control Panel. This is a bit more technical than using Windows Security but still easy enough to do. Here’s how:
@@ -58,17 +57,9 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 2. In the Control Panel, select **System and Security** and then click **Windows Defender Firewall**.
 3. From the left pane, select **Turn Windows Defender Firewall on or off**.  
 ![Turn off the Firewall Through Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-through-control-panel.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 4. Then select **Turn off Windows Defender Firewall (not recommended)** for each network setting.
 5. Click **OK** to save your changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. How to Disable the Firewall Using Command Prompt
 
  If you are comfortable using the command line, then you can also disable your firewall through the Command Prompt. Here’s how:
@@ -111,6 +102,10 @@ Set-NetFirewallProfile -Profile Domain,Public,Private -Enabled False
 
  After running the above command, the firewall will be disabled for all network profiles simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. How to Turn Off the Firewall Using Group Policy Editor
 
  The Group Policy Editor is a powerful system resource that can be used to manage different settings on all Windows computers. With this tool, you can disable your firewall, but it only works with Windows Professional and Enterprise. If you are using Windows Home Edition, you need to [activate the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) in order to access it.
@@ -140,26 +135,27 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
 4. Specify **EnableFirewall** as the key name.
 5. Double-click it and enter **0** in the Value data field.  
 ![Turn Off the Firewall Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-off-the-firewall-using-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 6. Once you have made the changes, click **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you have completed all the steps above, close the Registry Editor and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable the Firewall With Ease on Windows
 
  You may want to disable the firewall for testing, developing applications, or playing online games. However, disabling the firewall can have risks, and you should always exercise caution. In case you need to do it, this guide explains multiple ways to do it, such as via Windows Security, Control Panel, Command Prompt, and more.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +164,23 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\Standard
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-8-techniques-for-capturing-pc-audio-and-mic-sounds/"><u>[New] 2024 Approved Top 8 Techniques for Capturing PC Audio & Mic Sounds</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-learning-the-top-10-educational-historians-yt/"><u>2024 Approved Elevate Your Learning The Top 10 Educational Historians YT</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-evolving-narratives-in-the-age-of-vr-movies/"><u>2024 Approved Evolving Narratives in the Age of VR Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-digital-workflow-with-the-power-of-windows-11s-search-bar/"><u>Elevate Your Digital Workflow with the Power of Windows 11'S Search Bar</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-asus-rog-phone-8-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-windows-encryption-tools-list-149-chars/"><u>Ideal Windows Encryption Tools List (149 Chars)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/improve-graphics-and-connectivity-windows-1011-hdmi-driver-update/"><u>Improve Graphics & Connectivity - Windows 10/11 HDMI Driver Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-laptops-wifi-free-download-of-intel-centrino-advanced-networking-card-driver-v6205/"><u>Improve Your Laptop's WiFi: Free Download of Intel Centrino Advanced Networking Card Driver V6205</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-nord-n30-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Nord N30 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-editing-how-to-load-music-in-inshot/"><u>In 2024, Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-guide-to-restore-brightness-in-windows-steam/"><u>Instant Guide to Restore Brightness in Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-win-pc-top-6-remedies-for-disabled-network-adapter-issues/"><u>Repairing Win PC: Top 6 Remedies for Disabled Network Adapter Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-your-shift-keys-functionality/"><u>Restore Your Shift Key's Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrocket-your-performance-essential-strategies-with-windows-11-39/"><u>Skyrocket Your Performance: Essential Strategies with Windows 11 (39)</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-windows-gpt-freedom-and-open-discussion/"><u>Unleash Windows GPT: Freedom and Open Discussion</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-the-potential-of-social-networking-through-neighborhoods/"><u>Unlocking the Potential of Social Networking Through Neighborhoods</u></a></li>
+</ul></div>
 

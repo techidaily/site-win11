@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Device Checkup: The Essential Five Ways to Monitor Availability"
-date: 2024-08-16T00:53:08.175Z
-updated: 2024-08-17T00:53:08.175Z
+date: 2025-01-08T23:32:29.472Z
+updated: 2025-01-13T09:00:15.040Z
 tags:
   - windows10
   - windows11
@@ -29,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 3. Check the system uptime under the**Up time** section.  
 ![Check System Uptime Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## 2\. How to Find System Uptime via the Settings App
 
  Another way to check your system's uptime is through the Windows Settings app. Here are the steps for the same.
@@ -56,13 +53,15 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 6. Right-click on the active network adapter and select**Status** .
 7. Under the**General** tab, you’ll find the uptime next to**Duration** .  
 ![Check System Uptime Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-control-panel.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to Check System Uptime With Command Prompt
 
  If you're an advanced Windows user, you can also use Command Prompt to check your computer’s uptime. Here’s how:
@@ -72,15 +71,13 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 3. Type the following command in the console and press**Enter** .  
 `systeminfo | find "System Boot Time"`  
 ![Check System Uptime Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-command-prompt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you run the above command, Command Prompt should display the time when your computer started operating. You can easily calculate the system uptime by subtracting the**System Boot Time** from the current time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Check System Uptime With PowerShell
 
  PowerShell is another command-line tool available on Windows. If you prefer using that, follow these steps to find your device’s uptime.
@@ -91,27 +88,29 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 `(get-date) - (gcim Win32_OperatingSystem).LastBootUpTime`  
 ![Check System Uptime Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-system-uptime-using-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  PowerShell should display the number of days, hours, minutes, seconds, and milliseconds since the device was turned on.
 
  Like using PowerShell on Windows? Why not familiarize yourself with these[best PowerShell commands on Windows](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Checking Your Device Uptime on Windows 11
 
  As we just saw, finding your Windows 11 PC’s uptime is fairly simple. You can use any of the methods listed above to find that information.
 
  The total uptime of your computer may not provide you with accurate information about how much time you spend in front of it. For that, you’ll need to check Power & battery usage in the Windows Settings app.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,21 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-get-ahead-with-top-tier-premiere-pro-samples-free/"><u>[New] Get Ahead with Top-Tier Premiere Pro Samples (Free)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-action-cams-for-beginners/"><u>[Updated] Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-guide-to-instagram-video-advancement-a-planning-primer/"><u>[Updated] In 2024, The Guide to Instagram Video Advancement A Planning Primer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-instant-sharing-convert-tweets-to-snaps-users-for-2024/"><u>[Updated] Instant Sharing Convert Tweets to Snaps Users for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/1-fast-and-simple-methods-for-combining-ts-videos-into-an-mp4-format/"><u>1. Fast & Simple Methods for Combining .TS Videos Into an MP4 Format</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cyber-health-solutions-for-modern-medicine/"><u>Cyber-Health Solutions for Modern Medicine</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-endless-game-worlds-win-11-and-android-with-google-play-gateway/"><u>Discover Endless Game Worlds: Win 11 & Android with Google Play Gateway</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-clutter-automatic-deletion-features-on-windows-11-pcs/"><u>Eliminate Clutter: Automatic Deletion Features on Windows 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tweaks-to-stop-windows-settings-glitches/"><u>Essential Tweaks to Stop Windows Settings Glitches</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unlocking-youtube-wealth-strategies-for-a-non-ad-earnings-model/"><u>In 2024, Unlocking YouTube Wealth Strategies for a Non-Ad Earnings Model</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-slow-running-excel-on-a-windows-pc/"><u>Jumpstart Your Slow Running Excel on a Windows PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/step-by-step-guide-recording-live-skiesports-broadcasts-on-pc-and-mac/"><u>Step-by-Step Guide: Recording Live Skiesports Broadcasts on PC & Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-the-cannot-start-application-error-0xc000003e/"><u>Understanding and Rectifying the Cannot Start Application Error 0XC000003E</u></a></li>
+<li><a href="https://win11.techidaily.com/vanishing-variables-discreet-windows-controls/"><u>Vanishing Variables: Discreet Windows Controls</u></a></li>
+</ul></div>
 

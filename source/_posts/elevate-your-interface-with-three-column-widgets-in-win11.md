@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Interface with Three-Column Widgets in Win11
-date: 2024-08-16T00:53:15.686Z
-updated: 2024-08-17T00:53:15.686Z
+date: 2025-01-08T02:27:40.021Z
+updated: 2025-01-13T02:51:40.460Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 Simply put, they have no separation in the two-column Widgets view.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is the ViveTool and Why Do You Need It to Enable the New Widgets Board?
 
  ViveTool is a third-party application that helps you enable features many Windows Insiders or the general public cannot use in Windows 11\. In other words, the tool allows us to enable hidden features in Windows 11\. We have a detailed guide on[downloading and using ViveTool to enable unreleased features](http://www.makeuseof.com/vivetool-windows-guide/) .
@@ -42,8 +39,9 @@ Simply put, they have no separation in the two-column Widgets view.
  For convenience, set up ViveTool and its extracted contents in the**C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the New Widgets Panel in Windows 11
 
 ![Screenshot showing how to enable three column widget panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel.jpg)
@@ -61,8 +59,9 @@ vivetool /enable /id:43028164
  Now, launch the Widgets panel from the taskbar. If you do not have the Widgets icon in the taskbar, you can tweak the taskbar setting and bring that icon to your taskbar.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will the Widgets Panel Be Available for Other Insider Channels?
 
  Every feature that Microsoft tests in Canary Channel build may or may not make it to other Insider Channels. The new Widgets Board is no exception.
@@ -70,13 +69,15 @@ vivetool /enable /id:43028164
  But since Microsoft has officially confirmed that it will be available to more Insiders in the coming days, we are hopeful it will make its way to other channels and, eventually, to a stable Windows 11 release.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will Widgets Panel Always Have Three Columns in the Future?
 
 ![Three Column Widget panel screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/three-column-widget-panel-screenshot-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is likely that the new Widgets Board will completely replace the one with two columns. Once you enable the three-column Widgets using ViveTool, there are no ways to return to using the old Widgets board.
@@ -84,22 +85,20 @@ vivetool /enable /id:43028164
  However, we cannot rule out the possibility of Microsoft making the larger Widgets board optional in the future, allowing users to decide which suits them best.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## New Widgets Board in Windows 11, Enabled
 
  The new Widgets panel offers a more organized canvas and is super simple to enable using ViveTool. After enabling the new Widgets board, every other setting remains the same.
 
  In other words, you can tweak Windows 11's Widgets settings to get the most out of it even when it shows all your widgets and the feed content in a single panel.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +107,24 @@ vivetool /enable /id:43028164
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-enchanting-photographs-with-music-infused-videography/"><u>[Updated] 2024 Approved Enchanting Photographs with Music-Infused Videography</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-benqs-visionary-approach-to-4k-monitors-unraveled-by-the-bl2711u-review/"><u>[Updated] In 2024, BenQ's Visionary Approach to 4K Monitors, Unraveled by the BL2711U Review</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1726030007560-mp3/"><u>「オーディオファイル形式と拡張子の変更：MP3への音楽データ転送ガイド」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>2024 Approved Stay in the Limelight How to Keep YouTube CC and Boost Views</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cosa-fare-se-vuoi-unire-piu-file-mp4-consigli-e-tecniche-di-ottimizzazione-seo/"><u>Cosa Fare Se Vuoi Unire Più File MP4? Consigli E Tecniche Di Ottimizzazione SEO</u></a></li>
+<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/designers-delight-incorporating-fonts-into-ae-projects/"><u>Designer's Delight Incorporating Fonts Into AE Projects</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-ui-incorporating-an-indicator-of-current-weather-on-your-pcs-taskbar/"><u>Enhancing UI: Incorporating an Indicator of Current Weather on Your PC's Taskbar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-security-excluding-bitlocker-options/"><u>Navigating Windows Security: Excluding BitLocker Options</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sluggish-excel-on-windows-desktop-computers/"><u>Overcoming Sluggish Excel on Windows Desktop Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/rediscover-lost-controllers-with-ease-on-windows-steam/"><u>Rediscover Lost Controllers with Ease on Windows Steam</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-for-transforming-cr2-photos-into-compatible-jpgs-in-windows/"><u>Simple Steps for Transforming CR2 Photos Into Compatible JPGs in Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/telecharger-et-jouer-gratuitement-la-playlist-en-4k-avec-le-telechargement-video-4k-optimal/"><u>Télécharger Et Jouer Gratuitement La Playlist en 4K Avec Le Téléchargement Vidéo 4K Optimal</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-flawless-windows-performance-using-pct/"><u>Unleash Flawless Windows Performance Using PCT</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-transformed-lost-aesthetic-aspects/"><u>Windows Transformed: Lost Aesthetic Aspects</u></a></li>
+</ul></div>
 

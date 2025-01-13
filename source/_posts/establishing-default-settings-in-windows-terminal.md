@@ -1,7 +1,7 @@
 ---
 title: Establishing Default Settings in Windows Terminal
-date: 2025-01-02T20:38:41.881Z
-updated: 2025-01-06T20:17:21.135Z
+date: 2025-01-07T20:54:25.661Z
+updated: 2025-01-12T22:49:55.465Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Change the Default Terminal App via Windows Terminal's Settings
 
  The most straightforward way to change the default command-line interface on your Windows computer is by using Windows Terminal's settings menu. Here are the steps you can follow.
@@ -42,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App via Terminal Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to undo the above changes later, simply repeat the above steps and select **Windows console host** or **Let Windows decide** in the **Default terminal application** drop-down menu.
 
  Alternatively, you can also reset the Terminal app on your PC. If you are interested in doing that, check our guide on [how to reset the Windows Terminal settings to their defaults in Windows](https://www.makeuseof.com/windows-11-reset-terminal-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Change the Default Terminal App Using Windows Console Host Properties
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App via Console Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-via-console-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Default Terminal App From Windows Settings
@@ -76,13 +76,13 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 ![Set Windows Terminal as the Default App From Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-windows-terminal-as-the-default-app-from-windows-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, both Command Prompt and PowerShell will launch in the chosen app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Default Terminal App Is Easy
@@ -103,18 +103,18 @@ thumbnail: https://thmb.techidaily.com/e28897e8d930e3677167fd762a9f129952956dbe6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/xploring-the-essence-of-youtube-live-imagery-language-for-2024/"><u>[New] Exploring the Essence of YouTube Live Imagery Language for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-charting-a-path-to-monthly-earnings-from-youtube/"><u>[Updated] In 2024, Charting a Path to Monthly Earnings From YouTube</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-free-vm-disk-image-recovery-software-top-5-picks-for-retrieving-vmdk-files/"><u>Best Free VM Disk Image Recovery Software: Top 5 Picks for Retrieving VMDK Files</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s24plus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S24+ Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-misattributed-audio-application-use-in-pc/"><u>Eliminating Misattributed Audio Application Use in PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Xiaomi 13 Ultra FRP</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In 2024, In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-xbox-audio-output-on-windows-devices/"><u>Mastering Xbox Audio Output on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-visual-performance-the-winning-plan-for-increased-vram/"><u>Skyrocket Your Visual Performance: The Winning Plan for Increased VRAM</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-windows-11-from-auto-restarting-abruptly/"><u>Stop Windows 11 From Auto-Restarting Abruptly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-of-transparent-chatbot-conversations/"><u>The Risks of Transparent Chatbot Conversations</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unleashing-efficiency-end-stutter-issues/"><u>Unleashing Efficiency: End Stutter Issues</u></a></li>
-<li><a href="https://win11.techidaily.com/update-windows-11-ensure-your-system-is-up-to-date-for-any-built-in-improvements-and-fixes-regarding-display-settings/"><u>Update Windows 11: Ensure Your System Is up to Date for Any Built-In Improvements and Fixes Regarding Display Settings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-8-ultimate-windows-10-video-grabber-apps-you-must-try-for-2024/"><u>[New] 8 Ultimate Windows 10 Video Grabber Apps You Must Try for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[New] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/1726027971990-bandicam/"><u>初心者でも簡単に! Bandicam ロゴ除外手順</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/create-a-stunning-light-sweep-effect-in-filmora-use-simple-and-easy-steps-to-export-a-high-quality-video-that-will-impress-even-pro-video-editors-for-2024.m/"><u>Create a Stunning Light Sweep Effect in Filmora. Use Simple and Easy Steps to Export a High-Quality Video that Will Impress Even Pro Video Editors for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/free-your-pc-from-stubborn-windows-temp-files/"><u>Free Your PC From Stubborn Windows Temp Files</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-discover-the-directory-of-win11-theme/"><u>How to Discover the Directory of Win11 Theme</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-revive-your-printer-on-windows-11/"><u>How to Revive Your Printer on Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-channel-design-mastery-selecting-the-right-yt-banner-and-art-sizes/"><u>In 2024, Channel Design Mastery Selecting the Right YT Banner & Art Sizes</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-tinker-with-time-display-in-windows-taskbar/"><u>Learn to Tinker with Time Display in Windows Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-window-11-with-these-6-trusted-android-apps/"><u>Optimize Your Window 11 with These 6 Trusted Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-windows-performance-tracker-functionality/"><u>Restoring Windows Performance Tracker Functionality</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-14-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 14 Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/windows-hdplus-excellence-navigating-through-high-dynamic-range-worlds/"><u>Windows HD+ Excellence Navigating Through High Dynamic Range Worlds</u></a></li>
 </ul></div>
 

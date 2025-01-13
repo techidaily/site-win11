@@ -1,7 +1,7 @@
 ---
 title: Navigate Through Fonts with Win11's Tool
-date: 2025-01-04T20:13:36.898Z
-updated: 2025-01-06T16:32:42.938Z
+date: 2025-01-08T03:01:34.993Z
+updated: 2025-01-12T19:48:13.117Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Character Map Using Windows Search
@@ -37,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Open Character Map Using the Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool.jpg)
 2. Type "character map" in the search box and hit the**Enter** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've opened Character Map, you can select a font from the drop-down menu at the top of the window. Then, scroll through the list of available characters and click on the one you want to insert. Finally, click the Copy button and paste the character into your document or email.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Character Map Using the Run Dialog
 
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Open Windows Run Dialog Box (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ).  
 ![Open Character Map Using the Search Tool Using the Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-the-Search-Tool-Using-the-Run-Command.jpg)
 2. Type "charmap" into the text box and press the**Enter** key. The Character Map window will now appear on your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. How to Open Character Map From the Start Menu
 
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 5. Double-click on the**Character Map** to open the utility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Open Character Map Through Task Manager
@@ -85,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![Open Character Map Using Task Manager.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Character-Map-Using-Task-Manager.jpg)
 3. Type "charmap" into the Create new task window and press Enter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From here, you can choose the character or symbol that you want to insert and then click on the Select button. Now click the Copy button and paste it where you need it.
 
 ## 6\. How to Open Character Map Via File Explorer
@@ -98,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Press**Win + E** to open File Explorer. For other methods, see our guide to[opening Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. Type "charmap" in the address bar and press Enter.
 3. This will open the Character Map window on your computer screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Character Map Using a Desktop Shortcut
 
@@ -131,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 3. Now press the**Enter** key. The Character Map application will appear on your screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Pin the Command Prompt to the Start menu or Taskbar
@@ -141,10 +145,6 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Click on Start and type "Character Map."
 2. Under Character Map, select**Pin to taskbar** on the right side.  
 ![Pin Character Map to taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Character-Map-to-taskbar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This way you can now easily access the tool from the taskbar.
 
@@ -167,24 +167,20 @@ This way you can now easily access the tool from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-leveraging-hashtags-in-twitter-advertising/"><u>[Updated] 2024 Approved Leveraging Hashtags in Twitter Advertising</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-direct-video-tweet-release-avoid-the-rt-for-2024/"><u>[Updated] Direct Video Tweet Release Avoid the 'RT' For 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-diving-into-virtual-worlds-iphone-vr-viewing-101-for-2024/"><u>[Updated] Diving Into Virtual Worlds IPhone VR Viewing 101 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-art-of-editing-reimagined-by-vidas-innovations/"><u>[Updated] In 2024, The Art of Editing Reimagined by Vida's Innovations</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-no-cost-conversion-transform-dng-images-into-jpgpng-with-online-tools-movavi/"><u>1. No Cost Conversion: Transform DNG Images Into JPG/PNG with Online Tools - Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/elusive-command-center-hide-and-seek-guide-for-win/"><u>Elusive Command Center Hide-and-Seek Guide for Win</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-snag-a-samsung-odyssey-g7-monitor-at-almost-half-price-in-the-amazon-spring-clearance-event-tech-news/"><u>Huge Savings Alert: Snag a Samsung Odyssey G7 Monitor at Almost Half Price in the Amazon Spring Clearance Event | Tech News</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harness-the-power-of-look-up-tables-luts-for-professionals/"><u>In 2024, Harness the Power of Look-Up Tables (LUTs) for Professionals</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme 11X 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://win11.techidaily.com/lockdown-windows-7-ways-to-secure-your-system/"><u>Lockdown Windows: 7 Ways to Secure Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/muting-chromium-browser-sounds-on-windows-pc/"><u>Muting Chromium Browser Sounds on Windows PC</u></a></li>
-<li><a href="https://win11.techidaily.com/pathways-into-your-windows-11-apps-vault-explored/"><u>Pathways Into Your Windows 11 Apps Vault Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-cmd-setups-with-windows-shortcuts-a-practical-guide/"><u>Quick Cmd Setups with Windows Shortcuts: A Practical Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-obs-error-in-windows-11-during-streaming/"><u>Resolving OBS Error in Windows 11 During Streaming</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-your-notepad-on-windows-quick-fixes-guide/"><u>Reviving Your Notepad on Windows: Quick Fixes Guide</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-master-your-graphics-card-configuration-using-yls-expert-advice/"><u>Step-by-Step: Master Your Graphics Card Configuration Using YL's Expert Advice</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-essential-pct-paths/"><u>Unlocking Windows: Essential PCT Paths</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-change-your-onedrive-folders-address/"><u>Win 11: Change Your OneDrive Folder's Address</u></a></li>
-<li><a href="https://blog-min.techidaily.com/wmv-ogg-movavi/"><u>WMV 및 OGG 파일을 바로커리에서 제공하는 것과 동일한 방식으로 자주로 무료로 전환 - Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-phone-communication-a-step-by-step-guide-on-downloading-and-customizing-whatsapp-ringtones/"><u>[Updated] In 2024, Elevate Phone Communication A Step-By-Step Guide on Downloading & Customizing WhatsApp Ringtones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-rights-overload-immediate-content-scrapping-for-2024/"><u>[Updated] Rights Overload Immediate Content Scrapping for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-itel-p40-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-avi-to-mpeg-2-without-cost-top-3-effective-strategies/"><u>Convert AVI to MPEG-2 Without Cost: Top 3 Effective Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/cracking-the-code-how-to-handle-bsod-at-0x0000003b-in-windows/"><u>Cracking the Code: How to Handle BSOD at 0X0000003B in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/head-to-head-comparison-llamas/"><u>Head-to-Head Comparison: Llamas</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-dual-networks-wi-fi-and-ethernet-harmony-in-windows/"><u>Navigating Dual Networks: Wi-Fi & Ethernet Harmony in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-dormant-shift-key-issue-on-windows/"><u>Resolve Dormant Shift Key Issue on Windows.</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-and-reconfigure-memory-in-win-11/"><u>Restart and Reconfigure Memory in Win 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/simplification-strategy-nvidia-revamps-complex-pc-app-ecosystem-for-enhanced-usability/"><u>Simplification Strategy: Nvidia Revamps Complex PC App Ecosystem for Enhanced Usability</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fix-freezing-and-slow-windows-downloads/"><u>Strategies to Fix Freezing and Slow Windows Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-contextual-menu-for-optimal-efficiency-add-new-folders/"><u>Tailor Contextual Menu for Optimal Efficiency - Add New Folders</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/terms-and-conditions-updated-clarity/"><u>Terms & Conditions: Updated Clarity</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-efficient-android-resource-handling/"><u>Unveiling the Secrets of Efficient Android Resource Handling</u></a></li>
 </ul></div>
 

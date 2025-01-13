@@ -1,7 +1,7 @@
 ---
 title: "Smooth Operations: Keeping Your File Explorer Afloat in Win11"
-date: 2024-12-30T19:48:44.091Z
-updated: 2025-01-06T18:40:41.755Z
+date: 2025-01-06T16:43:32.107Z
+updated: 2025-01-12T22:18:13.059Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
  Your taskbar will disappear for a split second before reappearing, indicating the Windows Explorer process has rebooted. After that, File Explorer should work fine on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Clear File Explorer Cache
 
  File Explorer, like any other program, accumulates cache data to improve its performance. However, when this data becomes outdated or corrupt, it can lead to a variety of issues, including the one discussed here. You can try getting rid of the existing File Explorer cache to see if that helps. To do so, use these steps:
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 1. Open the**Start menu** , search for**file explorer options** , and select the first result that appears.
 2. Under the**General** tab, click the**Clear** button next to**Clear File Explorer history** .  
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Configure File Explorer Options
 
@@ -60,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 3. In the**Folder Options** window, click the drop down menu next to**Open File Explorer to** and select**This PC** .
 4. Hit**Apply** followed by**OK** .  
 ![Configure File Explorer to Open to This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-file-explorer-to-open-to-this-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Your Antivirus Program
 
@@ -77,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ![Launch Folder Windows in a Separate Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/launch-folder-windows-in-a-separate-process.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run the Windows Memory Diagnostic Tool
@@ -88,17 +84,21 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 ![Run Windows Memory Diagnostic Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-windows-memory-diagnostic-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the Windows Memory Diagnostic tool to scan your PC's RAM for errors. If it discovers any issues, take appropriate steps to troubleshoot those problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot Mode
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
  We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 * **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use File Explorer Again Without Any Interruptions
@@ -134,20 +134,21 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-premier-pdf-enhancements/"><u>[New] 2024 Approved Premier PDF Enhancements</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-frame-by-frame-flair-edits-that-captivate-viewers-for-2024/"><u>[New] Frame-by-Frame Flair Edits That Captivate Viewers for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2023s-ultimate-guide-apeaksoft-screen-capture-tech-unveiled/"><u>[Updated] 2023'S Ultimate Guide Apeaksoft Screen Capture Tech Unveiled</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-the-art-of-haul-video-shopping-showcasing-and-editing/"><u>[Updated] 2024 Approved Mastering the Art of Haul Video Shopping, Showcasing & Editing</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-overwatch-streamlining-the-recording-process/"><u>[Updated] In Overwatch Streamlining the Recording Process</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-pc-control-in-windows-11-with-ease-and-expertise/"><u>Enabling PC Control in Windows 11 with Ease and Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-save-location-errors-in-windows-versions/"><u>Eradicate Save Location Errors in Windows Versions</u></a></li>
-<li><a href="https://win11.techidaily.com/establishing-windows-11-as-your-home-network-hub/"><u>Establishing Windows 11 as Your Home Network Hub</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-video-editor-for-seamless-vimeo-videos/"><u>Expert Video Editor for Seamless Vimeo Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-quick-refresh-of-critical-directories-in-ws11/"><u>Guide to Quick Refresh of Critical Directories in WS11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-12-proplus-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme 12 Pro+ 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-it-safe-to-delete-pagefilesys-regularly-in-windows/"><u>Is It Safe to Delete Pagefile.sys Regularly in Windows?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/professional-screenshot-and-recorder-win10-edition-for-2024/"><u>Professional Screenshot & Recorder, Win10 Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/redefine-windows-trail-design-with-ease/"><u>Redefine Window's Trail Design with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-preventing-permanent-changes-without-backup/"><u>Techniques for Preventing Permanent Changes without Backup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-techniques-for-capturing-youtube-live-video/"><u>[New] In 2024, Best Techniques for Capturing YouTube Live Video</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-accelerated-learning-for-effective-nvidia-screener-use/"><u>[Updated] 2024 Approved Accelerated Learning for Effective NVIDIA Screener Use</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-it-right-15-innovative-posting-hacks/"><u>[Updated] Snap It Right 15 Innovative Posting Hacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elite-arena-showdown-best-of-the-royales/"><u>Elite Arena Showdown Best of the Royales</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-8-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 8 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-troubleshoot-your-broken-pc-with-chatgpt/"><u>How to Troubleshoot Your Broken PC With ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/identify-and-fix-windows-11-display-hiccup-absence-of-previews/"><u>Identify & Fix Windows 11 Display Hiccup: Absence of Previews</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-z-flip-5-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy Z Flip 5 Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-motorola-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Motorola Razr 40</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-operating-systems-with-ai-integration/"><u>Redefining Operating Systems with AI Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-your-desktop-with-these-3-win11-god-mode-strategies/"><u>Revolutionize Your Desktop with These 3 Win11 God Mode Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-expertise-expanding-context-menu-options/"><u>Scripting Expertise: Expanding Context Menu Options</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/secure-and-ethical-methods-for-capturing-chat-calls/"><u>Secure and Ethical Methods for Capturing Chat Calls</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-users-lives-a-toolbar-for-timely-os-update-reminders-in-win11/"><u>Simplifying Users' Lives: A Toolbar for Timely OS Update Reminders in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-windows-loadfunction-error-87-flaw/"><u>Solving Windows' LoadFunction Error 87 Flaw</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-open-windows-ease-center-for-assistance/"><u>Swiftly Open Windows' Ease Center for Assistance</u></a></li>
 </ul></div>
 

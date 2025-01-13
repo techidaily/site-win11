@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Enterprise-Controlled Chrome/Edge Browsers on PCs
-date: 2024-08-16T00:51:54.957Z
-updated: 2024-08-17T00:51:54.957Z
+date: 2025-01-07T01:46:00.847Z
+updated: 2025-01-12T22:46:42.692Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,16 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
@@ -47,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
  A potentially unwanted application often modifies the Windows Registry to set policies for the browser. You can manually remove these policies from Registry Editor to remove the message.
@@ -62,10 +64,12 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 `Computer\HKEY_CURRENT_USER\Software\Policies\`
 4. Under the**Policies** key, locate and select the**Chrome** or**Edge** folder. If you see any policies in the right pane that you didn’t create yourself, right-click on the policies and select**Delete** .  
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
@@ -88,15 +92,9 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
@@ -112,6 +110,10 @@ To reset Google Chrome:
 To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
@@ -133,14 +135,12 @@ To remove adware using MalwareBytes:
 5. Close the app and relaunch your browser to check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -165,8 +165,6 @@ To perform a Windows system reset:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +172,16 @@ To perform a Windows system reset:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-exploring-high-definition-with-nikon-d500/"><u>[New] In 2024, Exploring High-Definition with Nikon D500</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-samsungs-galaxy-s8-unveiled-redefining-video-standards/"><u>[New] Samsung’s Galaxy S8 Unveiled Redefining Video Standards</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-windows-10-for-audio-capture/"><u>[Updated] Navigating Windows 10 for Audio Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-windows-companion-using-vivetool/"><u>Configure Windows Companion Using ViveTool</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-razr-40-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Razr 40</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-sharing-of-oversized-content-from-iphone-to-macos-for-2024/"><u>Seamless Sharing of Oversized Content From iPhone to macOS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-ebike-spotlight-on-the-compact-and-economical-propella-7s/"><u>The Ultimate Guide to Choosing Your Perfect Ebike - Spotlight on the Compact and Economical Propella 7S!</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-vanished-window-panes-quick-methods-for-win11/"><u>Uncovering Vanished Window Panes: Quick Methods for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-custom-control-commands-for-sound-adjustment/"><u>Win11 Custom Control Commands for Sound Adjustment</u></a></li>
+</ul></div>
 

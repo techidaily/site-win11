@@ -1,7 +1,7 @@
 ---
 title: How to Type Faster With PowerToys on Windows
-date: 2024-08-16T00:54:53.153Z
-updated: 2024-08-17T00:54:53.153Z
+date: 2025-01-09T06:53:31.241Z
+updated: 2025-01-12T16:00:10.862Z
 tags:
   - windows10
   - windows11
@@ -30,17 +30,18 @@ thumbnail: https://thmb.techidaily.com/01a181b2c169140bb50e16f105fae6a9a347e6262
 
  Once you have PowerToys, you can use the Keyboard Manager, Quick Accent, and Shortcut Guide to type faster. Remember that PowerToys must be activated and running in the background for these utilities to work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remap Keys and Shortcuts With the Keyboard Manager
 
  The Keyboard Manager lets you remap keys and shortcuts on your keyboard with the keys you are most comfortable typing with.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Remap Keys to Type Faster
 
 To remap your keys with Keyboard Manager:
@@ -60,13 +61,14 @@ To remap your keys with Keyboard Manager:
  Now under the**Mapped to** section, click on the**Type** button. Now press**Ctrl + I** or the Italicize shortcut on the keyboard to map the**F1** key to it.
 
 ![F1 Key Remapped to Ctrl + I Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-key-to-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Now, when you need to italicize a text, instead of Ctrl + I, just press a single key, F1\. So you'll automatically be typing faster.
 
  This way, you could remap many alphabet and number keys, and even function keys to speed up your work. Think of all the milliseconds and seconds you will save whenever you type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Remap Shortcuts to Type Faster
 
@@ -78,13 +80,14 @@ To remap your keys with Keyboard Manager:
 
 ![Shift + Z Physical Shortcut Mapped to Ctrl + B Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remap-shortcuts-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, click on the blue**OK** button and click**Continue Anyway** on the prompt.
 
  Now you can bold text with your preferred shortcut and type faster on your favorite app.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Type Accents in a Snap With Quick Accent
 
  There could be times when you need to add an accented character while typing. Maybe while sharing the name of your exotic holiday destination or ensuring the surname of a guest is spelled right.
@@ -96,20 +99,18 @@ To remap your keys with Keyboard Manager:
  Under**Characters** ,**Choose a character set** you want to use, like Catalan, Dutch, French, German, Spanish, and more. Or choose**All available** to get all the options.
 
 ![Quick Accent Settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/quick-accent-settings-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To use Quick Accent, first press and hold the key of the character on which you want to add an accent. Then press the Activation Key.
 
  For example, if you want to use the accented character**ü** to type**München** , the German name of Munich—press and hold the**u** key and then press the**spacebar,** or the**left or right arrow keys** . A toolbar of accented characters for the letter**u** will appear on your PC screen.
 
 ![Toolbar of Accented Characters for the U Key on Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/munich-umlaut-quick-accent-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Move across the toolbar with the**spacebar** or the**left or right arrow keys** to highlight the**ü** accented character. Then release the**u** key on your keyboard—and**ü** will get typed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Keep Shortcuts Handy With the Shortcut Guide
 
@@ -122,9 +123,6 @@ To remap your keys with Keyboard Manager:
  While typing, activate the Shortcut Guide. An overlay will appear on your screen displaying keyboard shortcuts that use the Win key. You'll also see the result of each shortcut written in the guide.
 
 ![Shortcut Guide Overlay in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-guide-overlay-powertoys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can use the shortcuts while the guide is displayed. So if you're holding the**Win** key, just press a letter like**E** —that would become**Win + E** and open up File Explorer. Release the Win key to close the overlay.
 
@@ -132,23 +130,17 @@ To remap your keys with Keyboard Manager:
 
  Once done, press the shortcut key combination again to close the guide overlay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Type Faster and Enjoy a Speedier Windows Experience With PowerToys
 
  There's always a lot to do and time seems to fly, especially when you're chasing deadlines. So save time by using the PowerToys utilities discussed above to type faster and smarter.
 
  And now that you have PowerToys, you can explore the best things to do with these handy tools.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +149,18 @@ To remap your keys with Keyboard Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-from-cyberspace-to-steps-top-tier-treadmill-innovations/"><u>[New] From Cyberspace to Steps Top-Tier Treadmill Innovations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-switch-to-picture-in-picture-while-watching-youtube/"><u>[New] Switch to Picture in Picture While Watching YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-15-youtube-channels-for-stock-market-to-follow-for-2024/"><u>[New] Top 15 YouTube Channels for Stock Market to Follow for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728510200681-windows/"><u>如何在 Windows 平台上无麻烦地建立数据备份流程</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/comprehensive-guide-on-webhelper-virus-removal-techniques-as-recommended-by-malwarefox/"><u>Comprehensive Guide on Webhelper Virus Removal Techniques as Recommended by MalwareFox</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-the-fat-in-your-win-11-menu-choices/"><u>Cutting the Fat in Your Win 11 Menu Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-protected-browsing-boosting-graphics-on-window-11/"><u>Maximizing Protected Browsing: Boosting Graphics on Window 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/powerdirector-guidebook-2024-overview/"><u>PowerDirector Guidebook 2024 Overview</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnect-between-os-and-hardware/"><u>Resolving Disconnect Between OS and Hardware</u></a></li>
+<li><a href="https://win11.techidaily.com/the-4-best-password-managers-for-windows-11/"><u>The 4 Best Password Managers for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-jdk-installation-the-insiders-guide-for-windows-11/"><u>Unraveling JDK Installation: The Insider's Guide for Windows 11</u></a></li>
+</ul></div>
 

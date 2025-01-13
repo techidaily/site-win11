@@ -1,7 +1,7 @@
 ---
 title: Quick and Effective Windows Note Tips & Tricks
-date: 2024-08-16T00:53:36.382Z
-updated: 2024-08-17T00:53:36.383Z
+date: 2025-01-11T23:16:24.327Z
+updated: 2025-01-12T22:12:12.870Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
  You can add notes to the Windows 11/10 desktop with Sticky Notes. However, you can't add any notes to software windows with that accessory. That's a pity since such a feature would enable you to stick all kinds of instructional and hotkey notes for apps to their windows, not to mention task reminders, etc.
 
  However, Stick A Note and Notezilla are two third-party apps with which you can stick notes to software windows, which we'll look at here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Sticky Notes to Software Windows With Stick a Note
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 ![The text box for adding notes with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-note-window.jpg)
 5. Select**OK** in the Notes window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that note will remain stuck to the window until you delete it. If you close and reopen an app window, press the**Win** +**Shift** +**N** hotkey to view its note.
 
 ![A sticky note added with Stick a Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-stick-a-note-note.jpg)
@@ -59,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 ![The Note Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/note-settings-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Stick Sticky Notes to Software Windows With Notezilla
 
  Notezilla is a more comprehensive sticky note app for Windows 11/10/8/7\. You can stick notes to the desktop area and software windows with Notezilla. This software also packs text-formatting options for notes, among other more advanced features.
@@ -76,24 +81,25 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 
 1. Press**Install** to proceed with Notezilla's installation.  
 ![The Install button for Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-install-button-for-stick-a-note.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Finish** with the Launch Notezilla checkbox selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Bring up a software window to add your note.
 4. Press the**Ctrl** +**Shift** +**U** hotkey to bring up a sticky note.
 5. Type some content into the sticky note.
 
 1. Drag the sticky note onto the top area of the software's window.  
 ![A sticky note added with Notezilla](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-notezilla-sticky-note.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Press**Alt** +**Space** to bring up the note's menu.  
-![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Stick to window option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-to-window-option.jpg)
 3. Select the**Stick to window** option, which also has a**Ctrl** +**W** hotkey.
 4. Next, select the checkbox for the software to add the note to in the window that opens.  
 ![The Stick a Note to Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/stick-note-to-window-option.jpg)
@@ -112,13 +118,11 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
  To check out Notezilla's formatting options, double-click inside the note to add some content. Then right-click in the text box ao bring up a formatting context menu. There you can select different fonts and adjust the text size and color. Move your cursor over the**Font style** drop-down menu to select**Bold** ,**Italic** ,**Underline** , and**Strikethrough** options. You can even add images to your notes by clicking**Add picture** .
 
 ![sticky-note-formatting-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sticky-note-formatting-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add Sticky Notes to Software in Windows 11 and Windows 10
 
  Forget about merely sticking notes to the Windows 11 and the Windows 10 desktop like in Windows 7\. Stick A Note and Notezilla give you an entirely new way to add notes without cluttering the desktop by sticking them to app windows. Now you can add handy sticky notes to windows that apply to specific software packages or webpages and files.
@@ -129,8 +133,6 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +140,23 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastery-in-video-creation-using-captivate-software/"><u>[New] In 2024, Mastery in Video Creation Using Captivate Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-imaginative-realms-with-gpt-3/"><u>Crafting Imaginative Realms with GPT-3</u></a></li>
+<li><a href="https://discover-help.techidaily.com/digiarty-dvd22/"><u>Digiarty製品の専門知識を探求: DVDコピーガイド・第22章</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-drivers-update-lenovo-z50-70-tablet/"><u>Effortless Drivers: Update Lenovo Z50-70 Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-techniques-for-unpartitioning-your-drives-with-windows/"><u>Expert Techniques for Unpartitioning Your Drives with Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-through-bios-thermal-configuration/"><u>Guiding Users Through BIOS Thermal Configuration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>In 2024, Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-thriving-in-digital-realms-the-power-of-well-planned-backlinks/"><u>In 2024, Thriving in Digital Realms The Power of Well-Planned Backlinks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-class-for-seamless-plugin-installation-in-chatgpt/"><u>Master Class for Seamless Plugin Installation in ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/missed-upgrades-restore-your-pcs-hidden-enhancement-capabilities/"><u>Missed Upgrades? Restore Your PC's Hidden Enhancement Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-excessive-cpu-consumption-by-ntoskrnlexe/"><u>Mitigating Excessive CPU Consumption by Ntoskrnl.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-virtual-configurations-enhancing-pc-performance-on-windows-11/"><u>Prime Virtual Configurations Enhancing PC Performance on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-correcting-domain-services-print-errors-in-windows/"><u>Quick Guide: Correcting Domain Services Print Errors in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-removing-unopened-shares-in-geforce-experience/"><u>Strategies for Removing Unopened Shares in GeForce Experience</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-video-editing-on-a-budget-top-free-special-effects-apps-for-mobile-for-2024/"><u>Updated Video Editing on a Budget Top Free Special Effects Apps for Mobile for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-troubleshooting-receptor-not-detected/"><u>Windows 10/11: Troubleshooting Receptor Not Detected</u></a></li>
+</ul></div>
 

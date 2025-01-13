@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Development: Best Practices for WSL 2 on PCs"
-date: 2025-01-02T18:05:02.086Z
-updated: 2025-01-06T18:49:11.749Z
+date: 2025-01-10T21:02:31.753Z
+updated: 2025-01-13T05:42:00.118Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Windows Subsystem for Linux 2?
 
  The Windows Subsystem for Linux 2 (WSL 2) is a Linux kernel built into Windows 10 and 11\. One of today's most valuable features is the Windows Subsystem for Linux (WSL). It lets Windows users run Linux distributions such as Ubuntu and Kali on Windows without having to dual-boot or[configure a specialized virtual machine](https://www.makeuseof.com/linux-virtual-machine-or-wsl/) .
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 
  In addition to being able to operate the Linux terminal, Windows users can even[run Linux GUI applications with WSL 2 on Windows](https://www.makeuseof.com/how-to-run-linux-gui-apps-with-wsl2/) with improved support for file I/O performance and OS functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Does the Windows Subsystem for Linux Benefit Developers?
 
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
 
@@ -55,6 +59,10 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
@@ -62,7 +70,7 @@ Here are some of the other important WSL 2 benefits for developers:
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
@@ -83,10 +91,6 @@ Here are some of the other important WSL 2 benefits for developers:
 
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Update Packages
 
  Like any other Linux distribution, you’ll have to ensure the packages and tools you’re using on WSL 2 are constantly updated. Doing so ensures your WSL 2 is secure, reliable, and performing optimally. To update packages on WSL 2, enter the following command:
@@ -95,21 +99,17 @@ Here are some of the other important WSL 2 benefits for developers:
 
 `sudo apt-get upgrade`
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Run Containers With Docker
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -130,19 +130,18 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-erase-imposter-photo-mishaps-in-platform-interactions/"><u>[Updated] 2024 Approved Erase Imposter Photo Mishaps in Platform Interactions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-a-comprehensive-explanation-of-changing-your-social-media-cover/"><u>[Updated] A Comprehensive Explanation of Changing Your Social Media Cover</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comparison-of-googles-ar-embellishments-to-competitors/"><u>2024 Approved Comparison of Google's AR Embellishments to Competitors</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/climate-change-mitigation-through-urban-design-innovations/"><u>Climate Change Mitigation Through Urban Design Innovations</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-ical-synchronization-with-your-win1011-pc/"><u>Effortless iCal Synchronization with Your Win10/11 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-web-session-with-secure-windows-net/"><u>Elevate Your Web Session with Secure Windows Net</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-your-mouse-input-for-a-seamless-experience-in-win/"><u>Fine-Tune Your Mouse Input for a Seamless Experience in Win</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices-for-2024/"><u>How to Get Gratis, Safe VLC Media Player on Mac OS X Devices for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-value-with-zte-blade-a3y-an-incisive-review-for-budget-smartphone-enthusiasts/"><u>Maximizing Value with ZTE Blade A3Y: An Incisive Review for Budget Smartphone Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-experience-across-tech-giants-windows-for-applepcs-revealed/"><u>Seamless Experience Across Tech Giants: Windows for Apple/PCs Revealed</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-eschewing-fake-windows-software/"><u>The Insider's Guide to Eschewing Fake Windows Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweetaudioextractor-quick-sound-maker-for-2024/"><u>TweetAudioExtractor Quick Sound Maker for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-solving-windows-error-code-0xc0000001/"><u>Understanding and Solving Windows Error Code 0XC0000001</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-harness-the-power-of-storyremix-elevate-video-quality-for-windows-11-users-for-2024/"><u>[New] Harness the Power of StoryRemix Elevate Video Quality for Windows 11 Users for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-future-with-advanced-vr-finger-tech/"><u>[Updated] Explore the Future with Advanced VR Finger Tech</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/10-indispensable-instagram-video-editing-apps-for-marketers-for-2024/"><u>10 Indispensable Instagram Video Editing Apps for Marketers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-swiftly-render-and-upload-videos-tips-for-speedy-youtube-submissions/"><u>2024 Approved Swiftly Render & Upload Videos Tips for Speedy YouTube Submissions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/airpods-pro-hearing-aid-feature-at-unbeatable-price-save-24-limited-time-offer-zdnet-exclusive/"><u>AirPods Pro (Hearing Aid Feature) at Unbeatable Price: Save 24%, Limited Time Offer | ZDNET Exclusive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/art-world-uprising-understanding-the-lawsuit-between-sarah-silverman-other-talents-versus-ai-giants/"><u>Art World Uprising: Understanding the Lawsuit Between Sarah Silverman, Other Talents Versus AI Giants</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-magic-v2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor Magic V2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-techniques-for-high-quality-lenovo-captures/"><u>In 2024, Step-by-Step Techniques for High Quality Lenovo Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-workspace-building-tailored-snap-configurations/"><u>Reimagine Your Workspace: Building Tailored Snap Configurations</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-silent-alerts-fixing-non-functional-notifications-in-windows-os/"><u>Reviving Silent Alerts: Fixing Non-Functional Notifications in Window's OS</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-innovative-ios-18-functions-unveiled-at-wwdc-2024-the-future-is-here-with-cutting-edge-ai-integration-techcrunch/"><u>Top 5 Innovative iOS 18 Functions Unveiled at WWDC 2024: The Future Is Here with Cutting-Edge AI Integration | TechCrunch</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-with-github-desktop/"><u>Unlocking Windows 11'S Potential with GitHub Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-against-not-found-windows-fixes-ranked/"><u>Winning Against 'Not Found': Windows Fixes Ranked</u></a></li>
 </ul></div>
 

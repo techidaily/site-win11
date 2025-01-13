@@ -1,7 +1,7 @@
 ---
 title: Discover File Metrics in Windows With Easy PowerShell Scripts
-date: 2024-08-16T00:53:54.280Z
-updated: 2024-08-17T00:53:54.280Z
+date: 2025-01-10T17:48:03.029Z
+updated: 2025-01-13T00:02:38.375Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Calculate a Folder's Size Using PowerShell on Windows
 
 ![powershell cmdlet to view folder size bytes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-size-bytes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To calculate a folder's size, you'll need to use the two PowerShell cmdlets, Get-ChildItem and Measure-Object, followed by the Length property and Sum parameter.
 
@@ -63,13 +71,15 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
  Adding a wildcard character lets you determine if a specific file type takes the most space in the folder. You can then filter the contents based on the file extension and delete or move them if necessary.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Subfolder Size Using PowerShell
 
 ![powershell cmdlet to view folder subfolder size](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-cmdlet-to-view-folder-subfolder-size.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The above command will only calculate the size of your primary directory or folder. To calculate the total size of files in the specified directory and its subdirectories, you'll need to add the **\-Recurse** parameter to the above command. In addition, we'll use the -force parameter to access hidden and system files.
@@ -80,16 +90,12 @@ thumbnail: https://thmb.techidaily.com/dde748be235f13590c269ef1d0659f5ed0b11e11e
 
  The output in this instance shows 54 GB approx. as the total size of the c:\\users folder. In the above command, the -ErrorAction SilentlyContinue parameter is used to suppress any error messages that may occur during the process.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## How to Get the Subfolder Size in a Table Format Using PowerShell
 
 ![windows powershell ISE script folder size view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-powershell-ise-script-folder-size-view.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to know the size of all the subfolders individually, you can run a PowerShell script to get a graphical view of all the subfolders and their sizes. A script is usually helpful if you have a large directory with multiple subfolders and need to work on them frequently.
@@ -98,9 +104,6 @@ The powerful video editing program for your Windows PC</a>
 
 1. Press the **Win key** and type **PowerShell ISE**. Click on **Windows PowerShell ISE** from the search result.  
 ![powershell ise start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/powershell-ise-start-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Next, copy and paste the following command into the PowerShell ISE console. Make sure to change the directory from c:\\ to your preferred directory.  
 `$targetfolder = 'C:\'  
 $dataColl = Get-ChildItem -Force $targetfolder -Directory -ErrorAction SilentlyContinue | ForEach-Object {  
@@ -121,9 +124,6 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  In the above command, **"?"** is an alias for the **Where-Object** cmdlet, **\-gt, -AND, -It** are comparison operators, and **CreationTime** is a condition. The command checks if the CreationTime of files in the subdirectory falls within the specified date range and shows output only if the condition is satisfied. If you get an error, ensure your date and time format in the command matches the system's format and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the Folder and Subfolder Size Using PowerShell
 
  File Explorer on Windows can help you calculate the size of any folder and file. However, if you work with multiple large folders or in an organization with hundreds of computers to manage, using PowerShell can help you get things done faster.
@@ -132,11 +132,29 @@ $dataColl | Out-GridView -Title "Size of Subdirectories in $targetfolder"`
 
  File Explorer, however, can be slow to determine the size of a large folder. And not ideal if you want to manage files and folders on multiple computers in an organization. To remedy this, you can use PowerShell to quickly calculate folder sizes on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-how-to-record-screen-with-vidmore-screen-recorder/"><u>[New] 2024 Approved How to Record Screen with Vidmore Screen Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-drone-marathoners-list-top-10/"><u>[New] The Ultimate Drone Marathoners List (Top 10)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2023s-top-contenders-gopro-hero5-vs-yi-4k-action-cameras/"><u>[Updated] 2023'S Top Contenders GoPro Hero5 Vs. Yi 4K Action Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716068792123-updated-in-2024-best-5-chrome-os-clipping-utilities-ranked/"><u>[Updated] In 2024, Best 5 Chrome OS Clipping Utilities, Ranked!</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminating-stuck-screens-in-valorant-tips-and-tricks-for-fast-startup-times/"><u>Eliminating Stuck Screens in Valorant: Tips and Tricks for Fast Startup Times</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-hide-likes-on-your-facebook-posts/"><u>How to Hide Likes on Your Facebook Posts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-run-the-command-prompt-as-an-administrator-in-windows/"><u>How to Run the Command Prompt as an Administrator in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ideographers-in-asmr-landscape/"><u>Key Videographers in ASMR Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-geforce-sharing-errors/"><u>Steps to Resolve GeForce Sharing Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-pcs-behavior-set-idle-shutdown-for-windows-11/"><u>Tailor Your PC's Behavior: Set Idle Shutdown for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-made-winterral-ambiance/"><u>Tailor-Made WinTerral Ambiance</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-wows-critical-crash-the-win11-solution/"><u>Taming WoW’s Critical Crash: The Win11 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/thriving-in-the-world-of-affordable-windows-10-deals/"><u>Thriving in the World of Affordable Windows 10 Deals</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-menu-how-to-reduce-extra-options-displayed/"><u>Windows 11 Menu: How to Reduce Extra Options Displayed</u></a></li>
+</ul></div>
+

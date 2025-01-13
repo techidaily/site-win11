@@ -1,7 +1,7 @@
 ---
 title: Seamless Inclusion of Emoji 15 in Windows 11 Systems
-date: 2024-08-16T00:53:58.585Z
-updated: 2024-08-17T00:53:58.585Z
+date: 2025-01-07T21:28:51.241Z
+updated: 2025-01-12T16:04:25.025Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,15 @@ thumbnail: https://thmb.techidaily.com/830a114fa27984f8d212144f3dee11f785f5b8b66
  For convenience, while setting up ViveTool on your PC, ensure the extracted content is in the folder**C:/ViVeTool** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable Emoji 15 via ViveTool
 
 ![Enable Emoji 15 using ViveTool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-emoji-15.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After setting up ViveTool on your Windows 11 PC, you need to enable the feature ID specific to the Emoji 15 support. You can follow the below steps to enable the feature ID for the latest set of emojis from Unicode on Windows 11:
@@ -51,17 +53,14 @@ vivetool /enable /id:40213648
  After the restart, you will see on your emoji keyboard a bunch of new emoticons based on the Unicode 15 standard on your PC. The emoji keyboard will appear on your PC screen after you press the**Win key** +**. (period key)** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Do You Get in Emoji 15?
 
  According to the Draft Release Notes of Unicode's Emoji v15, there are only 31 recommended emojis this year, significantly less than last year's 112 recommendations. In fact, Unicode has never recommended a set of new emojis this small in its history. Also, it has happened for the first time that the recommended list does not include any new people emoji.
 
 ![Emoji 15 by Unicode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/emoji-15-edit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  Image credit:[Emojipedia](https://emojipedia.org/emoji-15.0/)
 
@@ -107,27 +106,26 @@ The 31 recommended emojis include:
  Microsoft has its own design for all the 31 recommended emojis approved by Unicode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Will Microsoft Bring Emoji 15 to Every Windows 11 User?
 
  Emoji 15 may remain an exclusive feature for Windows Insiders, at least until the release of the Windows 11 22H2 Moment 3 update. It is possible that Microsoft will begin rolling out the Emoji 15 support via Windows 11 Moment 3, due in April. Either way, when it is generally available to everyone, you will no longer need the ViveTool to access Unicode's latest set of emojis on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Express Yourself in New Ways on Windows 11
 
  Now that you know the steps to enable Emoji 15 on your Windows 11 PC, you can express yourself in new ways and spice up your conversations. However, do not expect everything to be perfect until Microsoft makes Emoji 15 available for a stable Windows 11 release.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +134,20 @@ The 31 recommended emojis include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-phantom-v-fold-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Phantom V Fold Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-activity-log-of-your-windows-10-system/"><u>Decoding the Activity Log of Your Windows 10 System</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-you-through-nat-type-reconfiguration-on-windows-xp-to-z/"><u>Guiding You Through NAT Type Reconfiguration on Windows XP to Z</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-missing-pin-issue-amidst-system-errors-on-win-11/"><u>How To Fix Missing PIN Issue Amidst System Errors on Win 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-13-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 13 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easy-guide-to-entering-google-meet-on-devices/"><u>In 2024, Easy Guide to Entering Google Meet on Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-x100-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo X100 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-skies-of-star-wars-squadrons-how-to-avoid-and-solve-game-crashes/"><u>Mastering the Skies of Star Wars Squadrons - How to Avoid and Solve Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-popular-win-11-22h2-hiccups/"><u>Resolving Popular WIN 11 22H2 Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-auto-scroll-issues-on-your-pcs-os/"><u>Solving Auto-Scroll Issues on Your PC's OS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-wizardry-of-managing-system-activities-and-changes/"><u>The Windows Wizardry of Managing System Activities & Changes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-knowledge-freedom-a-comprehensive-tutorial-on-drm-removal-for-mobipocket-books/"><u>Unlocking Knowledge Freedom: A Comprehensive Tutorial on DRM Removal for Mobipocket Books</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/yearly-top-tweets-a-viewers-paradise-on-twitter/"><u>Yearly Top Tweets A Viewers' Paradise on Twitter</u></a></li>
+</ul></div>
 

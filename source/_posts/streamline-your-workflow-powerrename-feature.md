@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow: PowerRename Feature"
-date: 2024-12-31T16:53:46.627Z
-updated: 2025-01-06T21:19:06.963Z
+date: 2025-01-08T16:54:51.954Z
+updated: 2025-01-12T22:45:50.025Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is PowerToys PowerRename?
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
  If this sounds interesting, it's worth taking the time to learn more about PowerToys and what it can do. For instance,[how to do more with Windows 10 and 11 using PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) works as a nice general overview of Microsoft's extra tools collection.
 
  You can also[find any color anywhere on your screen with PowerToys Color Picker](https://www.makeuseof.com/powertoys-color-picker-guide/) , or[bring one of Windows 11's best features to Windows 10 with PowerToys FancyZones](https://www.makeuseof.com/control-your-windows-and-organize-your-desktop-with-powertools-fancyzones/) , for better organizing multiple windows on your monitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install PowerToys & Enable PowerRename
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
  All the batch-renaming magic happens on the window you'll see pop up on your screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Simple Find & Replace
 
  The easiest operation you can carry out with PowerRename is a straightforward Find & Replace procedure.
@@ -98,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Simple Replace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-simple-replace.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that this will try to match only the first instance of the "source" string in every filename. This scenario is practical when, for example, you want to add a prefix to the filenames.
 
  If you want to match and replace every instance of the string instead, enable the**Match all occurrences** option.
@@ -105,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Match All Occurrences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-match-all-occurrences.jpg)
 
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Filenames & Extensions
 
@@ -126,22 +118,22 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Text Formatting
 
  Apart from renaming, PowerRename also offers some basic text formatting functionality. By using the buttons under**Text formatting** , you can tweak the files' filenames to make them lowercase, uppercase ("all caps"), capitalize their first letter, or capitalize the first letter of each word in them.
 
 ![PowerRename Text Formatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-text-formatting.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The final icon, separated from the others and on the right, is the numbering toggle. Click on it, and PowerRename will add numbers inside parentheses to the filenames so that "filename.jpg" may become "filename (1).jpg".
 
  Keep in mind that Numbering doesn't work on its own, but only as an "enhancer" on top of another renaming process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Regular Expressions
@@ -154,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
 
  Quite helpfully, PowerRenamer offers a "cheat sheet" with a few standard RegEx syntax examples. You can find it by clicking on the little**circular icon with the i** (for "information") inside, right next to the "source field".
@@ -161,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
 
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 
@@ -185,20 +185,16 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-drones-to-dream-innovative-editing-approaches-for-2024/"><u>[Updated] Drones to Dream Innovative Editing Approaches for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/7-creative-video-concepts-to-boost-your-fitness-channel/"><u>7 Creative Video Concepts to Boost Your Fitness Channel</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/comprehensive-tutorial-on-eliminating-files-and-directories-via-command-line-in-win-10/"><u>Comprehensive Tutorial on Eliminating Files and Directories via Command Line in Win 10</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-time-tracking-on-windows-11-calendar-app/"><u>Conquering Time Tracking on Windows 11 Calendar App</u></a></li>
-<li><a href="https://win11.techidaily.com/create-your-signature-sound-control-with-win11-hotkeys/"><u>Create Your Signature Sound Control with Win11 Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/demystifying-common-rainmeter-anomalies-on-windows-platforms/"><u>Demystifying Common Rainmeter Anomalies on Windows Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-into-windows-print-service-administration-center/"><u>Dive Into Windows Print Service Administration Center</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-exploring-magix-music-creators-capabilities/"><u>In 2024, Exploring Magix Music Creator's Capabilities</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/recognizing-the-need-for-new-gpu-key-indicators-your-graphics-card-may-fail-powered-by-yl-tech/"><u>Recognizing the Need for New GPU: Key Indicators Your Graphics Card May Fail - Powered by YL Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/revisiting-microsoft-store-error-code-0x80073cf3/"><u>Revisiting Microsoft Store Error Code: 0X80073CF3</u></a></li>
-<li><a href="https://win11.techidaily.com/stepwise-procedure-for-updating-windows-pin/"><u>Stepwise Procedure for Updating Windows PIN</u></a></li>
-<li><a href="https://win11.techidaily.com/wins-premier-encryption-software-compared-and-contrasted-156-chars-trimmed-slightly/"><u>Win's Premier Encryption Software Compared and Contrasted (156 Chars - Trimmed Slightly)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-desktop-snapshot-made-simple-free-tools-for-windows/"><u>[New] In 2024, Desktop Snapshot Made Simple – Free Tools for Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-high-dynamic-range-with-image-curving-for-2024/"><u>[New] Mastering High Dynamic Range with Image Curving for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-undetectable-image-zipped-files-on-windows-pcs/"><u>Crafting Undetectable Image-Zipped Files on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-unlock-credentials-on-your-win11-with-these-top-11-methods/"><u>Effortlessly Unlock Credentials on Your Win11 with These Top 11 Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instantly-enable-telnet-on-your-windows-11-device/"><u>Instantly Enable Telnet on Your Windows 11 Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/libra/"><u>Libra</u></a></li>
+<li><a href="https://win-data.techidaily.com/master-efficient-system-administration-save-16-on-automation-using-windows-powershell-insights-from-zdnet/"><u>Master Efficient System Administration: Save $16 on Automation Using Windows PowerShell - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-the-original-state-of-windows-backups/"><u>Reestablishing the Original State of Windows Backups</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-10s-bluetooth-pairing-woes-expert-advice-and-strategies/"><u>Resolving Windows 10'S Bluetooth Pairing Woes: Expert Advice and Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-nvidia-geforce-error-solutions-for-failed-scanning/"><u>Windows Nvidia GeForce Error: Solutions for Failed Scanning</u></a></li>
 </ul></div>
 

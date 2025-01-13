@@ -1,7 +1,7 @@
 ---
 title: "The Insider's Pathway: Creating Personalized Pin Patterns on Windows"
-date: 2024-08-16T00:52:15.727Z
-updated: 2024-08-17T00:52:15.727Z
+date: 2025-01-10T07:20:24.423Z
+updated: 2025-01-12T23:50:34.260Z
 tags:
   - windows10
   - windows11
@@ -43,28 +43,27 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![The rescue password setting boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password.jpg)
 6. Click **Save** to set your new pattern lock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can lock Windows anytime by activating the pattern lock. Double-click the 9Locker desktop shortcut to activate the pattern lock screen. Drag the mouse cursor across the circles on the 3x3 grid while pressing the left button to input the set pattern for unlocking Windows.
 
 ![9Locker's pattern lock grid](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-pattern-grid.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Customize 9Locker
 
  To access the 9Locker settings window, you’ll need to input your rescue password instead. Click **Settings** at the top left of the pattern lock screen. Input your rescue password and select **OK**.
 
 ![The Enter Rescue Password box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enter-rescue-password-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  You can select a different background image for the pattern lock screen. To do so, click the **Background Image** tab. Then click **Image** and choose one of the eight wallpapers for the pattern lock screen. Or you can select a custom background image from another folder.
 
 ![The Background Image tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/background-image-tab.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Alternatively, you can set a solid color for the background. Click the **Color** button on the **Background image** tab. Then choose a color on the palette and select **OK**.
 
@@ -72,11 +71,12 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
  Eusing Maze Lock is an alternative to 9Locker that enables you to set a pattern lock on your Windows 11/10 PC much the same. However, this software also enables you to set locks on bigger 4x4 and 5x5 grids. This is how you can set up a pattern lock for your PC with Eusing Maze Lock:
@@ -103,8 +103,13 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
@@ -122,8 +127,9 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -132,11 +138,31 @@ thumbnail: https://thmb.techidaily.com/ccf5464afb4aa685619c7a259990847a57c5c05da
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-savory-streams-the-best-food-channels-to-watch/"><u>[New] Savory Streams The Best Food Channels to Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-enter-virtual-realms-top-10-immersive-videos-for-2024/"><u>[Updated] Enter Virtual Realms Top 10 Immersive Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-capturing-ppt-slides-via-webcam-2023-techniques/"><u>2024 Approved Capturing PPT Slides via Webcam 2023 Techniques</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-apple-airtags-4-pack-now-at-walmart-save-24-during-the-labor-day-sale-zdnet/"><u>Discover Apple AirTags 4-Pack Now at Walmart: Save $24 During the Labor Day Sale - ZDNET</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-file-playability-issue-in-windows-os/"><u>Fixing File Playability Issue in Windows OS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/getting-your-outlook-spell-check-back-on-track-simple-solutions-for-common-errors/"><u>Getting Your Outlook Spell Check Back on Track - Simple Solutions for Common Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-a15-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy A15 4G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-internet-slow-on-your-windows-laptop-but-not-on-your-phone-heres-how-to-fix-it/"><u>Is Your Internet Slow on Your Windows Laptop, But Not on Your Phone? Here's How to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-more-graphics-ram-a-windows-11-technique/"><u>Leveraging More Graphics RAM: A Windows 11 Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-control-of-windows-11s-safety-filters/"><u>Mastering the Control of Windows 11'S Safety Filters</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-response-guide-adding-youtubes-closed-captions-and-subtitles-for-2024/"><u>Quick-Response Guide Adding YouTube's Closed Captions and Subtitles for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-error-0xa00f425d-from-windows-devices-camera/"><u>Reconciling Error 0xA00F425D From Windows Device's Camera</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-compatible-remote-play-functionality/"><u>Reinstating Compatible Remote Play Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-0x8007045d-error-in-windows-11-a-step-by-step-guide/"><u>Resolving 0X8007045D Error in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/speaking-up-starting-windows-11s-conversational-mode/"><u>Speaking Up: Starting Windows 11'S Conversational Mode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-viral-fame-mastering-instagram-with-these-9-essential-strategies-for-2024/"><u>The Pathway to Viral Fame Mastering Instagram with These 9 Essential Strategies for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-tutorial-for-downloading-asus-wireless-card-drivers/"><u>The Ultimate Tutorial for Downloading ASUS Wireless Card Drivers</u></a></li>
+</ul></div>
+

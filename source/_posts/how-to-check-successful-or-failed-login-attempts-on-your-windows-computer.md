@@ -1,7 +1,7 @@
 ---
 title: How to Check Successful or Failed Login Attempts on Your Windows Computer
-date: 2024-08-16T00:55:15.982Z
-updated: 2024-08-17T00:55:15.982Z
+date: 2025-01-12T02:20:00.698Z
+updated: 2025-01-13T02:00:25.089Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 ![group policy editor audit logon events properties enable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/group-policy-editor-audit-logon-events-properties-enable.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View Failed and Successful Login Attempts in Event Viewer
 
  The[Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/) lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.
@@ -61,24 +62,23 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Decipher the Logon Entries in Event Viewer
 
  While Event ID 4624 is associated with logon events, you will likely find multiple instances of this entry occurring every few minutes in the log. This is due to Event Viewer recording every logon event (whether from the local user account or system services such as Windows Security) with the same event ID**(Event 4624**).
 
 ![event viewer security logon event properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To identify the source of login, right-click on the event record and select**Properties** . In the**General** tab, scroll down and locate the**Logon information** section. Here, the**Logon Type** field indicates the kind of logon that occurred.
 
  For example,**Logon Type 5** indicates a service-based login, while**Logon Type 2** indicates user-based login. Know more about the different logon types in the table below.
 
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
@@ -102,11 +102,16 @@ thumbnail: https://thmb.techidaily.com/84772a0e20318a50277b6d80239d31259f3d754cb
 | Logon Type 11  | CachedInteractive – When the user logged on to the computer via console using the cached credentials when the domain controller is not available. |
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to View the Last Logon History Using Command Prompt
 
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use the Command Prompt to view the last login attempt. It is a handy way to find user-based login attempts without having to go through all the logon events in Event Viewer.
 
@@ -119,9 +124,6 @@ To view the login history of a specific user using Command Prompt:
 4. In the above command, replace "administrator" with the username to view their login history.
 5. The output will show the last login time and date for the specified user.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Viewing Failed and Successful Login Attempts in Windows
 
  If you suspect someone to have logged in to your PC, the Event Viewer will likely catch and record the attempt. For this to work, you must enable the Logon Auditing policy in Group Policy Editor. You can also use Command Prompt to view a specific user's login history.
@@ -134,8 +136,6 @@ To view the login history of a specific user using Command Prompt:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,26 @@ To view the login history of a specific user using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-effortless-techniques-for-second-rate-signature-cleanup/"><u>[New] In 2024, Effortless Techniques for Second-Rate Signature Cleanup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-odds-comprehensive-take-on-vegas-pro-2021/"><u>[New] Navigating the Odds Comprehensive Take on Vegas Pro 2021</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[New] Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-into-hilarity-meme-creation-made-simple/"><u>[Updated] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-digital-brushstroke-with-these-7-apps-on-win10/"><u>Discover Your Digital Brushstroke with These 7 Apps on Win10</u></a></li>
+<li><a href="https://win-data.techidaily.com/erleichternde-schritte-zum-abrufen-von-google-drive-dokumenten-im-offline-modus-zwei-ansatze-erklart/"><u>Erleichternde Schritte Zum Abrufen Von Google Drive Dokumenten Im Offline-Modus: Zwei Ansätze Erklärt</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-casting-with-chrome-to-your-amazon-firestick/"><u>Guide: Casting with Chrome to Your Amazon Firestick</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unjam-the-sluggish-windows-11-search-bar-in-interface-settings/"><u>How to Unjam the Sluggish Windows 11 Search Bar in Interface Settings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/precise-and-wireless-the-sabrent-portable-traveling-mouse-with-high-quality-cable-connections/"><u>Precise & Wireless: The Sabrent Portable Traveling Mouse with High-Quality Cable Connections</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-trust-in-windows-hello-with-easy-fixes/"><u>Reinstating Trust in Windows Hello with Easy Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-200-on-alienwares-spectacular-32-4k-240hz-oled-gaming-display-aw3225qf/"><u>Save $200 on Alienware’s Spectacular 32 4K, 240Hz OLED Gaming Display: AW3225QF</u></a></li>
+<li><a href="https://win11.techidaily.com/shake-off-slowness-windows-11s-accelerated-fixes/"><u>Shake Off Slowness: Windows 11'S Accelerated Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-web-surfing-how-to-test-your-windows-connection/"><u>Smooth Web Surfing: How to Test Your Windows Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-access-navigating-file-shares-on-latest-windows-update/"><u>Streamlined Access: Navigating File Shares On Latest Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-fixes-addressing-error-code-0x80040610-in-outlook-and-windows/"><u>Swift Fixes: Addressing Error Code 0X80040610 in Outlook and Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-ungrouping-taskbar-elements/"><u>Techniques for Ungrouping Taskbar Elements</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-balancing-video-quality-and-adsense-revenue/"><u>The Art of Balancing Video Quality & AdSense Revenue</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-your-mouse-icon-with-ease-on-win-os/"><u>Transforming Your Mouse Icon with Ease on Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/trustworthy-and-safe-the-best-of-free-software-downloads/"><u>Trustworthy and Safe: The Best of Free Software Downloads</u></a></li>
+</ul></div>
 

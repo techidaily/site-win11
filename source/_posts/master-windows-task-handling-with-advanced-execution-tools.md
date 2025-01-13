@@ -1,7 +1,7 @@
 ---
 title: Master Windows Task Handling with Advanced Execution Tools
-date: 2025-01-04T17:56:09.721Z
-updated: 2025-01-06T17:21:54.914Z
+date: 2025-01-07T03:42:02.562Z
+updated: 2025-01-12T21:27:53.213Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 ![The Run-Command app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-command-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another difference you’ll quickly notice is that Run-Command includes 13 shortcut icons. Clicking those shortcuts will open some of the most useful Windows tools. These are the utilities and windows you can access with those Run-Command shortcuts:
@@ -67,12 +67,16 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 ![The Favorites menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-favorites-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can remove shortcuts added and edit the menu by clicking the**Manage Favorites** option. Select a shortcut in the Manage Favorites window and click the**X** button to remove it. Or you can click a folder button there to add new subfolders to the menu to move your shortcuts in. To edit a shortcut’s title, select it and click the rename button.
 
 ![The Manage Favorites window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/manage-favorites-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
@@ -82,11 +86,11 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 ![The Options menu in Run-Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/options-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
@@ -109,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Getting Familiar With PowerToys Run
 
  The first thing you’ll notice about PowerToys after entering a command in its text box is that it shows multiple results. Thus, it’s a little more like the Windows search tool than Run, which makes it a more flexible alternative. It displays four results by default, but you can increase that by entering a higher value for the**Number of results shown** **before** **scrolling** setting in the**PowerToys Run** tab.
@@ -117,17 +125,9 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
@@ -146,7 +146,7 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Make the Most of the Your Enhanced Run Accessory in Windows 11/10
@@ -168,19 +168,17 @@ thumbnail: https://thmb.techidaily.com/3c1c3c36ffd528acf80507ec017f8e098843112bc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://technical-tips.techidaily.com/best-buy-exclusive-offer-alert-grab-a-complimentary-macbook-air-m3-for-less-than-you-think-find-out-how/"><u>Best Buy Exclusive Offer Alert: Grab a Complimentary MacBook Air M3 for Less Than You Think - Find Out How !</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-the-notorious-windows-update-error-0x80070003/"><u>Combatting the Notorious Windows Update Error: 0X80070003</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-errors-when-deleting-software-on-windows-11/"><u>Eliminating Errors When Deleting Software on Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-haste-make-fluent-urdu-within-minutes/"><u>Embrace Haste: Make Fluent Urdu Within Minutes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-aeeusy-portable-inverter-generator-perfect-choice-for-medical-gear-requiring-pure-sine-waves/"><u>Expert Analysis of AEEUSY Portable Inverter Generator - Perfect Choice for Medical Gear Requiring Pure Sine Waves</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-yellowed-screen-colors-in-windows-devices/"><u>Fixing Yellowed Screen Colors in Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/getting-acquainted-with-microsofts-phone-link-for-device-connection/"><u>Getting Acquainted with Microsoft's Phone Link for Device Connection</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-how-to-find-a-niche-market-on-youtube/"><u>In 2024, How to Find A Niche Market on YouTube</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mars-city-mayhem-unleashed-construct-crash-land-and-cultivate-whirlwind-wonders-for-ultimate-intergalactic-fun/"><u>Mars City Mayhem Unleashed: Construct, Crash Land and Cultivate Whirlwind Wonders for Ultimate Intergalactic Fun</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-obstacles-in-windowed-discords-search-feature/"><u>Overcoming Obstacles in Windowed Discord's Search Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-windows-users-chrome-not-downloading-files/"><u>Solutions for Windows Users: Chrome Not Downloading Files</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-channel-description-perfection-for-2024/"><u>The Ultimate Guide to Channel Description Perfection for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-prevent-frequent-reboots-on-windows-11-systems/"><u>Troubleshooting Steps to Prevent Frequent Reboots on Windows 11 Systems</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of X50i+?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-ultimate-choice-the-greatest-11-multi-angle-cams/"><u>[New] Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-unnecessary-cpu-exertion-on-windows/"><u>Cutting Down Unnecessary CPU Exertion on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-technology-evaluations-by-toms-hardware-experts/"><u>Cutting-Edge Technology Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-7-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 7?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-group-video-chat-apps-you-should-know-for-video-conferences-and-meetings/"><u>In 2024, Top Group Video Chat Apps You Should Know [For Video Conferences and Meetings]</u></a></li>
+<li><a href="https://win11.techidaily.com/instalwin11nowifi-a-comprehensive-guide/"><u>InstalWin11NoWifi: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/master-task-manager-administration-in-windows-11/"><u>Master Task Manager Administration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/refresh-your-display-three-cleansing-methods/"><u>Refresh Your Display: Three Cleansing Methods</u></a></li>
+<li><a href="https://fox-info.techidaily.com/syncopating-youtube-melodies-with-visuals/"><u>Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://win11.techidaily.com/wave-bye-bye-to-software-efficient-uninstall-methods-for-windows-11-users-123-chars/"><u>Wave Bye Bye to Software: Efficient Uninstall Methods for Windows 11 Users (123 Chars)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-this-laptop-is-the-perfect-choice-for-everyone-according-to-zdnets-in-depth-testing/"><u>Why This Laptop Is the Perfect Choice for Everyone, According to ZDNet's In-Depth Testing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tick-Tock Troubleshooting: Chrome and System Sync"
-date: 2024-12-31T21:00:28.751Z
-updated: 2025-01-06T20:02:45.001Z
+date: 2025-01-10T08:40:52.167Z
+updated: 2025-01-12T23:34:32.844Z
 tags:
   - windows10
   - windows11
@@ -25,11 +25,19 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure the Date and Time Are Correctly Configured
 
  Since the error message states that your PC has incorrect date and time settings, it is advisable first to check that these settings are correct. Look in the bottom-right corner of your screen and see what date and time your computer shows. If it's accurate and your device uses a 12-hour clock, make sure the correct period (AM or PM) is selected; it's an easy mistake to overlook.
 
  If the settings don't match the actual date and time, you should adjust them. If you're unfamiliar with the process, refer to our guide on [changing the date and time in Windows 11](https://www.makeuseof.com/windows-11-change-date-time/). However, if the date and time are both correct but the error persists, it's time to try more complicated fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Perform Some Basic Chrome-Based Fixes
 
@@ -42,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
  If this doesn't work, it's a sign that the problem lies outside of Chrome itself.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check How Widespread the Issue Is
 
  Analyze whether the issue persists on a single website or webpage or if it is consistent throughout your browser. To confirm this, visit other web pages of the same website or a different website to the one you get the error on, and see whether you also run into the same issue there.
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  If you don't encounter the error elsewhere, the issue is likely specific to a particular website. That could be due to the expiration of the [SSL certificate](https://www.makeuseof.com/tag/ssl-certificate-need-one/) of the website, which is a security protocol that creates an encrypted connection between a web browser and a web server. Once it expires, the browser cannot verify the connection's security and displays the error.
 
  In contrast, if the error appears on every webpage or website you visit, the problem lies elsewhere.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Change Your Time Zone
 
@@ -68,11 +68,11 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 ![Open Adjust Date and Time Settings by Right-Clicking on the Clock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/1-open-adjust-date-and-time-settings-by-right-clicking-on-the-clock.jpg)
 2. Select the correct time zone from the settings next to **Time Zone**.
 
-3. You can also turn on the toggle next to **Set time zone automatically** to adjust it automatically.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. You can also turn on the toggle next to **Set time zone automatically** to adjust it automatically.
 
 ## 5\. Manually Sync the Time and Date
 
@@ -96,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
 ![Select Your Region From the Region Dropdown Menu in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/5-select-your-region-from-the-region-dropdown-menu-in-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Change the Internet Time Server Settings
 
  The internet time server keeps Windows' date and time settings accurate. If you have recently added a new time server or switched from the default one, that could affect your date and time configuration.
@@ -115,12 +111,16 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 5. Make sure **time.windows.com** is selected in the **Server** menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Also, ensure the box beside **Synchronize with an Internet time server** is checked. Then, click **OK**.  
 ![Select the Correct Server in the Internet Time Settings Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/8-click-ok-after-ensuring-the-right-server-is-added-and-the-checkbox-beside-synchronize-with-an-internet-time-server-is-checked.jpg)
 7. Finally, click **Apply** and then **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing the time server settings does not resolve the issue, it's time to try something more advanced.
 
@@ -131,7 +131,7 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
  However, [finding and replacing the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/) can be tricky if you don't have technical expertise. If you're unsure about performing this step take your device to a repair shop.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the Annoying "Your Clock Is Ahead/Behind" Error on Chrome for Windows
@@ -150,17 +150,19 @@ thumbnail: https://thmb.techidaily.com/f7e33e46d8576e8a405f890f9187eb22b423a0b93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-end-screen-how-to-add-end-screen-to-video-on-vimeo/"><u>[Updated] 2024 Approved Vimeo End Screen How to Add End Screen to Video on Vimeo?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-optimizing-video-speed-on-tiktok-platform-for-2024/"><u>[Updated] Optimizing Video Speed on TikTok Platform for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-invalid-profile-messages-a-windows-11-solution/"><u>Correcting Invalid Profile Messages: A Windows 11 Solution</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deciding-on-your-next-smartwatch-companion-in-depth-review-of-google-pixel-watch-gen3-vs-apple-watch-series-9-zdnet/"><u>Deciding on Your Next Smartwatch Companion: In-Depth Review of Google Pixel Watch Gen3 Vs. Apple Watch Series 9 | ZDNET</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-dots-for-the-desktop-top-8-non-writing-notebook-alternatives/"><u>Digital Dots for the Desktop: Top 8 Non-Writing Notebook Alternatives</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-meizu-21-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Meizu 21 to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-build-a-thriving-biz-channel-proven-strategies-and-examples/"><u>In 2024, Build a Thriving Biz Channel Proven Strategies and Examples</u></a></li>
-<li><a href="https://win11.techidaily.com/refined-clarity-in-a-click-win11-monitor-restoration-techniques/"><u>Refined Clarity in a Click: Win11 Monitor Restoration Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-optimizing-network-address-translation-on-windows/"><u>Strategies for Optimizing Network Address Translation on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-stylus-malfunctions-with-these-tips-for-windows-tablets/"><u>Streamline Stylus Malfunctions with These Tips for Windows Tablets</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/ultra-hd-gravity-falls-visuals-for-screensaver-and-background-imery-premium-wallpaper-collection-from-yl-software/"><u>Ultra-HD Gravity Falls Visuals for Screensaver and Background Imery – Premium Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-free-smartphone-photo-enhancers-for-stunning-iphone-selfies/"><u>[Updated] Top FREE Smartphone Photo Enhancers for Stunning iPhone Selfies</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-laptop-touchpad-drivers-for-windows-11-free-download-and-installation-guide/"><u>ASUS Laptop Touchpad Drivers for Windows 11 - Free Download and Installation Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211185409-9798869093967-critical-reflection-and-biblical-scholarship/"><u>Critical Reflection and Biblical Scholarship | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-launch-uncertain-stay-updated-on-the-future-of-mobile-exclusive-release/"><u>Diablo Immortal PC Launch Uncertain - Stay Updated on the Future of Mobile-Exclusive Release</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-trigger-windows-update-refresh/"><u>Effective Techniques to Trigger Windows Update Refresh</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-to-dodge-xbox-game-pass-fatal-error-code-0/"><u>Expert Tips to Dodge Xbox Game Pass Fatal Error Code 0</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-free-memes-unlock-humor-in-everyday-life/"><u>In 2024, Best FREE Memes Unlock Humor in Everyday Life</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-lag-solving-the-fifa-19-crashing-issue-on-your-pc/"><u>No More Lag: Solving the FIFA 19 Crashing Issue on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-high-res-display-scale-glitches-in-windows/"><u>Overcoming High-Res Display Scale Glitches in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-13-strategies-for-system-recovery/"><u>Reviving Windows: 13 Strategies for System Recovery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-chatgpt-on-your-pc/"><u>Step-by-Step Guide: Setting Up ChatGPT on Your PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-ranking-ipad-models-of-2024-comprehensive-reviews-by-industry-experts/"><u>Top-Ranking iPad Models of 2024: Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-tier-basketball-gaming-with-nba-2k19/"><u>Top-Tier Basketball Gaming with NBA 2K19</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-6-pros-that-make-win11-excel/"><u>Unveiling the 6 Pros That Make Win11 Excel</u></a></li>
 </ul></div>
 

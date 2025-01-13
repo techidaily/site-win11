@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2025-01-05T16:12:11.985Z
-updated: 2025-01-06T17:51:54.407Z
+date: 2025-01-10T07:14:16.966Z
+updated: 2025-01-13T06:49:46.831Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
@@ -59,14 +59,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Advanced Security Settings for Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/advanced-security-settings-for-folders.jpg)
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. If it seems correct, click **OK**.
@@ -88,15 +84,19 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
- After that, try to open photos on your external hard drive.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After that, try to open photos on your external hard drive.
 
 ## 4\. Disable UAC Temporarily
 
@@ -107,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
@@ -126,24 +126,17 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-stardew-key-highlights-from-ginger-isle/"><u>[New] 2024 Approved Mastering Stardew Key Highlights From Ginger Isle</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elevate-mobile-streaming-with-obs-studio-android-edition/"><u>[New] In 2024, Elevate Mobile Streaming with OBS Studio Android Edition</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-interactive-tips-youtube-to-facebook-shareability/"><u>[Updated] 2024 Approved Interactive Tips YouTube to Facebook Shareability</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>[Updated] 2024 Approved The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turn-back-the-tape-on-twitch-broadcasting/"><u>2024 Approved Turn Back the Tape on Twitch Broadcasting</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/crafting-visual-impact-a-guide-to-color-balancing-mastery/"><u>Crafting Visual Impact A Guide to Color Balancing Mastery</u></a></li>
-<li><a href="https://win11.techidaily.com/debugging-windows-app-failure-the-zeroxc000003e-hex-issue/"><u>Debugging Windows App Failure: The ZeroXc000003e Hex Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-overcome-windows-activation-error-0x803f700f/"><u>Essential Steps to Overcome Windows Activation Error: 0X803F700f</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-change-an-account-password-in-windows-11/"><u>How to Change an Account Password in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reset-failed-steam-ui-module-on-pc/"><u>How To Reset Failed Steam UI Module on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-boost-creativity-with-free-unique-slideshow-templates-for-inspiration/"><u>In 2024, Boost Creativity with Free, Unique Slideshow Templates for Inspiration</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-safety-and-security-extending-your-pin-length-on-win1111/"><u>Maximize Safety & Security: Extending Your PIN Length on Win11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-access-to-exiled-pin-eraser-tool-in-windows-11/"><u>Restoring Access to Exiled Pin Eraser Tool in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrim-xsb-fail-solutions-for-windows-woes/"><u>Skyrim XSB Fail: Solutions for Windows Woes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-f23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo F23 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/trouble-at-clipcraft-unravel-fixes-today/"><u>Trouble at ClipCraft? Unravel Fixes Today!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unmatched-features-at-an-unbeatable-price-discover-the-lg-2ebytv162895alexpa-24lh4830/"><u>Unmatched Features at an Unbeatable Price: Discover the LG 2ebyTV_162895_ALEXPA 24LH4830</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-method-for-converting-your-mp3-library-into-audible-cds-via-imgburn/"><u>Winning Method for Converting Your Mp3 Library Into Audible CDs via ImgBurn</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-pro-video-enhancements-grasping-green-screen-artistry-through-4-youtube-demos/"><u>[New] In 2024, Pro Video Enhancements Grasping Green Screen Artistry Through 4 YouTube Demos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-compelling-freefire-vids-with-strategy-guide/"><u>[Updated] 2024 Approved Crafting Compelling FreeFire Vids with Strategy Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-guide-8-excellent-priceless-3d-video-experience/"><u>[Updated] Essential Guide 8 Excellent, Priceless 3D Video Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-illustrators-journey-navigating-for-success-in-designing/"><u>[Updated] The Illustrator's Journey Navigating for Success in Designing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-radiance-visionaries-report-on-studio-25-2023/"><u>2024 Approved Radiance Visionaries Report on Studio 25, 2023</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-screencentral-exclusive-global-views-with-homeside-links/"><u>2024 Approved ScreenCentral Exclusive Global Views with Homeside Links</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-taskmanager-takes-the-lead/"><u>Ensuring TaskManager Takes the Lead</u></a></li>
+<li><a href="https://win11.techidaily.com/game-ready-or-studio-which-nvidia-driver-is-right-for-you/"><u>Game Ready or Studio: Which Nvidia Driver Is Right for You?</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-system-time-standards/"><u>Guidelines for Upholding Windows System Time Standards</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Gionee</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unexpected-errors-in-windows-defender/"><u>Overcoming Unexpected Errors in Windows Defender</u></a></li>
+<li><a href="https://win11.techidaily.com/push-past-blocks-efficient-fixes-for-steady-windows-setup-stalls/"><u>Push Past Blocks: Efficient Fixes for Steady Windows Setup Stalls</u></a></li>
 </ul></div>
 

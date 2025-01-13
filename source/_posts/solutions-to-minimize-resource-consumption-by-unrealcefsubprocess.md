@@ -1,7 +1,7 @@
 ---
 title: Solutions to Minimize Resource Consumption by UnrealCEFSubprocess
-date: 2024-08-16T00:54:06.829Z
-updated: 2024-08-17T00:54:06.829Z
+date: 2025-01-09T21:59:21.783Z
+updated: 2025-01-12T16:17:40.698Z
 tags:
   - windows10
   - windows11
@@ -20,15 +20,16 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 
  There's no need to worry; it's not a virus but a legitimate process belonging to Valorant. Below, we'll discuss why this process consumes many system resources and how you can reduce its resource usage to relieve the strain on your hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does the UnrealCEFSubprocess Process Consume High CPU and RAM Resources?
 
  UnrealCEFSubprocess is a legitimate Valorant process, so it shouldn't overload your system resources. If this process starts to strain your hardware and cause CPU, RAM, or GPU usage to spike in the Task Manager, it's either not functioning correctly, or other processes are interfering with it.
 
  As many users pointed out in a[Reddit thread](https://www.reddit.com/r/ValorantTechSupport/comments/z66n1b/unrealcefsubprocessexe%5Fmultiplying%5Fand%5Fputting/) , one of the major causes of high resource consumption by this process is the interference from Windows' built-in security suite, Windows Defender, and third-party antivirus software, primarily AVG antivirus and Avast antivirus. If you are using security software, then it might be causing the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Disable the UnrealCEFSubprocess Process via the Task Manager?
 
  Disabling the UnrealCEFSubprocess process could adversely affect your active gaming session in Valorant. The gaming elements this process controls or handles will crash and behave abnormally. Because of this, we do not advocate closing it down.
@@ -48,17 +49,15 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
  Consequently, you will be successful in reducing resource consumption without compromising your security.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Whitelist UnrealCEFSubprocess From Windows Defender
 
  Follow these steps to whitelist UnrealCEFSubprocess from Windows Defender:
 
 1. Type**"Windows Security"** in Windows Search and open the**Windows Security** app.  
 ![Open Windows Security from Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-open-windows-security-from-windows-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 2. Go to the**Firewall and network protection** tab on the left.
 3. Click on the**Allow an app through the firewall** link on the right side of the screen.  
 ![Click on the Allow an App Through the Firewall Link in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-the-allow-an-app-through-the-firewall-link-in-windows-security-app.jpg)
@@ -66,25 +65,27 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 5. Click on**Allow another app** .  
 ![Click on Allow Another App in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-allow-another-app-in-the-windows-defender-firewall-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. In the**Add an app** window, click on the**Browse** button.  
 ![Click on the Browse Button in the Add an App Window in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-browse-button-in-the-add-an-app-window-in-the-windows-defender-firewall-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Then, go to the following path:  
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
 3. Here, select**UnrealCEFSubProcess** from the list.  
 ![Select UnrealCEFSubprocess to Create an Exclusion for It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-select-unrealcefsubprocess-to-create-an-exclusion-for-it.jpg)
 4. Then, click on**Add** .  
 ![Click on the Add Button After Selecting the Relevant Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-click-on-the-add-button-after-selecting-the-relevant-process.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 5. After that, check the**Public** and**Private** boxes next to the**UnrealCEFSubProcess** process and click**OK** .  
 ![Click OK After Checking the Public and Private Boxes Next to the UnrealCEFSubprocess in the Windows Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-ok-after-checking-the-public-and-private-boxes-next-to-the-unrealcefsubprocess-in-the-windows-firewall-settings.jpg)
 6. Restart your computer after whitelisting this process.
 
 **I** f you have installed Valorant in a different folder or your operating system resides on a different drive, change the path above to reflect the proper location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Whitelist UnrealCEFSubprocess From Avast Antivirus
 
@@ -94,26 +95,27 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 2. Click the**Menu** button (represented by three horizontal lines stacked over each other) in the top-right of the screen.
 3. Go to**Settings** .  
 ![Go to Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-settings-in-avast-antivirus-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 4. Go to the**Exceptions** tab in the**General** settings.
 5. Click on**Add Exception** .  
 ![Click on Add Exception in the General Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-click-on-add-exception-in-the-general-settings-in-avast-antivirus-app.jpg)
 6. Click**Browse** in the**Add exception** window.  
-![Click Browse in the Add Exception Window in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-click-browse-in-the-add-exception-window-in-avast-antivirus-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Click Browse in the Add Exception Window in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-click-browse-in-the-add-exception-window-in-avast-antivirus-app.jpg)
 7. Navigate to the following path if you haven't changed the default installation path when installing Valorant:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
 8. Check the box beside**UnrealCEFSubprocess** and click**OK** .  
 ![Click OK After Checking the Box Beside UnrealCEFSubprocess in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/11-click-ok-after-checking-the-box-beside-unrealcefsubprocess-in-avast-antivirus-app.jpg)
 9. After that, restart your computer once, and hopefully, the process won't overtax your computer's resources anymore.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to Whitelist UnrealCEFSubprocess From AVG Antivirus
 
  The interface of AVG antivirus is almost identical to Avast antivirus. So, you can whitelist UnrealCEFSubprocess from it by following the steps outlined above. Once you have whitelisted the file,[restart your computer](https://www.makeuseof.com/windows-restart-methods/) once, and hopefully, the resource consumption by this process will decrease significantly.
@@ -130,14 +132,11 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
 
  You should now better understand why this process consumes a lot of resources and what you can do to fix it. Therefore, whitelist the UnrealCEFSubprocess process in your security program, and if that does not solve the issue, disable or uninstall your antivirus.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +145,26 @@ thumbnail: https://thmb.techidaily.com/6739390ee0fc340b9fd97277963ee8c4fb9d6425e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-tips-for-immaculate-nighttime-photography/"><u>[New] Tips for Immaculate Nighttime Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-in-depth-review-free2x-webcam-capturing-software/"><u>[Updated] 2024 Approved In-Depth Review Free2X Webcam Capturing Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-blueprint-to-record-hulu-playback/"><u>2024 Approved The Complete Blueprint to Record Hulu Playback</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/decoding-the-fisheye-dilemma-in-gopro-videos/"><u>Decoding the Fisheye Dilemma in GoPro Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/disguising-digital-archives-techniques-for-integrating-zips-in-images-win/"><u>Disguising Digital Archives: Techniques for Integrating Zips in Images (WIN)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-fixes-dealing-with-the-playback-test-tone-error-smoothly-and-easily/"><u>Fast Fixes: Dealing with the Playback Test Tone Error Smoothly and Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-11-device-not-found-errors/"><u>Fixing Windows 11 Device Not Found Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/focal-points-the-most-superior-camera-lens-rankings-2024/"><u>Focal Points The Most Superior Camera Lens Rankings 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-auto-update-notifications-on-windows-1011/"><u>Halt Auto-Update Notifications on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-pixelpark-not-responding-issue-in-windows-11/"><u>How to Fix the PixelPark Not Responding Issue in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-best-of-the-best-12-screen-capture-tools-no-end/"><u>In 2024, Best of the Best 12 Screen Capture Tools (No End)</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-permanent-erase-for-files-using-windows-11-trash-can/"><u>Instant Permanent Erase for Files Using Windows 11 Trash Can</u></a></li>
+<li><a href="https://win11.techidaily.com/restart-your-way-fixing-non-working-intel-unison-in-windows-11/"><u>Restart Your Way: Fixing Non-Working Intel Unison in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-concurrent-use-of-wireless-and-cable-networks-for-windows-pcs/"><u>Streamlining Concurrent Use of Wireless and Cable Networks for Windows PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/swift-user-changeovers-on-social-media-platform-facebook/"><u>Swift User Changeovers on Social Media Platform Facebook</u></a></li>
+<li><a href="https://win11.techidaily.com/the-art-of-shortcut-invention-your-own-command-language-in-win11/"><u>The Art of Shortcut Invention: Your Own Command Language in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-launch-issues-in-armored-core-vi-solving-fires-of-rubicon-startup-problems/"><u>Troubleshooting Launch Issues in Armored Core VI: Solving 'Fires of Rubicon' Startup Problems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-escapades-our-selection-of-best-action-adventures/"><u>Ultimate Escapades Our Selection of Best Action-Adventures</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-devhome-your-ultimate-windows-11-hub/"><u>Unveiling DevHome: Your Ultimate Windows 11 Hub</u></a></li>
+</ul></div>
 
