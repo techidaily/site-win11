@@ -31,8 +31,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg">
-<meta property="article:published_time" content="2025-01-08T21:33:26.401Z">
-<meta property="article:modified_time" content="2025-01-12T12:41:58.566Z">
+<meta property="article:published_time" content="2025-01-11T09:30:42.590Z">
+<meta property="article:modified_time" content="2025-01-18T14:41:10.407Z">
 <meta property="article:author" content="David">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -718,15 +718,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-01-09 05:33:26</span>
-        <span class="mobile">2025-01-09 05:33:26</span>
+        <span class="desktop">2025-01-11 17:30:42</span>
+        <span class="mobile">2025-01-11 17:30:42</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-12 20:41:58</span>
-            <span class="mobile">2025-01-12 20:41:58</span>
+            <span class="desktop">2025-01-18 22:41:10</span>
+            <span class="mobile">2025-01-18 22:41:10</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -803,10 +803,6 @@
 <li><strong>Prompt for credentials</strong>: An operation that requires elevation of privilege prompts the user to type an administrative username and password. If the user enters valid credentials, the operation continues with the applicable privilege.</li>
 </ul>
 <p> The default UAC behavior for standard user accounts is <strong>Prompt for credentials</strong>, but Microsoft recommends you change it to <strong>Automatically deny elevation requests</strong>. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Local-Group-Policy-Editor"><a href="#How-to-Change-the-UAC-Behavior-for-Standard-Users-in-the-Local-Group-Policy-Editor" class="headerlink" title="How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor"></a>How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor</h2><p> The easiest way to change the way UAC behaves for standard users is to tweak the <strong>User Account Control: Behavior of the elevation prompt for standard users</strong> policy. To do that, <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-open-local-group-policy-editor/" >open the Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and follow the steps below.</p>
 <p> The Local Group Policy Editor isn’t available by default on Windows Home. As such, check out <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >how to access the Group Policy Editor on Windows Home <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before continuing.</p>
 <ol>
@@ -820,7 +816,7 @@
 <li>Expand the dropdown and choose a different UAC behavior.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p><img  
@@ -830,7 +826,7 @@
                       alt="editing the policy for UAC behavior in Local Group Policy Editor"
                 ><br>4. Click <strong>OK</strong>.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they’d probably get an <strong>Access denied</strong> error message.</p>
@@ -844,6 +840,12 @@
                       alt="the System key in the Registry Editor"
                 ></li>
 <li>Press <strong>Enter</strong> on your keyboard to go to the <strong>System</strong> key.</li>
+</ol>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<ol start="3">
 <li>Right-click the <strong>ConsentPromptBehaviorUser</strong> value in the right panel and select <strong>Modify</strong>.<br><img  
                      lazyload
                      src="/images/loading.svg"
@@ -853,7 +855,7 @@
 <li>In the <strong>Value data</strong> text box, enter <strong>0</strong> for <strong>Automatically deny elevation requests</strong>, <strong>1</strong> for <strong>Prompt for credentials on the secure desktop</strong>, or <strong>3</strong> for <strong>Prompt for credentials</strong>.</li>
 </ol>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p><img  
@@ -864,7 +866,7 @@
                 ><br>5. Click <strong>OK</strong>.</p>
 <p> Now restart your computer to allow the changes to take effect.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Control-UAC’s-Behavior-for-Standard-Users-on-Windows"><a href="#Control-UAC’s-Behavior-for-Standard-Users-on-Windows" class="headerlink" title="Control UAC’s Behavior for Standard Users on Windows"></a>Control UAC’s Behavior for Standard Users on Windows</h2><p> UAC is an integral part of protecting your Windows computer from malicious programs that want to run with elevated privileges. While you can’t make it elevate programs without prompting, you can make it stricter by setting it to <strong>Automatically deny elevation requests</strong>. And, as you can see, it is quite easy to do, whether you’re using the Local Group Policy Editor or the Registry Editor.</p>
@@ -877,20 +879,21 @@
       data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://some-tips.techidaily.com/new-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/updated-2024-approved-premiers-top-12-gps-enhanced-surveillance-cameras/"><u>[Updated] 2024 Approved Premier's Top 12 GPS-Enhanced Surveillance Cameras</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/updated-2024-approved-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>[Updated] 2024 Approved USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/updated-in-2024-top-10-best-add-ons-to-boost-your-gopro/"><u>[Updated] In 2024, Top 10 Best Add-Ons to Boost Your GoPro</u></a></li>
-<li><a href="https://win11.techidaily.com/disable-microsofts-assistant-service-on-pc/"><u>Disable Microsoft's Assistant Service on PC</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://games-able.techidaily.com/elite-144hz-ultrawide-displays-for-immersive-games/"><u>Elite 144Hz Ultrawide Displays for Immersive Games</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/google-stadia-reviewed-key-aspects-requiring-developmental-progress/"><u>Google Stadia Reviewed - Key Aspects Requiring Developmental Progress</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-resource-monitoring-ram-cpu-and-gpu-data-in-windows-11/"><u>Mastering Resource Monitoring: RAM, CPU & GPU Data in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-sound-dynamics-fixing-low-volume-woes/"><u>Maximizing Sound Dynamics: Fixing Low-Volume Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/pocket-sized-windows-patches-offline-methods/"><u>Pocket-Sized Windows Patches: Offline Methods</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://common-error.techidaily.com/quick-solutions-for-continuous-restarting-on-windows-11/"><u>Quick Solutions for Continuous Restarting on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-troubleshooting-for-rdp-internal-error-on-windows-11/"><u>Streamlining Troubleshooting for RDP Internal Error on Windows 11</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook.techidaily.com/unveiling-the-future-of-customer-relationships-on-facebooks-newsfeed/"><u>Unveiling the Future of Customer Relationships on Facebook's Newsfeed</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-social-reach-with-tiktok-to-facebook-integration/"><u>[New] In 2024, Maximizing Social Reach with TikTok to Facebook Integration</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/ed-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[Updated] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-haven.techidaily.com/boost-your-iphone-experience-by-merging-ai-talents-of-chatgpt-and-siri/"><u>Boost Your iPhone Experience by Merging AI Talents of ChatGPT and Siri</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://data-recovery.techidaily.com/1720600668019-bring-back-your-files-faster-than-ever-with-us/"><u>Bring Back Your Files Faster than Ever with Us</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-defense-integrating-firewall-filters-via-context-menu/"><u>Enhancing Windows 11 Defense: Integrating Firewall Filters via Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-reactivating-windows-update-features/"><u>Fast Track to Reactivating Windows Update Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-solutions.techidaily.com/how-to-stop-halo-infinity-from-skipping-frames-and-freezing-up/"><u>How to Stop Halo Infinity From Skipping Frames and Freezing Up</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-boxes.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-spatial-sound-in-windows-11/"><u>Mastering Spatial Sound in Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://mondly-stories.techidaily.com/oculus-quest-gets-its-first-ever-language-app-mondlyback-buttonfilter-button/"><u>Oculus Quest Gets Its First-Ever Language App: MondlyBack ButtonFilter Button</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-internet-connection-via-vpn/"><u>Overcoming No Internet Connection via VPN</u></a></li>
+<li><a href="https://win11.techidaily.com/power-on-performance-dispel-windows-11-sluggishness-quickly/"><u>Power on Performance: Dispel Windows 11 Sluggishness Quickly</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/prepise-mp4-do-gif-sestupne-a-kliknutelny-movavi-konverzer-na-internetu/"><u>Přepíše MP4 Do GIF Sestupně a Kliknutelný: Movavi Konverzér Na Internetu</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-amazing.techidaily.com/resolving-problems-with-the-realtek-rtl8811au-network-adapter-drivers/"><u>Resolving Problems with the Realtek RTL8811AU Network Adapter Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-power-best-windows-apps-for-elevating-your-productivity-game/"><u>Unleash Power: Best Windows Apps for Elevating Your Productivity Game</u></a></li>
 </ul></div>
 
 
@@ -903,11 +906,11 @@
         <li><strong>Title:</strong> Refining Non-Admin Access on Your Windows Machine</li>
         <li><strong>Author:</strong> David</li>
         <li><strong>Created at
-                :</strong> 2025-01-09 05:33:26</li>
+                :</strong> 2025-01-11 17:30:42</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-12 20:41:58
+                    :</strong> 2025-01-18 22:41:10
             </li>
         
         <li>
@@ -951,13 +954,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/methods-to-uninstall-win11-microsoft-store/"
+                        href="/skyrocketing-throughput-top-6-tips-for-superior-vm-performance-in-windows/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Methods to Uninstall Win11 Microsoft Store</span>
+                                <span class="post-nav-title-item">Skyrocketing Throughput: Top 6 Tips for Superior VM Performance in Windows</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -967,10 +970,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/elevate-disk-capacity-in-windows-7-best-no-cost-techniques/"
+                        href="/guide-to-reducing-sound-boost-in-windows/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Elevate Disk Capacity in Windows - 7 Best No-Cost Techniques</span>
+                                <span class="post-nav-title-item">Guide to Reducing Sound Boost in Windows</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
