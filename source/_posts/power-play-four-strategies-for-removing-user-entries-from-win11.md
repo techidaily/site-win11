@@ -1,7 +1,7 @@
 ---
 title: "Power Play: Four Strategies for Removing User Entries From Win11"
-date: 2024-08-16T00:44:32.361Z
-updated: 2024-08-17T00:44:32.361Z
+date: 2025-01-15T19:34:08.615Z
+updated: 2025-01-19T05:28:33.839Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ To disable user accounts via Settings:
 2. In the left pane, click on the**Accounts** tab.  
 ![windows 11 settings account family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-1.jpg)
 3. Next, in the right pane, scroll down and click on**Family** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under**Your family** , scroll down and click on the account you want to disable.  
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
@@ -48,9 +53,6 @@ To disable a user account using PowerShell:
 2. Click on**Terminal (Admin)** . It will open Windows Terminal with PowerShell set as the default profile.
 3. If not, click the drop-down icon in the**Terminal** tabs section and select**Windows PowerShell** .  
 ![powerhsell user account list view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-list-view.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, type the following command to find all the user accounts on your PC:  
 `Get-LocalUser`
 5. Locate the user account name in the**Name** column.
@@ -59,15 +61,16 @@ To disable a user account using PowerShell:
 `Disable-LocalUser -Name &ldquo;NewUser&rdquo;`
 2. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![powerhsell user account disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-disable.jpg)
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. PowerShell will not return a success message after the user account is disabled.
 4. If you need to enable the account again, type the following command and press Enter:  
 `Enable-LocalUser -Name &ldquo;NewUser&rdquo;`
 5. In the above command replace NewUser with your user account name.
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -85,18 +88,16 @@ To disable a user account using Command Prompt:
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Next, type**exit** and press Enter to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 4\. Disable a User Account From the Computer Management Console
 
  The Computer Management Console gives system administrators access to advanced tools such as Task Scheduler, Event Viewer, Device Manager, etc. Another useful Computer Management feature is Local Users and Groups.
@@ -110,21 +111,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. In the**Computer Management** console, expand**System Tools** .  
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
 2. To disable a user account, right-click on the**User Account Name** and select**Properties** .  
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the**Properties** dialog, select the**Account is disabled** option.
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Disable User Account Using Local Users and Groups on Windows 11 Home
 
  Windows 11 Home users will have to rely on a third-party tool to disable a user account via the Local User and Groups console. Lusrmgr is a third-party snap-in that offers similar functionalities as the Local Users and Groups Management console.
@@ -140,6 +140,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## There Are Many Ways to Disable a User Account on Windows 11
 
  Disabling a user account lets you restrict access to a specific user account without deleting the account completely. This way, if you need to restore the account at a later stage, you can enable it and continue using it without restoring files and folders.
@@ -152,8 +160,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +167,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-from-novices-to-professionals-free-guide-on-google-meet-mastery/"><u>[New] 2024 Approved From Novices to Professionals Free Guide on Google Meet Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-infuse-style-in-vids-3-proven-methods-for-instagram-borders/"><u>[Updated] 2024 Approved Infuse Style in Vids 3 Proven Methods for Instagram Borders</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-oculus-setup-fails-windows-1110-strategies/"><u>Addressing Oculus Setup Fails: Windows 11/10 Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-your-computer-writes-on-new-program-placement/"><u>Deciphering Your Computer' Writes on New Program Placement</u></a></li>
+<li><a href="https://windows11.techidaily.com/disclosing-windows-11s-elusive-icons/"><u>Disclosing Windows 11'S Elusive Icons</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/1723002391563-fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy A05 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-tiworkerexe-cpu-consumption-windows-wise/"><u>Lowering TiWorker.exe CPU Consumption Windows-Wise</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-data-effective-use-of-powertoys-lockmaster/"><u>Securing Your Data: Effective Use of PowerToys Lockmaster</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-start-experience-no-more-ads-in-w11/"><u>The Ultimate Start Experience: No More Ads in W11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-for-your-windows-predicaments/"><u>Troubleshooting Tips for Your Windows Predicaments</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/tutoriel-pratique-comment-retrouver-sans-effort-vos-fichiers-telecharges/"><u>Tutoriel Pratique : Comment Retrouver Sans Effort Vos Fichiers Téléchargés</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-win11-powertoys-experience/"><u>Unveiling the Win11 PowerToys Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/what-to-do-when-youtube-shorts-thumbnails-fail-to-appear-for-2024/"><u>What to Do When YouTube Shorts Thumbnails Fail to Appear for 2024</u></a></li>
+</ul></div>
 

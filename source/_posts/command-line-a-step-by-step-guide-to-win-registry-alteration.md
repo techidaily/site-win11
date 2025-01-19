@@ -1,7 +1,7 @@
 ---
 title: "Command Line: A Step-by-Step Guide to Win Registry Alteration"
-date: 2025-01-13T21:31:49.921Z
-updated: 2025-01-19T00:44:02.151Z
+date: 2025-01-13T01:12:17.874Z
+updated: 2025-01-19T08:32:51.381Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to View the List of Registry Commands in Command Prompt
 
 ![the command to view all reg commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/the-command-to-view-all-reg-commands.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There aren't a lot of commands when it comes to editing the registry using Command Line. To view them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) and run the below command in Command Prompt:
 
@@ -73,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  Now the **MySubKey** key will disappear in the Registry Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add, Modify, and Delete Values in the Windows Registry
 
 ![adding a value to Windows registry in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/adding-a-value-to-windows-registry-in-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To add or modify a value key in the registry using Command Prompt, you'll still use the **reg add** command like above. However, this time, you'll also have to specify the following parameters: value (**/v**), value type (**/t**), and value data (**/d**). Here's an example of what the command would like:
 
@@ -105,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  After running the above command successfully, the value should disappear from the Registry Editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Copy Registry Entries From One Key to Another
 
 ![transfering entries from one registry key to another in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/transfering-entries-from-one-registry-key-to-another-in-command-prompt.jpg)
@@ -121,19 +117,23 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![importing a registry file in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/importing-a-registry-file-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have [created a Windows Registry file](https://www.makeuseof.com/windows-registry-file-guide/) or downloaded it elsewhere, you can import it into the registry using the **reg import** command. All you need to do is specify the path to the registry file and Command Prompt will do the rest. Here's an example:
 
 `reg import C:\Users\CHIFUNDO\Desktop\MyRegFile.reg`
 
  Once you run that command, the contents of the reg file will be merged with the registry.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Export Registry Entries
 
 ![exproting a registry key in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/exproting-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can export a key in the registry using the **reg export** command while specifying the path of the key you want to export and the file you want to create. This comes in handy when you need to back up certain keys and values to restore them elsewhere. Here's an example:
 
@@ -147,13 +147,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The resulting registry file will only contain the key and the specific value you exported.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Save Registry Entries
 
 ![saving-a-key-to-a-registry-file-in-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/saving-a-key-to-a-registry-file-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you already have a registry file or any other text file, you can add keys to it using Command Prompt and the **reg save** command, which will overwrite the file with the new information. You just need to specify the name of the key and the registry file you want to save it to. Here's an example:
 
@@ -161,13 +161,13 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  The **/y** switch at the end of the command above overwrites the file you're saving the key to without bringing up a prompt. When you open the file, you won't be able to read the contents since it will be saved as a binary file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Restore Registry Entries
 
 ![restoring-a-registry-key-in-command-prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/restoring-a-registry-key-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  So, let's say something has happened to the keys and values within the **MyNewKey2** we saved in the previous section, you can use the backup file you created to restore it. You'll need to use the **reg restore** command. Here's how to run it:
 
@@ -193,18 +193,21 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-sounding-different-in-pubg/"><u>[New] Mastering the Art of Sounding Different in PUBG</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/03118992-updated-2024-approved-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] 2024 Approved Discovering if Quick YouTube Subscriptions Really Work.</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-battle-royale-hero5-b-stacked-against-session/"><u>2024 Approved GoPro's Battle Royale Hero5 B Stacked Against Session</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
-<li><a href="https://win-webster.techidaily.com/checking-hard-drive-and-system-compatibility-expert-guide-yl-computing/"><u>Checking Hard Drive & System Compatibility: Expert Guide - YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-guide-to-the-google-pixel-tablet-is-it-a-viable-rival-for-apples-ipad/"><u>Comprehensive Guide to the Google Pixel Tablet: Is It a Viable Rival for Apple's iPad?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-invalid-computer-name-alert-on-win11/"><u>How to Rectify Invalid Computer Name Alert on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/interactive-synergy-windows-now-on-iphone-ipad-mac-and-desktop-platforms/"><u>Interactive Synergy: Windows Now on iPhone, iPad, Mac, and Desktop Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-no-access-error-securing-file-viewer-rights/"><u>Overcoming Windows' No Access Error: Securing File Viewer Rights</u></a></li>
-<li><a href="https://solve-help.techidaily.com/repair-strategies-for-damaged-operating-systems-by-yl-software-experts/"><u>Repair Strategies for Damaged Operating Systems by YL Software Experts</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/solving-persistent-errors-effective-solutions-for-problem-loop-in-windows-11818/"><u>Solving Persistent Errors: Effective Solutions for 'Problem Loop' In Windows 11/8.1/8</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-swiftly-solve-steam-installation-woes-win11-edition/"><u>Strategies to Swiftly Solve Steam Installation Woes, Win11 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-unparalleled-potential-in-your-circuits-with-breadboardos-the-ultimate-choice-for-raspberry-pi-pico-enthusiasts/"><u>Unleash Unparalleled Potential in Your Circuits with BreadboardOS - The Ultimate Choice for Raspberry Pi Pico Enthusiasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/lub-chronicles-expertly-picked-dj-videos/"><u>[New] Club Chronicles Expertly Picked DJ Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-electorate-engagement-enigma-top-simulator-series/"><u>[New] Electorate Engagement Enigma Top Simulator Series</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-and-resolve-windows-error-code-0xc00000f-quickly/"><u>Avoid and Resolve Windows Error Code: 0Xc00000f Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-list-of-windows-most-reliable-usage-monitors/"><u>Exclusive List of Windows' Most Reliable Usage Monitors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-overcoming-connectivity-errors-on-your-samsung-galaxy-phone/"><u>Expert Tips: Overcoming Connectivity Errors on Your Samsung Galaxy Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-gain-entry-windowsstore-apps-explorer/"><u>How To Gain Entry: WindowsStore Apps Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-oneplus-11r-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked OnePlus 11R Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y56-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y56 5G?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-m34-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Samsung Galaxy M34 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-how-to-view-old-stories-on-facebook-find-story-archive-easily/"><u>In 2024, How to View Old Stories on Facebook Find Story Archive Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/old-wallpapers-no-more-discover-three-solutions/"><u>Old Wallpapers No More! Discover Three Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/procedure-opening-driver-verifier-for-fault-analysis/"><u>Procedure: Opening Driver Verifier for Fault Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-inability-to-install-windows-store-apps/"><u>Resolving Inability to Install Windows Store Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/revel-in-rich-software-diversity-on-windows/"><u>Revel in Rich Software Diversity on Windows</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/step-by-step-tutorial-is-it-possible-to-retrieve-information-after-reformatting-your-hdd/"><u>Step-by-Step Tutorial: Is It Possible to Retrieve Information After Reformatting Your HDD?</u></a></li>
 </ul></div>
 

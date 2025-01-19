@@ -1,7 +1,7 @@
 ---
 title: "Desktop Icon Disappearance: Windows 11 Recovery Steps"
-date: 2024-08-16T00:45:27.141Z
-updated: 2024-08-17T00:45:27.141Z
+date: 2025-01-13T20:21:23.678Z
+updated: 2025-01-18T19:01:17.129Z
 tags:
   - windows10
   - windows11
@@ -29,8 +29,13 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Desktop Icon Settings
 
  If you're only missing a few desktop icons, such as This PC, Recycle Bin, Control Panel, and others, you may have disabled them in the "Desktop Icon Settings" window. In that case, you can use the following steps to re-enable those desktop icons.
@@ -45,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
 
  Once you complete the above steps, your icons should appear on the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Restart Windows Explorer
 
  The Windows Explorer process handles the Graphical User Interface (GUI) for a number of utilities, including the desktop. If this service encounters any issues, your desktop and taskbar icons may disappear. If this is the case, you can restart the Windows Explorer process to fix the problem.
@@ -60,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/8728071c55cb4a9d737d3c276cbce71523d45848b
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Rebuild Icon Cache
 
  Another reason why desktop icons on Windows may appear broken or go missing is if the existing icon cache data is corrupt. In that case, you can try clearing the corrupted icon cache data. This will force Windows to rebuild the icon cache from scratch and resolve your problem.
@@ -78,10 +81,12 @@ To rebuild icon cache on Windows 11:
 6. Paste this command and press**Enter** to delete icon cache files:  
 `del iconcache*`  
 ![Rebuild Icon Cache Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rebuild-Icon-Cache-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Finally, type in the following text and hit**Enter** to restart Explorer:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Explorer.exe`
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
@@ -96,8 +101,9 @@ To rebuild icon cache on Windows 11:
 4. Right-click on your graphics driver and select**Update driver** .
 5. Select**Search automatically for drivers** to let Windows find and install the best drivers.  
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
@@ -115,6 +121,10 @@ To rebuild icon cache on Windows 11:
 5. Select**Not configured** or**Disabled** .
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Perform a System Restore
 
@@ -139,31 +149,20 @@ Follow these steps to perform a system restore on Windows:
  To add an icon to the desktop in Windows 11, open the**Start menu** and click on**All apps** . Scroll down to the app you want to add to the desktop. Finally, drag the app shortcut to your desktop.
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
  We covered this topic in more detail in our guide to[how to add icons to the desktop on Windows](https://www.makeuseof.com/how-to-add-icon-to-desktop-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Restore the Missing Desktop Icons on Windows 11
 
  Hopefully, the above-mentioned solutions have helped you restore the missing desktop icons on Windows 11 and things are back to normal. However, if none of the above solutions work, you may have to reset your Windows 11 PC as a last resort.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +171,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-non-gaming-screen-capture-apps-worth-your-time/"><u>[New] 2024 Approved Non-Gaming Screen Capture Apps Worth Your Time</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-storystitcher-compelling-collage-for-instagram-users-for-2024/"><u>[New] StoryStitcher Compelling Collage for Instagram Users for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-easy-ways-to-record-webcam-chat/"><u>[Updated] 2024 Approved Easy Ways to Record Webcam Chat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] 2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://win11.techidaily.com/address-fixing-non-responsive-function-keys-in-win-11-os/"><u>Address: Fixing Non-Responsive Function Keys in Win 11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-windows-update-failure-0x800f0845/"><u>Dealing with Windows Update Failure - 0X800F0845</u></a></li>
+<li><a href="https://win-superb.techidaily.com/easily-modify-your-pcs-energy-settings-a-step-by-step-guide-yl-software-solutions/"><u>Easily Modify Your PC's Energy Settings: A Step-by-Step Guide - YL Software Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reverse-error-code-0x80780119-in-windows/"><u>Guide to Reverse Error Code 0X80780119 in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-g2-by-fonelab-android-recover-data/"><u>How to retrieve lost files from G2?</u></a></li>
+<li><a href="https://win11.techidaily.com/introduction-to-windows-hello-for-fingerprint-recognition/"><u>Introduction to Windows Hello for Fingerprint Recognition</u></a></li>
+<li><a href="https://discover-data.techidaily.com/kauf-aomei-backupper-fur-professionelle-pcs-und-laptops-business-freundliche-losung/"><u>Kauf AOMEI Backupper Für Professionelle PCs Und Laptops – Business-Freundliche Lösung</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-performance-tips-for-smoother-gameplay-and-higher-fps-in-fall-guys/"><u>Maximizing Performance: Tips for Smoother Gameplay and Higher FPS in Fall Guys</u></a></li>
+<li><a href="https://win11.techidaily.com/restore-your-flight-comrade-copilot-in-ws11/"><u>Restore Your Flight Comrade (Copilot) in WS11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/troubleshooting-a-non-booting-hard-drive-steps-from-yl-computings-guide/"><u>Troubleshooting a Non-Booting Hard Drive: Steps From YL Computing's Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-enlargement-and-reduction-the-top-six-methods/"><u>Windows 11 Image Enlargement and Reduction – The Top Six Methods</u></a></li>
+</ul></div>
 

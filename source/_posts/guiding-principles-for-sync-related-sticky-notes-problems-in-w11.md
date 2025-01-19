@@ -1,7 +1,7 @@
 ---
 title: Guiding Principles for Sync-Related Sticky Notes Problems in W11
-date: 2024-08-16T00:46:30.958Z
-updated: 2024-08-17T00:46:30.958Z
+date: 2025-01-17T19:18:01.719Z
+updated: 2025-01-19T11:01:26.707Z
 tags:
   - windows10
   - windows11
@@ -35,14 +35,12 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 3. Scroll down and locate the Sticky Notes app in the list. Click on the **three horizontal dots** button to open the context menu. Click on the **Advanced options**.
 4. Navigate down and click the **Terminate** button to close the app.  
 ![Terminate and Restart Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/terminate-and-restart-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Press **Win + S** to open Windows Search. Type Sticky Notes and press the **Enter** key to relaunch the app.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Perform a Complete Shutdown
 
  Modern versions of Windows OS use [Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) which hibernates kernel-level processes and aids the PC to boot up quickly. But if these processes glitch, you can face issues with apps and services.
@@ -72,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/0379597f9da7536e36404a183eea7c97d1ca35642
 5. Click on the **Sign in** button.
 6. Select the Microsoft account you use on your PC and click on the **Continue** button.  
 ![Sign Out and Sign In Again 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Now, make changes to any note in the app and check if the sync issues persist or not.
 
@@ -88,9 +82,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click on the **Change settings** button.
 4. Locate the Microsoft Sticky Notes entry in the list. **Click** on both the **checkboxes** under the **Public** and Private columns.  
 ![Allow Sticky Notes in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-sticky-notes-in-the-windows-firewall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Lastly, click on the **OK** button to apply the changes.
 6. **Close** the Control Panel window.
 
@@ -102,14 +93,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Scroll down to the **Help and feedback** section.
 3. Click on the **Sync now** button.  
 ![Manually Sync the Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-sync-the-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Check if the notes sync and are available on another device or by opening the Outlook account in the web browser.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Update Sticky Notes
 
  You cannot directly check for updates or update the Sticky Notes app using its settings section. Since it is a Microsoft app, you must use the Microsoft Store to check for updates and download and install them. Here’s how to do it:
@@ -119,10 +112,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click on the **Get Updates** button and check if an update is available for the Sticky Notes app.
 4. Then, click on the **Update** button next to the Sticky Notes app to download and install the latest update.  
 ![Update Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Close the Microsoft Store.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Run the Windows Store Apps Troubleshooter
 
@@ -132,12 +126,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click on the **Other troubleshooters** option.
 3. Scroll down and find the **Windows Store Apps troubleshooter**. Click on the **Run** button.  
 ![Run the Microsoft Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Wait for the troubleshooter to find and fix issues with installed apps.  
 ![Run the Microsoft Store Apps Troubleshooter 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter-2.jpg)
 5. Close the troubleshooter window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Repair or Reset Sticky Notes
 
@@ -149,8 +144,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. Launch Sticky Notes and check if the app is able to sync the notes or not.
 5. If you still face sync issues with the app, revisit the Advanced options page and click on the **Reset** button.  
 ![Repair or Reset Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-or-reset-sticky-notes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Reinstall Sticky Notes
@@ -161,10 +157,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Find the Sticky Notes app in the list and click on the **dots** button. Click on the **Uninstall** option.
 3. Now, click on the **Uninstall** button.  
 ![Reinstall sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reinstall-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Visit the [Microsoft Sticky Notes page on the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW). Download and install it on your PC and then sign in to your account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make the Sticky Notes Sync Feature Functional Again
 
@@ -172,11 +173,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  But some users face an issue with the app, and their notes do not automatically sync in Windows 11\. The potential reasons for this issue can be internet issues, misconfigured app settings, or a corrupt or outdated app version. Try these methods to make the Sticky Notes sync feature functional again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ultimate-capture-app-windows-10-edition/"><u>[New] 2024 Approved Ultimate Capture App - Windows 10 Edition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essence-of-engaging-live-broadcasts-360-video-techniques-for-youtube/"><u>[Updated] In 2024, The Essence of Engaging Live Broadcasts 360° Video Techniques for Youtube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-regulatory-views-on-screenshots-from-youtube-streaming-for-2024/"><u>[Updated] Regulatory Views on Screenshots From YouTube Streaming for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-essentials-navigating-whatsapp-call-functionality/"><u>[Updated] The Essentials Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-guide-to-enhancing-photos-with-top-10-screenshot-charmers-for-2024/"><u>[Updated] Ultimate Guide to Enhancing Photos with Top 10 Screenshot Charmers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-confusion-how-to-handle-installation-hiccups-win11/"><u>Clearing Up Confusion: How to Handle Installation Hiccups (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-limit-windows-sonic-amplification/"><u>How To Limit Windows Sonic Amplification</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-use-of-snipping-tool-on-modern-windows-os/"><u>Instant Use of Snipping Tool on Modern Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/lowering-the-load-on-your-pc-with-efficient-wlanextexe/"><u>Lowering the Load on Your PC with Efficient Wlanext.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-flashing-screens-on-win1011-quick-fixes/"><u>Tackling Flashing Screens on WIN10/11: Quick Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>The Ultimate Guide to Using VLC From MPEG-4 to All Media Types</u></a></li>
+</ul></div>
+

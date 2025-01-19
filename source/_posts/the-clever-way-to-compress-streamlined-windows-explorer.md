@@ -1,7 +1,7 @@
 ---
 title: "The Clever Way to Compress: Streamlined Windows Explorer"
-date: 2024-08-16T00:43:16.950Z
-updated: 2024-08-17T00:43:16.950Z
+date: 2025-01-15T02:42:11.966Z
+updated: 2025-01-18T19:16:56.563Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
 
  So, we'll share three ways you can enable the compact view in File Explorer on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
  If the compact view option is missing in the command bar, you can use Folder options to get the work done. There are [multiple ways to open the Folder option](https://www.makeuseof.com/windows-10-open-folder-options/), but the quickest is to use the Run dialog box.
@@ -46,28 +51,28 @@ thumbnail: https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6
  and click **OK** to launch the Folder option.
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -81,23 +86,17 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Change the File Explorer Look Anytime
 
  The new revamped File Explorer is good, but many users still prefer the old layout with less padding. If you want to remove extra spacing between items in File Explorer, you can enable the compact view option using either of the above methods.
 
  Meanwhile, you might be interested in adding Google Drive to File Explorer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +105,23 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[New] How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-investment-returns-on-youtuber-promotions/"><u>[New] Investment Returns on Youtuber Promotions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-vrs-current-creative-conundrum-latest-insights-for-2024/"><u>[Updated] VR's Current Creative Conundrum - Latest Insights for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros/"><u>2024 Approved Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-stopcapture-screen-freeze-assist/"><u>2024 Approved StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-guide-to-end-non-registered-user-sessions-on-windows-11/"><u>A Step-by-Step Guide to End Non-Registered User Sessions on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/curated-list-best-weather-trackers-for-w10w11/"><u>Curated List: Best Weather Trackers for W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/cut-down-on-computing-power-spent-by-malware-scanners/"><u>Cut Down on Computing Power Spent by Malware Scanners</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-the-windows-programming-file-layout-pe/"><u>Deciphering the Windows Programming File Layout (PE)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-90-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor 90 Is Unlocked</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-windows-taskmanager-on-top-techniques/"><u>Mastery Over Windows: TaskManager on Top Techniques</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-proxy-perfection-the-top-8-video-editing-apps-for-4k-for-2024/"><u>New Proxy Perfection The Top 8 Video Editing Apps for 4K for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/quick-fix-pc-reboot-using-aomei-onekey-backup-and-recovery-solution/"><u>Quick Fix PC Reboot Using AOMEI OneKey Backup & Recovery Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-moto-g84-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Moto G84 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackle-chromiums-network-access-via-windows-settings-blockers/"><u>Unshackle Chromium's Network Access via Windows Settings Blockers</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-addressing-inaudible-wireless-speaker-issues/"><u>Win11: Addressing Inaudible Wireless Speaker Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 with Microsoft's PowerToys
-date: 2025-01-13T22:05:55.002Z
-updated: 2025-01-18T21:53:50.629Z
+date: 2025-01-16T19:22:43.866Z
+updated: 2025-01-19T03:05:18.266Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install Microsoft PowerToys From the Microsoft Store
@@ -42,13 +42,13 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
 ![Installing PowerToys Through Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/installing-powertoys-through-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once installation is complete, open the Microsoft PowerToys app from the Start menu. All features are ready to use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install Microsoft PowerToys From the GitHub Page
@@ -68,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/700293ffdf9a4730d9df7fa5093979f42d9fa58b0
  After performing the above procedure, you can access Microsoft PowerToys from the Start menu or the shortcut if you created one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Install Microsoft PowerToys Through the Command Prompt
@@ -88,7 +88,7 @@ winget install --id Microsoft.PowerToys
  The process might take a few minutes, so be patient. Once it's finished, you'll find Microsoft PowerToys in your Start Menu.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Download Microsoft PowerToys Easily on Windows
@@ -109,22 +109,22 @@ winget install --id Microsoft.PowerToys
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-ios-slideshow-software-for-latest-models/"><u>[Updated] Essential iOS Slideshow Software for Latest Models</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-editing-sites-your-gateway-to-flawless-visual-content-creation/"><u>2024 Approved Best Free Editing Sites - Your Gateway to Flawless Visual Content Creation</u></a></li>
-<li><a href="https://win-premium.techidaily.com/best-disk-erasing-applications-top-picks-for-windows-11-10-8-and/"><u>Best Disk Erasing Applications: Top Picks for Windows 11, 10, 8 &</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-not-enough-privileges-error-during-installation-on-windows/"><u>Eliminating Not Enough Privileges Error During Installation on Windows</u></a></li>
-<li><a href="https://driver-error.techidaily.com/error-22-addressed-device-now-online/"><u>Error 22 Addressed; Device Now Online</u></a></li>
-<li><a href="https://win11.techidaily.com/ethernet-efficiency-top-tips-to-test-your-networks-pace-on-windows/"><u>Ethernet Efficiency: Top Tips to Test Your Network's Pace on Windows</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-microphone-settings-in-w11-systems/"><u>Mastering Microphone Settings in W11 Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/quashing-the-spontaneous-search-on-win11-pc/"><u>Quashing the Spontaneous Search on Win11 PC</u></a></li>
-<li><a href="https://win-popular.techidaily.com/r2-pada-sistem-seriusan-yang-terbaru/"><u>R2 Pada Sistem Seriusan Yang Terbaru</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-conflict-between-apps-and-computers-default-audio/"><u>Remedying the Conflict Between Apps and Computer's Default Audio</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-windows-services-command-line-tool-with-these-7-steps/"><u>Restoring Window's Services Command Line Tool with These 7 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-methods-how-to-determine-hard-drivessd-status-in-windows-system/"><u>Swift Methods: How to Determine Hard Drive/SSD Status in Windows System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-y100t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo Y100t Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-huion-drawing-tablet-quick-solutions-for-when-it-stops-responding/"><u>Troubleshoot Your Huion Drawing Tablet: Quick Solutions for When It Stops Responding</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-11-mail-issues-with-html-enhanced-emails/"><u>Troubleshooting Windows 11 Mail Issues with HTML-Enhanced Emails</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/urney-begins-with-these-top-titles/"><u>VR Journey Begins with These TOP Titles</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>[Updated] DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-youtubes-power-for-profit-mastering-short-video-earnings-for-2024/"><u>[Updated] Harnessing YouTube's Power for Profit Mastering Short Video Earnings for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximizing-audio-capture-essential-techniques-for-facetime/"><u>[Updated] In 2024, Maximizing Audio Capture Essential Techniques for FaceTime</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[Updated] In 2024, Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/decode-widows-code-to-unfreeze-handbrake/"><u>Decode Widows' Code to Unfreeze HandBrake</u></a></li>
+<li><a href="https://win11.techidaily.com/from-basic-to-winning-converting-batch-to-executable/"><u>From Basic to Winning: Converting Batch to Executable</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-decrease-extras-in-win-11-context-list/"><u>How to Decrease Extras in Win 11 Context List</u></a></li>
+<li><a href="https://win-guides.techidaily.com/losungsweg-seagate-discwizard-lasst-sich-nicht-mit-einer-festplatte-verbinden-anleitung-zum-losen-des-problems/"><u>Lösungsweg: Seagate DiscWizard Lässt Sich Nicht Mit Einer Festplatte Verbinden - Anleitung Zum Lösen Des Problems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-channel-names-a-complete-list-for-vloggers-keep-it-at-or-below-156-characters/"><u>Mastering YouTube Channel Names A Complete List for Vloggers (Keep It at or Below 156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-disconnected-google-drive-windows-filesystem/"><u>Mending Disconnected Google Drive Windows Filesystem</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-how-to-enhance-your-workflow-via-menus/"><u>The Blueprint: How to Enhance Your Workflow via Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-compression-via-cli/"><u>The Essential Guide to File Compression via CLI</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-hidden-world-of-your-online-footprint-unveiling-facebooks-secrets/"><u>The Hidden World of Your Online Footprint - Unveiling Facebook’s Secrets</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-assembling-a-taskbar-on-windows-11-slate/"><u>The Ultimate Guide to Assembling a Taskbar on Windows 11 Slate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-strategies-for-changing-song-pace-on-spotify-app/"><u>Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-chatgpt-revealing-ais-creative-potential/"><u>What Is ChatGPT? Revealing AI's Creative Potential</u></a></li>
+<li><a href="https://win11.techidaily.com/window-terminal-design-your-own-palette/"><u>Window Terminal: Design Your Own Palette</u></a></li>
 </ul></div>
 

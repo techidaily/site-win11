@@ -1,7 +1,7 @@
 ---
 title: Expert Guide to Overcoming Voice Typing Hiccups in Windows 11
-date: 2024-08-16T00:45:19.518Z
-updated: 2024-08-17T00:45:19.518Z
+date: 2025-01-11T23:40:25.613Z
+updated: 2025-01-18T21:38:08.448Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,11 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 3. Next, click**Other trouble-shooters** to view that part of Settings.  
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 4. Select the Recording Audio troubleshooter’s**Run** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Run button for the Recording Audio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/run-button-for-recording-audio.jpg)
 5. Click**Apply this fix** for any solutions suggested by the Recording Audio troubleshooter.
 
@@ -40,11 +45,20 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 4. Click**Large icons** on the Control Panel’s**View by** menu.  
 ![The Troubleshooting navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooting-option.jpg)
 5. Select**Troubleshooting** to bring up that applet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Next, click the**View all** link on the left of the Troubleshooting applet.
 7. Select**Speech** to open it.  
 ![The troubleshooting list in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-troubleshooter-list-in-control-panel.jpg)
 8. Press the Speech troubleshooter’s**Next** button to detect and fix issues.  
 ![The Speech troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-speech-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Check for Windows 11 Updates
 
@@ -54,18 +68,16 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 2. Next, click**Windows Update** to view that tab’s options.
 3. Press**Check for updates** to see what Windows 11 updates, if any, are available.  
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 4. Click the**Download and install** buttons for any available Windows 11 updates. That includes the Windows 11 22H2 build update if it is available for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select**Advanced options** \>**Optional updates** to view other patches.  
 ![The Download & install button for optional updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-download--install-button.jpg)
 6. Then select the checkboxes for updates listed there, and click the**Download and install** options.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Settings for Your Microphone
 
  Windows 11’s Settings app includes microphone access options that need to be enabled for voice typing to work. Double-check that microphone access is enabled for all apps you want to utilize for voice typing. This is how you can enable mic access in Windows 11:
@@ -75,19 +87,17 @@ The ultimate burning program for all your needs!</a>
 3. Next, click the**Microphone** navigation option.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if it is disabled.  
-![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The microphone access settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/microphone-access-settings.jpg)
 5. Turn on the**Let apps access your microphone** setting.
 6. Make sure the microphone access options for all apps you need to utilize the mic with are turned on.
 
  It’s also recommended to try setting up the mic again from Settings. To do that, select**Speech** on the**Time & language** tab in Settings. Click the**Get started** button for setting up Microphone speech recognition. Then go through the setup instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 4\. Update the Driver for Your Microphone
 
  You might need to fix error 0x80049dd3 because your PC’s microphone has an outdated or corrupted driver. An easy way to check if that’s the case is to run a scan with a third-party tool like Driver Booster.
@@ -96,9 +106,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-driver-booster-software.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Set Up a New User Account
 
  Creating a new user account is among the most widely confirmed solutions for error 0x80049dd3\. Thus, this error is seemingly often a user account issue. Try setting up and switching to a new user account in the following steps:
@@ -108,38 +115,39 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Select the**Family & other users** navigation option.
 4. Click**Add account** for the**Add other user** option.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 5. Select the **I don’t have this person’s sign-in information** option on the Microsoft account window.  
 ![The I don't have this person's sign-in information option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-i-dont-have-sign-in-information-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Next, click**Add a user** without a Microsoft account.
 2. Fill in the user account name and password boxes.  
 ![The username and password account fields](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-account-fields.jpg)
 3. Select**Next** to set up the account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click the new account’s down arrow in Settings to expand it.
 5. Press the**Change account type** button for your new account.  
 ![The Change account type button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-account-type-option.jpg)
 6. Select the**Administrator** option on the Change account type window, and click**OK** to save.  
 ![The Administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-administrator-option.jpg)
 7. Sign out of Windows 11 and log in to the newly created user account.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Try using voice typing in your new user account.
 
  If this solution works, you can transfer your user files to the new account. To do that, you’ll need to copy all the data from an old user account folder and paste it into the new one with the**Ctrl** +**C** and**Ctrl** +**V** hotkeys. You can copy data from your old account into the new one at these folders paths:
 
 `C:\Users\<Old_Username>\nC:\Users\<New_Username>`
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## 6\. Reset Your Network Connection
 
  Network connectivity issues are another potential cause for error 0x80049dd3\. So, resetting network components could help some users resolve this issue. You can reset your network adapter via Settings in the following steps:
@@ -162,8 +170,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +177,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-highpoint-artist-suite-evaluation/"><u>[New] In 2024, Highpoint Artist Suite Evaluation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-beyond-audience-counting-the-intricacies-of-youtubes-metrics/"><u>[Updated] 2024 Approved Beyond Audience Counting The Intricacies of YouTube’s Metrics</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-masterful-zoom-techniques-simple-iphone-solutions/"><u>[Updated] Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-techniques-for-realistic-photo-motions-in-illustrator/"><u>[Updated] Techniques for Realistic Photo Motions in Illustrator</u></a></li>
+<li><a href="https://win11.techidaily.com/9-fixes-to-try-when-steam-is-stuck-on-verifying-installation-for-windows/"><u>9 Fixes to Try When Steam Is Stuck on Verifying Installation for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-the-best-ios-vpn-solutions-featuring-expert-evaluations/"><u>A Comprehensive Guide to the Best iOS VPN Solutions, Featuring Expert Evaluations</u></a></li>
+<li><a href="https://win11.techidaily.com/enhanced-workflows-via-custom-task-integration-into-explorer-menus/"><u>Enhanced Workflows via Custom Task Integration Into Explorer Menus</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-top-8-hubs-for-3d-graffiti-typefaces/"><u>In 2024, Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-windows-11-calendar-into-daily-life/"><u>Integrating Windows 11 Calendar Into Daily Life</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-application-size-modification-with-keys-on-win11/"><u>Streamlining Application Size Modification with Keys on Win11</u></a></li>
+<li><a href="https://win-popular.techidaily.com/understanding-the-causes-of-excessive-heat-in-your-laptop-insights-from-yl-computing/"><u>Understanding the Causes of Excessive Heat in Your Laptop: Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-tips-counteracting-camera-app-fails/"><u>Winning Tips: Counteracting Camera App Fails</u></a></li>
+</ul></div>
 

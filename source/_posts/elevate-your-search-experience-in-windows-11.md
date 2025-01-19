@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Search Experience in Windows 11
-date: 2024-08-16T00:44:35.603Z
-updated: 2024-08-17T00:44:35.603Z
+date: 2025-01-13T03:55:09.602Z
+updated: 2025-01-19T04:00:42.363Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  In this article, we will explore some of the ways to help you achieve more personalized search results on your Windows 11 PC, beginning from privacy settings to managing search indexes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn On Safe Search
 
  Considering the amount of inappropriate content on the internet, it might be necessary to put mechanisms in place to block out any adult content in your search, especially if you have little ones around.
@@ -35,6 +39,11 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 2. Under**Windows permissions,** click**Search permissions** .  
 ![Screenshot of windows 11 privacy settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-settings-page.jpg)
 3. This will open up SafeSearch settings, under which three options exist:**Strict** ,**Moderate,** and**Off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot of safesearch settings page on windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-safesearch-settings-page-on-windows11.jpg)
 
  The**Strict** setting will filter out all adult content in texts, images, and videos from web previews. On the other hand, the**Moderate** setting will only filter out adult images and videos, excluding text. Lastly, the**Off** option will disable the filter entirely from your web results.
@@ -51,19 +60,22 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 3. To manage your connected accounts, go to **Settings > Privacy & settings > Cloud Content Search** .  
 ![Screenshot of cloud content search settings on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-cloud-content-search-settings-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using[Cloud Content Search](https://www.makeuseof.com/windows-cloud-content-search-guide/) settings, you can add search results from other accounts you are signed in to, or exclude them from your search. This could include Microsoft services such as Outlook, OneDrive, Bing, or your organization/school account. Simply toggle on**Microsoft account** and**Work or School Account** option to do this.
 
 1. To add an account to Windows Search, go to**Email & Accounts** in**Settings** .  
 ![Screenshot of email & accounts settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11.jpg)
 2. Beneath**Accounts Used by other apps** , click**Add a Microsoft Account** to add one, or**Add a Workplace or School Account** .  
-![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Screenshot of email & accounts settings page on windows 11 (2)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-email-accounts-settings-page-on-windows-11-2.jpg)
+
 ## 3\. Clear Search History on Your Device
 
  Search history is stored by default on your device to help you get faster results and recommendations based on your search patterns.
@@ -78,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
  Results from the Windows search will often bring up previews of web results. If you find this a bit confusing, you can exclude web search results to streamline your search to only local results from your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 4\. Enable App Launch Tracking
 
  Enabling app launch tracking on your PC lets Windows monitor the apps you frequently use to improve your search results. Thus, you can access these apps easily, especially from the start menu.
@@ -90,8 +99,9 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 ![Screenshot of app launch tracking settings page on windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-app-launch-tracking-settings-page-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Utilize Enhanced Search
 
  When you run a search, your PC will typically look for files in specific locations, such as in the**Documents** or**Pictures** folders.
@@ -104,32 +114,27 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
 
 ![Screenshot Showing Windows 11 Enhanced Search Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/annotely_image-14.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there are some folders you’d like to keep out of your search, click on**Exclude folders from enhanced search.**
 
 ![Screenshot of Windows 11 Privacy & Security page 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-windows-11-privacy-security-page-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Click the three dotted lines on each menu and select**Remove** to exclude it from a search.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Harnessing the Power of Windows Search
 
  Search tools make finding things much easier, and your Windows 11 PC is no exception. With a few tweaks, you can improve search results on your PC and take your experience to a whole different level.
 
  Windows 11 brings even more improvements to the search feature. Aside from being able to access it right from the taskbar, it also brings you the power of search highlights, with more content and insights to your search.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +143,19 @@ thumbnail: https://thmb.techidaily.com/13322664753ec1bcb9b951122efdf005d8bc61a3a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-language-of-asmr-videos/"><u>[New] 2024 Approved Decoding the Language of ASMR Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-elusive-footage-the-systematic-guide-to-youtube-secrets/"><u>[New] 2024 Approved Unlocking Elusive Footage The Systematic Guide to YouTube Secrets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-yearly-revelation-of-cost-effective-editing-apps/"><u>[New] The Yearly Revelation of Cost-Effective Editing Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-epic-explorers-guide-listing-best-action-adventures-ever/"><u>[Updated] 2024 Approved The Epic Explorer's Guide Listing Best Action-Adventures Ever</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-simplified-guide-to-incorporating-ken-burns-effect-in-camtasa-for-2024/"><u>[Updated] Simplified Guide to Incorporating Ken Burns Effect in Camtasa for 2024</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/avec-98-de-fidelite-convertissez-vos-fichiers-wmv-en-mp4-gratuitement-des-maintenant/"><u>Avec 98% De Fidélité, Convertissez Vos Fichiers WMV en MP4 Gratuitement Dès Maintenant !</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-file-system-usability-in-windows-max-156/"><u>Enhancing File System Usability in Windows (Max 156)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-realme-12-proplus-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Realme 12 Pro+ 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-connectivity-windows-11-and-mobile-devices-unite/"><u>Innovative Connectivity: Windows 11 & Mobile Devices Unite</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-keyboard-precise-text-pasting-hotkeys/"><u>Personalize Your Keyboard: Precise Text Pasting Hotkeys</u></a></li>
+<li><a href="https://win11.techidaily.com/skyrim-to-nostalgia-windows-11-reskins-into-98-style/"><u>Skyrim to Nostalgia: Windows 11 Reskins Into 98 Style</u></a></li>
+<li><a href="https://win11.techidaily.com/the-beginners-guide-to-widget-personalization-on-windows-11-pcs/"><u>The Beginner's Guide to Widget Personalization on Windows 11 PCs</u></a></li>
+</ul></div>
 

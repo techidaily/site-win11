@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips"
-date: 2025-01-13T19:54:57.377Z
-updated: 2025-01-18T21:29:48.400Z
+date: 2025-01-15T23:47:18.588Z
+updated: 2025-01-18T22:44:55.821Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Screenshot showing how to turn on game mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-on-how-to-turn-on-game-mode.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Auto HDR
 
  High Dynamic Range (HDR) is a big improvement over its older brother, Standard Dynamic Range (SDR). HDR features some great additions to how games look, including better brightness representation and color depth.
@@ -43,9 +47,17 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Screenshot showing how to switch on HDR](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-of-display-screen-to-switch-on-hdr.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose your display from the drop-down menu if you have multiple displays connected. Then, check under**Display Capabilities** . If the option to Use HDR is supported, toggle the options**Use HDR** and**Auto HDR** to the**On** positions.
 
  Once they're on you should be able to enjoy an immersive gaming experience. And if you're unsure as to what HDR does exactly, be sure to read[HDR vs. SDR: what's the difference?](https://www.makeuseof.com/hdr-vs-sdr-whats-the-difference/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Ensure Your Games Use Your Primary GPU
 
@@ -56,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 ![Screenshot showing how to use per-app GPU selection settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-to-use-per-app-gpu-selection-settings.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn Off Enhanced Pointer Precision
@@ -69,11 +81,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![How to turn off enhanced pointer precision on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enhanced-pointer-precision.jpg)
 
- This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This action opens the**Mouse Properties** menu. From there, open the**Pointer Options** tab and untick the**Enhanced pointer precision** checkbox. Click**Apply** then**OK** to save your changes.
 
 ## 5\. Update Your GPU's Drivers
 
@@ -83,19 +95,11 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
  There are a few ways you can update your GPU's drivers, from downloading them manually to using special software released by the GPU's manufacturer. Fortunately, all the[ways to update your GPU on Windows 10](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) also work on Windows 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Update Windows
 
  Just as it's important to update your GPU drivers, it's also best to regularly update the Windows 11 OS on your PC. Before you install games and applications on your PC you should check if there are any pending OS updates. These usually come with performance and user experience improvements.
 
  If you're not sure how to do this, be sure to read[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more information. Note that Windows won't automatically update on metered connections. So if you’re on one, you must manually check for pending updates periodically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Apply Generic Windows Performance Tweaks
 
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
  For instance, we have a guide on[how to fix a low FPS on Windows](https://www.makeuseof.com/tag/fix-low-game-fps-windows/) , which includes tips you can perform on Windows 11\. You can also check out[how to improve gaming performance on a laptop](https://www.makeuseof.com/tag/5-ways-improve-laptop-gaming-performance/) , which includes some tips you can apply even if you're on a PC. Finally, our piece on[how to optimize Windows 10 for gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/) features steps you can perform on Windows 11, too.
 
  We've also mainly covered things to enable or tweak in this article, but there are some[parts of Windows 11 you should disable for better gaming performance](https://www.makeuseof.com/windows-11-disable-gaming-performance/) too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Improving Gaming Performance on Windows 11 PCs
 
@@ -130,24 +130,16 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-capture-the-magic-our-list-of-top-12-cameras-for-exceptional-vlogs/"><u>[New] In 2024, Capture the Magic Our List of Top 12 Cameras for Exceptional Vlogs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-top-10-iphone-virtual-reality-games-to-beat-your-high-scores-for-2024/"><u>[New] Top 10 iPhone Virtual Reality Games to Beat Your High Scores for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-solving-sound-disconnection-on-live-feeds/"><u>2024 Approved Solving Sound Disconnection on Live Feeds</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/comment-deplacer-avec-facilite-le-profil-dutilisateur-vers-un-nouveau-disque-dur-dans-windows-11/"><u>Comment Déplacer Avec Facilité Le Profil D'Utilisateur Vers Un Nouveau Disque Dur Dans Windows 11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagrams-trends-reels-and-stories-comparison/"><u>Decoding Instagram's Trends Reels & Stories Comparison</u></a></li>
-<li><a href="https://fox-info.techidaily.com/discover-best-drone-motor-picks-for-peak-performance/"><u>Discover Best Drone Motor Picks for Peak Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-syncing-your-phone-with-windows-11-via-unison/"><u>Expert Tips: Syncing Your Phone with Windows 11 via Unison</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-critical-winerror-upgrade-fault-0xc004f050/"><u>Fixing Critical WinError: Upgrade Fault #0XC004F050</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-c53-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme C53 FRP Without Computer</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-your-personalized-playlist-blueprint-for-youtube/"><u>In 2024, Your Personalized Playlist Blueprint for YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-of-windows-system-preferences-to-adjust-after-dark-mode/"><u>Mastery of Windows System Preferences to Adjust After Dark Mode</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-reno-11f-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo Reno 11F 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/reverse-obs-studio-audio-silence-fixes-for-w11-pcs/"><u>Reverse OBS Studio Audio Silence: Fixes for W11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-large-group-renames-with-powertoys/"><u>Simplify Large Group Renames with PowerToys</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-combat-extended-monitor-lag-in-windows/"><u>Strategies to Combat Extended Monitor Lag in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-cannot-end-task-on-your-computer/"><u>Tackling 'Cannot End Task' On Your Computer</u></a></li>
-<li><a href="https://win11.techidaily.com/tethering-tech-microsofts-vision-in-windows-11-phones/"><u>Tethering Tech: Microsoft's Vision in Windows 11 Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-inner-gamer-strategic-play-and-success-at-zero-cost/"><u>Unleash Your Inner Gamer: Strategic Play & Success at Zero-Cost</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-techniques-for-stunning-android-time-lapse-captures/"><u>2024 Approved Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
+<li><a href="https://win11.techidaily.com/7-windows-utilities-to-update-file-timestamps/"><u>7 Windows Utilities To Update File Timestamps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lent-10-tech-choices-for-livestream-monitoring/"><u>Excellent 10 Tech Choices for Livestream Monitoring</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed/"><u>In 2024, Conquer KineMaster Efficient Use + Top Online Gaming Platforms Reviewed</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-video-in-magix-movie-edit-pro-for-2024/"><u>New How to Remove Audio From Video in Magix Movie Edit Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-no-go-areas-for-novice-windows-11-users/"><u>Nine No-Go Areas for Novice Windows 11 Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/should-you-update-to-the-new-ios-17-pros-and-cons-explored/"><u>Should You Update to the New iOS 17? Pros and Cons Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-instructions-fully-removing-wsl/"><u>Step-By-Step Instructions: Fully Removing WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-windows-11-cannot-open-for-writing/"><u>Steps to Overcome Windows 11: Cannot Open For Writing</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1011s-aural-output-via-audacity/"><u>Troubleshooting Windows 10/11'S Aural Output, via Audacity</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/webm-video-editing-made-easy-top-10-free-tools-for-2024/"><u>WebM Video Editing Made Easy Top 10 Free Tools for 2024</u></a></li>
 </ul></div>
 

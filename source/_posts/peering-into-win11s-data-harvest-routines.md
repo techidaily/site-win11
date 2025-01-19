@@ -1,7 +1,7 @@
 ---
 title: Peering Into Win11’s Data Harvest Routines
-date: 2024-08-16T00:47:19.904Z
-updated: 2024-08-17T00:47:19.904Z
+date: 2025-01-16T21:06:50.534Z
+updated: 2025-01-19T04:15:49.372Z
 tags:
   - windows10
   - windows11
@@ -24,21 +24,19 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
 ![Turning Off the Toggle for Tailored Experiences by Expanding the Menu after Turning Off the Toggle Next to Send Optional Diagnostic Data in Diagnostic and Feedback Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Turning-Off-the-Toggle-for-Tailored-Experiences-by-Expanding-the-Menu-after-Turning-Off-the-Toggle-Next-to-Send-Optional-Diagnostic-Data-in-Diagnostic-and-Feedback-Settings-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Telemetry data is what your Windows 11 devices send to Microsoft in order to improve the quality of Windows and other Microsoft services. While we all love to see quality improvements on our Windows devices, one can't disregard the potential privacy concerns over tech companies collecting our data.
 
  Telemetry data can include information about your device, preferences, usage pattern, and software. Windows 11 sends all this information to Microsoft for a more personalized experience. But with the benefits comes the risk of those data getting into the wrong hands, and some people prefer not to share any of those Telemetry data with Microsoft.
 
  If you feel you're being treated like a lab frog to improve Windows and other Microsoft services, you can easily opt out of it and [stop sharing Telemetry data with Microsoft](https://www.makeuseof.com/windows-10-11-disable-telemetry/). Your Windows 11 PC will work as usual with no drop in performance if you stop sharing Telemetry data with Microsoft.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Windows 11 Collects Data Through Advertising IDs
 
 ![Screenshot showing Advertising IDs in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-20-221046.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Tech companies assign a unique string of characters to their users to identify them quickly. These are unique identifiers, and they can be cookies, IP addresses, device IDs, MAC addresses, EPC codes, ISBN numbers, D-U-N-S numbers, etc. In Windows 11, that unique identifiers are called Advertising IDs.
 
@@ -48,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  It's important to note that turning off the feature will not reduce the number of advertisements you see on apps. Instead, you might see ads that don't cater to what you may like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Windows 11 Can Track Your Location
 
 ![location services windows 11 turned on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/location-services-windows-11-on.jpg)
@@ -56,30 +58,21 @@ thumbnail: https://thmb.techidaily.com/d615ac68260522d8e70b422dd5540cece714bbc62
 
  However, you can withdraw your permission and don't allow apps and services to track your location. Check out [how to configure location services in Windows](https://www.makeuseof.com/windows-11-configure-location-services/) for more information.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 4\. Windows 11 Collects Your Activity History
 
 ![clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clear-activity-history.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Activity History is another Windows 11 feature through which Microsoft collects various types of data. This includes which websites you visit, the services you use, and the files you open. As per Microsoft, keeping track of things you do on your computer through Activity History is essential to improve the Windows experience and its services.
 
  However, Activity History is not something Microsoft forces everyone to use. If you don't like Microsoft watching how you use your computer, you can turn off the feature from the Settings app. You can also [erase your Activity History](https://www.makeuseof.com/tag/view-delete-windows-10-activity-history/), but doing so may affect some features in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Windows 11 Collects Your Voice Data
 
 ![Screenshot showing Speech page in Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows 11 can collect and send your voice data to Microsoft's servers through online speech recognition technology, but only if you grant permission.
 
@@ -94,8 +87,9 @@ No advertising on the website.
  If you don't mind losing some features to protect your privacy, here are [every privacy options you can adjust in Windows 11](https://www.makeuseof.com/windows-11-privacy-options-explained/). And if you want to go even further, check out [how to disable Windows 11's tracking features](https://www.makeuseof.com/disable-windows-11-tracking-features/) too.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Should You Worry About Tech Companies Collecting Your Data?
 
  No tech companies can function and provide you with better services without analyzing users' data. The real question is how safe your data is
@@ -103,6 +97,10 @@ No advertising on the website.
  Windows 11 is fairly transparent about why and how it uses your data to let users decide whether to consent. But since there is always a chance of your personal and non-personal data getting into the wrong hands after some nasty attacks on Microsoft's servers, you should always know which data you don't want to share.
 
  If you're concerned about others peeking into your information, check out these [data privacy habits to practice for protecting your personal data](https://www.makeuseof.com/online-safety-habits-data-privacy/) and [how to make it harder for brokers to collect your data](https://www.makeuseof.com/ways-to-make-it-harder-for-data-brokers-collect-your-data/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 11 Collects Your Data, but Only If You Want
 
@@ -112,11 +110,30 @@ No advertising on the website.
 
  In this article, we're listing the different ways Windows 11 collects your personal and non-personal data.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-downloading-and-saving-fb-video-files-os-agnostic-guide/"><u>[New] Downloading and Saving FB Video Files OS-Agnostic Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-six-best-film-alternates-ranked-7-picks/"><u>[New] In 2024, Six Best Film Alternates Ranked #7 Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/treaming-success-gamers-software/"><u>[New] Streaming Success Gamers' Software</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unveiling-facebooks-micro-video-blueprint/"><u>[Updated] In 2024, Unveiling Facebook's Micro-Video Blueprint</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1-secure-your-memories-upload-photos-from-iphone-or-pc-directly-to-icloud/"><u>1. Secure Your Memories: Upload Photos From iPhone or PC Directly to iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-language-of-windows-updates/"><u>Decoding the Language of Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/devhome-the-comprehensive-resource-for-w11-enthusiasts/"><u>DevHome: The Comprehensive Resource for W11 Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-enduring-trash-settings-in-the-windows-environment/"><u>Establishing Enduring Trash Settings in the Windows Environment</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-tips-clearing-browser-plug-ins-and-toolbars-in-windows-11-environment/"><u>Expert Tips: Clearing Browser Plug-Ins and Toolbars in Windows 11 Environment</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/nvidias-blackwell-graphics-cards-face-setback-potential-redesign-leads-to-projected-3-month-launch-postponement/"><u>Nvidia's Blackwell Graphics Cards Face Setback: Potential Redesign Leads to Projected 3-Month Launch Postponement</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/reconstitution-de-fichiers-et-de-dossiers-avec-aomei-backupper-guide-complet/"><u>Reconstitution De Fichiers Et De Dossiers Avec AOMEI Backupper – Guide Complet</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-lost-link-a-comprehensive-guide-to-reinstating-defective-adapters-in-windows/"><u>Reviving the Lost Link: A Comprehensive Guide to Reinstating Defective Adapters in Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/smooth-playback-on-upgraded-windows-10-systems/"><u>Smooth Playback on Upgraded Windows 10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-the-path-of-your-onedrive-file-space-in-windows/"><u>Steering the Path of Your OneDrive File Space in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-ppt-save-blunders-6-quick-fixes-windows-users-need/"><u>Swiftly Overcome PPT Save Blunders: 6 Quick Fixes Windows Users Need</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-chat-disappearance-in-windows-11-what-it-entails-for-users/"><u>Taskbar Chat Disappearance in Windows 11: What It Entails for Users</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Elevated Note Management: Smarter Strategies for Windows Users"
-date: 2025-01-13T20:22:59.341Z
-updated: 2025-01-19T01:05:26.477Z
+date: 2025-01-13T06:51:52.057Z
+updated: 2025-01-19T12:36:25.185Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
 
 [Microsoft PowerToys](https://www.makeuseof.com/tag/windows-10-powertoys/) features a collection of advanced Windows customization utilities. You can use it to disable sleep mode on your PC, resize images, perform bulk renaming using search-replace, and keep apps always on top.
@@ -46,16 +42,12 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
 ![power toys always on top border off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-toys-always-on-top-border-off.jpg)
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
 8. To pin Sticky Notes, click on the app window and press**Win + Ctrl + T.** You will hear a sound when the window is pinned.
@@ -63,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
  Once pinned, Sticky Notes will always stay on top of other apps. To unpin the window, Press**Win + Ctrl + T** , and the app will act like any other open window on Windows. Make sure to allow PowerToys to run in the background for the Always On Top feature to work. Also, you’ll need to pin the apps each time you close and relaunch them.
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Use DeskPins to Pin Sticky Notes
 
@@ -78,11 +74,15 @@ To pin Sticky Notes using DeskPins:
 ![desk pins system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-system-tray.jpg)
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -90,7 +90,7 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
@@ -114,21 +114,14 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerate-engagement-implementing-the-top-12-video-growth-strategies/"><u>[New] In 2024, Accelerate Engagement - Implementing the Top 12 Video Growth Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-captures-of-macs-visual-display-under-156-characters/"><u>[Updated] 2024 Approved Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
-<li><a href="https://driver-install.techidaily.com/amd-gpu-install-new-rx-5700-driver-version/"><u>AMD GPU: Install New RX 5700 Driver Version</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-persistence-of-custom-sound-adjustments-on-pc/"><u>Ensuring Persistence of Custom Sound Adjustments on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-top-strategies-to-maximize-win11-usage/"><u>In 2024, Top Strategies to Maximize Win11 Usage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-compatible-oculus-drivers-for-windows-11-10-8-and-7-get-your-free-copy-today/"><u>Latest Compatible Oculus Drivers for Windows 11, 10, 8 & 7 - Get Your Free Copy Today</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-lose-and-gain-photo-dimensions-in-windows-11-seamlessly/"><u>Learn to Lose and Gain Photo Dimensions in Windows 11 Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-inaccessible-fingerprint-scanner-errors-on-windows/"><u>Overcoming Inaccessible Fingerprint Scanner Errors on Windows</u></a></li>
-<li><a href="https://win-special.techidaily.com/1728471717781-ps4/"><u>PS4ディスク修復ガイド: 初期化前にデータを保存する方法</u></a></li>
-<li><a href="https://win11.techidaily.com/speed-up-windows-11-speech-capture-using-shortcuts/"><u>Speed Up Windows 11 Speech Capture Using Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-smoothing-out-ms-store-disruptions-in-1011/"><u>Strategies for Smoothing Out MS Store Disruptions in 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/transferring-powertoys-configurations-without-losing-data/"><u>Transferring PowerToys Configurations Without Losing Data</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-frequent-rainmeter-complications/"><u>Unraveling the Mysteries of Frequent Rainmeter Complications</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi Civi 3 won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/be-to-igtv-migration-step-by-step-guide-for-2024/"><u>YouTube-to-IGTV Migration Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-bargain-hunting-to-video-glamour-editing-insights-for-hauls/"><u>[New] From Bargain Hunting to Video Glamour Editing Insights for Hauls</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-cutting-edge-transitions-for-kinemaster-users/"><u>[New] In 2024, Cutting Edge Transitions for Kinemaster Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximizing-photo-quality-for-commercial-use/"><u>2024 Approved Maximizing Photo Quality for Commercial Use</u></a></li>
+<li><a href="https://win11.techidaily.com/device-agnostic-operating-system-windows-for-iphonesipads-macs-pcs-launched/"><u>Device-Agnostic Operating System: Windows for iPhones/iPads, Macs, PCs Launched</u></a></li>
+<li><a href="https://win11.techidaily.com/full-method-to-turn-off-wsl-in-windows-1011/"><u>Full Method to Turn Off WSL in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-setting-up-google-play-on-w11-os/"><u>Guide: Setting Up Google Play on W11 OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-ensure-smooth-performance-the-necessity-of-a-d3d11-compatible-graphics-card-for-running-our-engine/"><u>How to Ensure Smooth Performance: The Necessity of a D3D11-Compatible Graphics Card for Running Our Engine</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-7-fps-experiences-of-the-decade/"><u>Top 7 FPS Experiences of the Decade</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-storage-potential-with-windows-iscsi-initiator/"><u>Unlocking Storage Potential with Windows iSCSI Initiator</u></a></li>
 </ul></div>
 

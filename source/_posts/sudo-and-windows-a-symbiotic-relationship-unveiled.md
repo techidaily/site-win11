@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-01-16T01:54:01.877Z
-updated: 2025-01-18T23:13:30.615Z
+date: 2025-01-16T19:18:28.330Z
+updated: 2025-01-18T18:51:03.241Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Windows Versions Can Run the sudo Command?
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
 
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
 
@@ -68,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -82,7 +78,11 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -112,17 +112,18 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>[Updated] Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-eyesharp-record-chromeos-native-cam/"><u>[Updated] In 2024, EyeSharp Record ChromeOS Native Cam</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-steps-to-update-your-macos-sierra-system/"><u>2024 Approved Essential Steps to Update Your macOS Sierra System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hear-the-vibe-no-cost-online-tempo-trackers/"><u>2024 Approved Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>2024 Approved Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
-<li><a href="https://win11.techidaily.com/historical-hack-windows-11s-journey-back-to-98/"><u>Historical Hack: Windows 11'S Journey Back to 98</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-runner-failures-understanding-error-0x8007000f/"><u>Overcoming Windows Runner Failures: Understanding Error 0X8007000f</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-invisible-hdd-in-pcs/"><u>Remedy for Invisible HDD in PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-the-search-bar-fix-guide-in-windows-11/"><u>Restoring Functionality: The Search Bar Fix Guide in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-displayhide-folders-on-windows-11/"><u>Unlocking Secrets: Display/Hide Folders on Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-gopro-vs-garmin-hero5-black-vs-virb-ultra-gadget-showdown/"><u>[New] In 2024, GoPro Vs. Garmin Hero5 Black Vs. VIRB Ultra - Gadget Showdown</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-spicing-up-chats-with-gifs-a-complete-snapchat-tutorial/"><u>[Updated] In 2024, Spicing Up Chats with GIFs A Complete Snapchat Tutorial</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-visual-perfection-select-the-best-monitors-for-creative-work/"><u>[Updated] Visual Perfection Select the Best Monitors for Creative Work</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-usefulness-of-pagefilesys-backup-storage/"><u>Decoding Windows’ Usefulness of Pagefile.sys Backup Storage</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-the-best-free-media-player-options-for-pc-windows-1087-edition/"><u>Discover the Best Free Media Player Options for PC: Windows 10/8/7 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/end-hibernation-hurdles-with-easy-fixes-for-win/"><u>End Hibernation Hurdles with Easy Fixes for Win</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-2022-beijing-games-a-chilly-snapshot/"><u>In 2024, 2022 Beijing Games A Chilly Snapshot</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-package-open-failures-in-win11win10-systems/"><u>Navigating Package Open Failures in Win11/Win10 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/regain-control-fixing-wi-fi-mouse-malfunctions-in-windows/"><u>Regain Control: Fixing Wi-Fi Mouse Malfunctions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-network-link-disruptions-in-winmc-minecraft/"><u>Tackling Network Link Disruptions in WinMC Minecraft</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-your-dead-screen-a-step-by-step-solution-by-yl-software-for-when-your-monitor-wont-turn-on/"><u>Troubleshooting Your Dead Screen: A Step-by-Step Solution by YL Software for When Your Monitor Won’t Turn On</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-potential-in-slow-motion-video-capture-with-gopro-hero-10/"><u>Unleashing Potential in Slow-Motion Video Capture with GoPro Hero 10</u></a></li>
 </ul></div>
 

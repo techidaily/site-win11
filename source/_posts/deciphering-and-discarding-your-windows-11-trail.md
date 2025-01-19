@@ -1,7 +1,7 @@
 ---
 title: Deciphering and Discarding Your Windows 11 Trail
-date: 2024-08-16T00:43:52.061Z
-updated: 2024-08-17T00:43:52.061Z
+date: 2025-01-13T09:51:36.514Z
+updated: 2025-01-19T01:49:44.184Z
 tags:
   - windows10
   - windows11
@@ -35,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  There are plenty of [ways to disable Windows' tracking services](https://www.makeuseof.com/disable-windows-11-tracking-features/), but even after you've done that, Microsoft will still have the data you've already given it. As such, you'll need to scrub that data away.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Delete Your Windows Activity History
 
  You can easily see what data Microsoft stores and how to delete it.
@@ -49,25 +50,24 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 1. Click on the **Settings** button on the Start menu.  
 ![Windows 10 Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 2. Then, click **Privacy**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Privacy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-privacy.png)
 3. On the left bar, select **Activity History**.  
 ![Windows 10 Activity Sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-sidebar.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Under Clear Activity History, click the **Clear** button.  
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will clear the activity history for the account you're currently using.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
  If you're on Windows 11, the interface may look a little different.
@@ -78,20 +78,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![clearing activity history in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/activity-history-disable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Delete Your Windows Activity History via Your Microsoft Account
 
  You should also clear data from the cloud. To do that, click on **Manage my Microsoft account activity data**. Log into your Microsoft account and delete all types of activity data on the cloud. You'll need to do this separately for each section. For example, if you want to clear your Search history, you'll need to expand the section and click on **Clear all search history**.
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
  Back in 2018, Microsoft added a new **Timeline** feature that tracks all your recent activities on Windows 10\. You can view it by pressing the **ALT + Win** keys. You'll see all the windows you currently have open, as well as all the files you've opened in the past.
@@ -113,9 +112,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -131,6 +127,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -140,8 +140,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Keeping Your Data Safe in Windows 10
 
  Windows 10 is not the privacy advocate's top choice for operating systems, but you can monitor your data and tweak the privacy settings to suit your needs. Now you know how to view the data Microsoft has on you and how to erase them.
@@ -150,11 +151,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Let's explore how Microsoft stores data on you and how you can view your Windows activity history.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/voiding-blur-techniques-for-hand-held-stability-for-2024/"><u>[New] Avoiding Blur Techniques for Hand-Held Stability for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-bandicam-revolutionizing-screen-capture-for-modern-media/"><u>[New] Bandicam Revolutionizing Screen Capture for Modern Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-giggle-game-top-15-cheeky-youtube-creators-to-admire/"><u>[New] The Giggle Game Top 15 Cheeky YouTube Creators to Admire</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-compact-5-listing-visuals-with-accompaniment-recorders/"><u>[Updated] 2024 Approved Compact 5 Listing Visuals with Accompaniment Recorders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-sleep-aid-asmr-techniques-unveiled/"><u>[Updated] 2024 Approved Sleep Aid ASMR Techniques Unveiled</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-use-movie-maker-on-windows-8/"><u>[Updated] How to Use Movie Maker on Windows 8</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-how-to-embed-a-youtube-playlist-on-a-website/"><u>[Updated] In 2024, How to Embed A YouTube Playlist On a Website</u></a></li>
+<li><a href="https://win11.techidaily.com/a-detailed-guide-to-windows-11-customization-techniques/"><u>A Detailed Guide to Windows 11 Customization Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-art-with-top-win-11-sketch-tools/"><u>Elevate Your Art with Top Win 11 Sketch Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/essentials-for-enabling-win11-on-5ghz-networks-effortlessly/"><u>Essentials for Enabling Win11 on 5GHz Networks Effortlessly</u></a></li>
+<li><a href="https://facebook.techidaily.com/finding-lost-social-media-conversations-on-fb/"><u>Finding Lost Social Media Conversations on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-screen-hurdle-sonic-frontiers-win-on-w11/"><u>Fixing the Screen Hurdle: Sonic Frontiers Win on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/game-resurrection-applying-retroarchs-shaders-to-vintage-games/"><u>Game Resurrection: Applying RetroArch's Shaders to Vintage Games</u></a></li>
+<li><a href="https://win11.techidaily.com/hiding-windows-11-taskbar-avoid-the-search/"><u>Hiding Windows 11 Taskbar: Avoid the Search</u></a></li>
+<li><a href="https://win11.techidaily.com/key-practices-in-the-pursuit-of-a-pristine-windows-setup/"><u>Key Practices in the Pursuit of a Pristine Windows Setup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-tools-enhancing-chatgpt-on-a-macos-device/"><u>Precision Tools: Enhancing ChatGPT on a macOS Device</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simplified-approaches-to-recording-your-iptv-viewing-for-2024/"><u>Simplified Approaches to Recording Your IPTV Viewing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-power-and-essence-of-wintoys-an-uncomplicated-yet-comprehensive-explanation/"><u>The Power & Essence of 'WinToys': An Uncomplicated, Yet Comprehensive Explanation</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-overclocked-cpus-for-gaming-users/"><u>Troubleshooting Overclocked CPUs for Gaming Users</u></a></li>
+</ul></div>
+

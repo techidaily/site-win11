@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Windows' Temporaries
-date: 2025-01-12T23:29:54.206Z
-updated: 2025-01-19T01:03:47.588Z
+date: 2025-01-16T20:46:03.950Z
+updated: 2025-01-19T07:30:58.193Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Use the Disk Cleanup Tool
 
 [Windows offers several options for clearing temporary files](http://www.makeuseof.com/windows-11-delete-temporary-files/) on your PC. If you are unable to delete temporary files via the Settings app or File Explorer, try using the Disk Cleanup tool instead.
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Command Prompt
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 3. Copy and paste the following command into the console and hit **Enter**.  
 del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*  
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait for the above command to run and delete the temporary files.
 
@@ -80,11 +80,11 @@ C:\Windows\SoftwareDistribution\Download
 7. Return to the Services window, right-click on the **Windows Update** service, and select **Start**.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/clear-softwaredistribution-folder.jpg)
 
- If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
 ## 4\. Edit Registry Files
 
@@ -104,7 +104,7 @@ C:\Windows\SoftwareDistribution\Download
  Restart your PC after this and try to delete temporary files once again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Boot Into Safe Mode
@@ -114,7 +114,7 @@ C:\Windows\SoftwareDistribution\Download
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
@@ -135,18 +135,24 @@ C:\Windows\SoftwareDistribution\Download
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-smirk-spawners-identifying-premium-meme-tools-for-2024/"><u>[New] Smirk Spawners Identifying Premium Meme Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-whats-the-real-cost-of-youtube-paid-engagement/"><u>[New] What's the Real Cost of Youtube Paid Engagement?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-8-free-and-online-facebook-link-downloaders-for-2024/"><u>[Updated] 8 Free And Online Facebook Link Downloaders for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/accelerate-your-system-top-ranked-applications-for-speeding-up-computers/"><u>Accelerate Your System: Top-Ranked Applications for Speeding Up Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-robot-generated-passwords-for-win-11-access/"><u>Bypassing Robot-Generated Passwords for Win 11 Access</u></a></li>
-<li><a href="https://win11.techidaily.com/circumnavigating-the-challenges-of-itunes-on-windows-pcs/"><u>Circumnavigating the Challenges of iTunes On Windows PCs</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
-<li><a href="https://win11.techidaily.com/cortanas-farewell-windows-future-awaits/"><u>Cortana's Farewell, Windows' Future Awaits</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-media-craft-debate-between-filmora-and-democracy-creator-for-2024/"><u>Mastering Media Craft Debate Between Filmora & Democracy Creator for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-android-studio-efficiency-on-windows-dev-environment/"><u>Maximize Android Studio Efficiency on Windows Dev Environment</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-1110-onedrive-errors/"><u>Troubleshooting Windows 11/10 OneDrive Errors</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>[Updated] 2024 Approved How to Turn Off a Discord Server Device-Wise</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-eye-catching-text-top-10-photo-writing-tools-for-smartphones/"><u>[Updated] Eye-Catching Text Top 10 Photo Writing Tools for Smartphones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-future-vrs-role-in-business-strategy/"><u>[Updated] Navigating the Future VR's Role in Business Strategy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-your-facebook-experience-with-auto-play-videos/"><u>[Updated] Revolutionize Your Facebook Experience with Auto-Play Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-fix-restoring-functionality-to-windows-charmap/"><u>Comprehensive Fix: Restoring Functionality to Windows CharMap</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-downfalls-of-modern-standby-in-windows-os/"><u>Dissecting the Downfalls of Modern Standby in Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exclusive-offer-alert-get-an-apple-watch-series-10-at-only-99-with-a-preorder-from-best-buy-the-step-by-step-tutorial/"><u>Exclusive Offer Alert! Get an Apple Watch Series 10 at Only $99 with a Preorder From Best Buy – The Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-red-magic-8s-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Red Magic 8S Pro to iPad | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-macbook-cam-tutorial-for-smooth-video-capture/"><u>In 2024, MacBook Cam Tutorial for Smooth Video Capture</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-business-data-haven-selection/"><u>In 2024, Top-Tier Business Data Haven Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/interfacing-with-the-core-of-windows-print-system/"><u>Interfacing with the Core of Windows Print System</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-ethernet-connection-fixes/"><u>Navigating Through Ethernet Connection Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-run-as-admin-errors-a-guide/"><u>Overcoming Run as Admin Errors: A Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/reconnect-steam-friends-list-step-by-step-guide-windows-11/"><u>Reconnect Steam Friends List: Step-by-Step Guide, Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tactics-to-transition-from-stuck-in-windows-1011-s-mode/"><u>Tactics to Transition From Stuck in Windows 10/11 S Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/uncomplicated-transformation-of-heic-files-into-jpeg/"><u>Uncomplicated Transformation of HEIC Files Into JPEG</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-joy-essential-list-of-free-media-players-for-windows/"><u>Unleash Joy: Essential List of Free Media Players for Windows</u></a></li>
 </ul></div>
 

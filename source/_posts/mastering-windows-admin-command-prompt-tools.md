@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2025-01-15T16:28:16.750Z
-updated: 2025-01-19T01:51:29.360Z
+date: 2025-01-13T22:25:47.337Z
+updated: 2025-01-18T22:56:12.795Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. List All User Accounts
 
 ![list all user accounts with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/list-all-user-accounts-with-net-user.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Before you start managing user accounts with **net user**, it helps to know all the user accounts on your computer. To list them all, [open Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/), enter the below command, and hit the **Enter** key to run it:
 
@@ -46,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 ## 2\. Show All the Information of a User Account
 
 ![user account details while using net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/user-account-details-while-using-net-user.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also bring up all the important information about a user by simply typing the **net user** command followed by the name of the user's name. Here's the basic syntax:
 
@@ -73,16 +69,12 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Now net user will remove the account from the computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
@@ -137,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  With the above command, Windows will disable the on the date you've set above.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Change the Password of a User Account
 
  You can also use the **net user** command to [change the password of a user account in Command Prompt](https://www.makeuseof.com/tag/quick-tip-change-the-windows-user-password-via-command-line/). This will make it so that you can quickly change the password of any local account with a single command, instead of having to do it through the Settings app, which requires many clicks.
@@ -151,12 +147,16 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Again this has to be a local domain user account for this to work. So, if you [changed the user account from a Microsoft account to a local account](https://www.makeuseof.com/how-to-switch-windows-from-microsoft-account-to-local-account/), you'll need to switch it back to use the command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10\. Set a Password Policy for Users
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
@@ -170,7 +170,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
@@ -203,17 +203,18 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-downloading-igtv-made-simple-iphone-and-android-users-bible-for-2024/"><u>[New] Downloading IGTV Made Simple IPhone & Android Users' Bible for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-great-debate-continues-is-bandicam-or-camtasia-better/"><u>[New] The Great Debate Continues Is Bandicam or Camtasia Better?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential/"><u>[Updated] 2024 Approved Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb/"><u>[Updated] In 2024, Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tune-monitor-settings-in-latest-os-version/"><u>Fine-Tune Monitor Settings in Latest OS Version</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy Z Flip 5 Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-quick-windows-11-logins-restoration/"><u>Mastering Quick Windows 11 Logins Restoration</u></a></li>
-<li><a href="https://common-error.techidaily.com/optimizing-windows-grope-to-combat-excessive-resource-use-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows Grope to Combat Excessive Resource Use by Microsoft Compatibility Telemetry</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-of-linking-a-printer-to-your-windows-10-pc/"><u>The Complete Walkthrough of Linking a Printer to Your Window's 10 PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-enhance-vintage-cursor-colors/"><u>Tips to Enhance Vintage Cursor Colors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/win11s-aural-ascension-convex-audio-driver-update-required/"><u>Win11's Aural Ascension - Convex Audio Driver Update Required</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-elevate-your-mobile-shoot-ranking-the-best-9-camgear-innovations/"><u>[New] Elevate Your Mobile Shoot - Ranking the Best 9 CamGear Innovations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>[New] In 2024, Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-glitch-0x80072746-a-fix-guide-for-windows-mail/"><u>Bypassing Glitch 0X80072746: A Fix Guide for Windows Mail</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-role-of-windows-batch-files-in-os-functioning/"><u>Essential Role of Windows Batch Files in OS Functioning</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721472656658-expose-public-properties-or-methods-for-controlled-access/"><u>Expose Public Properties or Methods for Controlled Access</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-infinix-note-30-vip-racing-edition-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Infinix Note 30 VIP Racing Edition Quickly? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-maneuvers-for-concealing-windows-11s-control-icon/"><u>Masterful Maneuvers for Concealing Windows 11'S Control Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-customization-adding-contextual-options-in-win-11/"><u>Mastering Window Customization: Adding Contextual Options in Win 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-correct-your-video-orientation-with-these-16-free-avi-rotators/"><u>New In 2024, Correct Your Video Orientation with These 16 Free AVI Rotators</u></a></li>
+<li><a href="https://win11.techidaily.com/prioritizing-improvement-in-windows-11/"><u>Prioritizing Improvement in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-browsing-copy-pasting-shortfalls-across-oses/"><u>Remedying Browsing Copy-Pasting Shortfalls Across OSes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visionary-vistas-accessible-designs-for-youtube-artists-for-2024/"><u>Visionary Vistas Accessible Designs for YouTube Artists for 2024</u></a></li>
 </ul></div>
 

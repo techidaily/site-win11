@@ -1,7 +1,7 @@
 ---
 title: Strategies to Handle Source File Error in Windows 11/10
-date: 2024-08-16T00:44:25.924Z
-updated: 2024-08-17T00:44:25.924Z
+date: 2025-01-12T10:43:56.891Z
+updated: 2025-01-18T21:04:25.141Z
 tags:
   - windows10
   - windows11
@@ -28,21 +28,12 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run a Check Disk Scan
 
  Running a Check Disk scan is a widely confirmed fix for the “Cannot read from the source file” error. That highlights this error is often caused by bad disk sectors on drives. Running a Check Disk scan via the Command Prompt for the drive that includes the files will usually remedy such a cause. Our [how to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/#:~:text=In%20Command%20Prompt%2C%20type%20chkdsk,to%20get%20stuck%20on%20occasion.) article tells you how to apply this potential fix.
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-chkdsk-command2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Try a Different USB Cable or Port for External Drives
 
  Another possible cause for the “Cannot read from the source file or disk” error is that there’s an issue with your USB cable or a port on your PC. So, connect your external drive to a different USB port to see if that makes a difference. If you have an alternative USB cable available, try connecting the drive to your PC with it.
@@ -54,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 ![The Send to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-send-to-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Check the Permissions for the Affected Files
 
  You might need to fix the “Cannot read from the source file or disk” because one of the files you’re trying to copy doesn’t have full control permissions set. You can check and fix permissions for affected files as follows:
@@ -64,17 +56,23 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 2. Right-click a file you need to copy and select **Properties**.
 3. Then select **Edit** on the **Security** tab.  
 ![The Edit button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-edit-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, select the checkbox labeled **Full control** with the **Allow** column.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-full-control-checkbox.jpg)
 5. Press **Apply** to save the file’s permission settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click **OK** to exit.
 
  If you can’t see your account username within the Group box, you’ll need to add it. To do so, click **Add** on the **Security** tab to bring up a Select Users or Group window; then click **Advanced** \> **Find now** to select your user account. Click **OK** to add the selected account.
 
 ![The Find now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-find-now-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Access Files on Mac-Formatted Drives With Third-Party Software
 
@@ -83,11 +81,16 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
  You can check the file system of any connected drive by right-clicking it in File Explorer and selecting **Properties**. Then check the File system detail on the General tab. NTFS and FAT32 file systems are fine for Windows, but HFS and APFS aren’t.
 
 ![The File system detail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-file-system-detail.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re trying to copy files from Mac-formatted drives, you can access them with third-party software. Software packages like MacDrive, UFS Explorer, and Paragon HFS+ enable users to access files on Mac-formatted drives on Windows PCs. Our article about [reading Mac-formatted drives on Windows](https://www.makeuseof.com/tag/4-ways-read-mac-formatted-drive-windows/) provides details on how to apply this potential resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Copy Files Between Drives on Your Windows PC Again
 
@@ -97,11 +100,33 @@ thumbnail: https://thmb.techidaily.com/1d89ad9f3797ef5721bb1984cb133f0b9a8205347
 
  This Windows error message can sometimes pop up when users try to copy certain files from or to external USB drives. As such, here is how you can fix the “Cannot read from the source file or disk” error.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-zenith-pinnacle-software-testing/"><u>[Updated] 2024 Approved Zenith Pinnacle Software Testing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiophiles-top-picks-for-high-quality-window-based-podcasts-8/"><u>[Updated] Audiophile's Top Picks for High-Quality Window-Based Podcasts (#8)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-boosting-playback-speed-guidelines-for-secure-sound-enhancement/"><u>2024 Approved Boosting Playback Speed Guidelines for Secure Sound Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/cpu-age-determination-for-pc-users-8-effective-methods/"><u>CPU Age Determination for PC Users: 8 Effective Methods</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cviceni-a-rysanie-movavi-pristupnostni-tutorialy-za-zlaty-kov/"><u>Cvičení a Rysanie Movavi: Přístupnostní Tutoriály Za Zlatý Kov</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-cross-language-interactions-with-keyboard-shortcuts-on-windows-11/"><u>Enhance Cross-Language Interactions with Keyboard Shortcuts on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wi-fi-connectivity-in-windows-11-after-disruptions/"><u>Enhancing Wi-Fi Connectivity in Windows 11 After Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-lighten-load-time-for-epic-games-on-windows/"><u>How to Lighten Load Time for Epic Games on Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-free-youtube-end-screen-templates/"><u>In 2024, Free YouTube End Screen Templates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g-pro-x-microphone-malfunction-resolved-step-by-step-fixes/"><u>Logitech G Pro X Microphone Malfunction Resolved [Step-by-Step Fixes]</u></a></li>
+<li><a href="https://driver-download.techidaily.com/memory-protection/"><u>Memory Protection</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-mcuicnt-file-access-problem-on-pcs/"><u>Mitigating McUICnt File Access Problem on PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-c12-pro-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia C12 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-hyper-v-error-0x8009030e/"><u>Overcoming Windows Hyper-V Error 0X8009030E</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-normalcy-after-windows-video-failures/"><u>Restoring Normalcy After Windows Video Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-mfc71udll-absence-in-windows-os/"><u>Solving Mfc71u.dll Absence in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-sticky-notebook-convergence-on-win11/"><u>Streamlining Sticky Notebook Convergence on Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-12-proplus-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme 12 Pro+ 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-your-printing-with-the-latest-hp-deskjet-2540-drivers-free-download-and-setup-guide/"><u>Upgrade Your Printing with the Latest HP Deskjet 2540 Drivers: Free Download & Setup Guide</u></a></li>
+</ul></div>
+

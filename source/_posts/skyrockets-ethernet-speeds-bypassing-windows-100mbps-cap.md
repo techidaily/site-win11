@@ -1,7 +1,7 @@
 ---
 title: "Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap"
-date: 2025-01-11T23:38:50.492Z
-updated: 2025-01-18T22:51:47.041Z
+date: 2025-01-16T11:10:24.923Z
+updated: 2025-01-18T22:17:49.362Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Plan
 
@@ -57,11 +61,11 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 5. Select **Speed and Duplex** from the **Property** column, then expand the **Value** dropdown.  
 ![Speed and Duplex Settings in the Network Adapter Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/speed-and-duplex-settings-in-the-network-adapter-settings.jpg)
 
- If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If **1.0 Gbps Full Duplex** is listed, your card supports gigabit connectivity. Your card does not support gigabit connections if **100 Mbps Full Duplex** is the highest value listed. In any case, select **Auto Negotiation** from the **Value** dropdown in the network adapter settings if any other value is selected.
 
 ## 4\. Ensure Your Router Supports Gigabit Connection
 
@@ -73,24 +77,16 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  If your router doesn't support a gigabit connection, you will have no choice but to switch to one that does.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Get a High-Category Ethernet Cable
 
 ![CAT5, CAT5e, CAT6, CAT6A Ethernet cables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/02-picture-showing-cat5-cat5e-cat6-cat6a-ethernet-cables.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Ethernet cable itself should be capable of delivering 100Mbps+ speed, just like your router. Ethernet cables with low bandwidth, such as Cat5, can only deliver speeds up to 100Mbps. If you want higher speeds, you need at least Cat5e cable, which can provide speeds of up to 1000Mbps.
 
  Cat5e and Cat5 cables have identical physical appearances, but don't let that fool you. Instead, look at the cable's label to determine its category. If it's low bandwidth, replace it with Cat5e or higher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Remove Restrictions in the Router Settings
@@ -102,19 +98,23 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ![Check the Default Gateway IP Address in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-the-default-gateway-ip-address-in-windows-command-prompt.jpg)
 3. Paste this address into any internet browser to access your router's admin interface. Then, log in with your username and password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to the **Ethernet** settings and check if there are any restrictions on your internet speed. Remove any constraints you find here.
 
  Some routers allow users to switch between gigabit and 100Mbps speeds. If your router offers this option, opt for the 1Gbps connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Rule Out Any Hardware Issues
 
  If none of the above fixes resolve the issue, it's time to check for and rule out hardware problems thoroughly.
 
 ![image of ethernet cables connected to router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/ethernet-router-connection.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Start the hardware inspection by checking both ends of the Ethernet cable where cable connectors are installed. Ensure both connectors are in good condition and all internal wires/conductors are pushed to the end and aren't falling off.
 
@@ -140,17 +140,18 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-unleashing-creativity-with-audacity-sound-capture-on-your-mac/"><u>[New] 2024 Approved Unleashing Creativity with Audacity Sound Capture on Your Mac</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-enhancing-narratives-a-guide-to-using-b-roll/"><u>[Updated] 2024 Approved Enhancing Narratives A Guide to Using B-Roll</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-navigating-video-streams-across-networks-using-vlc-for-2024/"><u>[Updated] Navigating Video Streams Across Networks Using VLC for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-breaking-even-on-youtube-key-view-figures-explored/"><u>2024 Approved Breaking Even on YouTube Key View Figures Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-xbox-play-network-errors-on-windows-1011-systems/"><u>Fixing Xbox Play Network Errors on Windows 10/11 Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-nubia-red-magic-9-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Nubia Red Magic 9 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-computers-small-smart-and-windows/"><u>Innovative Computers: Small, Smart, and Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-a-halted-wow-installation/"><u>Reactivating a Halted WoW Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-minecraft-launcher-error-0x803f8001-on-windows-11-and-10/"><u>Resolved: Fixing the Minecraft Launcher Error 0X803F8001 on Windows 11 & 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-email-modification-on-proton-browser/"><u>Step-by-Step Email Modification on Proton Browser</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-multi-screen-setup-on-windows-11-os/"><u>Streamlining Multi-Screen Setup on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digestible-vid-info-quick-start/"><u>[New] 2024 Approved Digestible Vid Info Quick Start</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[New] In 2024, Expand Your Online Realm Harnessing YouTube Insights Powerfully</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-optimizing-footage-variety-in-your-video-production/"><u>[New] Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-discover-top-ios-video-downloads-facebook-edition/"><u>[Updated] Discover Top iOS Video Downloads Facebook Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>[Updated] In 2024, Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-security-account-manager-failures/"><u>Combatting Security Account Manager Failures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/feature-by-feature-review-of-the-onetastic-plugin-for-microsofts-onenote-application/"><u>Feature-by-Feature Review of the Onetastic Plugin for Microsoft's OneNote Application</u></a></li>
+<li><a href="https://win11.techidaily.com/holiday-harmony-delightful-wrapped-apps-through-ms-store/"><u>Holiday Harmony: Delightful Wrapped Apps Through MS Store</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-application-was-unable-to-start-0xc000003e-error-in-windows-10-and-11/"><u>How to Fix “The Application Was Unable to Start” 0Xc000003e Error in Windows 10 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/making-vintage-windows-computers-more-elderly-friendly/"><u>Making Vintage Windows Computers More Elderly Friendly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-a-steal-on-hp-victus-section-1-advanced-problem-theme-question/"><u>Score a Steal on HP Victus # Section 1: Advanced Problem (Theme Question)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/streamline-your-home-makeover-using-our-selection-of-the-best-4-painting-apps-for-diyers/"><u>Streamline Your Home Makeover Using Our Selection of the Best 4 Painting Apps for DIYers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-electronics-with-toms-equipment-insights/"><u>Unraveling the World of Electronics with Tom's Equipment Insights</u></a></li>
 </ul></div>
 

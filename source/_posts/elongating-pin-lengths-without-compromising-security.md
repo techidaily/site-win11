@@ -1,7 +1,7 @@
 ---
 title: Elongating Pin Lengths without Compromising Security
-date: 2024-08-16T00:45:01.938Z
-updated: 2024-08-17T00:45:01.938Z
+date: 2025-01-16T21:27:37.201Z
+updated: 2025-01-19T00:20:34.300Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,19 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 4. Type **MaximumPINLength** into the DWORD’s text box.  
 ![A MaximumPINLength DWORD text box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-text-box.jpg)
 5. Double-click **MaximumPINLength** to view the **Value box** for that DWORD.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click on the **Decimal** radio button.
 7. Enter a number higher than the one set for the **MinimumPINLength** DWORD and select **OK**.  
 ![The Edit DWORD window for the MaximumPINLength DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/edit-dword-window-for-maximum-pin-length.jpg)
 8. Finally, exit the Registry Editor window and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see an “organization requires that you change your PIN message” when you try to sign in with the PIN usually entered. Click **OK** to view some options for setting a new PIN. Then input a longer identification number with the minimum number of characters required inside the **New** and **Confirm** PIN boxes.
 
@@ -57,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -69,34 +75,31 @@ thumbnail: https://thmb.techidaily.com/0217ab2f78f4ec22b4e817c364c8596747881cd4c
 3. Double-click on **Computer Configuration** in the left sidebar.
 4. Next, double-click **Administrative Templates** to extend it.  
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 5. Then click the arrow by **System** and select **PIN Complexity**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
-3. Then input a higher value in the **Minimum PIN Length** box.  
-![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Select **Apply** and **OK** to set the new PIN length policy.
-5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
-![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Then input a higher value in the **Minimum PIN Length** box.  
+![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
+4. Select **Apply** and **OK** to set the new PIN length policy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
+![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
+
 ## Extend Your Windows PIN to Make It More Secure
 
  Extending the minimum PIN length for logging in to Windows with one of the methods above is a good security measure. The longer your Windows Hello PIN is, the more secure your PC will be. However, an overly long PIN will be harder to remember. So, don’t make your PIN too long!
@@ -105,11 +108,27 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  So, it doesn’t seem users can set longer, more secure PINs for signing in to Windows. However, there are two ways to set a new minimum PIN length for the Hello PIN sign-in method. This is how you can extend the PIN length in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-of-the-rest-cutting-edge-vr-games-for-google-cardboard-for-2024/"><u>[Updated] Best of the Rest Cutting-Edge VR Games for Google Cardboard for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>2024 Approved Artful Adaptation Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/a-musical-guide-to-enhancing-slides-with-tunes-for-2024/"><u>A Musical Guide to Enhancing Slides with Tunes for 2024</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/detailed-product-handbook-essential-tips-and-techniques-for-optimal-performance/"><u>Detailed Product Handbook: Essential Tips and Techniques for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-manipulate-windows-gpu-priority-settings/"><u>How to Manipulate Windows GPU Priority Settings</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-oppo-a18-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Oppo A18 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fresh-windows-11-setup/"><u>Mastering Fresh Windows 11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-directx-update-failure-in-windows-systems/"><u>Overcoming DirectX Update Failure in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-insufficient-rights-for-program-removal-in-win-11/"><u>Overcoming Insufficient Rights for Program Removal in Win 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/perfect-your-verbal-direction-mastering-gpt-with-5-voice-based-strategies/"><u>Perfect Your Verbal Direction: Mastering GPT with 5 Voice-Based Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-protection-stick-to-single-antivirus-software-in-windows/"><u>Simplify Protection: Stick to Single Antivirus Software in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-ascertaining-your-pcs-intel-core-gen/"><u>Techniques for Ascertaining Your PC's Intel Core Gen</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-yuva-3-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Yuva 3 password or pattern lock</u></a></li>
+</ul></div>
+

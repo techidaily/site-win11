@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Top 7 Techniques to Master Windows 11 (40)"
-date: 2024-08-16T00:45:28.187Z
-updated: 2024-08-17T00:45:28.187Z
+date: 2025-01-13T01:42:02.764Z
+updated: 2025-01-18T17:16:49.163Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
  As more productivity apps are released, accessing programs on your Windows 11 PC can be challenging. Especially if your work revolves around multitasking, accessing and switching between apps fast is crucial.
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Get Rid of Unnecessary Programs and Bloatware
 
@@ -40,34 +44,23 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
 1. Navigate to the Windows search bar and type the name of the app.  
 ![Epic games launcher on windows 11 app search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/epic-games-launcher-on-windows-11-app-search.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 2. Right-click the app, then select **Pin to taskbar**.  
 ![Pin to taskbar option Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-to-taskbar-option-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a further benefit, some programs offer additional quick access options that you can view by right-clicking on them. The options include shortcuts to common in-app features. You can also open any app on the taskbar by holding the **Windows** key, followed by the number representing the app's position on the taskbar. For instance, **Windows + 3** will open the third item on the taskbar.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Create Desktop Shortcuts
 
 ![Desktop Shortcuts on Windows 11 Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/desktop-shortcuts-on-windows-11-desktop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Creating desktop shortcuts is one of the fastest ways to access apps with minimal effort. Before starting, you’ll first want to [declutter your Windows 11 Desktop](https://www.makeuseof.com/revamp-windows-11-desktop/) to create a clean environment for your apps.
 
  To pin an app to the desktop, hit the **Windows** button to open the Start menu, then select **All apps** button located in the corner of the Pinned section. Scroll through the alphabetical list to find the app, then click and drag it to any available space on your desktop. If done correctly, a small pop-up titled **Link** should display.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Run Dialog
 
 ![Run Dialogue on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-dialogue-on-windows-11.jpg)
@@ -77,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
  To open the Run dialogue, use the shortcut **Windows + R**. In the search box, you can type the executable file name of any app to open it. Some basic commands include typing “calc” to open the calculator app, “notepad” to open Windows 11’s Notepad, and “control” to open the Control Panel. View our [Run commands cheat sheet](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for a full list of handy shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Create Custom Keyboard Shortcuts
 
 ![oranage and black mechanical keyboard on table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/oranage-and-black-mechanical-keyboard-on-table.jpg)
@@ -91,18 +85,33 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 2. Right-click the app and select **Open File Location**.  
 ![Tutorial 5 Step 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-2.jpg)
 3. In File Explorer, right-click the file and select **Properties**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tutorial 5 Step 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-3.jpg)
 4. Click in the box next to the Shortcut Key field and enter a desired shortcut.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Tutorial 5 Step 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tutorial-5-step-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method is of interest, you can explore our guide for creating shortcuts to [install websites as apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Utilize the Quick Access Menu
 
 ![Quick Access Menu on Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/quick-access-menu-on-windows-11-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Quick Access menu is a list of common programs and tools. This is not to be confused with the Quick Access feature seen in Windows File Explorer. However, the two features achieve similar goals.
 
@@ -115,15 +124,9 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
  For even faster access, you can hit the underlined letter on your keyboard to open that program. (Note, this only works when using the keyboard shortcut method to open the Quick Access Menu). The Quick Access menu is a great way to access a wide range of useful apps with only the keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Switch Between Apps Faster
 
 ![Multiple desktops in Task View Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/multiple-desktops-in-task-view-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re dealing with an overflow of open windows and need a better way to transition between apps, you’ll find this next tip helpful.
 
@@ -139,11 +142,25 @@ thumbnail: https://thmb.techidaily.com/0f9975c7424be8ab80f0e3edfa04cf204d756fbbd
 
  This article will cover tips to make Windows 11 apps more accessible, so you can navigate around your digital workspace with minimal effort and little time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-kinemaster-written-in-5-steps-plus-best-digital-editors-online/"><u>[New] Mastering KineMaster' Written in 5 Steps + Best Digital Editors Online</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-audiovisual-capabilities-through-new-driver-installation/"><u>Boosting Windows Audiovisual Capabilities Through New Driver Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-workflow-adding-tasks-to-file-context-menus/"><u>Elevate Your Workflow: Adding Tasks to File Context Menus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-hp-officejet-pro-8740-driver-installation-for-win11-win10-and-win8-users/"><u>Essential HP Officejet Pro 8740 Driver Installation for Win11, Win10 & Win8 Users</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-legally-acquire-and-convert-popular-trainmaster-shows-for-offline-viewing-in-mp4-mov-and-avi-files/"><u>How to Legally Acquire and Convert Popular Trainmaster Shows for Offline Viewing in MP4, MOV & AVI Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-file-explorer-running-with-helpful-windows-11-tricks/"><u>Keep Your File Explorer Running with Helpful Windows 11 Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-guide-how-to-locate-and-setup-shortcuts-near-win11s-power-icon/"><u>Pro Guide: How to Locate & Setup Shortcuts Near Win11's Power Icon</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-security-keys-mismatch-in-windows-11-networks/"><u>Strategies for Correcting Security Keys Mismatch in Windows 11 Networks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-solve-avidemux-no-audio-problem-updated-guide-for-2024/"><u>Updated Solve Avidemux No Audio Problem Updated Guide for 2024</u></a></li>
+</ul></div>
+

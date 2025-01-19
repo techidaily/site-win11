@@ -1,7 +1,7 @@
 ---
 title: Eliminating Ethernet Connectivity Loss on PC
-date: 2024-08-16T00:45:24.945Z
-updated: 2024-08-17T00:45:24.945Z
+date: 2025-01-16T21:52:14.207Z
+updated: 2025-01-19T04:06:25.718Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
 
 ## 2\. Rule Out Router Issues
@@ -42,13 +46,25 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Troubleshoot Your Ethernet Connection
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Operating System Issues
 
@@ -62,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -72,31 +85,13 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
  In Windows 10, open the **Settings** app, click **Network and Internet**, select **Ethernet** from the left sidebar, and select your Ethernet network connection. Turn off the **Metered connection** toggle and change the **Network profile** from **Public** to **Private**.
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After that, restart your device once to ensure the changes take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
 ![Cables plugged into an example DNS server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/dns-server.jpg)
@@ -108,14 +103,12 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
  In addition, you should [flush your DNS cache](https://www.makeuseof.com/flush-dns-cache-windows-11/) to remove old and bad entries. Both steps will improve internet reachability, enabling you to connect to the internet successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reset the Network Settings
 
 ![windows 11 network reset from settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/windows-11-network-reset-from-settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If none of the above fixes work, and you still see the no internet access error, you should reset your network. The network reset restores the network settings to their defaults, which may resolves any network issues you're experiencing. However, you should keep in mind that the resetting process will revert your network configuration and restore the defaults.
 
@@ -127,11 +120,27 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  Outdated or incompatible network drivers, incorrect DNS settings, misconfigured network settings, or a router problem usually cause this issue. If you want to fix this issue and get connected to the internet again, here are a few solutions you can try.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skip-the-hassle-find-4-ringtone-sources-here/"><u>2024 Approved Skip the Hassle Find 4 Ringtone Sources Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-art-of-video-integration-youtube-meets-microsoft-powerpoint/"><u>2024 Approved The Art of Video Integration YouTube Meets Microsoft PowerPoint</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-backgrounds-for-live-streaming-2023/"><u>Best Backgrounds for Live Streaming 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-avoiding-the-most-common-windows-11-missteps/"><u>Essential Insights: Avoiding the Most Common Windows 11 Missteps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-0x80072efd-on-windows-devices/"><u>Remedying Error 0X80072EFD on Windows Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restored-harmony-resolving-the-no-sound-issue-in-world-of-warcraft/"><u>Restored Harmony: Resolving the 'No Sound' Issue in World of Warcraft</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-non-functional-xbox-controller/"><u>Reviving Your Non-Functional Xbox Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/shaping-the-user-experience-with-wins-console/"><u>Shaping the User Experience with Win’s Console</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-accessing-windows-pre-launch-settings/"><u>Step-by-Step: Accessing Windows' Pre-Launch Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-storyboard-designers-den-for-2024/"><u>Ultimate Storyboard Designer's Den for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/why-choose-picshot-for-your-next-collage-project/"><u>Why Choose Picshot for Your Next Collage Project?</u></a></li>
+</ul></div>
+

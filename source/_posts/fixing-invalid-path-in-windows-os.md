@@ -1,7 +1,7 @@
 ---
 title: Fixing Invalid Path in Windows OS
-date: 2024-08-16T00:43:25.525Z
-updated: 2024-08-17T00:43:25.525Z
+date: 2025-01-13T16:38:18.748Z
+updated: 2025-01-19T06:58:45.589Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,11 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 1. Right-click on the targeted drive and choose **Properties** from the context menu.  
 ![Drive properties in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties.jpg)
 2. In the following dialog, head over to the **Sharing tab** and check the status of Network Path.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. If it says Not Shared, then click on the **Advanced Sharing** button.  
 ![Advanced sharing button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/drive-properties-advanced-sharing.jpg)
 4. Checkmark the box associated with **Share this folder** and note the Share name of the drive.  
@@ -39,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  You can now check if the drive is accessible after following the steps above.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Temporarily Disable Your Antivirus
 
  Another common culprit that often prevents users from connecting to networks, sharing files, and downloading applications from third-party sources is an overly protective antivirus.
@@ -51,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
  If you are using a third-party security program on your operating system, we recommend that you disable it temporarily and then try connecting to the remote computer and sharing files. If the antivirus was causing the problem, disabling it should fix the issue for you. If this happens, you can consider switching to a better security program to avoid such issues in the future. See our guide on [the best antivirus apps for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) to make an informed decision.
 
  You can also try [disabling Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) if you are using it and see if that helps. However, once you are done sharing the files, make sure you enable the antivirus back immediately since keeping it disabled for a long period can expose your PC to threats.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Try to Connect Using an IP Address
 
@@ -63,19 +69,20 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 3. In the Command Prompt window, type the command mentioned below and hit **Enter** to execute it:  
 `ipconfig /all​​​`  
 ![ipconfig all command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Scroll down and bit and note down the address for IPv4 Address.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ipv4 address in cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/ipconfig-all-ipv4-address.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now, open a Run dialog again and paste the IPv4 Address you noted in the text field here.  
-![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![ipv4 address in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/cmd-ipv4-address.jpg)
 6. Click **Enter** and see if you can connect to the remote computer successfully.
 
 ## 4\. Restart the TCP/IP NetBIOS Helper Service
@@ -92,6 +99,11 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 5. In the following dialog, click on the **Stop** button.  
 ![Stop button in Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-stop.jpg)
 6. Wait for a few seconds and then click **Start**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Now, expand the dropdown for Startup type and choose **Automatic**.  
 ![Startup type of service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/services-tcp-ip-netbios-helper-automatic.jpg)
 8. Click **Apply** \> **OK** to save the changes.
@@ -99,8 +111,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
  Once done, check if that fixes the issue for you.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Enable SMB 1.0
 
  SMB is a network protocol that allows users access to shared files and printers on Windows. This is disabled by default in Windows, but enabling it can help you connect to a remote device and share files across the network.
@@ -113,17 +126,16 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 2. In the following window, head over to **Programs** \> **Programs and Features**.  
 ![Programs option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-programs.jpg)
 3. Choose **Turn Windows features on or off** from the left pane.  
-![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Turn Windows feature on or off option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-windows-features-on-or-off.jpg)
 4. Now, look for "SMB 1.0/CIFS File Sharing Support" and checkmark the box associated with it.  
 ![SMB 1.0 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/smb-cifs-file-sharing-support.jpg)
 5. Click **OK** to save the changes and check if the error is now fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Modify Network Security Settings
 
  There can also be a problem with the network security settings of your computer, which might block access to shared resources, resulting in the error. Here is how you can ensure that you have the correct network settings to effectively communicate with other devices or resources on the network.
@@ -136,9 +148,6 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 ![Modify network security settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/local-security-policy-settings.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reset TCP/IP
 
  Finally, if the methods above have not worked for you, then you can consider [resetting TCP/IP](https://www.makeuseof.com/windows-connection-failed-error-651-fix/#:~:text=next%20method%20below.-,3.%20Reset%20TCP/IP,-You%20might%20also), which will revert all the IP protocols and DNS entries to their default state.
@@ -151,11 +160,27 @@ Local Policies > Security Options > Network Security: LAN Manager authentication
 
  One such common issue is the "network path name was not found" error, which occurs when users attempt to connect to a remote device. If you are facing a similar problem, we have discussed six troubleshooting methods below that will help you fix the error in no time.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-ultimate-guide-to-top-notch-mac-audio-recorders-a-comprehensive-list-for-2024/"><u>[New] Ultimate Guide to Top-Notch Mac Audio Recorders A Comprehensive List for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate-for-2024/"><u>[New] Unleashing Potential in Screen Recording Expertise in Adobe Captivate for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fresh-footage-frequent-flows-dos-and-donts-for-streamlining-video-content/"><u>[Updated] In 2024, Fresh Footage, Frequent Flows Do's & Don'ts for Streamlining Video Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/x-user-management-101-deciding-the-right-time-and-reasons-to-stop-following-someone/"><u>[X] User Management 101: Deciding the Right Time & Reasons to Stop Following Someone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-vivo-y100a-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Vivo Y100A to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/a-primer-on-locating-and-navigating-components-management-console/"><u>A Primer on Locating & Navigating Components Management Console</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-local-data-exchange-protocols-google-and-windows-showdown/"><u>Comparing Local Data Exchange Protocols: Google & Windows Showdown</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/te-your-freefire-gameplay-on-youtube-channels-for-2024/"><u>Elevate Your FreeFire Gameplay on YouTube Channels for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-unchanged-environment-powertoys-settings-replication/"><u>Ensuring Unchanged Environment: PowerToys Settings Replication</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-to-windows-11s-auto-hdr-techniques/"><u>Essential Guide to Windows 11'S Auto HDR Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-chromecast-without-limits-how-to-play-all-video-formats-2023-edition/"><u>New Chromecast Without Limits How to Play All Video Formats (2023 Edition)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-must-try-ai-powered-story-creation-tools-unleash-your-imagination/"><u>Top 4 Must-Try AI-Powered Story Creation Tools - Unleash Your Imagination!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/ultimate-tutorial-seamlessly-sharing-videos-from-ios-device-to-a-windows-11windows-10-desktop-system/"><u>Ultimate Tutorial: Seamlessly Sharing Videos From iOS Device to a Windows 11/Windows 10 Desktop System</u></a></li>
+</ul></div>
+

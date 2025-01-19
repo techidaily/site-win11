@@ -1,7 +1,7 @@
 ---
 title: Navigating and Managing Windows Like a Whiz
-date: 2024-08-16T00:43:23.427Z
-updated: 2024-08-17T00:43:23.427Z
+date: 2025-01-14T01:05:58.325Z
+updated: 2025-01-18T23:38:39.390Z
 tags:
   - windows10
   - windows11
@@ -47,15 +47,17 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
  Want more? We have [the ultimate guide to all of Windows' keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) if you need more handy shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Handy Windows Shortcuts for Common Actions
 
  Here are a few other tips and shortcuts that will make your work easier on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Scan Your PC for Malware Quickly
 
  Think you have malware? Here's how to get a scan running at record time:
@@ -63,27 +65,26 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 1. Open the **Run** box by pressing **Win + R** keys together or use one of the [many ways to open Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **mrt** in the Run navigation bar and hit **Enter**.  
 ![Run Box Open With mrt Typed in Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/type-mrt-in-run-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. The [Microsoft Windows Malicious Software Removal Tool](https://www.makeuseof.com/microsoft-malicious-software-removal-tool-guide/) will open up. Click on **Next**.  
 ![Microsoft Windows Malicious Software Removal Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/malicious-software-removal-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 4. Then choose **Quick Scan**, **Full Scan**, or **Custom Scan**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Malicious Software Removal Tool With Scan Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-scan-type-to-scan-for-malware.jpg)
 5. Finally, click on **Next** to scan your PC for malicious software.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Control Your System Volume With Your Mouse Wheel
 
  This is handy if you're on a desktop or use a mouse with your laptop. Just click on the Volume icon on the taskbar and the volume slider will open up. Slide the volume up or down using your mouse scroll wheel.
 
  Did you know you can skip clicking the volume icon? If you really want to speed things up and don't mind downloading third-party tools, check out [how to change the volume on Windows with your mouse wheel](https://www.makeuseof.com/windows-11-volume-mouse-wheel/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Select Text Easily on Documents
 
@@ -94,15 +95,14 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 3. Release the **Shift** and **arrow keys** to stop selecting the text and then copy or delete it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use Shortcuts to Work Faster on Windows
 
  Undoubtedly, shortcuts make things much easier and faster as you work and play on Windows. So start using the shortcuts discussed above. Once you get used to them, you'll love using them every day.
 
  So let's explore a few shortcuts you can use on your keyboard and other useful ones that will make things easy and snappy.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +110,27 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-zdsofts-screen-capture-brilliance-reviewed/"><u>[New] 2024 Approved ZDSoft's Screen Capture Brilliance Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-precise-plot-points-in-a-snapshot-for-2024/"><u>[New] Precise Plot Points in a Snapshot for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crowned-titles-top-sierra-dvd-creation-software/"><u>[Updated] In 2024, Crowned Titles Top Sierra DVD Creation Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-flipping-photos-for-followers-a-rotational-approach-for-insta-success/"><u>[Updated] In 2024, Flipping Photos for Followers A Rotational Approach for Insta Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-your-ultimate-guide-to-the-best-affordable-online-video-effect-tools/"><u>[Updated] Your Ultimate Guide to the Best Affordable Online Video Effect Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ultimate-remedies-for-a-disconnected-usb-wi-fi-adapter-in-windows/"><u>7 Ultimate Remedies for a Disconnected USB Wi-Fi Adapter in Windows</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/cddvd/"><u>您好，请按照本指南简单步骤将CD/DVD快速复制至电脑内部或外置硬盘</u></a></li>
+<li><a href="https://win11.techidaily.com/betrayed-by-touch-the-latest-vulnerabilities-in-windows-fingerprint-tech/"><u>Betrayed by Touch: The Latest Vulnerabilities in Windows Fingerprint Tech</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-incorrectly-assigned-speaker-error-windows-style/"><u>Fixing Incorrectly Assigned Speaker Error, Windows Style</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reinstate-missing-mfc71udll-in-windows/"><u>How to Reinstate Missing Mfc71u.dll in Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-boost-your-images-advanced-online-photoshop-cropping-tips/"><u>In 2024, Boost Your Images Advanced Online Photoshop Cropping Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n53-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N53 To Phone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-mic-silenced-tips-to-unmute-for-google-meet-on-pc/"><u>Microsoft Mic Silenced: Tips to Unmute for Google Meet on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-errors-wows-glitches-in-windows-11/"><u>Navigating Through Errors: WoW's Glitches in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-your-windows-11-re-activate-ms-store-applications/"><u>Revive Your Windows 11: Re-Activate MS Store Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-create-extract-and-manage-files-via-cli/"><u>Step-by-Step Guide to Create, Extract and Manage Files via CLI</u></a></li>
+<li><a href="https://win11.techidaily.com/step-wise-approach-to-adding-icons-to-windows-11-taskbar/"><u>Step-Wise Approach to Adding Icons to Windows 11 Taskbar</u></a></li>
+</ul></div>
+

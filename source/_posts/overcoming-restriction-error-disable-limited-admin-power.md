@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Restriction Error: Disable 'Limited Admin Power'"
-date: 2025-01-16T01:51:31.640Z
-updated: 2025-01-18T16:52:21.164Z
+date: 2025-01-16T08:45:33.162Z
+updated: 2025-01-19T10:13:53.350Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Change Your User Account to an Admin Account
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-option-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Remove Any Work or School Accounts
 
  Have you connected your PC with any school or work organization account? If so, such an account could be restricting access to Windows Security settings. Try disconnecting your PC from the school or work in Settings as follows:
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 3. Click a connected work or school account to expand it.  
 ![The Access work or school account settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/work-or-school-accounts.jpg)
 4. Press the**Disconnect** button and select**Yes** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the Turn Off Microsoft Defender Antivirus Policy
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Microsoft Defender Antivirus settings in Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/microsoft-defender-antivirus-settings.jpg)
 2. Then double-click**Turn off Microsoft Defender Antivirus** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click**Disabled** if the**Turn off Microsoft Defender Antivirus** policy is enabled.  
 ![The Turn off Microsoft Defender Antivirus window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-turn-off-microsoft-defender-antivirus-window.jpg)
 4. Select the policy’s**Apply** and**OK** options.
@@ -83,12 +79,12 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![Allow antimalware service to startup with normal priority](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/client-interface-setting.jpg)
 7. Double-click the**Enable headless UI mode** policy to view it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Client Interface settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-headless-ui-mode.jpg)
 8. Select**Disabled** \>**Apply** \>**OK** in the Enable headless UI mode policy window.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Run a PowerShell Command
 
@@ -102,6 +98,14 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The set-Mppreference PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-set-mppreference-command.jpg)
 5. Exit PowerShell and open Windows Security again to see if the error persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Repair/Reset Windows Security
 
  Windows Security is a UWP app for which you can select**Repair** and**Reset** Settings options that can resolve various issues. Those options are there to help users fix apps that aren’t working right. So, try selecting Windows Security’s**Repair** and**Reset** options to see if they make any difference.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button.jpg)
 
  Our article[about resetting Windows apps](https://www.makeuseof.com/windows-reset-app/) tells you how to access the**Reset** button. The**Repair** button is just above the**Reset** option. It’s recommended to select**Repair** first since that doesn’t affect app data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Modify the Registry via Command Prompt
 
@@ -147,7 +147,7 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 5. Open the Start menu, select**Power** , and press the**Restart** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a System Restore
@@ -159,7 +159,7 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
  Our guide on[creating and utilizing restore points](https://www.makeuseof.com/windows-11-create-restore-point/) provides instructions for rolling back Windows with System Restore. Choose the oldest restore point you can. However, remember that you’ll probably need to reinstall some software packages installed after the restore point’s date.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Start Utilizing Windows Security Again
@@ -181,18 +181,22 @@ reg delete "HKLM\Software\Microsoft\Policies" /f`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/xtract-subtitles-for-free-top-10-tools-reviewed/"><u>[New] Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-tips-setting-up-outlook-preview-app-on-winoss/"><u>Efficient Tips: Setting Up Outlook Preview App on WinOSs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-user-experience-and-analytics-the-power-of-the-latest-cookiebot-solutions/"><u>Enhance User Experience & Analytics: The Power of the Latest Cookiebot Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/from-zero-to-zenith-master-desktop-design-in-wins/"><u>From Zero To Zenith: Master Desktop Design in Wins</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-audio-jack-functionality-in-damaged-laptop-units-expert-fixes-uncovered/"><u>How to Restore Audio Jack Functionality in Damaged Laptop Units – Expert Fixes Uncovered</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-g24-power-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from G24 Power?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-2023s-samsung-bd-j5900-a-detailed-look/"><u>In 2024, 2023'S Samsung BD-J5900 A Detailed Look</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-adding-effects-in-tiktok-videos/"><u>In 2024, The Ultimate Guide to Adding Effects in TikTok Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-transforming-youtube-video-to-animated-gif-user-friendly-tips/"><u>In 2024, Transforming YouTube Video to Animated GIF User-Friendly Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-monochrome-troubles-with-store-app/"><u>Overcoming Monochrome Troubles with Store App</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015791566-solution-steps-to-restore-sound-on-your-windows-11-computer-expert-advice/"><u>Solution Steps to Restore Sound on Your Windows 11 Computer - Expert Advice!</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mystery-how-to-recover-lost-x-configuration/"><u>Unraveling the Mystery: How to Recover Lost X Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-converting-mp3s-to-audio-cds-using-imgburn/"><u>Windows Guide: Converting MP3s to Audio CDs Using ImgBurn</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-storing-image-frames-from-videos-on-windows-11/"><u>[New] In 2024, Storing Image Frames From Videos on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/crossover-instructions-full-bg3-experience-for-macos-users/"><u>CrossOver Instructions: Full BG3 Experience for macOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-for-mcuicntexe-entry-point-loss-in-windows-systems/"><u>Cure for McUICnt.exe Entry Point Loss in Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-save-your-favorite-songs-from-pandora-using-windows-11/"><u>How to Save Your Favorite Songs From Pandora Using Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-motorola-g24-power-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Motorola G24 Power to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-poco-m6-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Poco M6 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/making-your-windows-11-pin-more-secure-and-elongated/"><u>Making Your Windows 11 PIN More Secure & Elongated</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-not-recognized-fix-for-windows-users/"><u>Overcoming Device Not Recognized: Fix for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/pixelprecision-snag-9-tactics-to-reinstate-it/"><u>PixelPrecision Snag? 9 Tactics to Reinstate It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-solutions-to-microsoft-teams-microphone-compatibility-challenges-on-windows-11-and-windows-10/"><u>Quick Solutions to Microsoft Teams Microphone Compatibility Challenges on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-window-icons-on-windows/"><u>Refreshing Window Icons on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-password-policy-setting-new-limit-post-failed-logins/"><u>Revamping Password Policy: Setting New Limit Post Failed Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-system-top-5-tips-for-mastering-windows-folders/"><u>Supercharge Your System: Top 5 Tips for Mastering Windows Folders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-v30-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-task-management-easy-run-tool-integration-on-windows/"><u>Upgrade Your Task Management: Easy Run Tool Integration on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Next Evolution of Windows 11: Advanced Widget Techniques"
-date: 2025-01-14T18:53:34.824Z
-updated: 2025-01-18T17:07:31.717Z
+date: 2025-01-14T12:26:28.411Z
+updated: 2025-01-18T21:40:31.934Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Allow Users to Open the Widgets Panel From the Right Side
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have Widgets enabled on Windows 11 taskbar, you will notice that the panel opens from the left side of your screen. This should not be the only option. It would be nice to see Windows 11 showing Widgets on the right side of the display, just like in macOS. However, Microsoft should keep both left and right-opening options and not replace one with the other.
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  Widgets in Windows 11 will be far more customizable with these simple changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Turn Off the Ability to Open the Widgets Panel on Mouse Hover
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 ![Screenshot showing Windows 11 Widgets panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-widgets.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recently added support for third-party widgets in Windows 11\. Companies like Meta and Spotify have already introduced their widgets to the operating system after Microsoft added third-party support.
@@ -79,15 +79,15 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
  Meanwhile, you can[pin your favorite widgets to your desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) using a third-party app called Widget Launcher.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add Multi-Account Support to the Widgets Panel
 
  You can use widgets with or without signing into the Widgets Panel with your Microsoft account. However, it does not support multi-account.
 
  A Widgets Panel with support for multi-account would mean that you can seamlessly switch between different accounts in the Widgets board whenever you like. Each account will offer you a unique Widgets panel, as you can personalize each differently.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Allow Users to Change the Default Browser for Widgets
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  Meanwhile, you can quickly[fix Windows 11 Widgets when they stop working](https://www.makeuseof.com/windows-11-widgets-not-working/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will Microsoft Improve the Widgets Experience in Windows 11?
@@ -128,19 +128,24 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-whatsapp-audio-messages-decoded/"><u>[New] 2024 Approved WhatsApp Audio Messages Decoded</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/xpert-tips-for-fixing-non-displaying-shorts-thumbnails/"><u>[New] Expert Tips for Fixing Non-Displaying Shorts Thumbnails</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-catching-up-in-time-the-instagram-video-inversion-method/"><u>[Updated] In 2024, Catching Up in Time The Instagram Video Inversion Method</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722889008774-apples-revolutionary-foldable-iphone-explore-release-schedules-pricing-forecasts-and-leaked-specifications/"><u>Apple's Revolutionary Foldable iPhone? Explore Release Schedules, Pricing Forecasts, and Leaked Specifications</u></a></li>
-<li><a href="https://win11.techidaily.com/boosting-performance-trimming-high-memorycpu-usage-by-news-and-interests-apps-on-windows/"><u>Boosting Performance: Trimming High Memory/CPU Usage by News & Interests Apps on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/capturing-hulu-live-anywhere-a-practical-how-to-manual-for-2024/"><u>Capturing Hulu Live Anywhere - A Practical How-To Manual for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/master-autominimize-windows-woes-no-more/"><u>Master AutoMinimize: Windows Woes No More</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-power-indicator-designs-for-win-users/"><u>Masterful Power Indicator Designs for Win Users</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-the-xbox-stranded-glitch-on-win11/"><u>Overcoming the Xbox Stranded Glitch on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/secrets-to-everlasting-deactivation-of-microsoft-defender/"><u>Secrets to Everlasting Deactivation of Microsoft Defender</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-starting-windows-search-service-problems/"><u>Solutions for Starting Windows Search Service Problems</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ddpai-mini3-dashcam-revealed-more-fun-than-youd-expect/"><u>The Ddpai Mini3 Dashcam Revealed: More Fun than You'd Expect</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-comparing-streams-vimeo-versus-youtube/"><u>[New] Comparing Streams Vimeo Versus YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-behind-the-lens-mastery-5-essential-cinematographic-insights/"><u>[New] In 2024, Behind the Lens Mastery 5 Essential Cinematographic Insights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-premier-5-web-video-capture-tech/"><u>[New] In 2024, Premier 5 Web Video Capture Tech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-10-mouse-recorders/"><u>[Updated] 2024 Approved Top 10 Mouse Recorders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-enhancing-your-videos-final-impression/"><u>[Updated] In 2024, Enhancing Your Video's Final Impression</u></a></li>
+<li><a href="https://win11.techidaily.com/7-techniques-to-lower-desktop-wm-energy-usage/"><u>7 Techniques to Lower Desktop WM Energy Usage</u></a></li>
+<li><a href="https://win11.techidaily.com/a-roadmap-to-resolve-file-creation-issues-windows-error-30005/"><u>A Roadmap to Resolve File Creation Issues - Windows Error 30005</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-your-pcs-wake-up-time-enabling-quick-start/"><u>Accelerate Your PC's Wake-Up Time: Enabling Quick Start</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-alert-it-admin-limited-power/"><u>Addressing Windows Alert: IT Admin Limited Power</u></a></li>
+<li><a href="https://win11.techidaily.com/alter-icon-and-thumbnail-dimensions-w11/"><u>Alter Icon and Thumbnail Dimensions W11</u></a></li>
+<li><a href="https://win11.techidaily.com/black-friday-brilliance-essential-keys-collectors-year-round-windows-11-savings/"><u>Black Friday Brilliance: Essential Keys Collectors, Year-Round Windows 11 Savings</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-image-quality-windows-11s-secret-weapon/"><u>Boosting Image Quality: Windows 11'S Secret Weapon</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/lenovo-tab-m10s-stunning-display-and-performance-revealed-in-our-2020-budget-tablet-review/"><u>Lenovo Tab M10's Stunning Display and Performance Revealed in Our 2020 Budget Tablet Review</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/protecting-your-digital-publications-step-by-step-to-setting-up-passwords-in-flipbuilder/"><u>Protecting Your Digital Publications: Step-by-Step to Setting Up Passwords in FlipBuilder</u></a></li>
+<li><a href="https://win11.techidaily.com/1719304374554-quick-fixes-to-tackle-everyday-windows-glitches/"><u>Quick Fixes to Tackle Everyday Windows Glitches!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reading-kindle-books-on-your-blackberry-without-limits/"><u>Reading Kindle Books on Your Blackberry without Limits</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Recover lost data from Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://win11.techidaily.com/1719370702854-unlock-adobe-photoshop-on-windows-11-and-11/"><u>Unlock Adobe Photoshop on Windows 11 & 11,</u></a></li>
 </ul></div>
 

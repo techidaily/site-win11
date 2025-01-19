@@ -1,7 +1,7 @@
 ---
 title: Effortless Control Over Your Windows Setup with Key Combinations
-date: 2025-01-18T02:24:06.653Z
-updated: 2025-01-19T00:35:12.490Z
+date: 2025-01-16T01:06:05.384Z
+updated: 2025-01-19T06:42:58.937Z
 tags:
   - windows10
   - windows11
@@ -35,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Remember, you can't use the redo command without undoing an action first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Undo on Windows With a Keyboard Shortcut
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
 
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
@@ -106,18 +106,19 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp-for-2024/"><u>[New] Archival Artifacts Radeon's Revamp for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>[Updated] Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-early-edge-tabs-in-win11/"><u>Eliminating Early Edge Tabs in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-audio-quality-utilizing-windows-11s-action-center-mixing/"><u>Enhance Audio Quality: Utilizing Windows 11'S Action Center Mixing</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-win-pc-epic-games-logins-offline/"><u>Fixing Win PC: Epic Games Logins Offline</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/definition-ready-enabling-av1-on-youtube-for-2024/"><u>High Definition Ready Enabling AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g24-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G24 by Name | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-professionals-selection-top-5-drones-ranked/"><u>In 2024, The Professionals' Selection Top 5 Drones Ranked</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-to-decode-and-track-your-connections-with-win11s-netstat/"><u>Learn to Decode and Track Your Connections with Win11's Netstat</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-microsoft-outlooks-notification-woes-a-clear-path-forward/"><u>Navigating Microsoft Outlook's Notification Woes: A Clear Path Forward</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-chromes-filesync-obstructions-a-fix-for-win-users/"><u>Overcome Chrome's Filesync Obstructions: A Fix for WIN Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accurate-measurements-made-easy-on-android-phones/"><u>Step-by-Step Tutorial: Accurate Measurements Made Easy on Android Phones</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-world-of-online-broadcasts-on-youtube-and-twitch-with-obs/"><u>[Updated] In 2024, Navigating the World of Online Broadcasts on YouTube and Twitch with OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-and-simple-methods-integrating-clownfish-sounds-into-pc-speech/"><u>[Updated] Quick & Simple Methods Integrating Clownfish Sounds Into PC Speech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ideal-beginning-enhancer-for-your-devices/"><u>[Updated] The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-combat-frozen-wireless-mice-on-windows-desktops/"><u>How to Combat Frozen Wireless Mice on Windows Desktops</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-magic-v2-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor Magic V2 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-white-screens-and-blank-logins-on-windows-1011/"><u>Navigating Through White Screens and Blank Logins on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-file-properties-and-date-adjustments/"><u>Navigating Windows File Properties and Date Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11s-update-failure-code-0x80246007/"><u>Overcoming Windows 11'S Update Failure: Code 0X80246007</u></a></li>
+<li><a href="https://fox-access.techidaily.com/precision-and-power-top-5-text-plugins-for-after-effects-creativity/"><u>Precision and Power Top 5 Text Plugins for After Effects Creativity</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6 Plus Prevention & Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/searching-for-a-slender-browser-footprint-on-your-desktop/"><u>Searching For a Slender Browser Footprint on Your Desktop</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-tutorial-enable-and-watch-dv-video-clips-with-windows-media-player/"><u>Step-by-Step Tutorial: Enable and Watch DV Video Clips with Windows Media Player</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-organized-print-setup-in-windows-systems/"><u>The Key to Organized Print Setup in Windows Systems</u></a></li>
 </ul></div>
 

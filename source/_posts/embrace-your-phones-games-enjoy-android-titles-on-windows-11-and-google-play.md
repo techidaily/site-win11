@@ -1,7 +1,7 @@
 ---
 title: "Embrace Your Phone's Games: Enjoy Android Titles on Windows 11 and Google Play"
-date: 2024-08-16T00:43:12.619Z
-updated: 2024-08-17T00:43:12.619Z
+date: 2025-01-16T09:01:35.039Z
+updated: 2025-01-18T22:28:42.088Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  Before you continue, you need a medium-grade Windows PC to run the Google Play Games app. Check out the [Google Play Games system requirements page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029049/https://play.google.com/googleplaygames#section-system-requirements) and make sure your hardware matches or exceeds them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install Google Play Games on Windows 11
 
  Perform the following steps to download and install Google Play Games on your Windows PC:
@@ -36,9 +40,18 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 2. Click on the **Download beta** button.  
 ![Download and Install Google Play Games on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-and-install-google-play-games-on-windows-11.jpg)
 3. Wait for the file to download. Visit your downloads folder and run the setup file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the **Accept** button to agree to the Terms and Conditions.
 5. Turn off the **Help Improve Your Experience** toggle and click on the **Finish** button.  
 ![Download and Install Google Play Games on Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-and-install-google-play-games-on-windows-11-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you should be ready to play Android games on your PC.
 
@@ -54,14 +67,8 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 2. The app will show a recommendation list on the right side, displaying all the games you played or installed on your phone earlier. Scroll down and click on the **View** button below the “Check out all our games” banner.
 3. Click on a game tile to open its page. Then click on the **Install** button.  
 ![Install and Play Games Using Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The app will prompt you to “Turn on Virtualization Settings”. Click on the **Continue** button.  
 ![Install and Play Games Using Google Play Games 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 5. Click on the **Yes** button to install the Windows Hypervisor Platform.
 6. Lastly, click on the **OK** button to update your PC and apply the changes.
 
@@ -71,14 +78,20 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 2. Revisit the game's page and click on the **Install** button.  
 ![Install and Play Games Using Google Play Games 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-and-play-games-using-google-play-games-3.jpg)
 3. Click on the **Play** button to launch the Game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. The game will launch in windowed mode. Press **Alt + Enter** to enter full-screen mode.  
 ![Horizon Chase Turbo running in Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horizon-chase-turbo-running-in-google-play-games.jpg)
 
  You should now have everything you need to play Android games set up on your Windows PC. However, we're not quite done yet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Customize Your Game Controls on Google Play Games
 
  The default game controls can seem weird, given you're playing an Android game on a computer. Fortunately, you can change the controls through Google Play Games.
@@ -88,14 +101,8 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 1. Press **Shift + Tab** to open the Game Options menu.
 2. Click on the **Remap Controls** option. Now, you will see the game-related key bindings.  
 ![Customize Game Controls in Google Play Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/customize-game-controls-in-google-play-games.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Now, click on the key binding you want to change, then press the key you want to assign to it. It will save the changes automatically.  
 ![Customize Game Controls in Google Play Games 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/customize-game-controls-in-google-play-games-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 4. Lastly, click on the **X**button to close the Remap Controls window and return to the game.
 
 ## Our Experience With the Google Play Games App for Windows
@@ -108,16 +115,11 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  Google Play Games isn’t as resource intensive as other [ways to run Android apps on Windows](https://www.makeuseof.com/tag/3-ways-run-android-apps-windows/), such as Bluestacks. The app consumes 800-900 MB while playing games, which is moderate. But you will need a PC with 8 GB RAM to run Google Play Games and other apps smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## Play Your Favorite Android Games on Windows
 
  Google Play Games makes it possible to play popular games like Asphalt 9, Jetpack Joyride, and more on your Windows 11 PC. The performance is decent, and your achievements and game progress sync perfectly. All we can ask is that the game library will feature more popular titles in the future.
 
  The Google Play Games beta is available in multiple regions now (100 at the time of writing) and lets you install and play games on your Windows 11 PC. If you'd like to learn more, here's how to install the Google Play Games app, find your favorite games, install them, and tweak their controls for the best experience.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,3 +127,24 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-beat-buffers-archive-and-dissect-tunes/"><u>[New] 2024 Approved Beat Buffers Archive & Dissect Tunes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-direct-download-of-video-to-mp3-from-vimeo/"><u>[New] 2024 Approved Direct Download of Video to MP3 From Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-tackling-problems-with-instagrams-video-feature/"><u>[Updated] 2024 Approved Tackling Problems with Instagram's Video Feature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterful-gameplay-transmission-with-obs-studio/"><u>2024 Approved Masterful Gameplay Transmission with OBS Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/9-ways-microsoft-can-improve-windows-11s-clipboard-history/"><u>9 Ways Microsoft Can Improve Windows 11'S Clipboard History</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-optimal-msoffice-functionality-on-w11/"><u>Achieving Optimal MSOffice Functionality on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/configuring-windows-for-secure-external-drive-handling/"><u>Configuring Windows for Secure External Drive Handling</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-long-start-ups-in-windows-11-easily-and-swiftly/"><u>Conquering Long Start-Ups in Windows 11 Easily and Swiftly</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-gadget-analysis-by-tom-in-depth-reviews-of-latest-electronics/"><u>Expert Gadget Analysis by Tom: In-Depth Reviews of Latest Electronics</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-open-the-private-character-editor-in-windows/"><u>How to Open the Private Character Editor in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-windows-ethernet-connection-access/"><u>Regaining Windows Ethernet Connection Access</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y78-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y78 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/spice-up-your-feeds-text-based-meme-magic-for-2024/"><u>Spice Up Your Feeds Text-Based Meme Magic for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-potential-with-microsofts-pc-manager-in-win11/"><u>Unlocking Potential with Microsoft's PC Manager in Win11</u></a></li>
+</ul></div>
+

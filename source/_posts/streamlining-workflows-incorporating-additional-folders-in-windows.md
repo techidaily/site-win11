@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflows: Incorporating Additional Folders in Windows"
-date: 2025-01-11T22:33:36.567Z
-updated: 2025-01-18T17:08:53.827Z
+date: 2025-01-14T03:17:39.493Z
+updated: 2025-01-19T03:13:55.757Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With MyFolders
 
@@ -48,7 +52,7 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**Done** to exit the MyFolders window.
@@ -59,10 +63,6 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
@@ -70,7 +70,7 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
@@ -92,10 +92,6 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 
@@ -109,6 +105,11 @@ Once your PC has restarted:
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
 5. Press the**Choose Folder** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
 8. Press the**Add to Context Menu** button.
@@ -118,7 +119,7 @@ Once your PC has restarted:
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Tweak Right Click Context Menu Adder
@@ -136,7 +137,7 @@ Once your PC has restarted:
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -158,16 +159,22 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>[New] In 2024, Crafting Calm Conclusions Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/designing-your-own-terminal-schemes-in-wt/"><u>Designing Your Own Terminal Schemes in WT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-utorrent-performance-ensuring-stable-peer-connections-and-continuous-downloads/"><u>Mastering uTorrent Performance: Ensuring Stable Peer Connections and Continuous Downloads</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-system-restore-a-guide-to-rollbacks/"><u>Mastering Windows' System Restore: A Guide to Rollbacks</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-windows-11-taskbar-interactions/"><u>Mending Windows 11 Taskbar Interactions</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-windows-11-taskbar-connectivity/"><u>Re-Establishing Windows 11 Taskbar Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-securing-your-settings-against-unintentional-loss-by-cp/"><u>Strategies for Securing Your Settings Against Unintentional Loss by CP</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-strategies-for-powerpoint-recordings-for-2024/"><u>Streamlined Strategies for PowerPoint Recordings for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-solving-common-glitches-via-dfu-mode-technique/"><u>Troubleshoot Your iPhone: Solving Common Glitches via DFU Mode Technique</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-personalized-clock-settings-bypass-automatic-windows-change/"><u>Unlock Personalized Clock Settings, Bypass Automatic Windows Change</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-critical-appraisal-of-sound-forge-pros-cons-and-potentials/"><u>Updated In 2024, Critical Appraisal of Sound Forge Pros, Cons, and Potentials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-best-video-equipment-for-documenting-dynamic-musical-performances/"><u>[Updated] 2024 Approved Best Video Equipment for Documenting Dynamic Musical Performances</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-mastering-youtube-link-building-a-strategic-guide/"><u>[Updated] In 2024, Mastering YouTube Link Building A Strategic Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>2024 Approved Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-beginners-guide-to-free-up-space-by-deleting-mac-applications/"><u>A Beginner's Guide to Free Up Space by Deleting Mac Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-dll-missing-error-rockalldll-in-windows-10/"><u>Curing DLL Missing Error: Rockalldll in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-microsoft-app-store-glitch-0x80131500/"><u>Fixing Microsoft App Store Glitch #0X80131500</u></a></li>
+<li><a href="https://win11.techidaily.com/free-up-local-drives-in-win11-ensuring-file-safety-every-step-of-the-way-max-156-chars/"><u>Free Up Local Drives in Win11: Ensuring File Safety Every Step of the Way (Max 156 Chars)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>In 2024, Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>In 2024, The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-screen-use-with-a-90-degree-window-rotation-tutorial/"><u>Maximize Screen Use with a 90-Degree Window Rotation Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/peering-into-your-core-how-to-launch-windows-undisclosed-identity-analyzer/"><u>Peering Into Your Core: How to Launch Windows' Undisclosed Identity Analyzer</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-frozen-recycle-icon-status-in-win11/"><u>Resolving Frozen Recycle Icon Status in Win11</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/scopri-i-6-metodi-per-ripristinare-dai-binari-la-cartella-spazzatura/"><u>Scopri I 6 Metodi per Ripristinare Dai Binari La Cartella Spazzatura</u></a></li>
+<li><a href="https://win11.techidaily.com/silent-shopkeepers-integrating-covert-window-11-menus/"><u>Silent Shopkeepers: Integrating Covert Window 11 Menus</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stuck-in-portrait-here-are-fixes-for-iphone-not-rotating-screen-settings/"><u>Stuck in Portrait? Here Are Fixes for iPhone Not Rotating Screen Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/the-next-generation-of-windows-microsofts-ai-copilot-revolutionizes-the-taskbar/"><u>The Next Generation of Windows: Microsoft’s AI Copilot Revolutionizes the Taskbar</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-low-budget-film-editing-software/"><u>Updated The Ultimate Guide to Low-Budget Film Editing Software</u></a></li>
 </ul></div>
 

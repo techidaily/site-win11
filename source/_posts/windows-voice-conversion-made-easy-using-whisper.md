@@ -1,7 +1,7 @@
 ---
 title: Windows Voice Conversion Made Easy Using Whisper
-date: 2024-08-16T00:47:32.382Z
-updated: 2024-08-17T00:47:32.382Z
+date: 2025-01-12T19:49:37.376Z
+updated: 2025-01-19T00:25:05.796Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 
  Don't fret, though. That's why we're here! Read on to find out how to install and use it, but also, if you own one, to have Whisper take advantage of your Nvidia GPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is OpenAI's Whisper?
 
  ChatGPT is all the rage nowadays, and we already saw[how you can use ChatGPT by OpenAI](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . And yet, it's not the only interesting project by OpenAI.
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
 * If you have a relatively modern Nvidia GPU (GTX970 or newer), Whisper can run in "hardware accelerated mode" to boost its speed.
 * There's no requirement to register, purchase a license, or buy a subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Why Are AMD GPUs Not Supported?
 
  For GPUs to be useful for more than graphics, they'd have to act as fully programmable processors. That's why Nvidia created CUDA, officially deemed "a parallel computing platform and programming model". To learn more about CUDA and related hardware ("CUDA cores"), read our article on[what are CUDA cores and how they improve PC gaming](https://www.makeuseof.com/tag/what-are-cuda-cores-pc-gaming/) .
@@ -60,15 +61,14 @@ thumbnail: https://thmb.techidaily.com/446c2c83401a2bf43df1ddd12db668c5d64cb21ef
  Also, install its Python version with:  
 `pip3 install python-ffmpeg`  
 ![pip install python ffmpeg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip-install-python-ffmpeg.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Finally, install Whisper from its Github page with:  
-`pip3 install git+https://github.com/openai/whisper.git`
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+`pip3 install git+https://github.com/openai/whisper.git`
+
 ## Getting Whisper's CUDA-Enabled Version
 
  Although Whisper doesn't use Nvidia GPUs, the**torch** package it relies on offers a CUDA-accelerated version. Using this instead of the "plain" version can help Whisper complete its transcriptions much faster with the help of your Nvidia GPU.
@@ -82,16 +82,10 @@ To have Whisper use the CUDA cores of your Nvidia GPU:
 2. Install torch's CUDA-enabled version with:  
 `pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu117`  
 ![pip3 install torch torchvision torchaudio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pip3-install-torch-torchvision-torchaudio.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 3. To check if Whisper can use your Nvidia GPU, use:  
 `whisper --help | findstr -i pytorch`  
  You should see**(default: cuda)** instead of**(default: cpu)** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## What to Do if Torch Fails to Install
 
  If you encounter the "no version found" errorwhile installing torch, you may need to install an older version of Python parallel to your current one.
@@ -103,8 +97,9 @@ Use this command to do that:
 Replace "OLDER\_VERSION" with a version, like 3.10.
 
 ![choco install python alternate version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choco-install-python-alternate-version.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, use the path of the secondary version for all "generic" Whisper commands (e.g., "c:\\Python310\\Scripts\\pip.exe" rather than just "pip").
@@ -118,8 +113,9 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 ![Recording voice with Audacity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/recording-voice-with-audacity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Start Transcribing With Whisper
 
  Although Whisper doesn't come with a user-friendly GUI, its use is ultra-simple.
@@ -140,6 +136,10 @@ Replace "OLDER\_VERSION" with a version, like 3.10.
 `whisper --model base LatestNote.mp3`
 
  The "model" flag is required because Whisper uses one out of various options. Let's expand on them to help you choose the best for your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Which Model to Choose?
 
@@ -174,14 +174,21 @@ For example:
 3. In the Windows Start menu, search for "path" and select**Edit the system environment variables** .  
 ![Windows Start Edit The System Environment Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-start-edit-the-system-environment-variables.jpg)
 4. Find the**Path** variable under**User variables for YOUR\_USERNAME** . Double-click on it to edit it. Click on**New** , and paste the path to your scripts folder. Click on**OK** to accept the changes.  
-![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Environment Variables User Account Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/environment-variables-user-account-path.jpg)
 5. Return to your scripts folder in Windows Explorer. Create a new batch file there named "wht.bat". "Inside" it, place this command:  
 `whisper --model tiny --language en %1`  
 ![Creating WHT Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-wht-batch-file.jpg)
 6. Create two more batch files, "whs" and "whm".
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Place this inside the first script:  
 `whisper --model small --language en %1`
 8. Place this inside the second:  
@@ -194,9 +201,6 @@ For example:
 3. Type this command, replacing "wht" with "whs" or "whm" to use the small or medium language models:  
 `wht YOUR_AUDIO_FILE.mp3`
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## Typing at the Speed of Sound With Whisper
 
  Even the quickest touch-typists can't match the speed at which we speak. However, until recently, talking instead of typing wasn't optimal for creating documents.
@@ -205,14 +209,11 @@ For example:
 
  After the steps above, you should be ready to transcribe or translate your voice with high accuracy, using only a single command.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -221,4 +222,24 @@ For example:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-into-filmmaking-webcam-techniques-for-macbook/"><u>[New] 2024 Approved Step Into Filmmaking Webcam Techniques for MacBook</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-external-hard-drive-access-in-windows/"><u>Controlling External Hard Drive Access in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphered-doorkeeper-no-swift-shift-to-new-solution/"><u>Deciphered Doorkeeper? No Swift Shift to New Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-error-0x80073cf3-on-marketplace/"><u>Deciphering and Fixing Error 0X80073CF3 on Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/fresh-start-on-walls-top-3-techniques/"><u>Fresh Start on Walls: Top 3 Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-started-the-windows-11-guide-to-altering-fax-cover-pages/"><u>Getting Started: The Windows 11 Guide to Altering Fax Cover Pages</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/google-backed-mondly-the-ultimate-language-learning-partner/"><u>Google-Backed Mondly: The Ultimate Language Learning Partner</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-zte-nubia-flip-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from ZTE Nubia Flip 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/leading-edge-free-players-for-pc-and-mac-os-for-2024/"><u>Leading Edge Free Players for PC & Mac OS for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-linuxs-power-to-boost-android-on-windows/"><u>Leveraging Linux's Power to Boost Android on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/must-remember-tips-for-clean-installation-of-windows/"><u>Must-Remember Tips for Clean Installation of Windows</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/overcoming-application-launch-failures-understanding-game-and-app-errors-insights-by-yl-computing/"><u>Overcoming Application Launch Failures: Understanding Game and App Errors - Insights by YL Computing</u></a></li>
+<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-file-write-error-in-windows-11-os/"><u>Resolving File Write Error in Windows 11 OS</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-core-of-gpt4alls-operation/"><u>Unveiling the Core of GPT4All's Operation</u></a></li>
+</ul></div>
 

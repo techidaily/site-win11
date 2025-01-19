@@ -1,7 +1,7 @@
 ---
 title: Elevating System Speed Through Virtual Memory Management
-date: 2024-08-16T00:46:13.128Z
-updated: 2024-08-17T00:46:13.128Z
+date: 2025-01-12T19:08:58.144Z
+updated: 2025-01-19T12:46:35.014Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  If that sounds like your Windows 11 installation, it's time to check out your virtual memory settings to make sure your system can cope with demand. So, here's how you change the virtual memory size on Windows 11, along with a few tips on boosting your system performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Virtual Memory?
 
  We've[previously explained virtual memory](https://www.makeuseof.com/tag/virtual-memory-low-heres-fix/) in more detail, but here is an outline to bring you up to speed.
@@ -34,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 [When your RAM runs low](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) , your system will call upon the paging file to handle some of the extra data. However, as your hard drive or even solid-state drive is much slower than your RAM, system performance will take a hit.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Windows 11 Is Running Low on Virtual Memory
 
  Now, the thing is, virtual memory has its own limits. It isn't an infinite well of additional yet slower memory you can call upon. If you begin to run out of virtual memory, Windows 11 will display the following error message:
@@ -54,14 +55,15 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Furthermore, remember that these values take up space on your hard drive, as Windows allocates the overall paging file space in case it needs it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Increase Virtual Memory Size on Windows 11
 
  If you want to go ahead and manually alter the paging file size on Windows 11 to remove the virtual memory low message, here's how you go about it.
 
 ![windows 11 advanced system settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/windows-11-advanced-system-settings-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 1. Press**Windows key + I** to open the**Settings** app.
 2. Head to**System > About** .
@@ -71,27 +73,23 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 6. If you want to set custom virtual memory settings, you'll have to uncheck the box to**Automatically manage paging file size for all drives** . Once you clear the check box, the Virtual Memory options below will become accessible. Select**Custom Size,** then input your desired virtual memory size and select**OK** .
 
 ![windows 11 system properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-system-properties.png)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![windows 11 performance options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-performance-options.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![windows 11 virtual memory options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-virtual-memory-options.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Keep in mind the virtual memory management tips in the previous section. It might seem like drastically increasing your paging file is a great idea, but it's almost guaranteed to cause system instability when you least expect it.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Install More RAM to Boost Your System Performance
 
  Increasing your virtual memory size is a temporary fix and isn't one you should rely on long-term. The only way to truly fix your low virtual memory issue[is to install more RAM](https://www.makeuseof.com/how-to-install-ram/) . The reason your system is turning to the paging file to begin with is that additional data is being palmed off.
@@ -100,18 +98,19 @@ Close
 
  You can[attempt to free up more RAM](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/) , but ultimately, you're probably going to need a new laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Increasing the Windows 11 Paging File Size Is a Temporary Fix
 
  Boosting the paging file size on Windows 11 or any operating system is a temporary fix. If you're butting up against your memory limit frequently and your computer begins to slow to a crawl, there is only one true fix.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -120,4 +119,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-crafting-compelling-footage-on-your-gopro/"><u>[New] Crafting Compelling Footage on Your GoPro</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unleash-creativity-free-premiere-pro-2023-templates/"><u>[Updated] Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-add-your-emulated-games-into-playnite-on-windows/"><u>How to Add Your Emulated Games Into Playnite on Windows</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210184240-9781735758213-light-in-my-darkness/"><u>Light in my darkness | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ring-youtubes-aesthetics-enhancing-your-videos-for-2024/"><u>Mastering YouTube's Aesthetics Enhancing Your Videos for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimizing-your-computer-dealing-with-low-system-resources-problems-successfully/"><u>Optimizing Your Computer: Dealing with Low System Resources Problems Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-updeactivating-wi-fi-data-tracking-on-windows-11/"><u>Setting Up/Deactivating Wi-Fi Data Tracking on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-easy-guide-to-opening-iis-explorer/"><u>The Easy Guide to Opening IIS Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-troubleshooting-freezing-spotify-app-on-windows-11/"><u>Tips for Troubleshooting Freezing Spotify App on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/troubleshooting-pc-issues-for-sons-of-the-forest-expert-tips-and-tricks/"><u>Troubleshooting PC Issues for 'Sons of the Forest': Expert Tips and Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unveiling-the-oculum-q2-top-tier-easy-to-use-virtual-world-for-great-value/"><u>Unveiling the Oculum Q2: Top-Tier, Easy to Use Virtual World for Great Value</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-audio-configuration-for-spatiality/"><u>Windows 11 Audio Configuration for Spatiality</u></a></li>
+</ul></div>
 

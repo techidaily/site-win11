@@ -1,7 +1,7 @@
 ---
 title: Deciphering Dumps on Windows to Solve Issues
-date: 2024-08-16T00:43:11.486Z
-updated: 2024-08-17T00:43:11.486Z
+date: 2025-01-15T09:24:51.489Z
+updated: 2025-01-19T02:44:55.763Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are BSoD Memory Dumps?
 
 ![Blue Screen of Death on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bsod.jpg)
@@ -38,22 +42,12 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  Lastly, by letting you know what the root cause of the BSoD error is, BSoD memory dumps allow you to take the necessary precautions and make the required changes to prevent BSoD errors from happening again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The Different Types of BSoD Memory Dumps
 
 ![Types of Kernel-Mode Memory Dumps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/types-of-memory-dumps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  There are several kinds of BSoD memory dumps, depending on what version of Microsoft Windows you're running:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Complete Memory Dump
 
  The largest of the kernel-mode dump files, Complete Memory Dumps contains all the physical memory used by Windows.
@@ -66,6 +60,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  One disadvantage of Complete Memory Dumps is that all subsequent Complete Memory Dumps will overwrite the previous ones. This feature was most likely implemented to help prevent filling your computer's memory with too many dump files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Kernel Memory Dump
 
  Unlike Complete Memory Dumps, Kernel Memory Dumps contain all the memory used by the kernel during the time of the crash. Like with the previous type of memory dump, the file size is directly correlated with the system's physical memory. However, it's usually just one-third of the size.
@@ -77,6 +75,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 `%SystemRoot%\Memory.dmp`
 
  Like with the previous dump file, whenever new Kernel Memory Dumps are generated, the previous ones will be overwritten.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Automatic Memory Dump
 
@@ -114,9 +116,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 `%SystemRoot%\Memory.dmp`
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Choosing the Right Memory Dump for You
 
 ![Lightbulb Idea Making a Choice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/making-a-choice.jpg)
@@ -137,37 +136,41 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Active Memory Dump files are only available on Windows 10 and later, while Automatic Memory Dump files are available on Windows 8 and later.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Tools for Reading and Analyzing BSoD Memory Dumps
 
  Kernel-mode dump files exist so that users may analyze them and find out the root cause of occurring BSoD errors. Fortunately enough, there are several tools that can help with analyzing BSoD Memory Dumps:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### WinDbg
 
 ![WinDbg Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windbg-interface.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  WinDbg is a debugging tool developed by Microsoft and designed for the Microsoft Windows operating system. Admittedly, [WinDbg can help troubleshoot many Windows issues](https://www.makeuseof.com/troubleshoot-common-windows-10-issues-windbg/), but most users will generally analyze memory dump files with it.
 
  While it can seem overwhelming at first, with a bit of time and patience, you too can [get started with WinDbg](http://www.makeuseof.com/windbg-windows-10-guide/) and use it to solve most of your computer's issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### BlueScreenView
 
 ![BlueScreenView Main Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/bluescreenview-interface.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both [WinDbg and BlueScreenView can help solve BSoD errors](https://www.makeuseof.com/tag/solve-blue-screen-errors/), however, BlueScreenView is much more suitable for users who are newer to kernel debugging.
 
  While it doesn't provide users with as much in-depth information as WinDbg, it does present the information in a much more simplistic and efficient manner.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### WhoCrashed
 
@@ -179,9 +182,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Lastly, [analyzing BSoD errors with WhoCrashed](https://www.makeuseof.com/tag/whocrashed-sheds-some-light-on-bsod-errors-windows/) is extremely easy due to how the final analysis results are presented. In fact, in some cases WhoCrashed may even give you suggestions as to what course of action you should take.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## BSoD Memory Dumps Are Great at Helping You Solve BSoD Errors
 
  In conclusion, BSoD dump files are crucial for diagnosing, troubleshooting, and preventing system crashes.
@@ -192,11 +192,30 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  One way to narrow down the list of reasons is via BSoD memory dumps (also known as kernel-mode dump files).
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-clearing-process-for-youtubes-pending-video-list/"><u>[New] In 2024, Clearing Process for YouTube's Pending Video List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-captivating-clips-incorporating-text-deformation-artistry/"><u>[Updated] Captivating Clips Incorporating Text Deformation Artistry</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-harnessing-the-power-of-instagrams-video-connectivity/"><u>[Updated] In 2024, Harnessing the Power of Instagram's Video Connectivity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-sons-of-midgard-unite-epic-release/"><u>2024 Approved Sons of Midgard Unite! Epic Release</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unrequested-file-explorer-startups/"><u>Addressing Unrequested File Explorer Startups</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-internet-connections-a-guide-for-steam-on-windows/"><u>Fixing Internet Connections: A Guide for Steam on Windows</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hearken-hearth-tracing-viking-speech-patterns/"><u>Hearken, Hearth: Tracing Viking Speech Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-files-vanish-permanently-in-your-desktop-trash-bin-windows-11/"><u>How to Make Files Vanish Permanently in Your Desktop Trash Bin (Windows 11)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-vs-dailymention-spotlighting-key-aspects/"><u>In 2024, YouTube Vs. DailyMention Spotlighting Key Aspects</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-os-alerts-utilizing-command-prompt-to-identify-and-resolve-windows-issues/"><u>Interpreting OS Alerts: Utilizing Command Prompt to Identify and Resolve Windows Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-frame-by-frame-flow-essential-tactics-to-combat-video-lag-windows/"><u>Mastering Frame-by-Frame Flow: Essential Tactics to Combat Video Lag Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/skeptical-or-enthusiastic-magix-music-maker-2024-reviewed/"><u>Skeptical or Enthusiastic? Magix Music Maker 2024 Reviewed</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/solving-graphics-card-errors-expert-strategies-by-yl-software-experts/"><u>Solving Graphics Card Errors: Expert Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-save-and-retain-user-defined-volume-on-windows/"><u>Steps to Save & Retain User-Defined Volume on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-preserving-quality-while-transforming-m2ts-videos-into-mp4-format-for-free/"><u>Ultimate Guide: Preserving Quality While Transforming M2TS Videos Into MP4 Format for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-gaming-upgrade-guide-top-tips-for-a-seamless-experience/"><u>Win 11 Gaming Upgrade Guide: Top Tips for a Seamless Experience</u></a></li>
+</ul></div>
+

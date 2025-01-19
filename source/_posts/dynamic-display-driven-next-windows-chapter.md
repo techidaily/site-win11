@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Display Driven: Next Windows Chapter"
-date: 2025-01-14T21:50:11.052Z
-updated: 2025-01-18T19:08:33.377Z
+date: 2025-01-17T11:50:41.270Z
+updated: 2025-01-19T10:33:10.130Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Deeper Integration With Android Phones
@@ -33,15 +33,15 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 ![The app store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-android-release-date-featured.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: Koshiro K/[Shutterstock.com](https://www.shutterstock.com/image-photo/kumamoto-japan-oct-3-2021-new-2051415032)
 
  For example, being able to view the phone's notifications, battery level, and other critical information from within the Windows taskbar. A deeper integration would essentially eliminate the need to use the app every time you want to interact with your phone. The idea is to make the Windows-Android integration the same as the Mac-iPhone integration.
 
  It would also be great to see the phone's storage put in the File Explorer too. You should be able to add, edit, and delete files on the phone storage like you would on a cloud-based platform like OneDrive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. A Dedicated Touch UI for Touch Devices
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 ![Windows 8.1 Start Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/windows-8.1-start-screen-application-tiles.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The chances of Microsoft radically changing the design are slim. However, the Windows 12 UI might have a few major design changes as revealed in the Microsoft Ignite Keynote. Here's a tweet showing a preview of the possible design changes:
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  Microsoft could even apply the same principle to apps. Depending on the hardware, users should be able to scale between full support for all apps and being able to run just a handful of essential apps. While this might sound a little far-fetched in the context of Windows, Chrome OS has already proved that a feature-light and web-based operating system can be an excellent choice for low-end PCs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Animated Wallpapers
 
  Animated wallpapers have been long overdue given that smartphones have already offered them for a while. You can[set animated wallpapers on Windows](https://www.makeuseof.com/tag/set-live-wallpapers-animated-desktop-backgrounds-windows/) , but you need a third-party app. Having animated wallpapers built into Windows 12 would be a welcome feature.
@@ -78,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
  Microsoft could also animate some of its most popular wallpapers, including the default Windows XP wallpaper. To take things up a notch, Microsoft could place additional information on the wallpapers. For example, the weather information could be placed in the sun appearing in an animated wallpaper of a landscape, eliminating the need for[adding widgets to the Windows desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Else Do We Expect from Windows 12?
@@ -92,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
  It's important to remember that you can't start using Windows 12 as soon as it releases. So even if Microsoft unveils Windows 12 by the end of 2024, it will take a few more months until you can actually start using Windows 12.
 
  Windows 12 will likely be available as a free upgrade once it releases, just like Windows 11, as long as you meet the minimum system requirements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Will Windows 12 Meet Our Expectations?
 
@@ -114,20 +114,20 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-learn-the-process-of-capturing-your-watched-youtube-content-without-spending/"><u>[New] Learn the Process of Capturing Your Watched YouTube Content Without Spending</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-perfecting-zooms-visual-impact-smart-filters-use-for-2024/"><u>[New] Perfecting Zoom's Visual Impact Smart Filters Use for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-strategies-for-structuring-an-efficient-collaborative-office-environment/"><u>[Updated] 2024 Approved Strategies for Structuring an Efficient, Collaborative Office Environment</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>2024 Approved How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-web-comedy-architect/"><u>2024 Approved Web Comedy Architect</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-insufficient-installation-authorization-errors/"><u>Addressing Insufficient Installation Authorization Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/counteracting-console-collapse-avoiding-sudden-df-closures/"><u>Counteracting Console Collapse: Avoiding Sudden DF Closures</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-15-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 15 Plus Safe and Legal</u></a></li>
-<li><a href="https://win11.techidaily.com/five-keys-to-a-streamlined-firewall-configuration/"><u>Five Keys to a Streamlined Firewall Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-and-fixing-startup-item-disappearance/"><u>Identifying & Fixing Startup Item Disappearance</u></a></li>
-<li><a href="https://win11.techidaily.com/ignoring-the-windows-lsa-protection-deactivation/"><u>Ignoring the Windows LSA Protection Deactivation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/lens-based-enlightenment-guide-to-editing-brilliance-for-2024/"><u>Lens-Based Enlightenment Guide to Editing Brilliance for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-full-screen-glitches-in-sonic-frontiers-windows-11/"><u>Solving Full-Screen Glitches in Sonic Frontiers (Windows 11)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/videovisionary-toolkit-for-2024/"><u>VideoVisionary Toolkit for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-in-store-for-windows-11-with-update-22h2/"><u>What's in Store for Windows 11 with Update #22H2?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/save-our-mushrooms-detailed-review-and-nostalgic-reflection-on-classic-super-mario-bros-handheld-adventure/"><u>'Save Our Mushrooms': Detailed Review and Nostalgic Reflection on Classic 'Super Mario Bros.' Handheld Adventure.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-easy-steps-to-capturing-films-on-various-operating-systems/"><u>[Updated] Easy Steps to Capturing Films on Various Operating Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-creating-compelling-sports-content-from-the-ground-up/"><u>[Updated] In 2024, Creating Compelling Sports Content From the Ground Up</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/android-tips-flipping-video-images/"><u>Android Tips Flipping Video Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-missing-xinput1n3dll-files-in-gaming-controllers/"><u>Diagnosing and Repairing Missing xinput1_n_3.dll Files in Gaming Controllers</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/exploring-the-aftermath-how-constructing-the-three-gorges-dam-in-93-transformed-china-insights-from-yl-computings-tech-experts/"><u>Exploring the Aftermath: How Constructing the Three Gorges Dam in '93 Transformed China, Insights From YL Computing's Tech Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-variances-a-comparison-between-microsoft-and-standard-windows-accounts/"><u>Exploring Variances: A Comparison Between Microsoft and Standard Windows Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/flattening-windows-11-corner-style/"><u>Flattening Windows 11 Corner Style</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-datetime-integrity/"><u>Guidelines for Upholding Windows Date/Time Integrity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-15-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 15 Pro Max and iPad</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-game-record-on-windows-10-top-5-tips/"><u>Mastering Game Record on Windows 10 Top 5 Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mirrored-moments-with-iphone-photography-expertise/"><u>Mirrored Moments with iPhone Photography Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/preserving-customization-transferring-powertoys-to-a-new-machine/"><u>Preserving Customization: Transferring PowerToys to a New Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-classic-directx-games-with-dxvk-upgrades/"><u>Refreshing Classic DirectX Games with DXVK Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winupdate-error-x8019/"><u>Troubleshooting WinUpdate Error X8019</u></a></li>
 </ul></div>
 

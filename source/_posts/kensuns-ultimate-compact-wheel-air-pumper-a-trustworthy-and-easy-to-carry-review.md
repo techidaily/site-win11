@@ -1,7 +1,7 @@
 ---
 title: Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
-date: 2025-01-12T20:29:40.160Z
-updated: 2025-01-18T23:30:30.287Z
+date: 2025-01-15T07:30:59.486Z
+updated: 2025-01-18T16:08:22.338Z
 categories:
   - BestProducts
 description: This Article Describes Kensun's Ultimate Compact Wheel Air Pumper - A Trustworthy & Easy-to-Carry Review
@@ -19,7 +19,7 @@ thumbnail: https://www.lifewire.com/thmb/I3Lw1-ZvxZTUUfmJAFzoHuPKj_k=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Anker PowerCore+ 26800 Battery Pack
@@ -45,10 +45,6 @@ Lifewire / Gannon Burgett
 [View On Amazon $100](https://www.amazon.com/dp/B07XRJZXKY?tag=lifewire-onsite-prod-20&ascsubtag=4589459%7Cne013ed3beb0f470caee172c55826658d22%7CB07XRJZXKY)
 
 4.8
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Anker PowerCore+ 26800 Battery Pack
 
@@ -76,10 +72,6 @@ Lifewire / Gannon Burgett
 
  Anker has made a name for itself as one of the most reliable gadgets and accessories manufacturers in the game. Despite their reasonable prices, the quality continues to impress and its Anker PowerCore+ 26800 PD with 30W Power Delivery Charger is no exception. We've spent some time with this laptop battery charger and put it to the test to see just how well Anker's compact battery pack holds up against a variety of gadgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: Plush and light for travelers**
 
  If you've owned any Anker products, you'll immediately recognize the PowerCore+ 26800\. It features a minimal rectangular design made of extruded aluminum with rounded edges for a very smooth look and feel. It weighs roughly 1.3 pounds, which gives it a premium feel without feeling too heavy.
@@ -89,6 +81,10 @@ Lifewire / Gannon Burgett
  Lifewire / Gannon Burgett
 
  The PowerCore+ 26800 features a single button on the top of the device to show remaining battery life and three ports on one of the two flat sides: two 5V/3A PowerIQ USB ports (Power IQ is Anker's proprietary smart-charging standard) and a power delivery[USB Type-C](https://www.lifewire.com/usb-c-4149490) port. It's a no-frills design that gets to the point without any unnecessary details or frills and it looks great when paired with any clean, modern device if you care about form as much as function.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Setup Process: Simple to start, but there’s yet another adapter to carry around**
 
@@ -101,10 +97,6 @@ Lifewire / Gannon Burgett
  Our device came approximately 50% charged based on the battery life indicator lights on the top. We immediately burned through what battery life it had so we could start fresh with testing to see how quickly the 30W wall charger could fill the 26800mAh capacity.
 
  It's a no-frills design that looks great when paired with any clean, modern device if you care about form as much as function.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: Slow and steady wins this race**
 
@@ -119,12 +111,16 @@ Lifewire / Gannon Burgett
 ![Anker](https://www.lifewire.com/thmb/tJwshohQXfV-U0_iKVTCkHEhFLU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4050506-3-_6Web-5c90fcc6c9e77c0001a92733.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Gannon Burgett
 
  We tested the PowerCore+ 26800 on our 2016 MacBook Pro 15-inch four different times to get a solid average. With the laptop completely dead, the battery pack managed to charge it to 100% in just three and a half hours with a little battery life to spare.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Perfectly priced for its power**
 
@@ -143,6 +139,10 @@ Lifewire / Gannon Burgett
 **The perfect little power pack.**
 
  Yes, it's a little more expensive than its RAVPower contemporary, but considering the included accessories and more thoughtful design, it makes it worth it to spring the extra cash, especially when you take into account the 18-month warranty Anker offers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -180,18 +180,22 @@ Lifewire / Gannon Burgett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-pick-for-retro-gaming-top-5-android-tools-for-ps2-titles/"><u>[New] Essential Pick for Retro Gaming Top 5 Android Tools for PS2 Titles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>[Updated] The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-a-beginners-guide-to-adding-depth-with-text-in-photoshop/"><u>2024 Approved A Beginner's Guide to Adding Depth with Text in Photoshop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-optimal-6-solutions-for-video-captioning/"><u>2024 Approved Optimal 6 Solutions for Video Captioning</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/guide-to-effective-nvidia-video-capture/"><u>Guide to Effective NVIDIA Video Capture</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-remediation-for-a-frozen-epic-games-launcher/"><u>Immediate Remediation for a Frozen Epic Games Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/precise-clipping-pains-solutions-for-immediate-relief/"><u>Precise Clipping Pains? Solutions for Immediate Relief</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/professional-macx-the-ultimate-mac-compatible-tool-for-seamless-hd-video-format-transformation-including-mkv-to-mp4aviwmv-conversions-ideal-for-ios-and-andr10/"><u>Professional MacX: The Ultimate Mac-Compatible Tool for Seamless HD Video Format Transformation, Including MKV to MP4/AVI/WMV Conversions - Ideal for iOS and Android Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/stealth-techniques-keeping-taskview-hidden-in-win-11/"><u>Stealth Techniques: Keeping TaskView Hidden in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-resolve-error-unable-to-locate-windows-lsass/"><u>Tips to Resolve Error: Unable to Locate Windows Lsass</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-missing-sound-driver-in-win/"><u>Troubleshooting Missing Sound Driver in Win</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-savings-on-climate-monitoring-a-detailed-review-of-the-ambient-ws-2902a-osprey-model/"><u>Unlocking Savings on Climate Monitoring: A Detailed Review of the Ambient WS-2902A Osprey Model</u></a></li>
-<li><a href="https://win11.techidaily.com/win10w11-avoiding-the-soon-to-expire-license-warnings/"><u>Win10/W11: Avoiding the “Soon to Expire License” Warnings</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elevating-your-photography-hdr-strategies-for-ps/"><u>[New] 2024 Approved Elevating Your Photography HDR Strategies for PS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instaboomers-hook-your-audience-with-circular-content/"><u>[New] 2024 Approved InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>[New] In 2024, Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-boost-creativity-on-tiktok-top-10-free-edits-for-mac-users-for-2024/"><u>[Updated] Boost Creativity on TikTok - Top 10 Free Edits for Mac Users for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-installs-time-mastering-grouped-deployments-with-winstall-on-windows-11/"><u>Cutting Down Installs Time: Mastering Grouped Deployments with Winstall on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/generating-podcast-identity-the-top-ai-naming-software/"><u>Generating Podcast Identity The Top AI Naming Software</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/identifying-graphics-card-issues-a-comprehensive-guide-by-yl-software-experts/"><u>Identifying Graphics Card Issues: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-getting-the-most-out-of-google-meet-for-free/"><u>In 2024, Getting the Most Out of Google Meet (For Free)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-meteorological-measurements-on-windows-11-pcs/"><u>Mastering Meteorological Measurements on Windows 11 PCs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-fix-a-guide-to-clearing-up-unauthorized-access-error-codes/"><u>Mastering the Fix: A Guide to Clearing Up 'Unauthorized Access' Error Codes</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-steam-e84-glitches-on-windows-systems/"><u>Overcoming Steam E84 Glitches on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-setup-for-windows-11-install-craft-usb-in-just-three-ways/"><u>Rapid Setup for Windows 11 Install: Craft USB in Just Three Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-11-arm-installation-via-iso-download/"><u>Seamless Windows 11 ARM Installation via ISO Download</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-app-locations-in-windows-task-management/"><u>Secure App Locations in Windows Task Management</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-notepad-to-dark-mode-on-windows-11plus/"><u>Switching Notepad to Dark Mode on Windows 11+</u></a></li>
+<li><a href="https://win11.techidaily.com/system-fixes-for-error-0x800700e1-in-windows-11/"><u>System Fixes for Error 0X800700E1 in Windows 11</u></a></li>
 </ul></div>
 

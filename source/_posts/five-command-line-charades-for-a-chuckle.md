@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2025-01-17T23:43:35.378Z
-updated: 2025-01-18T19:44:47.900Z
+date: 2025-01-12T08:34:14.282Z
+updated: 2025-01-19T10:26:05.158Z
 tags:
   - windows10
   - windows11
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 ![screenshot of cmd properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_properties_window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Font**, **Layout** and **Colors** have more immediate options, such as changing text size and colors. Head into **Terminal** to alter some elements of the text cursor.
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Watch Star Wars on Command Prompt
 
@@ -64,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
@@ -80,19 +76,23 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
  With the command **title**, followed by a word or phrase, you can change the window header for the Command Prompt.
 
  It's relatively useless outside organizing multiple Command Prompts, but it's a fun detail to keep in mind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Trace Where Your Data Goes
 
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fun With Command Prompt
@@ -136,22 +136,18 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-execution-the-fonts-of-after-effects/"><u>[New] 2024 Approved Elevating Execution The Fonts of After Effects</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-video-upload-your-guide-to-igtv/"><u>[New] In 2024, Mastering Video Upload Your Guide to IGTV</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-seamless-transitions-for-youtube-videos-in-adobe-premiere/"><u>[Updated] In 2024, Seamless Transitions for YouTube Videos in Adobe Premiere</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-techniques-for-in-meet-zooming-excellence-google-meet-for-2024/"><u>[Updated] Techniques for In-Meet Zooming Excellence (Google Meet) for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-the-impact-do-widgets-streamline-win-11s-usage/"><u>Assessing the Impact: Do Widgets Streamline Win 11'S Usage?</u></a></li>
-<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
-<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-10-top-motivational-gems/"><u>In 2024, Unleash Potential 10 Top Motivational Gems</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-group-policy-changes-on-a-windows-system/"><u>Navigating Group Policy Changes on a Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/power-tools-for-pc-mastery-command-prompt-edition-of-win-registry-edits/"><u>Power Tools for PC Mastery: Command Prompt Edition of Win Registry Edits</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-free-ticking-counters/"><u>Premium Free Ticking Counters</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-on-liberating-your-ebooks-unlock-drm-protection-from-epub-pdf-and-azw-files/"><u>Step-by-Step Tutorial on Liberating Your eBooks: Unlock DRM Protection From ePUB, PDF, and AZW Files</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-blue-screen-bsos-quick-fix-strategies-for-win11/"><u>Stop Blue Screen BSOS: Quick Fix Strategies for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-top-7-no-cost-player-titles-for-pcs-and-viewing/"><u>The Top 7 No-Cost Player Titles for PCs & Viewing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-tech-reviews-with-a-focus-on-alternatives/"><u>Top Tech Reviews with a Focus on Alternatives</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-quirky-quotes-iphone-laughs-galore/"><u>[New] Quirky Quotes IPhone Laughs Galore</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[Updated] Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-free-guide-to-windows-desktop-captures-and-recordings/"><u>[Updated] In 2024, Free Guide to Windows Desktop Captures & Recordings</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-the-art-of-disconnecting-from-your-old-linkedin-account/"><u>[Updated] Mastering the Art of Disconnecting From Your Old LinkedIn Account</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-amplify-your-photography-with-these-top-notch-pixlr-tricks/"><u>2024 Approved Amplify Your Photography with These Top-Notch Pixlr Tricks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-cutting-the-cord-on-costs-select-best-free-yt-title-makers/"><u>2024 Approved Cutting the Cord on Costs - Select Best-Free YT Title Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-microsoft-edges-heavy-background-tasks/"><u>Curbing Microsoft Edge's Heavy Background Tasks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-realme-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Realme 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-for-activating-windows-recovery-software/"><u>Key Steps for Activating Windows Recovery Software</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-fixing-audacitys-failed-sound-device-openings-on-win-os/"><u>Methods for Fixing Audacity's Failed Sound Device Openings on Win OS</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-error-code-0xc00ce556/"><u>Navigating Windows Error Code: 0XC00CE556</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/resolving-your-pcs-sluggish-performance-tips-and-tricks-for-accelerating-a-slower-cpu-insights-from-yl-computing/"><u>Resolving Your PC's Sluggish Performance: Tips and Tricks for Accelerating a Slower CPU - Insights From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-route-from-gaming-archives-to-windows-memories/"><u>The Essential Route From Gaming Archives to Windows Memories</u></a></li>
 </ul></div>
 

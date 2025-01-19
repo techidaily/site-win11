@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Workspace with These Easy Themes Changes on Win11
-date: 2024-08-16T00:44:57.545Z
-updated: 2024-08-17T00:44:57.545Z
+date: 2025-01-14T03:06:02.544Z
+updated: 2025-01-19T05:26:32.806Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
  Windows has inbuilt support for themes in customization settings. While Microsoft doesn’t officially make any new themes as it did before, plenty of options are available on Microsoft Store. If you aren’t satisfied with them, you can also try third-party themes.
 
  Microsoft moved many Control Panel options to the Settings app. So, you need to head over to the Personalization options in the Settings app to apply a new theme. But, do you know that you can do it using multiple other methods? Here’s how:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Using the Desktop Context Menu
 
@@ -39,15 +43,8 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 2. Click on the**Personalization** option in the left-hand side menu.
 3. Scroll down and select the**Themes** option.  
 ![Changing Theme Using the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-the-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 4. Now, click on any theme from the section of available themes. You can also apply a high-contrast theme by selecting the Contrast Theme option below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 3\. Using the Old Control Panel Personalization Utility
 
  The older version of Windows OS had a control panel personalization utility, using which you could change the themes, color schemes, and wallpapers. Microsoft hid this option in Windows 11, but you can still access it using the run command box. Here’s how:
@@ -68,8 +65,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click on any of the available themes to apply and change the current theme.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Using File Explorer
 
  All the installed themes on your Windows 11 system reside in the Windows AppData folder. You can access the folder using File Explorer and then apply any theme on your system. Here’s how:
@@ -78,14 +76,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Go to the address bar, paste the following path, and press the enter key:**%LocalAppData%\\Microsoft\\Windows\\Themes**
 3. You will see a bunch of themes listed here. Double-click on any ".theme" file to apply it to your system.  
 ![Changing Theme Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 4. There will be a bunch of folders as well. These usually belong to the downloaded themes. Open the folder, and locate the theme file to apply a downloaded theme.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Using CMD
 
  You can change the theme in Windows 11 using the command prompt. All you need to do is enter the location of the theme and run it. Repeat the following steps:
@@ -94,14 +86,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. The Terminal app will launch. Click on the**+** icon to open a command prompt window with admin privileges.
 3. Now, type**C:\\Windows\\resources\\Themes\\aero.theme** command and press the enter key.  
 ![Changing Theme Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-cmd.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Your Windows 11 system will change to the inbuilt aero theme. Similarly, you can replace the name of any other inbuilt theme and apply it.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Using a Shortcut
 
  You can apply your favorite theme by creating a shortcut on the desktop. That way, you won’t have to launch the File Explorer or Settings app to change the theme. Here’s how to do it:
@@ -115,6 +101,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 6. Press**Win + D** to switch to the Desktop. Make sure to close the Settings app before running the shortcut.
 7. Double-click on the newly created theme shortcut to apply the theme to your computer
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Using PowerShell
 
  Like CMD, you can access the theme files from PowerShell and change the theme. Repeat the following steps:
@@ -127,8 +117,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 5. Type**exit** and press enter to close the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9\. Using a Batch File
 
  You can create a batch file and run it every time someone changes your preferred theme. Moreover, you can place it on the desktop to quickly switch to a theme. Here’s how to do it:
@@ -141,6 +136,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Go to the top menu bar and click on**File > Save as** option. Keep the filename as**changetheme.bat** , select the**All files** option, and save it on the desktop.  
 ![Changing Theme Using a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/changing-theme-using-a-batch-file.jpg)
 4. Close the Notepad app and Press Win + D to switch to the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Now, right-click on the changetheme.bat file and select the**Run as administrator** option.
 6. The file will open a command prompt window, change the theme and close the CMD and System Settings window automatically.
 
@@ -148,14 +148,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Windows 11 stores themes in multiple locations. The simplest way to change the theme is by using the Settings app. But if you want to keep the mouse clicks to a minimum, creating the shortcut of a theme file or running a batch script is better. If you aren’t afraid of the Terminal, the command prompt and PowerShell methods also work like a charm.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +161,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-navigating-noise-free-networks-secrets-for-silencing-disruptions-on-gomeet/"><u>[New] In 2024, Navigating Noise-Free Networks Secrets for Silencing Disruptions on GoMeet</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-free-video-trimming-tutorial-with-vimeo-features/"><u>[Updated] In 2024, Free Video Trimming Tutorial with Vimeo Features</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scaling-youtube-earnings-device-independent-studio-tactics/"><u>[Updated] Scaling YouTube Earnings Device-Independent Studio Tactics</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1187-solved/"><u>0X00000019 Bad Pool Header in Windows 11/8/7 [SOLVED]</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-no-sound-on-connected-devices-windows-edition/"><u>Clearing Up No Sound on Connected Devices, Windows Edition</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversion-sin-coste-de-imagenes-cr2-a-jpg-online-con-esizer/"><u>Conversión Sin Coste De Imágenes CR2 a JPG Online Con eSizer</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-synchronization-for-ios-and-windows-calendars/"><u>Cross-Platform Synchronization for iOS & Windows Calendars</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-windows-credentials-a-fix-guide/"><u>Decoding Windows Credentials: A Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-brightness-function-key-not-working-in-windows-11/"><u>How to Fix the Brightness Function Key Not Working in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-power-plans-to-default-in-windows/"><u>How to Reset Power Plans to Default in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-unboxing-magic-7-ways/"><u>In 2024, Transforming Unboxing Magic 7 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-exit-command-secreting-windows-11-power-off/"><u>Invisible Exit Command: Secreting Windows 11 Power Off</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-xpatch-issues-error-0x80073712/"><u>Navigating Through XPatch Issues: Error 0X80073712</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-manage-local-drive-space-in-win11-without-loss-of-files-max-156-chars/"><u>Securely Manage Local Drive Space in Win11 Without Loss of Files (Max 156 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-out-windows-11-drag-and-drop-issues/"><u>Smooth Out Windows 11 Drag-and-Drop Issues</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-advertising-earning-navigating-vimeos-revenue-landscape/"><u>The Art of Advertising Earning Navigating Vimeo's Revenue Landscape</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-github-desktop-efficiently-on-windows-11-pro/"><u>Utilizing GitHub Desktop Efficiently on Windows 11 Pro</u></a></li>
+</ul></div>
 

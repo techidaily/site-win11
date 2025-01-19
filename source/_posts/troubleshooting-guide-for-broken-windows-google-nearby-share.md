@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Broken Windows Google Nearby Share
-date: 2024-08-16T00:47:22.182Z
-updated: 2024-08-17T00:47:22.182Z
+date: 2025-01-18T06:02:02.215Z
+updated: 2025-01-19T06:35:38.548Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  If the Nearby Share app is not working even though your PC meets the minimum hardware requirements, continue with the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Restart the Nearby Share App
 
  Nearby Share, like any other app, may have problems from time to time. In most cases, you can fix minor issues or glitches by simply restarting the app on your computer.
@@ -36,15 +40,12 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 ![Close Nearby Share App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/close-nearby-share-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Reopen the app after this, and see if you can send and receive files as before.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Make Sure Bluetooth and Wi-Fi Are Turned On
 
  The Nearby Share app for Windows relies on Bluetooth and Wi-Fi to transfer files between your devices. If you have accidentally turned off either of these functionalities, your transfers will fail.
@@ -52,13 +53,15 @@ No advertising on the website.
  You can quickly enable Bluetooth and Wi-Fi on your PC [using the Quick Settings panel on Windows](https://www.makeuseof.com/use-quick-settings-on-windows-11/). Additionally, you should connect both your Windows PC and Android phone to the same Wi-Fi network to improve the sharing experience.
 
 ![Quick Settings Panel in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/quick-settings-panel-in-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Bring Both Devices Closer
 
  Another thing you should ensure is that your Android phone is within **16 feet (5 meters)** of your Windows computer. The proximity of your devices directly impacts the quality of the connection. So, if you are experiencing slow transfer speeds or failed transfers, consider bringing the devices closer and try again.
@@ -72,8 +75,9 @@ No advertising on the website.
 ![Visibility Setting in Nearby Share App for Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/visibility-setting-in-nearby-share-app-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Change the Default Save Location
 
  If you can send files to an Android device but are unable to receive files from it, you can try changing the default save location for received files in the Nearby Share app for Windows.
@@ -88,9 +92,6 @@ No advertising on the website.
 
  After completing the above steps, try to receive files from an Android device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Enable Notifications for the App
 
  Nearby Share for Windows may not alert you about file transfer requests if you have previously [turned off Windows app notifications](https://www.makeuseof.com/tag/selectively-disable-app-notifications-windows-10/). Follow these steps to change that:
@@ -99,15 +100,9 @@ No advertising on the website.
 2. Navigate to **System > Notifications**.
 3. Under **Notifications from apps and other senders**, locate the **Nearby Share from Google** and turn on the toggle next to it.  
 ![Enable Notifications for Google Nearby Share on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-notifications-for-google-nearby-share-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Additionally, you should also ensure that the Do Not Disturb mode is turned off on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Repair the Nearby Share App
 
  Your Windows PC has a built-in feature that can help repair broken apps and programs. While the feature does not guarantee to fix every problem, it is still worth trying.
@@ -126,8 +121,9 @@ No advertising on the website.
  Restart the Nearby Share app after this and see if it works as expected.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reinstall the Nearby Share App
 
  If the issue remains even after you repair the Nearby Share app, you can try reinstalling it on your PC. Here's how you can go about it:
@@ -150,11 +146,31 @@ No advertising on the website.
 
  If Google’s Nearby Share is not working on your Windows PC, here's how you can fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-essential-watchlist-15-must-see-stop-motion-classics/"><u>[New] Essential Watchlist 15 Must-See Stop-Motion Classics</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/ace-your-online-presence-youtubes-studio-command-center-for-2024/"><u>Ace Your Online Presence YouTube's Studio Command Center for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-up-to-date-netgear-a61ebox-wireless-adapter-windows-drivers/"><u>Getting Up-to-Date: Netgear A61ebox Wireless Adapter Windows Drivers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-vanishing-mouse-pointer-in-windows-10/"><u>How to Fix the Vanishing Mouse Pointer in Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-access-to-10-superior-lut-resources/"><u>In 2024, Free Access to 10 Superior LUT Resources</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-filmora-on-a-budget-how-to-get-it-for-free-seriously/"><u>New Filmora on a Budget How to Get It for Free (Seriously!)</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-icon-placement-strategies/"><u>Perfect Window's Icon Placement Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-elimination-guide-for-wsl-on-windows-11-systems/"><u>Permanent Elimination Guide for WSL on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/step-up-your-gaming-mastering-the-art-of-fc-mascot/"><u>Step Up Your Gaming: Mastering the Art of FC Mascot</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-stop-microsoft-teams-from-crashing-windows-1110/"><u>Steps to Stop Microsoft Teams From Crashing Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-persistent-ps4-controller-connections-in-windows/"><u>Strategies for Persistent PS4 Controller Connections in Windows</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/switching-files-to-read-only-on-your-windows-pc-a-step-by-step-guide-tech-solutions-by-yl/"><u>Switching Files to 'Read-Only' On Your Windows PC: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/techniques-to-apply-watermarks-on-fb-content/"><u>Techniques to Apply Watermarks on FB Content</u></a></li>
+<li><a href="https://win11.techidaily.com/three-methods-for-exploring-windows-policy-settings/"><u>Three Methods for Exploring Windows Policy Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-the-footprints-of-your-latest-window-use/"><u>Tracing the Footprints of Your Latest Window Use</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unleash-the-full-potential-of-acer-predator-helios-300-with-the-newest-graphics-driver-update/"><u>Unleash the Full Potential of Acer Predator Helios 300 with the Newest Graphics Driver Update</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-without-bitlocker-here-are-4-steps-to-stay-secure/"><u>Windows Without Bitlocker? Here Are 4 Steps to Stay Secure</u></a></li>
+</ul></div>
+

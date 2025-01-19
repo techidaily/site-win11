@@ -1,7 +1,7 @@
 ---
 title: Simplified Techniques for Batch Installing Windows 11 Apps via Winstall
-date: 2024-08-16T00:44:47.903Z
-updated: 2024-08-17T00:44:47.903Z
+date: 2025-01-14T03:58:29.073Z
+updated: 2025-01-19T11:39:15.908Z
 tags:
   - windows10
   - windows11
@@ -34,16 +34,14 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  Currently, the Winstall app library has over 4,600+ app listings, all thanks to the efforts of Mehdi Hassan and other contributors who continue to find, list, and update package details of apps. It isn't as big as the Microsoft Store or Winget repository but still tries to include all the popular and requested apps on the portal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Batch Install Apps in Windows 11 with Winstall
 
  Before batch-installing apps on your Windows 11 PC, remember that Winstall is a web portal that provides the complete Winget command to install one or many apps. It cannot directly install apps on your PC. For that, you need to run the generated commands in Command Prompt, PowerShell, as a batch file, or import as a .json file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How to Install Multiple Apps Using a Winstall App Pack
 
  Winstall app packs are pre-curated collections of apps you need on Windows 11\. There are essential packs, entertainment packs, browser packs, and more. Here's how to install a Winstall pack on your system:
@@ -53,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 ![Install Multiple Apps Using a Winstall App Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack.jpg)
 3. Now, click on the **Get Pack** button. This will scroll the page to the **Get the Pack** section at the bottom.  
 ![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
  Now, you can install the app pack in three ways: Batch, PowerShell, and Winget Import. You can [download and run the batch file](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) with administrator privileges on your system. Or, you can copy the batch file commands and run them in an elevated Command Prompt window.
 
@@ -73,8 +68,13 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 6. The commands will execute linearly and download and install the respective apps on your system. You won't have to click a button or interact with an installer window. After all the apps finish installation, close the Command Prompt window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Install Multiple Apps Using a Custom App List in Winstall
 
  If you don't like the packs available on the Winstall packs section, you can create your custom collection or pack and then download and batch-install those apps. But you must pick at least five apps to create a pack and have to log in. Or you can use the Generate Script option to view the code to batch install the selected apps. Repeat the following steps:
@@ -85,12 +85,17 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 ![Install Multiple Apps Using a Custom App List in Winstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall.jpg)
 4. You can use the **Advanced options** section to enable the **silent installation** command while adding the selected packages. Then, click on the **Copy to Clipboard** button.  
 ![Install Multiple Apps Using a Custom App List in Winstall 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 5. [Open Command Prompt with administrator privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) on your system. Paste the copied code into it and press Enter to execute the code.  
 ![Install Multiple Apps Using a Custom App List in Winstall 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-3.jpg)
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
 
@@ -104,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  If you want to know more about Winget, you should check out [our Widows Package Manager guide](https://www.makeuseof.com/how-to-download-install-and-use-the-windows-package-manager-winget/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Batch Installing Apps Is a Piece of Cake
 
  Opening Microsoft Store or your browser and manually searching for each app or program is exhausting. You can use Winstall to generate code to download and install multiple apps using Winget. Moreover, you can even sign in and create a pack on the website, so other users don't have to search for a specific collection of useful Windows 11 apps.
@@ -115,11 +117,27 @@ thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80
 
  With Winstall, you can now easily use Winget to batch-install Windows 10 and 11 apps. Best of all, both tools are free! So, are you wondering how to use this? Let's begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-fix-getting-snapchat-installed-on-mac-for-2024/"><u>[Updated] Quick Fix Getting Snapchat Installed on Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unraveling-mukbang-the-art-of-feast-filled-vlogs/"><u>[Updated] Unraveling Mukbang The Art of Feast-Filled Vlogs</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-auto-opens-on-microsofts-marketplace-app/"><u>Ceasing Auto-Opens on Microsoft's Marketplace App</u></a></li>
+<li><a href="https://win11.techidaily.com/compreenas-a-solution-for-xbox-app-failure-error-0x80073d26/"><u>Compreenas a Solution for Xbox App Failure: Error 0X80073D26</u></a></li>
+<li><a href="https://win11.techidaily.com/directives-for-disabling-errors-on-gaming-platform/"><u>Directives for Disabling Errors on Gaming Platform</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-visual-appeal-edit-videos-for-instagram-success/"><u>Enhance Visual Appeal Edit Videos for Instagram Success</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-your-it-admin-cant-do-more-on-windows-os/"><u>Fixing 'Your IT Admin Can't Do More' On Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-v30-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo V30 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-command-attention-in-advertising-using-20-powerful-terms/"><u>In 2024, Command Attention in Advertising Using 20 Powerful Terms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-the-power-of-magix-clip-studio/"><u>In 2024, Unveiling the Power of MAGIX Clip Studio</u></a></li>
+<li><a href="https://win11.techidaily.com/peek-inside-the-persona-machine-how-to-launch-windows-secret-self-analysis-engine/"><u>Peek Inside the Persona Machine: How to Launch Windows’ Secret Self-Analysis Engine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reverse-image-syndrome-explaining-sideways-ig-vids-for-2024/"><u>Reverse Image Syndrome Explaining Sideways IG Vids for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-android-fun-for-windows-users-through-google-play/"><u>Streamlining Android Fun for Windows Users Through Google Play</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Error 0X0000011B on Your Windows 11 PC
-date: 2024-08-16T00:45:14.140Z
-updated: 2024-08-17T00:45:14.140Z
+date: 2025-01-13T05:21:21.552Z
+updated: 2025-01-19T00:13:06.358Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,11 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 3. In the**Service** snap-in, locate the**Print Spooler** service.  
 ![print spooler service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-properties.jpg)
 4. Next, right-click on the service and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![print spooler service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/print-spooler-service-startup-type-automatic.jpg)
 5. In the**Properties** dialog, open the**General** tab.  
 ![restart print spooler service 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-print-spooler-service-1.jpg)
@@ -42,14 +47,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ## 2\. Install All the Pending Windows Updates
 
 ![check windows 10 updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-windows-10-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  If it’s a widespread issue, you’ll likely receive a bug fix via Windows update. So, begin with checking if a new Windows update is available. These are often small hotfixes released to fix widespread issues.
 
@@ -69,12 +66,13 @@ To check and install Windows updates:
 2. Next, click on**Devices** and then open the**Printers & scanners** tab.
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Under**Choose a printer por** t, select**Create a new port.**  
 ![create new port local port add printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-port-local-port-add-printer.jpg)
@@ -82,6 +80,11 @@ To check and install Windows updates:
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**OK** to save the printer.
 
 1. Next, select your printer manufacturer from the list to install the printer driver.
@@ -91,6 +94,10 @@ To check and install Windows updates:
 5. Click**Next** and wait for the installation to complete.
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
@@ -108,24 +115,19 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 `Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Print`
 4. Next, right-click on**Print > New > DWORD (32-bit) Value.**  
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Close**Registry Editor** and restart your PC to apply the changes.
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Recently Installed Updates
 
  Assuming the issue is triggered after you installed a Windows security update, uninstalling the update should undo the changes and fix the error. You can uninstall some individual updates from the Windows updates section. This feature is specifically available to undo issues that may have occurred after installing an update.
@@ -137,22 +139,21 @@ To uninstall Windows updates:
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open**Control Panel.**  
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Next, click on**Programs** .  
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
 
@@ -164,8 +165,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +172,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-expertly-broadcast-your-gopro-adventures-on-top-channels-periscope-facebook/"><u>[New] In 2024, Expertly Broadcast Your Gopro Adventures on Top Channels (Periscope, Facebook)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/349-ipad-emerges-as-top-reveal-at-apples-vibrant-unleashed-showcase-a-closer-look/"><u>$349 iPad Emerges as Top Reveal at Apple's Vibrant 'Unleashed' Showcase: A Closer Look</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-self-play-feature-in-facebook-videos/"><u>2024 Approved Mastering the Self-Play Feature in Facebook Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/a-closer-look-six-wins-of-win11-over-macos/"><u>A Closer Look: Six Wins of Win11 Over MacOS</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-smooth-windows-11-transitions-in-place-methods/"><u>Achieving Smooth Windows 11 Transitions: In-Place Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-device-health-check-up-the-ultimate-guide-for-windows-11s-uptime/"><u>Dive Into Device Health Check-Up: The Ultimate Guide for Windows 11'S Uptime</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/from-start-to-status-bar-windows-taskbar-chronology/"><u>From Start to Status Bar: Windows Taskbar Chronology</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-10-free-online-mp3-to-text-converters-wondershare-filmora/"><u>New 10 FREE Online MP3 to Text Converters-Wondershare Filmora</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-nokia-c22-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Nokia C22 has been deleted.</u></a></li>
+<li><a href="https://win11.techidaily.com/reliability-monitor-vs-performance-monitor-comparing-two-underutilized-windows-tools/"><u>Reliability Monitor Vs. Performance Monitor: Comparing Two Underutilized Windows Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-mitigate-winerror-0x80780119/"><u>Strategies to Mitigate WinError 0X80780119</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-2-unleashed-microsofts-near-perfect-creator-tool/"><u>Studio 2 Unleashed: Microsoft's Near-Perfect Creator Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-6-typical-windows-display-issues/"><u>Troubleshooting 6 Typical Windows Display Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-samsung-ru7300-does-its-unique-shape-add-to-its-smart-tv-charm/"><u>Unboxing and Testing the Samsung RU7300 - Does Its Unique Shape Add to Its Smart TV Charm?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-display-software-in-windows-os/"><u>Update Display Software in Windows OS</u></a></li>
+</ul></div>
 

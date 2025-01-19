@@ -1,7 +1,7 @@
 ---
 title: "Solving X80780119 Error: Windows System Restore"
-date: 2024-08-16T00:45:57.008Z
-updated: 2024-08-17T00:45:57.008Z
+date: 2025-01-16T22:32:25.038Z
+updated: 2025-01-19T10:04:52.661Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Regardless of what might be resulting in the problem in your case, the solutions we have listed below are sure to help you get the restore utility back on track. Proceed with the solutions one by one and follow the steps carefully for successful execution.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 1\. Free Up Disk Space
 
  When you create a restore point in Windows, the system requires sufficient space on the destination drive to store all the backup files. If you do not have enough space, the System Restore is likely to return errors like the 0x80780119 error.
@@ -48,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
  In case you have large files or folders that you do not want to remove but also don’t need immediately, you can consider moving them to an external drive to free up space.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Check and Repair Disk Errors
 
  You might also be facing the system restore issue due to disk errors in the system.
@@ -70,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -86,20 +81,24 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 4. In the following dialog, head over to the **System Protection** tab.
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
-![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Delete USN Journal
 
  The USN Journal (Update Sequence Number Journal) is a feature in the NTFS file system that tracks all the changes made on a disk. It is stored in the reserved partition and over time, it can consume a significant amount of your disk space, which may be preventing a restore point from being created.
@@ -114,6 +113,11 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
 5. Once done, press the **Win** \+ **R** keys together to open Run.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
 8. Execute the following commands in Command Prompt one by one:  
@@ -127,11 +131,27 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Below, we take a look at the common causes of this issue and discuss the different solutions you can try to get rid of this error for good.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-experts-roadmap-to-bulk-downloading-on-tiktok-platform/"><u>[New] The Expert's Roadmap to Bulk Downloading on TikTok Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-essentials-in-livestreaming-platform-selection/"><u>[New] Top 10 Essentials in Livestreaming Platform Selection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-perfecting-hp-screen-capture-top-4-methods-unveiled/"><u>[Updated] 2024 Approved Perfecting HP Screen Capture Top 4 Methods Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-frustrating-fails-correcting-windows-error-1152/"><u>Avoiding Frustrating Fails: Correcting Windows' Error 1152</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-what-makes-the-netgear-c3700-a-standout-as-a-modem-a-detailed-review/"><u>Discover What Makes the Netgear C3700 a Standout as a Modem - A Detailed Review</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-creativity-discovering-the-latest-in-microsoft-paint/"><u>Elevate Creativity: Discovering the Latest in Microsoft Paint</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-keep-windows-11s-search-bar-unseen/"><u>How to Keep Windows 11'S Search Bar Unseen</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-spooler-restart-methods-for-windows/"><u>Instant Spooler Restart Methods for Windows</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ne-entertainment-how-to-load-youtube-video-onto-your-apple-gear/"><u>Offline Entertainment How to Load YouTube Video Onto Your Apple Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcode-un-fichier-wma-en-format-m4a-gratuitement-aidez-vous-avec-movavi/"><u>Transcode Un Fichier WMA en Format M4A Gratuitement - Aidez-Vous Avec Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-silencing-windows-11-operations/"><u>Ultimate Guide: Silencing Windows 11 Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-full-control-of-windows-panel-settings/"><u>Unlock Full Control of Windows Panel Settings</u></a></li>
+</ul></div>
+

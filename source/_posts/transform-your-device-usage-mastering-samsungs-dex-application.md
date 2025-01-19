@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Device Usage: Mastering Samsung's DeX Application"
-date: 2025-01-13T20:39:25.046Z
-updated: 2025-01-19T01:27:19.017Z
+date: 2025-01-17T07:59:15.977Z
+updated: 2025-01-19T10:47:47.467Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Use the Samsung DeX App?
 
  Earlier, you could use the in-built wireless display feature on Windows to connect your Galaxy smartphone that [supports Samsung DeX](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsupport%2Fanswer%2FANS00062657%2F). But the biggest issue with that was you cannot exit the full-screen mode of Samsung DeX and had to either use DeX or close it and then use your Windows PC.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  You cannot use your mouse in this mode. The only way to do it is by attaching a [USB hub](https://www.makeuseof.com/usb-hub-vs-docking-station-whats-the-difference/) to your Galaxy phone and then connecting a mouse. The result is a messy desk cluttered with devices you have to unplug from your system.
 
  Another gripe with the wireless mode is the lack of file transfer features. There is no option for that. So, you can only run the apps on the phone on a bigger display. But the Samsung DeX app for Windows fixes all of these features. So, no need to connect a keyboard and mouse, no visible latency in mouse movements, and you can transfer files with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install and Setup Samsung Dex on Windows 11
 
@@ -52,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 ![Installing Samsung DeX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/installing-samsung-dex.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Connect Your Samsung Phone Contents Using Samsung DeX on Windows 11
 
  After completing the app installation on Windows, repeat the following steps. Connect your phone to the same Wi-Fi network as your computer. Connect your phone to the PC with the USB cable.
@@ -65,22 +53,22 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Enable DeX on Phone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Enable DeX on Phone 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone-2.jpg)
 
 ![Enable DeX on Phone 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-dex-on-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close
 
  You will see a prompt in the PC to accept the incoming request. Click on the **OK** button to start the DeX mode.
 
 ![Setting Up Samsung DeX](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/setting-up-samsung-dex.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see some apps on the home screen with the Windows-like taskbar at the button and some apps and folder icons on the Desktop.
 
@@ -100,9 +88,17 @@ Close
 
 ![Samsung DeX Notification section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-dex-notification-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Samsung DeX also supports keyboard shortcuts, and you can simply close an app with **Alt + F4** or view open apps using **Alt + Tab** shortcut. If you want the complete list of supported shortcuts, press the **Win + /** key to open the page. To lock the DeX mode, press the Win key and click on the **Lock DeX** option. It locks both the phone and the DeX app. You will have to enter the **PIN** or use your **fingerprint** to unlock the DeX mode.
 
  Lastly, to exit the DeX mode, press the **Win + W** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Get With the Samsung DeX App on Windows 11
 
@@ -114,6 +110,10 @@ Close
 
  Samsung DeX for Windows also supports minimizing and resizing. So, you can put the DeX window on one side of your display and use any other app along with it. We love the fact that it supports common Windows shortcuts and even has some custom ones for opening Notifications, File Manager, and other apps on your Samsung Galaxy Phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Limitations of the Samsung DeX App
 
  The first limitation we felt that was keeping the phone connected to the cable at all times. File Transfer speeds aren’t that good despite being a combination of wired and wireless connection. The weather or the calendar app didn’t launch when we clicked on the date and time section on the DeX taskbar.
@@ -123,7 +123,7 @@ Close
  Some actions like clicking the keyboard icon in the DeX app power on the display. The only possible option is to shut the phone display and continue using DeX mode. All these are small kinks that Samsung must figure out in future app versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Using Your Samsung Device on a Windows PC
@@ -142,22 +142,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-social-media-landscape-facebook-daily-use-for-2024/"><u>[New] Navigating Social Media Landscape Facebook Daily Use for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-step-by-step-guide-to-crafting-impressive-instagram-loops/"><u>[Updated] In 2024, Step-by-Step Guide to Crafting Impressive Instagram Loops</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktoks-viral-rhymes-a-guide-to-popular-rap-songs/"><u>[Updated] In 2024, TikTok's Viral Rhymes A Guide to Popular Rap Songs</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-boundaries-and-advantages-of-windows-11-s-mode/"><u>Exploring the Boundaries and Advantages of Windows 11 S Mode</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-find-n3-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo Find N3</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-could-not-start-the-windows-search-service-error/"><u>How to Fix the Windows Could Not Start the Windows Search Service Error</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratios-on-fb-videos/"><u>In 2024, The Ultimate Guide to Aspect Ratios on FB Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/keyboard-mastery-for-efficient-project-delivery/"><u>Keyboard Mastery for Efficient Project Delivery</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-memory-dump-details-for-optimal-fixes/"><u>Leveraging Memory Dump Details for Optimal Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/pathway-backup-reactivating-windows-11-troubleshooting-tools/"><u>Pathway Backup: Reactivating Windows 11 Troubleshooting Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-infinite-load-issues-in-valorant-tips-and-tricks/"><u>Resolving Infinite Load Issues in Valorant - Tips and Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionizing-user-interaction-ai-in-windows/"><u>Revolutionizing User Interaction: AI in Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/staying-ahead-adding-passwords-to-your-win-texts-proactively/"><u>Staying Ahead: Adding Passwords to Your Win Texts Proactively</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-artists-secret-high-quality-free-text-files-for-2024/"><u>The Artist's Secret High-Quality Free Text Files for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715834823879-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-conveying/"><u>The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-steam-network-disconnects-on-latest-pc-os/"><u>Unraveling Steam Network Disconnects on Latest PC OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-storage-for-captured-content/"><u>Windows Storage for Captured Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-building-a-vimeo-portfolio-from-the-ground-up/"><u>[Updated] Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-master-photographer-with-lunapic/"><u>2024 Approved From Novice to Master Photographer with LunaPic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chronicle-of-change-tracing-the-history-and-upgrades-from-ios-10-to-ios-et80/"><u>Chronicle of Change: Tracing the History and Upgrades From iOS 1.0 to iOS ˈeɪtʃ8.0</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-win11-lineups-finest-videomodding-software/"><u>Discover the Win11 Lineup's Finest Videomodding Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-now-newly-released-all-in-one-hp-deskjet-3755-drivers-fully-supports-windows-1087-systems/"><u>Download Now: Newly Released All-In-One HP DeskJet 3755 Drivers – Fully Supports Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 when Phone is Broken?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-batch-communication-introducing-magic-articles-revolutionary-massmail-software/"><u>Mastering Batch Communication: Introducing Magic Articles' Revolutionary MassMail Software</u></a></li>
+<li><a href="https://win11.techidaily.com/novices-guide-to-folder-fabrication-in-win11/"><u>Novice's Guide to Folder Fabrication in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/prepare-for-airplane-mode-installation-of-win11/"><u>Prepare for Airplane Mode: Installation of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/safe-harbor-for-windows-free-software-selections/"><u>Safe Harbor for Windows Free Software Selections</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/snag-your-samsung-odyssey-neo-g8-32-display-for-550-less-at-best-buy-dive-into-the-graphics-experience-during-amazon-prime-day-promotions-zdnet-insider-tips67/"><u>Snag Your Samsung Odyssey Neo G8 32 Display For $550 Less At Best Buy – Dive Into the Graphics Experience During Amazon Prime Day Promotions - ZDNet Insider Tips!</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-file-privilege-hiccup-with-steam-and-win11-gameplay/"><u>Tackling File Privilege Hiccup with Steam & Win11 Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/top-tier-video-coders-for-windows-a-comparative-review/"><u>Top-Tier Video Coders for Windows: A Comparative Review</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-a-non-operational-windows-netflix-service/"><u>Troubleshooting a Non-Operational Windows Netflix Service</u></a></li>
 </ul></div>
 

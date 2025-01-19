@@ -1,7 +1,7 @@
 ---
 title: How to Access Dropbox and Google Drive From a Windows Drive Letter
-date: 2024-08-16T00:45:20.543Z
-updated: 2024-08-17T00:45:20.543Z
+date: 2025-01-13T05:06:58.835Z
+updated: 2025-01-19T12:17:17.364Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
  The major case against them is that there's no reason to use more software than you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Why Not Just Use Google Drive's Folders?
 
  Let's see how Google Drive fails to offer proper access to its local folder through a letter.
@@ -52,16 +49,19 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 ![Google Drive Settings Drive Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-settings-drive-letter.jpg)
 2. Visit the actual **drive letter** through any file manager and wonder how there's a "My Drive" folder instead of your files.  
 ![Google Drive Actual Drive Letter Contents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-actual-drive-letter-contents.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Try "entering" that folder and marvel at how the **path** changes to the true one where Google Drive's folder is stored, potentially breaking some apps.  
-![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![Google Drive True Folder Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/google-drive-true-folder-path.jpg)
+
  Now, let's fix, or rather "sidestep" this little issue by exploiting how network folders work on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Windows Shared Folders
 
@@ -71,18 +71,22 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 1. Run your favorite file manager and visit the path "directly above" your cloud storage folder (so that you can see it in your file manager).  
 ![Dropbox Folder In Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-in-windows-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 2. Right-click on the folder and choose **Properties**.  
 ![Dropbox Folder Windows Explorer Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 3. Move to the **Sharing** tab and enable sharing for your folder. If you need help, check our guide on [how to access shared folders on Windows](https://www.makeuseof.com/unable-to-access-shared-folder-windows/).  
-![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Dropbox Folder Windows Explorer Properties Sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/dropbox-folder-windows-explorer-properties-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Assign Letters to “Networked” Cloud Storage Folders
@@ -93,15 +97,16 @@ thumbnail: https://thmb.techidaily.com/9e3724374b3f93992f56d90c3f06be4bddda301db
 
 1. Type "**\\\\localhost**" in your file manager's location bar to see all the shared folders on your local PC. Among them should be your newly shared cloud storage folder.  
 ![Windows Explorer Localhost Shared Folders](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 2. Right-click on it and choose **Map network drive**.  
 ![Windows Explorer Localhost Shared Folders Menu Map Network Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-localhost-shared-folders-menu-map-network-drive.jpg)
 3. Choose the **letter** you want to assign to your cloud storage folder from the drop-down menu next to **Drive**. Click **Finish** to apply the change.  
 ![Windows Explorer Map Network Drive Letter Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-map-network-drive-letter-selection.jpg)
 4. Visit your "new drive" using the letter you assigned, and you should have direct access to your cloud storage's contents.  
 ![Windows Explorer Direct Access To Dropbox Folder From Letter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-direct-access-to-dropbox-folder-from-letter.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The above implies that you'll set up your cloud storage client to fully sync all files and folders/keep them stored locally.
 
@@ -129,11 +134,33 @@ subst Z: "C:\Cloud Drives\Dropbox"
 
  That's why you can find extra third-party tools that assist in using cloud storage "as a normal drive". For this article, though, we'll do the same by exploiting Windows' built-in shared folders functionality!
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-perfecting-projects-a-deep-dive-into-youtube-studio-editor/"><u>[New] 2024 Approved Perfecting Projects A Deep Dive Into YouTube Studio Editor</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-pathway-to-stellar-intros-on-mobile-devices-for-2024/"><u>[New] Your Pathway to Stellar Intros on Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-average-income-derived-from-each-video-watcher/"><u>[Updated] In 2024, The Average Income Derived From Each Video Watcher</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-for-text-superimposition-on-video-using-windows-photos/"><u>[Updated] Step-by-Step Guide for Text Superimposition on Video Using Windows Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfect-your-virtual-meeting-vibes-google-meet-background-tips/"><u>2024 Approved Perfect Your Virtual Meeting Vibes Google Meet Background Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-unresponsive-grammarly-service-windows/"><u>Addressing Unresponsive Grammarly Service Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/chrome-alert-disabling-windows-edition-tips/"><u>Chrome Alert Disabling: Windows Edition Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-overcoming-frozen-dark-mode-on-pcs/"><u>Essential Tips: Overcoming Frozen Dark Mode on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-unsuccessful-attempts-to-connect-to-nvidia-geforce-in-windows-11/"><u>Fixing Unsuccessful Attempts to Connect to Nvidia GeForce in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-vivo-v29-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Vivo V29 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shift-away-from-windows-xp-7-and-81-support/"><u>Navigating the Shift Away From Windows XP, 7 & 8.1 Support</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-in-windows-11-dissecting-update-wxxs-additions/"><u>New Horizons in Windows 11: Dissecting Update W.x.x's Additions</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cleanup-close-multiple-windows-with-one-click/"><u>Quick Cleanup: Close Multiple Windows with One Click</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tweak-controlled-chromeedge-configurations-for-work-computers/"><u>Steps to Tweak Controlled Chrome/Edge Configurations for Work Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-excessive-pc-resources-by-unrealcefsubprocess-in-windows/"><u>Tackling Excessive PC Resources by UnrealCEFSubprocess in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-razer-blade-15-promotion-1000-cut-back-for-limited-time-only-rare-opportunity-to-score/"><u>Unbeatable Razer Blade 15 Promotion: $1,000 Cut Back for Limited Time Only – Rare Opportunity to Score</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/yl-softwares-ultimate-strategy-for-discovering-credible-cryptocurrency-information-and-updates-online/"><u>YL Software's Ultimate Strategy for Discovering Credible Cryptocurrency Information and Updates Online</u></a></li>
+</ul></div>
+

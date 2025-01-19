@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows: Insufficient VM RAM Issue"
-date: 2024-08-16T00:47:27.586Z
-updated: 2024-08-17T00:47:27.586Z
+date: 2025-01-11T22:59:56.026Z
+updated: 2025-01-19T09:00:09.904Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,13 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 4. Click the checkbox for the**Run this program as administrator** option to select it.  
 ![The Compatibility tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-compatibility-tab2.jpg)
 5. Select**Apply** to save the new administrator option for VMware.
-6. Then select**OK** to close WMware’s properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Then select**OK** to close WMware’s properties window.
+
 ## 2\. Edit the Config File
 
  Lots of users have been able to fix the “not enough physical memory” by editing VMWare’s**config.ini** file. Those users disabled a Host parameter within the software’s configuration file. To disable that Host parameter, open and edit VMware’s**config.ini** file as follows:
@@ -49,15 +51,14 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 4. Select**Notepad** to view the configuration file in that text editor.
 5. Then **input vmmon.disableHostParameters = “TRUE”** at the bottom of the configuration file as in the image below.  
 ![WMware's config.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-config-ini-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Click**File** on Notepad’s menubar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select the menu’s**Save** option.  
 ![The Save option in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-save-option-in-notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## 3\. Expand the Virtual Memory for the Virtual Machine
 
@@ -77,12 +78,13 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 2. Click the**Help** menu.
 3. Select**Software Updates** to view that window.  
 ![The Software Updates option in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-software-updates-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Then click the**Check for Updates** button.  
 ![The Check for updates button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-check-for-updates-option4.jpg)
 5. Press the**Get More Information** button for an available update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Log into an account profile on the website that opens.
 2. Select the**Download Now** option on the website for the latest VMware Workstation version.
@@ -92,35 +94,38 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
 6. Go to the downloads folder that includes the WMware setup wizard.
 7. Double-click the downloaded VMware installer to open it. Go through the setup wizard to install the latest VMware version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Delete a Recent Windows Update
 
  The “not enough physical memory” error can be caused by a Windows update that conflicts with VMware. So, uninstalling a recent update could fix that issue for some users. Check out our guide about[uninstalling Windows updates](https://www.makeuseof.com/windows-11-uninstall-updates/) for further details on how to apply this potential solution.
 
 ![The Installed Updates Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-uninstall-update-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Clean Boot
 
  Performing a clean boot will disable non-essential apps and services from the Windows startup. Clean booting can potentially resolve the “not enough physical memory” in two ways. Applying this troubleshooting method will ensure there aren’t any third-party programs conflicting with VMware and free up RAM for the software.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab-in-msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To disable all third-party startup programs and services, check out the guidelines in our guide on[how to clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) . This will perform a clean boot whenever you restart Windows.
 
  Try utilizing your VMware virtual machine after clean booting. If this works,
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## 7\. Set Up a New Virtual Machine
 
  If the issue persists despite applying the resolutions above, consider setting up a new virtual machine to replace the one that needs fixing. Download the latest ISO for the virtual machine’s platform. Then you can set up the virtual machine again, as outlined on the[VMware support page](https://kb.vmware.com/s/article/1018415) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Jump Into Your WMware Virtual Machine Again
 
  Those Windows fixes for the “Not enough physical memory” error have worked for many VMware Workstation users. So, there’s a decent enough chance one will kick-start your VMWare virtual machine too. However, users who still need more possible fixes for this issue can submit a support request via the[VMware Customer Connect](https://customerconnect.vmware.com/home?bmctx=89E60DF848C641FD518EB9F6B9A6E5334F602FA3A762B409625CD531863AC847&password=secure%5Fstring&contextType=external&username=string&challenge%5Furl=https:%2F%2Fcustomerconnect.vmware.com%2Fhome&request%5Fid=-8453692679675997712&authn%5Ftry%5Fcount=0&locale=en%5FGB&resource%5Furl=https%253A%252F%252Fcustomerconnect.vmware.com%252Fweb%252Fvmware%252Fchecksession) page.
@@ -131,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,24 @@ thumbnail: https://thmb.techidaily.com/32c4cc7803fd0fa7e8699abcd5e09dfd5773975b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[New] In 2024, Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-effortless-background-subtraction-for-mobile-cameras/"><u>[Updated] In 2024, Effortless Background Subtraction for Mobile Cameras</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-ensuring-transparency-in-video-creator-incomes/"><u>2024 Approved Ensuring Transparency in Video Creator Incomes</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/acuerdo-de-uso-final-del-programa-winxdvd-por-parte-de-softwaria-digitales/"><u>Acuerdo De Uso Final Del Programa WinXDVD Por Parte De Softwaria Digitales</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-to-combat-dxgi-errors/"><u>Effective Techniques to Combat DXGI Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-turn-off-auto-start-for-spotify/"><u>Guide to Turn Off Auto-Start for Spotify</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-and-secure-3-ways-to-extract-youtube-music-content/"><u>In 2024, Free and Secure 3 Ways to Extract YouTube Music Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-gzw-tips-and-techniques-to-resolve-game-crashes-on-personal-computers/"><u>Mastering GZW: Tips & Techniques to Resolve Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-mavericks-video-creator-bringing-your-vision-to-life/"><u>New 2024 Approved Mavericks Video Creator Bringing Your Vision to Life</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-for-fps-performance/"><u>Optimizing System Resources for FPS Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-dormant-screen-saver-configurations-in-windows/"><u>Revitalizing Dormant Screen Saver Configurations in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/scripting-efficient-files-a-python-server-guide-for-windows-os/"><u>Scripting Efficient Files: A Python Server Guide for Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-rectifying-windows-error-code-0x80040610/"><u>Swift Solutions for Rectifying Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-70-lite-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Honor 70 Lite 5G Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-windows-11s-app-collection/"><u>Unveiling the Secrets of Windows 11'S App Collection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-ahead-a-new-era-with-ai/"><u>Windows 11 Ahead: A New Era with AI</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-customizable-spotlight-picture-guide/"><u>Windows Customizable Spotlight Picture Guide</u></a></li>
+</ul></div>
 

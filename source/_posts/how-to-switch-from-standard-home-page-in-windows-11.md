@@ -1,7 +1,7 @@
 ---
 title: How to Switch From Standard Home Page in Windows 11
-date: 2024-08-16T00:47:30.784Z
-updated: 2024-08-17T00:47:30.784Z
+date: 2025-01-17T04:42:06.308Z
+updated: 2025-01-19T03:26:30.857Z
 tags:
   - windows10
   - windows11
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 ---
 
 ## How to Switch From Standard Home Page in Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,15 +45,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Registry Editor to Remove the Home Page
 
  Can't access the Group Policy Editor on your Windows PC? You can also remove the Home tab from the Windows 11 Settings app by making a few changes to the registry files.
@@ -69,9 +71,6 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
@@ -81,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
  You can hide the Home page using the Group Policy Editor or the Registry Editor. This guide will walk you through both methods.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Group Policy Editor to Remove the Home Page
 
  The Local Group Policy Editor on Windows makes modifying various advanced system settings easy. Among the many options, it allows you to manage the pages shown in the Settings app. So, you can use the Local Group Policy Editor to hide the Home tab from the Windows 11 Settings app.
@@ -143,15 +143,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 7. In the Options box, type **hide:home** in the text field next to Settings Page Visibility.
 8. Click **Apply** followed by **OK**.  
 ![Settings Page Visibility Policy on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/settings-page-visibility-policy-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 2\. Use the Registry Editor to Remove the Home Page
 
  Can't access the Group Policy Editor on your Windows PC? You can also remove the Home tab from the Windows 11 Settings app by making a few changes to the registry files.
@@ -168,15 +166,13 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 6. Double-click the **SettingsPageVisibility** value to edit it.
 7. Type **hide:home** in the Value data field and click **OK**.  
 ![Edit a String Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-a-string-value-in-registry-editor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
@@ -186,8 +182,9 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
  You can hide the Home page using the Group Policy Editor or the Registry Editor. This guide will walk you through both methods.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Group Policy Editor to Remove the Home Page
 
  The Local Group Policy Editor on Windows makes modifying various advanced system settings easy. Among the many options, it allows you to manage the pages shown in the Settings app. So, you can use the Local Group Policy Editor to hide the Home tab from the Windows 11 Settings app.
@@ -206,6 +203,10 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 
  The Home page will be hidden on the Settings app. If you want to view the Home tab at any point, repeat the above steps and set the **Settings Page Visibility** policy to **Disabled** or **Not configured**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use the Registry Editor to Remove the Home Page
 
  Can't access the Group Policy Editor on your Windows PC? You can also remove the Home tab from the Windows 11 Settings app by making a few changes to the registry files.
@@ -222,24 +223,18 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
 6. Double-click the **SettingsPageVisibility** value to edit it.
 7. Type **hide:home** in the Value data field and click **OK**.  
 ![Edit a String Value in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-a-string-value-in-registry-editor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your PC after completing the above steps. Then, open Settings to confirm the Home page is hidden. To restore the removed Home tab later, repeat the above steps and delete the **SettingsPageVisibility** string value.
 
 ## Get the Classic Windows 11 Settings Look
 
  While the Home screen provides quick and easy access to frequently used settings, you may prefer the older classic view. So, hide it from view and recover it when necessary.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -248,4 +243,23 @@ thumbnail: https://thmb.techidaily.com/99663f80a681577ef6d172804500e3555c286bc17
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>[New] 2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-explore-laughter-tears-fusion-the-best-ig-accounts-ever/"><u>[Updated] Explore Laughter-Tears Fusion The Best IG Accounts Ever</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-audiovisual-synchronization-in-facebook-content-creation/"><u>[Updated] In 2024, Audiovisual Synchronization in Facebook Content Creation</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-re-establish-audible-vids-on-social-sound/"><u>2024 Approved Re-Establish Audible Vids on Social Sound</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-seamless-sonic-connector-a-casters-companion/"><u>2024 Approved Seamless Sonic Connector A Caster's Companion</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-path-to-correctness-resolving-server-stumbled-issues-in-win-store/"><u>Clear Path to Correctness: Resolving Server Stumbled Issues in Win Store</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-strategies-for-background-blur-perfection-using-windows-11-photos-app/"><u>In-Depth Strategies for Background Blur Perfection Using Windows 11 Photos App</u></a></li>
+<li><a href="https://win11.techidaily.com/neutralizing-windows-update-triggers/"><u>Neutralizing Windows Update Triggers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/precision-close-up-techniques-with-kinemaster-software-for-2024/"><u>Precision Close-Up Techniques with Kinemaster Software for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/schutz-ihres-windows-11-systems-strategien-fur-maximale-datensicherheit/"><u>Schutz Ihres Windows 11 Systems: Strategien Für Maximale Datensicherheit</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-the-puzzle-of-inaccessible-secure-boot-in-windows-bios/"><u>Solving the Puzzle of Inaccessible Secure Boot in Windows BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-how-to-view-excel-files-in-notepad/"><u>Tips: How to View Excel Files in Notepad</u></a></li>
+<li><a href="https://win-community.techidaily.com/top-12-essential-windows-apps-retained-and-11-unwanted-ones-discarded-in-each-fresh-setup-insights-from-zdnet/"><u>Top 12 Essential Windows Apps Retained and 11 Unwanted Ones Discarded in Each Fresh Setup: Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-desktop-menus-in-win-1011/"><u>Troubleshooting Non-Responsive Desktop Menus in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-winmedia-server-error/"><u>Troubleshooting WinMedia Server Error</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2025-01-14T16:41:22.769Z
-updated: 2025-01-19T01:10:15.640Z
+date: 2025-01-15T19:33:12.443Z
+updated: 2025-01-19T00:58:05.015Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Can't You Change the Power Mode in Windows 11?
@@ -52,17 +52,13 @@ Here is how you can proceed:
 4. Now, look for**Power options** and click on it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
@@ -82,12 +78,12 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -102,6 +98,10 @@ Follow these steps to proceed:
 powercfg –restoredefaultscheme  
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
@@ -118,6 +118,10 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 
 Hopefully, this will resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Revert the System to an Older Working State
 
  Another way to fix the problem is by reverting the system back to a state where you can change the power modes without any issues. This can be achieved using the System Restore feature,[one of the most important PC-Saving Windows Tools available](https://www.makeuseof.com/tag/8-pc-saving-windows-tools-must-not-overlook/) , which periodically creates restore points on the system.
@@ -125,10 +129,6 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -151,22 +151,24 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-saving-powerpoint-presentation-to-video/"><u>[New] 2024 Approved Saving PowerPoint Presentation to Video</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ideo-editing-mastery-leveraging-youtube-then-expanding-beyond-for-2024/"><u>[New] Video Editing Mastery Leveraging YouTube, Then Expanding Beyond for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>2024 Approved Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-5200-printer-drivers-for-windows-11-10-and-8-free-and-easy-guide/"><u>Download HP LaserJet 5200 Printer Drivers for Windows 11, 10 & 8 - Free and Easy Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-failed-capture-on-your-pc-writes/"><u>Eliminating Failed Capture on Your PC' Writes</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-offline-windows-maintenence-and-improvement/"><u>Empowering Offline Windows Maintenence and Improvement</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-windows-conflicting-camera-use-0xa00f4243/"><u>Eradicating Windows' Conflicting Camera Use (0xA00F4243)</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-on-applying-diskusage-commands-for-storage-assessment/"><u>Essential Tips on Applying DiskUsage Commands for Storage Assessment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-10-best-youtube-makeup-artists-you-must-have-heard/"><u>In 2024, 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/reboot-to-rejuvenate-drag-and-drop-on-win11-pcs/"><u>Reboot to Rejuvenate Drag & Drop on Win11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalize-family-safety-overcoming-common-windows-hurdles/"><u>Revitalize Family Safety: Overcoming Common Windows Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-depleted-windows-time-servers-essential-strategies/"><u>Reviving Depleted Windows Time Servers: Essential Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-disabling-impending-license-expiry-in-windows/"><u>Solutions for Disabling Impending License Expiry in Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/telechargement-gratuit-de-mac-x-dvd-ripper-professional-sur-internet/"><u>Téléchargement Gratuit De Mac X DVD Ripper Professional Sur Internet</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a56s-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A56s 5G</u></a></li>
-<li><a href="https://fox-access.techidaily.com/ultimate-windows-edition-toolkit-for-videos-for-2024/"><u>Ultimate Windows Edition Toolkit for Videos for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-streamed-screen-recorder-providers/"><u>[New] 2024 Approved Streamed Screen Recorder Providers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-live-streaming-made-simple-mastering-ps4-captures-using-obs/"><u>[Updated] Live Streaming Made Simple Mastering PS4 Captures Using OBS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-startling-audience-with-compelling-intros/"><u>[Updated] Startling Audience with Compelling Intros</u></a></li>
+<li><a href="https://win11.techidaily.com/circumvent-unauthorized-windows-login-errors-easy-guide/"><u>Circumvent Unauthorized Windows Login Errors (Easy Guide)</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-overlooked-windows-extras-a-step-by-step-manual/"><u>Enabling Overlooked Windows Extras: A Step-by-Step Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-ahead-with-exclusive-info-the-next-gen-apple-watch-ultra-2-price-projections-and-release-timeline/"><u>Get Ahead with Exclusive Info: The Next-Gen Apple Watch Ultra 2 Price Projections & Release Timeline</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-mending-the-internal-error-in-rdp-on-windows-11-and-11-pro/"><u>Guide to Mending the Internal Error in RDP on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y200e-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y200e 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-globe-spin-technology-in-lenses-versus-depth-perception-tech/"><u>In 2024, Globe-Spin Technology in Lenses versus Depth Perception Tech</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-data-from-apple-iphone-se-2020-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Data from Apple iPhone SE (2020) to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-powertoys-reset-on-new-machine/"><u>Navigating PowerToys: Reset on New Machine</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-missing-file-updates-error-on-windows-error-code-0x80070003/"><u>Navigating Through Missing File Updates Error on Windows (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-excessive-use-of-windows-module-installer/"><u>Overcoming Excessive Use of Windows Module Installer</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-specific-windows-lockdown-period/"><u>Setting Specific Windows Lockdown Period</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-building-a-web-portal-with-gpt-3-integration/"><u>Step-by-Step Tutorial on Building a Web Portal with GPT-3 Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-immediate-failure-how-to-successfully-add-a-folder-in-onedrive-on-pc/"><u>Tackling Immediate Failure: How to Successfully Add a Folder in OneDrive on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-websites-for-sky-hdr-images/"><u>Top 10 Websites for Sky HDR Images</u></a></li>
+<li><a href="https://win11.techidaily.com/unite-with-your-absent-astra-pilot-on-windows-11/"><u>Unite With Your Absent Astra Pilot On Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Transfer: Protecting Data Through Windows OS"
-date: 2025-01-16T17:06:46.871Z
-updated: 2025-01-18T18:29:37.747Z
+date: 2025-01-12T20:42:09.536Z
+updated: 2025-01-18T23:41:03.607Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Hide a Drive Using the Disk Management App
 
  The Disk Management tool on Windows makes it easy to perform various storage-related tasks such as formatting hard disk partitions, assigning drive letters, managing disk space, and more. You can also use it to hide a drive partition on Windows. Here's how:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![Hide a Drive Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-using-disk-management.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, your drive will no longer appear in File Explorer.
@@ -87,13 +83,17 @@ Here's what you need to do:
 6. Select the**Enabled** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Under**Options** , select the drive you want to hide.
 8. Click**Apply** followed by**OK** .
 
  Once you complete the above steps, Windows will hide the specified drive from File Explorer. If you want to unhide the drive later, use the same steps and set the**Hide these specified drives in My Computer policy** to**Not configured** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Hide a Drive in Windows via the Registry Editor
 
@@ -114,10 +114,14 @@ Here's what you need to do:
 ![Hide a Drive via Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/hide-a-drive-via-registry-editor.jpg)
 9. Enter a number corresponding to the drive you want to hide in the**Value data** field and click**OK** . Refer to the table below to determine which number to use.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Drive Letter Refrence for Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-letter-refrence-for-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For instance, if you were to hide the**E:** drive from your computer, you'd enter**16** in the Value data field.
@@ -125,10 +129,6 @@ Here's what you need to do:
  You can also use this method to hide multiple drives at the same time. To do so, add the decimal numbers for both drives and enter the total in the Value data field. For example, if you're looking to hide drive**G:** and**H:** from your computer, you should enter**192** (64 + 128) in the Value data field.
 
  You'll have to restart your PC to apply the changes. Following that, the drive will not appear in File Explorer. You can undo the above changes at any point by deleting the**NoDrives** DWORD.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Hiding Drives in Windows Is Easy
 
@@ -151,20 +151,24 @@ Here's what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-step-by-step-expedition-to-youtubes-unseen-layers/"><u>[New] 2024 Approved A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-and-store-screen-content-free-in-2024/"><u>[New] Capture and Store Screen Content, FREE, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-best-ultimate-guide-to-premium-unboxing-youtubers-2024/"><u>[New] Exploring the Best Ultimate Guide to Premium Unboxing YouTubers, 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-make-your-discord-conversation-stand-out-with-pins/"><u>[New] Make Your Discord Conversation Stand Out with Pins</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-5-secure-downloader-apps-for-fb-video-extraction/"><u>[Updated] In 2024, Top 5 Secure Downloader Apps for FB Video Extraction</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-redmi-a2-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi Redmi A2 to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-relaxation-in-a-box-best-10-stress-busters/"><u>In 2024, Relaxation in a Box Best 10 Stress Busters</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>In 2024, The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
-<li><a href="https://win11.techidaily.com/nix-the-need-for-speedy-pointers-on-windows-11/"><u>Nix the Need for Speedy Pointers on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/say-goodbye-to-troubleshooting-woes-on-vistawindows-7/"><u>Say Goodbye to Troubleshooting Woes on Vista/Windows 7</u></a></li>
-<li><a href="https://win-special.techidaily.com/step-by-step-guide-to-setting-up-an-incremental-backup-with-wbadmin-on-your-pc/"><u>Step-by-Step Guide to Setting Up an Incremental Backup with WBAdmin on Your PC</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-personalize-windows-11-files-via-added-movecopy/"><u>Streamline and Personalize Windows 11 Files via Added 'Move'/'Copy'</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-your-workflow-coloring-without-conflict-on-windows/"><u>Streamlining Your Workflow: Coloring Without Conflict on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-overcome-windows-lunar-client-launch-problem/"><u>Tactics to Overcome Windows Lunar Client Launch Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-guide-spotting-active-tcp-connections/"><u>Windows Guide: Spotting Active TCP Connections</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boosting-your-youtube-presence-key-tips-for-popularity/"><u>[Updated] In 2024, Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unveiling-the-path-to-your-facebook-status-video-archive-for-2024/"><u>[Updated] Unveiling the Path to Your Facebook Status Video Archive for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1-solving-downloads-folder-unresponsive-issues-proven-strategies/"><u>1. Solving 'Downloads Folder Unresponsive' Issues: Proven Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-tunefab-revolutionizing-the-art-of-video-capture/"><u>2024 Approved Tunefab Revolutionizing the Art of Video Capture</u></a></li>
+<li><a href="https://win11.techidaily.com/a-guide-to-essential-windows-saver-techniques/"><u>A Guide to Essential Windows Saver Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-and-correcting-window-based-roblox-error-403/"><u>Addressing and Correcting Window-Based Roblox Error 403</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-zeroxc000003e-problem-in-pc-application-startup/"><u>Addressing ZeroXc000003e Problem in PC Application Startup</u></a></li>
+<li><a href="https://win11.techidaily.com/automatic-program-management-in-windows-os/"><u>Automatic Program Management in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-accessibility-of-grandparents-pre-ultimate-pcs/"><u>Boosting Accessibility of Grandparents' Pre-Ultimate PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-wired-internet-overcoming-100mbps-limit-in-windows/"><u>Boosting Wired Internet: Overcoming 100Mbps Limit in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-your-pc-how-to-turn-on-hyper-v-in-win11/"><u>Boosting Your PC: How To Turn On Hyper-V in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-how-to-disable-the-pesky-epic-games-hub/"><u>Break Free: How to Disable the Pesky Epic Games Hub</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/capture-your-moments-seamless-recording-of-screens-cameras-and-sound-using-winxvideos-advanced-ai-technology/"><u>Capture Your Moments: Seamless Recording of Screens, Cameras, and Sound Using Winxvideo's Advanced AI Technology</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-killer-e2500-gigabit-nic-drivers-installed-now-free-downloads-available/"><u>Get Your Killer E2500 Gigabit NIC Drivers Installed Now - Free Downloads Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-maximize-your-anthropics-ai-experience/"><u>How to Maximize Your Anthropic's AI Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Camon 20? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/maximizing-engagement-in-post-facebook-algorithm-world-for-2024/"><u>Maximizing Engagement in Post-Facebook Algorithm World for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/1719271419179-navigate-through-windows-woes-with-simple-fixes/"><u>Navigate Through Windows Woes with Simple Fixes!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphone-flashlight-issues-with-these-12-simple-fixes/"><u>Solve Your iPhone Flashlight Issues with These 12 Simple Fixes</u></a></li>
 </ul></div>
 

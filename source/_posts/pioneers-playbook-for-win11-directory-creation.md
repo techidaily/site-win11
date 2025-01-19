@@ -1,7 +1,7 @@
 ---
 title: Pioneer's Playbook for Win11 Directory Creation
-date: 2024-08-16T00:43:13.697Z
-updated: 2024-08-17T00:43:13.697Z
+date: 2025-01-15T06:44:21.772Z
+updated: 2025-01-18T21:59:40.795Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,14 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
 4. Type in a suitable name for your folder and then press**Enter** .  
 ![Create New Folder in Windows 11 Using the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-the-context-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Create a New Folder Using File Explorer
 
  File Explorer's menu bar provides access to many useful options. One of them also lets you create a new folder with a couple of mouse clicks.
@@ -43,8 +51,9 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -52,15 +61,13 @@ To create a new folder using File Explorer's menu:
  Simply head to the location where you want to create the folder and press**Ctrl + Shift + N** together on your keyboard. Once the folder is created, you can rename it to anything you want.
 
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
  Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to[create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
@@ -75,45 +82,24 @@ To create a new folder using File Explorer's menu:
 5. Next, type**mkdir** followed by the name of the folder you wish to create and press**Enter** . For instance, if you were to create a folder named**Work** , you'd type the following command:  
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
 
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +108,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/2024-approved-elevating-film-previews-with-thoughtful-soundtrack-selection/"><u>2024 Approved Elevating Film Previews with Thoughtful Soundtrack Selection</u></a></li>
+<li><a href="https://blog-min.techidaily.com/creating-engaging-slideshows-on-tiktok-a-step-by-step-guide/"><u>Creating Engaging Slideshows on TikTok: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/curbing-the-catastrophe-recycle-bin-errors-in-win1011/"><u>Curbing the Catastrophe: Recycle Bin Errors in Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-problem-to-perfection-tactics-to-install-missing-features-in-windows-11-and-11-pro/"><u>From Problem to Perfection: Tactics to Install Missing Features in Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 in Lost Mode</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-ultimate-guide-to-starting-zoom-chats-on-android/"><u>In 2024, The Ultimate Guide to Starting Zoom Chats on Android</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 13 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-and-secure-playthroughs-on-your-computer-with-the-patched-fnaf-security-update/"><u>Optimized & Secure Playthroughs on Your Computer with the Patched FNAF Security Update</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-disconnect-fixing-gif-size-problems-in-discord-on-windows/"><u>Overcoming Disconnect: Fixing GIF Size Problems in Discord on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/revealing-vanished-windows-on-your-screen-6-suggestions-in-win11/"><u>Revealing Vanished Windows on Your Screen: 6 Suggestions in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-samsung-galaxy-a24-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Samsung Galaxy A24 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-preview-failures-in-microsoft-mail/"><u>Tackling the Challenge of Preview Failures in Microsoft Mail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-blocking-random-shortcuts-on-pc/"><u>Techniques for Blocking Random Shortcuts on PC</u></a></li>
+</ul></div>
 

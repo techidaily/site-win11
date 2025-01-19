@@ -1,7 +1,7 @@
 ---
 title: Unlocking Window's Potential with LAW Filters
-date: 2025-01-14T20:44:36.977Z
-updated: 2025-01-18T23:41:39.147Z
+date: 2025-01-17T01:59:23.306Z
+updated: 2025-01-19T01:51:59.630Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Are LAV Filters?
 
  LAV Filters are DirectShow filters that act as alternative decoders of audio and video streams for media players like MediaPlayer Classic Home Cinema (MPC-HC).
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Compatible with many formats, from MP4 to MKV and AAC to FLAC, they are highly configurable and come with various options for adjusting output to better match your equipment.
 
  The best part is that these open-source filters are regularly updated, making them problem-free, ever-evolving, and quick to adopt new features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install LAV Filters for Use With Your Media Player
 
@@ -57,12 +49,13 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 ![LAV Filters Installation Components Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-installation-components-selection.jpg)
 4. Leave the rest of the options as they are and hit**Next** until you reach the**Completing the LAV Filters Setup Wizard** page.
-5. Place a checkmark on all three**Open LAV X Configuration** , where "X" is Splitter, Audio, and Video.  
-![LAV Filters Setup Completion Open Configuration Panels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-setup-completion-open-configuration-panels.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Place a checkmark on all three**Open LAV X Configuration** , where "X" is Splitter, Audio, and Video.  
+![LAV Filters Setup Completion Open Configuration Panels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-setup-completion-open-configuration-panels.jpg)
 
  Although MPC-HC already comes with LAV filters, we're also using it in the following example to keep things simple. However, we made the steps "generic enough" to show you how to add LAV filter functionality to any media player that supports external filters, like PotPlayer.
 
@@ -72,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 3. Move to your media player's option page about "external filters" and select that you want to**Add** (a)**Filter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![MPC HC External Filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-external-filters.jpg)
@@ -84,11 +77,11 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![MPC HC External Filters Prefer Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/mpc-hc-external-filters-prefer-option.jpg)
 6. On PotPlayer, you'll also have to enable all formats for them when adding them from the**Source/Splitter** \>**Filter Management** panel. Click on each of the LAV filters and then enable the appropriate formats for it - file formats for the two**Splitters** , audio formats for the**Audio Decoder** , and video formats for the**Video Decoder** . Then, move to each**Filter Control** sub-section, like**Video Decoder** and**Audio Decoder** , and ensure the LAV filters are set as the default for all formats.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. After a click on**OK** to close your media player's settings window, LAV Filters should have replaced its internal media-splitting and decoding functions. Close and re-run the app to ensure all changes have been applied.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure LAV Filters for Your Media & Hardware
 
@@ -104,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 ![LAV Filters Splitter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-splitter.jpg)
 2. For the**Audio Decoder** settings, if the "audio gear" where your PC "sends" its audio (headphones, speakers, monitor) can decode digital streams, enable the appropriate formats under**Bitstreaming** . We can't offer suggestions on how to do that since different audio equipment requires different settings. Leave**Fallback to PCM if Bitstreaming is not supported** so that if your audio gear can't play the above formats, you'll still hear audio.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![LAV Filters Audio Bitstreaming](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-audio-bitstreaming.jpg)
 3. If you're using a multi-speaker setup, monophonic streams will only play from a single speaker by default. If you'd prefer the classic approach of "expanding" the mono stream to two stereo speakers, enable**Expand Mono to Stereo** . We'd suggest you also enable**Expand 6.1 to 7.1** if you use a 7.1 speaker setup with your PC.
 
 4. The next option,**Use Legacy 5.1 Channel Layout** , may be helpful if your speakers go haywire while playing 5.1 audio and you don't hear "properly placed" positional audio. If you don't know what to choose, and only know "you've got a bunch of speakers", check out our guide on[how to understand surround sound systems for beginners](https://www.makeuseof.com/understanding-surround-sound-systems/) .  
 ![LAV Filters Audio Expand Mono to Stereo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-audio-expand-mono-to-stereo.jpg)
 5. Make sure to also place a checkmark on**Enable System Tray Icon** for LAV Filters' Audio Decoder. Then, move to the**Mixing** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![LAV Filters Audio Enable System Tray Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-audio-enable-system-tray-icon.jpg)
 6. If you play a lot of audio that doesn't match your sound output setup, for example, watching old movies with stereo sound on a 5.1 speaker setup, you can have LAV Filters upmix or downmix the sound to "morph" it for your audio gear. Place a checkmark before**Enable Mixing** and choose your speaker setup from the drop-down menu next to**Output Speaker Configuration** . You can also individually configure the sound levels for the center speaker, behind left and right speakers, and subwoofer (LFE).  
@@ -122,16 +115,25 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 7. If you use the same media player for listening to music, you might want to ensure stereo sources (like most of your beloved music) will remain untouched (and "untainted") from any mixing shenanigans. For that, enable the option**Don't mix Stereo Sources** on the top right of this panel. Click**OK** to accept and save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LAV Filters Audio Dont Mix Stereo Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-audio-dont-mix-stereo-sources.jpg)
 8. Finally, for the video settings, choose the best hardware decoder for your GPU under**Hardware Acceleration** . At the time of writing (beginning of 2023),**DXVA2** and**CUVID** are better on Nvidia GPUs, while**D3D11** may work best on AMD's offerings. It's also worth trying those options out on newer Intel Arc GPUs since they use a different decoding engine than the one for which the option**Intel(R) QuickSync (old)** was built.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LAV Filters Video Hardware Acceleration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-video-hardware-acceleration.jpg)
 9. Remember the option**Enable System Tray Icon** here, too. After enabling it, click**OK** to save the changes and close the last LAV Filters configuration panel.  
 ![LAV Filters Video Enable System Tray Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lav-filters-video-enable-system-tray-icon.jpg)
 
  Although your videos will play perfectly with LAV filters, if you try to grab some screenshots of your favorite scenes, they might appear blurry. Thankfully, we have a guide on[how to save frame-perfect video screenshots on Windows using a media player](https://www.makeuseof.com/windows-media-player-frame-perfect-screenshot/) that can help you solve this problem, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Achieve Optimal Playback With LAV Filters
 
@@ -154,22 +156,24 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effortless-playlist-pivot-the-top-5-spotify-to-youtube-tools/"><u>[Updated] In 2024, Effortless Playlist Pivot The Top 5 Spotify-to-YouTube Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-simplified-techniques-for-console-recordings/"><u>[Updated] Simplified Techniques for Console Recordings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-mechanics-of-obtaining-facebooks-badge-of-trust/"><u>2024 Approved Decoding the Mechanics of Obtaining Facebook's Badge of Trust</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-motorola-moto-g24-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Motorola Moto G24</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-your-nvidia-geforce-gtx-1650-super-compatible-with-windows-11-systems/"><u>Download Updated Drivers for Your Nvidia GeForce GTX 1650 Super - Compatible with Windows 11 Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-realme-12-pro-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Realme 12 Pro 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-itel-s23plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Itel S23+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://win11.techidaily.com/insightful-fixes-for-stuck-game-resolutions-in-windows/"><u>Insightful Fixes for Stuck Game Resolutions in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-update-schedules-setting-active-periods-windows-11/"><u>Mastering Update Schedules: Setting Active Periods Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/nine-keys-to-release-verification-holds-during-windows-update/"><u>Nine Keys to Release Verification Holds During Windows Update</u></a></li>
-<li><a href="https://win11.techidaily.com/opera-stuck-swift-solutions-for-a-smooth-windows-patch/"><u>Opera Stuck? Swift Solutions for a Smooth Windows Patch</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-your-virtual-environment-with-virtualbox-70-win11-procedures/"><u>Secure Your Virtual Environment with VirtualBox 7.0 – Win11 Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-an-idle-windows-control-panel/"><u>Solutions for an Idle Windows Control Panel</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-update-issue-0x800f0845/"><u>Steps to Overcome Update Issue - 0X800F0845</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-error-code-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>Tackling Error Code 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-silent-movie-revolution-procedures-for-deleting-sound-elements-in-mov-files-across-computers-and-devices/"><u>Updated In 2024, The Silent Movie Revolution Procedures for Deleting Sound Elements in MOV Files Across Computers and Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-full-picture-the-essence-of-google-podcasts-app/"><u>[New] In 2024, Full Picture The Essence of Google Podcasts App</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-guide-to-instagrams-gold-standard-six-tactics-to-attract-more-followers/"><u>[New] The Ultimate Guide to Instagram's Gold Standard Six Tactics to Attract More Followers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-pictomixer-dynamic-media-player-for-macos/"><u>2024 Approved PictoMixer Dynamic Media Player for macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-quality-with-these-5-free-windows-editors/"><u>Boost Quality with These 5 FREE Windows Editors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Lava</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diving-into-ai-dialogue-imitation-techniques-used-by-chatbots-to-converse-like-us/"><u>Diving Into AI Dialogue Imitation: Techniques Used by Chatbots to Converse Like Us</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-increase-dedicated-video-ram-vram-in-windows-11-and-11/"><u>How to Increase Dedicated Video RAM (VRAM) in Windows 11 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-locate-pcs-current-window-background-file/"><u>How to Locate PC's Current Window Background File</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leading-9-free-logo-design-software-for-youtube-channels/"><u>In 2024, Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oppo-f23-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Oppo F23 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/inside-googles-visionary-approach-to-language-models-palm-2/"><u>Inside Google's Visionary Approach to Language Models: PaLM 2</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-lives-beyond-windows-11-expectations/"><u>Leading-Edge Lives: Beyond Windows 11 Expectations</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-sailing-through-full-screen-issues-sonic-style-on-w11/"><u>Smooth Sailing Through Full-Screen Issues, Sonic Style on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-windows-11-bypassing-hiccups-and-blockades/"><u>Streamlining Windows 11: Bypassing Hiccups & Blockades</u></a></li>
+<li><a href="https://win11.techidaily.com/tranquil-technology-effortless-windows-11-shutdown/"><u>Tranquil Technology: Effortless Windows 11 Shutdown</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-your-digital-sketchpad-launching-ms-paint-on-win11/"><u>Unveiling Your Digital Sketchpad: Launching MS Paint on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-best-cryptographic-solutions-ranked-148-chars/"><u>Window's Best Cryptographic Solutions Ranked (148 Chars)</u></a></li>
 </ul></div>
 

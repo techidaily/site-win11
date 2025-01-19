@@ -1,7 +1,7 @@
 ---
 title: Restoring Windows Ethernet Net Access
-date: 2025-01-17T23:47:09.430Z
-updated: 2025-01-18T19:21:58.022Z
+date: 2025-01-18T01:44:50.708Z
+updated: 2025-01-19T03:11:42.843Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Ensure Your Router Isn't Faulty
 
  Check whether the issue under discussion occurs with only one device or other devices also before starting the troubleshooting process. To check that, disconnect the Ethernet cable from your device and connect it to another device at home (assuming you've one).
@@ -33,15 +37,7 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 ![modern wifi router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/modern-wifi-router.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you see the same error on the Wi-Fi connection, the issue likely lies with your router or ISP. If that's the case, follow the instructions below to rule out router problems.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Rule Out Router Issues
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  If none of the above fixes resolve the issue, and you suspect the problem could lie with the router, get it inspected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Troubleshoot Your Ethernet Connection
 
 ![Ethernet connection ports with cords inserted into a router](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ethernet-connection-to-router.jpg)
@@ -66,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
  If your other device successfully connects to the internet over Wi-Fi in the previous step but not through Ethernet, there could be an issue with the Ethernet connection, not the internet connection, that requires further investigation.
 
  To rule out temporary issues with the connection, disable the Ethernet adapter and enable it again. In addition, ensure the Ethernet connection isn't loose; disconnect the Ethernet cable from your router and your device, then reconnect it back. Also, inspect the cable carefully for any damage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Rule Out Operating System Issues
 
@@ -79,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  If the above fixes don't help and the problem persists, then apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Change the Network Profile and Turn Off Metered Connection
 
  Changing the network profile and turning off the metered connection can also help resolve the issue under discussion. Therefore, you should make these changes in your Ethernet connection settings.
@@ -87,15 +87,19 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 ![Change Network Profile and Disable Metered Connection in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/change-network-profile-and-disable-metered-connection-in-windows-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make both of these changes in Windows 11, go to **Settings** \> **Network and internet** \> **Ethernet**.
 
 ![disable metered connection in the Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-metered-connection.jpg)
 
- After that, restart your device once to ensure the changes take effect.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After that, restart your device once to ensure the changes take effect.
 
 ## 6\. Change Your DNS Settings and Flush the DNS Cache
 
@@ -115,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
  If you don't mind that, follow the instructions in our guide on [how to reset the network settings in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) (or [Windows 10](https://www.makeuseof.com/tag/reset-network-settings-windows/)) to see if the network reset fixes the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Effortlessly Connect Your Device to an Ethernet Connection
 
  Seeing your Ethernet connected but not being able to access the internet can make us lose our cool. Hopefully, the above fixes will help you solve the problem and start using the internet again. If none of the fixes work and you need help figuring out the problem, contact your ISP and have them diagnose and fix it.
@@ -135,24 +135,22 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-navigating-away-from-youtube-penalties/"><u>[New] Navigating Away From YouTube Penalties</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tiktok-to-twitter-sharing-videos/"><u>[Updated] In 2024, TikTok to Twitter Sharing Videos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-should-you-review-off-facebook-histories-security-tips-and-tricks-for-2024/"><u>[Updated] Should You Review Off-Facebook Histories? Security Tips & Tricks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-future-of-music-freedom-an-insightful-review-of-pazera-tools/"><u>[Updated] The Future of Music Freedom An Insightful Review of Pazera Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-quick-windows-picture-browser/"><u>[Updated] Unmatched Quick Windows Picture Browser</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-templates-for-bespoke-video-epilogues/"><u>2024 Approved Free Templates for Bespoke Video Epilogues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-package-revelation-amplifying-initial-impressions/"><u>2024 Approved The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
-<li><a href="https://win11.techidaily.com/device-discreprancies-fix-your-phone-paced-web-experience/"><u>Device Discreprancies: Fix Your Phone-Paced Web Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-no-cost-techniques-for-increasing-windows-drive-size/"><u>Essential, No-Cost Techniques for Increasing Windows Drive Size</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-league-offline-on-pc/"><u>How to Prevent League Offline on PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-your-windows-11-experience-with-forgotten-features/"><u>Maximizing Your Windows 11 Experience with Forgotten Features</u></a></li>
-<li><a href="https://win11.techidaily.com/mending-winget-glitches-on-modern-windows/"><u>Mending Winget Glitches on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-restriction-error-disable-limited-admin-power/"><u>Overcoming Restriction Error: Disable 'Limited Admin Power'</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-overcome-obs-recording-glitch-on-windows/"><u>Steps to Overcome OBS Recording Glitch on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-11s-help-app-malfunction/"><u>Troubleshooting Windows 11'S Help App Malfunction</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-potential-customizing-the-visibility-of-mouse-cursors-in-win-11/"><u>Unleash Potential: Customizing the Visibility of Mouse Cursors in Win 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-can-you-achieve-with-the-chatgpt-copilot-extension-a-complete-overview/"><u>What Can You Achieve with the ChatGPT Copilot Extension? A Complete Overview</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1728495418986-windows-server-2016/"><u>Windows Server 2016のゴースト化:サーバ保護のためのベストプラクティス</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creative-command-center-studio-for-youtubers/"><u>[New] 2024 Approved Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-unlink-lively-logos-from-your-profile-mobilepc/"><u>[New] How to Unlink Lively Logos From Your Profile (Mobile/PC)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-top-30-pro-windows-10-mastery-hacks/"><u>[New] In 2024, Top 30 Pro Windows 10 Mastery Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-the-barrier-installed-windows-11-on-mac-through-parallels/"><u>Breaking the Barrier: Installed Windows 11 on Mac Through Parallels</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-missing-system-cooling-policy-on-windows/"><u>How to Fix a Missing System Cooling Policy on Windows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-beginners-guide-to-periscope-live-streaming/"><u>In 2024, Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-windows-11-installation-essential-settings-guide/"><u>Personalize Your Windows 11 Installation: Essential Settings Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-volume-control-preferences-in-your-windows-pc/"><u>Revive Volume Control Preferences in Your Windows PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/see-event-october-29-1929-the-wall-street-crash-marks-the-start-of-the-great-depression-showing-a-massive-drop-in-stock-values-and-global-economic-turmoil-r133/"><u>See Event [October 29, 1929]: The Wall Street Crash Marks the Start of the Great Depression, Showing a Massive Drop in Stock Values and Global Economic Turmoil, Relating to 'Equities' As an Example Where Market Confidence Plummeted.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-problem-of-wrong-letters-during-computer-inputs/"><u>Solving the Problem of Wrong Letters During Computer Inputs</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reactivate-missing-windows-phone-link-notifications/"><u>Steps to Reactivate Missing Windows Phone Link Notifications</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/swiftly-dismantle-your-chatgpt-account/"><u>Swiftly Dismantle Your ChatGPT Account</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks-for-2024/"><u>Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/thwarting-windows-users-from-altering-system-time/"><u>Thwarting Windows Users From Altering System Time</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-secure-windows-sound-level-adjustments/"><u>Tips to Secure Windows Sound Level Adjustments</u></a></li>
+<li><a href="https://win11.techidaily.com/tricks-to-enable-touch-typing-on-windows-laptops/"><u>Tricks to Enable Touch Typing on Windows Laptops</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turning-tides-exploring-unique-methods-to-reverse-youtube-videos-for-2024/"><u>Turning Tides Exploring Unique Methods to Reverse YouTube Videos for 2024</u></a></li>
 </ul></div>
 

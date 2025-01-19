@@ -1,7 +1,7 @@
 ---
 title: "Fixing Non-Working Keys: Focus on Windows Enter"
-date: 2024-08-16T00:47:08.103Z
-updated: 2024-08-17T00:47:08.103Z
+date: 2025-01-13T12:44:34.615Z
+updated: 2025-01-18T17:41:47.038Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  Is this the end of your productivity streak? Not necessarily. It’s possible that you just need to troubleshoot a few settings to get the enter key back up and running. In this article, we’ll show you how to troubleshoot and repair an Enter key that’s not working on your Windows PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  It might sound simplistic, but sometimes all you need to restart your computer. This resolves minor software glitches that could cause the Enter key to stop working. After restarting, try typing again and see if pressing the Enter key works as expected.
@@ -31,15 +35,17 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  Be sure there is no liquid or moisture on the keyboard. Also, check the keyboard's cable to make sure it's securely connected to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Test With Another Keyboard
 
  This problem may also occur if you use a defective keyboard. To determine if the keyboard is faulty, try connecting a different one and see if the Enter key works on it. If it does, then you know that the problem lies with your own keyboard, and you’ll need to replace it.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable Filter and Sticky Keys
 
  Filter and Sticky Keys are accessibility features on Windows, but they might interfere with Enter key normal functioning. Disabling them may resolve the issue. Here’s how:
@@ -50,12 +56,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 4. Then go to the **Make it easier to type** section.
 5. Uncheck the box next to **Turn on Filter Keys** and **Turn on Sticky Keys**.  
 ![Turn off Sticky keys and Filter keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-off-sticky-keys-and-filter-keys.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **Apply** and then **OK** to save the changes.
 
  After adjusting these settings, test the Enter key to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update the Keyboard Driver
 
@@ -78,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  Once you complete the process, see if the Enter key is now working properly. If not, you could try running the Hardware and Devices troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## 6\. Run the Hardware and Devices Troubleshooter
 
  The Hardware and Devices troubleshooter detects and fixes hardware issues. It's worth running it to check if something is wrong with your keyboard.
@@ -106,10 +110,12 @@ msdt.exe -id DeviceDiagnostic
 3. Click **Other troubleshooters** on the next page.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 4. Scroll down to the **Keyboard** and click the **Run** button.  
-![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
 
  Follow the instructions on the screen and let the troubleshooter detect any issues. It should automatically fix them for you, so once it completes the process, restart your computer and check if it solves the issue.
 
@@ -119,9 +125,6 @@ msdt.exe -id DeviceDiagnostic
 
  To make sure this isn't the case, [scan your computer for viruses](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/). If you prefer a command user interface, you can [use Windows PowerShell tool to detect and remove malicious programs](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your computer. Once you do that, restart your computer and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## 9\. Use the On-Screen Keyboard
 
  If none of the solutions mentioned above solve your problem, try an on-screen keyboard. This is a virtual keyboard that simulates a real one. You can use this keyboard to input data without relying on a physical keyboard.
@@ -140,15 +143,14 @@ msdt.exe -id DeviceDiagnostic
  If all else fails, you might have to replace your keyboard. But before you do that, make sure to check all the solutions mentioned above — as one of them might help you get the Enter key working again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Your Enter Key Now Works Again on Your Keyboard
 
  Having an Enter key that doesn't work can be frustrating and puzzling. Using the methods in this guide, you should be able to get your Enter key working again right away.
 
  Is this the end of your productivity streak? Not necessarily. It’s possible that you just need to troubleshoot a few settings to get the enter key back up and running. In this article, we’ll show you how to troubleshoot and repair an Enter key that’s not working on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -156,3 +158,23 @@ msdt.exe -id DeviceDiagnostic
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-30-metaverse-phenomena-making-your-mark-with-memes-for-2024/"><u>[New] 30 Metaverse Phenomena Making Your Mark with Memes for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-best-gear-for-comprehensively-filmed-action-for-2024/"><u>[New] Best Gear for Comprehensively Filmed Action for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-vlc-options-and-rivals/"><u>[Updated] 2024 Approved Exploring VLC Options and Rivals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-key-elements-in-transforming-your-youtube-channels-visibility-for-2024/"><u>[Updated] The Key Elements in Transforming Your YouTube Channels' Visibility for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-masterful-fb-marketing-essential-tips-for-every-business-level/"><u>2024 Approved Masterful FB Marketing Essential Tips for Every Business Level</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-networking-with-python-servers-on-windows-os/"><u>Advanced Networking with Python Servers on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-the-gif-size-barrier-on-discord-for-win11-users/"><u>Breaking Down the GIF Size Barrier on Discord for Win11 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-techniques-for-duplicating-dvd-content-on-modern-windows-systems-windows-1011/"><u>Efficient Techniques for Duplicating DVD Content on Modern Windows Systems (Windows 10/11)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-razr-40-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-kinemasters-android-gameplay/"><u>In 2024, The Ultimate Guide to KineMaster's Android Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/is-obs-studio-unable-to-record-audio-on-windows-11-try-these-fixes/"><u>Is OBS Studio Unable to Record Audio on Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-not-an-empty-directory-error-code-0x80070091-in-win11-and-11/"><u>Rectifying Not an Empty Directory Error Code 0X80070091 in Win11 & 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-audio-output-on-microsofts-read-aloud-functionality/"><u>Resetting Audio Output on Microsoft's Read Aloud Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-windows-cab-files-purpose-and-installation-tactics/"><u>The Essentials of Windows CAB Files: Purpose & Installation Tactics</u></a></li>
+</ul></div>
+

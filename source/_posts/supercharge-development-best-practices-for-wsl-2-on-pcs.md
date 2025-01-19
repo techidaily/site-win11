@@ -1,7 +1,7 @@
 ---
 title: "Supercharge Development: Best Practices for WSL 2 on PCs"
-date: 2025-01-18T00:48:56.641Z
-updated: 2025-01-18T21:24:43.985Z
+date: 2025-01-15T00:05:17.161Z
+updated: 2025-01-19T06:16:56.806Z
 tags:
   - windows10
   - windows11
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/0e07053ee64fa15ad5d79e86651cfe492e77f4718
 ![A laptop sitting on a desk with code open on the screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-the-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a developer, you can benefit from WSL by developing cross-platform applications without worrying about dedicated VM setup or leaving the Windows ecosystem. It also provides developers with a powerful Linux kernel that is directly integrated within Windows 10/11.
@@ -55,15 +55,15 @@ Here are some of the other important WSL 2 benefits for developers:
 
  For users new to WSL 2, following the best practices to establish an efficient workflow is essential. On the other hand, if you’re already familiar with WSL 2, these tips will help ensure you’re being as productive as possible.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Use the Windows Terminal
 
  The all-new Windows Terminal is a powerful open-source terminal from the Microsoft Store. Microsoft has designed the Windows Terminal to integrate the WSL 2 directly and automatically configure any Linux distributions as soon as they’re installed. This means you can easily switch between Windows and Linux without having to set up a different environment.
 
 ![The Open a new tab menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-shell-options-in-windows-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows Terminal can support multiple shells, such as PowerShell, WSL 2, and Command Prompt. It also offers several productivity features, including multiple tabs, a search bar, and split panes; you can even customize the terminal’s appearance to your liking.
 
@@ -74,26 +74,18 @@ Here are some of the other important WSL 2 benefits for developers:
 ![Code in VSCode on laptop sitting on the ground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Code-on-Laptop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many developers rely on VS Code, an incredibly versatile IDE (code editor). It offers an integrated terminal, extension support, and has an intuitive interface that is super–customizable. If you’re using WSL 2 for development, you want to integrate WSL 2 with Visual Studio Code for a smooth workflow.
 
  You can use VS Code with WSL 2 by ensuring you have Visual Studio Code and a WSL 2 Linux distribution on your Windows system. You can install the**Remote - WSL** extension in Visual Studio Code and configure it according to your requirements.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set Up Multiple Profiles
 
  If you plan on using WSL 2 for work, personal learning, or school, consider creating separate user profiles. This will allow you to keep your apps, configs, and files organized.
 
  One method to set up multiple profiles is to use the Windows Terminal; once you’ve got it installed on your Windows 10 or 11 PC, navigate to**Settings > Profiles > Add** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update Packages
 
@@ -107,9 +99,17 @@ Here are some of the other important WSL 2 benefits for developers:
 
 ![ubuntu running as a docker container](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/running-_ubunut_in_docker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Docker is an open-source platform that allows developers to efficiently build, deploy and run their applications within a container. All dependencies are bundled up so your project can easily be deployed in any environment.
 
  You can use Docker on Windows 10 and 11 via Docker Desktop as a standalone application or integrate it with Windows Subsystem for Linux for better performance and efficient resource consumption. We strongly recommend running your containers with WSL 2 for development or testing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## WSL 2 Is A Win-Win on Windows
 
@@ -130,18 +130,22 @@ Here are some of the other important WSL 2 benefits for developers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-reawakening-dormant-connections-with-your-obs-cam/"><u>[New] 2024 Approved Reawakening Dormant Connections with Your OBS Cam</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-prime-cameras-for-extreme-pursuits/"><u>[New] Prime Cameras for Extreme Pursuits</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-verify-pin-bluetooth-issue-on-windows-systems/"><u>Eliminating Verify Pin Bluetooth Issue on Windows Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-x6-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find X6 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-fixes-for-elevate-required-errors-in-windows-1011/"><u>Immediate Fixes for Elevate Required Errors in Windows 10/11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-digital-content-upgrade-changing-numbers-on-tiktok-quickly/"><u>In 2024, Digital Content Upgrade Changing Numbers on TikTok Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-windows-11-serene-stop-background-jobs/"><u>Keeping Windows 11 Serene: Stop Background Jobs</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-the-rope-engaging-with-windows-11-insider-program/"><u>Learn the Rope: Engaging with Windows 11 Insider Program</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ified-video-transferring-techniques-for-youtube-enthusiasts/"><u>Simplified Video Transferring Techniques for YouTube Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-fixing-windows-app-configuration-issue/"><u>Strategies for Fixing Windows App Configuration Issue</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/the-best-free-tools-to-convert-videos-on-windows-10-2020-guide-upgrade-your-hd-and-4k-video-experience-without-costs/"><u>The Best Free Tools to Convert Videos on Windows 10 (2020 Guide): Upgrade Your HD and 4K Video Experience Without Costs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-list-of-world-explorers-on-youtube/"><u>[New] In 2024, The Ultimate List of World Explorers on Youtube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-zooms-best-audio-fixes-clear-sounds-and-hearing-improvement/"><u>[New] Zoom's Best Audio Fixes Clear Sounds & Hearing Improvement</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exclusive-choice-of-cost-free-chat-apps-plus-desktop-viewing-for-2024/"><u>[Updated] Exclusive Choice of Cost-Free Chat Apps + Desktop Viewing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-guide-to-selective-zoom-in-virtual-classrooms-google-meet/"><u>[Updated] In-Depth Guide to Selective Zoom in Virtual Classrooms (Google Meet)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-crystalgrabber-deluxe-winos/"><u>2024 Approved CrystalGrabber Deluxe - WinOS</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-text-inconsistency-ms-resouce-error-win11/"><u>Addressing Text Inconsistency: Ms-Resouce Error, Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chucklebox-build-memes-free-of-charge-for-2024/"><u>ChuckleBox Build Memes Free of Charge for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-productivity-easy-office-setup-for-windows-1011/"><u>Enhance Productivity: Easy Office Setup for Windows 10/11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-sfc-and-dism-can-revitalize-your-windows-11-system/"><u>How SFC & DISM Can Revitalize Your Windows 11 System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-vivo-y36-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Vivo Y36 Phone that is Locked?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-blue-band-promise-reimagined-breaking-the-streaks-barrier/"><u>In 2024, The Blue Band Promise Reimagined - Breaking the Streaks Barrier</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-guide-removing-the-isdonedll-issue-on-w11/"><u>Quick Fix Guide: Removing the ISDone.dll Issue on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/quickfire-tips-for-unbeatable-win-cs-speed/"><u>Quickfire Tips for Unbeatable Win CS Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/top-7-freebies-best-media-centers-for-windows-users/"><u>Top 7 Freebies: Best Media Centers for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-service-failure-in-windows-11/"><u>Troubleshooting Steam Service Failure in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-the-implications-of-removing-windows-11s-taskbar-chatting-capability-on-you/"><u>Unpacking the Implications of Removing Windows 11'S Taskbar Chatting Capability on You</u></a></li>
+<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
 </ul></div>
 

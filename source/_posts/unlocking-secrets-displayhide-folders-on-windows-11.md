@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Secrets: Display/Hide Folders on Windows 11"
-date: 2025-01-17T19:31:54.465Z
-updated: 2025-01-19T00:18:01.016Z
+date: 2025-01-13T19:19:38.624Z
+updated: 2025-01-18T20:55:18.864Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Before you proceed, we highly recommend reading our guide on [what the Windows Registry is and how to edit it](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) to familiarize yourself with what we will be doing next. Also important is knowing [how to back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/). Considering this is the database that Windows stores the data it needs to operate properly, you will need this backup in case you make an error.
 
  For showing and hiding folders in This PC to work, make sure you’re running the latest version of Windows 11\. You'll know you have it if File Explorer has tabs.
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/3da56b4dd62c9d29faa422fa86eb533c5fdaa7995
  With the Registry Editor open, let's get to it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the 3D Objects Folder in This PC
@@ -52,21 +56,17 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 ![new-key-namespace-regedit-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-key-namespace-regedit-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, refresh File Explorer by hitting **F5**. Now you will see that the **3D Objects** folder has appeared in This PC.
 
 ![3d-objects-this-pc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-objects-this-pc.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To remove the folder again, just go back to the Registry Editor, right-click the **{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}** key, and select **Delete**. After you refresh File Explorer, the folder will be gone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the Documents, Music, Videos, Pictures, and/or Downloads Folders in This PC
@@ -79,15 +79,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 ![delete-hideifenabled-value-regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-hideifenabled-value-regedit.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, refresh File Explorer with **F5** and the **Documents** folder will appear in This PC.
 
  To hide it, right-click the key on the left panel and select **New > DWORD (32-bit) Value** and name it **HideIfEnabled**. Double-click the newly-created value in the right panel, set **Value data** to **22ab9b9**, and then click **OK**.
 
 ![set-hideifenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-hideifenabled.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now when you refresh This PC in File Explorer, you will see that the **Documents** folder is gone.
 
@@ -130,17 +130,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-perfecting-presentations-with-zoom-screenshares/"><u>[New] In 2024, Perfecting Presentations with Zoom Screenshares</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-launch-free-youtube-events-a-step-by-step-guide/"><u>[New] Launch Free Youtube Events A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-scrutinizing-the-most-accessible-affordable-lut-collections/"><u>[Updated] Scrutinizing the Most Accessible, Affordable LUT Collections</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-tech-sleuths-guide-to-choosing-the-best-screen-recorder-for-2024/"><u>[Updated] Tech Sleuths’ Guide to Choosing the Best Screen Recorder for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-the-windows-access-denied-error-code-0x80070522/"><u>Correcting the Windows Access Denied Error: Code 0X80070522</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-smooth-performance-official-qualcomm-drivers-for-windows-platforms-windows-11-10-8-and-7/"><u>Ensure Smooth Performance: Official Qualcomm Drivers for Windows Platforms - Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-simplified-obs-settings-for-economical-systems/"><u>In 2024, Simplified OBS Settings for Economical Systems</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-it-neat-how-to-make-windows-recycle-bin-self-cleanse/"><u>Keep It Neat: How to Make Windows Recycle Bin Self-Cleanse</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-msstore-from-error-0x0-issue-in-windows-os/"><u>Unblocking MsStore From Error 0X0 Issue in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-11s-potential-with-latest-patch-details/"><u>Unlocking Windows 11'S Potential with Latest Patch Details</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-taskbar-while-running-full-screen-edges/"><u>Unveiling Hidden Taskbar While Running Full Screen Edges</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-a-comprehensive-guide-to-the-12-superior-vlogging-cameras/"><u>[New] In 2024, A Comprehensive Guide to the 12 Superior Vlogging Cameras</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-effortless-instagram-media-export-top-20-free-mp4-converters-online/"><u>[New] In 2024, Effortless Instagram Media Export Top 20 Free MP4 Converters Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-stepwise-approach-to-unlinking-and-removing-youtube-content/"><u>[Updated] In 2024, A Stepwise Approach to Unlinking and Removing YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-strategies-for-amplifying-your-yt-viewership-quickly/"><u>[Updated] In 2024, Strategies for Amplifying Your YT Viewership Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/assessing-common-fb-video-formats-for-2024/"><u>Assessing Common FB Video Formats for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-meizu-21-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Meizu 21 Pro? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-usb30-device-failure-in-windows-1011-systems/"><u>Mending USB3.0 Device Failure in Windows 10/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-device-pathway-restrictions-in-windows/"><u>Overcoming Device Pathway Restrictions in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-outdated-boot-options-gray/"><u>Overcoming Outdated BOOT Options Gray</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-temporary-path-errors-quick-fix-guide-for-windows-error-1152/"><u>Tackling Temporary Path Errors - Quick Fix Guide for Windows Error 1152</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-missing-device-issue-on-windows-os/"><u>Troubleshooting Missing Device Issue on Windows OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-best-free-whiteboard-animation-software-for-windows-mac-and-online/"><u>Updated In 2024, S Best Free Whiteboard Animation Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-secure-access-tips-for-stuck-pins/"><u>Windows Secure Access: Tips for Stuck Pins</u></a></li>
 </ul></div>
 

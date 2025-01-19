@@ -1,7 +1,7 @@
 ---
 title: Flawless Functionality in Windows Zoom - Eliminate Error 1132
-date: 2024-08-16T00:46:44.935Z
-updated: 2024-08-17T00:46:44.935Z
+date: 2025-01-16T10:05:04.606Z
+updated: 2025-01-19T12:46:55.558Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,9 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -46,17 +46,14 @@ thumbnail: https://thmb.techidaily.com/1b2195440e349b5f0884d1401c71f047053f6f528
 ![The Check for Updates option in Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates-option.jpg)
 4. If the window says there’s an update available, click the**Update** (or**Install**) option.  
 ![The Update button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/zoom-update-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 5. Wait for the Zoom updater to finish.
-6. Sign back into Zoom after the update, and try joining a meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Sign back into Zoom after the update, and try joining a meeting.
+
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -77,9 +74,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Aside from that, consider checking if Zoom is permitted to communicate through the firewall. Windows Defender Firewall has an allowed app list in which you can select to authorize or disable Zoom and other software to establish connections through it. Select the**Private** and**Public** checkboxes for Zoom in that allowed app list. See our guide about[allowing apps through the Windows Defender Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable Third-Party Antivirus/Security Software
@@ -91,8 +88,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall the Zoom App
 
  Reinstalling Zoom will completely refresh that app’s files and ensure you’re utilizing its latest version. This is how you can reinstall Zoom in Windows 10 and 11:
@@ -102,6 +100,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 3. Click the menu button for the Zoom app to select**Uninstall** . You can select the app and click**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-option.jpg)
 4. Open[the Zoom](https://zoom.us/download#client%5F4meeting) download center.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
@@ -115,10 +118,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. First, uninstall Zoom in your current Windows user profile, as covered in steps one to three of resolution five.
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for[creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 3. When you’ve set up a new local Windows user account, log out of your current one.
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
@@ -127,9 +126,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  If this solution works, you can sign in to the new Windows account to use Zoom whenever needed. However, some users who need to utilize Zoom regularly may prefer to migrate files from their old accounts to new ones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Join Your Zoom Meetings Again on Windows
 
  Those potential solutions will likely fix Zoom error code 1132 to enable you to join meetings with that app again. If you’re desperate to resolve that issue, more drastic solutions like resetting Windows to factory settings may also work. Yet, there isn’t a guaranteed error 1132 resolution, and you can submit a help request at the[Zoom support page](https://support.zoom.us/hc/en-us/requests/new) if further fixes are needed.
@@ -140,8 +136,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +143,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-28-exemplary-metaverse-experiences-for-in-depth-understanding/"><u>[New] 28 Exemplary Metaverse Experiences for In-Depth Understanding</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-step-by-step-wiping-out-youtube-video-downloads/"><u>[Updated] 2024 Approved Step by Step Wiping Out YouTube Video Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blur-and-bury-backgrounds-with-ease/"><u>[Updated] Blur and Bury Backgrounds with Ease</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-videovisionary-pro8-for-2024/"><u>[Updated] VideoVisionary Pro8 for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-view-from-above-discover-our-top-11-bridge-camera-picks-for-2024/"><u>[Updated] View From Above Discover Our Top 11 Bridge Camera Picks for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>2024 Approved Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-enhancing-iphone-shots-employing-leading-lines/"><u>2024 Approved Enhancing iPhone Shots Employing Leading Lines</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-fifa-footage-analysis-trendy-video-patterns/"><u>2024 Approved FIFA Footage Analysis Trendy Video Patterns</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-path-not-found-on-pc-networks/"><u>Addressing Path Not Found on PC Networks</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-instructions-eradicating-wsl-from-windows/"><u>Comprehensive Instructions: Eradicating WSL From Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/hasten-enablingdisabling-microsofts-bing-assistant-in-taskbar/"><u>Hasten Enabling/Disabling: Microsoft's Bing Assistant in Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-volume-control-slider-not-working-in-windows-11-and-11/"><u>How to Fix the Volume Control Slider Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-understanding-and-implementing-audio-ebb-in-premiere-pro/"><u>In 2024, Understanding and Implementing Audio Ebb in Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-microsoft-powerpoint-prints-on-windows/"><u>Navigating the Maze of Microsoft PowerPoint Prints on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unfunctional-enter-key-in-windows-os/"><u>Resolving Unfunctional Enter Key in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-the-task-of-updating-administrator-name-on-windows-11/"><u>Simplifying the Task of Updating Administrator Name on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-using-github-desktop-for-windows-11-dev-teams/"><u>Tailored Guide to Using GitHub Desktop for Windows 11 Dev Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-familiarity-top-7-reasons-why-you-love-win10/"><u>Unveiling the Power of Familiarity: Top 7 Reasons Why You Love Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/want-to-use-windows-11-without-bloatware-and-stern-hardware-requirements-try-tiny11/"><u>Want to Use Windows 11 Without Bloatware and Stern Hardware Requirements? Try Tiny11</u></a></li>
+</ul></div>
 

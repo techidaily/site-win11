@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Subnet Settings in Win11
-date: 2025-01-16T17:18:28.551Z
-updated: 2025-01-18T19:05:28.519Z
+date: 2025-01-18T06:16:50.450Z
+updated: 2025-01-19T04:52:06.849Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Find the Subnet Mask in Windows 11
 
  The easiest way to find the subnet mask in Windows 11 is through the[Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) or Windows PowerShell. To find it using the Command Prompt, follow the steps below:
@@ -43,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
  The settings menu is the central hub of a Windows operating system. It's a place to configure different settings of your computer and manage the network. You can also use it to change the subnet mask.
@@ -63,6 +63,10 @@ Here's how to do it:
 6. Enter the details, including the subnet mask, and click**Save.**  
 ![Entering the new Subnet Mask in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/entering-the-new-subnet-mask.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Change the Subnet Mask Using the Control Panel
 
  The Control Panel is the go-to place to configure window settings and make changes to your device. To use it to change the subnet mask, follow the below instructions:
@@ -74,10 +78,6 @@ Here's how to do it:
 ![Network name in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-name.jpg)
 5. Choose**Properties** from the window that appears.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
@@ -86,7 +86,7 @@ Here's how to do it:
 8. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
@@ -105,11 +105,11 @@ Here's how to do it:
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
@@ -133,16 +133,19 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-streaming-aerial-adventures-on-fb-from-dji-drone/"><u>[New] Streaming Aerial Adventures on FB From DJI Drone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/hevch265h264/"><u>無料でプレミアム！HEVCもしくはH.265ファイルを優れた品質のH.264に変換方法</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/crucial-techniques-for-documenting-lol-wars-for-2024/"><u>Crucial Techniques for Documenting LOL Wars for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/eye-catching-laptops-exhibited-at-ifa-2023/"><u>Eye-Catching Laptops Exhibited at IFA 2023</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/freeze-frame-fun-the-complete-guide-to-xbox-one-snapshots/"><u>Freeze Frame Fun The Complete Guide to Xbox One Snapshots</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-guide-to-filmed-action-preservation/"><u>In 2024, Premier Guide to Filmed Action Preservation</u></a></li>
-<li><a href="https://win11.techidaily.com/opera-on-windows-thwarting-the-downloading-dilemma/"><u>Opera on Windows: Thwarting the Downloading Dilemma</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/security-straightforward-quick-ways-to-suspend-user-accounts-in-win11/"><u>Security Straightforward: Quick Ways to Suspend User Accounts in Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/strategic-approaches-to-maximize-impact-with-spotify-ads/"><u>Strategic Approaches to Maximize Impact with Spotify Ads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-best-youtube-keyword-tools-to-get-more-views-filmora/"><u>[New] 10 Best YouTube Keyword Tools to Get More Views - Filmora</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-beyond-glitter-the-pure-reality-of-recordcast-experience/"><u>[Updated] 2024 Approved Beyond Glitter The Pure Reality of RecordCast Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-balancing-focus-zooming-tips-for-clear-instagram-stories-for-2024/"><u>[Updated] Balancing Focus Zooming Tips for Clear Instagram Stories for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-quick-steps-to-join-start-and-manage-a-zoom-call-with-your-android-device-for-2024/"><u>[Updated] Quick Steps to Join, Start & Manage a Zoom Call with Your Android Device for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-realme-c51-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Realme C51 without App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/7-ways-to-open-the-appsfolder-in-windows-11/"><u>7 Ways to Open the AppsFolder in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-corruption-errors-fixing-file-issues-code-0x80070570-on-windows-11/"><u>Disabling Corruption Errors - Fixing File Issues Code 0X80070570 on Windows 11</u></a></li>
+<li><a href="https://fox-within.techidaily.com/pop-up-blocker-software-remove-persistent-ads-with-the-advanced-adware-eliminator-by-malwarefox/"><u>Pop-Up Blocker Software: Remove Persistent Ads with the Advanced Adware Eliminator by MalwareFox</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-gopro-enhancements-guide-for-2024/"><u>Premium Gopro Enhancements Guide for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/revolutionizing-healthcare-cyber-therapies-for-2024/"><u>Revolutionizing Healthcare Cyber-Therapies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recording-techniques-for-enhanced-creativity/"><u>Screen Recording Techniques for Enhanced Creativity</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-windows-11-ui/"><u>The Essentials of Windows 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-assistive-center-in-five-moves/"><u>Unlock Windows' Assistive Center in Five Moves</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-strategies-for-eradicating-microsoft-defender-footprints/"><u>Win 11 Strategies for Eradicating Microsoft Defender Footprints</u></a></li>
 </ul></div>
 

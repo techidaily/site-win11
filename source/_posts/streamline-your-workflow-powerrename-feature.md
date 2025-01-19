@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Workflow: PowerRename Feature"
-date: 2025-01-13T22:44:53.334Z
-updated: 2025-01-18T18:20:51.687Z
+date: 2025-01-16T09:43:33.764Z
+updated: 2025-01-18T16:04:05.603Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is PowerToys PowerRename?
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
  To use the Microsoft Store version, visit Windows' Start menu, search for the**Microsoft Store** , and launch it. Then, look for "powertoys" using the window's top search field.
 
 ![Microsoft Store Searching For PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-store-searching-for-powertoys.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you find the**Microsoft PowerToys** entry, click on it to visit its page. There, click on**Install** on the left to bring PowerToys onboard.
 
@@ -98,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
  You'll see a preview of the new filenames on the right of the affected files. If you're happy with the results, click Apply to perform the actual rename process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Filenames & Extensions
 
  By default, PowerRename will act on the actual name of each file, skipping its extension. There are cases where you might want to batch-rename extensions instead.
@@ -108,13 +116,13 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Changing File Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-changing-file-extensions.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do that, check the setting under**Apply to** , right below the "target string" field.
 
 ![PowerRename Apply To Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-apply-to-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From there, you can choose if PowerRename will affect only the selected files**Filenames** , their**Extensions** , or both**Filenames + Extensions** .
 
@@ -125,7 +133,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Text Formatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-text-formatting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The final icon, separated from the others and on the right, is the numbering toggle. Click on it, and PowerRename will add numbers inside parentheses to the filenames so that "filename.jpg" may become "filename (1).jpg".
@@ -143,7 +151,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![PowerRename Regex Any Three Characters From The Beginning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-any-three-characters-from-the-beginning.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To use RegEx instead of "simple" string replacement, place a checkmark before**Use regular expressions** .
@@ -152,15 +160,7 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 ![PowerRename Regex Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powerrename-regex-help.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Still, that mini-guide is short, restricted, and only covers basic RegEx syntax. Find out more about RegEx in[our beginner's guide to Regular Expressions with Python](https://www.makeuseof.com/regular-expressions-python/) . However, note that there might be variations in Python RegEx syntax compared to PowerRename's implementation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Quick, Effortless, and Powerful File Organization With PowerRename
 
@@ -185,16 +185,16 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[New] In 2024, Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-potential-top-8-mirrorless-cameras-for-youtube-stars/"><u>[New] In 2024, Unlocking Potential Top 8 Mirrorless Cameras For YouTube Stars</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-essential-tools-free-online-youtuber-starters/"><u>[Updated] Essential Tools Free Online Youtuber Starters</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-windows-application-speed-through-improved-networking/"><u>Enhance Windows Application Speed Through Improved Networking</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/masterful-approaches-to-restoring-windows-11-logins/"><u>Masterful Approaches to Restoring Windows 11 Logins</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mending-faulty-avchd-clips/"><u>Mending Faulty AVCHD Clips</u></a></li>
-<li><a href="https://win11.techidaily.com/onedrive-path-alteration-guide-for-windows-11-users/"><u>OneDrive Path Alteration Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-greyed-out-pin-deletion-in-windows-11-interface/"><u>Resetting Greyed-Out Pin Deletion in Windows 11 Interface</u></a></li>
-<li><a href="https://win11.techidaily.com/speeding-up-win11-startup-easy-strategies-to-reduce-delays/"><u>Speeding Up Win11 Startup: Easy Strategies to Reduce Delays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-step-by-step-guide-to-crafting-twitreacts/"><u>[Updated] In 2024, Step-by-Step Guide to Crafting TwitReacts</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-metric-tracking-features-for-a-wi-fi-network-in-windows-11/"><u>How to Adjust Metric Tracking Features for a Wi-Fi Network in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-10-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 10 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/infinix-gt-10-pro-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix GT 10 Pro Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-mouse-lagging-in-star-wars-battlefront-2-on-windows-try-these-8-fixes/"><u>Is Your Mouse Lagging in Star Wars Battlefront 2 on Windows? Try These 8 Fixes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-system-check-ensuring-your-computer-meets-premiere-pros-requirements/"><u>New 2024 Approved System Check Ensuring Your Computer Meets Premiere Pros Requirements</u></a></li>
+<li><a href="https://win11.techidaily.com/security-essentials-pre-upgrade-activation-of-tpm-and-secure-boot/"><u>Security Essentials: Pre-Upgrade Activation of TPM & Secure Boot</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-a-stopped-netflix-window-program/"><u>Solutions for a Stopped Netflix Window Program</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-the-look-of-windows-11s-basic-text-editor/"><u>Transforming the Look of Windows 11'S Basic Text Editor</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126213-9781609251703-your-guardian-angel-and-you/"><u>Your Guardian Angel and You | Free Book</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnets-complete-guide-to-the-april-2024-lunar-eclipse-tips-for-viewing-essential-gear-and-key-facts-you-should-be-aware-of/"><u>ZDNet's Complete Guide to the April 2024 Lunar Eclipse: Tips for Viewing, Essential Gear & Key Facts You Should Be Aware Of</u></a></li>
 </ul></div>
 

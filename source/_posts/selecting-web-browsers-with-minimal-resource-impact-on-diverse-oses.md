@@ -1,7 +1,7 @@
 ---
 title: Selecting Web Browsers with Minimal Resource Impact on Diverse OSes
-date: 2024-08-16T00:45:05.155Z
-updated: 2024-08-17T00:45:05.155Z
+date: 2025-01-15T17:45:28.689Z
+updated: 2025-01-19T13:05:51.686Z
 tags:
   - windows10
   - windows11
@@ -31,16 +31,14 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
  For example, a browser using more RAM on a Windows device from a specific manufacturer might use less RAM on a device with more efficient RAM. To provide a baseline, we will list the specifications of the devices used in the test.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Browser Uses the Least Memory and CPU Resources on a Windows Device?
 
  For Windows, we will analyze the resource consumption of Edge, Opera, Firefox, and Chrome browser to determine which one you should use. The following image shows the specifications of the Windows device we are running this test on:
 
 ![Specifications of a Windows Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-a-windows-laptop.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Here are the RAM and CPU consumption figures for all browsers on a Windows device when running one YouTube video, WhatsApp Web, a blog site, and a Reddit video:
 
@@ -56,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 **Verdict:** Based on the above results, Windows users should opt for Edge if they want to put the least burden on their CPU. For low memory consumption, you can either use Firefox or Edge. Nonetheless, since Firefox stresses your CPU a bit more, it's best to use Microsoft Edge on a Windows device.
 
  If you use a browser that consumes lots of CPU resources and can't switch to another for some reason, turn on efficiency mode for the browser's processes. It's a feature introduced in Windows 11 that makes the processes low-priority, making the processor allocate fewer resources, thereby limiting their CPU usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which Browser Consumes the Least Memory and CPU Resources on ChromeOS?
 
@@ -78,16 +80,17 @@ thumbnail: https://thmb.techidaily.com/e46847f4d730c4e71d01b69ffbbf4867ec3238091
 **Verdict:** If your Chromebook's processor isn't powerful, you can choose Opera. Chrome is a good choice for users having limited memory at their disposal.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Browser Consumes the Least RAM and CPU on macOS?
 
  For macOS, we will analyze the resource consumption of Safari, Opera, Firefox, and Chrome. In the following image, you can see the specifications of the macOS device we are using for the test:
 
 ![Specifications of Macbook Air 2015](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/specifications-of-macbook-air-2015.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below, you can find a breakdown of the resources consumed by each browser when running the same processes on a MacBook:
@@ -104,8 +107,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 **Verdict:** Considering Safari consumes the least CPU and RAM resources, it should be the default browser for all Apple users. As an alternative to it, your next best choice should be Chrome rather than Firefox or Opera.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What About Using Less Popular Browsers?
 
  Although we have tested the resources consumed by popular and mainstream browsers, you can also choose [less popular or private browsers](https://www.makeuseof.com/tag/2-anonymous-web-browsers-completely-private-secure/) if they are more efficient.
@@ -114,9 +118,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  But how can you test which browser consumes the least resources, aside from those we have already tested?
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Test Other Browsers' Resource Consumption Yourself
 
  To check how much strain any browser puts on your device's hardware, follow these steps:
@@ -136,11 +137,28 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  In this article, we'll compare the RAM and CPU resources consumed by different browsers on Windows, macOS, and ChromeOS; so you can see which browser uses the least resources on your device.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-foremost-8-4k-blu-ray-systems-reviewed/"><u>[New] 2024 Approved The Foremost 8 4K Blu-Ray Systems Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-revamping-your-snapchat-speech-two-straightforward-steps/"><u>[Updated] 2024 Approved Revamping Your Snapchat Speech Two Straightforward Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-your-compre-agent-in-finding-superior-hdr-cameras/"><u>[Updated] In 2024, Your Compre Agent in Finding Superior HDR Cameras</u></a></li>
+<li><a href="https://solve-news.techidaily.com/capire-come-diminuire-il-peso-del-file-dei-filmati-in-alta-definizione-hd4k8k-con-un-abbassamento-del-90/"><u>Capire Come Diminuire Il Peso Del File Dei Filmati in Alta Definizione: HD/4K/8K Con Un Abbassamento Del 90%!</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-examining-microsoft-vs-standard-windows-user-accounts/"><u>Cross-Examining Microsoft vs Standard Windows User Accounts</u></a></li>
+<li><a href="https://win11.techidaily.com/displaying-networked-storage-options-on-screen/"><u>Displaying Networked Storage Options on Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-deactivation-four-proven-methods-to-cut-off-users-in-win11/"><u>Easy Deactivation: Four Proven Methods to Cut Off Users in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-powertoys-on-win11/"><u>Enhancing User Experience: PowerToys on Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experts-choice-best-vr-handh-written-by-assistant-for-2024/"><u>Expert's Choice Best VR Handh Written by Assistant for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/improve-your-pc-gaming-experience-simple-steps-to-upgrade-and-install-amd-vega-drivers/"><u>Improve Your PC Gaming Experience: Simple Steps to Upgrade & Install AMD Vega Drivers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-mac-video-logic-tool/"><u>In 2024, Ideal Mac Video Logic Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-ntfs-enablingdisabling-file-compression/"><u>Mastering NTFS: Enabling/Disabling File Compression</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-outlook-folder-unreadable-error-steps-for-personal-computers/"><u>Resolve 'Outlook Folder Unreadable' Error: Steps for Personal Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y36i-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y36i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
+

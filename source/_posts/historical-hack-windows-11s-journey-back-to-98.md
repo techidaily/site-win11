@@ -1,7 +1,7 @@
 ---
 title: "Historical Hack: Windows 11'S Journey Back to 98"
-date: 2025-01-16T20:49:27.719Z
-updated: 2025-01-18T17:29:17.407Z
+date: 2025-01-15T13:14:03.520Z
+updated: 2025-01-18T18:44:14.247Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Things You'll Need to Make a Retro Windows 11
 
 ![screenshot of different programs downloaded in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_downloaded_files_in_windows_11.jpg)
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  This process may not be for the faint of heart. We'll need several different tools to make sure we apply a classic theme over every inch we can, and at least one of these tools is a premium offering with a free trial.
 
  With that being said, let's grab everything you need. To make it easier on yourself, you'll want to download these all to one folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### WindowsBlinds 11 and Skin Pack
 
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  Open-Shell-Menu, found on the[Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to[make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### RetroBar
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
@@ -56,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 ### Desktop Sidebar
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Windows 98 Sound Pack
 
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
 
  Now, launch the program. If you haven't already purchased it, simply activate the free trial to continue.
@@ -80,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
  You'll find your theme at the very bottom of the list of available themes. Select this theme and then click**Apply style to Desktop.** You'll have to wait a few seconds.
 
  You'll now have a very general color layout applied, but it's not quite there yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install Open-Shell-Menu
 
@@ -97,9 +97,17 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 This gives us a fairly authentic-looking Start Menu and icon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Install RetroBar
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
 
@@ -125,10 +133,6 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
  Do this for the remaining items, or until you're satisfied. There are 15 classic sounds all up, and they add a lot to the nostalgic experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Desktop Sidebar
 
 ![screenshot of the windows sidebar with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_side_bar_options.jpg)
@@ -144,7 +148,7 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ![screenshot of winaero tweaker configuring icon settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_winaero_tweaker_icons_page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With WinAero Tweaker, we'll be doing some finishing touches. Install this program using the .exe and then use the search bar within the program to seek out the following options.
@@ -166,10 +170,6 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 ![screenshot of the power settings in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_power_settings_in_windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This last step is optional and entirely impractical, but if you are after a truly authentic experience, you might want to drop some performance settings.
 
  Search Windows performance in your start menu (don't forget to click on it!) and click into**Adjust the appearance and performance of Windows.**
@@ -179,13 +179,13 @@ However, there is one icon you can only change using Winaero Tweaker.
 ![screenshot of windows 11 desktop with classic skin applied](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_11_with_skin_applied-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's New Is Old on Windows
@@ -211,19 +211,20 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-future-pioneers-8-rapidly-expanding-video-ventures/"><u>[New] 2024 Approved Future Pioneers 8 Rapidly Expanding Video Ventures</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-easy-guide-turning-your-favorite-youtube-videos-into-animated-gifs/"><u>[New] Easy Guide Turning Your Favorite YouTube Videos Into Animated GIFs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-constructing-captivating-valorant-youtube-thumbnails/"><u>[New] In 2024, Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>[New] Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-deciphering-sharex-comparisons-and-replacements/"><u>[Updated] Deciphering ShareX Comparisons & Replacements</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-unmissable-worlds-that-define-gaming/"><u>2024 Approved Unmissable Worlds That Define Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/ancestry-unveiled-7-enduring-features-of-windows-11/"><u>Ancestry Unveiled: 7 Enduring Features of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-errors-with-proper-use-of-winservicesexe/"><u>Avoiding Errors with Proper Use of Winservices.exe</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/breaking-ground-in-vr-content-development-for-2024/"><u>Breaking Ground in VR Content Development for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-basics-windows-system-configuration/"><u>Master the Basics: Windows System Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/organize-your-workspace-attaching-this-pc-icon-to-desktop/"><u>Organize Your Workspace: Attaching 'This PC' Icon to Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/procedures-for-resolving-unresponsive-installation-on-windows-os/"><u>Procedures for Resolving Unresponsive Installation on Windows OS</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/step-by-step-tutorial-mov-to-mp4-conversion-online-solutions-and-local-software-options/"><u>Step-by-Step Tutorial: MOV to MP4 Conversion – Online Solutions and Local Software Options</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-flickering-mouse-immediate-troubleshooting-guide/"><u>Stop Flickering Mouse - Immediate Troubleshooting Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-through-instagrams-new-trends/"><u>[New] 2024 Approved Navigating Through Instagram's New Trends</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-quickly-clip-and-save-your-favorite-youtube-sections/"><u>[Updated] 2024 Approved How to Quickly Clip and Save Your Favorite YouTube Sections</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premium-aerial-choices-for-high-quality-gopro-recordings/"><u>[Updated] In 2024, Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-en-espanol-entender-la-secuencia-semanal/"><u>Dia a Dia, En Español: Entender La Secuencia Semanal</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-steps-for-moving-programs-from-older-win-pcs-to-windows-11/"><u>Essential Steps for Moving Programs From Older Win PCs to Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/examining-the-role-and-relevance-of-wasd-in-windows/"><u>Examining the Role and Relevance of WASD in Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-steps-to-confirm-video-compliance-before-tiktok-posting/"><u>In 2024, Steps to Confirm Video Compliance Before TikTok Posting</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-your-virtual-machine-performance-with-six-windows-tricks/"><u>Jumpstart Your Virtual Machine Performance with Six Windows Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g34-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G34 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/one-os-multiple-worlds-windows-across-mobile-tablet-mac-and-desktop-realized/"><u>One OS, Multiple Worlds: Windows Across Mobile, Tablet, Mac & Desktop Realized</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-win11-how-to-resolve-stalled-file-transfers-4/"><u>Overcoming WIN11: How to Resolve Stalled File Transfers (4)</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-accessing-your-iis-management-center/"><u>Quick Fixes for Accessing Your IIS Management Center</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-frontier-of-gesture-based-technology-advancements/"><u>The Frontier of Gesture-Based Technology Advancements</u></a></li>
+<li><a href="https://win11.techidaily.com/w11s-moment-update-a-glimpse-at-the-next-gen-features/"><u>W11's Moment Update: A Glimpse at the Next-Gen Features</u></a></li>
 </ul></div>
 

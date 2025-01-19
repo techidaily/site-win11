@@ -1,7 +1,7 @@
 ---
 title: Essential Techniques for Repairing System Files in Win11
-date: 2024-08-16T00:46:22.371Z
-updated: 2024-08-17T00:46:22.371Z
+date: 2025-01-12T01:36:41.273Z
+updated: 2025-01-18T18:27:24.816Z
 tags:
   - windows10
   - windows11
@@ -40,12 +40,13 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 2. Disk Cleanup tool will launch. Select the**C drive** and click on the**OK** button.
 3. Navigate down and click on the**Clean up system files** button.  
 ![Run Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-disk-cleanup-tool-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Try the Automatic Repair Tool
 
@@ -59,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -70,12 +72,17 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 3. Now, type**sfc /scannow** and press**enter** to execute the command.  
 ![Run the SFC Utility in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-the-sfc-utility-in-windows-11.jpg)
 4. Patiently wait for the utility to scan and replace files on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Close** the command prompt window and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Try a DISM Scan
 
  DISM is also a command line tool, but it can scan and repair Windows System Image files. The utility can work in both online and offline modes. Repeat the following steps to run a DISM scan:
@@ -95,15 +102,14 @@ Here’s how you can import an old backup in Windows Registry:
 1. Press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and press the**Enter** key to launch the registry editor.
 2. Go to the top bar in the Registry Editor window and click on**File > Import** .  
 ![Importing old registry backup in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/importing-old-registry-backup-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Navigate to the registry backup file location on your system.**Select** the registry file and click on the**Open** button to begin importing the file.
-4. Wait for a few minutes for the import to complete.**Restart** your system.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Wait for a few minutes for the import to complete.**Restart** your system.
+
 ### 6\. Check for Malware on Your System
 
  Malware can create and modify the registry items, and can even break or corrupt existing registry entries. You must perform a thorough scan of your Windows computer using Windows defender.
@@ -117,8 +123,9 @@ Here’s how you can import an old backup in Windows Registry:
 5. Windows Security will execute a deep scan of all the files on your disk. If it finds any traces of malware, manually remove them from your system.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 7\. Do a System Restore
 
  The System Restore tool saves all Windows system files and drivers including the registry contents. If none of the above methods work, you can revert to a last known good system configuration using a restore point.
@@ -134,28 +141,19 @@ Repeat the following steps to perform a system restore:
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Keep Your Registry Safe From Corruption
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +162,16 @@ Repeat the following steps to perform a system restore:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-native-chrome-os-screen-replay-app/"><u>[New] In 2024, Native Chrome OS Screen Replay App</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>[Updated] 10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-leading-tactics-sourcing-high-quality-photo-and-video-backdrops-for-2024/"><u>[Updated] Leading Tactics Sourcing High-Quality Photo & Video Backdrops for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-proven-screenshot-solutions-for-the-cost-conscious-techie/"><u>[Updated] Proven Screenshot Solutions for the Cost-Conscious Techie</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-reclaiming-faulty-usb-connectivity-windows/"><u>Comprehensive Guide to Reclaiming Faulty USB Connectivity, Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-the-differences-of-windows-terminal-vs-powershell/"><u>Dissecting the Differences of Windows Terminal Vs. PowerShell</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-ai-synergy-with-windows-11-features/"><u>Exploring AI Synergy with Windows 11 Features</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-nuances-of-color-management-in-windows/"><u>Navigating the Nuances of Color Management in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/simplify-and-speed-up-steams-storage-tutorial/"><u>Simplify and Speed Up: Steam's Storage Tutorial</u></a></li>
+</ul></div>
 

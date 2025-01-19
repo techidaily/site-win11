@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Uncovering 5 Surprising Visual Discrepancies"
-date: 2025-01-17T16:13:26.058Z
-updated: 2025-01-18T16:28:55.382Z
+date: 2025-01-13T19:55:36.630Z
+updated: 2025-01-19T10:50:19.631Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does Windows 11 Have So Many Design Inconsistencies?
 
  Windows 11 is in the process of moving much of its UI elements over to a new framework, known as WinUI.
@@ -37,12 +41,16 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Still, let's have a look at the more noticeable design flaws present in Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. An Outdated Control Panel
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let's start off with one you very well may have noticed already. Found in the Windows 11 control panel is an option to backup and restore Windows 7.
@@ -51,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  One would think such a minor text element would be an easy fix, but here we are.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Menu Differences on Lock Screen
 
 ![screenshot of the differences between menus on the windows 11 lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_lockscreen_differences.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here's another one that's hard to miss. On the lock screen, the network menu has a nice dark shade, regardless of if your system is in dark mode or not.
@@ -75,17 +79,9 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. UI Ignoring Dark Mode
 
 ![screenshot of windows 11 control panel and task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_control_panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When Windows 11 is set to dark mode, many default apps don't care.
 
@@ -103,12 +99,16 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  From Disk Management resembling something from XP, to Device Manager still showing signs of the Windows 10 days, you can find something a little different in every submenu of the Windows 11 settings menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Different Context Menus
 
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
@@ -150,20 +150,22 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-professional-noise-reduction-software-for-video-editing/"><u>[New] Professional Noise-Reduction Software for Video Editing</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-tiktoks-wonders-the-ultimate-macbook-setup/"><u>[Updated] 2024 Approved Explore TikTok's Wonders The Ultimate MacBook Setup</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-iphones-full-screen-memories/"><u>2024 Approved Utilizing iPhone's Full-Screen Memories</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-common-obstacles-when-installing-java/"><u>Addressing Common Obstacles When Installing Java</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-window-11-reinitializing-unwanted-apps/"><u>Mastering Window 11: Reinitializing Unwanted Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/redefining-computing-10-top-alternatives-to-windows-defaults/"><u>Redefining Computing: 10 Top Alternatives to Windows' Defaults</u></a></li>
-<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-memory-efficiency-for-device-interaction-windows/"><u>Streamlining Memory Efficiency for Device Interaction Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-tweaks-9-ways-to-spark-laughter-in-your-conversations-for-2024/"><u>Updated Innovative Voice Tweaks 9 Ways to Spark Laughter in Your Conversations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-quick-solutions-for-cursor-on-black-screen/"><u>Win10/11: Quick Solutions for Cursor on Black Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-image-adjustment-the-six-essential-techniques/"><u>Windows 11 Image Adjustment: The Six Essential Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-canvas-mastery-streamlining-edges-and-enhancing-visuals/"><u>[New] Canvas Mastery Streamlining Edges and Enhancing Visuals</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-free-image-editor-apps/"><u>[New] The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-master-strategies-for-crafting-impactful-testimonials/"><u>[Updated] In 2024, Master Strategies for Crafting Impactful Testimonials</u></a></li>
+<li><a href="https://win11.techidaily.com/add-on-troubleshooters-for-improved-software-functionality/"><u>Add-On Troubleshooters for Improved Software Functionality</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-predators-in-the-dating-world/"><u>AI-Powered Predators in the Dating World</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-context-menu-choices-with-automatic-patch-information/"><u>Enriching Context Menu Choices with Automatic Patch Information</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tools-for-managing-users-in-command-prompt/"><u>Essential Tools for Managing Users in Command Prompt</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-unidentified-devices-issue-in-win-11/"><u>How to Clear Unidentified Devices Issue in Win 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oppo-a18-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Oppo A18 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-poco-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Poco</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, Unlocking an iCloud Locked iPad and Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-writable-registry-for-hidden-themes/"><u>Mastering Windows 11' Writable Registry for Hidden Themes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/relish-free-movie-playback-pc-and-mac-style/"><u>Relish Free Movie Playback, PC & Mac Style</u></a></li>
+<li><a href="https://win11.techidaily.com/the-obsidian-way-to-clean-clear-notes/"><u>The Obsidian Way to Clean, Clear Notes</u></a></li>
+<li><a href="https://win-web3.techidaily.com/ultimate-tutorial-how-to-record-audio-with-your-computers-mic/"><u>Ultimate Tutorial: How to Record Audio with Your Computer's Mic</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstall-simplified-top-methods-for-windows-11-users-111-chars/"><u>Uninstall Simplified: Top Methods for Windows 11 Users (111 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-your-pc-potential-by-clearing-windows-temp-files/"><u>Unlock Your PC Potential by Clearing Windows Temp Files</u></a></li>
 </ul></div>
 

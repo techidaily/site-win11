@@ -1,7 +1,7 @@
 ---
 title: Where Windows Keeps Your Image Snaps
-date: 2024-08-16T00:46:03.410Z
-updated: 2024-08-17T00:46:03.410Z
+date: 2025-01-12T10:40:52.747Z
+updated: 2025-01-18T20:25:48.272Z
 tags:
   - windows10
   - windows11
@@ -24,8 +24,9 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 * [What to Do if You Can't Find Your Screenshots](#what-to-do-if-you-can-39-t-find-your-screenshots)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Screenshots taken using the Prt Sc key are saved to the clipboard and must be manually saved to your drive using an image editor.
@@ -38,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
@@ -50,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  When you use the **Win + Prt Sc** shortcut, the screenshot goes to the clipboard. Windows also saves it on your computer; you can access it by heading to **Pictures > Screenshots** in File Explorer.
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
 
@@ -63,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  When you take the screenshot using the Snipping tool, a pop-up will appear in the bottom-right corner. When you click it, it will open a preview and edit window, and you can choose where to save the screenshot. To do so, click the save icon in the top-right corner or press **Ctrl + S**, then select a different location.
 
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure you select a location you can easily remember so you don't forget where you placed it.
@@ -74,13 +70,9 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  You can find where the Xbox Game Bar saves your screenshots by heading to **This PC > Local Disk (C:) > Users > \[your username\] > Videos > Captures**.
 
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
@@ -96,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  In the pop-up, click **Continue**, and it will open the folder with the screenshots.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Do Windows Screenshots Go When Using Third-Party Tools?
 
  When using third-party screenshot tools like Snagit, Lightshot, or ShareX, the app will usually decide where to save the screenshots. When you take a screenshot, a preview might pop up in the bottom-right corner of your screen. Click this may take you to the folder where you'll find the screenshot (or in some cases, clicking will open it for editing).
@@ -105,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  Apps like Snagit open a preview window instead, allowing you to choose where to save the screenshot. You can also try checking the app's menus and settings to see if you can find the location of screenshots there. For example, you can find out where Steam saves screenshots by opening the app and clicking **File > Screenshots**.
 
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
 
@@ -117,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
  Yes, you can easily [change the location where Windows saves screenshots](https://www.makeuseof.com/windows-11-screenshot-location-change/) for the built-in tools. For third-party tools, you can look in their settings to see if they allow you to change the default save location.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do if You Can't Find Your Screenshots
 
  If you've just taken a screenshot and don't know where it is, you should check the clipboard. You can do this by pressing **Ctrl + V** with your cursor focused in a window that will accept pasted images. If your screenshot appears, paste it into a compatible program and manually save it.
@@ -127,11 +117,13 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
 
 ![A screenshot in the Recent section of the File Explorer Home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/file-explorer-home-recent.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another thing you can do, on top of looking in the **Pictures** and **Documents** folders, is [check the installation location of the program](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) you use for screenshots. Look for folders with names like **Screenshots** or **Captures**. Using Windows Search for these common terms could help you locate them.
 
  Once you find the folder where the screenshots are, you may wish to note the file path in the Sticky Notes app. Alternatively, you can right-click the folder and select **Pin to Quick Access**. This will make it easier to remember where your Windows screenshots go.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -139,3 +131,27 @@ thumbnail: https://thmb.techidaily.com/38249dc1564a485522fb48e31e168d5147b5976c3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-iphone-hdr-imaging-techniques/"><u>[New] 2024 Approved Mastering iPhone HDR Imaging Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-upgrade-alert-navigate-changes-with-confidence/"><u>[New] Upgrade Alert Navigate Changes with Confidence</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-seizing-youtubes-algorithm-advantage-with-smart-seo-tactics/"><u>[Updated] 2024 Approved Seizing YouTube's Algorithm Advantage with Smart SEO Tactics</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-complete-step-by-step-to-google-podcast-success/"><u>[Updated] Complete Step-by-Step to Google Podcast Success</u></a></li>
+<li><a href="https://win11.techidaily.com/efficiently-managing-setup-host-cpu-use/"><u>Efficiently Managing Setup Host CPU Use</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-winning-streak-with-fps-techniques/"><u>Elevating Your Winning Streak with FPS Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-signs-on-screen-when-booting-windows/"><u>Fixing No Signs on Screen When Booting Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-gif-to-movie-converter-movavi/"><u>Free Online GIF to Movie Converter - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-address-non-starting-issues-with-obs-on-pc/"><u>How to Address Non-Starting Issues with OBS on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-thumbnails-for-maximum-clicks-for-2024/"><u>Ideal Thumbnails for Maximum Clicks for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-find-x6-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo Find X6?</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-invisible-images-with-encrypted-zips-win/"><u>Mastering the Art of Invisible Images with Encrypted Zips (WIN)</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-and-altering-windows-registry-using-cli/"><u>Navigating and Altering Windows Registry Using CLI</u></a></li>
+<li><a href="https://win-great.techidaily.com/partisi-pulihan-keperluan-langsungnya-penilaian-untuk-kompatibilitas-windows-11/"><u>Partisi Pulihan: Keperluan Langsungnya Penilaian Untuk Kompatibilitas Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-virtually-powered-platforms-for-windows-11-users/"><u>Prime Virtually-Powered Platforms for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/say-goodbye-to-clutter-windows-generative-erasure/"><u>Say Goodbye to Clutter: Windows' Generative Erasure</u></a></li>
+<li><a href="https://facebook.techidaily.com/1719153977821-secure-communication-grows-facebook-rolls-out-encrypted-chat-for-messenger-and-dms/"><u>Secure Communication Grows: Facebook Rolls Out Encrypted Chat for Messenger and DMs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-latest-on-dall-e-3-now-includes-edit-options-that-need-tweaking/"><u>The Latest on DALL-E 3: Now Includes Edit Options That Need Tweaking</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-dxgidll-quick-fixes-for-the-missing-file/"><u>Win11 & Dxgi.dll: Quick Fixes for the Missing File</u></a></li>
+</ul></div>
+

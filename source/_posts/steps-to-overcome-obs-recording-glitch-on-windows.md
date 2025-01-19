@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome OBS Recording Glitch on Windows
-date: 2025-01-15T16:02:30.214Z
-updated: 2025-01-18T22:40:31.468Z
+date: 2025-01-13T02:15:22.843Z
+updated: 2025-01-19T03:10:42.093Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,24 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart OBS Studio
 
 ![Closing the OBS Studio Process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/end-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Whether you're[seeing a black screen](https://www.makeuseof.com/windows-11-obs-black-screen-fix/) or getting the "An unspecified error occurred while recording" error, the best way to fix any OBS Studio issue is to restart it. Restarting OBS Studio will clear the system resources and kill any temporary bugs or glitches that might be causing the error.
 
  To restart OBS Studio, open the**Task Manager** (see how to[open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ), right-click on OBS Studio, and choose**End Task.** Then, search for OBS Studio in the**Start Menu** and choose**Open** from the right pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Temporarily Disable Your Graphics Driver
@@ -48,10 +56,6 @@ Here's what you need to do:
 3. Right-click on the dedicated graphics driver and choose**Disable device.**  
 ![Disable Device option in the Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-device-option-1.jpg)
 4. Click**Yes** to the prompt that appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your screen might flicker after disabling the dedicated graphics driver. But worry not; it'll become normal after the generic driver is started.
 
@@ -71,21 +75,17 @@ Here's what you need to do:
 ![Allow an app or feature through Windows Defender Firewall option in Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-an-app-or-feature-through-windows-defender-firewall-option.jpg)
 4. Click the**Change settings** button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on**Allow another app** and then choose**Browse** from the**Add an app** prompt.  
 ![Add an app prompt in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-app.jpg)
 6. Navigate to the location where you have installed the OBS Studio.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select the**obs-ffmpeg-mux** executable file and click**Open.**  
 ![obs-ffmpeg-mux file in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/obs-ffmpeg-mux-file.jpg)
 8. Click**Add.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Check both the**Private** and**Public** boxes for**obs-ffmpeg-mux** and click**OK** to save the settings.  
 ![Private and Public boxes for OBS File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/private-and-public-boxes.jpg)
@@ -108,6 +108,10 @@ swresample-2.dll`
 
 Restart your computer and check for the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Edit the OBS-Ffmpeg-Mux Installation Folder
 
  If you're still facing the issue even after downloading the missing DLL file, then it indicates that OBS Studio is unable to find the required DLL. The solution, in this case, is to edit the Path environment so that OBS Studio finds the required DLL files.
@@ -123,19 +127,19 @@ You can do that by following the below instructions:
 ![Environment Variables option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enviroment-variables.jpg)
 5. Select**Path** under the**System Variables** section, and click the**Edit** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Paste the following path in the**Variable value** text box and click**OK.**  
 `C:\Program Files (x86)\obs-studio\bin\32bit;`  
 ![Edit Variable in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-variable.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it! Now, start recording in OBS Studio and check if the problem persists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Check for Corrupted or Missing Files
 
@@ -150,10 +154,6 @@ You can do that by following the below instructions:
  OBS Studio will compare the available files with those on its server and download any missing or broken files.
 
  While you're at the OBS Studio home screen, check for and download any available updates. To do that, click**Help** and choose**Check for Updates** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Reinstall OBS Studio
 
@@ -180,16 +180,22 @@ You can do that by following the below instructions:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-laptop-beautification-leading-website-walls/"><u>[New] Laptop Beautification Leading Website Walls</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-snap-and-share-the-brief-vlog-age/"><u>[New] Snap & Share The Brief Vlog Age</u></a></li>
-<li><a href="https://win11.techidaily.com/10-solutions-when-wifi-detection-fails-in-windows-11/"><u>10 Solutions When Wifi Detection Fails in Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-into-every-detail-a-deep-dive-into-dji-phantom-4/"><u>2024 Approved Into Every Detail A Deep Dive Into DJI Phantom 4</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/experience-efficient-data-purging-with-the-stellar-file-eraser-windows-compatible-edition/"><u>Experience Efficient Data Purging with the Stellar File Eraser Ⅴ – Windows Compatible Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-blocked-experience-in-roblox-addressing-account-restrictions/"><u>Fixing Blocked Experience in Roblox: Addressing Account Restrictions</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-repair-a-broken-d3d9-graphics-driver-error/"><u>How to Repair a Broken D3D9 Graphics Driver Error?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>In 2024, Making a Buzz Aesthetic Strategies for Podcast Brands</u></a></li>
-<li><a href="https://driver-install.techidaily.com/sync-hp-envy-5530-drivers-with-win-11/"><u>Sync HP Envy 5530 Drivers with Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/ten-terminal-tricks-you-can-try-today/"><u>Ten Terminal Tricks You Can Try Today</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-secrets-to-removing-windows-extract-error-1152/"><u>Unlocking Secrets to Removing Windows Extract Error 1152</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-complete-critique-gopro-hero4-silver-sensor/"><u>[New] 2024 Approved Complete Critique GoPro HERO4 Silver Sensor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-live-stream-heroes-face-off-xsplit-vs-obs-showcase/"><u>[Updated] 2024 Approved Live Stream Heroes Face Off – XSplit Vs. OBS Showcase</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>2024 Approved Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-tip-fixing-the-picture-displayed-invertedly/"><u>ASUS Laptop Tip: Fixing the Picture Displayed Invertedly</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-and-fixing-the-windows-update-hurdles/"><u>Breaking Down and Fixing the Windows Update Hurdles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-unearthing-the-mystery-behind-error-code-2024/"><u>Cyberpunk 2077: Unearthing the Mystery Behind Error Code 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-essential-audio-drivers-from-msi-for-seamless-windows-experience/"><u>Download Essential Audio Drivers From MSI for Seamless Windows Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-videos-with-manycam-top-tier-live-video-editing-tools-for-digital-content-creation/"><u>Enhance Your Videos with ManyCam: Top-Tier Live Video Editing Tools for Digital Content Creation</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-most-efficient-portable-laptop-charger-units-of-the-year/"><u>Expert Picks: Most Efficient Portable Laptop Charger Units of the Year</u></a></li>
+<li><a href="https://win11.techidaily.com/expertly-navigate-and-enhance-text-via-the-snipping-tool/"><u>Expertly Navigate and Enhance Text via the Snipping Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-enabling-windows-11-toolbar-elements/"><u>Guide to Enabling Windows 11 Toolbar Elements</u></a></li>
+<li><a href="https://win11.techidaily.com/harness-the-power-of-github-desktop-for-windows-os-devops/"><u>Harness the Power of GitHub Desktop for Windows OS DevOps</u></a></li>
+<li><a href="https://win11.techidaily.com/insightful-analysis-hibernations-role-in-windows/"><u>Insightful Analysis: Hibernation's Role in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-show-more-pins-on-windows-11-start/"><u>Pro Tips: Show More Pins on Windows 11 Start</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-code-0x0000004e-hiccups/"><u>Resolving Windows Code 0X0000004E Hiccups</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-fix-nvidias-geforce-error-x0001-on-windows-1011/"><u>Steps to Fix Nvidia's GeForce Error X0001 on Windows 10/11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tidy-up-your-snap-map-the-ultimate-guide-for-bulk-unfriending-on-the-app/"><u>Tidy Up Your Snap Map: The Ultimate Guide for Bulk Unfriending on the App</u></a></li>
 </ul></div>
 

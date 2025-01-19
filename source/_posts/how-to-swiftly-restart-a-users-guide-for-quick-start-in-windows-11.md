@@ -1,7 +1,7 @@
 ---
 title: "How to Swiftly Restart: A User’s Guide for Quick Start in Windows 11"
-date: 2024-08-16T00:43:03.922Z
-updated: 2024-08-17T00:43:03.922Z
+date: 2025-01-12T17:46:09.404Z
+updated: 2025-01-19T13:05:38.469Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Check if Fast Startup Is On or Off
 
 ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Often, a major Windows feature update may overwrite the power settings and disable Hibernate, thus disabling Fast Startup. Or you may experience unusual boot behavior even when you think Fast Startup is on. Before attempting to troubleshoot your computer, check if Fast Startup is on or off.
 
@@ -56,15 +64,14 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 1. Press **Win + R** to open **Run**.
 2. Type **powercfg.cpl** and click **OK** to open Power Options in Control Panel.  
 ![choose what the power buttons do control panel windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/choose-what-the-power-buttons-do-control-panel-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 3. In the **Control Panel** dialog, click **Choose what the power buttons do** in the left pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click **Change settings that are currently unavailable**.  
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 5. Under **Shutdown settings**, check if **Hibernate** is available. If available, select **Hibernate** and click **Save changes** to show **Hibernate** in the Power menu.
 
  If the Hibernate option is missing, you can enable it using a Command Prompt command.
@@ -84,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Now that you have enabled the hibernate feature, below are the various ways to enable and disable Fast Startup on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Turn On or Off Fast Startup in the Control Panel
 
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
@@ -102,15 +106,9 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 7. Uncheck the **Turn on fast startup option** to disable Fast Startup.
 8. Click **Save changes** to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Turn On or Off Fast Startup Using the Registry Editor
 
 ![turn on off fast startup registry register](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-fast-startup-registry-register.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  The next set of methods involves modifying the Windows registry. If something goes wrong, restoring your system to a functioning state can become difficult. So, [create a restore point](https://www.makeuseof.com/tag/create-system-restore-point/) before attempting to edit your registry entries. This will allow you to undo the changes if your system breaks during the process.
 
@@ -126,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 7. Type **1** in the **Value data** field and click **OK** to save the changes.
 8. To turn off Fast Startup, enter **0** in the **Value data** field and click **OK**.
 9. Close the Registry Editor and reboot your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On or Off Fast Startup Using a Registry File
 
@@ -148,12 +150,13 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 7. Next, click **Save**.
 8. Double-click on the **Enable\_fast-startup.reg** file to run. Then click **Yes**, and **Yes** to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
 ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -171,14 +174,12 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 7. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Fast Startup Using the Command Prompt
 
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Since fast startup depends on the Hibernate feature, you can disable Hibernate to turn off Fast start. However, this will also turn off Hibernate in Power options, so tread carefully.
 
@@ -196,11 +197,30 @@ thumbnail: https://thmb.techidaily.com/e8fcd349e6a8281ada057683af29fba698cce45bd
 
  Hibernate-capable Windows 11 systems come with Fast Startup enabled by default. If you want to turn on or off Fast Startup in Windows 11 manually, this guide will show you how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-essential-guide-for-newbies-visual-fidelity-in-videos/"><u>[New] 2024 Approved Essential Guide for Newbies Visual Fidelity in Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-easy-way-to-modify-iphone-photo-dimensions-for-2024/"><u>[New] The Easy Way to Modify iPhone Photo Dimensions for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-silver-medalists-best-dvd-tools-for-sierra-os/"><u>[Updated] In 2024, Silver Medalists Best DVD Tools for Sierra OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-ranking-of-outstanding-stop-motion-films/"><u>[Updated] The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/through-techniques-in-youtube-content-creation/"><u>Breakthrough Techniques in YouTube Content Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/effortlessly-incorporate-google-maps-into-windows/"><u>Effortlessly Incorporate Google Maps Into Windows</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/ensuring-optimal-performance-a-guide-to-verifying-your-computers-hardware-yl-computing/"><u>Ensuring Optimal Performance: A Guide to Verifying Your Computer's Hardware - YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/from-minuscule-to-monumental-boosting-windows-11-icon-sizes/"><u>From Minuscule to Monumental - Boosting Windows 11 Icon Sizes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-honor-magic-5-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Honor Magic 5 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/master-system-configurations-optimizing-usage-options/"><u>Master System Configurations: Optimizing Usage Options</u></a></li>
+<li><a href="https://win11.techidaily.com/next-steps-for-mobile-connectivity-in-windows-11/"><u>Next Steps for Mobile Connectivity in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-disconnect-solution-non-operative-printer-removal-in-win-1011/"><u>Quick Disconnect Solution: Non-Operative Printer Removal in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-to-discard-a-drives-divisional-structure-in-windows/"><u>Simplified Techniques to Discard a Drive's Divisional Structure in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-reactivating-razer-device-detection-by-synapse-software/"><u>Solutions for Reactivating Razer Device Detection by Synapse Software</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-9-solutions-for-correcting-yellow-discoloration-on-iphone-display/"><u>Top 9 Solutions for Correcting Yellow Discoloration on iPhone Display</u></a></li>
+</ul></div>
+

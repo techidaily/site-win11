@@ -1,7 +1,7 @@
 ---
 title: "Overcome Wi-Fi Woes: Enhance Your Windows Apps' Connectivity"
-date: 2024-08-16T00:43:35.770Z
-updated: 2024-08-17T00:43:35.770Z
+date: 2025-01-14T19:05:19.311Z
+updated: 2025-01-19T02:23:25.930Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,19 @@ thumbnail: https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985
 7. Click**OK** to save the changes.  
 ![Turn Off Windows Defender Firewall on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Windows-Defender-Firewall-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
 ## 2\. Disable Your Antivirus Program
 
  As with the firewall, your antivirus can also cause connection issues. To rule out this possibility, you should disable your antivirus program temporarily. Simply right-click on the antivirus program's taskbar icon and select**Disable > Disable until the next restart** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run Windows Troubleshooters
 
@@ -53,11 +61,12 @@ To run Windows Store Apps troubleshooter:
 4. Click the**Run** button next to**Windows Store Apps** and follow the on-screen prompts to run the troubleshooter.  
 ![Run the Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-the-Windows-Store-Apps-Troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, run the**Internet Connections** troubleshooter from the same menu. It will diagnose your system for any internet-related issues and try to solve them. Following this, apps on your PC should connect to the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Reset Microsoft Store Cache
 
  A damaged Microsoft Store cache could affect Windows apps and prevent them from functioning properly. When this happens, you’ll face all kinds of issues with your apps, including the one discussed here.
@@ -70,9 +79,6 @@ To run Windows Store Apps troubleshooter:
 
  A blank command window will appear on your screen and execute the command. When the process is complete, the Microsoft Store will launch on its own. After that, try using your apps again and check if the issue is still there.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## 5\. Disable Automatic Proxy Detection
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
@@ -85,9 +91,13 @@ To run Windows Store Apps troubleshooter:
 ![Disable Automatic Proxy Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Disable-Automatic-Proxy-Settings-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reset Winsock Settings
 
  Winsock is a program that allows applications to connect to the internet through Transmission Control Protocol/Internet Protocol (TCP/IP). Naturally, if there’s an issue with this program, apps on your Windows will have trouble accessing the internet. In most cases, you can fix such issues by resetting the Winsock data. Here’s how to do it.
@@ -100,10 +110,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 7\. Reset Network Settings
 
  If the problem persists, you can perform a full network configuration reset on Windows. There's a chance that one of the network settings on Windows is conflicting with your apps and preventing them from accessing the internet.
@@ -117,15 +123,9 @@ To reset network settings on Windows:
 5. Click the**Reset now** button.
 6. Select**Yes** to confirm.  
 ![Reset Network Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Reset-Network-Settings-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  After the reset is complete, your PC will restart. Following that, your issue will be resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  At times, third-party programs and services running on your PC can disrupt Windows processes and lead to such problems. To check for this possibility, you need to boot your PC in a clean boot start.
@@ -140,14 +140,11 @@ To reset network settings on Windows:
 
  Now that your apps are connected to the internet, you may want to limit how much data your Windows PC consumes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +153,22 @@ To reset network settings on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-visual-impact-discover-these-essential-font-tools-for-tiktoks-2023/"><u>[New] In 2024, Visual Impact Discover These Essential Font Tools for TikTok's 2023</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-directing-youtube-media-to-your-facebook-profile-and-feed/"><u>[Updated] Directing YouTube Media to Your Facebook Profile and Feed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-10-best-flvto-alternatives-youtube-converter/"><u>[Updated] In 2024, Top 10 Best Flvto Alternatives YouTube Converter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-interactive-horizinas-analyzing-the-triumvirate-of-tech-vr-ar-and-mr-for-2024/"><u>[Updated] Interactive Horizinas Analyzing the Triumvirate of Tech (VR, AR, & MR) for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-spotlight-on-snapchat-a-users-handbook-for-highlights/"><u>2024 Approved Spotlight on Snapchat A User's Handbook for Highlights</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-vision-pro-assessment-are-its-features-worth-it/"><u>Apple Vision Pro Assessment: Are Its Features Worth It?</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-windows-11s-limited-editions-feature-impact/"><u>Assessing Windows 11’S Limited Editions Feature Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-restoring-functionality-of-ccleaner-in-windows-1011-pcs/"><u>Guide for Restoring Functionality of CCleaner in Windows 10/11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-go-no-net-with-your-new-os-win11/"><u>How to Go No Net With Your New OS, Win11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-12-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus 12 to Another | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-captures-snip-tool-versus-prtsc/"><u>Mastering Windows Captures: Snip Tool versus PrtSc</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-unresponsive-keyboard-issue-x80049dd3-in-windows-11/"><u>Overcoming the Unresponsive Keyboard Issue - X80049DD3 in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-10-gets-boosted-by-amd-radeon-driver-v20/"><u>Windows 10 Gets Boosted by AMD Radeon Driver V2.0</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-crafting-a-holiday-ambiance/"><u>Windows 11: Crafting a Holiday Ambiance</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

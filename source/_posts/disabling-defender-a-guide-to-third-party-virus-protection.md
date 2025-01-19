@@ -1,7 +1,7 @@
 ---
 title: "Disabling Defender: A Guide to Third-Party Virus Protection"
-date: 2025-01-14T21:59:00.712Z
-updated: 2025-01-18T20:08:22.089Z
+date: 2025-01-12T16:30:44.399Z
+updated: 2025-01-18T23:24:24.507Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Disable Tamper Protection
 
  The first step to resolve this issue is to disable Tamper Protection in Microsoft Defender. This feature prevents malicious programs from changing security settings without your consent. To disable it, follow the below steps:
@@ -42,16 +46,12 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 4. Next, toggle off the **Tamper Protection** switch. If prompted for confirmation, click **Yes**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
  After disabling Tamper Protection, see if your third-party antivirus works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Turn Off Microsoft Defender
 
@@ -69,29 +69,25 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 ![Open Virus & threat protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-virus-threat-protection.jpg)
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
 5. Scroll down and you'll find the **Exclusions** option. Click on **Add or remove exclusions**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
  After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -102,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
  To reinstall, uninstall the app using one of the [many ways to uninstall software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/). After uninstalling, restart your computer.
 
  Next, navigate to the official website and download the latest version. Once installed, restart your computer again. This should resolve any conflicts between Microsoft Defender and the third-party antivirus software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix Microsoft Defender Blocking Your Third-Party Antivirus
 
@@ -119,15 +119,19 @@ thumbnail: https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebook-video-shape-dimensions-for-2024/"><u>[New] Facebook Video Shape Dimensions for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-psychedelic-pulse-the-fade-technique-in-music-mixing/"><u>[Updated] 2024 Approved Psychedelic Pulse The Fade Technique in Music Mixing</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-optimizing-trailer-vibes-the-melody-essentials/"><u>[Updated] Optimizing Trailer Vibes The Melody Essentials</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-erroneous-system-calls-on-windows/"><u>Fixing Erroneous System Calls on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/four-easy-ways-to-resize-pictures-in-windows-11/"><u>Four Easy Ways to Resize Pictures in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-connectivity-a-step-by-step-approach/"><u>Mastering Windows Connectivity: A Step-by-Step Approach</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/no-plugins-required-how-to-achieve-smooth-skin-in-fcpx/"><u>No Plugins Required How to Achieve Smooth Skin in FCPX</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-x6-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco X6? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-your-grades-8-windows-based-study-methods/"><u>Skyrocket Your Grades: 8 Windows-Based Study Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restoring-charge-functionality-in-ps5-gamepads/"><u>Step-by-Step Guide to Restoring Charge Functionality in PS5 Gamepads</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-13-mini-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 13 mini without the Previous Owner?</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-interactions-between-devices-and-windows-snooze/"><u>Fine-Tuning Interactions Between Devices and Windows Snooze</u></a></li>
+<li><a href="https://win11.techidaily.com/greatest-non-microsoft-options-easy-screen-captures-without-windows/"><u>Greatest Non-Microsoft Options: Easy Screen Captures Without Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-storyboard-to-screenplay-filmmaking-essentials/"><u>In 2024, From Storyboard to Screenplay Filmmaking Essentials</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10c-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10C PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-split-view-failures-in-os/"><u>Overcoming Split View Failures in OS</u></a></li>
+<li><a href="https://win11.techidaily.com/precision-configurations-for-an-excellent-windows-11-experience/"><u>Precision Configurations for an Excellent Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-read-only-mode-on-windows-folders/"><u>Preventing Read-Only Mode on Windows Folders</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagine-your-web-experience-implementing-mouse-gestures-in-ms-edge-win-11/"><u>Reimagine Your Web Experience: Implementing Mouse Gestures in MS Edge (Win 11)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/secure-your-digital-footprint-how-to-safeguard-against-data-leaks-in-mobile-applications/"><u>Secure Your Digital Footprint: How to Safeguard Against Data Leaks in Mobile Applications</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-selection-the-finest-wide-mouse-pads/"><u>Ultimate Selection: The Finest Wide Mouse Pads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangling-superhero-clashes-in-pc-gaming-adventures/"><u>Untangling Superhero Clashes in PC Gaming Adventures</u></a></li>
 </ul></div>
 

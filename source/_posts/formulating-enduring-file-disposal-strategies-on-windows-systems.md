@@ -1,7 +1,7 @@
 ---
 title: Formulating Enduring File Disposal Strategies on Windows Systems
-date: 2024-08-16T00:43:57.395Z
-updated: 2024-08-17T00:43:57.395Z
+date: 2025-01-12T18:12:42.445Z
+updated: 2025-01-19T07:04:21.395Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
 4. Bring up the directory in which the**free\_file\_wiper.zip** file is downloaded.
 5. Unzip the**free\_file\_wiper.zip** archive as instructed in our guide for extracting ZIP files in Windows.  
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
@@ -62,12 +59,12 @@ thumbnail: https://thmb.techidaily.com/bed828e860e21f38fd1f019188cab74669ed8a928
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
 
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a File Deletion Bin to the Desktop With Multi Trash
 
@@ -82,34 +79,39 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 7. Click the**Add gadget** option to view the desktop widget selection window.  
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
-![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Delete Your Files More Securely on the Windows 10 and 11 Desktop
 
  Adding Free File Wiper or Multi Trash bins to Windows will enable you to delete files and folders more securely from the desktop area. Although there are many other file shredder utilities available, few of them have comparable drag-and-drop functionality. So, Multi Trash and Free File Wiper are more unique tools for shredding files in that respect.
@@ -122,8 +124,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-advanced-mac-screen-plus-sound-capturer-extraordinaire-for-2024/"><u>[Updated] Advanced Mac Screen + Sound Capturer Extraordinaire for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-ad-free-earning-on-youtube-strategies-for-self-reliance-creators-for-2024/"><u>[Updated] The Art of Ad-Free Earning on YouTube Strategies for Self-Reliance Creators for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeos-complimentary-guide-essential-video-editing-skills/"><u>2024 Approved Vimeo’s Complimentary Guide Essential Video Editing Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/defeating-inaccessible-program-uninstall-in-microsofts-latest-os/"><u>Defeating Inaccessible Program Uninstall in Microsoft's Latest OS</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-secure-your-high-capacity-8tb-samsung-t5-ssd-at-an-amazing-36-price-drop-following-amazon-prime-day-insights/"><u>Don't Miss Out! Secure Your High-Capacity 8TB Samsung T5 SSD at an Amazing 36% Price Drop Following Amazon Prime Day - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-network-access-for-chrome-amidst-windows-security-barriers/"><u>Enabling Network Access for Chrome Amidst Windows Security Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-pc-what-to-do-when-windows-11-loses-a-tab/"><u>Enhance Your PC: What to Do When Windows 11 Loses a Tab?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-s23-fe-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy S23 FE Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-using-telegram-web-effectively/"><u>In 2024, The Ultimate Guide to Using Telegram Web Effectively</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/kumpulkan-kedua-jenis-proses-menjunjung-hard-disk-pada-windows-server-2012-r2/"><u>Kumpulkan Kedua Jenis Proses Menjunjung Hard Disk Pada Windows Server 2012 R2</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-terminal-mastering-focus-mode-transitions/"><u>Navigating Windows Terminal: Mastering Focus Mode Transitions</u></a></li>
+<li><a href="https://win11.techidaily.com/self-contained-strategies-for-hardware-duplication/"><u>Self-Contained Strategies for Hardware Duplication</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-downloading-official-apple-iphone-user-manuals/"><u>Step-by-Step Instructions: Downloading Official Apple iPhone User Manuals</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-transformation-through-38-years/"><u>Taskbar Transformation Through 38 Years</u></a></li>
+<li><a href="https://win11.techidaily.com/tech-tips-simply-recognize-your-computers-ram-type/"><u>Tech Tips: Simply Recognize Your Computer's RAM Type</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-using-nvidias-tailored-ai-generative-technology-eligibility-criteria/"><u>The Ins and Outs of Using NVIDIA’s Tailored AI Generative Technology: Eligibility Criteria</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steam-backup-mishaps/"><u>Troubleshooting Steam Backup Mishaps</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-controlling-windows-key-status/"><u>Understanding and Controlling Windows Key Status</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-xiaomi-redmi-note-12t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Xiaomi Redmi Note 12T Pro</u></a></li>
+</ul></div>
 

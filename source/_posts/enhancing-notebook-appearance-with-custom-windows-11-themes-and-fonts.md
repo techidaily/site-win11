@@ -1,7 +1,7 @@
 ---
 title: Enhancing Notebook Appearance with Custom Windows 11 Themes & Fonts
-date: 2025-01-11T23:14:24.736Z
-updated: 2025-01-18T22:26:52.145Z
+date: 2025-01-17T17:02:15.574Z
+updated: 2025-01-19T01:33:31.085Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e15a312e87a88bc573209c8d23ec08d406e2cad56
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Set Your Preferred Theme for Notepad
 
  Windows 11 Notepad now has its own Settings page from where you can set the Notepad theme you like.
@@ -35,22 +39,22 @@ thumbnail: https://thmb.techidaily.com/e15a312e87a88bc573209c8d23ec08d406e2cad56
 3. In the**Settings** page, tap on**the App theme** to expand the setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. You'll see the**Light** ,**Dark** , or**Use system setting** options to set as the Notepad**App theme** . Choose and select the one you like.  
 ![App Theme Settings in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/notepad-app-theme-settings-1.jpg)
 5. If you choose the**Use system setting** , the theme you have set for Windows will reflect in the Notepad. You'll see the theme's colors across the various areas of the Notepad.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad With Colors of a System Theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-theme-in-notepad.jpg)  
  So you can enjoy the colors of a Windows 11 theme or even a favorite movie theme you download while you work on the Notepad. Also, if the system theme you have chosen is in Dark Mode, you can change the Notepad theme to Light mode while enjoying the system theme colors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Choose Your Preferred Font for Notepad
@@ -61,20 +65,16 @@ thumbnail: https://thmb.techidaily.com/e15a312e87a88bc573209c8d23ec08d406e2cad56
 ![Use Edit Menu or Settings Icon for Font Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-edit-or-settings-icons.jpg)
 2. Select a font by clicking on**Family** . The available fonts will appear in a dropdown list. Choose any font you prefer, like**Candara** , as in the screenshot below. At the bottom of the page, the font of the sentence:**The sound of the ocean waves calms my soul.** will change to your chosen font—you can preview a font before selecting it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notepad Font Chosen in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-notepad-font-in-settings.jpg)
 3. Then select the font**Style** , whether light, dark, or italicized, and set the font**Size** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once set, enjoy using Notepad with your preferred font.
 
  If you ever have problems opening Notepad, check out[how to fix Notepad not opening on Windows](https://www.makeuseof.com/windows-notepad-not-opening/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy the Windows 11 Notepad With New Themes
 
@@ -95,24 +95,24 @@ Once set, enjoy using Notepad with your preferred font.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://solve-info.techidaily.com/abbyy-at-handelsblatts-annual-conference-focus-on-banking-technology/"><u>ABBYY at Handelsblatt's Annual Conference - Focus on Banking Technology</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-1011s-audacity-audio-connection-failures/"><u>Fixing Windows 10/11’S Audacity Audio Connection Failures</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-13-mini-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 13 mini online without SIM Card?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-vllo-experiences/"><u>In 2024, Exploring VLLO Experiences</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-key-conduct-criteria-in-the-youtube-sphere/"><u>In 2024, Key Conduct Criteria in the YouTube Sphere</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-vivo-y36-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Vivo Y36 Phone Now with These Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-tecno-pova-5-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Tecno Pova 5 to Gmail | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-blue-windows-fails/"><u>Mastering the Art of Fixing Blue Windows Fails</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximizing-your-amazon-prime-experience-with-toshibas-55lf711u20-fire-tv-reviewed/"><u>Maximizing Your Amazon Prime Experience with Toshiba's 55LF711U20 Fire TV Reviewed</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-video-editing-on-mac-the-power-of-adobe-premiere-pro/"><u>New Expert Video Editing on Mac The Power of Adobe Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-off-screen-windows-6-methods-for-win11-users/"><u>Securing Off-Screen Windows: 6 Methods for Win11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-mandatory-components-not-available-in-win10win11/"><u>Sidestep Mandatory Components Not Available in WIN10/WIN11</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-life-top-11-fixes-for-windows-11-issues/"><u>Simplify Your Life: Top 11 Fixes for Windows 11 Issues</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-your-websites-504-gateway-timeout-problem/"><u>Step-by-Step Guide: Correcting Your Website's 504 Gateway Timeout Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-phones-capability-for-windows-recording/"><u>Streamline Phone's Capability for Windows Recording</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-wi-fi-access-via-windows-11-the-hotspot-setup-process/"><u>Streamlining Wi-Fi Access via Windows 11: The Hotspot Setup Process</u></a></li>
-<li><a href="https://win11.techidaily.com/the-art-of-image-editing-efficiently-removing-backdrops/"><u>The Art of Image Editing: Efficiently Removing Backdrops</u></a></li>
-<li><a href="https://win11.techidaily.com/1719193162154-unlocking-the-secrets-to-fixing-non-working-win-plus-printer/"><u>Unlocking The Secrets to Fixing Non-Working Win + Printer.</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exploring-the-world-of-desktop-capturing-a-sprout-review/"><u>[New] 2024 Approved Exploring the World of Desktop Capturing - A Sprout Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transform-videos-with-easy-to-use-sound-effects/"><u>[Updated] Transform Videos with Easy-to-Use Sound Effects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-uncover-top-8-websites-with-free-3d-text-psds-for-2024/"><u>[Updated] Uncover Top 8 Websites with Free 3D Text PSDs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-tutorial-how-to-install-the-latest-drivers-for-your-corsair-headset-in-windows/"><u>Complete Tutorial: How to Install the Latest Drivers for Your Corsair Headset in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/concealed-commands-disguise-power-settings-in-start-screen/"><u>Concealed Commands: Disguise Power Settings in Start Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/error-2e-unravelled-enabling-windows-update/"><u>Error 2E Unravelled: Enabling Windows Update</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-insignia-ns-pcy5bma2-driver-compatible-with-windows-1087-downloads/"><u>Get the Insignia NS-PCY5BMA2 Driver - Compatible with Windows 10/8/7 Downloads</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-fubotv-on-amazon-firestick/"><u>Guide: Setting Up FuboTV on Amazon Firestick</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-the-aw-snap-error-in-chrome/"><u>How to Stop the Aw, Snap! Error in Chrome</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-free-translation-top-8-choices-revealed/"><u>Mastering Free Translation Top 8 Choices Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-github-desktop-on-windows-11-a-complete-guide/"><u>Mastering GitHub Desktop on Windows 11: A Complete Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-common-problems-opening-or-ejecting-cd-dvd-and-blu-ray-drives/"><u>Overcoming Common Problems: Opening or Ejecting CD, DVD & Blu-Ray Drives</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-xiaomi-redmi-note-12-4g-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Xiaomi Redmi Note 12 4G Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-forcing-printer-deletion-in-win-1011/"><u>Quick Guide: Forcing Printer Deletion in Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-eliminating-restricted-admin-windows-alert/"><u>Strategies for Eliminating Restricted Admin Windows Alert</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-pc-performance-deficiencies-amidst-intel-errors/"><u>Tackling PC Performance Deficiencies Amidst Intel Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/the-blueprint-of-control-for-winapps-and-browsers/"><u>The Blueprint of Control for WinApps & Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/three-methods-to-remove-microsoft-store-from-pcs/"><u>Three Methods to Remove Microsoft Store From PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/viair-88p-reviewed-a-robust-compressor-with-notable-exceptions-examined/"><u>Viair 88P Reviewed: A Robust Compressor with Notable Exceptions Examined</u></a></li>
 </ul></div>
 

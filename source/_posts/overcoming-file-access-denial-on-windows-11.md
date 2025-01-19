@@ -1,7 +1,7 @@
 ---
 title: Overcoming File Access Denial on Windows 11
-date: 2024-08-16T00:44:08.555Z
-updated: 2024-08-17T00:44:08.555Z
+date: 2025-01-16T00:05:54.830Z
+updated: 2025-01-18T19:31:13.740Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Change a Standard User Account to Admin One
 
  The “opening file for writing” error will more likely occur in a non-admin account with limited permissions. If your user account is a standard one, change it to an administrator account with elevated permissions for installing software like this:
@@ -40,16 +41,18 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 1. Open the Control Panel (see[how to open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) for methods) and select**User Accounts** in that window.
 2. Click the**Change your account type** option.  
 ![The User Accounts applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-accounts.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Select the**Administrator** radio button.  
 ![The Administrator account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/admin-account-option.jpg)
 4. Click the**Change Account Type** option to switch it to an admin account.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Installation Drive
 
  Some users have said they resolved this installation issue by selecting an alternative installation drive beyond C. So, that might be worth a try for users who’ve partitioned drives or have alternative external storage devices available. If you can select an alternative, click**Browse** in the setup wizard for the software to change the installation drive and choose a folder location there before selecting to install.
@@ -57,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![The Browse button on a setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/catchchar-setup-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Run the Compatibility Troubleshooter for the Installer File
 
  The “opening file for writing” error can occur because of compatibility issues with setup files. Running the Program Compatibility Troubleshooter can resolve such issues. This is how you can run that troubleshooter for a setup file in Windows:
@@ -69,23 +73,23 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 4. Next, press the**Run compatibility troubleshooter** button.  
 ![The Run the compatibility troubleshooter button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/compatibility-troubleshooter-button.jpg)
 5. Select**Try recommended** settings to bring up a**Test this program** option.
-6. Click**Test this program** to bring up the setup wizard with the applied compatibility settings.  
-![The Test this program button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/test-this-program-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-7. Then try installing the software again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+6. Click**Test this program** to bring up the setup wizard with the applied compatibility settings.  
+![The Test this program button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/test-this-program-option.jpg)
+7. Then try installing the software again.
+
 ## 6\. Delete Temporary Files
 
  Another possibility is that corrupted temporary file data on your PC could be causing this installation issue. So, it’s recommended to eradicate temporary files. You can do that with the Disk Cleanup tool, Settings app, Command Prompt, or other methods outlined in our guide to[deleting temporary data on Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
 ![The Temporary files checkbox in Disk Cleanup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/temporary-files-checkbox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Change the Security Settings for the Installation File
@@ -107,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 5. Press**OK** in the Select User or Group window.
 6. Select the**Full Control** permission checkbox.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/full-control-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Then click**Apply** to save the new permission settings.
 8. Select**OK** twice to exit the permission and properties windows.
 
@@ -122,8 +123,9 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Disable Controlled Folder Access
 
  Controlled folder access is another security feature that can feasibly cause the “opening file for writing” error in Windows 10 and 11\. That feature blocks access and changes to its protected folders. This is how you can turn off controlled folder access if it’s enabled:
@@ -132,11 +134,11 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 2. Next, click on the**Virus & threat protection** tab on Windows Security’s navigation sidebar.
 3. Select the**Manage ransomware protection navigation** option to access a**Controlled folder access** setting.  
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/controlled-folder-access-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Click the**Controlled folder access** toggle switch to set that option to off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Uninstall the Old Version of the Software
 
@@ -154,8 +156,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +163,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-discover-the-top-8-android-platforms-for-large-gatherings/"><u>[New] In 2024, Discover the Top 8 Android Platforms for Large Gatherings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-iconic-imagery-tales-untold/"><u>[Updated] Iconic Imagery Tales Untold</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unleashing-content-extract-vimeo-videos-as-mp4-for-2024/"><u>[Updated] Unleashing Content Extract Vimeo Videos as MP4 for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-the-top-gaming-talents-on-tiktok/"><u>2024 Approved The Top Gaming Talents on TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/aesthetic-desk-customization-displaying-this-pc-image/"><u>Aesthetic Desk Customization: Displaying 'This PC' Image</u></a></li>
+<li><a href="https://win11.techidaily.com/ftdibussys-in-the-windows-ecosystem-a-dive-into-memory-shields/"><u>Ftdibus.sys in the Windows Ecosystem: A Dive Into Memory Shields</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-completely-get-rid-of-wsl-on-windows-11-pcs/"><u>How To Completely Get Rid of WSL on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/low-cost-aerial-photography-top-5-drones-under-500/"><u>Low-Cost Aerial Photography Top 5 Drones Under $500</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-java-installer-problems-on-a-windows-pc/"><u>Remedying Java Installer Problems on a Windows PC</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-connectivity-problems-with-fall-guys-on-pc/"><u>Resolving Connectivity Problems with Fall Guys on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/surges-subdued-mastering-the-art-of-cpu-management-in-rm/"><u>Surges Subdued: Mastering the Art of CPU Management in RM</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-tools-for-crafting-unforgettable-highlight-reels/"><u>The Best Tools for Crafting Unforgettable Highlight Reels</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-chronological-viewing-list-of-the-superman-franchise/"><u>The Ultimate Chronological Viewing List of the Superman Franchise</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-creativity-the-premier-apps-for-picture-framing-for-2024/"><u>Unleash Creativity The Premier Apps for Picture Framing for 2024</u></a></li>
+</ul></div>
 

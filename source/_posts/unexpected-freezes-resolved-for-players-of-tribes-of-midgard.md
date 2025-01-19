@@ -1,7 +1,7 @@
 ---
 title: Unexpected Freezes Resolved for Players of 'Tribes of Midgard'
-date: 2025-01-16T00:36:31.097Z
-updated: 2025-01-19T00:48:33.053Z
+date: 2025-01-13T10:32:43.400Z
+updated: 2025-01-18T17:00:49.425Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -91,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -106,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -122,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -141,10 +133,6 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -154,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -167,9 +159,17 @@ thumbnail: https://thmb.techidaily.com/d77d95aa486b91c6469c5ee9cc4e937e8d3af5aa5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,24 +193,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-achieving-peak-zoom-resolution-effective-techniques/"><u>[New] Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pinterest-videos-top-5-no-pay-extractors-online/"><u>[Updated] Pinterest Videos Top 5 No-Pay Extractors Online</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-record-gameplay-with-fbx-game-recorder/"><u>2024 Approved How To Record Gameplay With FBX Game Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mindful-meandering-leisurely-pc-games/"><u>2024 Approved Mindful Meandering Leisurely PC Games</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-xiaomi-13-ultra-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Xiaomi 13 Ultra FRP</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y28-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/auto-shutdown-hacks-for-idle-pcs-running-w10w11/"><u>Auto Shutdown Hacks for Idle PCs Running W10/W11</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-zero-x-error-in-the-mail-application-of-windows-11/"><u>Bypassing Zero X Error in the Mail Application of Windows 11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camstudios-screen-recorder-a-deep-dive-into-its-latest-features-for-2024/"><u>CamStudio's Screen Recorder A Deep Dive Into Its Latest Features for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-13-pro-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer From Apple iPhone 13 Pro to Samsung Simplified Guide | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>In 2024, Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpoint-and-prevent-windows-drive-vanishing/"><u>Pinpoint and Prevent Windows Drive Vanishing</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-access-control-personalized-windows-pin-creation/"><u>Revolutionize Access Control: Personalized Windows Pin Creation</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-system-performance-wins-top-diagnostic-list/"><u>Smooth System Performance: Win's Top Diagnostic List</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-fixes-conquering-the-fatal-javascript-glitch-in-discord-win-11/"><u>Step-by-Step Fixes: Conquering the Fatal Javascript Glitch in Discord Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/stepping-past-the-steam-file-access-hurdle/"><u>Stepping Past the Steam “File Access” Hurdle</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-solve-package-problems-in-windows-oses/"><u>Strategies to Solve Package Problems in Windows OSes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-is-find-my-iphone-offline-and-how-to-find-it-anyway/"><u>Why Is Find My iPhone Offline? (And How to Find It Anyway)</u></a></li>
-<li><a href="https://win11.techidaily.com/win11s-network-drive-setup-a-comprehensive-walkthrough/"><u>Win11's Network Drive Setup: A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cost-free-win-10-screencast-solutions-top-5-picks/"><u>[New] 2024 Approved Cost-Free Win 10 Screencast Solutions Top 5 Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-invest-in-quality-best-4k-mirrorless-under-1000/"><u>[Updated] Invest in Quality Best 4K Mirrorless Under $1,000</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-memorable-book-trailers-explored/"><u>[Updated] Memorable Book Trailers Explored</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-art-of-subtlety-garagebands-audio-softening-for-2024/"><u>[Updated] The Art of Subtlety Garageband's Audio Softening for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/break-free-from-perpetual-troubles-how-a-simple-30-usb-hub-transformed-my-macbooks-port-lifespan-exclusive-review/"><u>Break Free From Perpetual Troubles: How a Simple $30 USB Hub Transformed My MacBook's Port Lifespan – Exclusive Review</u></a></li>
+<li><a href="https://win11.techidaily.com/customize-your-windows-experience-filter-key-settings/"><u>Customize Your Windows Experience: Filter Key Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-overcoming-windows-1011s-isdonedll-errors/"><u>Deciphering and Overcoming Windows 10/11'S ISDone.dll Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-software-winx-dvd-faq/"><u>Digiarty Software WinX DVD: よくある質問への解決策 - FAQガイド</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-yuneecs-typhoon-h-an-aerial-powerhouse-review/"><u>In 2024, Unveiling Yuneec’s Typhoon H An Aerial Powerhouse Review</u></a></li>
+<li><a href="https://win11.techidaily.com/increase-visible-pins-on-windows-11-desktop-ui/"><u>Increase Visible Pins on Windows 11 Desktop UI</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/aging-video-for-maximum-impact-with-these-5-youtube-strategies-for-2024/"><u>Leveraging Video for Maximum Impact with These 5 YouTube Strategies for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-eliminating-directx-glitches-in-battlefield-2042/"><u>Mastering the Fix: Eliminating DirectX Glitches in Battlefield 2042</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-your-computers-msvcr110dll-void/"><u>Remedying Your Computer’s Msvcr110.dll Void</u></a></li>
+<li><a href="https://win11.techidaily.com/simplifying-everlasting-file-elimination-on-your-desktop-bin-with-windows-11/"><u>Simplifying Everlasting File Elimination on Your Desktop Bin with Windows 11</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/speed-up-unresolved-printer-queue-issue/"><u>Speed Up Unresolved Printer Queue Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/the-13-step-blueprint-to-reactivating-your-windows/"><u>The 13-Step Blueprint to Reactivating Your Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/the-invisible-handshake-direct-pc-links-in-windows-11-rdp/"><u>The Invisible Handshake: Direct PC Links in Windows 11 RDP</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-functional-ccleaner-in-win11/"><u>Troubleshooting Non-Functional CCleaner in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-steam-network-access-on-pc-windows/"><u>Unlocking Steam Network Access on PC Windows</u></a></li>
 </ul></div>
 

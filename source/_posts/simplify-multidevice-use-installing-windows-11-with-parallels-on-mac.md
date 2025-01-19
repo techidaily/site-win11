@@ -1,7 +1,7 @@
 ---
 title: "Simplify Multidevice Use: Installing Windows 11 with Parallels on Mac"
-date: 2025-01-12T21:21:02.868Z
-updated: 2025-01-18T19:45:37.772Z
+date: 2025-01-13T19:02:34.974Z
+updated: 2025-01-19T06:57:24.981Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![The Parallels Desktop 18 website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-website.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While there have been various workarounds, neither Apple nor Microsoft officially supports booting directly into Windows 11 using the Boot Camp feature built into macOS.
 
  Thanks to virtualization, you can run Windows 11 in a window alongside macOS (at the expense of speed and battery life). Keep in mind that not many PC apps are compatible with Windows on ARM, a version of Windows compiled for ARM64 devices like Apple silicon Macs.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
  In February 2023, Microsoft announced official support for Windows virtualization on ARM via Parallels Desktop 18.1\. With it, you can safely run the ARM version of Windows 11 on Apple silicon Macs and regular Windows versions on Intel-based Macs, knowing Microsoft has blessed this solution from a licensing perspective.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows 11 Virtualization With Parallels 18
 
  As a result of this collaboration, Parallels customers can download, install, and configure Windows 11 on their Macs in just a few clicks. Parallels 18.1 also provides a virtual[TPM chip](https://www.makeuseof.com/what-is-a-trusted-platform-module-tpm/) and support for Windows features like BitLocker, Secure Boot, and Windows Hello. Getting these security features is one of the[reasons to install Windows on a Mac](https://www.makeuseof.com/tag/reasons-install-windows-mac/) .
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
  For this tutorial, we'll use a trial version of Parallels and a non-activated copy of Windows 11 to get Microsoft's operating system up and running on your Mac for free. If you decide the solution works for you, you can always upgrade to the full version of Parallels and purchase a Windows license at a later date.
 
  Parallels 18 will automatically download the Windows installer, but you can also provide a copy of the installer if you've[downloaded a Windows 11 ISO file](https://www.makeuseof.com/windows-11-download-iso/) on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Download Parallels Desktop 18
 
@@ -59,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![Installation Assistant in Parallels Desktop 18 for macOS offering to download and install Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-download-install-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Parallels, and the Installation Assistant should take over. If it doesn't show up, click the**File** menu and choose**New** to create a fresh virtual machine. If the Installation Assistant offers to download and install Windows 11, accept by clicking the**Install Windows** button.
 
 ![A "Downloading Windows 11" message in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installation-assistant-downloading-windows-11.jpg)
@@ -71,15 +79,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![Windows Setup running in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-installing-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With that done, Parallels will validate and launch the installer. It may take a while to install Windows 11—be patient as Parallels optimizes Windows 11 on your Mac. You'll see an "Installation Complete" message at the end of the process. At that point, click the mouse to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 3: Complete the Installation
 
@@ -89,15 +89,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 ![Windows 11 running in Parallels Desktop 18 alongside macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-windows-11-dektop-edge-browser.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You should now land on the Windows 11 desktop in a macOS window. With everything installed and set up correctly, you can run your favorite Windows apps and games alongside macOS!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 4\. Install the Parallels Toolbox
 
@@ -111,9 +103,17 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
  For inspiration, check out our list of[must-have Windows apps for any new PC](https://www.makeuseof.com/new-windows-pc-must-have-applications-to-install-first/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5\. Customize Your Windows 11 Virtual Machine
 
 ![Choosing primary Windows 11 use case in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-configure-for.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can adjust various settings by clicking**Parallels > Configure** from the menu bar (some of the settings cannot be changed until your virtual machine is shut down). Under the**General** tab, click the**Change** button next to**Configure for** to choose whether you'll primarily use Windows 11 for productivity, gaming, development, etc.
 
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 ![Adjusting Windows 11 virtual machine graphics in Parallels Desktop 18 for macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/parallels-desktop-18-macos-settings-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click the**Hardware** tab to fine-tune your virtual machine by adjusting the amount of virtual RAM, processors, graphics cores, and other features available to Windows 11.
@@ -161,15 +161,20 @@ thumbnail: https://thmb.techidaily.com/bdb8177ec45e10fcd4ec5499f6e255ec00146feb5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-elevate-your-youtube-gaming-content-with-key-freefire-hashtags/"><u>[New] Elevate Your YouTube Gaming Content With Key FreeFire Hashtags</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-creative-substitutes-for-windows-video-editing-tools/"><u>[Updated] 2024 Approved Creative Substitutes for Windows Video Editing Tools</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-pushing-limits-with-4k-vision-lgs-monitor-the-31mu97-b/"><u>[Updated] 2024 Approved Pushing Limits with 4K Vision – LG's Monitor, the 31MU97-B</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-query-tagging-in-instagram-comments/"><u>[Updated] Mastering the Art of Query Tagging in Instagram Comments</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unifying-platforms-the-art-of-incorporating-linktree-in-tiktok-biographies/"><u>[Updated] Unifying Platforms The Art of Incorporating Linktree in TikTok Biographies</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-will-2023-see-an-increase-in-televising-video-content-for-2024/"><u>[Updated] Will 2023 See an Increase in Televising Video Content for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-next-frontier-of-computers-with-ai/"><u>Navigating the Next Frontier of Computers with AI</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-workflow-with-these-6-win-trackers/"><u>Streamline Your Workflow with These 6 Win Trackers</u></a></li>
-<li><a href="https://win11.techidaily.com/virtualbox-security-boost-enabling-or-disabling-tpm-support/"><u>VirtualBox Security Boost: Enabling or Disabling TPM Support</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-utilities-for-enforcing-disk-access-permissions/"><u>Windows Utilities for Enforcing Disk Access Permissions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-real-time-recorder-battle-go-obs-vs-shadowplay/"><u>[Updated] 2024 Approved Real-Time Recorder Battle Go OBS! Vs. ShadowPlay</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-step-into-the-future-of-video-creation-with-animated-subscribe-buttons-in-filmora/"><u>[Updated] Step Into the Future of Video Creation with Animated Subscribe Buttons in Filmora</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-professional-premiere-practices-implementing-inout-effects/"><u>2024 Approved Professional Premiere Practices Implementing In/Out Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-windows-11-search-11-tricks-for-a-functional-bar/"><u>Boost Windows 11 Search: 11 Tricks for a Functional Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-routines-installing-app-shortcuts-in-desktop-menu/"><u>Convenient Routines: Installing App Shortcuts in Desktop Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/distinguishing-variations-between-exe-and-traditional-msis/"><u>Distinguishing Variations Between EXE and Traditional MSIs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-officejet-3830-windows-printer-drivers-free-and-fast/"><u>Download the HP Officejet 3830 Windows Printer Drivers - Free & Fast</u></a></li>
+<li><a href="https://win11.techidaily.com/grow-windows-capacity-without-file-loss/"><u>Grow Windows Capacity Without File Loss</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-iphone-se-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an iPhone SE Without Apple ID Password?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-strategic-first-impressions-the-unpacking-edge/"><u>In 2024, Strategic First Impressions The Unpacking Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-common-display-issues-in-modern-windows-versions/"><u>Overcoming Common Display Issues in Modern Windows Versions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-future-awaits-equipping-yourself-for-metaverse-life-top-7-for-2024/"><u>The Future Awaits Equipping Yourself for Metaverse Life (Top 7) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-code-0xc00d36b4-in-windows-11/"><u>Troubleshooting Error Code 0xC00D36B4 in Windows 11</u></a></li>
 </ul></div>
 

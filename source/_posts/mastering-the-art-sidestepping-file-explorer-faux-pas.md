@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art: Sidestepping File Explorer Faux Pas"
-date: 2025-01-12T21:22:39.074Z
-updated: 2025-01-18T23:14:48.324Z
+date: 2025-01-15T08:00:25.229Z
+updated: 2025-01-18T17:15:35.386Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
@@ -38,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -53,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 * Press **Alt** \+ **P** to display the preview pane.
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  File Explorer shows you recent files or folders you've opened, making them easier for you to quickly jump on later if needed. You shouldn't make the mistake of going to the folder location again to find something if you opened it recently. Instead, check the **Recent** section of File Explorer and get quick access to all the files you've opened recently.
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
@@ -84,16 +84,12 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -102,6 +98,10 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  Checkboxes appear right before the file name, and you can check those boxes to select files and perform several actions, including moving, deleting, copying, renaming, and more.
 
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
@@ -139,18 +139,22 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-with-tomtom-actioncam-new-year/"><u>[Updated] 2024 Approved Exploring with TomTom ActionCam New Year</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-echo-chamber-best-online-spots-for-free-skype-music-for-2024/"><u>[Updated] Echo Chamber Best Online Spots for Free Skype Music for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-best-no-cost-substitutes-for-openain-sora-top-6-picks-revealed/"><u>Explore the Best No-Cost Substitutes for OpenAI'n Sora: Top 6 Picks Revealed!</u></a></li>
-<li><a href="https://win11.techidaily.com/fixes-for-no-network-windows-notification/"><u>Fixes for 'No Network' Windows Notification</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-x-flip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo X Flip Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-sounds-in-apex-legends-heres-how-you-can-resolve-it/"><u>No Sounds in Apex Legends? Here's How You Can Resolve It!</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-the-blank-cursor-dilemma-in-win11-quickly/"><u>Overcome the Blank Cursor Dilemma in Win11, Quickly</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/path-of-exile-instance-connection-troubleshooting-tips-and-fixes-edition/"><u>Path of Exile Instance Connection Troubleshooting Tips and Fixes: Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secrets-to-capturing-and-reloading-previous-chatgpt-exchanges-whenever-you-need-them/"><u>Secrets to Capturing and Reloading Previous ChatGPT Exchanges Whenever You Need Them</u></a></li>
-<li><a href="https://win11.techidaily.com/steering-device-activation-through-pc-sleep-states/"><u>Steering Device Activation Through PC Sleep States</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-overcome-unrecognized-interface-in-windows-os/"><u>Swiftly Overcome Unrecognized Interface in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/unregistered-package-solutions-for-windows-photos-errors/"><u>Unregistered Package Solutions for Windows Photos Errors</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c65-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C65 Phone Network-Ready</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-post-share-a-video-from-youtube-on-instagram/"><u>[New] In 2024, How to Post /Share a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-immediate-window-image-retrieval-windows-for-2024/"><u>[Updated] Immediate Window Image Retrieval (Windows) for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-by-step-craft-your-viral-story-in-online-videos/"><u>[Updated] In 2024, Step by Step, Craft Your Viral Story in Online Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-5-ways-to-record-minecraft-on-mac/"><u>2024 Approved 5 Ways to Record Minecraft on Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/a-walkthrough-for-transferring-old-games-to-windows-gallery/"><u>A Walkthrough for Transferring Old Games to Windows Gallery</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-your-dell-sound-cards-driver-for-optimal-performance/"><u>How to Seamlessly Update Your Dell Sound Card's Driver for Optimal Performance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-launch-dolby-digital-driver-for-windows-10-users/"><u>How to Troubleshoot and Launch Dolby Digital Driver for Windows 10 Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/industry-pioneers-of-immersive-visualization-for-2024/"><u>Industry Pioneers of Immersive Visualization for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-fix-bluetooth-attempt-error-in-windows/"><u>Mastering the Fix: Bluetooth Attempt Error in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-pcs-powertoys-10-essential-tips/"><u>Mastering Windows PCs: PowerToys' 10 Essential Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/offline-process-for-extra-users-in-windows-11/"><u>Offline Process for Extra Users in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-step-by-step-for-adding-srt-to-mp4-for-2024/"><u>The Ultimate Step-by-Step for Adding SRT to MP4 for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-windows-pin-entry/"><u>Troubleshooting Non-Responsive Windows PIN Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-bt-folder-functionality/"><u>Understanding Windows ~BT Folder Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-importance-in-preserving-win-11-notifications/"><u>Unveiling the Importance in Preserving Win 11 Notifications</u></a></li>
+<li><a href="https://win11.techidaily.com/yourdevice-link-assessing-risks-and-benefits-in-w10-systems/"><u>YourDevice Link - Assessing Risks and Benefits in W10 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtubes-monetization-milestone-500-subscribers-achieved/"><u>YouTube's Monetization Milestone 500 Subscribers Achieved</u></a></li>
 </ul></div>
 

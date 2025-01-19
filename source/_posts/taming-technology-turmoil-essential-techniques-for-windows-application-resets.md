@@ -1,7 +1,7 @@
 ---
 title: "Taming Technology Turmoil: Essential Techniques for Windows Application Resets"
-date: 2024-08-16T00:45:58.084Z
-updated: 2024-08-17T00:45:58.084Z
+date: 2025-01-13T23:33:28.180Z
+updated: 2025-01-19T09:49:15.457Z
 tags:
   - windows10
   - windows11
@@ -20,11 +20,19 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  So how do you reset an app on Windows? Here’s what you need to know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 11
 
  To reset an app on Windows 11, start by pressing**Win + I** to bring up the Settings app. Then, navigate to**Apps > Installed apps** .
 
 ![the installed apps screen in the windows 11 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/installed-apps-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll through the list of apps on your computer until you get to the one you want. Once you’ve found it, click on the**three horizontal dots** on its right and select**Advanced options** from the menu.
 
@@ -39,44 +47,40 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reset an App on Windows 10
 
  If you’re using Windows 10, you can reset an app by first opening the Settings app using the**Win + I** shortcut, or using one of the many[ways to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more. From there, navigate to**Apps > Apps & features** .
 
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
 
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Apps Just Need a Reset Sometimes
 
  If you don’t want the hassle of manually reinstalling an app, you can let Windows do it for you in the Settings app. Since this will be like installing a fresh copy of the app, be sure to reset it only when you’ve tried other ways to save the program.
 
  If you can’t reset an app in Settings, then you have to manually reinstall it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,4 +89,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-techniques-for-ae-title-creation/"><u>[Updated] Expert Techniques for AE Title Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-pc-access-through-smb-protocols-mobile/"><u>Direct PC Access Through SMB Protocols (Mobile)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-perform-a-firmware-upgrade-for-your-apple-studio-display-tips-and-tricks-by-zdnet/"><u>How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-y78t-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo Y78t FRP</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-witwizards-your-go-to-meme-app/"><u>In 2024, WitWizards Your Go-To Meme App</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/than-clicks-what-determines-youtubes-view-numbers-for-2024/"><u>More than Clicks What Determines YouTube's View Numbers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-shutdown-of-windows-privacy-tools/"><u>Navigating the Shutdown of Windows Privacy Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-routes-for-customizing-windows-11-settings-app/"><u>Reboot Routes for Customizing Windows 11 Settings App</u></a></li>
+<li><a href="https://win11.techidaily.com/reconfiguring-fn-keys-for-optimal-windows-performance/"><u>Reconfiguring FN Keys for Optimal Windows Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-compatible-fingerprint-in-windows/"><u>Troubleshooting No Compatible Fingerprint in Windows</u></a></li>
+</ul></div>
 

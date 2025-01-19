@@ -1,7 +1,7 @@
 ---
 title: Mastering File Server Connection in the Latest Win11 Version
-date: 2025-01-12T23:19:09.883Z
-updated: 2025-01-19T01:42:04.800Z
+date: 2025-01-17T22:19:11.117Z
+updated: 2025-01-18T23:05:41.059Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Configure Network Discovery in Windows
 
  Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
@@ -49,7 +45,7 @@ Follow the sets below to enable network discovery on Windows:
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
@@ -61,7 +57,7 @@ Follow the sets below to enable network discovery on Windows:
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Map a Network Drive Using File Explorer
@@ -77,10 +73,6 @@ Here's what you need to do to use File Explorer for mapping:
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
@@ -107,6 +99,10 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Command Prompt for Mapping
 
  Just like you used PowerShell earlier, you can use the Windows Command Prompt tool to map a network drive.
@@ -123,6 +119,10 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disconnect a Mapped Network Drive
 
  Disconnecting the network drive is a no-brainer if you no longer need access to the files on it.
@@ -137,7 +137,7 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
@@ -161,20 +161,24 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/asf2024/"><u>「ASFファイル再生エラーを解消する2024対策手順マニュアル」</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-shortcuts-you-should-know/"><u>2024 Approved YouTube Shortcuts You Should Know</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-5-apple-podcast-services-for-ios-users/"><u>Best 5 Apple Podcast Services for iOS Users</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-memory-overuse-by-microsoft-edge-webview2/"><u>Fixing Memory Overuse by Microsoft Edge WebView2</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-x-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone X | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-wacom-intuos-pro-drivers-running-on-windows-11-a-hassle-free-guide/"><u>How to Get the Latest Wacom Intuos Pro Drivers Running on Windows 11 - A Hassle-Free Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>In 2024, Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
-<li><a href="https://win11.techidaily.com/insiders-tactics-secrets-to-mac-acquisition-on-windows-11/"><u>Insider's Tactics: Secrets to MAC Acquisition on WIndows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maintain-efficient-use-windows-11-idle-shutdown-tips-and-tricks/"><u>Maintain Efficient Use: Windows 11 Idle Shutdown Tips and Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-11-using-windows-to-go-and-rufus-on-vintage-computers/"><u>Maximizing Windows 11: Using Windows To Go & Rufus on Vintage Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/personalize-your-environment-adding-tasks-to-windows-explorer-menus/"><u>Personalize Your Environment: Adding Tasks to Windows Explorer Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/prolonging-windows-11-shutdown-handling-running-jobs/"><u>Prolonging Windows 11 Shutdown - Handling Running Jobs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-v27-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V27 Black and White | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/revamp-your-esc-experience-simple-fixed-for-your-windows-pc/"><u>Revamp Your Esc Experience: Simple Fixed For Your Windows PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-cheap-240hz-panels/"><u>Savvy Shoppers' Guide to Cheap 240Hz Panels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimized-video-transformation-on-macios-the-8-list/"><u>[New] Optimized Video Transformation on Mac/iOS The #8 List</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-fbx-studio-guide-for-gamers/"><u>[Updated] FBX Studio Guide for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-message-rendering-issues-in-discord-desktop/"><u>Addressing Message Rendering Issues in Discord Desktop</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amazing-budget-friendly-laptop-for-peak-performance-beats-thinkpads-and-macbooks-sale-exclusive-prime-day-discount/"><u>Amazing Budget-Friendly Laptop for Peak Performance Beats ThinkPads and MacBooks - Sale! Exclusive Prime Day Discount</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-drive-eraser-the-ideal-software-for-confidential-data-deletion-get-yours-today/"><u>BitRaser Drive Eraser: The Ideal Software for Confidential Data Deletion – Get Yours Today</u></a></li>
+<li><a href="https://win11.techidaily.com/comparing-windows-n-variants-whats-worth-it/"><u>Comparing Windows N Variants: What's Worth It?</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-microphone-use-a-deep-dive-into-win-11/"><u>Conquering Microphone Use: A Deep Dive Into Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/delve-into-artificially-inspired-visuals-how-to-use-paint-cocreator-win11/"><u>Delve Into Artificially Inspired Visuals: How to Use Paint Cocreator (Win11)</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-windows-photo-ordering-software-roundup/"><u>Essential Windows Photo Ordering Software Roundup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/loptimisation-par-intelligence-des-processus-avec-blue-prism-boostez-les-performances-automatisees/"><u>L'Optimisation Par Intelligence Des Processus Avec Blue Prism - Boostez Les Performances Automatisées</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-faster-downloads-in-microsofts-app-stores/"><u>Mastering Faster Downloads in Microsoft's App Stores</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-trimming-for-maximum-instagram-impact-mac-for-2024/"><u>Mastering Video Trimming for Maximum Instagram Impact (Mac) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-windows-alignment-combat-overscan-effects/"><u>Perfect Windows Alignment: Combat Overscan Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-video-sequences-fixing-delay-on-windows/"><u>Speeding Up Video Sequences: Fixing Delay on Windows</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/top-ranked-klonos-utilities-for-silicon-power-ssd-on-windows-111087/"><u>Top Ranked KlonOS Utilities for Silicon Power SSD on Windows 11/10/8/7</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/top-strategies-for-efficiently-transferring-dvds-to-your-synology-or-qnap-network-attached-storage/"><u>Top Strategies for Efficiently Transferring DVDs to Your Synology or QNAP Network Attached Storage</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-microsoft-stores-error-x80131500/"><u>Troubleshooting Microsoft Store's Error X80131500</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/unveiling-protection-layers-the-reliability-of-blockchain-address-balance-monitoring-software-by-yl-computing/"><u>Unveiling Protection Layers: The Reliability of Blockchain Address Balance Monitoring Software by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-best-free-mp4-video-splitters-and-cutters/"><u>Updated 2024 Approved The Best Free MP4 Video Splitters and Cutters</u></a></li>
 </ul></div>
 

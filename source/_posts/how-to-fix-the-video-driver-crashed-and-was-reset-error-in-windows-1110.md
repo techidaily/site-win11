@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Video Driver Crashed and Was Reset” Error in Windows 11/10
-date: 2024-08-16T00:43:51.013Z
-updated: 2024-08-17T00:43:51.013Z
+date: 2025-01-16T22:24:21.634Z
+updated: 2025-01-18T18:26:01.296Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,14 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 
 ![The Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-playback-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update Your PC’s Graphics Driver
 
  Updating graphics drivers is one of the most widely confirmed ways to fix the “Video driver crashed” error. Even the error message itself suggests users update their graphics cards’ drivers. So, it’s quite likely this potential resolution will address the error if your graphics card driver needs updating.
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  Manually updating graphics drivers by downloading them from the NVIDIA, AMD, or Intel sites is a bit slower but will ensure you get the very latest driver package.
 
 ![The NVIDIA driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-nvidia-driver-download-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall Your PC’s Graphics Driver
 
@@ -52,6 +57,11 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 3. Right-click your PC’s GPU and select **Uninstall device**.  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-device-option.jpg)
 4. Select a checkbox option for deleting the driver and click **Uninstall**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option3.jpg)
 5. Click on **Action > Scan for hardware changes** to reinstall the graphics driver.
 
@@ -70,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  If you can access in-game settings, you might also be able to select a lower frame rate option from there. Look through an affected game’s graphical settings menu to see if it includes an FPS option for selecting lower or higher frame rates.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Reduce an Affected Game’s Graphical Quality Settings
 
  The “Video driver crashed” error can sometimes occur when a game’s graphical settings are set too high. That’s more likely on lower-spec PCs with poorer GPUs that can’t handle higher graphics settings so well.
@@ -81,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
  There will probably be numerous in-game graphical options you can adjust. Lower the screen, texture, and shadow resolution settings that are included in many games. Then, select to apply the new graphical settings and restart the game.
 
 ![A game's Graphics Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/graphics-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can try selecting a lower graphics preset option instead. Most games have three or more graphics presets that generally change graphical settings. Selecting a lower-quality preset will automatically reduce various graphics options.
@@ -101,28 +113,14 @@ thumbnail: https://thmb.techidaily.com/5f8ab25178398b0800b6345046953e2b2e89a6d9e
 HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 4. If a **TDRDelay** DWORD already exists, you can skip to step six. If not, right-click **GraphicsDrivers** in Registry Editor’s left sidebar and select the **New** and **DWORD (32-bit) Value** options from the context menu.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-dword-32-bit-value-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 5. Input **TDRDelay** for the key’s title.
 6. Double-click on the **TDRDelay** registry entry.
 7. Delete the current number and enter **8** in the **Value data** box.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-edit-dword-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 8. Select **OK** to finish.
 
  Restart the PC after applying this registry tweak. Then, try playing games or videos to see if this error still occurs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Enjoy Your Windows Games and Videos Again
 
  Those potential resolutions are among the most widely confirmed troubleshooting methods for fixing the “Video driver crashed” error. Many users have discussed how to fix the “Video driver crashed” error on forums and confirmed them to work.
@@ -131,11 +129,27 @@ HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\GraphicsDrivers
 
  Although this issue is mainly reported for games, it can also crash high-resolution videos. It is a recurring error that can make games unplayable or videos unwatchable. This is how you can fix the “Video driver crashed” error on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>[New] The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-18-high-resolution-cameras-for-professionals/"><u>[Updated] 2024 Approved Top 18 High-Resolution Cameras for Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/7-personal-touches-for-windows-11s-search-engine/"><u>7 Personal Touches for Windows 11'S Search Engine</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-find-copilot-on-windows-11-heres-what-to-do/"><u>Can't Find Copilot on Windows 11? Here's What To Do</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-way-to-relaunch-printer-service/"><u>Efficient Way to Relaunch Printer Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-issues-how-to-get-your-realtek-mic-up-and-running-again/"><u>Fixing Issues: How To Get Your Realtek Mic Up And Running Again</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-essential-elements-error-on-win11win11/"><u>How to Rectify Essential Elements Error on Win11/Win11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lenovo-thinkphone-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lenovo ThinkPhone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-are-you-searching-for-the-best-canon-lut-download-this-article-provides-the-best-recommendations-for-creating-the-best-professional-videos/"><u>New 2024 Approved Are You Searching for the Best Canon LUT Download? This Article Provides the Best Recommendations for Creating the Best Professional Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-limited-use-of-chatgpt-in-pc/"><u>Optimizing Limited Use of ChatGPT in PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/play-without-payment-top-10-free-online-roleplaying-games-for-2024/"><u>Play Without Payment Top 10 Free Online Roleplaying Games for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-step-by-step-guide-to-enhancing-teamwork-in-microsoft-teams-via-ai-copilot/"><u>The Step-by-Step Guide to Enhancing Teamwork in Microsoft Teams via AI Copilot</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/wymowienie-i-kopiowanie-nvme-na-dysku-ssd-2-zestawiska-do-pokonyvaniya-w-sieci-nvme-w-sistach-operacyjnych-windows/"><u>Wymówienie I Kopiowanie NVMe Na Dysku SSD - 2 Zestawiska Do Pokonyвания W Sieci NVMe W Sistach Operacyjnych Windows</u></a></li>
+</ul></div>
+

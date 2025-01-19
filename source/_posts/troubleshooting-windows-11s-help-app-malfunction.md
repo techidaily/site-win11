@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11'S Help App Malfunction
-date: 2025-01-17T21:12:00.755Z
-updated: 2025-01-18T18:45:49.677Z
+date: 2025-01-14T04:21:45.207Z
+updated: 2025-01-19T02:51:25.481Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Begin With Some General Fixes
 
  Here are some quick tips on how to fix the Get Help app not working issues quickly:
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Get Help End Task Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-end-task-option.jpg)
 * **Reboot your computer:** Rebooting a computer often resolves many problems by clearing your system's memory and terminating problematic processes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Update your Windows version:** Older versions of Windows may contain bugs that may prevent the Get Help app from functioning correctly. So, always [ensure your Windows version is up-to-date](https://www.makeuseof.com/update-windows-manually/).
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Repair or Reset the Get Help App
 
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Troubleshoot Network-Related Issues
 
  The Get Help app relies on your computer’s network to provide you with in-app content. Therefore, it's common for your wrong network settings to cause trouble with the Windows apps. We recommend you take a look at our guide on [how to troubleshoot the internet on Windows](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/) for various methods.
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 * Restarting your router or modem to rectify minor network hiccups.
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable VPN or Proxy Temporarily
 
@@ -87,15 +83,15 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -113,7 +109,11 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -141,11 +141,11 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
 
@@ -165,15 +165,16 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-recommended-screen-capturing-apps-for-mac/"><u>[Updated] 2024 Approved Expert-Recommended Screen Capturing Apps for Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ceasing-noise-during-obs-recordings/"><u>2024 Approved Ceasing Noise During OBS Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-reading-qr-codes-on-windows-devices/"><u>Essential Tips for Reading QR Codes on Windows Devices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hobby-to-hustle-making-money-with-videos-for-2024/"><u>From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/go-pure-with-linux-avoid-wsl/"><u>Go Pure with Linux - Avoid WSL</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-20-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 20 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-exclusive-7-discreet-media-tools/"><u>In 2024, Exclusive 7 Discreet Media Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/speak-up-troubleshooting-and-fixing-microphone-errors-on-microsoft-powered-google-meet/"><u>Speak Up! Troubleshooting and Fixing Microphone Errors on Microsoft-Powered Google Meet</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-chrome-freeze-issue-for-windows-users/"><u>Tackling Chrome Freeze Issue for Windows Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-comprehensible-list-best-games-music-found-online/"><u>[Updated] 2024 Approved Comprehensible List Best Games’ Music Found Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-best-12-youtube-game-openers-a-comparative-guide-no-expense/"><u>[Updated] In 2024, Best 12 YouTube Game Openers A Comparative Guide (No Expense)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-pages-to-production-creating-a-movie-blueprint/"><u>2024 Approved From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://win11.techidaily.com/activation-procedure-for-copypaste-functionality-in-w11s-security-mode-edge/"><u>Activation Procedure for Copy/Paste Functionality in W11's Security Mode, Edge</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-io-errors-in-photo-import-from-apple-devices/"><u>Essential Fixes for I/O Errors in Photo Import From Apple Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-no-logging-in-run-commands-on-pcs/"><u>Fixing No Logging in Run Commands on PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-10t-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme 10T 5G</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-dimensional-doors-top-10-sci-fi-films-that-open-new-worlds/"><u>In 2024, Dimensional Doors Top 10 Sci-Fi Films that Open New Worlds</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-non-automatic-timezone-change/"><u>Overcoming Windows' Non-Automatic Timezone Change</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/zoom-and-google-meet-visual-clarity-your-step-by-step-guide-to-cleaner-participation/"><u>Zoom & Google Meet Visual Clarity Your Step-by-Step Guide to Cleaner Participation</u></a></li>
 </ul></div>
 

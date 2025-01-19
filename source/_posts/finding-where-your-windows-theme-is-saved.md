@@ -1,7 +1,7 @@
 ---
 title: Finding Where Your Window's Theme Is Saved
-date: 2024-08-16T00:46:23.431Z
-updated: 2024-08-17T00:46:23.431Z
+date: 2025-01-16T00:51:42.533Z
+updated: 2025-01-18T17:54:15.708Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
  Some users may like to customize Windows 11 desktop wallpapers with editing software. However, the Personalization section of the Settings app doesn’t show you the folder paths for wallpapers in themes downloaded from Microsoft’s site. Nor can you find the directory locations for Windows 11’s default backgrounds from there.
 
  You can’t edit a desktop wallpaper when you don’t know what folder it’s in. So, here we’re going to look at some different ways you can find your current desktop wallpaper. This is how you can find the wallpaper file for your current desktop background in Windows 11\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Find Your Desktop Wallpaper’s Location With Run Commands
 
@@ -44,10 +48,12 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 3. Click your theme’s folder to open it.  
 ![A DeskBackground folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-desktopbackground-folder.jpg)
 4. Then open the DesktopBackground subfolder that includes all the theme’s image files.  
-![The image files for a Windows theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-theme-s-wallpaper-folder.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The image files for a Windows theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-theme-s-wallpaper-folder.jpg)
 
  Now you can open all your Windows theme’s background images from that folder. Note that you’ll need to change **<user folder>** in the specified path above to your real user folder’s name. The Themes folder that the path opens includes directories for all Windows themes you’ve downloaded.
 
@@ -64,23 +70,16 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 [System.Text.Encoding]::Unicode.GetString($TIC) -replace '(.+)([A-Z]:[0-9a-zA-Z\\])+','$2'`
 5. Paste that command into PowerShell by pressing **Ctrl** \+ **V**.  
 ![the-show-wallpaper-path-command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-show-wallpaper-path-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 6. Then press your **Enter** key to execute the command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ll see a folder path for your desktop wallpaper in PowerShell just below the executed command. Copy that location and open File Explorer. Then paste the path into Explorer’s address bar and press **Enter** to open the file in your default image viewer software.
 
  Or you can open the file’s folder instead. Delete the file’s name at the end of the path within Explorer. Pressing **Enter** will then bring up the folder from which you can open the file. Right-click the wallpaper file to select **Open with** and choose a suitable app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to Find Your Desktop Wallpaper’s Location With the Registry Editor
 
  A wallpaper string within the registry includes the full path of your current desktop background. So, you can find your wallpaper’s location by looking at the **Value data** box for that string. These are the steps for finding your desktop wallpaper’s path with the Registry Editor app:
@@ -92,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 4. Double-click the **WallPaper** string within the **Desktop** key.
 5. Copy the wallpaper’s path within the **Value data** box.  
 ![The WallPaper string's Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-wallpaper-edit-string-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 6. Click **OK** to exit the string’s window and close Registry Editor.
 7. [Open Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and input the copied folder path to bring up the wallpaper’s file.
 
@@ -103,15 +99,13 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Wallpapers`
 
 ![The BackgroundHistoryPath strings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-backgroundhistorypath-strings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That registry key includes five numbered BackgroundHistoryPath strings. Double-click the **BackgroundHistoryPath0**, 1, 2, 3, or 4 string to view its **Value data** box. Then copy and paste the wallpapers’ paths into the File Explorer address bar.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Desktop Wallpaper Location Option to the Context Menu
 
  A context menu option for opening the folder that includes your current desktop wallpaper will give you more direct access to backgrounds. Of course, Windows 11’s right-click menu doesn’t have such a shortcut, but you can add a handy D**esktop Wallpaper Location** context menu option with the freeware Winaero Tweaker. This is how to add a **Desktop Wallpaper Location** shortcut to the context menu with that software:
@@ -122,9 +116,18 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 4. Double-click the **Context Menu** settings category inside Winaero Tweaker’s window.  
 ![The Context Menu category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/context-menu-category.jpg)
 5. Select the **Wallpaper Location** setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **Add “Desktop Wallpaper Location” context menu** checkbox.  
 ![The Add "Desktop Wallpaper Location" context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-add-desktop-wallpaper-location-folder.jpg)
 7. Close the Winaero Tweaker software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try out the new **Desktop Wallpaper Location** option on the right-click menu. Click an area of your Windows 11 desktop with the right mouse button and select **Show more options**. Select the **Desktop Wallpaper Location** option on the classic menu. That shortcut with bring up the DesktopBackground directory for your theme or one of the subfolders within the Wallpaper folder.
 
@@ -136,11 +139,29 @@ thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c
 
  You can’t edit a desktop wallpaper when you don’t know what folder it’s in. So, here we’re going to look at some different ways you can find your current desktop wallpaper. This is how you can find the wallpaper file for your current desktop background in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-real-time-speech-processing-and-action-at-no-charge/"><u>[New] In 2024, Real-Time Speech Processing & Action at No Charge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/hat-lies-beneath-an-exploration-into-youtubes-unlisted-video-space-for-2024/"><u>[New] What Lies Beneath An Exploration Into YouTube's Unlisted Video Space for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-tailoring-your-videography-with-personalized-instagram-captions/"><u>[Updated] 2024 Approved Tailoring Your Videography with Personalized Instagram Captions</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-steam-sound-fidelity/"><u>Enhancing Windows Steam Sound Fidelity</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-err0r-code-e1-in-w10w11/"><u>Fixing Err0r: Code E1 in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-started-with-msoffice-on-win11-os/"><u>Getting Started with MSOffice on Win11 OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-failed-admin-mode-execution-in-windows-console/"><u>Overcoming Failed Admin Mode Execution in Windows Console</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-and-enhance-desktop-usage-by-adding-win-11-widgets/"><u>Personalize and Enhance Desktop Usage by Adding Win 11 Widgets</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-windows-from-logging-app-starts/"><u>Prevent Windows From Logging App Starts</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-synapse-seamlessly-on-windows-1110-systems/"><u>Reinstating Synapse Seamlessly on Windows 11/10 Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/seamless-integration-of-icloud-notebooks-into-your-linux-system-tutorial/"><u>Seamless Integration of iCloud Notebooks Into Your Linux System | Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-issue-of-missing-frames-during-mkv-playback-in-vlc/"><u>Solving the Issue of Missing Frames During MKV Playback in VLC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1501723-9781609259303-the-best-of-the-equinox-sex-magick/"><u>The Best of the Equinox, Sex Magick | Free Book</u></a></li>
+</ul></div>
+

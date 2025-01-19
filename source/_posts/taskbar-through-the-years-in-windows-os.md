@@ -1,7 +1,7 @@
 ---
 title: Taskbar Through the Years in Windows OS
-date: 2024-08-16T00:43:45.633Z
-updated: 2024-08-17T00:43:45.633Z
+date: 2025-01-12T18:07:56.074Z
+updated: 2025-01-18T18:05:34.331Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,15 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 ![The program bar in Windows 1.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, it didn’t include a Start menu or system tray area and wasn’t even present in Windows 3.0\. Program windows minimized to the desktop background area in Windows 3.0\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 95: The Introduction of the Taskbar
 
@@ -39,22 +47,15 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  The first true taskbar in Windows 95 laid the foundations for the future with a **Start** button, system tray area, and permanent clock. However, it was still somewhat different from the Windows 10 and 11 taskbars most users are familiar with today. Windows 95’s taskbar was grey and had rectangular minimized windows with program title labels.
 
 ![The Windows 95 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-95-taskbar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The original Windows 95 version didn’t have a Quick Launch area. However, a Quick Launch area was on later versions of that OS. This was an area of the taskbar on which users could add program shortcuts. It also included a **Show Desktop** button and Internet Explorer icon.
 
  Some third-party software packages enable you to restore the classic Windows 95 taskbar in Windows 11/10\. For example, you can [revive the Windows 95 and XP taskbar](http://www.makeuseof.com/windows-95-xp-taskbars-windows-11/) with the RetroBar app.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows XP: A Revamped Taskbar Appears
 
  Microsoft gave Windows XP a new visual style and redesigned the taskbar to match it. Windows XP’s taskbar had a default blue color scheme with a green **Start** button, which was quite a departure from the gray taskbars of Windows 95, 98, and Millennium. Minimized taskbar windows also had more rounded corners to match the rest of the new-look design.
@@ -64,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Windows XP’s taskbar was the first to have grouped windows. This feature enabled the grouping of multiple open windows from the same application on the taskbar. Users could click to view different windows from the same taskbar app windows.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows Vista: The Introduction of Window Previews
 
  Vista didn’t go down a storm with new users during its 2007 release year. However, its taskbar did have one welcome new feature that’s remained a part of Windows ever since. Vista’s new taskbar thumbnails enabled users to view small previews of a window’s contents by hovering their cursors over its taskbar icon.
@@ -73,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Windows Vista’s taskbar was also the first to include a **Start** button with no label text. Instead, it was just a circulator button with a Windows logo. The removal of the “Start” label reduced the button’s width and freed up a bit more taskbar space.
 
 ![The Windows Vista taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-vista-taskbar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Windows 7: Another Taskbar Overhaul From Microsoft
 
@@ -83,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  The Windows 7 taskbar also introduced a new Jump List feature. This feature enabled users to access recently opened files or webpages for an app minimized to the taskbar from its window’s Jump List menu. Users could also pin files or webpages to Jump Lists for regular access.
 
 ![A Jump List in Windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/jump-list-in-windows-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Microsoft also swapped the **Show Desktop** button from the Quick Launch area with an Aero Peek alternative at the far right of the taskbar. Clicking the **Aero Peek** button minimizes all windows to the taskbar. Hovering the cursor over that button enables users to view the desktop area without minimizing anything.
 
@@ -95,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  However, the removal of the taskbar’s **Start** button generally didn’t go down well with users. Microsoft later released a Windows 8.1 upgrade that restored a new-style taskbar **Start** button for accessing the Start screen. That wasn’t enough to save Windows 8 though, and the OS never recovered.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Windows 10: The Introduction of New Taskbar Icons
 
  Microsoft added buttons for new features to Windows 10’s taskbar. The Windows Cortana virtual assistant was originally tied to the Windows Search tool. However, Microsoft separated the search tool from Cortana in later Windows 10 versions.
@@ -105,8 +105,9 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Consequently, Windows 10’s taskbar became the first to include a **Type here to search** (magnifying glass) button on it for accessing the search box, which isn’t available through the Start menu.
 
 ![The Type here to search button in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/type-here-to-search-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Task View was another notable new Windows 10 taskbar feature. Clicking the **Task View** taskbar button brings up virtual desktop options. You can also access file and Edge webpage shortcuts from Task View’s timeline.
@@ -118,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
  Windows 11’s taskbar was the first to have center-aligned icons in the middle by default. This makes that taskbar a bit more like the macOS Dock with its centralized icons. However, you can always [add a macOS-style Dock to Windows 10 & 11](https://www.makeuseof.com/windows-10-11-mac-style-dock/) if you prefer.
 
 ![The Windows 11 taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-11-taskbar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  Microsoft also added a new **Widgets** button to Windows 11’s taskbar. The Widgets Board is one of the biggest new features in Windows 11 on which you can pin weather, sport, Game Pass, traffic, entertainment, and other widgets that provide info and content. The Widgets feature also displays a weather icon and description on the taskbar.
 
@@ -136,11 +134,27 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  The taskbar has been a part and parcel of Windows for more than 25 years, and over that time period, Microsoft has added and removed features to and from the taskbar. This is the history of the Windows taskbar from its inception up to 2023\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-accelerate-your-arts-journey-with-these-7-nft-converters/"><u>[New] 2024 Approved Accelerate Your Art's Journey with These 7 NFT Converters</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-direct-video-tweet-sharing-content-without-including-others-tweets/"><u>[Updated] Direct Video Tweet Sharing Content Without Including Others' Tweets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamline-your-workflow-learn-to-record-macs-screen-with-shortcuts/"><u>[Updated] In 2024, Streamline Your Workflow Learn to Record Mac's Screen with Shortcuts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-zte-nubia-flip-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove ZTE Nubia Flip 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/close-all-easy-as-1-2-3-windows-multi-app-command/"><u>Close All, Easy as 1-2-3: Windows Multi-App Command</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-insights-for-captivating-images-and-memorable-slideshows-in-win11s-photography-platform/"><u>Expert Insights for Captivating Images and Memorable Slideshows in Win11's Photography Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-transformative-strategies-for-broadcast-excellence-wirecast-on-youtube/"><u>In 2024, Transformative Strategies for Broadcast Excellence WireCast on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/premier-free-android-recording-apps-no-ads/"><u>Premier Free Android Recording Apps (No Ads)</u></a></li>
+<li><a href="https://win11.techidaily.com/privacy-hacked-no-more-winning-encryption-tools-ranked-149-chars/"><u>Privacy Hacked No More: Winning Encryption Tools Ranked (149 Chars)</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-pc-display-interactive-and-lively-windows-11-walls/"><u>Revitalize Your PC Display: Interactive and Lively Windows 11 Walls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-swiping-for-convenience-the-ultimate-tutorial-on-applying-apple-pay-via-apple-watch/"><u>Seamlessly Swiping for Convenience: The Ultimate Tutorial on Applying Apple Pay via Apple Watch</u></a></li>
+<li><a href="https://win11.techidaily.com/window-lockscreen-tips-engage-or-mute-spotlight-images/"><u>Window Lockscreen Tips: Engage or Mute Spotlight Images</u></a></li>
+</ul></div>
+

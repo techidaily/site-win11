@@ -1,7 +1,7 @@
 ---
 title: Quick Voice Transcription Tips From Whisper Desktop
-date: 2025-01-11T19:33:08.423Z
-updated: 2025-01-18T17:58:36.370Z
+date: 2025-01-12T07:05:33.583Z
+updated: 2025-01-19T11:56:44.195Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
  If you'd prefer the "vanilla" version of Whisper and the versatility of the terminal instead of clunky GUIs, check our article on [how to turn your voice into text with OpenAI's Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are Whisper and Whisper Desktop the Same?
 
  Despite its official-sounding name, Whisper Desktop is a third-party GUI for Whisper, made for everyone who'd prefer to click buttons instead of typing commands.
@@ -55,22 +51,22 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 ![Whisper Desktop Github Releases Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-releases-link.jpg)
 2. Under **Assets**, click **WhisperDesktop.zip** and download it to your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Whisper Desktop Github Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-download-link.jpg)
 3. Extract the downloaded archive to a folder and use your file manager to visit it. Inside you will find the Whisper Desktop application. Double-click on it to run it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Whisper Desktop App in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-app-in-file-explorer.jpg)
 4. You also need a Whisper language model in **GCML** binary format. Whisper Desktop will provide you with two links for acquiring one. Skip the second link for generating your own model since it's a more complicated process. Click on **Hugging Face** to open that page in your default browser, from where you can download a ready-to-use file.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Whisper Desktop Language Model Links](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-language-model-links.jpg)
 5. The version of Whisper Desktop we used while writing this article provided a link to an obsolete repository at Hugging Face. If you meet the same problem, notice a link to a **new location**. Click on it to visit the new repository.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Hugging Face Whisper Models New Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-models-new-location.jpg)
 6. Click on the link that will take you to the available **models**.  
@@ -81,10 +77,18 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 ![Hugging Face Whisper Medium Model Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-link.jpg)
 8. Finally, you should have reached your destination. Notice the line stating that this file is stored with Git LFS and is too big to display, but you can still download it. Click on **download** to do precisely that.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Hugging Face Whisper Medium Model Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-download-link.jpg)
 9. When the file completes downloading, use your favorite file manager (File Explorer will do) to move the downloaded language model file into the same folder as Whisper Desktop.  
 
 ![Whisper Medium Model Placed in Whisper Desktop Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-medium-model-placed-in-whisper-desktop-folder-in-file-explorer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Transcribing With Whisper Desktop
 
@@ -97,7 +101,7 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 ![Whisper Desktop Selecting Model Implementation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-selecting-model-implementation.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Advanced** button leads to more options that affect how Whisper will run on your hardware. However, since the button clearly states they are advanced, we suggest you only tweak them if you are troubleshooting or know what you are doing. Setting the wrong options values here can impose a performance penalty or render the app unusable.
@@ -125,18 +129,18 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 ![Whisper Desktop Active Voice Transcribing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-active-voice-transcribing.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The text file you selected should open in your default text editor, containing in written form everything you said until you clicked **Stop**.
 
 ![Transcribed Text With Whisper Desktop in Typora](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/transcribed-text-with-whisper-desktop-in-typora.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  We should note that you can also do the opposite of what we saw here: convert any text to speech. This way you can listen to anything as if it were a podcast instead of tiring your eyes squinting at screens. For more info on that, check our article on [some of the best free online tools to download text-to-speech as MP3 audio](https://www.makeuseof.com/tag/download-text-to-speech-as-mp3-audio/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Whisper Desktop Voice-Typing Tips
 
@@ -153,10 +157,6 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 3. Whenever you realize you made a mistake, ignore it and keep going. Loading and unloading the language model seems to be the most time-consuming part of the process with the current state of Whisper and our available hardware. So, it's quicker to keep talking and then edit out your mistakes afterward.
 4. As with the standalone version of Whisper, it's best to use the optimal language model for your available hardware. You can use up to the **medium** model if your GPU has 8GB of VRAM. For less VRAM, go for the smaller models. Only choose the slightly more accurate but also much more demanding **large** model if you use a GPU with 16GB of VRAM or more.
 5. Remember that the larger the language model, the slower the transcription process. Don't go for a model larger than needed. You'll probably find Whisper Desktop can already "understand you" most of the time with the medium or smaller models, with only one or two errors per paragraph.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are You Still Typing? Use Your Voice With Whisper
 
@@ -176,24 +176,21 @@ thumbnail: https://thmb.techidaily.com/5b1555b7146633872fd56d30125d7101353d43d4e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-seize-your-facebook-videos-with-these-leading-apps/"><u>[New] 2024 Approved Seize Your Facebook Videos with These Leading Apps</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-duplicate-screen-output-tracking/"><u>[Updated] In 2024, Duplicate Screen Output Tracking</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/complete-guide-to-setting-up-the-latest-doomzday-plugin-in-kodi-ultimate-customization-for-leia-189/"><u>Complete Guide to Setting Up the Latest Doomzday Plugin in Kodi - Ultimate Customization for Leia 18.9</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-mb-service-unreachability-issue-in-windows-11/"><u>Correcting MB Service Unreachability Issue in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/discarding-the-extraneous-six-strategies-for-streamlined-windows-11-mail-views/"><u>Discarding the Extraneous: Six Strategies for Streamlined Windows 11 Mail Views</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-computer-interaction-worldwide-powertoy-mouse-skills/"><u>Elevate Your Computer Interaction: Worldwide PowerToy Mouse Skills</u></a></li>
-<li><a href="https://win11.techidaily.com/expedite-your-way-through-window-11-apps/"><u>Expedite Your Way Through Window 11 Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-to-extracting-and-adding-dvd-footage-into-imovie-on-your-mac/"><u>Guide to Extracting and Adding DVD Footage Into iMovie on Your Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-analyzing-androids-best-editor-is-pickup-at-the-peak-of-performance/"><u>In 2024, Analyzing Android's Best Editor Is PickUp at the Peak of Performance?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-final-cuts-ultimate-10-plug-in-essentials-list/"><u>In 2024, Final Cut's Ultimate 10 Plug-In Essentials List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-av1-foundations-and-fundamentals/"><u>In 2024, Unveiling AV1 Foundations and Fundamentals</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-interconnectivity-with-samsungs-flow-app/"><u>Mastering Interconnectivity with Samsung's Flow App</u></a></li>
-<li><a href="https://win-news.techidaily.com/mejora-tu-disco-duro-tres-formas-sencillas-de-incrementar-espacio-en-unidad-c-en-windows-11/"><u>Mejora Tu Disco Duro: Tres Formas Sencillas De Incrementar Espacio en Unidad C en Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-streaming-with-these-zero-cost-media-tools-win/"><u>Seamless Streaming with These Zero-Cost Media Tools (Win)</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-outlook-how-to-overcome-0x80072746-errors/"><u>Streamlining Outlook: How to Overcome 0X80072746 Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-8-television-streaming-platforms-a-comprehensive-review/"><u>Top 8 Television Streaming Platforms : A Comprehensive Review</u></a></li>
-<li><a href="https://win11.techidaily.com/uniting-two-cameras-error-elimination-code-0xa00f4243/"><u>Uniting Two Cameras: Error Elimination (Code 0xA00F4243)</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-windows-update-nomenclature/"><u>Unveiling Window's Update Nomenclature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-effortlessly-integrate-your-apple-podcasts-collection/"><u>[New] Effortlessly Integrate Your Apple Podcasts Collection</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-saturating-the-market-precision-in-sharing-through-shorts/"><u>[Updated] Saturating the Market Precision in Sharing Through Shorts</u></a></li>
+<li><a href="https://games-able.techidaily.com/demystifying-gameplay-boost-in-roblox-platform/"><u>Demystifying Gameplay Boost in Roblox Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/directing-your-podcast-to-itunes-stores/"><u>Directing Your Podcast to iTunes Stores</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-official-samsung-m220-drivers-now/"><u>Download the Official Samsung M2#20-Drivers Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-for-old-ribbon-revival-in-new-windows/"><u>Guide for Old Ribbon Revival in New Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-for-resolving-roblox-glitches-on-pc/"><u>Guidelines for Resolving Roblox Glitches on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-alter-windows-dashboard-imagery-effortlessly/"><u>How to Alter Windows Dashboard Imagery Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-transforming-footage-the-ultimate-guide-to-youtube-video-editing/"><u>In 2024, Transforming Footage The Ultimate Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimized-with-the-help-of-cookiebot-a-seamless-seo-solution/"><u>Optimized with the Help of Cookiebot - A Seamless SEO Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-connection-problem-with-mb-services-in-win11/"><u>Overcoming the Connection Problem with MB Services in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-setting-up-intel-network-adapters-on-pcs/"><u>Step-by-Step: Setting Up Intel Network Adapters on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-rectifying-windows-alt-key-problems-46-characters/"><u>Strategies for Rectifying Windows ALT Key Problems (46 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-data-views-tabbing-in-windows-explorer/"><u>Streamlining Data Views: Tabbing in Windows Explorer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme C53 | Dr.fone</u></a></li>
 </ul></div>
 

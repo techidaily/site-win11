@@ -1,7 +1,7 @@
 ---
 title: Saving Past Executions in the Command Window
-date: 2025-01-13T23:21:36.676Z
-updated: 2025-01-18T21:35:26.072Z
+date: 2025-01-12T02:55:56.482Z
+updated: 2025-01-19T01:10:41.112Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Privacy Settings
@@ -40,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Allow Windows to Track App Launches on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/allow-windows-to-track-app-launches-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After completing the above steps, try running a few commands via the Run dialog box. Then, check if it is saving your command history and providing auto-complete suggestions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Edit Registry Files
@@ -65,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 ![Edit Registry DWORD on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/edit-registry-dword-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC after this for the changes to take effect. Following this, the Run command should start saving your history on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apply Generic Fixes
@@ -100,24 +100,22 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-enlightening-editing-paths-to-audience-appealing-descriptors-for-2024/"><u>[New] Enlightening Editing Paths to Audience-Appealing Descriptors for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-next-gen-samsung-gear-360-finding-your-perfect-replacement-for-2024/"><u>[Updated] The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-vrecorder-your-quick-route-to-high-quality-sound-system/"><u>2024 Approved VRecorder Your Quick Route to High-Quality Sound System</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-for-windows-1011-camera-errors/"><u>Essential Fixes for Windows 10/11 Camera Errors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/exploring-the-backbone-one-android-version-assessing-its-shortcomings-in-console-like-play/"><u>Exploring the Backbone One Android Version - Assessing Its Shortcomings in Console-Like Play</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ais-tomorrow-what-lies-beyond-the-current-limitations-of-chatbots-like-chatgpt/"><u>Generative AI's Tomorrow: What Lies Beyond the Current Limitations of Chatbots Like ChatGPT?</u></a></li>
-<li><a href="https://win11.techidaily.com/immediate-actions-to-rectify-verify-pin-bluetooth-error-in-windows-oses/"><u>Immediate Actions to Rectify Verify Pin Bluetooth Error in Windows OSes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-windows-11-for-seamless-device-connectivity/"><u>Leveraging Windows 11 for Seamless Device Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/minimize-high-gpu-impact-7-windows-11-wm-tips/"><u>Minimize High GPU Impact: 7 Windows 11 WM Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/panoramic-photo-showdown-deciding-360-supremacy-for-2024/"><u>Panoramic Photo Showdown Deciding 360 Supremacy for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-avoid-constant-login-interruptions/"><u>Quick Fixes to Avoid Constant Login Interruptions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-stuck-updates-effective-methods-unveiled/"><u>Resolving Windows 10 Stuck Updates: Effective Methods Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-11-directory-emptiness-issue-0x80070091/"><u>Resolving Windows 11: Directory Emptiness Issue #0X80070091</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-playing-with-bugs-fix-constant-freezes-and-crashes-in-new-world-for-a-smoother-gaming-experience/"><u>Stop Playing with Bugs: Fix Constant Freezes and Crashes in 'New World' For a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-blockage-of-chromium-network-usage/"><u>Tackling Windows' Blockage of Chromium Network Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/tailor-made-context-menu-adding-move-and-copy-in-windows-11/"><u>Tailor-Made Context Menu: Adding Move & Copy in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-file-types-effortlessly-with-windows/"><u>Transforming File Types Effortlessly with Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[Updated] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-tactics-to-jump-over-online-classroom-screens/"><u>2024 Approved Smart Tactics to Jump Over Online Classroom Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-synchronous-capture-for-webcam-and-display/"><u>2024 Approved Synchronous Capture for Webcam and Display</u></a></li>
+<li><a href="https://win11.techidaily.com/3-ways-to-open-a-games-directory-on-windows/"><u>3 Ways to Open a Game's Directory on Windows</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-v29-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from V29 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/asus-vivobook-s-15-the-ultimate-student-friendly-laptop/"><u>ASUS Vivobook S 15: The Ultimate Student-Friendly Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-secure-tcp-protocols-in-windows-os/"><u>Ensuring Secure TCP Protocols in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-edges-unending-task-on-windows-11-pcs/"><u>Exploring Edge's Unending Task on Windows 11 PCs</u></a></li>
+<li><a href="https://win-info.techidaily.com/how-secure-is-your-internet-activity-when-using-incognito-mode-unveiling-the-truth/"><u>How Secure Is Your Internet Activity When Using Incognito Mode? Unveiling the Truth</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-world-google-map-powerhouse/"><u>Microsoft World, Google Map Powerhouse</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/no-rework-or-replacement-intel-stands-by-defective-chip-production/"><u>No Rework or Replacement: Intel Stands by Defective Chip Production</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerdirector-pro-complete-2024-users-manual/"><u>PowerDirector Pro Complete 2024 User's Manual</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/seamless-service-enrollment-bypassing-phone-numbers-in-apps/"><u>Seamless Service Enrollment: Bypassing Phone Numbers in Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-cloud-using-microsoft-onedrive-offline/"><u>Taming the Cloud: Using Microsoft OneDrive Offline</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-stylus-pens-for-your-ipad-finding-the-perfect-match/"><u>Top-Rated Stylus Pens for Your iPad: Finding the Perfect Match</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-advanced-backup-capabilities/"><u>Unlock Advanced Backup Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-and-11-enable-endless-deletion-via-desktop-trash/"><u>Windows 11 & 11: Enable Endless Deletion via Desktop Trash</u></a></li>
 </ul></div>
 

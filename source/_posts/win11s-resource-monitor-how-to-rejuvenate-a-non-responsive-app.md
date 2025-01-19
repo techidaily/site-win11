@@ -1,7 +1,7 @@
 ---
 title: "Win11's Resource Monitor: How To Rejuvenate a Non-Responsive App"
-date: 2024-08-16T00:43:14.736Z
-updated: 2024-08-17T00:43:14.736Z
+date: 2025-01-14T04:01:05.275Z
+updated: 2025-01-19T09:08:59.363Z
 tags:
   - windows10
   - windows11
@@ -30,23 +30,18 @@ thumbnail: https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc
 
 So, let's move on to the solution and fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Change the DPI Settings
 
  Another possible fix for Resource Monitor not working on Windows is to change your DPI settings. Changing the scaling from 100% to 125% or higher on some computers can cause issues with Resource Monitor. Therefore, try adjusting it back to its original setting and check if the tool works again.
@@ -60,6 +55,10 @@ To change the DPI scale to its default settings, follow these steps:
 ![Change DPI Scale in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-dpi-scale-in-settings.jpg)
 5. Choose the recommended value.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
 ## 3\. Run the System File Checker
@@ -72,9 +71,6 @@ To do this, follow these steps:
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
@@ -90,6 +86,10 @@ sfc /scannow
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -100,21 +100,20 @@ sfc /scannow
 2. Select**Windows Update** from the left pane
 3. Now go to the right and click on**Update history** .  
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Scroll down to Related settings and click**Uninstall updates** .  
-![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 6\. Create a New User Account
 
  If you're still having issues, try[creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
@@ -142,26 +141,25 @@ In such a case, you need to perform a clean boot as instructed below:
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Resolve Resource Monitor Issues in Windows 11
 
  Resource Monitor helps you monitor the performance and usage of your system's resources, including memory, disk, and network activity. If you're having trouble accessing this tool, this guide may help.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +168,19 @@ In such a case, you need to perform a clean boot as instructed below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-transformative-editing-mastering-blend-mode-applications/"><u>[New] 2024 Approved Transformative Editing Mastering Blend Mode Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-worlds-the-best-6-android-apps-for-an-advanced-window-11-experience/"><u>Blend Worlds: The Best 6 Android Apps for an Advanced Window 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-cant-connect-nvidia-error-on-win-11-devices/"><u>Bypassing the Can't Connect Nvidia Error on Win 11 Devices</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-enabled-enhance-your-sites-user-experience-with-personalized-marketing/"><u>Cookiebot-Enabled: Enhance Your Site's User Experience with Personalized Marketing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-security-risks-an-insight-into-prompt-injection-techniques/"><u>Demystifying AI Security Risks: An Insight Into Prompt Injection Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-file-systems-better-with-diskspace-added-to-windows-menu/"><u>Discover File Systems Better with Diskspace Added to Windows Menu</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978610141-download-and-update-asus-vg248qe-graphics-card-drivers-on-windows-simplified-steps/"><u>Download and Update Asus VG248QE Graphics Card Drivers on Windows - Simplified Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 7? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/instagrammable-pcs-how-to-add-your-chosen-weather-image-in-windows-11-status-bar/"><u>Instagrammable PCs: How to Add Your Chosen Weather Image in Windows 11 Status Bar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-issues-how-to-stop-minecraft-from-crashing/"><u>Troubleshooting PC Issues - How to Stop Minecraft From Crashing</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-stop-net-core-error-message/"><u>Troubleshooting Windows: Stop .NET Core Error Message</u></a></li>
+</ul></div>
 

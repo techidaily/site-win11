@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Read-Only Barriers: A Windows User's Guide"
-date: 2025-01-14T17:15:50.223Z
-updated: 2025-01-19T00:04:24.881Z
+date: 2025-01-14T04:43:56.614Z
+updated: 2025-01-19T00:21:43.863Z
 tags:
   - windows10
   - windows11
@@ -61,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 4. Check the **Permissions for Users** section after selecting your account.  
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
 
  If you're an administrator, here's how you can change the access permissions of other users:
@@ -72,23 +76,15 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Clicking on Edit Button under Security Tab in Properties Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Clicking-on-Edit-Button-under-Security-Tab-in-Properties-Window-on-Windows.jpg)
 5. Choose the user you want to grant access to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. In the **Permissions for Users** window, check the box next to **Full control** under **Allow** column.  
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
 7. After clicking **Apply**, hit **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
@@ -104,10 +100,14 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 ![Disabling Ransomware Protection by Turning Off the Toggle under Controlled Folder Access in Windows Security App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Disabling-Ransomware-Protection-by-Turning-Off-the-Toggle-under-Controlled-Folder-Access-in-Windows-Security-App-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Defender Firewall Settings
@@ -121,12 +121,12 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Opening Restore Defaults Option in Windows Defender Firewall Tab in System and Security Settings in Control Panel App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-7-Opening-Restore-Defaults-Option-in-Windows-Defender-Firewall-Tab-in-System-and-Security-Settings-in-Control-Panel-App-on-Windows.jpg)
 5. Click **Restore defaults** button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus and Other Security Software
 
@@ -135,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  To rule out this potential cause, temporarily [turn off the Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) and see if your folders stop reverting to read-only mode after that. If they do, whitelist those folders from Microsoft Defender and turn on the security suite again. If you use any third-party security software, disable that as well since it can also restrict your access.
 
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Forcefully Remove the Read-Only Attribute
 
@@ -147,11 +151,7 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Run the SFC and CHKDSK Scans
@@ -161,7 +161,7 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  If you've never run these scans before, check out our guide on [how to run SFC](https://www.makeuseof.com/system-file-checker-sfc-windows/) and [Chkdsk scans](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/). Hopefully, running these scans will fix the underlying issue with your files and folders. If neither of these scans finds any problems, proceed to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Uninstall Any Recent Windows Updates
@@ -196,22 +196,18 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-a-comprehensive-approach-to-video-assisted-instruction-for-2024/"><u>[Updated] A Comprehensive Approach to Video-Assisted Instruction for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>[Updated] The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a56s-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A56s 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-gathering-the-good-times-easy-steps-to-download-and-store-twitters-animated-tweets/"><u>2024 Approved Gathering the Good Times Easy Steps to Download and Store Twitter's Animated Tweets</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/elevate-your-tiktok-game-essential-analytics-tools-countdown/"><u>Elevate Your TikTok Game - Essential Analytics Tools Countdown</u></a></li>
-<li><a href="https://win11.techidaily.com/elevated-note-management-smarter-strategies-for-windows-users/"><u>Elevated Note Management: Smarter Strategies for Windows Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installation-guide-logitech-pro-high-definition-webcam-software-for-windows-os/"><u>Installation Guide: Logitech Pro High-Definition Webcam Software for Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/leading-edge-drawing-pads-dominating-the-digital-canvas/"><u>Leading Edge Drawing Pads Dominating the Digital Canvas</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-art-of-note-saving-windows/"><u>Navigating the Art of Note-Saving Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-sound-failure-resolving-error-xc00d36b4/"><u>Tackling Sound Failure: Resolving Error XC00D36B4</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-application-crashes-due-to-unhandled-errors/"><u>Tackling the Challenge of Application Crashes Due to Unhandled Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-advanced-ai-search-solutions-for-internet-exploration/"><u>The Ultimate List of Advanced AI Search Solutions for Internet Exploration</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-device-usage-mastering-samsungs-dex-application/"><u>Transform Your Device Usage: Mastering Samsung's DeX Application</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/utilizing-windows-11s-auto-hdr-effectively/"><u>Utilizing Windows 11'S Auto HDR Effectively</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-magic-5-lite-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Magic 5 Lite Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-comparison-discovering-the-ideal-edition-fit-homepro/"><u>Windows 11 Comparison: Discovering the Ideal Edition Fit (Home/Pro)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-phone-link-why-disable-yourphoneexe/"><u>Windows Phone Link: Why Disable YourPhoneExe?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snapseed-101-easy-steps-for-image-transformation/"><u>[Updated] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tuneful-images-the-apple-fusion-method/"><u>2024 Approved Tuneful Images The Apple Fusion Method</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-restore-your-usb-wi-fi-on-a-pc/"><u>7 Key Steps to Restore Your USB Wi-Fi On a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-10-and-11s-0x0000011b-faults/"><u>Addressing Windows 10 & 11'S 0X0000011B Faults</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-captivate-audiences-with-ppt-on-mobilelaptop-in-gmeet/"><u>How to Captivate Audiences with PPT on Mobile/Laptop in GMeet</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-secrets-to-collecting-costless-clipart/"><u>In 2024, Secrets to Collecting Costless Clipart</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-art-and-science-behind-effective-youtube-shorts-templates/"><u>In 2024, The Art & Science Behind Effective YouTube Shorts Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-new-folders-into-windows-11s-menu/"><u>Integrating New Folders Into Windows 11'S Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-new-windows-11-taskbar-features/"><u>Mastering the New Windows 11 Taskbar Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-black-screen-during-games-on-win/"><u>Resolving Black Screen During Games on WIN</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-past-of-ai-pinpointing-when-it-first-appeared/"><u>Unraveling the Past of AI: Pinpointing When It First Appeared</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-lg-bp350-a-detailed-performance-and-design-study/"><u>Unveiling the LG BP350 A Detailed Performance & Design Study</u></a></li>
 </ul></div>
 

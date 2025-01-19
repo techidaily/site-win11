@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2025-01-17T00:02:48.647Z
-updated: 2025-01-18T21:51:58.808Z
+date: 2025-01-17T23:44:49.742Z
+updated: 2025-01-19T02:32:09.042Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  Now you know what causes this error, let's explore the solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -46,15 +42,7 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Grant Full Control Permissions to an user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/grant-full-control-permissions-to-an-user-account.jpg)
 5. Click **Apply** and **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After making these changes, try viewing the photos again and checking if the error has been resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Take Ownership of the Folder
 
@@ -69,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
@@ -77,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -92,19 +80,31 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run the Program Compatibility Troubleshooter
 
@@ -126,14 +126,24 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>[Updated] Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-of-wireless-earbuds-googles-pixel-buds-pro-rumored-launch-dates-prices-and-tech-breakdown/"><u>Decoding the Future of Wireless Earbuds - Google's Pixel Buds Pro ² Rumored Launch Dates, Prices, and Tech Breakdown!</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-latest-hp-officejet-3830-printer-driver-for-microsoft-windows-systems/"><u>Easy Installation: Latest HP OfficeJet 3830 Printer Driver for Microsoft Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/elevating-your-pcs-gaming-win-11-edition-a-guide-to-7-tips/"><u>Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/encrypted-enigma-broken-no-urgent-change-needed/"><u>Encrypted Enigma Broken? No Urgent Change Needed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>In 2024, Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-and-easy-windows-setup-on-steam-deck/"><u>Quick & Easy Windows Setup on Steam Deck</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-profile-issues-windows-1111-edition/"><u>Quick Guide to Fixing Profile Issues: Windows 11/11 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-your-youtube-empire-kit-overview/"><u>[New] In 2024, Building Your YouTube Empire Kit Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchats-artistic-palette-the-anime-filter-experience/"><u>[New] Snapchat’s Artistic Palette The Anime Filter Experience</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-enhancing-your-adventures-through-immersive-gopro-time-lapse/"><u>[Updated] Enhancing Your Adventures Through Immersive GoPro Time Lapse</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-your-cmd-skills-with-these-20-must-learn-commands/"><u>Boost Your CMD Skills with These 20 Must-Learn Commands</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-harmony-between-android-tablets-and-windows-11-desktops/"><u>Creating Harmony Between Android Tablets and Windows 11 Desktops</u></a></li>
+<li><a href="https://discover-help.techidaily.com/dive-into-hyrule-high-res-ganondorfs-waterblight-scenes-images-and-desktop-pictures-from-yl-software/"><u>Dive Into Hyrule: High-Res Ganondorf’s Waterblight Scenes - Images and Desktop Pictures From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/from-here-to-innovation-the-post-11-windows-journey/"><u>From Here to Innovation: The Post-11 Windows Journey</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-grab-free-and-safe-vlc-with-minimal-risk-for-macos-users-for-2024/"><u>How to Grab Free and Safe VLC with Minimal Risk for macOS Users for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-perfecting-your-winning-game-recording-strategy-on-w11/"><u>In 2024, Perfecting Your Winning Game Recording Strategy on W11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-work-potential-with-the-latest-generation-of-apples-102-inch-ipados-tablet/"><u>Maximizing Your Work Potential with the Latest Generation of Apple's 10.2-Inch IPadOS Tablet</u></a></li>
+<li><a href="https://win11.techidaily.com/modifying-the-primary-web-portal-on-w11/"><u>Modifying the Primary Web Portal on W11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audio-tranquility-in-action-fading-and-pulsating-sounds-made-easy-in-adobe-after-effects/"><u>New In 2024, Audio Tranquility in Action Fading and Pulsating Sounds Made Easy in Adobe After Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-windows-photo-workflow-with-keys/"><u>Optimizing Your Windows Photo Workflow with Keys</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-hover-over-sensitivity-and-trail-in-windows-11/"><u>Perfect Your Hover Over Sensitivity and Trail in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/prevent-non-genuine-adobe-app-warning/"><u>Prevent Non-Genuine Adobe App Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-external-access-to-insider-developer-sets/"><u>Preventing External Access to Insider Developer Sets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-download-hp-envy-5055-printer-drivers/"><u>Quick Download: HP ENVY 5055 Printer Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-add-on-of-portable-software-to-windows-oses/"><u>Seamless Add-On of Portable Software to Windows OSes</u></a></li>
 </ul></div>
 

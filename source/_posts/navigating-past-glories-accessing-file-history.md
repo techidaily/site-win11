@@ -1,7 +1,7 @@
 ---
 title: "Navigating Past Glories: Accessing File History"
-date: 2024-08-16T00:43:15.809Z
-updated: 2024-08-17T00:43:15.809Z
+date: 2025-01-14T20:11:29.197Z
+updated: 2025-01-19T12:25:58.307Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 3. Scroll down and locate the **File History** option. Double-click on it to view and manage the connected devices and backups.  
 ![Open File History Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Using the Settings App
 
  The Settings app doesn't have File History as a separate section but can redirect you to its Control Panel page. Repeat the following steps:
@@ -45,14 +49,12 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 2. Go to the left-hand side section and click on the search bar.
 3. Type **File History** and click on the **Restore your files with File History** search result.  
 ![Open File History Using Settings App-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-settings-app-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. The Control Panel window will open with the File History page.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Using the Run Dialog Box
 
  Launching programs and system apps from the Run dialog box is possible if you know the exact file name or the file path. Repeat the following steps:
@@ -61,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 2. Type **control /name Microsoft.FileHistory** in the text box and press the **Enter** key.  
 ![Open File History Using Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-run-dialog-box.jpg)
 3. The File History page will open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Using File Explorer
 
@@ -72,13 +78,11 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 4. Now, go to the search box present in the top right corner and type File History. Press the **Enter** key to initiate a search.
 5. Double-click on the **FileHistory.exe** file to open the tool.  
 ![Open File History Using File explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Using Task Manager
 
  Task Manager isn’t just meant for ending tasks and sub-processes. You can launch any system app or tools, and access file locations using the Run new task option. Here’s how:
@@ -86,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 1. Press the **Ctrl + Shift + Esc** keys simultaneously to [open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/).
 2. Click on the **Run new task** button. Now, type **FileHistory.exe** in the text box and click on the **OK** button.  
 ![Open File History Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-file-history-using-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. File History will launch on your system. Close the Task Manager
 
 ## 7\. Using Terminal App
@@ -102,8 +103,9 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 4. Close the Terminal app.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Using a Desktop Shortcut
 
  The fastest method to access any app is by [creating a desktop shortcut](https://www.makeuseof.com/tag/how-to-create-desktop-shortcuts-from-anywhere-in-windows/). You can switch to the desktop and launch programs with or without administrator privileges. Repeat the following steps:
@@ -116,15 +118,14 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
 5. Switch to the desktop. Double-click on the newly created File History shortcut to launch the tool.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Access File History Settings In a Jiffy
 
  Microsoft came with this excellent physical backup option for Windows OS. Now, you know eight easy methods to access File History, run a manual backup session, and tweak its settings. You can even add and remove folders in File History, but that requires a bit more effort.
 
  But Control Panel isn’t the only way to access File History on Windows. This guide will list eight quick methods to open the File History page in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +133,21 @@ thumbnail: https://thmb.techidaily.com/c2256048fdba19e150d130af22fa0ee9a49a1cc87
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/aunching-winning-steps-for-an-epic-youtube-gaming-channel-for-2024/"><u>[New] Launching Winning Steps for an Epic YouTube Gaming Channel for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visionaries-at-work-a-detailed-review-of-top-3d-modeling-programs-for-2024/"><u>[New] Visionaries at Work A Detailed Review of Top 3D Modeling Programs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ultimate-collection-top-16-free-video-platforms/"><u>[Updated] 2024 Approved Ultimate Collection Top 16 Free Video Platforms</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-dominate-instagram-with-superior-reel-content/"><u>[Updated] In 2024, Dominate Instagram with Superior Reel Content</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-2020-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE (2020) with a Broken Screen?</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-error-e8024002e-for-smooth-updates/"><u>Overcoming Error E:8024002E for Smooth Updates</u></a></li>
+<li><a href="https://fox-http.techidaily.com/reconnaissance-from-above-deciphering-gopro-karmas-offering/"><u>Reconnaissance From Above Deciphering GoPro Karma's Offering</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-resolve-unresponsive-process-in-windows/"><u>Steps to Resolve 'Unresponsive Process' In Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-clear-winner-in-screen-recording-software-for-2024/"><u>The Clear Winner in Screen Recording Software for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-potential-a-comprehensive-guide-to-windows-11s-in-place-upsurge/"><u>Unleashing Potential: A Comprehensive Guide to Windows 11'S In-Place Upsurge</u></a></li>
+<li><a href="https://win11.techidaily.com/visual-virtuoso-top-tips-to-overcome-blurry-windows-11-displays/"><u>Visual Virtuoso: Top Tips to Overcome Blurry Windows 11 Displays</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-quick-guide-to-open-sticky-notes/"><u>Windows 11: Quick Guide to Open Sticky Notes</u></a></li>
+</ul></div>
+

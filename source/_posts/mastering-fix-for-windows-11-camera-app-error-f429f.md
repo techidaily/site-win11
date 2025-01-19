@@ -1,7 +1,7 @@
 ---
 title: Mastering Fix for Windows 11 Camera APP - Error F429F
-date: 2025-01-13T01:01:54.145Z
-updated: 2025-01-18T22:05:36.746Z
+date: 2025-01-16T22:09:48.738Z
+updated: 2025-01-19T02:15:37.052Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,8 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Camera navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-navigation-option2.jpg)
 4. Turn on**Camera** **access** if that setting isn’t enabled.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Camera access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-access-option.jpg)
 5. Then toggle on the Windows Camera app access setting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
 
@@ -58,16 +50,20 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Edit the Platform Registry Key
 
@@ -94,11 +90,7 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
@@ -110,14 +102,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
@@ -131,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall Windows Camera App
 
  If there’s something wrong with the Camera app, reinstalling it will likely fix the issue. The option for uninstalling Camera in Settings is grayed out. Nevertheless, you can still uninstall that app via PowerShell and reinstall it like this:
@@ -140,11 +132,20 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 `Get-AppxPackage *camera* | Remove-AppxPackage`  
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
 
@@ -165,19 +166,21 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-inshots-ecosystem-a-detailed-editor-app-study/"><u>[New] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>[New] Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-social-media-presence-with-igtv-videos-for-2024/"><u>[Updated] Elevating Your Social Media Presence with IGTV Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastery-over-instagrams-integration-with-music-emoji-features/"><u>2024 Approved Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-frozen-discord-widgets-on-your-pcs-display/"><u>Enabling Frozen Discord Widgets on Your PC's Display</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/guide-complet-creation-dune-image-systeme-avec-sauvegarde-and-restauration-sous-windows-7-explicatif/"><u>Guide Complet : Création D'une Image Système Avec Sauvegarde & Restauration Sous Windows 7 Explicatif</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-to-rectify-google-chrome-downloads-problem-on-windows-os/"><u>Guidelines to Rectify Google Chrome Downloads Problem on Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-enable-camera-and-microphone-in-application-guard-for-edge-in-windows-11/"><u>How to Enable Camera and Microphone in Application Guard for Edge in Windows 11</u></a></li>
-<li><a href="https://some-tips.techidaily.com/lunar-endeavors-elevated-by-red-hat-the-role-of-tech-in-nasas-artemis-quest-zdnet-insight/"><u>Lunar Endeavors Elevated by Red Hat: The Role of Tech in NASA's Artemis Quest | ZDNET Insight</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-the-disappearing-msconfigs-gpeditmsc/"><u>Quick Fixes for the Disappearing Msconfig's Gpedit.msc</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-absence-of-startup-applications-window/"><u>Solutions for Absence of Startup Applications Window</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-take-when-powershell-wont-show-up-in-windows/"><u>Steps to Take When PowerShell Won't Show Up in Windows</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-105-classic-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 105 Classic Phone Network-Ready</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-peek-at-the-cutting-edge-features-for-windows-users/"><u>[New] A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-listen-and-write-the-gratis-method/"><u>[Updated] Listen and Write – The Gratis Method</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-free-youtube-money-calculators-calculate-youtube-money/"><u>2024 Approved Free YouTube Money Calculators-Calculate YouTube Money</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-subscription-made-simple-building-a-user-friendly-button-for-channels/"><u>2024 Approved Subscription Made Simple Building a User-Friendly Button for Channels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-superior-sonic-collectors-for-seminars/"><u>2024 Approved Superior Sonic Collectors for Seminars</u></a></li>
+<li><a href="https://win11.techidaily.com/atlasos-resurgence-revitalize-retro-computers/"><u>AtlasOS Resurgence: Revitalize Retro Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-up-your-video-quality-issues-for-2024/"><u>Clearing Up Your Video Quality Issues for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/getting-the-most-out-of-your-arctis-5-fixing-microphone-problems-easily/"><u>Getting the Most Out of Your Arctis 5 - Fixing Microphone Problems Easily</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-no-trouble-recorder-for-win10-desktop/"><u>In 2024, No-Trouble Recorder for Win10 Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-control-over-your-screen-amidst-the-dark/"><u>Reclaim Control Over Your Screen Amidst the Dark</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-file-management-with-windows-automatic-deletion/"><u>Revolutionize File Management with Windows' Automatic Deletion</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-gaming-setup-direct-to-windows-ps3-pad/"><u>Seamless Gaming Setup: Direct-to-Windows PS3 Pad</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-windows-integration-for-steam-deck-users/"><u>Seamless Windows Integration for Steam Deck Users</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-system-spontaneities-fixing-windows-11-restarts/"><u>Stop System Spontaneities: Fixing WIndows 11 Restarts</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-11-installation-with-these-essential-tweaks/"><u>Streamline Your Windows 11 Installation with These Essential Tweaks</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-hot-30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Hot 30 5G</u></a></li>
 </ul></div>
 

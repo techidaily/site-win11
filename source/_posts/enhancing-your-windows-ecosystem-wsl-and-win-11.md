@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Windows Ecosystem: WSL & Win 11"
-date: 2024-08-16T00:43:28.915Z
-updated: 2024-08-17T00:43:28.915Z
+date: 2025-01-18T05:47:49.994Z
+updated: 2025-01-19T05:10:21.820Z
 tags:
   - windows10
   - windows11
@@ -39,16 +39,14 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
 
  Learn more about the[things you can do with WSL and Linux](https://www.makeuseof.com/pros-cons-windows-subsystem-for-linux/) on your Windows computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 2\. Enable Hyper-V and Virtual Machine Platform
 
  If you want to use a subsystem such as WSL in Windows, you'll also need to enable the virtualization tools. These include Hyper-V and the Virtual Machine Platform.
 
 ![Error message in the command line interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/wsl-feature-missing.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If a command line interface opens, telling you a required feature is not installed, when you try to run your Linux distribution, this is likely what it refers to.
@@ -58,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
 3. Check the boxes next to each of these features and then click**Ok** .
 4. You will need to restart your computer to complete the installation of these tools.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair the Linux Distribution App
 
  Your Linux distribution app, such as Ubuntu, Kali, or Debian, could be corrupted or require updating. This can cause WSL to appear to be broken. Repairing Windows apps is very easy.
@@ -74,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
 
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Force WSL to Open Using the Microsoft Store
 
  If WSL is enabled but still refuses to open, you can try forcing launch through the Microsoft Store app. This can sometimes fix temporary glitches when opening WSL directly doesn't work.
@@ -82,13 +81,19 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
 2. On the store page for WSL, you should see an**Open** button. If the button says**Update** , click it to update the app.  
 ![opening the WSL app in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/force-open-store.jpg)
 3. Click the**Open** button, and the default Linux distro app should launch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If a command line interface window opens instead, it will probably tell you a required feature is missing. See**Enable Hyper-V and Virtual Machine Platform** above.
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Uninstall Recent Updates to Fix WSL
 
  If WSL stopped working after installing an update, the update could be the cause. You can uninstall the most recent update to see if that fixes the problem.
@@ -98,30 +103,24 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
 
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Fixing WSL After Upgrading to Windows 11
 
  Upgrading to Windows 11 usually goes smoothly, but apps and features can occasionally break. If you find that WSL is no longer working after upgrading to the newest Windows OS, don't worry, there is usually an easy fix. You might only need to re-enable the feature in the Windows system settings, but if not, running through the other fixes here will usually solve the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +129,22 @@ thumbnail: https://thmb.techidaily.com/f852052f5f905f2c87144be9d0c46cf8e36314379
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-seamless-transition-of-tweeted-vids-to-snappy-ends/"><u>[Updated] The Seamless Transition of Tweeted Vids to Snappy Ends</u></a></li>
+<li><a href="https://win11.techidaily.com/achieving-a-spotless-system-restart-in-windows-11/"><u>Achieving a Spotless System Restart in Windows 11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/airedges-ultimate-selection-of-apple-watch-bands-expert-opinions-and-ratings/"><u>AIREDGE's Ultimate Selection of Apple Watch Bands : Expert Opinions and Ratings</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-harmony-windows-app-compatible-with-apple-and-microsoft-pcsmacs/"><u>Cross-Platform Harmony: Windows App Compatible with Apple & Microsoft PCs/Macs</u></a></li>
+<li><a href="https://win11.techidaily.com/displaying-numeric-key-status-in-system-tray-for-win11-users/"><u>Displaying Numeric Key Status in System Tray for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-utorrent-file-sharing-a-guide-for-windows/"><u>Faster uTorrent File Sharing: A Guide for Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-11-pro-max-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 11 Pro Max to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-create-a-youtube-channel-trailer-to-increase-revenue/"><u>How to Create a YouTube Channel Trailer to Increase Revenue</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-the-closed-folder-conundrum-in-winxpxo11/"><u>How to Overcome the Closed Folder Conundrum in WinXP/XO11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exhaustive-evaluation-the-new-360-camera/"><u>In 2024, Exhaustive Evaluation The New 360 Camera</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a05s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel A05s Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-setting-turmoil-a-pubg-guide-for-pc-users/"><u>Taming Setting Turmoil: A PUBG Guide for PC Users</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/template-tips-for-efficient-and-effective-youtube-intros/"><u>Template Tips for Efficient and Effective YouTube Intros</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-guide-converting-cr2-photos-to-jpeg-format/"><u>Windows Guide: Converting CR2 Photos to JPEG Format</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Workflow with Windows & Sudo Integration
-date: 2024-08-16T00:44:06.444Z
-updated: 2024-08-17T00:44:06.444Z
+date: 2025-01-13T12:01:06.689Z
+updated: 2025-01-18T18:26:44.546Z
 tags:
   - windows10
   - windows11
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
 ## Optimize Your Workflow with Windows & Sudo Integration
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The sudo command on Windows lets you run commands with elevated privileges.
@@ -24,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does the sudo Command Do?
 
  Despite the general focus on configuring everything through the Settings apps and easy-to-use configuration wizards on Windows, every once in a while, you still need to type in commands. Many of these won't work with your standard user account. Instead, you need to run them as an administrator. Requiring administrator permissions is still a relatively new concept in Windows, but it was prevalent for far longer in older operating systems.
@@ -38,12 +39,9 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Windows Versions Can Run the sudo Command?
 
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
@@ -59,13 +57,15 @@ No advertising on the website.
  Here, scroll down and enable the checkbox that reads **Enable sudo**.
 
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Enable sudo via the Command Prompt
 
  If you're more command-line oriented, you can also enable sudo via the Commmand Prompt. Somewhat ironically, this requires you to run an elevated CMD window. Press the **Windows** key, type "command," then right-click on **Command Prompt** (or **PowerShell**) and select **Run as administrator**.
@@ -75,13 +75,7 @@ No advertising on the website.
 `sudo config --enable enable`
 
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Use the sudo Command on Windows
 
  After you've enabled the sudo command on Windows, it's simple to use. Simply prepend the `sudo` command to any command you'd typically need to run as an administrator, then accept the prompts that follow.
@@ -93,13 +87,15 @@ No advertising on the website.
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
  Microsoft seems committed to its implementation of sudo, even going so far as to release [sudo on GitHub](http://github.com/microsoft/sudo) as open source. If reading this entices you to learn more about what goes on under the hood in Windows, make sure to take a look at our list of [commands every Windows user should know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/).
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -107,3 +103,25 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-visual-vault-in-depth-recorder-comparisons/"><u>2024 Approved The Visual Vault In-Depth Recorder Comparisons</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-cinematography-the-leading-lenses-for-4k-production-for-2024/"><u>Advanced Cinematography The Leading Lenses for 4K Production for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-common-onedrive-issues-on-pc/"><u>Conquering Common OneDrive Issues on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/discuss-the-limits-of-cultural-relativism-when-might-it-be-challenging-or-problematic-to-apply/"><u>Discuss the Limits of Cultural Relativism: When Might It Be Challenging or Problematic to Apply?</u></a></li>
+<li><a href="https://win11.techidaily.com/executing-chatgpt-on-windows-systems/"><u>Executing ChatGPT on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-inaccessible-remove-functionality-on-windows-11-os/"><u>Fixing Inaccessible Remove Functionality on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/free-top-10-facebook-video-downloader-for-android-for-2024/"><u>FREE Top 10 Facebook Video Downloader for Android for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-vivo-t2-pro-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Vivo T2 Pro 5G?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-correct-the-issue-of-missing-texts-on-android-phones/"><u>How to Diagnose and Correct the Issue of Missing Texts on Android Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-dji-flight-pattern-review-phantom-3/"><u>In 2024, DJI Flight Pattern Review - Phantom 3</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-m54-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy M54 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 7</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-for-removing-unexpected-dark-screens-on-windows/"><u>Methods for Removing Unexpected Dark Screens on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-valorants-crash-dilemma-a-quick-guide-to-mend-graphic-driver-issues/"><u>Resolve Valorant's Crash Dilemma - A Quick Guide to Mend Graphic Driver Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reverting-win11-terminal-back-to-basics/"><u>Reverting Win11 Terminal Back to Basics</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-powershell-security-controls/"><u>The Ultimate Guide to PowerShell Security Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-path-not-found-in-windows-os/"><u>Troubleshooting PATH Not Found in Windows OS</u></a></li>
+</ul></div>
+

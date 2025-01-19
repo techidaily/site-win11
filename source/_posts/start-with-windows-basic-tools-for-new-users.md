@@ -1,7 +1,7 @@
 ---
 title: "Start with Windows: Basic Tools for New Users"
-date: 2024-08-16T00:45:50.566Z
-updated: 2024-08-17T00:45:50.566Z
+date: 2025-01-14T12:13:49.002Z
+updated: 2025-01-18T22:05:21.755Z
 tags:
   - windows10
   - windows11
@@ -36,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
 ![vision section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/vision-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The [Vision Accessibility tool on Windows](https://www.makeuseof.com/how-to-set-up-accessibility-options-windows-11/) serves the needs and abilities of many such Windows users who'd otherwise fail to make the best use of Windows.
 
  To that end, Windows has provided a plethora of tools under the Vision section. Let's cover all of them individually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Text Size
 
@@ -53,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Moreover, the visual effects on Windows can make or break the user experience for many users with partial visual impairments. With the tools in Visual effects, you can manage these visual effects to some degree, and get the most out of them.
 
 ![visual effects](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/visual-effects.jpg)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Scrollbar**
 
@@ -80,8 +85,9 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Every notification on your Windows stays for a specific amount of time. With **Dismiss notification after this time**, you can tweak the time to increase or decrease it with ease, anywhere from 5 seconds up to 5 minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Mouse Pointer and Touch
 
  This tool lets you easily change your mouse cursor's size and style. For instance, you can tweak the pointer character from four different shapes. Alternatively, you can increase or decrease its size as well.
@@ -103,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  Alternatively, you can also tweak the cursor's thickness by moving the slider as shown below:
 
 ![text cursor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/text-cursor.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
 ### 5\. Magnifier
 
@@ -115,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
  You can [learn how to use Magnifier](https://www.makeuseof.com/windows-11-magnifier-tool-guide/) from one of our previous guides.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 6\. Color Filters
 
  Next up on the list is Color filters. If you face any trouble in seeing and differentiating between the colors on your PC, then this is the tool for you.
@@ -132,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 * Inverted
 
 ![color filters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/color-filters-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can use simple shortcuts like **Windows key logo + Ctrl + C** to turn color filters on or off.
 
@@ -152,8 +149,9 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  To pick a specific theme, click on the toggle menu and select one of the themes from there.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 8\. Narrator
 
  In brief, the Narrator helps you navigate web pages and documents by reading your screen text on your screen aloud. We have a [detailed guide that covers everything about Narrator on your PC](http://https://www.makeuseof.com/beginners-guide-windows-narrator/). You can learn all things about Narrator from the linked guide.
@@ -161,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 ## A Guide to Windows' Audio-Based Tools
 
  The second section of Accessibility tools, Hearing, helps you use your device easily even if you face hearing impairments. First, let's look at the first tool, that covers audio of your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Audio
 
@@ -185,18 +187,24 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
  You will also get to choose how your caption style looks. Simply select the caption style from White on black, Small caps, Large text, Yellow on blue. If you'd like to add more variation, click on **Edit** to choose the new settings for Text, Background, or Window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Interaction
 
  The last feature of Accessibility tools on Windows, unsurprisingly as its name suggests, covers all things that help you interact with your PC. This includes everything from Speech, Keyboard, Mouse, or Eye Control.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Speech
 
  Toggle on the Voice access tool to do things on your PC—all with your voice. And while you're at it, you can toggle on the **Start voice access** after you sign in to your PC switch.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Keyboard
 
@@ -204,18 +212,10 @@ thumbnail: https://thmb.techidaily.com/21ec111232ea695810b8b161c545d6d8dc411e7ee
 
  From turning on specific keys and shortcuts for various keys to other valuable settings like the On-screen keyboard, Underline access keys, etc.—the Keyboard section is what you're looking for if you want to make the most out of your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### 3\. Mouse
 
  Like the keyboard above, the Mouse tool is about improving your mouse's accessibility to all users. Toggle on the **Mouse keys** switch, and you will find a host of settings such as Mouse key speed, Mouse keys acceleration, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## All About Accessibility Tools on a Windows PC
 
  The Accessibility tools from Microsoft make Windows more inclusive and is part of a growing approach to design known as Universal Design. This makes Windows useful for as many people as possible, regardless of their age, disability, or place in life.
@@ -224,11 +224,31 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  So, let's dive in and peek through all the different accessibility tools on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-first-steps-in-film-making-top-8-recommended-cameras/"><u>[New] First Steps in Film Making Top 8 Recommended Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-5-pc-clipping-apps-essential-shortcuts/"><u>[New] Top 5 PC Clipping Apps Essential Shortcuts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-steps-to-build-a-hidden-snapstory-collection/"><u>[Updated] Steps to Build a Hidden Snapstory Collection</u></a></li>
+<li><a href="https://win11.techidaily.com/conquering-crashes-sonic-frontiers-full-screen-fixes/"><u>Conquering Crashes: Sonic Frontiers Full-Screen Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/directly-to-dialer-windows-11-tutorial/"><u>Directly to Dialer: Windows 11 Tutorial</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-insights-into-os-upgrade-schedules-and-methods/"><u>Essential Insights Into OS Upgrade Schedules & Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-essential-data-win-pc-ip-and-mac-via-powershell/"><u>Finding Essential Data: Win PC IP & MAC via PowerShell</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-connect-a-fire-stick-to-a-projector/"><u>How to Connect a Fire Stick to a Projector</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-illumination-the-ultimate-guide-to-hdr-photography/"><u>In 2024, Perfect Illumination The Ultimate Guide to HDR Photography</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-essential-tips-to-resolve-2024s-dota-2-latency-problems/"><u>Mastering Smooth Gameplay: Essential Tips to Resolve 2024'S Dota 2 Latency Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/motorcycles-viewfinder-gems-top-5-helmets-with-hats-for-the-modern-rider/"><u>Motorcycle's Viewfinder Gems – Top 5 Helmets with Hats for the Modern Rider</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-to-screen-capture-tool-in-windows-11-swiftly/"><u>Navigate to Screen Capture Tool in Windows 11 Swiftly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-exe-file-opener-failures-in-windows/"><u>Overcoming .exe File Opener Failures in Windows</u></a></li>
+<li><a href="https://win-web.techidaily.com/step-by-step-guide-using-imessage-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Using iMessage on Your PC with Windows - Tips From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/triggering-dormant-pane-windows-6-tips-for-win11-users/"><u>Triggering Dormant Pane Windows: 6 Tips for Win11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-your-display-selecting-premium-timers-and-savers/"><u>Upgrade Your Display: Selecting Premium Timers & Savers</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "From CR2 to Windows JPEG: A Compreenased Conversion Guide"
-date: 2024-08-16T00:45:21.703Z
-updated: 2024-08-17T00:45:21.703Z
+date: 2025-01-16T12:44:48.512Z
+updated: 2025-01-19T01:26:56.398Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 ![The Free CR2 Converter window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/free-cr2-converter.jpg)
 5. Click **Next** three times to install the software with its default Program Files path.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Select **Close** to exit the setup wizard.
 2. Double-click on Free CR2 Converter's desktop shortcut.
 3. Press the **Add** button in Free CR2 Converter.
@@ -58,17 +62,16 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 2. Choose a CR2 image to convert and click **Select**.
 3. Select **JPEG** on the **Output format** drop-down menu.  
 ![The file format conversion options in Image Converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/file-format-selection.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press the **Click to Choose** button and select a folder in which to save the JPG file. Then click the **Select Folder** option.
 5. Click the checkbox for the file you’ve selected to convert.
 6. Press the **Convert All** **Images** button.  
 ![The Image Converter app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-image-converter-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Wait for the conversion tool to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Then open the converted JPG image from the folder you selected to save it in.
 
 ## How to Convert CR2 Images to JPG With the FreeConvert Web App
@@ -78,23 +81,23 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 1. Open the [FreeConvert CR2 to JPG](https://www.freeconvert.com/cr2-to-jpg) web app.
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 3. Select a CR2 file and click **Open**.
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
 ![The Convert option in FreeConvert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/convert-option.jpg)
 6. Press the web app’s **Download** option.  
-![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Download option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option.jpg)
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Convert CR2 Images to JPG With IrfanView
 
  IrfanView is one of the best image viewers for Windows that includes a file conversion tool with which you can convert image formats. That software doesn’t support the CR2 format by default. However, installing an additional plugin can extend IrfanView’s file support to include CR2\. This is how you can download and install IrfanView and its required plugin for CR2 support:
@@ -103,35 +106,35 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 2. Click the **IrfanView 64-bit Windows Installer** download link.
 3. Then click the **IrfanView All Plugins – 64-bit Windows Installer** download link.  
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
 5. Go to the directory that the IrfanView files were downloaded to.
 
 1. Double-click on the **iview462\_x64\_setup.exe** file to open the IrfanView setup window.  
 ![The IrfanView 64-bit Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-setup-window.jpg)
 2. Keep on clicking **Next** to install IrfanView with default settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select **Done** to exit IrfanView.
 4. To install the plugin, double-click the **iview462\_plugins\_x64\_setup.exe** file.
 5. Then click **Next** to install the plugin.  
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  As you can open CR2 images in IrfanView, you don’t need to convert them to JPG. However, it’s still better to do so because JPG images have smaller file sizes than CR2 photos. So, you can save some drive space by converting a CR2 image to JPG and then erasing the original file. This is how you can convert a CR2 photo to JPG in IrfanView:
 
 1. Click the **File** menu new the top-left corner or IrfanView.
 2. Select the **Batch Conversion** option.  
 ![The Batch Conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/batch-conversion-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
@@ -141,21 +144,13 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 7. To choose an output format, click the **Browse** option. Then select a folder in the window that opens and click **OK**.
 8. Press the **Start Batch** option.  
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Click **Exit** in the "Batch Conversion done" window.
 
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Convert Your CR2 Photos to JPG Images
 
@@ -165,11 +160,29 @@ thumbnail: https://thmb.techidaily.com/71f657792ad13f84286b1544671aaf8455260b87c
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-smartphone-as-your-gateway-to-immersive-virtual-reality/"><u>[Updated] In 2024, Smartphone as Your Gateway to Immersive Virtual Reality</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-journey-through-the-stars-with-these-innovative-science-youtubers-for-2024/"><u>[Updated] Journey Through the Stars with These Innovative Science YouTubers for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-c33-2023-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-windows-steam-efficiency-counteracting-zero-speed/"><u>Boosting Windows Steam Efficiency: Counteracting Zero-Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-chromes-profiles-issues/"><u>Comprehensive Guide to Fixing Chrome's Profiles Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-faulty-m365-functionality-code-30015-26/"><u>Disabling Faulty M365 Functionality: Code 30015-26</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-techniques-for-amateur-video-editors/"><u>Essential Techniques for Amateur Video Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/facilitating-regular-updates-toolbar-integration-in-the-windows-ui/"><u>Facilitating Regular Updates: Toolbar Integration in the Windows UI</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-hot-40-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Hot 40</u></a></li>
+<li><a href="https://win11.techidaily.com/measuring-electrical-use-for-windows-pcs-effectively/"><u>Measuring Electrical Use for Windows PCs Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-travel-planning-apple-maps-and-windows/"><u>Streamlining Travel Planning: Apple Maps & Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-review-of-garmins-latest-activity-monitoring-smartwatch/"><u>The Ultimate Review of Garmin's Latest Activity Monitoring Smartwatch</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-tricks-for-mass-folder-creation-at-a-click-in-windows-oses/"><u>The Ultimate Tricks for Mass Folder Creation at a Click in Windows OSes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-zlibdll-missing-issue-effectively/"><u>Troubleshooting the 'zlib.dll Missing' Issue Effectively</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-winscomrssvsvcdll-faults-on-windows-systems/"><u>Troubleshooting WinscomrssvSvc.dll Faults on Windows Systems</u></a></li>
+</ul></div>
+

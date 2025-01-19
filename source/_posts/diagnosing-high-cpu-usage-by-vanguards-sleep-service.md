@@ -1,7 +1,7 @@
 ---
 title: Diagnosing High CPU Usage by Vanguard's Sleep Service
-date: 2025-01-11T20:15:31.932Z
-updated: 2025-01-19T00:36:30.305Z
+date: 2025-01-12T16:27:41.383Z
+updated: 2025-01-18T19:31:13.000Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apply Some Preliminary Checks
 
  Start de-stressing your CPU by taking the following basic steps, as they may reduce resource usage immediately:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
  If none of the above checks fixes the problem, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Disable and Restart Valorant and Vanguard Processes
@@ -62,12 +58,16 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Change the Priority of the Vanguard User Mode Service Process in the Set Priority Menu in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-set-the-vanguard-user-mode-service-process-a-low-priority-in-the-set-priority-menu-in-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you choose the latter option to control CPU resource consumption, right-click on the same process and choose **Efficiency mode**.
 
 ![Enable the Efficiency Mode of Vgc in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-go-to-efficiency-mode-of-vgc-in-windows-task-manage.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Change the Processor Affinity
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![Disable Unnecessary CPUs From Processor Affinity Settings in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-disable-unnecessary-cpus-from-processor-affinity-settings-in-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Stop the Vanguard Service and Restart It
 
  You may also be able to fix the high CPU resource usage of the Vanguard user-mode service by stopping and starting the Vgc service. Follow these steps to do that:
@@ -95,14 +99,14 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 ![Stop the Vgc Service in the General Tab of Properties Window in Windows Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-stop-the-vgc-service-in-the-general-tab-of-properties-window-in-windows-services-app.jpg)
 5. Also, choose **Automatic** from the dropdown menu next to **Startup type**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Choose Automatic From the Dropdown Menu Next to Startup Type in General Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-choose-automatic-from-the-dropdown-menu-next-to-startup-type-in-general-tab-of-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Disable Third-Party Overlays
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
  To ensure that's not the case, you should move Valorant to a different drive. Not sure how to do that? Refer to our guide on [how to move the installed apps and programs in Windows 10 or 11.](https://www.makeuseof.com/tag/move-installed-apps-programs-windows-10/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Install a Fresh Copy of Vanguard
 
  If none of the potential fixes have worked, you can use the least desirable option; uninstall Vanguard and reinstall it. However, you need to stop the Vgc service first, as described in the above step; otherwise, you may encounter issues when uninstalling the software. You should also close Valorant and exit Vanguard from the system tray before uninstallation.
@@ -133,11 +133,11 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 ![installing riot vanguard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/06/installing-riot-vanguard-1.jpg)
 
- Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Valorant and other Riot Games products require Vanguard to function. If Valorant (or any other game) fails to install Vanguard on its own after uninstallation, restart your device once and then run the game again.
 
 ## Don't Let Vanguard Overstress Your CPU
 
@@ -157,21 +157,20 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unveiling-changes-in-sony-bdp-s670/"><u>[New] Unveiling Changes in Sony BDP-S670</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-fix-optional-features-not-installing-on-windows-11-and-11/"><u>7 Ways to Fix Optional Features Not Installing on Windows 11 & 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-asmr-magic-quality-audio-on-a-budget/"><u>Affordable ASMR Magic Quality Audio on a Budget</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/changing-the-soundtrack-of-conversation-whatsapp-ringtones-for-ios-android-for-2024/"><u>Changing the Soundtrack of Conversation WhatsApp Ringtones for iOS, Android for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cognitive-clout-through-cross-cultural-communication/"><u>Cognitive Clout Through Cross-Cultural Communication</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-connection-issues-malwarebytes-service-errors-in-win-1011/"><u>Fixing Connection Issues: Malwarebytes' Service Errors in Win 10/11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-locales-for-immersive-content/"><u>In 2024, Leading Locales for Immersive Content</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-connectivity-breakthroughs-win-11s-unauthorized-access-guide/"><u>Instant Connectivity Breakthroughs: Win 11'S Unauthorized Access Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-secure-boot-and-tpm-activationdeactivation-in-vbox-70/"><u>Mastering Secure Boot and TPM Activation/Deactivation in VBox 7.0</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-installing-new-drivers-in-windows-11/"><u>Mastering the Art of Installing New Drivers in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maxing-out-melodies-best-5-apps-for-boosting-windows-audio-by-100plus/"><u>Maxing Out Melodies: Best 5 Apps for Boosting Windows' Audio By 100%+</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-tips-for-using-lesser-known-windows-11-assets-efficiently/"><u>Pro-Tips for Using Lesser Known Windows 11 Assets Efficiently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-final-puzzle-will-machines-overcome-humans/"><u>The Final Puzzle: Will Machines Overcome Humans?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210662961-9798885048361-the-opposite-of-hiding/"><u>The Opposite of Hiding | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-8t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 8T Screen | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-innovators-playbook-for-premiere-pro-fullscreen-edits/"><u>[New] The Innovator's Playbook for Premiere Pro Fullscreen Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-utilize-youtube-metrics-to-transform-views-into-revenue/"><u>[Updated] Utilize YouTube Metrics to Transform Views Into Revenue</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-process-how-to-setup-google-maps-on-pc/"><u>A Step-by-Step Process: How to Setup Google Maps on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-electrolytes-for-hero5-authentic-and-3rd-party-companies-for-2024/"><u>Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/clip-viewer-extractor-system-for-2024/"><u>Clip Viewer Extractor System for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deletion-risks-for-windows-bt-folder-expert-advice/"><u>Deletion Risks for Windows ~BT Folder: Expert Advice</u></a></li>
+<li><a href="https://win11.techidaily.com/ditching-taskbar-chatting-in-windows-11-how-will-it-influence-your-experience/"><u>Ditching Taskbar Chatting in Windows 11: How Will It Influence Your Experience?</u></a></li>
+<li><a href="https://win11.techidaily.com/employing-rufus-to-navigate-windows-11s-security-barriers/"><u>Employing Rufus to Navigate Windows 11'S Security Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-advice-to-supercharge-your-wsl-2-and-docker-use/"><u>Essential Advice to Supercharge Your WSL 2 and Docker Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-huawei-nova-y91-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Huawei Nova Y91 Users</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/lecture-transcription-at-zero-expense-for-2024/"><u>Lecture Transcription at Zero Expense for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/g-meaningful-conversations-on-youtube-for-2024/"><u>Mining Meaningful Conversations on YouTube for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-accessing-win-11s-call-center/"><u>Quick Guide: Accessing Win 11'S Call Center</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-next-generation-unfolds-with-samsung-galaxy-z-flip-6-dive-deep-into-news-and-features/"><u>The Next Generation Unfolds with Samsung Galaxy Z Flip 6 - Dive Deep Into News and Features</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-adding-gmaps-in-windows-os/"><u>The Ultimate Guide to Adding GMaps in Windows OS</u></a></li>
 </ul></div>
 

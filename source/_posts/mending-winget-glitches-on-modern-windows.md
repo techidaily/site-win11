@@ -1,7 +1,7 @@
 ---
 title: Mending Winget Glitches on Modern Windows
-date: 2025-01-17T21:53:49.659Z
-updated: 2025-01-18T22:27:14.445Z
+date: 2025-01-17T16:20:16.190Z
+updated: 2025-01-18T19:00:10.863Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Reasons Why Winget Stops Working on Windows
 
  Here are the following reasons why Winget is not working on your Windows PC:
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Close and Reopen Winget in the Terminal App
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
  Winget is an online tool that needs a robust internet connection to search for a package in various repositories and then download and install them. If the Winget servers are down or inactive, it won’t be able to fetch results from repositories. So, check if Winget servers are down using [DownDetector](https://redirect.viglink.com/?format=go&jsonp=vglnk%5F168667664973511&key=eac202ea7a96cf485281d6c4ffa2069e&libId=liuggg0i0103es17000ULlmtlntd&loc=https%3A%2F%2Fwww.makeuseof.com%2Fhow-to-fix-0x8004def5-onedrive-error-code-windows-11%2F&ccpaConsent=1---&v=1&opt=true&optExText=false&out=https%3A%2F%2Fdowndetector.com%2F&ref=https%3A%2F%2Fwww.makeuseof.com%2Fauthor%2Fabhishekkumar-mishra%2F&title=9%20Ways%20to%20Fix%20the%200x8004def5%20OneDrive%20Error%20Code%20on%20Windows%2011&txt=DownDetector) or a similar website.
 
  You can also check if your Windows PC can connect to the internet. Simply open a web browser and access a website or run a web-based app to confirm internet connectivity. If the servers are down, you will have to wait until they come up live again to use Winget.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Perform a Complete System Shutdown
 
@@ -77,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Enable the App Execution Alias
 
@@ -94,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 ![Enable the App Execution Alias-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-the-app-execution-alias-1.jpg)
 5. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Manually Add the Path Environment Variable
 
  Ae wrongly configured Winget path can also produce errors. So, you must manually add the correct path in Environment Variables using the Advanced System Properties window. Repeat the following steps:
@@ -105,10 +101,14 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 4. Click on the **OK** button. Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Open the Terminal app and check if Winget works or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Re-register Winget Using PowerShell
 
@@ -142,21 +142,18 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-your-digital-dough-worthy-with-these-50-no-cost-youtube-promo-tools-for-2024/"><u>[New] Get Your Digital Dough Worthy With These 50 No-Cost YouTube Promo Tools for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-the-best-in-storytelling-eight-film-genre-showcase/"><u>[New] The Best in Storytelling Eight Film Genre Showcase</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-examining-the-best-is-picku-leading-photo-enhancement-for-android-users-in-2024/"><u>[Updated] Examining the Best Is PickU Leading Photo Enhancement for Android Users, In 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-srt-subtitle-switch-up-success-strategies-highlighted/"><u>2024 Approved SRT Subtitle Switch-Up Success Strategies Highlighted</u></a></li>
-<li><a href="https://win11.techidaily.com/bringing-familiarity-migrating-custom-powertoys-on-a-new-device/"><u>Bringing Familiarity: Migrating Custom PowerToys on a New Device</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-connectivity-windows-plus-playstation-3-pad/"><u>Effortless Connectivity: Windows + PlayStation 3 Pad</u></a></li>
-<li><a href="https://video-capture.techidaily.com/guide-step-by-step-process-of-downloading-movies-from-solarmovie/"><u>Guide: Step-by-Step Process of Downloading Movies From SolarMovie</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-huawei-p60-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Huawei P60 Phone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/integrating-soundscape-with-video-narrative-in-premiere-pro-for-2024/"><u>Integrating Soundscape With Video Narrative in Premiere Pro for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-startup-program-management-for-a-flawless-windows-11-start/"><u>Mastering Startup Program Management for a Flawless Windows 11 Start</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-landscape-of-windows-filter-keys/"><u>Navigating the Landscape of Windows' Filter Keys</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/plagiarism-proof-gpt-source-examination/"><u>Plagiarism Proof: GPT Source Examination</u></a></li>
-<li><a href="https://win11.techidaily.com/protecting-the-default-windows-clock-configuration/"><u>Protecting the Default Windows Clock Configuration</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-unidentified-component-in-windows-lsass/"><u>Quick Fixes for Unidentified Component in Windows Lsass</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivate-windows-file-explorer-efficiently/"><u>Reactivate Windows File Explorer Efficiently</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/starfall-recovery-paths-for-ms-sql/"><u>Starfall Recovery Paths for MS SQL</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-ios-pro-and-plus-free-film-apps-unveiled-for-2024/"><u>[Updated] Top iOS Pro & Plus-Free Film Apps - Unveiled for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-zippyzoom-pauseframe-playback/"><u>[Updated] ZippyZoom PauseFrame Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/chromebook-frozen-8-ways-to-fix-that/"><u>Chromebook Frozen? 8 Ways to Fix That</u></a></li>
+<li><a href="https://win11.techidaily.com/from-blank-canvases-to-dynamic-displays-on-win-1011/"><u>From Blank Canvases to Dynamic Displays on Win 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/from-start-menu-to-control-panel-a-guide/"><u>From Start Menu to Control Panel: A Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-pro-with-a-mask-on-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro with a Mask On</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unmatched-clarity-the-ultimate-mic-guide/"><u>In 2024, Unmatched Clarity The Ultimate Mic Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-gaming-performance-when-and-how-to-update-your-gpu/"><u>Maximizing Gaming Performance: When and How to Update Your GPU</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-tips-for-maximizing-speed-and-efficiency-in-3d-painting/"><u>Pro Tips for Maximizing Speed and Efficiency in 3D Painting</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functioning-automated-rules-in-microsoft-outlook/"><u>Restoring Functioning Automated Rules in Microsoft Outlook</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-the-fn-key-operations-and-tips/"><u>Utilizing the FN Key: Operations and Tips</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/win11/"><u>Win11快速解決: 無法存取資料夾的故障及其簡單修正方式</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-cab-files-explained-formatting-and-implementation/"><u>Windows CAB Files Explained: Formatting and Implementation</u></a></li>
 </ul></div>
 

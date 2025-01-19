@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unlinked File Apps on Windows
-date: 2025-01-17T21:14:14.472Z
-updated: 2025-01-19T01:06:14.866Z
+date: 2025-01-11T17:06:47.998Z
+updated: 2025-01-19T09:47:27.689Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Ensure You Have an App Installed That Can Open Such Files
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 3. Navigate to the**General** tab and look for the file format next to**Type of file** .  
 ![Check the File Format in Properties Window of File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If it's a commonly used file format, such as PDF, JPEG, PNG, Docx, etc., for which you have the appropriate app installed, move on directly to heading #2\. However, if you see an unusual file format here—something you haven't seen before, make sure you have the appropriate app installed.
 
  To confirm this, right-click the file and navigate to**Open with > Choose another app** .
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![Click on Choose Another App by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have a relevant app installed, Windows will suggest you select it to open the file. If you don't see any app suggestions here, you probably don't have any apps installed capable of opening this file type.
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 ![Windows Suggesting Some Apps to Open the Image File in PNG Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-suggesting-some-apps-to-open-the-image-file-in-png-format.jpg)
 
  If that's the case, simply go to any of your browsers, search for Windows apps that can run files in that format, and download them. After downloading the appropriate app, make it the default for opening this file type.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set the Default Application for the File Type
 
@@ -87,6 +87,11 @@ thumbnail: https://thmb.techidaily.com/af6a241ce73781e980e91fb32b5f340b0c43ca449
 1. Type**"regedit"** in Windows Search and open the**Registry Editor** .  
 ![Open Registry Editor App From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-1.jpg)
 2. Paste the path below into the address bar of Registry Editor.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Computer\HKEY_CLASSES_ROOT\lnkfile
 3. Select the**Inkfile** key. Then, look in the right pane and see if there is a string value called**"IsShortcut** .**"**  
 ![Locate the IsShortcut String Value in the Inkfile Key of Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-1.jpg)
@@ -95,18 +100,14 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 ![Create and Rename the New String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6.jpg)
 5. If the string value is already there, right-click on it and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Select Delete by Right-clicking on the String Value in Windows Registry Editor App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7.jpg)
 6. After that, follow step four to recreate it. Don't forget to rename it appropriately so you don't encounter any issues.
 
-7. Restart your device once after that.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Restart your device once after that.
 
 ## Do You Encounter the Error When Opening Folders? Follow These Tips
 
@@ -142,17 +143,22 @@ Computer\HKEY_CLASSES_ROOT\lnkfile
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-dividing-drama-how-to-split-vimeo-videos/"><u>[Updated] 2024 Approved Dividing Drama How to Split Vimeo Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-essential-5-apps-to-download-social-media-video-clips/"><u>[Updated] 2024 Approved Essential 5 Apps to Download Social Media Video Clips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-a-symphony-for-photos-on-digital-platforms/"><u>[Updated] In 2024, A Symphony for Photos on Digital Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/advancing-windows-technology-for-real-world-use/"><u>Advancing Windows Technology for Real-World Use</u></a></li>
-<li><a href="https://win11.techidaily.com/elongate-your-windows-11-pin-code-for-enhanced-safety/"><u>Elongate Your Windows 11 Pin Code for Enhanced Safety</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-a-compre-written-by-daniel-kelley/"><u>In 2024, A Compre Written by Daniel Kelley</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-incorporating-b-roll-with-finesse-for-visual-enhancement/"><u>In 2024, Incorporating B-Roll with Finesse for Visual Enhancement</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-xbox-app-for-game-installation/"><u>Navigating Windows Xbox App for Game Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-text-entry-using-typingaid-insights/"><u>Swift Text Entry Using TypingAid Insights</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-mobile-phone-bargains-on-independence-day-unbeatable-promotions-from-zdnet/"><u>Top Mobile Phone Bargains on Independence Day: Unbeatable Promotions From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-accessibility-even-as-a-beginner/"><u>Unlocking Windows Accessibility, Even as a Beginner</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-creation-to-consumption-igtv-vs-youtube-explained-for-you/"><u>[New] In 2024, From Creation to Consumption IGTV Vs. YouTube Explained for You</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-conquer-snapchat-lens-design-two-easy-approaches/"><u>[Updated] In 2024, Conquer Snapchat Lens Design Two Easy Approaches</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-sky-symphony-top-10-websites-presenting-dynamic-hdr-imagery/"><u>[Updated] In 2024, Sky Symphony - Top 10 Websites Presenting Dynamic HDR Imagery</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/break-the-code-a-list-of-quick-access-techniques-for-credentials-in-win11/"><u>Break the Code: A List of Quick Access Techniques for Credentials in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/correction-procedure-for-windows-error-0xca00a009/"><u>Correction Procedure for Windows Error 0xCA00A009</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
+<li><a href="https://win11.techidaily.com/grasping-group-policies-in-windows-environments/"><u>Grasping Group Policies in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-your-pc-bypassing-windows-11-lag-and-latency/"><u>Ignite Your PC: Bypassing Windows 11 Lag & Latency</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-place-upgrade-mastery-simplify-your-transition-to-windows-11/"><u>In-Place Upgrade Mastery: Simplify Your Transition to Windows 11</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/nanoleaf-umbra-cup-light-revue-evaluating-its-role-as-a-decorative-desk-addition/"><u>Nanoleaf Umbra Cup Light Revue: Evaluating Its Role as a Decorative Desk Addition</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-windows-experience-the-power-of-winstall-for-app-groups/"><u>Optimizing Your Windows Experience: The Power of Winstall for App Groups</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-flawed-game-detection-feature-in-discord-windows/"><u>Repairing Flawed Game Detection Feature in Discord (Windows)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/social-media-power-up-grouping-multiple-photos-and-vids-for-instagram/"><u>Social Media Power-Up Grouping Multiple Photos & Vids for Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-text-into-talk-a-windows-11-guide/"><u>Transforming Text Into Talk: A Windows 11 Guide</u></a></li>
+<li><a href="https://win-help.techidaily.com/troubleshooting-tips-overcoming-issues-with-wd-smartware-on-windows/"><u>Troubleshooting Tips: Overcoming Issues with WD Smartware on Windows</u></a></li>
 </ul></div>
 

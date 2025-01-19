@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Freezes of Microsoft Teams in WS11/WS10
-date: 2025-01-13T19:03:30.524Z
-updated: 2025-01-19T00:16:07.318Z
+date: 2025-01-14T22:51:04.165Z
+updated: 2025-01-18T21:40:20.842Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
  If the problem persists, perform a restart. A quick restart will force end all the background processes and help resolve issues due to temporary glitches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Sign Out and Quit the Teams App
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![Microsoft teams sign out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/microsoft-teams-sign-out.jpg)
 3. On the **Teams (Work or School)** version, the **Sign Out** option is at the bottom of the context menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once you log out, close the Teams' sign-in window that appears. This should exit the app.  
 ![quit teams app system tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/quit-teams-app-system-tray.jpg)
 5. Next, open the **System Tray** and check if the Microsoft **Teams** icon exists. If yes, right-click on the **Teams** icon and select **Quit**.
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 6. Relaunch the app and sign in. Check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clear Microsoft Teams Cache
@@ -82,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 5. Next, right-click and select **Delete**, or press the **Del** key on your keyboard.
 6. Close File Explorer and restart your PC. Now restart the Teams app and sign in with your credentials.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Repair Microsoft Teams
 
  You can repair some Microsoft Store apps and programs in Windows 11 and the older version of OS. The repair feature tries to repair the installation, thus fixing any problems triggered due to file corruption.
@@ -97,12 +105,12 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![microsoft-teams-app-advanced-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/microsoft-teams-app-advanced-options.png)
 5. Locate or search for the Microsoft Teams app. Then, click the **three-dots menu** next to the app name and select **Advanced options.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![repair microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/repair-microsoft-teams.png)
 6. Scroll down to the **Reset** section and click on **Repair**. Windows will start repairing the app and show a checkmark after the repair is complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Close the **Settings** page and launch Microsoft Teams to see if the crashing problem is resolved.
 
@@ -125,12 +133,16 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  The reset process will restore the app to its factory default deleting all the data, including cache. However, it will also delete any saved login credentials. So, you will need to log in again to use the app. Once done, you can [effortlessly manage your teams on Microsoft Teams](https://www.makeuseof.com/best-ways-manage-team-microsoft-teams/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update the Microsoft Teams App
 
 ![Microsoft teams settings update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/Microsoft-teams-settings-update.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Newer updates often include bug fixes and performance improvements. While Microsoft Teams auto-updates every two weeks, you can manually check for a newer update in the app settings.
@@ -141,10 +153,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 2. Click the **three-dots** **menu** (Settings and more) in the top right corner and select **Settings**.
 3. Open the **About Teams** tab in the bottom left corner.
 4. Microsoft Teams will check for pending updates and install them if available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Run Teams in Compatibility Mode
 
@@ -160,10 +168,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![microsoft teams shortcut properties windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/microsoft-teams-shortcut-properties-windows-11.jpg)
 5. Open the **Compatibility** tab in the **Properties** dialog.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Select the "**Run this program in compatibility mode for"** option under the **Compatibility mode** section.  
 ![run microsoft teams compatibility mode windows 7](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-microsoft-teams-compatibility-mode-windows-7.jpg)
 7. Click the **Windows 8 drop-down** and select **Windows 7**.
@@ -171,10 +175,6 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 8. Click **Apply** and **OK** to save the changes.
 
  With the new changes in place, launch Microsoft Teams to see if the crashing problem is resolved. If the issue persists, use a different Windows version in compatibility mode to see if that helps resolve the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Update the Display Adapter Driver
 
@@ -192,13 +192,13 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
  If no update is found, go to [Intel's Drivers & Software page](https://www.intel.com/content/www/us/en/download-center/home.html). Open the **Graphics** section and download the latest version of the drivers available for your processor. Also, refer to our guide on how to [update graphics drivers in Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to know the different ways you can install the latest GPU drivers for your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Disable the Display Adapter Driver
 
 ![disable intel hd display adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-intel-hd-display-adapter.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If updating the display driver did not help, uninstall the graphics driver to see if that helps you resolve the error. When uninstalled, Windows will use the generic display driver, but it will help you determine the cause of the problem.
 
@@ -214,7 +214,7 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 ![uninstall Microsoft teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/uninstall-Microsoft-teams.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As a last resort, you can reinstall the Microsoft Teams app to fix the crashing problems. A quick reinstall can help you fix problems caused due to app file corruption and other reasons.
@@ -261,22 +261,24 @@ thumbnail: https://thmb.techidaily.com/b1298562b7193494067b08625dc9c68d20eae1f23
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-maximize-collaboration-via-zooms-share-feature/"><u>[New] 2024 Approved Maximize Collaboration via Zoom's Share Feature</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-untangling-insta-vids-selfies-validity-questioned/"><u>2024 Approved Untangling Insta Vids Selfies' Validity Questioned</u></a></li>
-<li><a href="https://win11.techidaily.com/break-down-drives-hdd-vs-ssd-explained/"><u>Break Down Drives: HDD vs SSD Explained</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/can-you-submerge-an-iphone-15-pro-max-without-damage/"><u>Can You Submerge an iPhone 15 Pro Max Without Damage?</u></a></li>
-<li><a href="https://win11.techidaily.com/color-confusion-correcting-windows-desktop-hues-quickly/"><u>Color Confusion? Correcting Windows Desktop Hues Quickly</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-unblocking-steam-when-playing-games/"><u>Essential Tips for Unblocking Steam When Playing Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xlsm-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign .xlsm by digital signature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-uncharted-territory-6-secrets-to-documenting-your-minecraft-journey/"><u>In 2024, Uncharted Territory 6 Secrets to Documenting Your Minecraft Journey</u></a></li>
-<li><a href="https://win11.techidaily.com/is-it-necessary-to-keep-pagefilesys-reasons-explored/"><u>Is It Necessary to Keep Pagefile.sys? Reasons Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/masked-commands-the-win-1011-trickery-guide/"><u>Masked Commands: The Win 10/11 Trickery Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/new-wave-windows-leap-from-the-legacy-of-11/"><u>New Wave Windows: Leap From the Legacy of 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-fixes-for-disabling-lock-screen-feature-in-windows-11/"><u>Quick Fixes for Disabling Lock Screen Feature in Windows 11</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-guide-tiktok-downloader-to-mp4/"><u>Quick Guide TikTok Downloader to MP4</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-traditional-windows-explorer-look/"><u>Reclaiming Traditional Windows Explorer Look</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-to-rectify-windows-defenders-error-0x80004004/"><u>Step-by-Step to Rectify Windows Defender’s Error 0X80004004</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/text-trends-top-10-modern-effects/"><u>Text Trends Top 10 Modern Effects</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/transforming-comfort-and-efficiency-the-impact-of-a-split-ergo-keyboard-on-my-daily-workflow/"><u>Transforming Comfort and Efficiency: The Impact of a Split Ergo Keyboard on My Daily Workflow</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cushy-comfort-best-idle-pc-games-for-2024/"><u>[New] Cushy Comfort Best Idle PC Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparative-analysis-of-winning-drawing-software/"><u>[Updated] Comparative Analysis of Winning Drawing Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-topics-eliciting-engagement-in-audio-formats/"><u>[Updated] Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[Updated] In 2024, Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-hidden-potential-sharing-videos-with-ease-for-2024/"><u>[Updated] Unlock Hidden Potential Sharing Videos with Ease for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-amazon-prime-and-twitter-most-shared-and-liked-shows-23/"><u>2024 Approved Amazon Prime and Twitter Most Shared & Liked Shows, '23</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-revolutionize-video-files-with-instant-fb-to-mp4-and-hd-upgrade/"><u>2024 Approved Revolutionize Video Files with Instant FB to MP4 & HD Upgrade</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-open-exe-files-on-windows-try-these-fixes/"><u>Can’t Open EXE Files on Windows? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/deciding-between-upgrades-here-are-7-reasons-for-win10/"><u>Deciding Between Upgrades? Here Are 7 Reasons for Win10</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-overcome-lsassexe-unable-to-locate-error-on-win-810/"><u>How to Overcome lsass.exe Unable to Locate Error on Win 8/10</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-essential-iphone-screen-recording-manual/"><u>In 2024, The Essential iPhone Screen Recording Manual</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-rom-hacking-for-game-boy-titles/"><u>Linux Terminal ROM Hacking for Game Boy Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-chromes-false-virus-detection-issue/"><u>Overcoming Chrome’s False Virus Detection Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-memory-write-failure-in-windows/"><u>Overcoming Memory Write Failure in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-get-text-win-a-comprehensible-guide-to-windows-whisper/"><u>Speak, Get Text, Win: A Comprehensible Guide to Windows Whisper</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swift-and-simple-techniques-to-download-hundreds-on-tiktok-for-2024/"><u>Swift and Simple Techniques to Download Hundreds on TikTok for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-glitches-and-error-0xc00d36b4-on-windows/"><u>Troubleshooting Glitches & Error 0xC00D36B4 on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-xbox-mic-use-with-windows-11-app/"><u>Unblocking Xbox Mic Use with Windows 11 App</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-mastering-app-and-browser-oversight/"><u>Windows: Mastering App & Browser Oversight</u></a></li>
 </ul></div>
 

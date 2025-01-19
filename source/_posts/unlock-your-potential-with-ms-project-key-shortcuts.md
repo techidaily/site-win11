@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Potential with MS Project Key Shortcuts
-date: 2025-01-14T23:01:12.764Z
-updated: 2025-01-18T16:55:41.010Z
+date: 2025-01-17T22:34:16.697Z
+updated: 2025-01-18T21:03:01.181Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,13 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
  Here are some shortcuts that you may need frequently to use in Microsoft Project:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open a Project File
 
 **Ctrl + O:** It is important to keep track of all projects that are being worked.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Save a Project File
 
@@ -45,17 +45,9 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 **Ctrl + T:** This will open up a new task window and allow you to enter the necessary information for their project.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Close the Program Window
 
 **Alt + F4:** This will instantly close the Microsoft Project window and end the current session.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Open a New Window
 
@@ -64,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 ### 6\. Activate the Project Control Menu
 
 **Alt + Spacebar:** This will open up the project control menu, which can be used to manage the various aspects of a project.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Show Task Information
 
@@ -74,20 +70,20 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Ctrl + F** **:** This will enable or disable the auto-calculate feature, which automatically updates any changes made to a project.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 10\. Clear or Reset the Selected Field
 
 **Ctrl + Del:** This will clear any data that is currently entered in the selected field and reset it to its default value.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 11\. Copy the Selected Data
 
 **Ctrl + C:** This will automatically copy the data that is currently selected and allow it to be pasted into any other location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 12\. Cut the Selected Data
 
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Ctrl + Shift + Alt:** This will enable the auto-schedule feature for any selected tasks, which automatically updates the schedule based on any changes that are made.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 14\. Set the Task To Manually Schedule
@@ -106,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 **Ctrl + Alt + M:** This will enable the manual schedule feature for any selected tasks, which requires users to manually update the schedule.
 
  If you like using your keyboard to get around your productivity suite, check out[what KeyTips in Microsoft Office are and what they do](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Overview of All the Microsoft Project Shortcuts
 
@@ -228,18 +228,20 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-converting-imovie-edits-for-online-exhibition-youtube-edition/"><u>[New] In 2024, Converting iMovie Edits for Online Exhibition - YouTube Edition</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-social-media-video-for-superior-fb-outcomes/"><u>[New] In 2024, Mastering Social Media Video for Superior FB Outcomes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-learn-to-get-c-span-footage-at-no-charge/"><u>[New] Learn to Get C-Span Footage at No Charge</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-advanced-strategies-for-quiet-capturing/"><u>[Updated] In 2024, Advanced Strategies for Quiet Capturing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-no-cost-endless-chuckles-the-meme-makers-manual/"><u>[Updated] No Cost, Endless Chuckles The Meme Makers' Manual</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-dell-xps-13-2-in-1-a-superior-computing-experience-unveiled/"><u>Exploring the Dell XPS 13 2-in-1: A Superior Computing Experience Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/faster-teams-cleaner-systems-microsofts-pivot/"><u>Faster Teams, Cleaner Systems: Microsoft's Pivot</u></a></li>
-<li><a href="https://win11.techidaily.com/rectify-the-disappeared-disk-space-issue/"><u>Rectify the Disappeared Disk Space Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/running-advanced-ai-on-windows-devices/"><u>Running Advanced AI on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-android-gaming-on-win-11-via-play-store-linkup/"><u>Seamless Android Gaming on Win 11 via Play Store Linkup</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-windows-geforce-scanning-problems-effectively/"><u>Tackle Windows GeForce Scanning Problems Effectively</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-redmi-12-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi Redmi 12 5G Phone Hassle-Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unveiling-camm2-the-innovative-new-memory-design-thats-faster-compact-and-user-friendly/"><u>Unveiling CAMM2: The Innovative New Memory Design That's Faster, Compact, And User-Friendly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-groundbreaking-photo-editor-photonshift-tech/"><u>[New] Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] 2024 Approved Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-discovering-perfection-an-in-depth-look-at-lgs-4k-screen/"><u>[Updated] In 2024, Discovering Perfection An In-Depth Look at LG's 4K Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-illuminate-your-videos-with-17-lighting-hacks/"><u>2024 Approved Illuminate Your Videos with #17 Lighting Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-editing-the-win11-list-of-premier-video-scripts/"><u>Elevate Editing: The Win11 List of Premier Video Scripts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-video-engagement-with-correctly-uploaded-srt-files/"><u>Enhancing Video Engagement with Correctly Uploaded SRT Files</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-black-screens-and-blank-cursors-on-win11/"><u>Master the Art of Fixing Black Screens & Blank Cursors on Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-safaris-picture-in-picture-for-mobiledesktop-for-2024/"><u>Navigating Safari’s Picture in Picture for Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-failed-office-activation-setbacks/"><u>Navigating Through Failed Office Activation Setbacks</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-process-unterminate-obstacles-in-windows/"><u>Overcoming 'Process Unterminate' Obstacles in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-11s-camera-app-glitch-afc-error/"><u>Resolving Windows 11'S Camera App Glitch: AFC Error</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-surge-troubleshoot-for-a-swift-windows-11/"><u>Speedy Surge: Troubleshoot for a Swift Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998514311-troubleshooting-tips-stop-left-amo-2-from-frequent-crashes-and-enjoy-uninterrupted-gaming/"><u>Troubleshooting Tips: Stop Left Amo 2 From Frequent Crashes & Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackle-resuming-windows-shared-space-visit/"><u>Unshackle: Resuming Windows Shared Space Visit</u></a></li>
 </ul></div>
 

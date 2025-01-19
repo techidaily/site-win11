@@ -1,7 +1,7 @@
 ---
 title: How to Install and Set Up Windows 11 Without an Internet Connection
-date: 2025-01-16T16:45:35.922Z
-updated: 2025-01-18T17:09:58.891Z
+date: 2025-01-14T07:24:01.919Z
+updated: 2025-01-18T17:50:44.820Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Does Windows 11's Setup Require an Internet Connection?
 
 ![lets connect you to a network](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/lets-connect-you-to-a-network.png)
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  Here are a few workarounds to install Windows 11 Home without an active Internet connection.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Bypass Out-of-the-Box-Experience (OOBE) Internet Requirement
@@ -69,15 +65,15 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 ![Windows 11 setup select installation drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-11-setup-select-installation-drive.jpg)
 4. Select the installation drive and click **Next**. Wait for Windows to finish installation and restart your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the setup screen, select your region and keyboard layout.
 
 1. Once in the **Let’s connect you to a network** screen, press **Shift + F10** to launch the **Command Prompt.**  
 ![oobe bypass nro command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/oobe-bypass-nro-command-prompt.jpg)
 2. In the Command Prompt window, type the following command and press **Enter**:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 `OOBE\BYPASSNRO`
 3. Upon successful execution, your system will restart and relaunch the OOBE dialog.  
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 4. Follow the on-screen instructions to complete the setup. When you reach the **Let’s connect you to a network screen**, click on **I don’t have Internet** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, click on **Continue with limited setup.**  
@@ -93,10 +89,14 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 6. Accept the **License Agreement** and proceed to create your local user account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Make sure to add security questions. This will help you recover your local user account in case you forget your password. Once done, follow the on-screen instructions to complete the setup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. End Network Connection Flow Process Using Task Manager
 
@@ -121,7 +121,7 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
  Now you will be back in the setup wizard. It will show some loading animation and then proceed to the next step. Here enter your name and password to [create a local user account in Windows 11](http://www.makeuseof.com/ways-to-create-local-user-account-windows/) and complete the setup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Directly Kill Network Connection Flow Using the Command Prompt
@@ -161,19 +161,18 @@ thumbnail: https://thmb.techidaily.com/83e25eed69df3aa92880d650ba4560e8ba50f00f0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/aximize-youtube-potential-leading-rank-tracker-software-for-2024/"><u>[New] Maximize YouTube Potential Leading Rank Tracker Software for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience/"><u>[New] Navigating Technical Hurdles for a Smooth Live Broadcast Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ransforming-viewership-a-proven-guide-to-implementing-youtubes-featured-listings-for-2024/"><u>[New] Transforming Viewership A Proven Guide to Implementing Youtube's Featured Listings for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-backtracking-live-on-twitch-fifteen-ingenious-ways-to-revamp-streams/"><u>[Updated] Backtracking Live on Twitch Fifteen Ingenious Ways to Revamp Streams</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-dark-display-hack-fixes-and-solutions/"><u>Decoding Windows' Dark Display Hack: Fixes and Solutions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac-for-2024/"><u>Expert Advice Optimizing VLC for Maximum Efficiency on Mac for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-11r-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus 11R to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-challenges-with-windows-java-setup-process/"><u>Overcoming Challenges with Windows Java Setup Process</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-controller-non-detecting-woes-in-windows/"><u>Overcoming Controller Non-Detecting Woes in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/preserving-audio-broadcasts-a-simple-internet-radio-technique/"><u>Preserving Audio Broadcasts A Simple Internet Radio Technique</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/quicktime-player-tutorial-fast-forward-your-videos-for-2024/"><u>QuickTime Player Tutorial Fast Forward Your Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resurrecting-erased-folders-on-windows-systems/"><u>Resurrecting Erased Folders on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-erasing-email-from-user-credentials-window/"><u>Securely Erasing Email From User Credentials Window</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-at-mcp-free-old-championship-manager-on-windows/"><u>Winning at MCP: Free Old Championship Manager on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-wildlife-wonders-androids-finest-animal-game-collection/"><u>[New] 2024 Approved Wildlife Wonders Android’s Finest Animal Game Collection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-essentialists-guide-to-iphone-sound-recording/"><u>[Updated] 2024 Approved The Essentialist's Guide to iPhone Sound Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-a-non-operational-windows-control-panel/"><u>Curing a Non-Operational Windows Control Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-windows-11-weather-app-reviews/"><u>Expert Windows 11 Weather App Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-your-niche-a-guide-for-career-development-in-designing-for-2024/"><u>Finding Your Niche A Guide for Career Development in Designing for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-iphone-6-by-drfone-ios/"><u>How to Fix Locked Apple ID on iPhone 6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-auditory-waves-of-iphones-podcast-streaming-for-2024/"><u>Navigating the Auditory Waves of iPhone's Podcast Streaming for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-10-free-manga-sites-to-read-online-for-2024/"><u>New Best 10 Free Manga Sites to Read Online for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-onedrive-error-adding-folder-not-possible-immediately/"><u>Resolving OneDrive Error - Adding Folder Not Possible Immediately</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-common-closed-captions-issues-in-win11/"><u>Solving Common Closed Captions Issues in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-window-task-completion-via-key-combinations/"><u>Speedy Window Task Completion via Key Combinations</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-correcting-windows-error-0xc1900101/"><u>Strategies for Correcting Windows Error 0xC1900101</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-5-features-explored-in-the-durable-fujitsu-scansnap-ix1600-desk-scanner/"><u>Top 5 Features Explored in The Durable Fujitsu ScanSnap iX1600 Desk Scanner</u></a></li>
 </ul></div>
 

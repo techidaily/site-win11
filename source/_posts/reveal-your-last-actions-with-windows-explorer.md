@@ -1,7 +1,7 @@
 ---
 title: Reveal Your Last Actions with Windows Explorer
-date: 2025-01-16T02:18:37.712Z
-updated: 2025-01-18T20:07:40.938Z
+date: 2025-01-16T17:53:06.188Z
+updated: 2025-01-19T01:36:30.671Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to See Recently Opened Files on Windows
 
  Windows offers two ways to view recently opened files; using Quick Access or the Recent Items folder.
@@ -42,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View Recently Opened Items in the Recent Items Folder
@@ -71,13 +75,13 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to View Recently Opened Files for Specific Apps on Windows
@@ -89,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  To see more recently opened items than what appears in the search results, open the app and navigate to its recent files section.
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to See Recently Opened Files Removed From Quick Access
 
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
@@ -135,15 +135,15 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-movie-substitutes-to-explore-top-7-choices/"><u>[New] 2024 Approved Movie Substitutes to Explore - Top 7 Choices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-videography-guide-size-matters/"><u>[Updated] 2024 Approved Instagram Videography Guide - Size Matters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-modern-photographys-dynamic-range-capabilities-for-2024/"><u>[Updated] Mastering Modern Photography's Dynamic Range Capabilities for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-captivating-chronicles-a-guide-to-storytelling-schools-1-8/"><u>2024 Approved Crafting Captivating Chronicles A Guide to Storytelling Schools (#1-#8)</u></a></li>
-<li><a href="https://win11.techidaily.com/admin-controls-simplified-managing-users-and-groups-in-homes/"><u>Admin Controls Simplified: Managing Users & Groups in Homes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-connect-remote-desktop-without-a-password-in-windows-11/"><u>How to Connect Remote Desktop Without a Password in Windows 11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/my-journey-into-3d-photography-printing-a-step-by-step-guide/"><u>My Journey Into 3D Photography Printing - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/organize-like-a-pro-5-must-try-windows-folder-tricks/"><u>Organize Like a Pro: 5 Must-Try Windows Folder Tricks</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-seo-strategy-with-cutting-edge-cookiebot-solutions/"><u>Revolutionize Your SEO Strategy with Cutting-Edge Cookiebot Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-ftdibussys-and-windows-memory-standards/"><u>Unlocking the Secrets of ftdibus.sys & Windows Memory Standards</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-methods-for-image-warping/"><u>[New] Innovative Methods for Image Warping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reviewing-the-next-level-in-mobile-video-with-samsung-s8/"><u>[New] Reviewing the Next Level in Mobile Video with Samsung S8</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unlocking-premiere-pros-lut-potential/"><u>2024 Approved Unlocking Premiere Pro's LUT Potential</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/brief-blueprints-sending-ios-videos-and-images-for-2024/"><u>Brief Blueprints Sending iOS Videos & Images for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-techniques-for-capturing-stellar-interviews-on-idevices/"><u>Cutting-Edge Techniques for Capturing Stellar Interviews on iDevices</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-win1011-unraveling-error-code-0x800704b3/"><u>Fixing Win10/11: Unraveling Error Code 0X800704B3</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-manage-tasks-as-an-admin-in-windows-11/"><u>Securely Manage Tasks as an Admin in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-effective-rgb-light-settings-in-win11/"><u>Tips for Effective RGB Light Settings in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-windows-11-quick-selective-copy-and-move/"><u>Unlock the Power of Windows 11: Quick Selective Copy & Move</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/usb-boot-media-creation-made-simple-tutorial-on-3-win-11-steps/"><u>USB Boot Media Creation Made Simple – Tutorial on 3 Win 11 Steps</u></a></li>
 </ul></div>
 

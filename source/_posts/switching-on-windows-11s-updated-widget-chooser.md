@@ -1,7 +1,7 @@
 ---
 title: Switching On Windows 11'S Updated Widget Chooser
-date: 2024-08-16T00:44:51.127Z
-updated: 2024-08-17T00:44:51.127Z
+date: 2025-01-13T11:54:51.200Z
+updated: 2025-01-19T03:26:25.062Z
 tags:
   - windows10
   - windows11
@@ -20,17 +20,26 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ViveTool And Why Do You Need It?
 
  Part of Microsoft's job to improve Windows 11 is adding new features to the OS. And many a time, some of these new features remain hidden in Windows 11 Insider builds. This is where ViveTool comes in handy. It's third-party software that allows you to enable hidden features in Windows 11 by enabling feature IDs.
@@ -39,14 +48,12 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
@@ -61,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
 
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
 
  Microsoft introduces new features and ideas first to Canary and Dev Insider channels. After taking feedback from Insiders, it decides whether it should release them to other Insider channels.
@@ -73,15 +77,14 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -89,3 +92,27 @@ thumbnail: https://thmb.techidaily.com/410d74b9604f670385408a643dcb6acbafd048141
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-crafting-a-cinematic-short-blending-images-and-melodies/"><u>[New] Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-tech-leaders-the-most-advanced-video-capture-software/"><u>[New] In 2024, Tech Leaders The Most Advanced Video Capture Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-preferred-craftsmen-exceptional-iphone-tones/"><u>[New] Preferred Craftsmen Exceptional iPhone Tones</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-bridging-video-and-gif-a-practical-path-from-vimeo-to-animation-for-2024/"><u>[Updated] Bridging Video and GIF A Practical Path From Vimeo to Animation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/a-step-by-step-for-window-bar-transparency-in-win11/"><u>A Step-by-Step for Window Bar Transparency in Win11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dont-miss-out-expertly-curated-october-laptop-offers-for-prime-day-savings-zdnet-guide/"><u>Don't Miss Out! Expertly Curated October Laptop Offers for Prime Day Savings | ZDNET Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-and-productivity-discover-powertoys-top-usage-tips/"><u>Enhance Efficiency & Productivity: Discover PowerToys' Top Usage Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/freedom-from-epic-game-launcher-in-windows-11-steps-explained/"><u>Freedom From Epic Game Launcher in Windows 11: Steps Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/from-fuchsia-to-functional-8-fixes-for-windows-color-issues/"><u>From Fuchsia to Functional: 8 Fixes for Windows Color Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-the-volume-mixer-in-the-action-center-in-windows-11/"><u>How to Enable the Volume Mixer in the Action Center in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-smoothly-integrate-icloud-with-your-windows-machine/"><u>How to Smoothly Integrate iCloud with Your Windows Machine</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-advice-on-efficiently-locating-luminous-pexels/"><u>In 2024, Expert Advice on Efficiently Locating Luminous Pexels</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-google-pixel-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Google Pixel 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovative-applications-maximizing-chatgpts-vision-capabilities/"><u>Innovative Applications: Maximizing ChatGPT's Vision Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-measures-to-mend-ms-store-malfunctions-in-windows-os/"><u>Masterful Measures to Mend MS Store Malfunctions in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-gpo-report-generation-via-gpresult/"><u>Mastering GPO Report Generation via GPResult</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-methods-to-nullify-laptops-built-in-input-device/"><u>Quick Methods to Nullify Laptop's Built-In Input Device</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-videos-and-subtitles-with-veedio/"><u>Updated In 2024, Translate Videos and Subtitles with Veed.io</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1728503418460-windows-10usb/"><u>Windows 10のシステムイメージをUSBメモリ上で作成する手順</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Cure Windows Notepad Freeze Phenomena
-date: 2024-08-16T00:44:55.389Z
-updated: 2024-08-17T00:44:55.389Z
+date: 2025-01-15T16:48:55.122Z
+updated: 2025-01-19T10:06:27.104Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,9 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
  Note that this is just a temporary fix that you can use if you don’t have time to figure out what’s causing the problem. To resolve the underlying issue for good, it's time to dive into the potential root causes of this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair the Notepad App
 
  Both Windows 10 and 11 include a repair feature that can help fix problems with your apps and programs without affecting your data. You can try using this feature to repair the Notepad app and see if it resolves the abrupt crashes.
@@ -44,15 +45,17 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 3. Scroll through the list of apps to locate **Notepad**. Click the **three-dot menu** icon next to it, and select **Advanced options**.
 4. Click the **Repair** button.  
 ![Repair the Notepad App on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-notepad-app-on-windows-11.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you have repaired the Notepad app, try using it again. If Notepad continues to close automatically, you can consider resetting it on your PC. Check out [how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) and follow the steps outlined there.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Reinstall the Notepad App
 
  Another thing you can do is uninstall the Notepad app and reinstall it on your PC. This should resolve any issues caused by corrupted data and also update the app to its most recent version.
@@ -64,15 +67,13 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 3. Locate **Notepad** on the list. Click the three-dot menu icon next to it and select **Uninstall**.
 4. Select **Uninstall** to confirm.  
 ![Uninstall Notepad App From Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-notepad-app-from-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  Once the app is removed, head over to [the Notepad app on the Microsoft Store](https://apps.microsoft.com/store/detail/windows-notepad/9MSMLRH6LZF3) to download and install Notepad again. Following this, the app should work smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Try Generic Fixes
 
  In most cases, one of the above suggestions should prevent Notepad from crashing on your Windows PC. If not, you can try some generic solutions to fix the problem.
@@ -83,15 +84,14 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
 * **Create another user account:** If nothing else works, your current user account may be at fault. In that case, you will have to [create a new user account on Windows](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to get Notepad working again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start Using Notepad Again on Windows
 
  Notepad is a handy app for jotting down notes and editing text files on your Windows computer. However, your experience while using it may not always be without problems. Hopefully, one of the above suggestions has helped you fix Notepad crashes on Windows, and things are back to normal.
 
  If the Notepad app is constantly closing or crashing on your Windows 10 or 11 PC, don’t fret. Here are some tips that should help fix the problem.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -99,3 +99,21 @@ thumbnail: https://thmb.techidaily.com/042cea82a1fcfb2242b9880aa52ff1cf0cb7e4c3c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-top-playlist-hits-social-medias-1-10-video-winners/"><u>[Updated] 2024 Approved Top Playlist Hits Social Media's #1-#10 Video Winners</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-implementing-soft-cessation-of-sounds-using-audacity-procedures-for-2024/"><u>[Updated] Implementing Soft Cessation of Sounds Using Audacity Procedures for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-import-music-to-inshot-app/"><u>2024 Approved How to Import Music to Inshot App?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-mkv-on-mac-top-5-player-apps-summary/"><u>2024 Approved MKV on Mac Top 5 Player Apps Summary</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-scripting-techniques-upgraded-file-system-interactions/"><u>Advanced Scripting Techniques: Upgraded File System Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-bluetooth-device-unable-to-use-buttons-or-mute/"><u>Correcting Windows Bluetooth Device - Unable to Use Buttons or Mute</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dont-panic-just-power-down-the-ultimate-troubleshooting-for-water-damaged-iphones-and-ipods/"><u>Don't Panic, Just Power Down! The Ultimate Troubleshooting for Water-Damaged iPhones & iPods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero-vs-hero-upgraded-edition/"><u>In 2024, Hero Vs Hero Upgraded Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-installation-mishaps-on-windows-10-and-11/"><u>Repairing Installation Mishaps on Windows 10 & 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/the-encyclopedia-britannica-garuda-online-available-at-(httpswwwhrenology-the-study-of-cranial-measurements-to-determine-intelligence-and-personality-traits15/"><u>The Encyclopedia Britannica – Garuda [Online] Available At: <Https://Wwwhrenology, the Study of Cranial Measurements to Determine Intelligence and Personality Traits.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/time-saving-tips-making-rapid-google-collage-photo-artwork-for-2024/"><u>Time-Saving Tips Making Rapid Google Collage Photo Artwork for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-gaps-in-systems-startup-list/"><u>Troubleshooting Gaps in System's Startup List</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-rename-your-user-account-directory/"><u>Win 11: Rename Your User Account Directory</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "How to Bypass Size Constraints: Essential Tips for Resizable GIFs on DiscoWin11"
-date: 2024-08-16T00:47:24.324Z
-updated: 2024-08-17T00:47:24.324Z
+date: 2025-01-12T02:24:53.804Z
+updated: 2025-01-18T17:56:04.910Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,11 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 2. Click the **Choose** **File** button and select the GIF that's throwing the error on uploading on Discord.  
 ![Choose File on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/choose-file.jpg)
 3. Click the **Upload** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Use the **Compression level slider** to manually adjust the amount of compression. If your GIF is large in size, set the slider at a higher level.  
 ![Compression slider on Ezgif website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/compression-slider.jpg)
 5. Click the **Optimize GIF** button.
@@ -45,8 +50,13 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 4. Click the **Save** icon.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Log Out and Back Into the Discord App
 
  Discord's "cannot resize GIF" error can also occur due to a temporary glitch or bug with your Discord account. In this case, the best solution is to log out and in on your Discord app. Here's how to do that:
@@ -54,57 +64,39 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
 1. Launch Discord on your computer and click the **Gear icon** at the bottom left corner.
 2. Click the **Log Out** option on the left sidebar.  
 ![Log out option of Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/log-out-option.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Enter your credentials and click the **Log In** button.
 
  After that, try to upload the GIF and check if you still face the error.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Clear the Discord Cache Data
 
  Discord's cache stores all your media, so you don't have to re-download them every time you see it. However, whether it's because of malware attacks, sudden system shutdowns due to power cuts, or something else, the cache data can get corrupted and cause issues like the one at hand.
 
  To fix this issue, you will have to [clear the Discord cache](https://www.makeuseof.com/tag/discord-users-free-up-disk-space/) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Discord
 
  The error message can also occur due to an issue in the Discord installation files. You can fix this by reinstalling Discord.
 
  To do that, first [uninstall the app on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and restart your computer. Then, visit the [Discord download page](https://discord.com/download) and install it on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Contact Discord Support
 
  Are you still facing the issue? If yes, that means this is probably an issue with your Discord account. In this case, the only solution is to reach out to the [Discord support](https://support.discord.com/hc/en-us) team and ask them to resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Make Your Conversations Interesting With GIF Emotes on Discord
 
  It's very easy to upload and post GIF emotes on Discord. But sometimes you might encounter the "cannot resize GIF" error when you try to upload one.. Luckily, you can quickly solve the issue by following the above solutions.
 
  This error typically occurs when the GIF size exceeds Discord's supported limits. Fortunately, it's very easy to troubleshoot this error. Below, we'll look at various solutions to fix the Discord "cannot resize GIF" error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -112,3 +104,27 @@ thumbnail: https://thmb.techidaily.com/c40243a18120050792e9b2a35c08e8c187a7242ae
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-future-fortunes-for-virtual-game-masters/"><u>[New] 2024 Approved Future Fortunes for Virtual Game Masters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-combine-movie-tracks-in-youtube-repertoire/"><u>[New] Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-embedding-youtube-videos-in-insta-stories/"><u>[Updated] 2024 Approved The Ultimate Guide to Embedding YouTube Videos in Insta Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebooks-quintessential-video-picks-top-5-list/"><u>[Updated] In 2024, Facebook's Quintessential Video Picks - Top 5 List</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-picart-privacy-filter-no-more-recognizable-faces/"><u>2024 Approved PicArt Privacy Filter No More Recognizable Faces</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-typing-prowess-changing-and-adding-keyboards-for-win-11/"><u>Boost Typing Prowess: Changing and Adding Keyboards for Win 11</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprehensive-apowertrans-handbook-essential-tips-and-tricks-unveiled/"><u>Comprehensive ApowerTrans Handbook: Essential Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://discover-best.techidaily.com/driven-with-cookiebot-technology-enhance-your-websites-performance/"><u>Driven with Cookiebot Technology: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-insight-discerning-storage-type-on-windows/"><u>Exclusive Insight: Discerning Storage Type on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-realme-c33-2023-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme C33 2023 Safely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/open-windows-ease-of-access-center-top-5-tactics/"><u>Open Windows Ease of Access Center: Top 5 Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-windows-activation-error-0x803f700f-hurdle/"><u>Overcoming the Windows Activation Error 0X803F700f Hurdle</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-natural-windows-file-sorting-settings/"><u>Restoring Natural Windows File Sorting Settings</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionizing-device-interaction-with-windows-and-galaxy/"><u>Revolutionizing Device Interaction with Windows & Galaxy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixes-why-are-function-fn-keys-unresponsive-on-asus-laptops/"><u>Troubleshooting Fixes: Why Are Function (Fn) Keys Unresponsive on Asus Laptops?</u></a></li>
+<li><a href="https://win11.techidaily.com/unhindered-microsoft-store-operation-on-windows-11/"><u>Unhindered Microsoft Store Operation on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
+</ul></div>
+

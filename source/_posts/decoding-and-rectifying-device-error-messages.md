@@ -1,7 +1,7 @@
 ---
 title: Decoding and Rectifying Device Error Messages
-date: 2025-01-12T23:11:45.562Z
-updated: 2025-01-18T18:26:41.587Z
+date: 2025-01-15T07:42:07.539Z
+updated: 2025-01-19T12:08:39.529Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the App as an Administrator
@@ -52,14 +52,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 ![The Block apps checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-block-apps-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Deselect the "Unblock File" Setting
 
  Sometimes [Windows blocks access to files or folders](https://www.makeuseof.com/windows-askadmin-guide/) downloaded from untrusted online sources, which can cause the "cannot access the specified device" error. When that happens, you'll see an **Unblock** checkbox on an affected files properties window. This is how you can deselect the "unblock file" setting:
@@ -70,19 +62,23 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![The File Explorer shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-explorer.jpg)
 2. Open a folder that includes a file for which the error occurs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Right-click the affected file and select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/properties-option.jpg)
 4. Click **General** if the properties window doesn't open with that tab by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Then uncheck the selected **Unblock** checkbox if you can see one.  
 ![The Unblock checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unblock-checkbox.jpg)
 6. Select **Apply** to save the new file settings.
 
 7. Click **OK** to close the file's properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Edit the File's Permissions
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 8. Select **Apply** to set the new permission settings.
 9. Press the **OK** buttons on all windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Recreate a Program's Shortcut
 
  If the "cannot access the specified device" error occurs when you try to run a program shortcut, the issue might lie within the shortcut itself. In this case, setting up a new shortcut for affected software could resolve the issue. This is how to do so on your desktop:
@@ -109,7 +109,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
@@ -130,6 +130,10 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
  Should you discover a shortcut's file has been deleted, you might be able to retrieve it. Open the Recycle Bin to see if the file is in it. If so, right-click the file and select **Restore**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Enable Admin Permissions With the Group Policy Editor
 
  Users have confirmed enabling admin approval mode in Group Policy Editor can resolve this file access error. However, Group Policy Editor is only available in Windows 11 and 10 Pro and Enterprise editions. If you can utilize Group Policy Editor, try enabling admin approval mode as follows:
@@ -144,10 +148,14 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![The Admin Approval Mode policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-admin-approval-mode-policy-settings.jpg)
 6. Click **Apply** to set the policy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set Up a Windows Security Exclusion Affected Software or File
@@ -157,11 +165,7 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 ![Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-exclusion-button.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Temporarily Disable Any Active Third-Party Security Software
@@ -169,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
  Some third-party antivirus apps share similar app-blocking features to Windows Security. Thus, alternative security software can also feasibly cause the same issue to occur much the same. So, try turning off any third-party antivirus software installed on your PC before attempting to run affected EXE software.
 
 ![A laptop computer is seen on a desk during an antivirus scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/manual-antivirus-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  How exactly you turn off different third-party antivirus apps varies slightly. However, most have context menus from which you can select to disable their shields. Click the system tray icon for your antivirus software with the right mouse button to view its context menu. Then choose an option for disabling its antivirus shield from there.
 
@@ -207,21 +207,18 @@ thumbnail: https://thmb.techidaily.com/4da8b1db0a8dedc0caf245bd9d36532200ad5924e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-combat-profiles-hitbox-vs-streamer-supremacy/"><u>[Updated] 2024 Approved Combat Profiles Hitbox vs Streamer Supremacy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[Updated] In 2024, Launch Into Action Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-sprinkle-of-life-in-your-text-animations/"><u>[Updated] The Sprinkle of Life in Your Text Animations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-selection-of-no-cost-image-transformers-for-ios-and-android/"><u>[Updated] The Ultimate Selection of No-Cost Image Transformers for iOS and Android</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-pc-information-gathering-using-everythingapp/"><u>Efficient PC Information Gathering Using EverythingApp</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-can-i-accelerate-my-pcs-performance-without-investing-in-new-equipment-tips-from-yl-computing/"><u>How Can I Accelerate My PC's Performance Without Investing in New Equipment? - Tips From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-xs-max-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone XS Max Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-print-functions-in-microsofts-security-shield/"><u>Implementing Print Functions in Microsoft's Security Shield</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209846873-9780983059844-mythic-astrology/"><u>Mythic Astrology | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-resolve-0x80072efd-on-windows-devices/"><u>Quick Guide to Resolve 0X80072EFD on Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-copy-and-paste-on-chrome-edge-and-firefox-windows/"><u>Restoring Copy & Paste on Chrome, Edge, and Firefox (Windows)</u></a></li>
-<li><a href="https://win11.techidaily.com/stopping-user-initiated-windows-screen-shift/"><u>Stopping User-Initiated Windows Screen Shift</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-averting-crashes-of-epic-games-launcher/"><u>Strategies for Averting Crashes of Epic Games Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/the-path-to-peace-sleep-mode-strategies/"><u>The Path to Peace: Sleep Mode Strategies</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/troubleshoot-fix-connectivity-issues-when-your-network-pc-is-invisible-on-windows-10/"><u>Troubleshoot: Fix Connectivity Issues When Your Network PC Is Invisible on Windows 10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725286684695-windows-10-5/"><u>Windows 10 対応の最高の動画再生ソフトウェア5選：パワフルな比較と順位表示</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-navigating-the-art-of-iptv-screen-recording/"><u>[New] In 2024, Navigating the Art of IPTV Screen Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-spotlight-on-figure-skaters-2022-edition-for-2024/"><u>[New] Spotlight on Figure Skaters 2022 Edition for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-visual-quality-leaks/"><u>[Updated] Premier Visual Quality Leaks</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-with-descriptive-folders-in-windows-11/"><u>Boosting Productivity with Descriptive Folders in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/corrective-guide-to-browser-paste-issues-on-windows/"><u>Corrective Guide to Browser Paste Issues on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-access-a-wide-range-of-free-tunes-our-ultimate-list-of-sites/"><u>How to Access a Wide Range of Free Tunes: Our Ultimate List of Sites</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-overcome-usb-connection-problems-for-hp-260ci-wireless-internet-adapter/"><u>How to Overcome USB Connection Problems for HP 260Ci Wireless Internet Adapter</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-installation-windows-cab-files-unpacked-and-utilized/"><u>Initiating Installation: Windows CAB Files Unpacked and Utilized</u></a></li>
+<li><a href="https://win11.techidaily.com/instant-repair-tactics-for-windows-photo-app-malfunctions/"><u>Instant Repair Tactics for Windows Photo App Malfunctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-6-ai-enhanced-notetakers-revolutionizing-how-you-capture-and-organize-information/"><u>Leading 6 AI-Enhanced Notetakers: Revolutionizing How You Capture and Organize Information</u></a></li>
+<li><a href="https://win11.techidaily.com/resizing-desktop-picture-summaries-in-win11/"><u>Resizing Desktop Picture Summaries in Win11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-camon-20-premier-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Camon 20 Premier 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-at-lan-play-fixes-for-no-connection-woes/"><u>Winning at LAN Play: Fixes for No Connection Woes</u></a></li>
 </ul></div>
 

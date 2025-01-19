@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Audacity Device Errors
-date: 2025-01-11T17:13:20.128Z
-updated: 2025-01-19T01:36:17.113Z
+date: 2025-01-17T04:20:30.562Z
+updated: 2025-01-19T07:20:42.365Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Desktop Apps to Access Microphone
 
  You can’t record with Audacity if microphone access for that app is disabled. So, the first thing you should check is the microphone access settings in Windows. Check the microphone is enabled for Audacity like this:
@@ -39,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microphone-navigation-option.jpg)
 4. Toggle on the**Microphone access** option if you find that setting disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to Audacity on the app list below the**Microphone access** option.  
 ![The Microphone access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-microphone-access-option.jpg)
 6. Click Audacity’s toggle switch on if it’s off to enable mic access for that app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Check Sound Devices Are Enabled
 
@@ -93,10 +89,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 7. Alternatively, you can change the sampling rate on the**Default format** drop-down menu for the recording device to match the one set in Audacity.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn Off Software Playthrough
 
  Audacity’s Software playthrough setting can cause recording issues when selected. So, that’s another option you should check when trying to fix the “Error while opening sound device” issue. Follow these steps to deselect Software playthrough.
@@ -108,7 +100,11 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 4. Click the Preferences window’s**OK** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Restart the Windows Audio Endpoint Builder Service
@@ -120,18 +116,18 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 3. ![The Restart service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-service-option.jpg)
 4. Right-click the**Windows Audio Endpoint Builder** service and select**Restart** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. If you find the Windows Audio Endpoint Builder service isn’t running, right-click it and select the**Start** context menu option instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update Your PC’s Audio Device Driver
 
  If none of the above possible fixes do the trick, try updating your PC’s sound driver. The issue could be arising because your PC’s sound driver is outdated or corrupted. Our guide on[updating audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) includes instructions for applying this potential solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Reinstall Your PC’s Audio Driver
@@ -145,15 +141,19 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-driver-option.jpg)
 5. Select the**Delete** **the driver for this software box** on the Uninstall Device prompt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Uninstall Device** to confirm the action.  
 ![The Delete the driver software for this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-the-driver-option.jpg)
 7. Restarting Windows should then automatically reinstall a sound driver on your PC. If not, click**Action** \>**Scan for hardware changes** in Device Manager to reinstall the missing driver.
 
- There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ There could also be an issue with the driver for the microphone you’re trying to utilize when Audacity’s recording isn’t working right. So, consider reinstalling the driver for the audio input device as well. You can do so by double-clicking the**Audio inputs and outputs** category and selecting to uninstall the microphone from there.
 
 ## Get Back to Recording and Playing Audio in Audacity
 
@@ -174,20 +174,18 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-easy-guide-online-tools-to-save-your-youtube-videos-for-2024/"><u>[New] Easy Guide Online Tools to Save Your YouTube Videos for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ermanent-lockout-of-the-brief-content-on-youtube-for-2024/"><u>[New] Permanent Lockout of the Brief Content on YouTube for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-web-supplement-fb-stories-downloader-for-2024/"><u>[New] Web Supplement FB Stories Downloader for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ready-for-victory-try-this-top-ranked-free-voice-alteration-software-now/"><u>[Updated] 2024 Approved Ready for Victory? Try This Top-Ranked Free Voice Alteration Software Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
-<li><a href="https://win11.techidaily.com/assessing-windows-login-validity-and-failures/"><u>Assessing Windows Login Validity and Failures</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95815759-9781507137307-conversando-com-o-universo/"><u>Conversando com o Universo | Free Book</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/conversion-mp3-a-wma-sans-frais-utilisez-lapplication-web-gratuit-de-movavi-pour-une-conversion-rapide-et-facile/"><u>Conversion MP3 À WMA Sans Frais : Utilisez L'application Web Gratuit De Movavi Pour Une Conversion Rapide Et Facile</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-nubia-z50-ultra-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Nubia Z50 Ultra</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-ordering-clumped-taskbar-icons/"><u>Guidelines for Ordering Clumped Taskbar Icons</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-windows-11-wait-longer-when-shutting-down-if-you-have-running-tasks/"><u>How to Make Windows 11 Wait Longer When Shutting Down if You Have Running Tasks</u></a></li>
-<li><a href="https://win11.techidaily.com/innovation-at-your-fingertips-windows-erase-feature/"><u>Innovation at Your Fingertips: Window's Erase Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-desktop-efficiency-with-wmdesk/"><u>Revolutionize Desktop Efficiency with WmDesk</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-windows-ram-cache-cleanse-procedures/"><u>Step-by-Step: Windows RAM Cache Cleanse Procedures</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-h2-update-rolls-out-more-options/"><u>Windows 11 H2 Update Rolls Out More Options</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-social-media-synopsis-top-trending-twitvideos/"><u>[New] Social Media Synopsis Top Trending TwitVideos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-fanbase-with-youtube-streams/"><u>[Updated] 2024 Approved Building a Fanbase with YouTube Streams</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-brand-recognition-optimizing-facebook-with-keywords-and-links/"><u>[Updated] 2024 Approved Elevate Brand Recognition Optimizing Facebook with Keywords and Links</u></a></li>
+<li><a href="https://win11.techidaily.com/6-ways-to-view-the-registry-file-contents-on-windows-11/"><u>6 Ways to View the Registry File Contents on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/accessible-configuration-of-win11-connectivity-options/"><u>Accessible Configuration of Win11 Connectivity Options</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-the-character-visualization-tool/"><u>Accessing the Character Visualization Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/awaken-clandestine-windows-11-search-sentinel/"><u>Awaken Clandestine Windows 11 Search Sentinel</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/decoding-faux-support-a-guide-for-savvy-social-network-users-for-2024/"><u>Decoding Faux Support A Guide for Savvy Social Network Users for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discovering-the-amazfit-bip-the-ultimate-starter-gadget-for-modern-watch-lovers-reviewed/"><u>Discovering the Amazfit BIP: The Ultimate Starter Gadget for Modern Watch Lovers Reviewed!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-samsung-galaxy-s24plus-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Samsung Galaxy S24+ Phone Screen?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-through-video-editing-delight-filmoras-core-traits/"><u>In 2024, Navigating Through Video Editing Delight Filmora's Core Traits</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-secrets-to-professional-youtube-content-creation-for-2024/"><u>Unveiling the Secrets to Professional YouTube Content Creation for 2024</u></a></li>
 </ul></div>
 

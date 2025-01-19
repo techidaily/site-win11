@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Windows iSCSI Initiator's Capabilities
-date: 2024-08-16T00:46:28.882Z
-updated: 2024-08-17T00:46:28.882Z
+date: 2025-01-16T06:20:16.396Z
+updated: 2025-01-19T07:07:53.550Z
 tags:
   - windows10
   - windows11
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fea6185edc685da72ba963a46eed57a3a71d46169
  Meanwhile, the Microsoft iSCSI Initiator is a tool that allows you to connect a host PC to an external iSCSI-based storage array. It manages the iSCSI sessions on your computer and the remote iSCSI target devices.
 
  Let’s check out how you can configure this tool. From there, we'll explore the different ways to access it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure the iSCSI Initiator
 
@@ -44,6 +48,10 @@ Otherwise, follow these steps:
 
 ![Clicking the Refresh button on the iSCSI Initiator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-refresh-button-on-the-iscsi-initiator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still can’t find iSCSI targets, click the**Discover Portal** button and then add a target portal. From there, click the**Refresh** button again to search for the iSCSI target devices.
 
  After adding your target device, you'll be able to handle all iSCSI sessions from your PC using the iSCSI Initiator. To get started, simply explore all the options that appear on the**Volumes and Devices** tab and the other sections.
@@ -51,13 +59,9 @@ Otherwise, follow these steps:
  But then, what are the various ways to access the iSCSI Initiator? Let’s find out.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Open the iSCSI Initiator Using the Run Command Dialog Box
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
@@ -73,9 +77,6 @@ Otherwise, follow these steps:
 
 ![Typing iscsicpl.exe in the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-iscsicpl-exe-in-the-run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Open the iSCSI Initiator Using the Start Menu
 
  The Start menu is another incredible tool that helps you easily access your apps. So, here’s how you can use it to access the iSCSI Initiator:
@@ -85,8 +86,9 @@ Otherwise, follow these steps:
 3. Click the**iSCSI Initiator** option.
 
 ![Selecting the iSCSI Initiator option from the Start menu items](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-iscsi-initiator-option-from-the-start-menu-items.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Open the iSCSI Initiator Using the File Explorer Address Bar
@@ -101,8 +103,9 @@ Otherwise, follow these steps:
 ![Typing iscsicpl.exe in the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-iscsicpl-exe-in-the-file-explorer-address-bar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Open the iSCSI Initiator Using the Control Panel
 
  Ever used the Control Panel before? It’s an awesome tool that helps you troubleshoot PC issues or configure some system settings.
@@ -130,13 +133,11 @@ Otherwise, follow these steps:
 4. Type**iscsicpl.exe** in the search box and press**OK** to open the iSCSI Initiator.
 
 ![Opening the iSCSI Initiator using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/opening-the-iscsi-initiator-using-the-task-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Open the iSCSI Initiator Using the Command Prompt or PowerShell
 
  We'll now check out how to access the iSCSI Initiator using the Command Prompt and PowerShell.
@@ -157,12 +158,13 @@ Let’s start with the Command Prompt:
 
 `iscsicpl.exe`
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Search for the iSCSI Initiator in the System32 Directory
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also access the iSCSI Initiator by double-clicking on the relevant option in the Windows System32 directory.
 
@@ -179,9 +181,6 @@ Here are the steps you need to follow:
 
  If you want to make your life much easier, simply pin the iSCSI Initiator to the taskbar. To do that, right-click on the**iscsicpl** option and select**Pin to taskbar** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Use a Desktop Shortcut
 
  The Windows desktop shortcuts help you access your apps with ease. So, let’s check out how to create a desktop shortcut for the iSCSI Initiator:
@@ -192,9 +191,6 @@ Here are the steps you need to follow:
 4. Press**Next** to continue.
 
 ![Creating the iSCSI Initiator desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/creating-the-iscsi-initiator-desktop-shortcut.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Type iSCSI Initiator in the**Name** box and then press the**Finish** button. From there, you should easily access the tool using your desktop shortcut.
 
@@ -204,14 +200,11 @@ Here are the steps you need to follow:
 
  If you want to easily access this tool, check out any of the methods in this article. And if you want to explore other ways to connect to a remote PC, then check out the Windows Remote Desktop Services tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -220,4 +213,16 @@ Here are the steps you need to follow:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/a-compreenas-beginners-guide-to-github-desktop-for-windows-users/"><u>A Compreenas Beginners Guide to GitHub Desktop for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/best-8-gpt-techniques-for-streamlining-task-focused-work/"><u>Best 8 GPT Techniques for Streamlining Task-Focused Work</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-your-screen-clutter-advanced-window-organization-win11-and-10/"><u>Clear Your Screen Clutter: Advanced Window Organization (Win11 & 10)</u></a></li>
+<li><a href="https://discover-data.techidaily.com/die-fuhrenden-3-strategien-fur-die-erstellung-eines-wiederherstellungspunktes-unter-windows-11-erlautert/"><u>Die Führenden 3 Strategien Für Die Erstellung Eines Wiederherstellungspunktes Unter Windows 11 Erläutert</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-optimal-performance-latest-version-of-corsair-k55-driver-software-available-to-download/"><u>Ensure Optimal Performance: Latest Version of Corsair K55 Driver Software Available to Download</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exclusive-roundup-securing-premium-cpu-deals-from-leading-brands-amd-intel/"><u>Exclusive Roundup: Securing Premium CPU Deals From Leading Brands (AMD, Intel)</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-invalid-directory-name-error-step-by-step-troubleshooting-guide/"><u>How to Fix 'Invalid Directory Name' Error: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-writing-errors-for-files-in-windows-systems/"><u>Overcoming Writing Errors for Files in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/strategize-for-smooth-operations-manage-windows-11s-activities-and-updates/"><u>Strategize for Smooth Operations: Manage Windows 11'S Activities & Updates</u></a></li>
+</ul></div>
 

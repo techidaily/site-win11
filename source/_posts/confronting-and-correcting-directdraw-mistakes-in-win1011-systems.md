@@ -1,7 +1,7 @@
 ---
 title: Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems
-date: 2025-01-16T22:12:33.691Z
-updated: 2025-01-18T19:27:45.576Z
+date: 2025-01-16T17:41:09.910Z
+updated: 2025-01-19T07:22:27.364Z
 tags:
   - windows10
   - windows11
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Configure Affected Apps to Run in Compatibility Mode
 
@@ -62,10 +58,18 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Display resolution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-setting.jpg)
 5. Select a lower-resolution option on the menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Resolution options in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resolution-options.jpg)
 6. Then click the **Keep Changes** button to set the selected resolution.
 
 7. Try starting the game or software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Legacy Component Features
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 3. Double-click **Legacy Components** to expand it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Then select the **DirectPlay** checkbox.  
@@ -85,17 +89,13 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 5. Select the **.NET Framework 3.5 (includes .NET 2.0 and 3.0)** checkbox if it’s not selected.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The .NET Framework 3.5 option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-features-options.jpg)
 6. Press **OK** to install the features.
 
 7. Restart Windows after installing the features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install Missing DirectX Runtime Components
 
@@ -106,14 +106,14 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Download option for Microsoft DirectX End-User Runtime](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-download-option3.jpg)
 3. [Open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/#:~:text=the%20Command%20Prompt%3A-,Press%20Win%20%2B%20R%20to%20open%20the%20Run%20command%20dialog%20box,Explorer%20and%20then%20press%20Enter.) to go to whatever folder your browser is set to download files to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Double-click the DirectX End-User Runtime Web Installer file (otherwise **dxwebsetup.exe**) to bring up an Installing Microsoft (R) DirectX (R) window.
 5. Then click **I accept** to make your agreement with Microsoft.  
 ![The DirectX Runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/directx-installer.jpg)
 6. Select **Next** to install DirectX 9, 10, and 11 runtime components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try Some Basic Windows Fixes
 
@@ -126,7 +126,7 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The NVIDIA graphics driver download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/nvidia-driver-downloads-page.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Run the Affected App in Windowed Mode
@@ -135,6 +135,10 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 ![The Target box for a Windows game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/target-box-for-a-game-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Reinstall the Affected Game or Software
 
  Reinstall affected games or software packages if you’re still trying to fix the DirectDraw error after applying other possible resolutions in this guide. If you’ve installed a game with gaming client software like Steam, Epic, or GOG, you can uninstall it with the same software. Or remove the software within the Control Panel or Settings with a method in this [guide to uninstalling programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-in-epic-games.jpg)
 
  When you’ve done that, restart Windows and reinstall the game with your gaming client software. If the game has a DVD/CD, you’ll need to reinstall it with that disc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Enjoy Your Retro Games or Apps on Windows
 
@@ -163,17 +163,18 @@ thumbnail: https://thmb.techidaily.com/af1734dc2b0a9d3bcad9faa3494b27c219c63253c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-deciphering-screen-recorders-bandicam-or-camtasia/"><u>[Updated] 2024 Approved Deciphering Screen Recorders Bandicam or Camtasia?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-incorporating-multimedia-in-school-curricula/"><u>[Updated] Incorporating Multimedia in School Curricula</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-the-flawless-path-to-popularizing-tiktok-imagery-for-2024/"><u>[Updated] The Flawless Path to Popularizing TikTok Imagery for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/an-in-depth-look-at-truthgpt-coin-is-it-legitimate/"><u>An In-Depth Look at TruthGPT Coin - Is It Legitimate?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-8-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 8 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-one-sided-windows-headphone-sound-loss/"><u>Fixing One-Sided Windows Headphone Sound Loss</u></a></li>
-<li><a href="https://win11.techidaily.com/get-rid-of-unwanted-files-setting-up-scheduled-deletions-on-win11/"><u>Get Rid of Unwanted Files: Setting Up Scheduled Deletions on Win11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-redmi-k70e-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Redmi K70E?</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-fatal-application-hiccups-windows-edition/"><u>Overcoming Fatal Application Hiccups: Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-recurring-audiotrack-flaw-the-fix-for-code-9999/"><u>Tackling Windows' Recurring Audiotrack Flaw: The Fix for Code 9999</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-test-of-strength-a-deep-dive-into-the-performance-of-the-beatit-bt-d11-jump-starter/"><u>The Ultimate Test of Strength: A Deep Dive Into the Performance of the Beatit BT-D11 Jump Starter</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/ultimate-shooter-showdown-our-best-picks-for-2024/"><u>Ultimate Shooter Showdown - Our Best Picks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-asmr-excellence-superior-performance-for-less-money/"><u>[New] ASMR Excellence Superior Performance for Less Money</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-navigating-the-world-of-instagram-story-highlights/"><u>[New] In 2024, Navigating the World of Instagram Story Highlights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-live-broadcast-battlefield-obs-versus-shadowplay/"><u>[New] Live Broadcast Battlefield OBS Versus ShadowPlay</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-complete-code-of-conduct-for-youtube-creators-for-2024/"><u>[Updated] Complete Code of Conduct for YouTube Creators for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-cost-fcp-how-to-achieve-that/"><u>[Updated] No Cost FCP? How to Achieve That</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-overestimated-cpu-usage-in-windows-performance-tool/"><u>Addressing Overestimated CPU Usage in Windows Performance Tool</u></a></li>
+<li><a href="https://facebook.techidaily.com/best-social-platforms-a-safe-choice/"><u>Best Social Platforms: A Safe Choice?</u></a></li>
+<li><a href="https://win11.techidaily.com/check-it-out-quick-fixes-for-your-webcam-and-mic-test/"><u>Check It Out: Quick Fixes for Your Webcam & Mic Test</u></a></li>
+<li><a href="https://win11.techidaily.com/four-practical-alternatives-to-bitlocker-in-winoss/"><u>Four Practical Alternatives to BitLocker in WinOSs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-honor-v-purse-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Honor V Purse Phone? Unlock It Now</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-80-pro-straight-screen-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor 80 Pro Straight Screen Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-quick-and-accurate-screenshot-of-uac-prompts/"><u>Techniques for Quick and Accurate Screenshot of UAC Prompts</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-feature-flashback-the-surviving-anniversary-of-7-elements/"><u>Windows 11 Feature Flashback: The Surviving Anniversary of 7 Elements</u></a></li>
 </ul></div>
 

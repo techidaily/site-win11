@@ -1,7 +1,7 @@
 ---
 title: Refining Non-Admin Access on Your Windows Machine
-date: 2025-01-11T17:30:42.590Z
-updated: 2025-01-18T22:41:10.407Z
+date: 2025-01-11T18:10:18.942Z
+updated: 2025-01-19T01:18:13.336Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
  The easiest way to change the way UAC behaves for standard users is to tweak the **User Account Control: Behavior of the elevation prompt for standard users** policy. To do that, [open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) and follow the steps below.
@@ -46,18 +50,14 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 ![modifying the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 3. Expand the dropdown and choose a different UAC behavior.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
 
@@ -70,24 +70,24 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 2. Press **Enter** on your keyboard to go to the **System** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now restart your computer to allow the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
@@ -106,20 +106,21 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-social-reach-with-tiktok-to-facebook-integration/"><u>[New] In 2024, Maximizing Social Reach with TikTok to Facebook Integration</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[Updated] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boost-your-iphone-experience-by-merging-ai-talents-of-chatgpt-and-siri/"><u>Boost Your iPhone Experience by Merging AI Talents of ChatGPT and Siri</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1720600668019-bring-back-your-files-faster-than-ever-with-us/"><u>Bring Back Your Files Faster than Ever with Us</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-windows-11-defense-integrating-firewall-filters-via-context-menu/"><u>Enhancing Windows 11 Defense: Integrating Firewall Filters via Context Menu</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-reactivating-windows-update-features/"><u>Fast Track to Reactivating Windows Update Features</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-stop-halo-infinity-from-skipping-frames-and-freezing-up/"><u>How to Stop Halo Infinity From Skipping Frames and Freezing Up</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-spatial-sound-in-windows-11/"><u>Mastering Spatial Sound in Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oculus-quest-gets-its-first-ever-language-app-mondlyback-buttonfilter-button/"><u>Oculus Quest Gets Its First-Ever Language App: MondlyBack ButtonFilter Button</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-no-internet-connection-via-vpn/"><u>Overcoming No Internet Connection via VPN</u></a></li>
-<li><a href="https://win11.techidaily.com/power-on-performance-dispel-windows-11-sluggishness-quickly/"><u>Power on Performance: Dispel Windows 11 Sluggishness Quickly</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/prepise-mp4-do-gif-sestupne-a-kliknutelny-movavi-konverzer-na-internetu/"><u>Přepíše MP4 Do GIF Sestupně a Kliknutelný: Movavi Konverzér Na Internetu</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/resolving-problems-with-the-realtek-rtl8811au-network-adapter-drivers/"><u>Resolving Problems with the Realtek RTL8811AU Network Adapter Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-power-best-windows-apps-for-elevating-your-productivity-game/"><u>Unleash Power: Best Windows Apps for Elevating Your Productivity Game</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-top-10-escape-room-games-you-should-try/"><u>[Updated] In 2024, Top 10 Escape Room Games You Should Try</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-adverts-recent-changes-and-compliance/"><u>[Updated] In 2024, YouTube Adverts Recent Changes and Compliance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apple-enthusiasts-urged-to-reject-unverified-chargers-prevent-counterfeit-hazards-zdnet-insight/"><u>Apple Enthusiasts Urged to Reject Unverified Chargers, Prevent Counterfeit Hazards | ZDNET Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-clutter-eliminate-onedrive-symbol-from-explorer/"><u>Confronting Clutter: Eliminate OneDrive Symbol From Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-with-personal-touches/"><u>Enhancing Windows 11 with Personal Touches</u></a></li>
+<li><a href="https://win11.techidaily.com/first-day-with-windows-11-heres-what-not-to-do-top-7-mistakes/"><u>First Day with Windows 11? Here's What Not to Do! - Top 7 Mistakes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-easily-get-and-enhance-dell-audio-drivers-for-optimal-sound-performance/"><u>How to Easily Get & Enhance Dell Audio Drivers for Optimal Sound Performance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-find-x7-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Find X7 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-comprehensive-guide-scaling-up-youtube-media/"><u>In 2024, Comprehensive Guide Scaling Up YouTube Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-6-lite-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-removing-null-space-in-your-system-drive/"><u>Step-by-Step Guide: Removing Null Space in Your System Drive</u></a></li>
+<li><a href="https://win11.techidaily.com/the-financial-backbone-of-microsofts-windows-11/"><u>The Financial Backbone of Microsoft's Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-smart-automation-strategies-for-business-innovation/"><u>Transformative Smart Automation Strategies for Business Innovation</u></a></li>
+<li><a href="https://win11.techidaily.com/trick-to-invoke-admin-level-powershell-on-your-win11-pc/"><u>Trick to Invoke Admin-Level PowerShell on Your Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-display-management-in-windows-11/"><u>Understanding Display Management in Windows 11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/zeroing-out-full-disk-in-windows-task-manager/"><u>Zeroing Out Full Disk in Windows Task Manager</u></a></li>
 </ul></div>
 

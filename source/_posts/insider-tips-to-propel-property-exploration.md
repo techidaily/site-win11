@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2025-01-13T00:44:45.541Z
-updated: 2025-01-18T21:17:51.991Z
+date: 2025-01-17T10:01:30.080Z
+updated: 2025-01-18T21:08:56.965Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Open File or Folder Properties in Windows
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -63,11 +67,11 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using Right Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-right-context-menu.jpg)
 4. The file properties window will launch on your system.
 
- Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
 
 ### 4\. Using the File Explorer
 
@@ -80,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -90,14 +98,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. Replace the “**File Path** ” with the actual location of your file. We have a text file saved on the desktop. So, the command to display its properties will be: **wmic datafile where "name='C:\\\\Users\\\\Test\\\\Desktop\\\\rr.txt'" list full**  
 ![View File Properties using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-cmd.jpg)
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
 
@@ -128,22 +128,19 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/0-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flat-to-fantastic-animated-text-transformations/"><u>[New] 2024 Approved From Flat to Fantastic Animated Text Transformations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-iconic-photographs-the-true-story-for-2024/"><u>[New] Iconic Photographs The True Story for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] Saving GIFs From Twitter IOS & Android Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-cameras-for-4khd-live-performance-shootouts/"><u>[Updated] Cutting-Edge Cameras for 4K/HD Live Performance Shootouts</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-users-through-fixing-audio-driver-unsupported-issue/"><u>Guiding Users Through Fixing Audio Driver Unsupported Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-sonic-frontiers-crashing-when-going-full-screen-on-windows-11/"><u>How to Fix Sonic Frontiers Crashing When Going Full-Screen on Windows 11</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-platforms-creating-movies-from-photo-galleries-for-2024/"><u>Ideal Platforms Creating Movies From Photo Galleries for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G84 5G FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/keep-your-tasks-at-the-forefront-top-notifications-techniques/"><u>Keep Your Tasks at the Forefront: Top Notifications Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-windows-11-printer-connection-challenges/"><u>Navigating Windows 11 Printer Connection Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/realigning-the-skewed-discord-game-detector-for-windows-users/"><u>Realigning the Skewed Discord Game Detector for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-non-functional-webcam-on-windows/"><u>Solutions for Non-Functional Webcam on Windows</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-disappeared-iphone-applications-find-them-with-these-tips/"><u>Struggling with Disappeared Iphone Applications: Find Them With These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-smart-purchasing-of-win-devices/"><u>The Ultimate Guide to Smart Purchasing of Win Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor X50 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-windows-preemptive-ram-use/"><u>Unraveling the Mysteries of Windows’ Preemptive RAM Use</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-designing-a-personalized-youtube-subscribe-link/"><u>[New] 2024 Approved Designing a Personalized YouTube Subscribe Link</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-earning-potential-unleashed-monetizing-fb-pages-effectively/"><u>[New] 2024 Approved Earning Potential Unleashed Monetizing FB Pages Effectively</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-live-streamers-an-analytical-comparison-review-for-2024/"><u>[New] Top 10 Live Streamers An Analytical Comparison Review for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-6-figure-views-prime-hashtag-strategies-for-success/"><u>[Updated] In 2024, 6-Figure Views Prime Hashtag Strategies for Success</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-next-level-in-monitor-technology-a-deep-dive-into-p2715qs-wonders/"><u>[Updated] In 2024, The Next Level in Monitor Technology - A Deep Dive Into P2715Q's Wonders</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-fresh-conversation-starters-keeping-listeners-hooked/"><u>2024 Approved Fresh Conversation Starters Keeping Listeners Hooked</u></a></li>
+<li><a href="https://win11.techidaily.com/customizing-firewall-defenses-in-5-easy-steps/"><u>Customizing Firewall Defenses in 5 Easy Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-update-failure-code-0x80246007-windows-guide/"><u>Disabling Update Failure Code 0X80246007: Windows Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-perfecting-your-reel-integrating-music-on-instagram/"><u>In 2024, Perfecting Your Reel Integrating Music on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-look-at-overlooked-window-11-styles/"><u>In-Depth Look at Overlooked Window 11 Styles</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-failed-volume-shadow-copy-in-windows-os/"><u>Solving Failed Volume Shadow Copy in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-comic-file-access-in-modern-windows/"><u>Streamlining Comic File Access in Modern Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-phone-link-microsofts-bluetooth-connectivity-app/"><u>Unveiling 'Phone Link': Microsoft’s Bluetooth Connectivity App</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/why-bother-with-reddit-get-the-best-filmora-deals-right-here/"><u>Why Bother with Reddit? Get the Best Filmora Deals Right Here</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expanding Windows 11'S Folder Menu Options with New Commands
-date: 2024-08-16T00:44:56.470Z
-updated: 2024-08-17T00:44:56.470Z
+date: 2025-01-13T12:20:30.193Z
+updated: 2025-01-19T05:09:28.608Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
  You may frequently need to move or copy files to alternative folders in Windows. To do this, you might move files to different folders by dragging and dropping them. To copy a file to another location, you can either hold the**Ctrl** key while dragging or utilize the copy-paste hotkeys.
 
  It would be better to have context menu options for moving and copying files to selected locations. Then you could right-click a file and select a**Move to folder** or**Copy to folder** option. This is how you can add context menu options for moving and copying files to folders in Windows 11/10.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add a Move to Folder Context Menu Option
 
@@ -38,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 4. Input**{C2FBB631-2971-11D1-A18C-00C04FD75D13}** inside the**Value data** box.  
 ![The value data for the Move to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/an-edit-string-window.jpg)
 5. Select**OK** to set the new value for the (Default) string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Exit the Registry Editor.
 
  You can now try out the new**Move to folder** option on the context menu. Press the**Explorer** taskbar button to view the Windows file manager. Right-click a file and select the new**Move to folder** option. You’ll need to select**Show more options** \>**Move to folder i** n Windows 11.
@@ -49,8 +58,9 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 ![The Move Items window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/move-items-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Copy to Folder Context Menu Option
 
  The Windows context menu includes a**Copy** option, but that doesn’t enable you to select a destination for pasting the file. Thus, users must manually paste copied items into different folders after selecting that option. However, you can add a better**Copy to folder** context menu option that brings up a destination folder selection window like this:
@@ -61,11 +71,13 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 4. Type**Copy to folder** inside the text box for the new key.  
 ![The Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-folder-option-1.jpg)
 5. Select**Copy to folder** and double-click its**(Default)** string.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Enter the value**{C2FBB630-2971-11D1-A18C-00C04FD75D13}** inside the**Data** box.  
 ![The value data for the Copy to folder key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-edit-string-window-for-the-copytokey.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 7. Click the**OK** button to apply the value.
 8. Close the Registry Editor app’s window.
 
@@ -76,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
  You can remove the "Copy/Move to folder" options from the right-click menu by deleting their registry keys. Open the**ContextMenuHandlers** key location specified in step three for adding a Move to folder context menu option. Right-click the**Copy to folder** or**Move to folder** registry key and select**Delete** . Select**Yes** when prompted to confirm you’re sure about erasing that key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Move and Copy to Folder Context Menu Options With WinBubble
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
@@ -90,26 +103,16 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
 
 1. Select**Extract all** on Explorer’s command bar or the**Compressed Folder Tools** tab in Windows 10.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Press the**Browse** button.
 3. Choose a suitable directory to extract the archive outside the one it downloaded to, and click the**Select Folder** option.
 4. Next, select**Show extracted files when complete** for the WinBubbles folder to automatically open after extraction.
 5. Then click**Extract** to bring up the unzipped WinBubbles folder.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-extract-compressed-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Now double-click WinBubbles EXE to launch that software.
 2. Select the**Move to** option on the**General** tab.
 3. Click the**Copy to** checkbox to select that option.  
 ![The Copy to option in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/copy-to-checkbox.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 4. Press WinBubble’s**Apply** option when highlighted yellow.  
 ![The Apply button in WinBubble](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/highlighted-apply-button.jpg)
 5. A WinBubble dialog box window will appear confirming the tweaks have been saved. Click**OK** to close that message.
@@ -129,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +139,24 @@ thumbnail: https://thmb.techidaily.com/d28e7047daab181b2a6cda74108f4cb993066496e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>2024 Approved Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-srt-production-via-xml-ssa-and-ttml-conversions/"><u>2024 Approved SRT Production via XML, SSA & TTML Conversions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-new-chief-raises-gpt-questions/"><u>AI's New Chief Raises GPT Questions</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-solving-the-failure-errors-in-discord-installation/"><u>Decoding and Solving the Failure Errors in Discord Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/direct-download-tactics-for-new-windows-users/"><u>Direct Download Tactics for New Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectify-ge-share-function-failures/"><u>Guide to Rectify GE Share Function Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-deal-with-windows-error-x70-a-comprehensive-checklist/"><u>How To Deal with Windows Error X70: A Comprehensive Checklist</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012088108-how-to-successfully-install-minecraft-on-your-windows-11-device-solved/"><u>How to Successfully Install Minecraft on Your Windows 11 Device - Solved</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-x-recorder-your-companion-for-high-quality-pc-recording/"><u>In 2024, X-Recorder Your Companion for High-Quality PC Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-media-8-superior-windows-video-slicers/"><u>Master Your Media - 8 Superior Windows Video Slicers</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mover-instalacion-del-fabricante-oem-de-windows-11-a-un-disco-duro-actualizado/"><u>Mover Instalación Del Fabricante (OEM) De Windows 11 a Un Disco Duro Actualizado</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winerror-740-resolving-operation-needs-promotion-in-windows-os/"><u>Overcoming WinError 740: Resolving 'Operation Needs Promotion' In Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/revamping-connection-speed-clearing-steam-dns-in-windows/"><u>Revamping Connection Speed: Clearing Steam DNS in Windows</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revive-your-computer-with-ease-activating-wake-on-lan-in-windows-1011/"><u>Revive Your Computer with Ease: Activating Wake-on-LAN in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-couldnt-load-page-in-windows-marketplace/"><u>Troubleshooting 'Couldn't Load Page' In Windows Marketplace</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-s-hottest-explainer-video-creation-platforms-revealed/"><u>Updated In 2024, S Hottest Explainer Video Creation Platforms Revealed</u></a></li>
+</ul></div>
 

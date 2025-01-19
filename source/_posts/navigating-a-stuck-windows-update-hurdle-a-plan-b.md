@@ -1,7 +1,7 @@
 ---
 title: "Navigating a Stuck Windows Update Hurdle: A Plan B"
-date: 2024-08-16T00:47:04.891Z
-updated: 2024-08-17T00:47:04.891Z
+date: 2025-01-11T16:08:52.695Z
+updated: 2025-01-18T17:56:49.102Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
  Then try running the Windows Update Troubleshooter to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Clear the DNS Cache
 
  When you run the Windows Update Troubleshooter, it checks for Windows update issues, diagnoses, and resolves problems, resets Windows Update components, clears temporary files, and more. To do all this, it needs a stable internet connection.
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
  If the process is successful, you will get the confirmation message of the DNS Resolver Cache being successfully flushed. Now try running the Windows Update Troubleshooter.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Restart Windows Cryptographic Services
 
  At times, an erratic or stopped Windows Cryptographic Services can cause problems in the smooth running of the Windows Update Troubleshooter.
@@ -56,28 +61,18 @@ To fix this, you can try restarting Cryptographic Services.
 1. Search for**Services** in**Windows Search** and click on the**Services app** under**Best match** . Or use one of the[many ways to open Services](https://www.makeuseof.com/windows-11-open-services-app/) .
 2. In the**Services** app, look for**Cryptographic** **Services** and double-click on it to open its**Properties** .  
 ![Windows Cryptographic Services in the Services App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-cryptographic-services.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In**Properties** , click the**Stop** button to stop Cryptographic Services.  
 ![Cryptographic Services Stopped](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stop-cryptographic-services.jpg)
 4. Now, wait a few seconds and then click on the**Start** button. Also, ensure that the**Startup type** is set to**Automatic** .  
 ![Cryptographic Services Started With Automatic Startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/start-cryptographic-services.jpg)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then click**Apply** and then**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now close Services and try running the Windows Update Troubleshooter again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Run System File Checker and DISM Command
 
  The Windows Update Troubleshooter can also get stuck in a loop if system files have gotten corrupted. Fortunately, you can resolve this issue by running the SFC scan. It scans, repairs, and replaces these damaged files automatically.
@@ -88,9 +83,6 @@ To fix this, you can try restarting Cryptographic Services.
 
  After these scans finish running, try running the Windows Update Troubleshooter again.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update System Drivers
 
  Computer drivers enable Windows and its components to communicate and function efficiently. So it's good for you to[know what drivers are and why you should keep them updated](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) .
@@ -102,14 +94,19 @@ To fix this, you can try restarting Cryptographic Services.
 1. Right-click the**Windows icon** on the taskbar and select**Settings** from the menu.
 2. Click**Windows Update** in**Settings** and then on the right pane select**Advanced options** .  
 ![Advanced Options in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options-windows-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 3. In**Advanced options** , under the**Additional options** section, click on**Optional updates** .  
 ![Optional Updates in Advanced Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/optional-updates-windows-update.jpg)
 4. If there are driver updates available they would be listed under the**Driver Updates** option. Select all the driver updates and click on**Download & install** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you've updated the drivers, try running the Windows Troubleshooter and see if it works properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Configure Troubleshooting in Group Policy Editor
 
@@ -136,18 +133,6 @@ To edit and enable the Scripted Diagnostics policy:
 
  Now close the Group Policy Editor and run the Windows Update Troubleshooter.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Windows Update Troubleshooter Working Again to Fix Update Errors
 
  It's important to have the Windows Update Troubleshooter running fine. Try the above fixes if it ever gets stuck or stops working. And ensure you can install essential updates to enjoy a smooth and secure Windows experience.
@@ -160,8 +145,6 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +152,26 @@ To edit and enable the Scripted Diagnostics policy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-reviews.techidaily.com/1-efficient-techniques-for-cloning-disks-to-solid-state-drives-on-windows-11-with-secure-boot-enabled/"><u>1. Efficient Techniques for Cloning Disks to Solid State Drives on Windows 11 with Secure Boot Enabled</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerate-win11s-notepad-with-virtuoso-helper/"><u>Accelerate Win11's Notepad with Virtuoso Helper</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/crea-il-tuo-mp4-da-file-mpeg-gratuitamente-on-line-un-tutorial-completo-di-movavi/"><u>Crea Il Tuo MP4 Da File MPEG Gratuitamente On-Line: Un Tutorial Completo Di Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-ultimate-entertainment-on-the-go-with-the-iconic-nokia-x7-phone/"><u>Experience Ultimate Entertainment on the Go with the Iconic Nokia X7 Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/free-notetaking-on-windows-easy-and-effective/"><u>Free Notetaking on Windows: Easy and Effective</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guia-facil-para-sincronizar-carpetas-automaticamente-con-un-nas-en-windows-10-8-y-7/"><u>Guía Fácil Para Sincronizar Carpetas Automáticamente Con Un NAS en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-apple-iphone-15-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the Apple iPhone 15 Without Previous Owner?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-broadcom-netlink-gigabit-ethernet-card-drivers-on-pc-a-complete-guide-for-windows-10/"><u>How to Update Your Broadcom NetLink Gigabit Ethernet Card Drivers on PC: A Complete Guide for Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fall-guys-network-woes-on-windows-systems/"><u>Mastering Fall Guys Network Woes on Windows Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-seamless-storytelling-3-transition-techniques-for-final-cut-pro-for-2024/"><u>New Seamless Storytelling 3 Transition Techniques for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-context-selection-by-omitting-show-more/"><u>Optimize Context Selection by Omitting Show More</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-window-interruptions-turn-off-non-critical-suggestions/"><u>Reduce Window Interruptions: Turn Off Non-Critical Suggestions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-on-how-to-successfully-upload-videos-to-your-twitch-channel/"><u>Step-by-Step Tutorial on How to Successfully Upload Videos to Your Twitch Channel</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reattach-absent-drives-in-windows/"><u>Steps to Reattach Absent Drives in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-complimentary-sites-for-mastering-new-languages/"><u>Top 9 Complimentary Sites for Mastering New Languages</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ultimate-effortless-giggle-editor-for-2024/"><u>Ultimate Effortless Giggle Editor for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-capabilities-with-easy-installation-of-msixbundle-packages/"><u>Unlock Windows Capabilities with Easy Installation of MSixBundle Packages</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-requires-elevation-puzzle-win-11s-error-740-solution/"><u>Unraveling the Requires Elevation Puzzle: Win 11'S Error #740 Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/why-are-other-processes-aligned-with-edge/"><u>Why Are Other Processes Aligned with Edge?</u></a></li>
+</ul></div>
 

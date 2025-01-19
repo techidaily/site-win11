@@ -1,7 +1,7 @@
 ---
 title: "Quick Access: Unlocking Your OS Control Panel"
-date: 2024-08-16T00:43:58.455Z
-updated: 2024-08-17T00:43:58.455Z
+date: 2025-01-13T06:44:30.541Z
+updated: 2025-01-19T05:53:25.068Z
 tags:
   - windows10
   - windows11
@@ -26,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
  Windows is packed with tons of helpful keyboard shortcuts. But did you know that there’s a keyboard shortcut for accessing the Windows settings? To use this shortcut, simply press **Win + I**.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Use the Quick Access Menu
 
  The Quick Access menu (also known as the Power User menu) offers one of the easiest ways for accessing the system settings. Let's check out how this tool can be helpful:
@@ -38,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 ![Opening the Windows System Settings via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-quick-access-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use the Run Command Dialog Box
 
  The Run command dialog box is an easy-to-use tool that you can use to access most of the apps on your PC. If you want to open the settings app with this tool, follow these steps:
@@ -46,19 +47,11 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Type **ms-settings:** and click **OK** or press **Enter** to open the settings window.
 
 ![Opening the Windows System Settings via the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-run-command-dialog-box.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use the Windows Search Bar
 
  The Windows search bar is another incredible tool that can help you locate your built-in apps and [list all the installed programs on your device](https://www.makeuseof.com/tag/list-installed-programs-windows/). To search for the Windows system settings, follow these steps:
@@ -67,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Type **Settings** in the search box.
 3. Select the **Best match** result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 5\. Use the Windows Start Menu
 
  Ever used the Windows Start menu before? It's another reliable tool that can help you access most of the apps and tools on your Windows device.
@@ -80,6 +70,14 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Select the **PC Settings** option or click the **Settings icon**.
 
 ![Opening the Windows System Settings via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-windows-start-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt or PowerShell
 
@@ -97,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Type **PowerShell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **ms-settings:** and press **Enter** to open the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 7\. Use File Explorer's Address Bar
 
  File Explorer also offers a quick way to open the settings app. So, let's check how this tool can be helpful:
@@ -108,9 +103,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Type **ms-settings:** on File Explorer’s address bar and press **Enter** to access the system settings.
 
 ![Opening the Windows System Settings via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-file-explorer-s-address-bar.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use the Settings Widget on File Explorer
@@ -136,8 +131,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 2. Select the **All settings** option from the menu items to access the system settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10\. Use the Task Manager
 
  The Task Manager is used to monitor and manage running processes, system performance, and resource utilization on your Windows computer. Interestingly, you can use this tool to access various tools on your PC.
@@ -149,8 +145,9 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 3. Type **ms-settings:** in the search box and then press **Enter** or click **OK**.
 
 ![Opening the Windows System Settings using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-using-the-task-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Use a System Settings Desktop Shortcut
@@ -177,14 +174,7 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 3. Click the **Home** button in the top-left corner to access all the system settings.
 
 ![Clicking the Home button to access the system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-home-button-to-access-the-system-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## 13\. Open the Settings Indirectly via the Taskbar Context Menu
 
  Before we wrap up, let’s take you through one last quick indirect method to try:
@@ -193,6 +183,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the **Home** button in the top-left corner. This will display a window containing all the system settings.
 
 ![Clicking the Home button to exit the taskbar settings and access the complete system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-home-button-to-exit-the-taskbar-settings-and-access-the-complete-system-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Access the Windows System Settings With Ease
 
@@ -204,11 +198,31 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  In this article, we'll take you through the different ways to open the Windows system settings.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-top-30-unique-pfps-for-a-stellar-tiktok-presence/"><u>[New] Top 30 Unique PFPs for a Stellar TikTok Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-feathered-flamenco-flyers/"><u>[Updated] Feathered Flamenco Flyers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>[Updated] In 2024, Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-prime-8-instagram-managers-for-mobile-devices/"><u>[Updated] In 2024, Prime 8 Instagram Managers for Mobile Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-video-editing-on-windows-11-for-professionals/"><u>[Updated] In 2024, Unlocking Video Editing on Windows 11 for Professionals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mastering-youtubes-studio-editor-comprehensive-video-edits/"><u>[Updated] Mastering YouTube's Studio Editor Comprehensive Video Edits</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-most-popular-free-photography-and-film-archives-for-2024/"><u>[Updated] Most Popular Free Photography and Film Archives for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-artistry-in-your-pocket-the-bestiary-of-top-8-iphone-drawing-apps/"><u>2024 Approved Artistry in Your Pocket The Bestiary of Top 8 iPhone Drawing Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-winerror-0x800f0831-with-ease/"><u>Combat WinError 0X800F0831 with Ease</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-run-the-sfc-tool-successfully/"><u>Essential Tips to Run the SFC Tool Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/explaining-and-correcting-the-msvcr110dll-deficit/"><u>Explaining & Correcting the msvcr110.dll Deficit</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-update-problem-with-error-0xca00a009/"><u>Mitigating Update Problem with Error 0xCA00A009</u></a></li>
+<li><a href="https://win11.techidaily.com/removing-updater-code-0x8019-issue-on-xp/"><u>Removing Updater Code 0X8019 Issue on XP</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-stalled-email-notifications-in-windows-environment/"><u>Reviving Stalled Email Notifications in Windows Environment</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-boot-on-windows-sound-service-reboot-needs/"><u>Troubleshooting Boot-On Windows Sound Service Reboot Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-navigating-blank-login-page-fixes/"><u>Windows 11: Navigating Blank Login Page Fixes</u></a></li>
+</ul></div>
+

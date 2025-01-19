@@ -1,7 +1,7 @@
 ---
 title: "Optimize Data Flow: Four Essential Steps to Access Disk Management in Win11"
-date: 2024-08-16T00:46:57.401Z
-updated: 2024-08-17T00:46:57.401Z
+date: 2025-01-17T10:55:20.610Z
+updated: 2025-01-19T06:25:44.106Z
 tags:
   - windows10
   - windows11
@@ -25,8 +25,9 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 * [Open Disk Management From the Control Panel](#open-disk-management-from-the-control-panel)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Disk Management is a Windows tool that allows you to set up your new storage drive and manage existing ones.
@@ -41,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
  When you physically connect a new internal drive to your PC, Windows sees it as a blank disk with no allocated space. Therefore, it doesn't show up in the File Explorer. You can use Disk Management to create a partition and thus make your new drive usable in the operating system.
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -54,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Launch Disk Management From the Quick Access Menu
 
  While the search method may be popular, launching Disk Management from the Quick Access menu is the easiest way to open the Disk Management utility in Windows. The best part? You don't even need to use your keyboard, which is unlike any other method on this list.
@@ -61,20 +67,13 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
  All you have to do is right-click the Windows logo in the taskbar (or hit **Win + X** if you prefer) and choose **Disk Management** from the context menu.
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -82,15 +81,9 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
  Here, we'll focus on the command you need to enter to open the Disk Management utility. To open the Run command window, press **Windows + R**. Now, type **diskmgmt.msc**, and hit the **Enter** key to launch Disk Management.
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Open Disk Management From the Control Panel
 
  If you've been a Windows user for a while, you're probably already familiar with the Control Panel. If not, this is a destination on your Windows PC where important system utilities are located—even some that don't have a modern equivalent in the Settings app.
@@ -104,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
  While we listed only four methods here, Windows offers more options to open Disk Management. For instance, you can type **diskmgmt** and hit **Enter** in Command Prompt or Windows PowerShell to launch Disk Management. You can also find Disk Management in the Computer Management app on Windows.
@@ -112,11 +109,33 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
  Try these methods yourself and find out what works best for you. Whether you want to set up a new SSD or [partition an existing drive in Windows](https://www.makeuseof.com/how-to-partition-hard-drive/), Disk Management is what you'll need to rely on.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/mbrace-serenity-the-10-best-online-yoga-masters-today-for-2024/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-speech-logging-apps-for-ipads-3/"><u>[New] In 2024, Superior Speech Logging Apps for iPads #3</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-the-art-of-recording-tiktok-videos-expert-insights-and-filmmaking-magic/"><u>2024 Approved The Art of Recording TikTok Videos Expert Insights and Filmmaking Magic</u></a></li>
+<li><a href="https://win11.techidaily.com/correct-misplaced-second-display-on-windows-11/"><u>Correct Misplaced Second Display on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminate-entry-points-to-troubled-boots-in-win-writable-steps/"><u>Eliminate Entry Points to Troubled Boots in Win' Writable Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-folder-context-menus-on-windows-11/"><u>Enhancing Folder Context Menus on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-inflexible-scrollbar-issue-in-microsoft-excel-2016/"><u>Fix Inflexible Scrollbar Issue in Microsoft Excel 2016</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-steams-inaccessible-game-content-on-latest-windows-11/"><u>Fix Steam's Inaccessible Game Content on Latest Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/hands-on-guide-to-the-functionality-of-nooks-9-inch-lenovo-slates/"><u>Hands-On Guide to the Functionality of Nook's 9-Inch Lenovo Slates</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-edge-40-neo-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Edge 40 Neo Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-nord-ce-3-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Nord CE 3 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-clickers-the-best-auto-click-cars-and-keys/"><u>Masterful Clickers: The Best Auto Click Cars & Keys</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-free-time-tracker-a-step-by-step-guide-for-2024/"><u>Mastering FREE Time Tracker A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-elevate-your-content-with-the-best-free-video-translator-apps/"><u>New 2024 Approved Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/stepping-up-to-full-operating-system-windows-for-steam-deck/"><u>Stepping Up to Full Operating System: Windows for Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-your-desktops-aesthetic-essential-theme-tips-for-win11/"><u>Transforming Your Desktop's Aesthetic: Essential Theme Tips for Win11</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/turning-off-audio-cues-and-visual-transitions-for-smoother-presentations-on-flipbuilder-flipbuildercom/"><u>Turning Off Audio Cues & Visual Transitions for Smoother Presentations on FlipBuilder (flipbuilder.com)</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-windows-low-power-modes/"><u>Understanding Windows' Low-Power Modes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-sky-adventures-on-a-budget-the-syma-x5c-quadcopter-comprehensive-assessment/"><u>Unleashing Sky Adventures on a Budget – The SYMA X5C Quadcopter Comprehensive Assessment</u></a></li>
+</ul></div>
+

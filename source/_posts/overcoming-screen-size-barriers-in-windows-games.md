@@ -1,7 +1,7 @@
 ---
 title: Overcoming Screen Size Barriers in Windows Games
-date: 2025-01-14T20:47:36.945Z
-updated: 2025-01-18T20:21:38.732Z
+date: 2025-01-17T02:14:04.197Z
+updated: 2025-01-19T11:26:50.598Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
  Pressing **Alt + Enter** again will [switch your game back to windowed mode](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check the In-Game Display Settings
 
  Most games include a dedicated display settings menu that lets you specify whether you want to run the game in full screen or windowed mode. You need to review this setting for your games to ensure that full screen mode is selected.
@@ -38,7 +42,11 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 ![In-Game Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-settings-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations in Windows
@@ -51,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 4. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimization on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fullscreen-optimization-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Set the Display Scale to 100%
 
  Certain games may face difficulties entering full screen mode when the display scale on Windows is set higher than 100%. Setting the display scale at the recommended value can help ensure that the game is rendered at the native resolution of your monitor, without any scaling or resizing applied by Windows.
@@ -58,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
  To change the display scale on Windows, open the **Settings** app and navigate to **Display**. Click the drop-down menu next to **Scale** to select **100%**.
 
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Use the Compatibility Mode
 
@@ -70,21 +86,9 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 5. Click **Apply** followed by **OK** and then open your game again.  
 ![Run Game in Compatiblity Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-game-in-compatiblity-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Disable Any Apps With Overlays
 
  Occasionally, overlays from apps like Discord, Steam, or GeForce Experience can disrupt the full screen functionality of certain games, resulting in issues. To check for this possibility, you can temporarily [disable the GeForce overlay](https://www.makeuseof.com/windows-geforce-overlay-disable/), the Discord overlay, or any other software that shows overlays to see if this works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Perform Some Basic Windows Fixes
 
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 * **Update Your Graphics Driver:** Outdated or incompatible graphics driver on your PC can keep games from running in full screen mode at times. You can try [updating the graphics driver on your Windows PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) via Device Manager and see if that solves your problem.
 * **Run the Game as an Administrator:** In some cases, running the game as an administrator can also help fix the problem. If this method proves effective, you can configure your game to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Experience Gaming Like Never Before With a Full Screen Advantage
 
@@ -113,18 +113,19 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vr-beyond-boundaries-top-tech-and-accessories-unveiled/"><u>[Updated] 2024 Approved VR Beyond Boundaries Top Tech and Accessories Unveiled</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>[Updated] In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obscure-audio-alchemists-top-6-android-and-ios-recording-tools-for-2024/"><u>[Updated] Obscure Audio Alchemists Top 6 Android & iOS Recording Tools for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-senior-accessibility-on-legacy-computers/"><u>Enhancing Senior Accessibility on Legacy Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-troubleshooting-tools-for-smooth-windows-performance/"><u>Improving Troubleshooting Tools for Smooth Windows Performance</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-11-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 11 Pro Online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-note-13-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi Note 13 Pro+ 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://win-studio.techidaily.com/myrecover-professionelle-anleitung-zur-reparatur-und-wiederherstellung-verlorener-partitionen-in-windows-seven/"><u>MyRecover - Professionelle Anleitung Zur Reparatur Und Wiederherstellung Verlorener Partitionen in Windows ˈSeven</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-your-system-for-crisp-uninterrupted-gameplay-in-warzone/"><u>Optimizing Your System for Crisp, Uninterrupted Gameplay in Warzone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-white-screen-on-logging-into-win1011/"><u>Overcoming White Screen on Logging Into Win10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-windows-event-viewer-fixes/"><u>Strategies for Windows Event Viewer Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-networking-essentials-managing-arp-cache/"><u>Windows Networking Essentials: Managing ARP Cache</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-easy-to-implement-strategies-to-stand-out-with-sound-in-pubg/"><u>[New] Easy-to-Implement Strategies to Stand Out with Sound in PUBG</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-upload-a-video-from-imovie-to-youtube/"><u>[Updated] How to Upload a Video From iMovie to YouTube?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-step-by-step-guide-to-exceptional-instagram-stories/"><u>[Updated] In 2024, Step-by-Step Guide to Exceptional Instagram Stories</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-process-termination-errors-effortlessly/"><u>Bypassing Process Termination Errors Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/cross-platform-cloud-file-retrieval-methods/"><u>Cross-Platform Cloud File Retrieval Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/1719347376759-efficient-methods-to-tackle-programming-problems-on-vistawindows-7/"><u>Efficient Methods to Tackle Programming Problems on Vista/Windows 7.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-7-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 7 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-tecno-camon-30-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Tecno Camon 30 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-lenovo-thinkphone-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Lenovo ThinkPhone to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-your-devices-aesthetics-using-microsoft-store-themes/"><u>Optimizing Your Device's Aesthetics Using Microsoft Store Themes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/smooth-and-swift-designing-your-best-thumbnails-for-2024/"><u>Smooth & Swift Designing Your Best Thumbnails for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-windows-11-from-self-restarting-frequently/"><u>Stop Windows 11 From Self-Restarting Frequently</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-guide-to-revive-windows-11s-essential-directories/"><u>Tailored Guide to Revive Windows 11'S Essential Directories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
 

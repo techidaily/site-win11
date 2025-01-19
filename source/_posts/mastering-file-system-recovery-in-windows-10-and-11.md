@@ -1,7 +1,7 @@
 ---
 title: Mastering File System Recovery in Windows 10 & 11
-date: 2024-08-16T00:45:44.460Z
-updated: 2024-08-17T00:45:44.460Z
+date: 2025-01-13T04:40:23.104Z
+updated: 2025-01-19T10:33:58.449Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  A file system error can occur in Windows 10 and 11 when you try to open files or Microsoft Store apps. When such an error occurs, a message pops up that says, “File system error (code).” File system errors have variable error codes like -2147219195, -2147219196, -2147163893, and -1073741521.
 
  The causes of such errors vary, but the result is much the same. Users can’t open the files or apps for which file system errors arise. These general resolutions can fix a wide variety of file system errors in Windows 10 and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Run the SFC and DISM Command Line Tools
 
@@ -42,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Run the Windows Store App Troubleshooter
 
  If a file system error occurs when you try launching MS Store apps or opening files with them, the Windows Store App troubleshooter might be useful for fixing it. That troubleshooter is there to resolve issues that stop UWP apps from working as they should. These are the steps for opening the Windows Store App troubleshooter:
@@ -53,14 +58,8 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 3. Select**Other trouble-shooters** to bring up a list of tools for troubleshooting Windows.
 4. Then press the**Run** button for launching the Windows Store App troubleshooter.  
 ![The troubleshooter list in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 5. Apply any suggestions the troubleshooter provides.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -76,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall Any Affected App
 
  This potential solution is more applicable to fixing file system errors that occur for opening specific UWP apps. Reinstalling the app for which the error arises might resolve it in such a scenario. For example, users confirmed reinstalling Microsoft Photos can resolve file system error -2147219196.
@@ -89,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -100,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
@@ -112,11 +105,16 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
@@ -124,8 +122,9 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Get File System Errors Sorted in Windows
 
  Users often report file system errors on support forums much the same as BSOD (Blue Screen of Death) and missing DLL file issues. You can't ignore them when they stop you from opening important user files or apps. Whatever file system error you need to fix in Windows 10 and 11, you’ll probably be able to resolve it with at least one of the potential resolutions above.
@@ -136,8 +135,6 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +142,24 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-filmoras-recipe-for-captivating-youtube-trailers/"><u>[Updated] Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-mastery-of-ipad-video-recording/"><u>[Updated] In 2024, Easy Mastery of iPad Video Recording</u></a></li>
+<li><a href="https://win11.techidaily.com/create-a-distinctive-color-scheme-in-wt-terminal/"><u>Create a Distinctive Color Scheme in WT Terminal</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-management-navigating-through-network-tools-on-window/"><u>Effortless Management: Navigating Through Network Tools on Window</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/engage-viewers-immediitsly-the-art-of-screensharing-on-facebook-livestreams-for-2024/"><u>Engage Viewers Immediitsly The Art of Screensharing on Facebook Livestreams for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-kernel-memory-access-issue-causing-bsod-blue-screen/"><u>Fixing the Kernel Memory Access Issue Causing BSOD (Blue Screen)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-transfer-files-on-a-network-using-a-python-server-on-windows/"><u>How to Transfer Files on a Network Using a Python Server on Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-g42-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia G42 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-professional-subtitle-transformation-at-zero-price/"><u>In 2024, Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-topic-18c-with-our-expert-free-video-guides-for-all-windows-and-mac-enthusiasts-updated-version-available-in-2eby/"><u>Master Topic 18C with Our Expert Free Video Guides for All Windows & Mac Enthusiasts - Updated Version Available in 2Eby</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-outlook-stuck-in-safe-mode-a-step-by-step-solution/"><u>Overcoming Outlook Stuck in Safe Mode: A Step-by-Step Solution</u></a></li>
+<li><a href="https://win11.techidaily.com/recover-missing-wireless-signal-a-windows-10-solution-guide/"><u>Recover Missing Wireless Signal: A Windows 10 Solution Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/"><u>Renaissance PC: Refresh with AtlasOS</u></a></li>
+<li><a href="https://win11.techidaily.com/the-swift-way-to-access-control-panel/"><u>The Swift Way to Access Control Panel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/walmart-enhances-aerial-deliveries-new-phase-of-drone-delivery-initiative-unveiled-insights-from-zdnet/"><u>Walmart Enhances Aerial Deliveries: New Phase of Drone Delivery Initiative Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-users-the-gains-from-dxvk-adoption/"><u>Windows Users - The Gains From DXVK Adoption</u></a></li>
+</ul></div>
 

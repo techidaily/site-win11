@@ -1,7 +1,7 @@
 ---
 title: Leveraging Overhauled Window for Selecting Widgets in Win11
-date: 2024-08-16T00:43:34.713Z
-updated: 2024-08-17T00:43:34.713Z
+date: 2025-01-14T10:29:59.868Z
+updated: 2025-01-19T04:47:32.031Z
 tags:
   - windows10
   - windows11
@@ -20,31 +20,26 @@ thumbnail: https://thmb.techidaily.com/55f69c473ce05e56332fdc0fd3becc5010779e559
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the Redesigned Widgets Picker in Windows 11?
 
 ![Screenshot showing Windows 11 Widgets preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/widgets-preview-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Redesigned Widgets picker shows you a preview of what a widget will look like in the Widgets board before you pin it. Third-party widgets are also supported, meaning you can preview app widgets like Facebook and Spotify before pinning them.
 
  Additionally, the updated Widgets picker also includes a link that will take you to the Microsoft Store Widgets page, where all the supported ones are listed.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is ViveTool And Why Do You Need It?
 
  Part of Microsoft's job to improve Windows 11 is adding new features to the OS. And many a time, some of these new features remain hidden in Windows 11 Insider builds. This is where ViveTool comes in handy. It's third-party software that allows you to enable hidden features in Windows 11 by enabling feature IDs.
@@ -54,14 +49,12 @@ Key features:
  For convenience, set up ViveTool and its extracted contents in the **C:/ViVeTool** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable the Redesigned Widgets Picker Using ViveTool
 
 ![Screenshot of ViveTool in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/command-prompt-enabling-new-widgets.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you are done setting up ViveTool on your PC, you are only a few steps away from enabling the specific feature ID for the redesigned Widgets picker. Here are the steps to turn on the feature ID for the new Widgets picker to surface:
 
@@ -75,9 +68,6 @@ Key features:
 
  The ability to preview a widget before adding it to the Widgets board will not require ViveTool to be enabled when Microsoft makes it available for everyone. When it is rolled out to every Windows 11 user, you should get a preview whenever you pin a widget to the board.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Will the New Widgets Preview Experience Be Available for Other Insider Channels?
 
  Microsoft introduces new features and ideas first to Canary and Dev Insider channels. After taking feedback from Insiders, it decides whether it should release them to other Insider channels.
@@ -87,15 +77,14 @@ Key features:
  However, things can go wrong, and Microsoft can scrap the feature before releasing it to other channels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Redesigned Widgets Picker in Windows 11, Enabled
 
  The best part about the new Widgets picker experience is that you do not need to tweak anything in the Settings app to turn it on. The reason is that Microsoft has not made it optional: you can not turn it on or off. Besides the ability to preview a widget, there are plenty of exciting features in Windows 11 Widgets.
 
  A redesigned Widgets picker is in the making for Windows 11 users, with availability limited to a select few Insiders. In this article, we will guide you through the process of enabling the new Widgets picker for those who have not got the taste of it despite being part of Windows Insiders.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -103,3 +92,25 @@ Key features:
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-channels-aesthetics-free-banners-available/"><u>[New] 2024 Approved Elevate Your Channel's Aesthetics - Free Banners Available</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-youtube-meets-branding-a-new-era-of-digital-partnership/"><u>[Updated] 2024 Approved YouTube Meets Branding A New Era of Digital Partnership</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-close-up-secrets-mastering-the-magnify-technique-for-2024/"><u>[Updated] Instagram's Close-Up Secrets Mastering the Magnify Technique for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/35-hilarious-image-editing-software-for-smartphones-and-pcs-for-2024/"><u>35 Hilarious Image Editing Software for Smartphones & PCs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/curing-frozen-windows-desktop-context-options/"><u>Curing Frozen Windows Desktop Context Options</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-purpose-and-application-of-hugging-face-in-ai/"><u>Decoding the Purpose and Application of Hugging Face in AI</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-overwatch-2s-missing-graphics-driver-error/"><u>Fixing Overwatch 2'S Missing Graphics Driver Error</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ignite-interest-top-20-creative-and-viral-tiktok-caption-strategies-for-2024/"><u>Ignite Interest Top 20 Creative and Viral TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/kostenloses-systembackup-tool-fur-win8win81-professionelle-losungen-mit-aomei-backupper/"><u>Kostenloses Systembackup-Tool Für Win8/Win8.1 – Professionelle Lösungen Mit AOMEI Backupper</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-end-task-control-panel-in-windows-11-ui/"><u>Mastering the End Task Control Panel in Windows 11 UI</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-flac-mp4-flac/"><u>MP3-FLAC 전환: 원탁해 운영 창의 무료 MP4-FLAC 변환 도구</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-system-resources-through-edges-webview2-controls/"><u>Optimizing System Resources Through Edge's WebView2 Controls</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-windows-store-cache-corruption-a-comprehensive-solution-approach/"><u>Overcoming Windows Store Cache Corruption: A Comprehensive Solution Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-workflow-essential-windows-shorthand/"><u>Streamline Your Workflow: Essential Windows Shorthand</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-windows-11-strategies-for-finding-a-misplaced-pin/"><u>Unlock Windows 11 - Strategies for Finding a Misplaced PIN</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-efficiency-the-ultimate-guide-to-taskbar-controls/"><u>Unlocking Efficiency: The Ultimate Guide to Taskbar Controls</u></a></li>
+<li><a href="https://win11.techidaily.com/wintime-discrepents-resolved/"><u>WinTime Discrepents Resolved</u></a></li>
+</ul></div>
+

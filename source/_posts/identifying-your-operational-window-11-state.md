@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Operational Window 11 State
-date: 2024-08-16T00:43:46.676Z
-updated: 2024-08-17T00:43:46.676Z
+date: 2025-01-17T08:08:47.913Z
+updated: 2025-01-19T06:36:41.079Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
  Although Microsoft allows you to use Windows 11 without activation, using a non-activated copy may not be the best idea as it restricts your access to certain key features and critical security updates. If you’re unsure, there are several ways to know if your copy of Windows 11 is activated.
 
  You can check your Windows 11 PC’s activation status via the Settings app, the Run command, or a command-line tool. This post will walk you through all three methods in detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. How to Check Windows 11's Activation State Using the Settings App
 
@@ -42,11 +46,16 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 
 ![Check Windows Activation Status via Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Is your Windows 11 PC not showing the correct activation status despite using a genuine license key? Check our guide on[how to fix the activation key not working issue in Windows 11](https://www.makeuseof.com/windows-11-activation-key-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. How to Check Windows 11 Activation State via the Run Command
 
  Run command is a useful tool for executing commands, opening system utilities, and[launching apps and programs in Windows](https://www.makeuseof.com/open-apps-programs-windows/) . You can also use this tool to see Windows' activation status.
@@ -57,16 +66,13 @@ thumbnail: https://thmb.techidaily.com/3f0dd2ba23afb65e6bd0d3f90edabc5ca5d9604be
 2. Type**slmgr.vbs /xpr** in the text field and click**OK** or press**Enter** .
 3. You should see a**Windows Script Host** dialog box that’ll convey whether your copy of Windows 11 is activated or not.  
 ![Check Windows Activation Status via Run Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-run-tool.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Alternatively, you can run the**slmgr.vbs /dlv** command to check the activation status along with other important details such as activation ID, partial product key, and so on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 3\. How to Check Windows 11 Activation State With Command Prompt or PowerShell
 
  Command Prompt and PowerShell are two built-in command-line tools in Windows 11 commonly used for performing complex administrative tasks and troubleshooting various errors. However, did you know you could also use these tools to reveal essential system information such as Windows' activation state?
@@ -77,29 +83,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the console, type**slmgr /xpr** and press**Enter** .
 3. In the dialog box, check Windows 11’s activation status. If your machine is not activated, you should see the**Windows is in notification mode** message.  
 ![Check Windows Activation Status via Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-windows-activation-status-via-command-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Like interacting with your machine via Command Prompt? Here are some[fun Command Prompt tricks](https://www.makeuseof.com/command-prompt-fun-things/) you might enjoy.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Checking Windows 11’s Activation Status, Made Easy
 
  You now know several ways to determine whether your copy of Windows 11 is genuine or not.
 
  If your Windows 11 is not activated, you may need to purchase a license key online to activate it. However, it's important to be cautious of online deals that seem too good to be true while making the purchase.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +109,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-top-picks-best-amazon-prime-content-2023/"><u>[Updated] In 2024, Twitter's Top Picks Best Amazon Prime Content 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovate-content-dissemination-youtube-to-facebook-methods-for-2024/"><u>[Updated] Innovate Content Dissemination YouTube-to-Facebook Methods for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-youtube-adsense-optimization/"><u>[Updated] The Ultimate Guide to YouTube AdSense Optimization</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-speech-iphone-memo-making-steps/"><u>2024 Approved Capturing Speech IPhone Memo-Making Steps</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/click-reprieve-restoring-lost-photographs/"><u>Click Reprieve: Restoring Lost Photographs</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-guide-eliminating-wsl-from-win-11-pcs/"><u>Comprehensive Guide: Eliminating WSL From Win 11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-window-11s-secure-browsing-graphically/"><u>Enhancing Window 11'S Secure Browsing Graphically</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-find-n3-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo Find N3 Phone that is Locked?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-6-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 6 and iPad?</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-game-hub-error-code-0x800700e9-on-microsoft-devices/"><u>Resolving Game Hub Error Code 0X800700E9 on Microsoft Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/selecting-your-channel-weighing-up-the-merits-of-igtv-and-youtube/"><u>Selecting Your Channel Weighing Up the Merits of IGTV & YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-operation-warhammer-40k-boltgun-windows-stutter-fixes/"><u>Smooth Operation Warhammer 40K Boltgun: Windows Stutter Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-experience-microsoft-store-file-types-msixbundle/"><u>Streamline Your Experience: Microsoft Store File Types (MSixBundle)</u></a></li>
+</ul></div>
 

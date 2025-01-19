@@ -1,7 +1,7 @@
 ---
 title: Improving Malfunctioning Gaming Status Check of Discord on Windows OS
-date: 2024-08-16T00:45:02.966Z
-updated: 2024-08-17T00:45:02.966Z
+date: 2025-01-18T07:59:10.197Z
+updated: 2025-01-19T03:57:22.088Z
 tags:
   - windows10
   - windows11
@@ -34,20 +34,18 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 
  If the above preliminary checks don't resolve the issue, begin applying the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run Discord as an Administrator
 
  First, you should run Discord as an administrator. By doing so, the application will get administrative privileges, allowing it to access even those system files that would otherwise be restricted, which may fix the issue. To run Discord as an administrator, right-click on the Discord app icon and hit **Run as administrator**.
 
 ![Clicking on the Run as Administrator Option by Right-clicking on the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Clicking-on-the-Run-as-Administrator-Option-by-Right-clicking-on-the-Discord-App-on-Windows-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Play the game again and see if Discord's game detection feature detects it this time. If not, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Ensure That Discord's Activity Status Feature Is Enabled
 
  Discord attempts to detect your game and show it to your friends only if you enable the activity status feature. When it's off, Discord won't detect the game you're playing. If you've tweaked Discord settings or reset Discord, ensure the activity status feature wasn't accidentally disabled. Follow these steps to confirm:
@@ -55,18 +53,9 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 1. Launch Discord.
 2. To access **User Settings**, click the **gear icon** in the bottom-left corner.  
 ![Go to Discord User Settings at the Bottom Left Corner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-go-to-discord-user-settings-at-the-bottom-left-corner.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 3. Under **Activity Settings** on the left-hand side, click **Activity Privacy**.
 4. Switch the toggle next to **Display current activity as a status message** to the right.  
 ![Switching the Toggle for Display Current Activity as a Status Message Setting to the Right by Clicking on Activity Privacy under Activity Settings in Discord User Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Switching-the-Toggle-for-Display-Current-Activity-as-a-Status-Message-Setting-to-the-Right-by-Clicking-on-Activity-Privacy-under-Activity-Settings-in-Discord-User-Settings-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 5. Let the changes take effect by relaunching Discord.
 
  Move on to the next fix if the activity status feature was already enabled or if enabling the feature makes no difference.
@@ -81,6 +70,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Right-click on it and select **Properties** from the context menu.  
 ![Clicking on the Properties Option by Right-clicking on the Game’s Executable File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Clicking-on-the-Properties-Option-by-Right-clicking-on-the-Game’s-Executable-File-on-Windows-1.jpg)
 3. Go to the **Digital Signatures** tab in the **Properties** window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select the signer's name and click on **Details**.
 5. Click **View Certificate**.
 
@@ -89,8 +83,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Discord can't detect game mods, just like it won't detect pirated games. Likewise, if you are using any cheat software to get an advantage in the game, Discord may not detect it due to its real-time file tempering. Considering that, do not modify the game or enable cheat software, and it will help Discord detect your game better.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update Discord
 
  An outdated Discord app can also cause unexpected problems. Typically, the Discord app checks for updates and installs them when you run it, but there are times when it doesn't, especially when you have stopped Discord from updating automatically.
@@ -98,9 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To check whether or not you already have the latest Discord version, click the **gear icon** (**User Settings**) in the bottom-right corner and scroll down. Compare the version number next to **Host** with the latest version released by Discord.
 
 ![Checking the Discord Version in Discord’s User Settings on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Checking-the-Discord-Version-in-Discord’s-User-Settings-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  If they match, your Discord app is updated. If not, you can update the app by following these steps:
 
@@ -110,8 +102,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Relaunch Discord, and hopefully, the updates will be automatically installed.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Ensure Your Antivirus or Firewall Isn't Blocking Discord's Game Detection
 
  Your antivirus or Windows Defender Firewall can also prevent Discord from detecting the game. Discord won't be able to detect the game if its access to it has been restricted. To rule out this possibility, you must whitelist Discord in the Windows Defender Firewall or antivirus settings.
@@ -127,12 +120,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Under **Activity Settings** on the left-hand side, click **Registered Games**.  
 ![Clicking on the Registered Games Option Under Activity Settings in User Settings in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/9-Clicking-on-the-Registered-Games-Option-Under-Activity-Settings-in-User-Settings-in-the-Discord-App-on-Windows.jpg)
 4. Next to "Not seeing your game?", click on **Add it**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the box, paste the path to the game's executable file.  
 ![Pasting the Path to the Game’s Executable File in the Box under Add it Option in the Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/11-Pasting-the-Path-to-the-Game’s-Executable-File-in-the-Box-under-Add-it-Option-in-the-Discord-App-on-Windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Select the game from the search results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By following the above instructions, you will be able to add the game to Discord manually and show up as you are playing it now. Even though it's handy, you'll have to add the game every time you play it and remove it when you're done. Reinstalling Discord will help you overcome this problem.
 
@@ -150,11 +149,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Below, we'll look at various solutions for getting Discord's game detection feature working again.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>[New] In 2024, Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enhancing-your-social-presence-facebook-bios-101-for-2024/"><u>[Updated] Enhancing Your Social Presence Facebook Bios 101 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-guide-5-best-free-pinterest-video-downloads-for-2024/"><u>[Updated] Essential Guide 5 Best FREE Pinterest Video Downloads for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-exploring-the-functionality-of-vlc-screencaster/"><u>[Updated] In 2024, Exploring the Functionality of VLC Screencaster</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-out-the-epic-game-hub-clutter-from-windows-11/"><u>Clear Out the Epic Game Hub Clutter From Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-wireless-speaker-quality-in-win11-os/"><u>Enhancing Wireless Speaker Quality in Win11 OS</u></a></li>
+<li><a href="https://games-able.techidaily.com/fast-forwarding-to-better-deck-performance-via-cloning/"><u>Fast-Forwarding to Better Deck Performance via Cloning</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/financial-outcomes-dailymotion-versus-youtube-earning-potential-for-2024/"><u>Financial Outcomes Dailymotion versus YouTube Earning Potential for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-reno-11-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo Reno 11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-google-pixel-8-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Google Pixel 8 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-function-restored-no-more-typing-problems/"><u>Keyboard Function Restored: No More Typing Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-techniques-to-effectively-modify-software-sizes-in-win11/"><u>Keyboard Techniques to Effectively Modify Software Sizes in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-virtual-boxs-capabilities-with-v70-on-windows-11-systems/"><u>Maximize Virtual Box's Capabilities with v7.0 on Windows 11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-initial-load-issues-in-lol/"><u>Overcoming Initial Load Issues in LOL</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-permission-barriers-in-windows-updates/"><u>Overcoming Permission Barriers in Windows Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-inaccessible-pin-unlock-routine-in-windows-11/"><u>Resetting Inaccessible Pin Unlock Routine in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-network-defenses-with-5-tweaks-to-firewall/"><u>Revitalizing Network Defenses with 5 Tweaks to Firewall</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-craft-an-invisible-taskbar-on-windows-11/"><u>Steps to Craft an Invisible Taskbar on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-faux-fabric-of-fiction-spotting-ai-spun-stories/"><u>The Faux Fabric of Fiction: Spotting AI-Spun Stories</u></a></li>
+</ul></div>
+

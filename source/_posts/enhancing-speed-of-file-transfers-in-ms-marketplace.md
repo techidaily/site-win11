@@ -1,7 +1,7 @@
 ---
 title: Enhancing Speed of File Transfers in MS Marketplace
-date: 2025-01-16T16:54:46.561Z
-updated: 2025-01-18T22:31:45.311Z
+date: 2025-01-15T04:18:26.416Z
+updated: 2025-01-18T23:43:15.411Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Internet Connection
@@ -62,14 +62,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 4. Disable the toggle next to the**Metered connection** option.  
 ![Disable Metered Connection in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/metered-connection.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Change the Background Download Bandwidth
 
  The next thing you can try to get better speeds on the Microsoft Store is to increase the background download bandwidth. Here's how:
@@ -82,10 +74,22 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Percentage of measured bandwidth (measured against the updates source) option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/percentage-of-measured-bandwidth-measured-against-the-updates-source.jpg)
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That's it. Check if there is an improvement in the downloading speed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the Microsoft Store Cache Data
 
@@ -98,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Switch to the Google Public DNS
 
  By default, the[DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
@@ -109,14 +117,14 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
 5. Right-click on the connected network and choose**Properties.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
 ![Configuring the Google Public DNS in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-public-dns.jpg)
 8. Click**OK** to save the settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
 
@@ -131,10 +139,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
  After that, restart your computer and check if the download speed has increased. If not, then you might have to reset the network settings of your computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Reset the Network Settings
 
  Is there still no improvement in the Microsoft Store download speed? Probably there's something wrong with your current network settings.
@@ -146,10 +150,6 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 3. Click the**Reset now** button.  
 ![Reset now button to reset the network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button.jpg)
 4. Click**Yes** to the confirmation box that appears.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Improve Your Microsoft Store Download Speed
 
@@ -170,17 +170,24 @@ thumbnail: https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Xiaomi Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
-<li><a href="https://win11.techidaily.com/festive-fireworks-christmas-window-gifts-via-mstore/"><u>Festive Fireworks: Christmas Window Gifts via MSTORE</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-intel-centrino-advanced-n-6235-driver/"><u>How to Update Your Intel Centrino Advanced-N 6235 Driver</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-macs-premier-selection-of-mp4-cutter-software/"><u>In 2024, Mac's Premier Selection of MP4 Cutter Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/iphone-dominates-as-they-secure-top-seven-positions-in-worldwide-smartphone-market-share-zdnet/"><u>IPhone Dominates as They Secure Top Seven Positions in Worldwide Smartphone Market Share - ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/missing-dxgidll-in-win11-heres-an-action-plan/"><u>Missing Dxgi.dll in Win11? Here's an Action Plan</u></a></li>
-<li><a href="https://win11.techidaily.com/removing-the-0x800704cf-hurdle-in-windows-store-experience/"><u>Removing the 0X800704CF Hurdle in Windows Store Experience</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/sony-xbr65x850f-a-great-value-for-your-money-in-a-65-4k-tv/"><u>Sony XBR65X850F – A Great Value for Your Money in a 65 4K TV!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/top-free-software-for-seamless-usb-flash-drive-auto-backups/"><u>Top Free Software for Seamless USB Flash Drive Auto-Backups</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-missing-values-on-windows-devices/"><u>Troubleshooting Missing Values on Windows Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>[New] 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-peering-at-starred-online-chatter/"><u>[New] Peering at Starred Online Chatter</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleash-creativity-inshot-video-editing-on-your-pc/"><u>[Updated] In 2024, Unleash Creativity Inshot Video Editing on Your PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>2024 Approved Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://win11.techidaily.com/activate-and-optimize-windows-powershell-script-policies/"><u>Activate and Optimize Windows PowerShell Script Policies</u></a></li>
+<li><a href="https://win11.techidaily.com/adapting-windows-lockscreen-for-user-preferences/"><u>Adapting Windows Lockscreen for User Preferences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/celebrated-selections-honorable-websites-for-securing-snapchat-alerts/"><u>Celebrated Selections Honorable Websites for Securing Snapchat Alerts</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-unexpected-reference-to-token-in-win10win11/"><u>Correcting Unexpected Reference to Token in Win10/Win11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-huawei-nova-y71-frp-by-drfone-android/"><u>How Can We Bypass Huawei Nova Y71 FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/in-a-nutshell-how-to-spot-your-pcs-ram-quickly/"><u>In a Nutshell: How to Spot Your PC's RAM Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-screen-snapshotting-4-key-strategies-for-windows-users/"><u>Mastering the Art of Screen Snapshotting: 4 Key Strategies for Windows Users.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-lenovo-screen-capture-tips/"><u>Quick Lenovo Screen Capture Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pc-revival-unearthing-windows-best-eight-methods/"><u>Quick PC Revival: Unearthing Windows' Best Eight Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise:</u></a></li>
+<li><a href="https://win11.techidaily.com/stopping-repeated-edge-desktop-additions/"><u>Stopping Repeated Edge Desktop Additions</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-chrome-profile-errors-for-windows-users/"><u>Unraveling Chrome Profile Errors for Windows Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/visualizing-warriors-for-2024/"><u>Visualizing Warriors for 2024</u></a></li>
 </ul></div>
 

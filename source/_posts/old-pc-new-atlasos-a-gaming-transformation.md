@@ -1,7 +1,7 @@
 ---
 title: "Old PC, New AtlasOS: A Gaming Transformation"
-date: 2024-08-16T00:45:04.049Z
-updated: 2024-08-17T00:45:04.049Z
+date: 2025-01-13T00:13:29.455Z
+updated: 2025-01-19T06:04:36.784Z
 tags:
   - windows10
   - windows11
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
  Your old PC has started showing its age, and you can't run the latest and greatest games on it. Still, that doesn't mean it's time for a costly upgrade. If you're not dealing with hardware issues, the problem's not that the PC itself "got old", but that newer software demands more from it. And this "software" includes the OS itself, Windows.
 
  Let's see how you can squeeze more life out of your old PC with AtlasOS, boosting its responsiveness and increasing your games' framerates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is Atlasos, and Why Should You Use It?
 
@@ -43,14 +47,17 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 1. Visit [AtlasOS official site](https://atlasos.net/) and click on **Getting started**.  
 ![AtlasOS Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-official-site.jpg)
 2. Select the version of AtlasOS you want to download. As mentioned above, up to the time of writing, only **Atlas Windows 10** was available, with Atlas Windows 11 "coming soon".  
-![AtlasOS Download Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-version.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![AtlasOS Download Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-version.jpg)
 3. Download both the **AME Wizard** and **Atlas Playbook** from the next page. For ease of use, make a new folder, and save both files inside it.  
 ![AtlasOS Download AME Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-ame-wizard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Before We Continue, Back Up Your Data
@@ -67,17 +74,16 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![AtlasOS Run AME Wizard Beta in Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-run-ame-wizard-beta-in-windows-explorer.jpg)
 2. If AtlasOS's setup wizard doesn't present a loaded Playbook on the left of its window, drag and drop the one you downloaded there. With an appropriate Playbook loaded, AtlasOS's setup will ask you to **Disable Security** to "allow AME Wizard file system access". Click on **Run action** to do that.  
 ![AtlasOS Setup Disable Security Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-disable-security-run-action.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 3. AtlasOS's setup wizard will show you a button, **Open Windows Security**, which you can click to jump to that part of Windows settings quickly.  
 ![AtlasOS Setup Open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-open-windows-security.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4. **Turn off all four types of security measures** on the Windows Security settings page.  
 ![AtlasOS Disabling Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-disabling-windows-security.jpg)
 5. When done, AtlasOS's setup will detect the changes and inform you that "Windows Security is disabled", prompting you to close that settings window and move to the next step.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Windows Security is Disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-windows-security-is-disabled.jpg)
 
 1. AtlasOS is designed for a specific combination of a particular Windows version and some updates, and will inform you if those requirements aren't met. Usually, it will also offer the option to "**Prepare** (the) **System**" according to the conditions required by the loaded Playbook. Click on **Run action** to do that.  
@@ -86,68 +92,48 @@ thumbnail: https://thmb.techidaily.com/5f066f9d9f5dd144763c4bbeccea3e56ce5ff6713
 ![AtlasOS Setup Preparing System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-preparing-system.jpg)
 3. You will also have to **allow** the AME Wizard "**to make changes to your device**" for that part to work.  
 ![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 4. If the AME Wizard prompts you to do so after that, or it fails, you should manually **download the latest updates** for your version of Windows.  
 ![AtlasOS Setup Next Windows Update Checking for Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-next-windows-update-checking-for-update.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 5. When, finally, AME Wizard reports that all "**Requirements** (are) **met**", click on **Next** to proceed to the actual installation.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Setup Requirements Met Next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-requirements-met-next.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Installing AtlasOS
 
  Up to now, your Windows installation is (mostly) untouched, and you can still cancel AtlasOS's installation. We must strongly suggest once more you take a complete Windows OS backup if you haven't done so yet, to be able to revert the changes that will be applied in the next steps.
 
 1. AtlasOS setup wizard will show you a typical license agreement. Click **Next** to proceed to the next step, or cancel if you've changed your mind about modifying your Windows installation.  
 ![AtlasOS Setup Accept License Agreement](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-accept-license-agreement.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. During the next step, AtlasOS's installer will extract needed resources and may also download additional files.  
 ![AtlasOS Setup Applying Playbook Extracting Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-applying-playbook-extracting-resources.jpg)
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 3. The installer might download resources like **.Net 3.5**...  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AtlasOS Setup Installing Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-installing-features.jpg)
 4. ...and remove what the loaded Playbook deems "useless fluff", like Microsoft's **OneDrive** cloud storage solution.  
 ![AtlasOS Setup Removing OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-onedrive.jpg)
 5. AtlasOS will also "lose" a lot of system packages and turn off many services to "Lighten up" your OS.  
 ![AtlasOS Setup Removing System Packages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-system-packages.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. You'll also be given the option to choose how you deal with **Security Mitigations**. We won't dive into details about them, but you can consider them extra security software patches for older CPUs. If your CPU is newer (released within the last five years), it's (usually) better **not to disable them**. If your CPU is relatively old, by disabling Security Mitigations, you'll be trading reduced security for a boost in performance. It's your choice, but AtlasOS will automatically disable them if you don't answer within 5 minutes.  
 ![AtlasOS Setup Security Mitigations Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-security-mitigations-pro.jpg)
 7. When it's mostly done, AtlasOS wizard will inform you that it's "**Finalizing** (the) **configuration**".  
-![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
 8. After all steps are complete and all rules in AtlasOS's Playbook are applied, your PC should restart automatically.  
 ![AtlasOS Setup Playbook Complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-playbook-complete.jpg)
 9. Windows might have to perform a reconfiguration during the next startup.  
@@ -159,21 +145,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![AtlasOS Desktop Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-desktop-start-menu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, not everything is perfect: you might not agree with everything AtlasOS disables, removes, or changes. For example, from now on, you'll have to manually download and apply updates to your Windows installation, for AtlasOS also removes the **Windows Update** option.
 
 ![AtlasOS Update Security Unavailable Leads to Troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-update-security-unavailable-leads-to-troubleshoot.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can feel the difference compared to a "normal" Windows installation, and it's also apparent if you check the OS's demands on resources.
 
 ![Windows 10 Firefox And Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-10-firefox-and-task-manager.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
  In our case, the "vanilla" version of Windows 10 we used before side-grading it to AtlasOS consumed around 8%-10% more resources while idle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Leaner Version of Windows
 
@@ -183,11 +171,29 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Let's see how you can squeeze more life out of your old PC with AtlasOS, boosting its responsiveness and increasing your games' framerates.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-discover-the-elite-live-streaming-platforms/"><u>[New] 2024 Approved Discover the Elite Live Streaming Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazon-prime-fan-favorites-highest-likes-and-view-counts/"><u>[New] Amazon Prime Fan Favorites Highest Likes & View Counts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xplore-10-premium-youtube-to-webm-converter-tools-for-2024/"><u>[New] Explore 10 Premium YouTube-to-WebM Converter Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-live-recording-setup-on-xbox-for-gamers/"><u>[New] In 2024, Live Recording Setup on Xbox for Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-masterful-ad-blocking-select-from-these-top-7-android-apps/"><u>[Updated] Masterful Ad Blocking Select From These Top 7 Android Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/enrich-text-messaging-with-emoji-15-on-windows-11/"><u>Enrich Text Messaging with Emoji 15 on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/instantaneously-track-lost-discussions-on-reddit-forums/"><u>Instantaneously Track Lost Discussions on Reddit Forums</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-luminosity-a-comprehensive-hdr-guide-for-windows-11-users/"><u>Leveraging Luminosity: A Comprehensive HDR Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-discord-search-on-windowed-devices/"><u>Optimizing Discord Search on Windowed Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-synapse-glitches-in-1011-windows-edition/"><u>Repairing Synapse Glitches in 10/11 Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/showcasing-taskmanager-preeminent-style/"><u>Showcasing TaskManager Preeminent Style</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-surfing-steps-for-windows-based-network-speed-verification/"><u>Swift Surfing: Steps for Windows-Based Network Speed Verification</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-malwarebytess-failed-execution-calls-on-windows-1011/"><u>Tackling Malwarebytes's Failed Execution Calls on Windows 10/11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-cartoonizer-apps-transform-your-photos-on-mobile-devices/"><u>Top Cartoonizer Apps Transform Your Photos on Mobile Devices</u></a></li>
+</ul></div>
+

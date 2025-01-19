@@ -1,7 +1,7 @@
 ---
 title: Overcome the Blank Cursor Dilemma in Win11, Quickly
-date: 2025-01-18T01:14:41.653Z
-updated: 2025-01-18T23:33:34.685Z
+date: 2025-01-17T20:07:48.610Z
+updated: 2025-01-19T04:00:11.632Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
  Windows updates, driver updates, and other glitches can all be responsible for causing your screen to turn black, and this is why there are multiple solutions to the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Method 1: PassFab FixUWin
@@ -49,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 
  Launch the executable file and click on**Install** once it opens, and wait for the install to finish before clicking on**Start** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: Create a New Windows Boot Disk/Drive
 
 ![fixuwin create boot disk window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-create-boot-disk.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You need a black CD/DVD or a USB drive to use PassFab FixUWin to fix Windows 10/11 black screen with a cursor. Insert your disk or drive into your computer and select**Create Boot Disk Now** .
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 ![fixuwin select drive and windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/fixuwin-select-drive-and-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose the version of Windows that matches the machine you are trying to fix and select the drive or disk you want to turn into a boot device before clicking**Next** and accepting the prompt that comes up.
@@ -72,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf8
 It will take a few minutes to create your new boot device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Boot the Machine Using Your Boot Disk/Drive
@@ -99,10 +103,6 @@ It will take a few minutes to create your new boot device.
 
  Once inside the winRE menu, click**Troubleshoot** and select**Advanced Options** from the next window. Click**Startup Settings** and select**Restart** to boot the machine into safe mode. From here, you can work on solving the problem causing your black screen with a cursor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use PassFab FixUWin to Fix Windows Black Screen With a Cursor
 
 [PassFab FixUWin](https://www.passfab.com/products/fix-windows.html) is a simple tool that can fix an array of Windows issues with ease. You just need to press the button to get the software started, and it can fix problems like blank screens without any work on your part. What’s best, though, is that all of PassFab’s excellent tools are available at incredible discounts to celebrate Black Friday.
@@ -122,19 +122,19 @@ It will take a few minutes to create your new boot device.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-mastering-top-faces-essential-fb-videos/"><u>[New] In 2024, Mastering Top Faces Essential FB Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-game-on-camera-strategies-for-videographers-in-sports/"><u>[Updated] 2024 Approved Game On, Camera! Strategies for Videographers in Sports</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-seamless-social-sharing-upload-a-twt/"><u>[Updated] 2024 Approved Seamless Social Sharing Upload a Twt</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sci-fis-virtual-cosmos-the-most-innovative-movies-of-the-metaverse-era/"><u>[Updated] Sci-Fi's Virtual Cosmos The Most Innovative Movies of the Metaverse Era</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-erratic-power-consumption-display-in-windows-11-environment/"><u>Fixing Erratic Power Consumption Display in Windows 11 Environment</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-poco-c55-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Poco C55 Device</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-themes-on-windows-the-microsoft-store-methodology/"><u>Leveraging Themes on Windows: The Microsoft Store Methodology</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-7-strategies-to-resurrect-unresponsive-windows-service-utility/"><u>Navigate 7 Strategies to Resurrect Unresponsive Windows Service Utility</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-non-responsive-ctrl-issues-on-modern-pcs/"><u>Navigating Through Non-Responsive CTRL Issues on Modern PCs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-your-creativity-running-windows-and-mac-video-editing-apps-on-chrome-os/"><u>New 2024 Approved Unleash Your Creativity Running Windows and Mac Video Editing Apps on Chrome OS</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-shortcut-functionality-to-snip-tool/"><u>Restoring Shortcut Functionality to Snip Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-unruly-0x800f0831-beast-winos-edition/"><u>Taming the Unruly 0X800f0831 Beast: WinOS Edition</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transform-your-space-with-enchanting-lights-how-a-magic-projector-is-revolutionizing-the-smart-home-experience/"><u>Transform Your Space with Enchanting Lights - How a Magic Projector Is Revolutionizing the Smart Home Experience!</u></a></li>
-<li><a href="https://win-webster.techidaily.com/urgent-fix-guide-overcome-external-hdd-error-code-0x80071ac3-now/"><u>Urgent Fix Guide: Overcome External HDD Error Code 0X80071AC3 Now!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hero5-black-versus-hero4-silver-comparison/"><u>[New] Hero5 Black Versus Hero4 Silver Comparison</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-solo-voices-that-echo-a-podcasters-pathway/"><u>[New] Solo Voices that Echo A Podcaster's Pathway</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-streaming-perfection-techniques-for-clear-webcam-feed/"><u>[Updated] 2024 Approved Streaming Perfection Techniques for Clear Webcam Feed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-perfecting-your-look-essential-makeup-tips-and-product-reviews/"><u>[Updated] Perfecting Your Look Essential Makeup Tips & Product Reviews</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-device-the-ultimate-guide-for-model-names/"><u>Discover Your Device: The Ultimate Guide for Model Names</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-redesigned-windows-11-widget-pickers/"><u>Enabling Redesigned Windows 11 Widget Pickers</u></a></li>
+<li><a href="https://win11.techidaily.com/from-digital-tunes-to-physical-form-transforming-your-mp3s-on-pc-using-imgburn-windows/"><u>From Digital Tunes to Physical Form: Transforming Your MP3s on PC Using ImgBurn (Windows)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-x-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone X</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-maneuvers-to-navigate-stalled-windows-install-steps/"><u>Masterful Maneuvers to Navigate Stalled Windows Install Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/max-out-your-games-on-windows-the-amd-optimization-guide/"><u>Max Out Your Games on Windows: The AMD Optimization Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/nvidia-geforce-gtx-1080-ti-review-the-graphics-card-that-takes-pc-gaming-to-new-heights/"><u>NVIDIA GeForce GTX 1080 Ti Review: The Graphics Card That Takes PC Gaming to New Heights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-guide-how-to-download-and-update-your-hid-keyboards-drivers/"><u>Simple Guide: How to Download & Update Your HID Keyboard's Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-need-privilege-escalation-issue-fixing-error-740/"><u>Tackling Need Privilege Escalation Issue: Fixing Error 740</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12-proplus-5g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12 Pro+ 5G Phone</u></a></li>
 </ul></div>
 

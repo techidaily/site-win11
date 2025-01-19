@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting 'Essential Elements' Warning on Windows 11/Win11
-date: 2025-01-18T01:37:20.157Z
-updated: 2025-01-19T02:24:16.757Z
+date: 2025-01-18T02:02:01.638Z
+updated: 2025-01-18T22:13:51.828Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for and Install Any Pending Windows Updates
 
 ![The Check for updates option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  First, try checking for and installing all pending Windows patch updates. This is because some updates will feature fixes for DirectX, so if the error message points to DirectX as the culprit, this will hopefully put it to rest.
 
@@ -55,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Install the 2015-2022 Visual Studio C++ Packages
 
  If repairing doesn’t work, or you can’t find the Visual C++ package specified in the error, you may need to install missing C++ runtime libraries. Microsoft has a webpage from which you can download numerous different C++ Redistributable packages.
@@ -71,11 +59,15 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 3. Click **I agree** \> **Install** in the Microsoft Visual C++ 2015-2022 window.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Install option for Visual C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-install-button.jpg)
 4. Repeat steps two and three to download and install the 32-bit version of Visual Studio 2015-2022\. To do so, you’ll need to click on the X86 download link for Visual Studio 2015-2022\.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Install DirectX Runtime Libraries
 
@@ -94,16 +86,24 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 6. Select **Next** to install the required DirectX components.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Repair .NET Framework Components
 
 ![The Repair option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Users have confirmed they fixed the “following components are required” error by reinstalling .NET Framework components. Thus, you might need to repair .NET Framework components on your PC to resolve the “following components are required” error.
 
  Check out [how to repair the .NET Framework](https://www.makeuseof.com/windows-repair-net-framework/) for more information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Verify the Affected Game Within Your Game Launcher
 
@@ -121,13 +121,13 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/programs-and-features.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then reinstall the latest version of the game by downloading it from its official site. If installed with Steam or Epic, or other launcher software, you’ll need to select to reinstall the game via its gaming client. Or reinstall the game from its Microsoft Store page if that’s where you purchased it.
 
  Also, note that some players have been able to resolve the “following components are required” error by reinstalling Steam. So, reinstalling that client software might be worth a try if you need to fix this issue for Steam games.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Kick-Start Your Windows Games Again
 
@@ -147,17 +147,20 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-videoharvest-downloading-fb-content/"><u>[New] 2024 Approved VideoHarvest Downloading Fb Content</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nvaluable-resource-for-zero-cost-video-and-photo-providers-for-2024/"><u>[New] Invaluable Resource for Zero-Cost Video and Photo Providers for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-macs-potential-capturing-the-spirit-of-roblox-games-for-2024/"><u>[New] Maximizing Mac's Potential Capturing the Spirit of Roblox Games for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-master-the-art-of-cinematic-vibrance-top-11-post-production-insights/"><u>[Updated] Master the Art of Cinematic Vibrance Top 11 Post-Production Insights</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/celebrating-a-decade-in-seven-years-mondlys-impact/"><u>Celebrating a Decade-in-Seven Years: Mondly's Impact</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/comment-configurer-des-recuperations-informatiques-hebdomadaires-sur-windows-server-2008/"><u>Comment Configurer Des Récupérations Informatiques Hebdomadaires Sur Windows Server 2008?</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-opengl-error-3-from-nvidia/"><u>Correcting OpenGL Error 3 From NVIDIA</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciding-on-an-upgrade-understanding-the-key-features-that-set-copilot-apart-from-copilot-pro/"><u>Deciding on an Upgrade: Understanding the Key Features that Set Copilot Apart From Copilot Pro</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-dells-direct-methods-easy-screenshot-solutions/"><u>In 2024, Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/reflect-organize-and-proliferate-using-obsidian-canvas/"><u>Reflect, Organize, and Proliferate: Using Obsidian Canvas</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-disabling-error-0xc00000f-on-pc/"><u>Solutions for Disabling Error 0Xc00000f on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tailoring-your-windows-visual-aid-the-cursor/"><u>Tailoring Your Window's Visual Aid: The Cursor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-video-upload-your-guide-to-igtv/"><u>[New] Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-camera-and-accessories-guide-for-travel-vids/"><u>[Updated] In 2024, Camera & Accessories Guide for Travel Vids</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-little-wheels-whirlwind-games/"><u>[Updated] Little Wheels Whirlwind Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-premier-choice-in-professional-mac-video-editing-tools/"><u>Apple's Premier Choice in Professional Mac Video Editing Tools</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-free-apps-for-language-education-2024-edition/"><u>Best Free Apps for Language Education, 2024 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-linking-win-prefixes-and-ms-logins/"><u>Enhancing User Experience: Linking Win Prefixes & MS Logins</u></a></li>
+<li><a href="https://win11.techidaily.com/1719265267578-fixing-winsplit-display-issues-now/"><u>Fixing WinSplit Display Issues Now</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-embedding-google-play-into-windows-11/"><u>Guide to Embedding Google Play Into Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-remove-photos-permanently-on-iphone-8-effective-strategies/"><u>How to Remove Photos Permanently on iPhone: 8 Effective Strategies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-oppo-a18-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Oppo A18 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-nuances-of-using-github-desktop-in-windows-oses/"><u>Navigating the Nuances of Using GitHub Desktop in Windows OSes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/streamline-your-screens-the-essential-online-record-guide-for-2024/"><u>Streamline Your Screens The Essential Online Record Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-beginners-guide-to-avoiding-mistakes-in-windows-11/"><u>The Beginner's Guide to Avoiding Mistakes in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-digital-gateway-easy-desktop-connectivity-with-win-11/"><u>Unlocking the Digital Gateway: Easy Desktop Connectivity with Win 11</u></a></li>
 </ul></div>
 

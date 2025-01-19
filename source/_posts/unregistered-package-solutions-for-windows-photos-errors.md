@@ -1,7 +1,7 @@
 ---
 title: Unregistered Package Solutions for Windows Photos Errors
-date: 2025-01-13T20:43:21.687Z
-updated: 2025-01-18T16:46:56.839Z
+date: 2025-01-17T23:03:49.616Z
+updated: 2025-01-18T19:37:10.102Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Windows Store Apps Troubleshooter
 
  Start your error troubleshooting with a troubleshooter for UWP apps on Microsoft Store. Windows Store Apps is a troubleshooter that could identify and resolve an issue with the Photos app. These are the steps for running that troubleshooter in Windows 11:
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 5. Then select to apply fixes suggested by the Windows Store App troubleshooter.  
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-store-apps-troubleshooter.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The same troubleshooter is also available within Windows 10’s Settings app. To access it, click the**Update & Security** category and**Troubleshoot** tab. Then you can select**Additional troubleshooters** to bring up the list of troubleshooting tools.
 
@@ -60,14 +60,6 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Repair and Reset buttons for Photos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-reset-buttons.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Run the Deployment Image and System File Checker Tools
 
  The “Package could not be registered” error can also be due to Windows system file corruption. That much has been confirmed by users who’ve said that running Deployment Image Servicing Management and System File Checker scans fixed this issue on their PCs. You can apply this potential solution by[opening the Command Prompt with admin rights](https://www.makeuseof.com/windows-11-open-command-prompt/) and running these separate DISM and SFC commands:
@@ -77,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 `sfc /scannow`
 
  Run the Deployment Image Servicing Management scan command before the System File Checker tool. Leave the Command Prompt open until it shows a Windows Resource Protection message for the SFC scan. If it says Windows Resource Protection repaired files, this resolution might have resolved the “Package could not be registered” error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall Photos
 
@@ -89,12 +85,16 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 3. To reinstall Photos, input this PowerShell command and press**Enter** :  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `Get-AppxPackage -allusers Microsoft.Windows.Photos | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall Photos app command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-photos-app.jpg)
 4. Restart your PC after reinstalling Photos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reset Windows
 
@@ -102,11 +102,11 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is suggested as a last resort because you’ll need to reinstall third-party software installed before resetting Windows. However, you can select to keep user files such as photos, documents, videos, etc. Our[guide to resetting Windows 10 and 11](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) tells you how to perform a factory reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Images in Photos Again
 
@@ -127,19 +127,16 @@ thumbnail: https://thmb.techidaily.com/af14611bf221d9521ecefac4bb5738408a7016fb6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-choices-best-video-cards-for-youtubes-clearest-output-for-2024/"><u>[New] Expert Choices Best Video Cards for YouTube's Clearest Output for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-thrill-town-10-similar-video-games-to-gta-v-for-2024/"><u>[New] Thrill Town 10 Similar Video Games To GTA V for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-quintessential-selection-5-must-have-mac-snipers/"><u>2024 Approved The Quintessential Selection 5 Must-Have Mac Snipers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/accessing-netgear-devices-july-2024-default-passwords-revealed/"><u>Accessing NETGEAR Devices: July 2024 Default Passwords Revealed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/cinemas-best-hope-fueled-film-selections-for-2024/"><u>Cinema's Best Hope-Fueled Film Selections for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-editing-expertise-with-windows-11-and-11s-custom-text-hotkeys/"><u>Elevate Your Editing Expertise with Windows 11 & 11'S Custom Text Hotkeys</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-windows-11s-glitch-empty-spots-for-file-images/"><u>Fix Windows 11'S Glitch: Empty Spots for File Images</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone XS Max and iPad?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-pure-serenity-in-the-air-top-asmr-microphones-at-low-costs/"><u>In 2024, Pure Serenity in the Air - Top ASMR Microphones at Low Costs</u></a></li>
-<li><a href="https://win11.techidaily.com/insight-into-the-cessation-of-hardware-assisted-gfx-tasking-windows/"><u>Insight Into the Cessation of Hardware-Assisted GFX Tasking Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-key-features-youre-missing-out-on/"><u>Mastering Windows 11: Key Features You're Missing Out On</u></a></li>
-<li><a href="https://win11.techidaily.com/tweak-context-menus-for-streamlined-software-use-on-pcs/"><u>Tweak Context Menus for Streamlined Software Use on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-cause-of-chromes-dark-display/"><u>Unveiling the Cause of Chrome's Dark Display</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-continues-to-crash-top-strategies-to-fix-it/"><u>War Thunder Continues to Crash : Top Strategies to Fix It</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expert-tips-for-youtube-channel-aesthetics-finding-optimal-sizes-for-2024/"><u>[New] Expert Tips for YouTube Channel Aesthetics Finding Optimal Sizes for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-staying-positive-in-the-face-of-internet-skeptics/"><u>[Updated] Staying Positive in the Face of Internet Skeptics</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-creating-funny-text-memes-a-step-by-step-guide/"><u>2024 Approved Creating Funny Text Memes A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-instant-access-to-updated-easycap-driver-software/"><u>Free Download: Instant Access to Updated EasyCAP Driver Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y200-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y200 Phone Screen?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-spotify-connection-failures-on-win11/"><u>Navigating Through Spotify Connection Failures on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/perfect-your-footage-the-ultimate-selection-of-video-cutters-on-win11/"><u>Perfect Your Footage: The Ultimate Selection of Video Cutters on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-amd-195-error-in-windows-installations/"><u>Tackling AMD 195 Error in Windows Installations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-future-in-your-hands-screenflows-role-in-macos-innovation/"><u>The Future in Your Hands ScreenFlow's Role in MacOS Innovation</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-correcting-windows-install-errors-win11/"><u>Understanding and Correcting Windows Install Errors (Win11)</u></a></li>
 </ul></div>
 

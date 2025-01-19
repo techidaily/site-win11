@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-01-17T00:25:49.024Z
-updated: 2025-01-18T20:27:50.560Z
+date: 2025-01-13T03:26:11.448Z
+updated: 2025-01-19T09:50:10.591Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Verify Your Java Installation
 
 ![verify java installation command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/verify-java-intallation-command-prompt.jpg)
@@ -50,15 +46,15 @@ To check the Java version installed on Windows:
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
 2. In Task Manager, open the**Processes** tab and locate instances of**Java Virtual Machine** .
 3. Select and click**End Task** to close the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
 
@@ -80,10 +76,6 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
@@ -91,14 +83,14 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![Windows new system variable java options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-new-system-variable-java-options.jpg)
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -115,11 +107,15 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 6. Double-click on the**Runtime Parameters** column and type**\-Xmx512m** to assign 512 MB memory for the Java apps.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall and Reinstall Java
 
@@ -137,12 +133,16 @@ To clean install Java:
 6. Next, go to the[Java Downloads page](https://www.java.com/en/download/manual.jsp/) and download the latest version available for your operating system. Make sure to download the correct version (32-bit/64-bit), depending on the system architecture.
 7. Run the installer and click**Install** . Follow the on-screen instructions to complete the installation and restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Install Java in a WindowsClean Boot State
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
@@ -166,21 +166,17 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-free-software-for-turning-videos-into-files/"><u>[Updated] 2024 Approved Top Free Software for Turning Videos Into Files</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-network-insights-with-windows-11s-netstat-utility/"><u>Decoding Network Insights with Windows 11'S Netstat Utility</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/detecting-memory-issues-on-your-pc-a-guide-tips-from-yl-computings-expertise/"><u>Detecting Memory Issues on Your PC: A Guide - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-efficiency-with-window-tabbing-windows-11-essentials/"><u>Enhancing Efficiency with Window Tabbing: Windows 11 Essentials</u></a></li>
-<li><a href="https://discover-help.techidaily.com/erstellen-sie-unter-windows-11-mit-einfachem-schritt-fur-schritt-leitfaden-eine-bootable-usb-laufwerk-aus-einer-iso-datei/"><u>Erstellen Sie Unter Windows 11 Mit Einfachem Schritt-Für-Schritt-Leitfaden Eine Bootable USB-Laufwerk Aus Einer ISO-Datei</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-excel-wont-display-in-notepad-on-windows/"><u>Fix: Excel Won't Display in Notepad on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/gain-control-over-cursor-cadence-turn-off-mouse-boost-in-win-11/"><u>Gain Control Over Cursor Cadence: Turn Off Mouse Boost in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-find-your-current-desktop-wallpapers-file-location-in-windows-11/"><u>How to Find Your Current Desktop Wallpaper’s File Location in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-divine-window-controls-in-windows-11/"><u>Implementing Divine Window Controls in Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/launch-free-portable-dvd-software-today-for-2024/"><u>Launch Free, Portable DVD Software Today for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-division-n-2-solutions-updated/"><u>Overcoming Launch Obstacles: Division N 2 Solutions Updated</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/reliable-power-bank-thats-lasted-decades-get-it-for-less-than-half-price-today-with-zdnet-exclusive-deal/"><u>Reliable Power Bank That's Lasted Decades – Get It for Less Than Half Price Today with ZDNET Exclusive Deal!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-adding-video-content-to-pdf-files/"><u>Step-by-Step Instructions: Adding Video Content to PDF Files</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-distributed-video-workflow-windows-and-tdarr-synergy/"><u>Streamline Distributed Video Workflow: Windows & Tdarr Synergy</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/synergy-of-style-and-functionality-in-ae-plugins-for-2024/"><u>Synergy of Style and Functionality in AE Plugins for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-journey-to-disabling-user-account-control-uac-in-windows-11/"><u>The Journey to Disabling User Account Control (UAC) in WIndows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-increasing-video-visibility-with-engaging-youtube-images/"><u>[New] 2024 Approved Increasing Video Visibility with Engaging Youtube Images</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-science-behind-time-warp-visuals/"><u>[New] 2024 Approved The Science Behind Time Warp Visuals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-essential-photo-changers-ultimate-online-upgrade/"><u>[Updated] In 2024, Essential Photo Changers Ultimate Online Upgrade</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-is-itops-feature-set-enough-to-justify-usage-in-2024/"><u>[Updated] Is ITop's Feature Set Enough to Justify Usage, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-content-delivery-uploading-and-sharing-videos-on-instagram-desktop/"><u>2024 Approved Mastering Content Delivery Uploading and Sharing Videos on Instagram Desktop</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-image-stabilization-action-recorders/"><u>2024 Approved Premier Image Stabilization Action Recorders</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-iphone-14-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About iPhone 14 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/controlling-devices-in-the-dormant-system-state/"><u>Controlling Devices in the Dormant System State</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-ratio-valorant-optimization-guide/"><u>Enhancing Win Ratio: Valorant Optimization Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-wwinplusprint-functionality-fixes-for-non-operational-printer-on-pc/"><u>Mastering WWin+Print Functionality: Fixes for Non-Operational Printer on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/mitigating-microsoft-m365-flaw-error-30015-26/"><u>Mitigating Microsoft M365 Flaw: Error 30015-26</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/swift-sharing-twitter-to-whatsapp-videos/"><u>Swift Sharing Twitter to WhatsApp Videos</u></a></li>
 </ul></div>
 

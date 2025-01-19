@@ -1,7 +1,7 @@
 ---
 title: "Maximize File Selection: Activating Windows 11 Checkboxes"
-date: 2025-01-12T17:05:49.575Z
-updated: 2025-01-18T17:55:24.104Z
+date: 2025-01-15T21:27:34.161Z
+updated: 2025-01-19T00:43:03.504Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Checkboxes Using the Command Bar
@@ -40,10 +40,14 @@ thumbnail: https://thmb.techidaily.com/0ca201532589a8340625e0277d57d7a6d8a4fe5f0
 ![Item check boxes in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/item-check-boxes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer to see the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
@@ -57,10 +61,6 @@ Here's how to use the Folder Option to enable the checkboxes:
 4. Check the**Use check boxes to select items** option. It'll be under the**Files and Folders** section.  
 ![Use check boxes to select items in Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/use-check-boxes-to-select-items.jpg)
 5. Click**Apply** and then**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Enable Checkboxes by Editing the Registry
 
@@ -77,13 +77,13 @@ Here's how to use the Folder Option to enable the checkboxes:
 ![AutoCheckSelect Option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autocheckselect-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable checkboxes, type**0** in AutoCheckSelect Value data and save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Enabling Checkboxes in the File Explorer
@@ -105,17 +105,24 @@ Here's how to use the Folder Option to enable the checkboxes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-syncing-muted-voices-with-obs-streams-for-2024/"><u>[Updated] Syncing Muted Voices with OBS Streams for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-harness-natural-light-for-iphone-photography/"><u>2024 Approved Harness Natural Light for iPhone Photography</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-retrieval-tool-restore-lost-data-from-y77t-by-fonelab-android-recover-data/"><u>Data Retrieval tool – restore lost data from Y77t</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-infinix-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Infinix? Try These Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revamp-your-systems-policy-settings-with-ease/"><u>How to Revamp Your System's Policy Settings with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/leverage-power-top-tips-to-elevate-wsl-2-on-windows/"><u>Leverage Power: Top Tips to Elevate WSL 2 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-vram-a-comprehensible-guide-for-win-users/"><u>Skyrocket VRAM: A Comprehensible Guide for Win Users</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-essential-iphones-guide-to-great-night-images-for-2024/"><u>The Essential iPhones Guide to Great Night Images for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/thorough-instructions-to-delete-wsl-entirely/"><u>Thorough Instructions to Delete WSL Entirely</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/to-replace-or-not-weighing-phone-and-pod-battery-lifespans/"><u>To Replace or Not: Weighing Phone & Pod Battery Lifespans</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-calculator-functionality/"><u>Unlocking Window's Calculator Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essence-of-interactive-virtuality/"><u>[Updated] The Essence of Interactive Virtuality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-unlock-funimates-downloading-magic/"><u>[Updated] Unlock Funimate's Downloading Magic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1-unlocking-the-power-of-saved-energy-activating-energy-saver-mode-in-google-chrome-the-essential-guide/"><u>1. Unlocking the Power of Saved Energy: Activating Energy Saver Mode in Google Chrome - The Essential Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/7-affordable-solutions-to-skyrocket-your-pcs-hard-drive-size/"><u>7 Affordable Solutions to Skyrocket Your PC's Hard Drive Size</u></a></li>
+<li><a href="https://win11.techidaily.com/familiarize-yourself-with-microsoft-family-safety/"><u>Familiarize Yourself With Microsoft Family Safety</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratuita-conversione-rapida-da-vob-a-mp4-opzioni-codificate-e-non-codificate/"><u>Gratuita Conversione Rapida Da VOB a MP4: Opzioni Codificate E Non Codificate</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-s17-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo S17 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-check-your-public-ip-address-using-command-prompt-in-windows-1110/"><u>How to Check Your Public IP Address Using Command Prompt in Windows 11/10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y28-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo Y28 5G Fingerprint Lock</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>In 2024, The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/proven-strategy-batch-convert-heic-to-jpeg-in-windows-11/"><u>Proven Strategy: Batch Convert HEIC to JPEG in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-microsofts-zero-error-in-windows-11-shop/"><u>Rectifying Microsoft's Zero-Error in Windows 11 Shop</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/retrospective-viewing-inventive-approaches-for-backward-youtube-content-for-2024/"><u>Retrospective Viewing Inventive Approaches for Backward YouTube Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/setting-up-learning-visuals-in-win-11/"><u>Setting Up Learning Visuals in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-resolve-windows-high-dpi-screen-scaling/"><u>Strategies to Resolve Windows High DPI Screen Scaling</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-your-search-tracing-programs-settlement-in-windows/"><u>Streamlining Your Search: Tracing Programs' Settlement in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-14-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 14 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshoot-closed-captions-a-windows-10-experts-method/"><u>Troubleshoot Closed Captions: A Windows 10 Expert's Method</u></a></li>
 </ul></div>
 

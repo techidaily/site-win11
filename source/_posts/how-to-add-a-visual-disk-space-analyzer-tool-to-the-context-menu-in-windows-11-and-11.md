@@ -1,7 +1,7 @@
 ---
 title: How to Add a Visual Disk Space Analyzer Tool to the Context Menu in Windows 11 & 11
-date: 2024-08-16T00:46:42.769Z
-updated: 2024-08-17T00:46:42.769Z
+date: 2025-01-12T22:01:56.244Z
+updated: 2025-01-19T00:08:35.284Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,11 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
@@ -48,13 +53,13 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 ![The Preferences window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preferences-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add a Visual Disk Space Analyzer Tool to Explorer’s Context Menu With Disk Savvy
 
  Disk Savvy is a slightly more advanced disk analyzer tool to RidNacs that includes a variety of pie and bar charts for users to view for analyzed folders. However, the freely available unregistered version’s file analysis is restricted to a maximum of 500,000 files. You’ll need to upgrade the software to its $50 pro version to remove that limitation. These are the steps for adding the Disk Savvy tool to File Explorer’s context menu.
@@ -64,11 +69,12 @@ thumbnail: https://thmb.techidaily.com/11a5b5bdf5c605b4fbfac8e2beadd347faae794ed
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Next** when installation is complete.
 7. Click**Finish** to exit the Disk Savvy setup window.
 
@@ -83,29 +89,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
  RidNics and Disk Savvy are useful tools that enable users to quickly analyze disk space usage in selected folders or entire drives. Those context menu utilities give you a comprehensive visual overview of what files and folders are taking up the most space on your hard drive. They’ll come in handy for freeing up drive space through manual user file deletion.
@@ -116,8 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +121,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-essential-techniques-for-perfecting-your-green-screen-shots/"><u>[New] 2024 Approved Essential Techniques for Perfecting Your Green-Screen Shots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecoding-the-payment-structure-on-youtube-for-2024/"><u>[New] Decoding the Payment Structure on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-exploring-the-world-of-animated-image-design/"><u>[Updated] Exploring the World of Animated Image Design</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-crafting-stunning-youtubers-imagery-a-comprehensive-walkthrough/"><u>2024 Approved Crafting Stunning YouTubers' Imagery A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-free-from-the-read-only-shackles-of-windows-11/"><u>Breaking Free From the Read-Only Shackles of Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/delving-deep-into-ios-video-recording-capabilities-for-2024/"><u>Delving Deep Into IO's Video Recording Capabilities for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-strategies-to-dial-down-memorycpu-in-windows/"><u>Effective Strategies to Dial Down Memory/CPU in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-rgb-customization-on-your-win11-device/"><u>Enabling RGB Customization on Your Win11 Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-cut-off-others-access-in-the-windows-network/"><u>How to Cut Off Others' Access in the WIndows Network</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-itel-a05s-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Itel A05s</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-effortless-data-purging-in-windows-1011/"><u>Master the Art of Effortless Data Purging in Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-animators-dream-tools-premium-choices-for-3d-mastery-for-2024/"><u>The Animator’s Dream Tools Premium Choices for 3D Mastery for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-success-removing-0x800700e9-from-your-xbox-game-pass-windows-11-setup/"><u>Unlocking Success: Removing 0X800700E9 From Your Xbox Game Pass, Windows 11 Setup</u></a></li>
+</ul></div>
 

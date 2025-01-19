@@ -1,7 +1,7 @@
 ---
 title: Fixing the App Blocks System Function Problem on Your PC
-date: 2024-08-16T00:47:21.099Z
-updated: 2024-08-17T00:47:21.099Z
+date: 2025-01-12T19:34:01.231Z
+updated: 2025-01-19T04:11:44.286Z
 tags:
   - windows10
   - windows11
@@ -20,29 +20,28 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  This can be frustrating and, sadly, there is no silver bullet to this issue. But there are some things you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does This Error Message Appear?
 
  This generally happens when there are apps running in the background that needs to be properly shut down. It is advised that you close all running apps before shutting down or logging off.
 
  Other reasons you may be seeing the “app is preventing Windows shutdown” error include corrupt Windows files or a Windows update still in the process of being downloaded. Some Windows settings can also cause this error to occur.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What to Do When an App Is Preventing Windows From Shutting Down, Restarting, or Signing Out
 
  As we said above, there is no "one size fits all" solution, nor is there a way to explicitly tell what's keeping your PC from shutting down cleanly. As such, try each of the following methods until one of them works.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Run the System File Checker
 
  The “app preventing Windows from shutting down” error message may be caused by corrupted system files. The first thing to do is to run the System File Checker on Windows. System File Checker is a tool built into the OS that can scan and restore Windows system files to restore your system to a healthy state.
 
 ![the results of an sfc scan in Command Prompt on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-scan-results.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, it’s advised that you run the DISM tool first. This tool uses Windows Update to make sure that your system files are all in order, so it's a good idea to do a DISM to ensure the SFC scan goes off without a hitch. You can read about both of these tools in our guide on[the difference between CHKDSK, DISM, and SFC](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
@@ -53,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![turn off fast boot by clicking on change unavailable settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/change-unavailable-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Settings are saved and start-up times are reduced, but as reported on[Windows Learn](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup) , it is known to affect Windows updates. So,[turn off Fast Startup on Windows](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) and check whether this solves the problem.
 
 ### 3\. Tweak Your Sign-In Options
@@ -62,16 +65,14 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 1. Click on the Start menu and select**Settings** .
 2. Click on**Accounts** and navigate to**Sign-in options** on the left pane.  
 ![Sign-in options on Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/01-windows-sign-in-options-01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Scroll down to the**Privacy** section and turn off the option to use your sign-in info to automatically finish setting up your device after an update or restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, you can[block Microsoft sign-ins on Windows 10](https://www.makeuseof.com/windows-block-allow-microsoft-accounts/) altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Run the Power Troubleshooter
 
  Even though turning off or logging off from your PC isn’t a power issue, you can try tackling it via the power troubleshooter. If there’s anything wrong with your PC power options, running this specific fix-it solution might give you an insight into what’s wrong and put you on your way to fixing it.
@@ -82,12 +83,13 @@ Here’s how you can run the power troubleshooter on Windows:
 2. Click on**Update & Security** and navigate to**Troubleshoot** on the left pane.
 3. Scroll down to the**Power** section and click on it to expand it.  
 ![Run the Windows power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/02-windows-power-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 4. Click on**Run the troubleshooter** .
 
  The system will scan for errors and let you know if there’s something that might need fixing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Manually Kill or Update the Problematic Task
 
@@ -101,14 +103,11 @@ Here’s how you can run the power troubleshooter on Windows:
 
  It isn’t always easy to pinpoint the error that prevents Windows from shutting down or logging off. Resetting things to the way they were before the error started showing up may help solve the problem. Mostly, however, it is likely just third-party apps causing the trouble.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +116,18 @@ Here’s how you can run the power troubleshooter on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-vr-future-latest-trends/"><u>[New] Unveiling the VR Future Latest Trends</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-and-share-the-essential-guide-to-maccasting/"><u>[Updated] 2024 Approved Capture and Share The Essential Guide to Maccasting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-total-physical-action-scrutiny/"><u>[Updated] Total Physical Action Scrutiny</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>2024 Approved The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-frozen-ctrl-key-functionality-in-windows-11-pcs/"><u>Addressing Frozen CTRL Key Functionality in Windows 11 PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-guide-to-advanced-screen-capture-via-adobe-captive-for-2024/"><u>Comprehensive Guide to Advanced Screen Capture via Adobe Captive for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/constructing-an-audio-experience-beyond-boundaries-in-windows-11/"><u>Constructing an Audio Experience Beyond Boundaries in Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211441852--karma-healing/"><u>Karma Healing | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-diskspace-tools-for-windows-context-menu/"><u>Quick Access DiskSpace: Tools for Window's Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reopen-nvidia-control-panel-in-win-11/"><u>Steps to Reopen Nvidia Control Panel in Win 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/superior-solutions-top-bdr-softwares-for-windows-macos-for-2024/"><u>Superior Solutions Top BDR Softwares for Windows, macOS for 2024</u></a></li>
+</ul></div>
 

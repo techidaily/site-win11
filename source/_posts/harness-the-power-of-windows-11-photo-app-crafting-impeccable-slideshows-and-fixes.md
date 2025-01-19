@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of Windows 11 Photo App: Crafting Impeccable Slideshows & Fixes"
-date: 2025-01-12T02:29:04.397Z
-updated: 2025-01-19T02:27:51.980Z
+date: 2025-01-17T23:41:54.909Z
+updated: 2025-01-19T02:04:49.398Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Does the Slideshow Feature Do?
 
  The current Photos app in Windows 11 lacks a slideshow feature. If you want to preview images in full-screen or windowed mode, you need to click the left or right icons in the app to change the image or press the left or right arrow keys. The slideshow feature automates this process but doesn’t just stop there.
@@ -47,14 +43,6 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
@@ -67,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
  If you want to adjust the volume of the slideshow, you can hover on the **speaker** icon and use the **slider bar**. It doesn’t affect the system volume settings. Click on the **speaker** icon or press the **M** key to mute the slideshow.
@@ -76,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Slideshow running in windowed mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-running-in-windowed-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is the Spot Fix Feature?
@@ -84,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  Spot fix feature can remove spots or objects from any image. Think of it as an eraser tool that factors in the background color and nearby elements. It deletes the selected spot or object and tries to blend the empty space with the color scheme or pattern of the nearby objects.
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Use the Spot Fix Feature in the Photos App
 
@@ -98,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
  Earlier, you could use the **Auto Enhance** feature to improve image quality after downloading an add-on. Now the feature is already included in the new version of the Photos app thus removing the hassle of downloading an add-on.
 
 ![Auto enhance in Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/auto-enhance-in-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to select consecutive photos, hold the **Shift** key and click on images. It is a faster way to select multiple images without having to click on each one of them. For non-consecutive photo selection, you can use the **Ctrl** key.
 
@@ -129,18 +129,22 @@ thumbnail: https://thmb.techidaily.com/9f80d4896e94eaecc9b9d2fa222d6b7ea517f0365
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-elevate-engagement-amplify-audience-youtube-marketing/"><u>[New] 2024 Approved Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-maximizing-your-designs-with-free-clip-art-for-2024/"><u>[New] Maximizing Your Designs with FREE Clip Art for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-a-new-sound-profile-free-guide-to-free-fire-voice-changes/"><u>[Updated] Unlocking a New Sound Profile Free Guide to Free Fire Voice Changes</u></a></li>
-<li><a href="https://win11.techidaily.com/a-deep-dive-into-windows-11s-8-confusing-features/"><u>A Deep Dive Into Windows 11’S 8 Confusing Features</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/error-resolution-b200/"><u>Error Resolution: B200</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-fixes-overcoming-windows-11s-rename-limitations/"><u>Essential Fixes: Overcoming Windows 11'S Rename Limitations</u></a></li>
-<li><a href="https://win11.techidaily.com/experts-choice-10-error-finder-apps-for-pc/"><u>Expert's Choice: 10 Error Finder Apps for PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-swiftly-address-roblox-error-262/"><u>How to Swiftly Address Roblox Error 262</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mastery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>In 2024, Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/kinemaster-on-mac-download-install-and-start-editing-today/"><u>KineMaster on Mac Download, Install, and Start Editing Today</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-unsupported-monitor-input-error-now-solved/"><u>Overcoming the Challenge: Unsupported Monitor Input Error Now Solved</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-incorporation-of-virtual-gaming-archives-into-playnite-on-pc/"><u>Seamless Incorporation of Virtual Gaming Archives Into Playnite on PC</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211235926-9798869130044-mnimyj-mir/"><u>МНИМЫЙ МИР | Free Book</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-resolution-war-gopro-hero-series-against-polaroid-cube/"><u>[Updated] 2024 Approved Resolution War GoPro Hero Series Against Polaroid Cube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-dynamic-resolution-enhancer-for-video-files-for-2024/"><u>[Updated] Dynamic Resolution Enhancer for Video Files for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unmatched-camcorders-for-total-rotation-capture/"><u>[Updated] Unmatched Camcorders for Total Rotation Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-inspiration-on-screen-top-youtube-themes-for-channels-prosperity/"><u>2024 Approved Inspiration on Screen Top YouTube Themes for Channels' Prosperity</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-and-job-market-adaptation-the-next-chapter/"><u>AI & Job Market Adaptation: The Next Chapter</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-a-bricked-windows-update-fix/"><u>Bypassing a Bricked Windows Update Fix</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-for-effective-batch-conversion-of-heic-to-jpeg-in-windows/"><u>Expert Tips for Effective Batch Conversion of HEIC to JPEG in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-open-issues-windows-11s-mail-and-calendar-hiccup/"><u>Fixing Open Issues: Windows 11'S Mail & Calendar Hiccup</u></a></li>
+<li><a href="https://win11.techidaily.com/forward-into-futures-ai-driven-windows-transformation/"><u>Forward Into Futures: AI-Driven Windows Transformation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-gaming-and-video-content-showdown-twitch-and-youtube-compared/"><u>In 2024, Gaming and Video Content Showdown Twitch & YouTube Compared</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-tutorial-opening-the-windows-info-panel/"><u>Quick Tutorial: Opening the Windows Info Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-home-admin-with-ease-of-use/"><u>Streamline Windows Home Admin with Ease of Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-overcoming-failed-rpc-in-windows/"><u>The Ultimate Guide to Overcoming Failed RPC in Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-honor-90-lite-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor 90 Lite Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-ranking-smart-tablets-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking Smart Tablets - Comprehensive Reviews by Tech Experts</u></a></li>
 </ul></div>
 

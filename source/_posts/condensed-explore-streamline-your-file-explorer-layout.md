@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-11T17:31:20.510Z
-updated: 2025-01-18T19:38:24.307Z
+date: 2025-01-17T11:51:47.687Z
+updated: 2025-01-18T18:07:51.121Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That's it. You might need to restart your computer for the changes to take effect.
@@ -57,23 +57,27 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -86,10 +90,6 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
 
@@ -112,24 +112,20 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-final-farewell-to-your-instagram-world-process-and-steps/"><u>[New] A Final Farewell to Your Instagram World Process & Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22/"><u>[New] In 2024, Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[Updated] In 2024, Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimizing-gameplay-streamlining-your-minecraft-recording-experience-on-mac-for-2024/"><u>[Updated] Optimizing Gameplay Streamlining Your Minecraft Recording Experience on Mac for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-contenders-the-creme-de-la-creme-list-of-computer-manufacturers/"><u>2024'S Top Contenders: The Crème De La Crème List of Computer Manufacturers</u></a></li>
-<li><a href="https://win11.techidaily.com/confronting-and-correcting-directdraw-mistakes-in-win1011-systems/"><u>Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/get-a-new-look-for-windows-three-clearing-ways/"><u>Get a New Look for Windows: Three Clearing Ways</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y27s-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y27s Data? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-review-key-feature-gone-missing-on-the-new-2020-samsung-galaxy-tab-a/"><u>In-Depth Review: Key Feature Gone Missing on the New 2020 Samsung Galaxy Tab A</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/maximizing-iphone-to-mac-file-transfer-for-large-videos-for-2024/"><u>Maximizing iPhone-to-Mac File Transfer for Large Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-11-error-0xc0000001-solutions/"><u>Overcoming Windows 11 Error 0xC0000001: Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-delving-into-their-distinctive-features/"><u>PowerShell Vs. Windows Terminal: Delving Into Their Distinctive Features</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-search-bar-inactivity-on-windows-11/"><u>Resolving Search Bar Inactivity on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/seasons-greetings-with-free-windows-store-apps/"><u>Season's Greetings with Free Windows Store Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-windows-interface-8-winbubble-ideas-unveiled/"><u>Transforming Windows Interface: 8 WinBubble Ideas Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-dual-programming-conflict-in-win-10/"><u>Unraveling the 'Dual Programming Conflict' In Win 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-covert-wi-fi-chips-enabling-smart-home-features-on-macs-and-ipads-is-yours-equipped-insights/"><u>Unveiling Covert Wi-Fi Chips Enabling Smart Home Features on Macs and iPads | Is Yours Equipped? Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-feature-switch-on-wsl-integration-mode/"><u>Windows Feature Switch: On WSL Integration Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-handheld-panorama-peacekeeper-360-stabilizer/"><u>[New] Handheld Panorama Peacekeeper 360° Stabilizer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-hands-on-approach-to-ios-audio-capture/"><u>[Updated] In 2024, Hands-On Approach to iOS Audio Capture</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a78-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A78 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/eal-time-follower-analysis/"><u>24/7 Real-Time Follower Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-unique-snap-configurations-in-win-os/"><u>Crafting Unique Snap Configurations in Win OS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-visually-striking-fb-ad-videos/"><u>Crafting Visually Striking FB Ad Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/getting-the-most-out-of-google-meet-for-free-for-2024/"><u>Getting the Most Out of Google Meet (For Free) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/high-res-quests-ultimate-guide-to-playing-adventures-in-hd-using-scummvm/"><u>High-Res Quests: Ultimate Guide to Playing Adventures in HD Using ScummVM</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-volume-mixer-in-windows-11/"><u>How to Open the Volume Mixer in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/microsoft-teams-screen-share-issues-quick-fixes/"><u>Microsoft Teams Screen Share Issues: Quick Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-external-monitor-not-responding-in-windows-os/"><u>Resolving External Monitor Not Responding in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-to-open-source-enable-linux-subsystem-for-windows/"><u>Transition to Open Source: Enable Linux Subsystem for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/typingpros-guide-to-swift-typing-using-typingaid/"><u>TypingPros Guide to Swift Typing Using TypingAid</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unconventnial-joy-in-reviewing-the-ddpai-mini3-dash-cam-model/"><u>Unconventnial Joy in Reviewing the Ddpai Mini3 Dash Cam Model</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-new-browsing-potential-with-gesture-controls-in-microsoft-written-by-ai/"><u>Unlocking New Browsing Potential with Gesture Controls in Microsoft' Written by AI</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disk Read/Write Errors in Win11
-date: 2025-01-15T19:36:13.250Z
-updated: 2025-01-18T19:30:37.864Z
+date: 2025-01-18T08:34:46.833Z
+updated: 2025-01-18T18:55:48.693Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the SFC and DISM Command Line Tools
 
  File system errors can often be related to system file corruption. Windows 11 and 10 have the same SFC and DISM command-line tools for repairing system files and Windows system image. Running those utilities in the Command Prompt could feasibly resolve numerous file system errors.
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
 ## 3\. Run the Windows Store App Troubleshooter
@@ -59,18 +67,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 5. Apply any suggestions the troubleshooter provides.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -82,12 +82,12 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select**Apply** to save settings for the Windows License Manager Service.
 7. Click**OK** to close the Windows License Manager Service Properties window.
@@ -102,6 +102,10 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Set Up a New Local User Account on Windows
 
  File system errors can arise because of user account issues. Such errors might not arise if you set up and utilize a new local user account in Windows 11\. That might not be the most ideal resolution, but you can migrate user files to a newly established account.
@@ -109,10 +113,6 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -122,11 +122,11 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Reset Windows
 
@@ -153,24 +153,16 @@ thumbnail: https://thmb.techidaily.com/975630c7efcc70612cff65d2f7f3b9e4bb2750437
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-fitness-routine-top-10-yoga-streams-unveiled/"><u>[New] 2024 Approved Elevate Your Fitness Routine - Top 10 Yoga Streams Unveiled</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-record-panel-wide-digital-view/"><u>[New] 2024 Approved Record Panel-Wide Digital View</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-master-the-basics-of-windows-10-effortlessly-for-2024/"><u>[Updated] Master the Basics of Windows 10 Effortlessly for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-and-personalizing-win11s-default-screen-saver/"><u>Configuring and Personalizing Win11's Default Screen Saver</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/conquer-periscope-recording-mastering-the-process/"><u>Conquer Periscope Recording Mastering the Process</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-organize-your-pcenas-7-prime-windows-photos-tools/"><u>Effortlessly Organize Your PC'enas: 7 Prime Windows Photos Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-an-overheating-windows-laptop-when-gaming/"><u>How to Fix an Overheating Windows Laptop When Gaming</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-a-comprehensive-look-at-benq-sw320s-4k-features/"><u>In 2024, A Comprehensive Look at BenQ SW320's 4K Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrades-with-ai-vision-capabilities-inspired-by-google-lens-the-next-level-of-smartphone-photography-insights-from-zdnet/"><u>IPhone 16 Upgrades with AI Vision Capabilities Inspired by Google Lens: The Next Level of Smartphone Photography - Insights From ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lenovos-new-amd-powerhouse-the-unbeatable-thinkpad-z13-gen-2/"><u>Lenovo's New AMD Powerhouse: The Unbeatable ThinkPad Z13 Gen 2</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-11-on-mac-via-parallels/"><u>Mastering Windows 11 on Mac via Parallels</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-stability-issues-a-guide-to-preventing-elex-ii-pc-shutdowns/"><u>Resolving Stability Issues: A Guide to Preventing Elex II PC Shutdowns</u></a></li>
-<li><a href="https://win11.techidaily.com/revamping-windows-audioscape-via-driver-update-steps/"><u>Revamping Windows Audioscape via Driver Update Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-a-dormant-services-console-a-list-of-7-restoration-techniques/"><u>Reviving a Dormant Services Console: A List of 7 Restoration Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/roblox-error-403-resolving-access-denied-in-win/"><u>Roblox Error 403: Resolving Access Denied in Win</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-windows-1110s-d3d11-gpu-woes-to-fixable-errors/"><u>Simplifying Windows 11/10'S D3D11 GPU Woes to Fixable Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-vds-failures-head-on/"><u>Tackling Windows VDS Failures Head-On</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-potential-youtube-thumbnail-creation-on-macos-for-2024/"><u>Unlock Your Potential YouTube Thumbnail Creation on macOS for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-monetization-carryminati-ajey-nagar-youtube-income-2023-for-2024/"><u>YouTube Monetization CarryMinati (Ajey Nagar) YouTube Income 2023 for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-quickflips-how-tweets-jumpstart-video-fame-for-2024/"><u>[New] QuickFlips How Tweets Jumpstart Video Fame for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-enhancing-webcam-video-quality-on-macbook/"><u>[Updated] In 2024, Enhancing Webcam Video Quality on MacBook</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-evaluation-of-the-linksys-wrt1900acs-an-open-source-router-analysis/"><u>Comprehensive Evaluation of the Linksys WRT1900ACS - An Open Source Router Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-visuals-in-ae-selecting-excellent-plugin-choices-for-2024/"><u>Crafting Visuals in AE Selecting Excellent Plugin Choices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-xfffeeee-error-on-your-office-printer/"><u>Eliminating XFFFEEEE Error on Your Office Printer</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/express-your-gratitude-essential-phrases-for-travelers/"><u>Express Your Gratitude: Essential Phrases for Travelers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-13-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 13 mini Online</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-oppo-find-x6-pro-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Oppo Find X6 Pro Device</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-pomodoro-strategies-best-windows-timer-selections/"><u>Optimal Pomodoro Strategies - Best Windows Timer Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-vscode-errors-in-latest-windows-update/"><u>Preventing VSCode Errors in Latest Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-address-the-application-was-unable-to-start-xc000003e-on-win11-and-11/"><u>Strategies to Address The Application Was Unable to Start Xc000003e on Win11 & 11</u></a></li>
 </ul></div>
 

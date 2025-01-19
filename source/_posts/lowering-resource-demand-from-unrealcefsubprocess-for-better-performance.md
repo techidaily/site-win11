@@ -1,7 +1,7 @@
 ---
 title: Lowering Resource Demand From UnrealCEFSubprocess for Better Performance
-date: 2025-01-17T23:47:54.984Z
-updated: 2025-01-18T18:10:04.683Z
+date: 2025-01-16T17:11:26.853Z
+updated: 2025-01-19T00:00:07.905Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
  As many users pointed out in a[Reddit thread](https://www.reddit.com/r/ValorantTechSupport/comments/z66n1b/unrealcefsubprocessexe%5Fmultiplying%5Fand%5Fputting/) , one of the major causes of high resource consumption by this process is the interference from Windows' built-in security suite, Windows Defender, and third-party antivirus software, primarily AVG antivirus and Avast antivirus. If you are using security software, then it might be causing the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can You Disable the UnrealCEFSubprocess Process via the Task Manager?
@@ -64,36 +64,46 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 3. Click on the**Allow an app through the firewall** link on the right side of the screen.  
 ![Click on the Allow an App Through the Firewall Link in Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-the-allow-an-app-through-the-firewall-link-in-windows-security-app.jpg)
 4. Click on**Change settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click on**Allow another app** .  
 ![Click on Allow Another App in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-allow-another-app-in-the-windows-defender-firewall-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. In the**Add an app** window, click on the**Browse** button.  
 ![Click on the Browse Button in the Add an App Window in the Windows Defender Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-click-on-the-browse-button-in-the-add-an-app-window-in-the-windows-defender-firewall-settings.jpg)
 2. Then, go to the following path:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
 3. Here, select**UnrealCEFSubProcess** from the list.  
 ![Select UnrealCEFSubprocess to Create an Exclusion for It](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-select-unrealcefsubprocess-to-create-an-exclusion-for-it.jpg)
 4. Then, click on**Add** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Click on the Add Button After Selecting the Relevant Process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-click-on-the-add-button-after-selecting-the-relevant-process.jpg)
 5. After that, check the**Public** and**Private** boxes next to the**UnrealCEFSubProcess** process and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click OK After Checking the Public and Private Boxes Next to the UnrealCEFSubprocess in the Windows Firewall Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-ok-after-checking-the-public-and-private-boxes-next-to-the-unrealcefsubprocess-in-the-windows-firewall-settings.jpg)
 6. Restart your computer after whitelisting this process.
 
 **I** f you have installed Valorant in a different folder or your operating system resides on a different drive, change the path above to reflect the proper location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Whitelist UnrealCEFSubprocess From Avast Antivirus
 
@@ -105,20 +115,12 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 ![Go to Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-go-to-settings-in-avast-antivirus-app.jpg)
 4. Go to the**Exceptions** tab in the**General** settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click on**Add Exception** .  
 ![Click on Add Exception in the General Settings in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-click-on-add-exception-in-the-general-settings-in-avast-antivirus-app.jpg)
 6. Click**Browse** in the**Add exception** window.  
 
 ![Click Browse in the Add Exception Window in Avast Antivirus App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/10-click-browse-in-the-add-exception-window-in-avast-antivirus-app.jpg)
 7. Navigate to the following path if you haven't changed the default installation path when installing Valorant:  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 `C:\Program Files\Riot Games\VALORANT\live\Engine\Binaries\Win64`
 8. Check the box beside**UnrealCEFSubprocess** and click**OK** .  
@@ -156,16 +158,22 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-whatsapp-snapshots-now-with-beats/"><u>[New] In 2024, WhatsApp Snapshots, Now With Beats</u></a></li>
-<li><a href="https://win11.techidaily.com/10-routes-to-windows-diagnostics-hub/"><u>10 Routes to Windows Diagnostics Hub</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-methods-reverting-customized-windows-configurations/"><u>Effective Methods: Reverting Customized Windows Configurations</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722972922297-get-the-latest-brother-mfc-7360n-drivers-and-easy-compatibility-with-windows-1087/"><u>Get the Latest Brother MFC-7360N Drivers & Easy Compatibility with Windows 10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/harmonics-high-flyers-top-5-programs-for-surpassing-windows-maxed-sound-level/"><u>Harmonics High-Flyers: Top 5 Programs for Surpassing Windows' Maxed Sound Level</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagram-boost-your-following/"><u>In 2024, Mastering Instagram Boost Your Following</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-chatgpt-plus-a-valuable-investment-for-users/"><u>Is ChatGPT Plus a Valuable Investment for Users?</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/is-your-old-driver-responsible-for-gpu-malfunctions-expert-insights-from-yl-computing/"><u>Is Your Old Driver Responsible for GPU Malfunctions? Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/propel-power-5-best-windows-optimization-strategies/"><u>Propel Power: 5 Best Windows Optimization Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/the-importance-of-consistent-windows-data-saves/"><u>The Importance of Consistent Windows Data Saves</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210428766-9780762474288-the-night-school/"><u>The Night School | Free Book</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-premium-luts-available-for-free/"><u>[New] Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-capture-the-big-picture-the-best-11-bridge-cameras-guide-for-2024/"><u>[Updated] Capture the Big Picture The Best 11 Bridge Cameras Guide for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-android-and-iphones-leading-tools-for-enhanced-fb-likes/"><u>[Updated] In 2024, Android & iPhone's Leading Tools for Enhanced FB Likes</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-clandestine-windows-11-taskbar-seeker/"><u>Accessing Clandestine Windows 11 Taskbar Seeker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-binary-bonds-are-machines-learning-to-feel-with-us/"><u>Beyond Binary Bonds: Are Machines Learning to Feel with Us?</u></a></li>
+<li><a href="https://win11.techidaily.com/continuous-edge-background-on-windows-11-tips/"><u>Continuous Edge Background on Windows 11 - Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/diving-into-shortened-terms-alias-and-application-lifecycle/"><u>Diving Into Shortened Terms: Alias & Application Lifecycle</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/expand-your-song-selection-discover-5-latest-karaoke-songs-every-week-on-pcdjs-karaoke-cloud-pro-platform/"><u>Expand Your Song Selection - Discover 5 Latest Karaoke Songs Every Week on PCDJ's Karaoke Cloud Pro Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disconnect-error-during-discord-setup-in-windows-os/"><u>Fixing Disconnect Error During Discord Setup in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/future-proof-your-pc-take-advantage-of-windows-11-h2-update-plan/"><u>Future-Proof Your PC: Take Advantage of Windows 11 H2 Update Plan</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-stop-hyber-v-with-ease-in-windows-11-pro/"><u>Guide: Stop Hyber-V with Ease in Windows 11 Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/investigating-the-efficacy-of-windows-11s-feature-additions/"><u>Investigating the Efficacy of Windows 11'S Feature Additions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-perfecting-audio-precision-key-eq-settings-explored/"><u>New Perfecting Audio Precision Key EQ Settings Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/path-pursuit-6-efficient-strategies-for-copying-file-and-folder-paths-in-windows-11/"><u>Path Pursuit: 6 Efficient Strategies for Copying File and Folder Paths in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/preorder-the-long-lasting-399-bose-soundlink-max-with-exceptional-20-hour-playback-available-now-on-zdnet/"><u>Preorder the Long-Lasting $399 Bose SoundLink Max with Exceptional 20-Hour Playback – Available Now on ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/transform-your-non-touch-macbook-into-one-with-this-innovative-portable-monitor/"><u>Transform Your Non-Touch MacBook Into One with This Innovative Portable Monitor!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforming-your-ebooks-how-to-convert-epub-files-into-pdf-format-using-calibre/"><u>Transforming Your eBooks: How to Convert EPUB Files Into PDF Format Using Calibre</u></a></li>
 </ul></div>
 

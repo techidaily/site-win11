@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Firewall Management
-date: 2025-01-14T17:24:50.045Z
-updated: 2025-01-19T01:07:30.645Z
+date: 2025-01-16T23:22:01.279Z
+updated: 2025-01-19T04:35:47.442Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -62,6 +58,10 @@ netsh advfirewall reset
 
  Wait for the process to complete. From there, restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
@@ -79,7 +79,7 @@ netsh advfirewall reset
  Wait for the process to complete, and then restart your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use the Windows Security App
@@ -97,7 +97,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -126,7 +126,7 @@ netsh advfirewall reset
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Restoring the Firewall Settings to Their Default Settings
@@ -150,22 +150,19 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>[New] The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-bundles-startup-channels-for-newcomers/"><u>[Updated] Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-the-art-of-posting-on-snapchat-15-tips-for-2024/"><u>[Updated] Perfect the Art of Posting on Snapchat (15 Tips) for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>[Updated] The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/d-vidcon-top-50-youtube-celebrations/"><u>Beyond VidCon Top 50 YouTube Celebrations</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-no-installed-devices-in-windows-os/"><u>Correcting 'No Installed Devices' In Windows OS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-efficiency-reducing-memorycpu-load-in-windows-10/"><u>Enhance Efficiency: Reducing Memory/CPU Load in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-metro-exodus-game-crash-issues-on-windows/"><u>Fixes for Metro Exodus Game Crash Issues on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-activatedisable-internet-safety-filter-in-win-11/"><u>How to Activate/Disable Internet Safety Filter in Win 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-pova-6-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Pova 6 Pro 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-file-selection-activating-windows-11-checkboxes/"><u>Maximize File Selection: Activating Windows 11 Checkboxes</u></a></li>
-<li><a href="https://win11.techidaily.com/no-cords-just-games-setting-up-ps3-controller/"><u>No Cords, Just Games: Setting Up PS3 Controller</u></a></li>
-<li><a href="https://win11.techidaily.com/opt-for-windows-10-why-it-still-wins-over-win11/"><u>Opt for Windows 10: Why It Still Wins Over Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/permanent-progress-mastering-the-save-file-security-in-epic-launcher/"><u>Permanent Progress: Mastering the Save File Security in Epic Launcher</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-integration-of-chatgpt-into-windows/"><u>Seamless Integration of ChatGPT Into Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-influence-unleashed-5-crucial-steps-to-thriving-on-instagram-marketing/"><u>[Updated] Influence Unleashed 5 Crucial Steps to Thriving on Instagram Marketing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs/"><u>2024 Approved Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/windows11top5/"><u>特定フォルダーを安全に保存する - Windows11対応完全手引き(Top5選択肢)</u></a></li>
+<li><a href="https://win11.techidaily.com/declutter-your-computer-finding-and-purging-windows-empties/"><u>Declutter Your Computer: Finding & Purging Windows' Empties</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209560209-9781631584442-dreams-interpreted/"><u>Dreams Interpreted | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>In 2024, Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-how-to-enable-screen-reflection-from-mobile-to-lg-smart-televisions-easily/"><u>Learn How To Enable Screen Reflection From Mobile to LG Smart Televisions Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-to-do-management-in-the-microsoft-ecosystem/"><u>Mastering To-Do Management in the Microsoft Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-regain-windows-11-help-application-use/"><u>Steps to Regain Windows 11 Help Application Use</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-devhome-transforming-your-w11-experience/"><u>The Essence of DevHome: Transforming Your W11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-no-powershell-on-windows-system/"><u>Troubleshooting: No PowerShell on Windows System</u></a></li>
+<li><a href="https://win-info.techidaily.com/ultimate-guide-5-methods-for-creating-a-disk-imaging-iso-file/"><u>Ultimate Guide: 5 Methods for Creating a Disk Imaging ISO File</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-update-halted-by-error-2e-solutions-here/"><u>Windows Update Halted by Error 2E? Solutions Here</u></a></li>
 </ul></div>
 

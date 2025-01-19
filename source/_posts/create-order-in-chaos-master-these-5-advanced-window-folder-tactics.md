@@ -1,7 +1,7 @@
 ---
 title: "Create Order in Chaos: Master These 5 Advanced Window Folder Tactics"
-date: 2024-08-16T00:44:20.534Z
-updated: 2024-08-17T00:44:20.534Z
+date: 2025-01-18T12:30:00.420Z
+updated: 2025-01-18T23:02:59.506Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,20 @@ thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f
 5. In the **Change Icon for Folder** window scroll to the right with the arrow key to reach a blank space. This blank space is a blank icon—you will know when you select it. Then click on **OK**.  
 ![Blank Space Selected As Folder Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-blank-space-as-folder-icon.jpg)
 6. Back in the **Customize** tab, you will see no icon under **Folder icon**. Click **Apply** and then **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Folder Icon Not Visible in Customize Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-icon-not-visible.jpg)
 
  You will see that the default yellow folder icon has become invisible. Without selecting it, no one can see it. Only you know it is there.
 
 ![Folder Is Invisible on Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/folder-is-invisible.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can use this as a secret folder to store private and confidential data. Double-click it to open it and use it like a regular folder.
 
@@ -57,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f
  This way, you can name several folders together—quickly and easily.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Duplicate a Folder Window
 
  This simple tip will save time and enhance your efficiency.
@@ -66,15 +76,13 @@ thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f
  When you're working within a folder that is open on your screen, press the **Ctrl + N** keys together. The folder window you're in will get duplicated.
 
 ![Duplicate Folder Window Created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/duplicate-folder-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now with two folder windows, you can move and navigate easily between subfolders and files.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Change Folder Size With the Mouse
 
  You'll find this tip handy if you use a desktop PC with a mouse or a mouse with your laptop.
@@ -92,26 +100,26 @@ thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f
 2. Click the **View** tab.
 3. Then click **Options** and then **Change folder and search options**.  
 ![Select Change Folder and Search Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-folder-options-file-explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In **Folder Options**, select the **View** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Under **Advanced settings**, turn on the option to **Show hidden files, folders, and drives**. Then click **OK**.  
 ![Select Show Hidden Files, Folders, and Drives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/select-show-hidden-folders.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  On Windows 11 and new Windows 10 versions, click the **View** tab in **File Explorer**.
 
 ![Hidden Items Checkbox Ticked in View Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tick-hidden-items-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  Then tick the checkbox next to **Hidden items** to make the hidden files and folders visible. You can then access the folders you are looking for.
 
  You can also explore [many other folder options in File Explorer](https://www.makeuseof.com/windows-folder-options-guide/) and learn how to enable them to suit your needs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use and Enjoy These Folder Tips and Tricks
 
@@ -119,11 +127,24 @@ thumbnail: https://thmb.techidaily.com/0f5e0d66222e22041fd69d85c280c4d0b12cd9d4f
 
  Surely you'd like to know ways to make working with folders easier and better. So here are a few quick folder tips and tricks that make things easy and fun.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-key-elements-to-successful-mobile-app-design/"><u>[New] In 2024, Key Elements to Successful Mobile App Design</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-10-gratis-video-chat-solutions-for-corporate-and-schools/"><u>[New] In 2024, Top 10 Gratis Video Chat Solutions for Corporate & Schools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-content-creator-to-cash-generator-your-facebook-journey/"><u>[Updated] In 2024, From Content Creator to Cash Generator Your Facebook Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-app-install-failure-on-microsofts-marketplace/"><u>Addressing App Install Failure on Microsoft's Marketplace</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/color-saturation-dropped-in-prints/"><u>Color Saturation Dropped in Prints</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hiring-guide-locating-excellent-film-capturers/"><u>Hiring Guide Locating Excellent Film Capturers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/paperless-posting-essential-notebook-replacements-for-windows/"><u>Paperless Posting: Essential Notebook Replacements for Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstalling-windows-11-step-by-step-guide/"><u>Reinstalling Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-enthusiasts-how-dxvk-shapes-your-gameplay/"><u>Windows Enthusiasts - How DXVK Shapes Your Gameplay</u></a></li>
+</ul></div>
+

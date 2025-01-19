@@ -1,7 +1,7 @@
 ---
 title: Reversing Non-Working File Segmentation Fixes
-date: 2024-08-16T00:45:13.097Z
-updated: 2024-08-17T00:45:13.097Z
+date: 2025-01-18T04:10:48.706Z
+updated: 2025-01-19T11:06:42.129Z
 tags:
   - windows10
   - windows11
@@ -33,12 +33,9 @@ thumbnail: https://thmb.techidaily.com/f8c3bfe35cce5c37efbf85d203da2ba6c70ae952a
  Now we know what causes the Disk Defragmenter to stop working, it's time to look at some solutions that may help you fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Check Disk Defragmenter's Status
 
  If your computer is running slowly, one potential reason could be that the Disk Defragmenter service is not running properly. This service helps to optimize your hard drive by rearranging files so that they can be read more quickly and efficiently.
@@ -50,16 +47,14 @@ No advertising on the website.
 3. Click on the drop-down menu and set the Start type to "Manual."
 4. Make sure the Service status is "Running." If it is not, then click on**Start** to run it.  
 ![Set Optimise drives Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Optimise-drives-Properties.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 5. Click**Apply > OK** to save it.
 
  After making the above changes, check if it solves the problem. If not, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run the System File Checker tool
 
  Another way to fix your disk defragmenter is to run the System File Checker tool. This tool will scan all of your system files and replace any that are corrupt or missing.
@@ -75,6 +70,10 @@ To run the System File Checker, follow these steps:
  It may take a while for the scan to complete, so be patient. Once the scan is complete, restart your computer and try running Disk Defragmenter again. It should now work properly.
 
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're still having trouble with your Disk Defragmenter tool after running an SFC scan, you may need to use the DISM utility. To do this, open the Command Prompt as an administrator and run the below command line:
 
@@ -92,10 +91,12 @@ To run the CHKDSK utility, follow the below steps:
 2. Right-click on the search result and select**Run as administrator** .
 3. Click**Yes** if UAC prompts on your computer screen. This will open a Command Prompt with admin access.  
 ![Run chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-chkdsk-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 4. When you're in Command Prompt, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `chkdsk C: /f`
 
  In the command above,**"C:"** represents your drive, so you should replace it with the letter that refers to your drive.
@@ -114,28 +115,22 @@ To run the CHKDSK utility, follow the below steps:
 2. On the Processes tab, find a non-essential third-party service and right-click on it.
 3. Then select**End task** from the context menu.  
 ![Close Programs Via Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Close-Programs-Via-Task-Manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After closing one, check if the disk defragmenter works again. If it does, the service you just closed is the culprit. Now you can either update, re-install, or even uninstall the problematic app so it stops interfering with Disk Defragmenter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixing Windows Disk Defragmenter's Opening Issues
 
  Disk defragmentation can improve the situation by rearranging files so that they can be evenly distributed throughout the drive. However, sometimes the Disk Defragmenter tool doesn't work as expected. If you encounter this problem, the methods described above should help you resolve it.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +139,21 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-alives-low-residue-sound-technique/"><u>[Updated] 2024 Approved Alive's Low-Residue Sound Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-digital-destinations-where-to-direct-your-videos/"><u>[Updated] 2024 Approved Digital Destinations Where to Direct Your Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boosting-income-via-youtube-ads-and-analytics-across-platforms/"><u>[Updated] Boosting Income via YouTube Ads & Analytics Across Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-expert-review-of-vivacuts-latest-edits-and-enhancements-for-2024/"><u>[Updated] Expert Review of VivaCut's Latest Edits and Enhancements for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/buy-the-ultimate-document-management-system-wonderfox/"><u>Buy the Ultimate Document Management System: WonderFox</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/craft-cartoony-snaps-master-snapchats-anime-filters-guide/"><u>Craft Cartoony Snaps Master Snapchat’s Anime Filters Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/essential-cybersecurity-strategies-for-safeguarding-your-digital-assets-learn-with-yl-computing/"><u>Essential Cybersecurity Strategies for Safeguarding Your Digital Assets - Learn with YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-windows-scaling-issues-for-high-dpi-screens/"><u>How to Fix Windows Scaling Issues for High DPI Screens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-scriptwriting-for-youtube-using-chatgpt-techniques/"><u>Mastering the Art of Scriptwriting for YouTube Using ChatGPT Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/rekindle-your-computers-potential-with-windows-11-via-to-go-and-rufus-path/"><u>Rekindle Your Computer's Potential with Windows 11, Via To Go & Rufus Path</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-and-restoring-faulty-media-playback/"><u>Resetting and Restoring Faulty Media Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-speakers-not-detected-issue/"><u>Resolving Windows: Speakers Not Detected Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/tracing-installation-sites-for-pc-apps-on-windows/"><u>Tracing Installation Sites for PC Apps on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-eternal-delete-with-a-customized-windows-trash-bin-setup-11/"><u>Unleash Eternal Delete with a Customized Windows Trash Bin Setup (11)</u></a></li>
+</ul></div>
 

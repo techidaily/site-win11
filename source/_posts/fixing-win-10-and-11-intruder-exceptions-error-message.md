@@ -1,7 +1,7 @@
 ---
 title: Fixing Win 10 & 11 Intruder Exceptions Error Message
-date: 2024-08-16T00:43:02.863Z
-updated: 2024-08-17T00:43:02.863Z
+date: 2025-01-17T13:07:51.946Z
+updated: 2025-01-19T04:01:19.352Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  This diagnostic tool comes with several different troubleshooting utilities to help you fix problems like startup issues, hardware problems, and crashes like a Blue Screen of Death. To launch this environment, simply turn on your computer. But as soon as it turns on, repeatedly press the F11 key to launch WinRE.
 
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, remember that this key may be different for you, depending on your device. In some devices, it is F9 or F12 key. It is best to check your manufacturer's official website for this information.
 
@@ -52,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/f051850e231be7d8e7141a137d6f961668fd16987
  Here, click on the**Restart** button. Once the system reboots, you should see a list of options. Choose**5** or press the**F5** key to boot into**Safe Mode with Networking** . After booting into Safe Mode, you can perform the solutions below.
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Delete the Problematic Registry Keys
@@ -68,9 +66,6 @@ Once that is done, you can proceed:
 C:\Windows\System32\
 2. Here, delete the APOIM32.EXE. APOMNGR.DLL, and CMDRTR.DLL files.  
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3. Now, press the Win + R keys together to open Run.
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
@@ -78,13 +73,19 @@ C:\Windows\System32\
 HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Installation\CTRedist\APOIM
 7. Delete the APOIM values from here by right-clicking on the value and choosing**Delete** .  
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Remove the Problematic Software
 
@@ -96,15 +97,13 @@ Here is what you need to do:
 2. Type control in Run and click Enter.
 3. In the Control Panel, navigate to**Programs** \>**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. You should now see a list of installed apps in the system. Right-click on the targeted app and choose**Uninstall** from the context menu.  
-![Clicking on the Uninstall Button by Right-clicking on the Suspicious App in Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Clicking on the Uninstall Button by Right-clicking on the Suspicious App in Windows Control Panel App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/2.jpg)
 5. Follow the on-screen instructions to complete the process.
 
  Once the app is uninstalled, restart your computer and check if the issue is resolved.
@@ -117,6 +116,10 @@ Here is what you need to do:
 
  Once you've identified the problematic driver, you can update it using the Device Manager utility to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Other Generic Fixes to Try
 
  Apart from the solutions discussed above, several[other troubleshooting methods for BSODs](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) can help you fix blue screen errors such as this one. This includes scanning the critical system files, restoring the system to an older working state, and checking the hardware for problems.
@@ -127,14 +130,11 @@ Here is what you need to do:
 
  And to prevent the issue from occurring again in the future, make sure to keep your system and its drivers updated at all times.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +143,23 @@ Here is what you need to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-screen-recording-the-top-5-android-capturing-apps-for-2024/"><u>[New] Elite Screen Recording The Top 5 Android Capturing Apps for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/confirming-the-health-of-your-windows-11-setup/"><u>Confirming the Health of Your Windows 11 Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-system-failures-code-0xc0000001/"><u>Eradicating System Failures: Code 0xC0000001</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluating-ffmpegs-mastery-in-untouched-audio-extraction-techniques/"><u>Evaluating FFmpeg's Mastery in Untouched Audio Extraction Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guia-paso-a-paso-conversion-de-videos-en-formato-quicktime-para-mac-y-windows/"><u>Guía Paso a Paso: Conversión De Videos en Formato QuickTime Para Mac Y Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-win-10s-internet-safety-mechanism/"><u>How to Set Win 10’S Internet Safety Mechanism</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-insights-identifying-your-posts-audience-for-2024/"><u>Instagram Insights Identifying Your Post's Audience for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-video-file-processing-movs-in-windows-11-edition/"><u>Mastering Video File Processing MOVs in Windows 11 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/mellowing-down-post-high-life-hectic-windows-routine/"><u>Mellowing Down Post-High Life Hectic Windows Routine</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-in-samurai-warriors-5-on-pc-optimizing-performance-and-fixes/"><u>No More Crashes in Samurai Warriors 5 on PC - Optimizing Performance and Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-java-functionality-after-failed-installation/"><u>Restoring Java Functionality After Failed Installation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restoring-subtitle-support-solutions-for-roku-closed-captions-not-working/"><u>Restoring Subtitle Support: Solutions for Roku Closed Captions Not Working</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-resolving-non-operational-wsresetexe-in-windows/"><u>Troubleshooting: Resolving Non-Operational WSReset.exe in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-the-special-traits-of-ai-machines/"><u>Understanding the Special Traits of AI Machines</u></a></li>
+<li><a href="https://discover-data.techidaily.com/1728492022656-windows-7/"><u>Windows 7 バックアップ管理: 古いバックアップが勝手に消える方法</u></a></li>
+</ul></div>
 

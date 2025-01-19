@@ -1,7 +1,7 @@
 ---
 title: Overruling Google Chrome's Default WebP Imaging Process, PC-Based
-date: 2024-08-16T00:43:30.477Z
-updated: 2024-08-17T00:43:30.477Z
+date: 2025-01-12T04:42:45.076Z
+updated: 2025-01-19T00:34:04.753Z
 tags:
   - windows10
   - windows11
@@ -31,14 +31,9 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
  So, if Chrome saves images as WebP, then most likely, the website owner is serving images in the WebP format to its visitors so that the website loads faster. But is it possible to stop Chrome from saving images in the WebP format?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Stop Chrome From Saving Images as WebP?
 
  Technically, Chrome doesn't convert the images into WebP when you download them from a website. In fact, images are served in the WebP format by the websites that host them. Therefore, there is no direct way to stop Chrome from saving images as WebP.
@@ -46,15 +41,17 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
  There are, however, some workarounds you can use to download images in the format you prefer right from Chrome. Let's go over a few of them.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Save WebP Images in Other Formats on Chrome
 
  If you regularly download images from the web and don't want them to be downloaded as WebP, here are some workarounds you can try:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Use Save Image as Type Extension
 
  The easiest way to save WebP images in other formats is by using a browser extension that enables you to do so. Among the hundreds of extensions available, Save image as Type is the best choice. With this extension, you can download images directly from the right-click context menu in any format you desire, which makes the process simple.
@@ -63,18 +60,6 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
 1. Download the **Save image as Type** extension from the [Chrome web store](https://chrome.google.com/webstore/detail/save-image-as-type/gabfmnliflodkdafenbcpjdlppllnemd/related?hl=en).  
 ![Adding the Save Image as Type Extension from the Chrome Web Store in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Adding-the-Save-Image-as-Type-Extension-from-the-Chrome-Web-Store-in-Chrome.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Once added, navigate to the image you want to download in a different format than WebP.
 3. Open the context menu by right-clicking on the image, and you'll see a **Save image as Type** option.
 4. To download an image in the desired format, navigate to the **Save image as Type** menu and choose your preferred format.  
@@ -90,6 +75,11 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 2. Right-click on the image and select **Copy image** from the context menu.  
 ![Clicking on the Copy Image Option from the Context Menu by Right-clicking on the Image in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/3-Clicking-on-the-Copy-Image-Option-from-the-Context-Menu-by-Right-clicking-on-the-Image-in-Chrome.jpg)
 3. Launch the Paint app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press **CTRL + V** to paste the copied image into the Paint app.
 5. On the top-left corner of your screen, click the **File** tab.
 6. To save the image in the desired format, go to the **Save as** menu and choose the desired format.  
@@ -109,21 +99,21 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 ![Choosing the JPG Format from the Dropdown Menu of Image Converter on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Choosing-the-JPG-Format-from-the-Dropdown-Menu-of-Image-Converter-on-the-Online-Convert-Website.jpg)
 4. Click on **Choose Files** and select the image from your device to upload.  
 ![Selecting the Image to Convert by Clicking on the Choose Files Option on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Selecting-the-Image-to-Convert-by-Clicking-on-the-Choose-Files-Option-on-the-Online-Convert-Website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 5. Click **Start** once the image has been uploaded.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. After converting the image, click on the **Download** button to download the image.  
 ![Downloading the Image by Clicking on the Download Button on the Online Convert Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Downloading-the-Image-by-Clicking-on-the-Download-Button-on-the-Online-Convert-Website.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, you'll need to subscribe to Online Covert's premium subscription to perform batch conversions. For free batch conversion, see our guide for [tools that offer free batch conversion and image optimization](https://www.makeuseof.com/tag/10-free-online-batch-image-tools-resize-convert-optimize/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Use a Browser Version That Doesn't Support WebP
 
  If you open a webpage in a browser that does not support WebP format, images will be served in their original format. Thus, if you don't wish to use any of the methods mentioned above, download browsers that do not support the format. You can also use an older version of your default browser that did not previously support the format.
@@ -134,16 +124,11 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
 
  Check out our guide on [opening WebP images on Windows 11](https://www.makeuseof.com/windows-11-open-webp-files/) to learn more about these methods.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save WebP Images in Your Desired Format
 
  Downloading images in the WebP format and not being able to open them with the Windows Photos app can be highly irritating. By following our guide, you should understand why Chrome saves images as WebP and be able to download images in your desired format with the workarounds mentioned.
 
  But what exactly is the WebP format? In this article, we'll explain what this format is, why Chrome saves images in this format, and how you can stop it.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,3 +136,22 @@ thumbnail: https://thmb.techidaily.com/84aaf27f955a6ba5c37b777f8ab3f4dc75b3cebc1
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-reverse-videos-on-android-in-2024/"><u>[New] How to Reverse Videos on Android, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-art-of-google-meet-modifications-using-masks-and-effects/"><u>[Updated] 2024 Approved The Art of Google Meet Modifications Using Masks & Effects</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-scrutiny-gopro-silver-hero4-version/"><u>[Updated] Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-nokia-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Nokia FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/excellent-pick-prime-photo-organizers-for-windows/"><u>Excellent Pick: Prime Photo Organizers For Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fan-the-fire-essential-tips-for-cooler-gameplay-on-overheated-windows-laptops/"><u>Fan the Fire: Essential Tips for Cooler Gameplay on Overheated Windows Laptops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-narzo-60-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme Narzo 60 Pro 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-reactivating-stalled-windows-batch-processes/"><u>Guide to Reactivating Stalled Windows Batch Processes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/immediate-transformation-mp3-files-to-windows-compatible-audio-cds-with-imgburn/"><u>Immediate Transformation: MP3 Files to Windows-Compatible Audio CDs with ImgBurn</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-itel-s23-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Itel S23 Phone?</u></a></li>
+<li><a href="https://win11.techidaily.com/the-6-key-steps-to-discovering-the-identity-of-your-pc-window-edition/"><u>The 6 Key Steps to Discovering the Identity of Your PC, Window Edition</u></a></li>
+</ul></div>
+

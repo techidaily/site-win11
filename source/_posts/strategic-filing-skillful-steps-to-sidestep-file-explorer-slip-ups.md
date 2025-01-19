@@ -1,7 +1,7 @@
 ---
 title: "Strategic Filing: Skillful Steps to Sidestep File Explorer Slip-Ups"
-date: 2025-01-16T00:40:39.006Z
-updated: 2025-01-18T17:47:09.338Z
+date: 2025-01-13T20:54:48.298Z
+updated: 2025-01-19T10:56:19.283Z
 tags:
   - windows10
   - windows11
@@ -26,22 +26,22 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
  There are more benefits to using tabs. Right-clicking on tabs will display options to **Close other tabs**, which closes all tabs except the one you're currently seeing.
 
  Tabs can save you time, as you don't have to click multiple times to close multiple windows. You can learn [how to use tabs in File Explorer](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) to become more productive on Windows 11\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Neglecting Keyboard Shortcuts
 
@@ -69,13 +69,13 @@ thumbnail: https://thmb.techidaily.com/d1114cdd62049ffd7653e7094748e36a17e96d607
 
  If you're a privacy-minded user, you should know [how to adjust various control options to protect your privacy](https://www.makeuseof.com/windows-11-privacy-options-explained/) in Windows 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Not Using Search Syntax While Searching Something in File Explorer
 
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
 
@@ -96,16 +96,12 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
@@ -116,6 +112,10 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 ## 7\. Not Taking Advantage of Customization Options in File Explorer
 
 ![Screenshot showing File Explorer Download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows is known for its customizations. You also get a ton of options in File Explorer that enable you to give it a unique touch and be more productive. You're not utilizing some of the handy File Explorer features if you're not customizing it.
 
@@ -139,20 +139,19 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-are-critiques-on-items-compensated-monetarily-for-2024/"><u>[Updated] Are Critiques on Items Compensated Monetarily for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-vsf-video-capture-insights-a-critical-look/"><u>[Updated] VSF Video Capture Insights A Critical Look</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-video-en-ligne-convertir-rmvb-en-mp4-gratuitement-a-laide-de-movavi/"><u>Conversion Vidéo en Ligne : Convertir RMVB en MP4 Gratuitement À L'aide De Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-phonelinkexes-purpose-and-safety-for-windows-users/"><u>Deciphering PhoneLinkExe's Purpose and Safety for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-live-streams-mastering-intels-command-center-gaming/"><u>Elevate Live Streams: Mastering Intel's Command Center Gaming</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-1011-unsigned-update-errors-quickly/"><u>Fixing Windows 10/11 Unsigned Update Errors Quickly</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-diagnose-and-repair-frequent-system-crashes-on-your-personal-computer/"><u>How to Diagnose and Repair Frequent System Crashes on Your Personal Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/is-it-lawful-to-screen-capture-youtube-content-in-2024/"><u>Is It Lawful to Screen-Capture YouTube Content, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-setup-of-ms-office-works-on-win-11/"><u>Seamless Setup of MS Office Works on Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-addressing-write-restricted-errors-in-windows-11/"><u>Strategies for Addressing Write-Restricted Errors in Windows 11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/successfully-initiated-win-graphics/"><u>Successfully Initiated Win Graphics</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-realme-narzo-60x-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Realme Narzo 60x 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-to-sticky-note-opening/"><u>The Insider's Guide to Sticky Note Opening</u></a></li>
-<li><a href="https://win11.techidaily.com/usb-wireless-mouse-unplugging-and-plugging-it-back-in-windows/"><u>USB Wireless Mouse - Unplugging and Plugging It Back In (Windows)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extended-review-uncomplicated-hdr-approach/"><u>[New] Extended Review Uncomplicated HDR Approach</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-next-gen-key-smartwatch-opens-your-mac/"><u>[New] Next-Gen Key Smartwatch Opens Your Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>[New] Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-art-of-changing-meeting-screens-on-microsoft-teams/"><u>[Updated] In 2024, The Art of Changing Meeting Screens on Microsoft Teams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-which-is-superior-for-screen-recording-obs-studio-or-fraps/"><u>2024 Approved Which Is Superior for Screen Recording – OBS Studio or Fraps?</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/5-fast-methods-to-build-a-booting-windows-11-usb-from-an-iso-file/"><u>5 Fast Methods to Build a Booting Windows 11 USB From an ISO File</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-screen-unresponsive-message-in-windows-1111/"><u>Fixing Screen Unresponsive Message in Windows 11/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/getting-started-with-the-9-inch-lenovo-nook-tablet-a-comprehensive-guide/"><u>Getting Started with the 9-Inch Lenovo Nook Tablet: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-disabling-laptops-hardware-keys-on-windows-pc/"><u>Guide: Disabling Laptop's Hardware Keys on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-mend-d3dx939dll-gap-on-windows-11/"><u>How to Mend D3DX9_39.dll Gap on Windows 11</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-organizing-epics-implementing-chapters-in-vimeo-media/"><u>In 2024, Organizing Epics Implementing Chapters in Vimeo Media</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-update-notifier-into-the-windows-ui-context-of-win11/"><u>Integrating Update Notifier Into the Windows UI Context of Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-non-operational-ccleaner-on-win11/"><u>Overhauling Non-Operational CCleaner on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-procedure-to-independently-update-windows/"><u>Stepwise Procedure to Independently Update Windows</u></a></li>
 </ul></div>
 

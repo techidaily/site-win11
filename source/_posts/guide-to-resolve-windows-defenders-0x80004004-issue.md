@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Windows Defender's 0X80004004 Issue
-date: 2025-01-17T23:18:51.063Z
-updated: 2025-01-19T00:40:09.529Z
+date: 2025-01-11T17:12:34.363Z
+updated: 2025-01-18T20:52:16.204Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Understanding the Problem Behind Error Code 0x80004004
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 * The error may prevent you from updating the Defender utility. If this happens, you are likely to face the error statement "Virus and spyware definitions couldn’t be updated", which can leave your system vulnerable to threats.
 * The real-time protection feature which monitors the files and processes to protect your system might fail to function.  
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
 
@@ -53,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
@@ -87,25 +83,29 @@ Here is how you can do that:
 
  Now that you've tried some specific fixes for this error, it's time to try some more general ways for fixing errors like this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Run the Windows Update Troubleshooter
 
  If you are encountering the error code while trying to update Microsoft Defender, then you can[run the Windows Update troubleshooter](https://www.makeuseof.com/fix-windows-update-error-0x800f080a/) to identify the culprit and fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Install the Update Manually
 
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
 
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
 
@@ -132,24 +132,24 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[New] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1725289937287-mp4avi/"><u>「MP4に簡単に変換できる無料AVIファイル方法」</u></a></li>
-<li><a href="https://win11.techidaily.com/5-ways-to-stop-infinite-data-depletion-in-windows/"><u>5 Ways to Stop Infinite Data Depletion in Windows</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/movaviaiffogg/"><u>使用Movavi免费在线将AIFF文件转换为OGG - 专业解决方案与详细指南</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-alternative-methods-in-windows-exploration-no-ls/"><u>Deciphering Alternative Methods in Windows Exploration (No LS)</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-clipboard-problems-in-windows-11/"><u>Diagnosing Clipboard Problems in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-runtime-broker-enhances-system-efficiency-and-security/"><u>How Runtime Broker Enhances System Efficiency & Security</u></a></li>
-<li><a href="https://win11.techidaily.com/implementing-individual-gpo-settings-for-windows-users-1111-edition/"><u>Implementing Individual GPO Settings for Windows Users 11/11 Edition</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-guide-for-audio-editors-using-garageband/"><u>In 2024, The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/locate-vanished-settings-a-guide-to-finding-them-on-win11/"><u>Locate Vanished Settings: A Guide to Finding Them on Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/msis-steam-deck-can-it-compete-and-thrive-in-the-competitive-world-of-portable-gaming-a-deep-dive/"><u>MSI's Steam Deck: Can It Compete and Thrive in the Competitive World of Portable Gaming? A Deep Dive</u></a></li>
-<li><a href="https://review-topics.techidaily.com/new-iphone-8-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 8 Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/optimal-mov-recording-settings-for-windows-11/"><u>Optimal MOV Recording Settings for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-0x80d03801-issue-in-windows-shop/"><u>Remedying 0X80D03801 Issue in Windows Shop</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-your-visuals-the-most-efficient-face-masking-apps-for-2024/"><u>Secure Your Visuals The Most Efficient Face-Masking Apps for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-memory-dump-files-in-windows-10/"><u>Step-by-Step Guide: Removing Memory Dump Files in Windows 10</u></a></li>
-<li><a href="https://win11.techidaily.com/sweeping-away-windows-access-errors-effectively/"><u>Sweeping Away Windows' Access Errors Effectively</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-unresponsive-windows-11-printer-ports-and-devices/"><u>Tackling Unresponsive Windows 11 Printer Ports & Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-how-to-add-music-to-vimeo-videos/"><u>[New] In 2024, How to Add Music to Vimeo Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tier-screen-capture-tools-for-windows-and-macos/"><u>[Updated] Top-Tier Screen Capture Tools for Windows & macOS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-master-the-art-of-steadiness-in-imaging/"><u>2024 Approved Master the Art of Steadiness in Imaging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-reducir-el-tamano-de-un-archivo-mov-sin-costo-con-nuestros-7-trucos-en-linea-mejores/"><u>Cómo Reducir El Tamaño De Un Archivo MOV Sin Costo Con Nuestros 7 Trucos en Línea Mejores</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-hardware-scan-tools/"><u>Critical Hardware Scan Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/digital-fortifications-essential-tactics-for-access-control/"><u>Digital Fortifications: Essential Tactics for Access Control</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-top-5-xbox-hdds-for-gamers-for-2024/"><u>Essential Top 5 Xbox HDDs for Gamers for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/free-online-conversion-changing-wav-files-into-swf-format-with-movavi/"><u>Free Online Conversion: Changing WAV Files Into SWF Format with Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-starting-with-hauls-a-step-by-step-editing-manual/"><u>In 2024, Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-top-ranked-independent-offline-mobile-gaming-android/"><u>In 2024, Top-Ranked Independent Offline Mobile Gaming (Android)</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-drive-labels-the-candd-dynamics/"><u>Interpreting Drive Labels: The C&D Dynamics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/level-up-your-gameplay-revolutionary-methods-to-tackle-high-ping-and-lag-in-chivalry-2-latest-techniques/"><u>Level Up Your Gameplay: Revolutionary Methods to Tackle High Ping & Lag in Chivalry 2 (Latest Techniques)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-photo-slideshows-and-spot-corrections-on-win11s-gallery/"><u>Mastering Photo Slideshows & Spot Corrections on Win11's Gallery</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-restricted-administrator-error-in-winsec/"><u>Overcoming Restricted Administrator Error in WinSec</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-code-4-spotify-error-on-w10w11-systems/"><u>Overcoming the Code 4 Spotify Error on W10/W11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-disregard-must-have-components-issue-in-win10win11/"><u>Quick Guide to Disregard Must-Have Components Issue in Win10/Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-the-way-you-use-windows-11s-search-feature/"><u>Transforming the Way You Use Windows 11'S Search Feature</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-iphones-customization-altering-ringtone-sounds/"><u>Unleashing iPhone's Customization Altering Ringtone Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-and-ad-ds-strategies-for-printer-troubleshooting/"><u>Win11 & AD DS: Strategies for Printer Troubleshooting</u></a></li>
 </ul></div>
 

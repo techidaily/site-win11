@@ -1,7 +1,7 @@
 ---
 title: "Navigate Through Error Code 31: Restoring Your Internet Connection"
-date: 2025-01-11T18:45:07.626Z
-updated: 2025-01-18T22:35:09.281Z
+date: 2025-01-12T19:46:32.229Z
+updated: 2025-01-18T16:29:32.981Z
 tags:
   - windows10
   - windows11
@@ -53,7 +53,7 @@ To perform a network driver rollback:
 8. Once the driver rollback is complete, check if the problem is resolved. If not, check if you can perform another rollback for the network device driver to see if that helps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Network Reset
@@ -71,7 +71,7 @@ To perform a network reset:
  Click on**Reset now** and click**Yes** to rest your network settings.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
@@ -80,6 +80,10 @@ To perform a network reset:
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
 ![delete config value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/delete-config-value-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On an older Windows Vista or XP computer, you can resolve the issue by tweaking a registry entry. You need to delete a corrupt config key in Registry Editor and then uninstall the device from Device Manager to fix the error.
 
@@ -98,7 +102,7 @@ To perform a network reset:
  Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall Your Network Adapter Driver
@@ -112,23 +116,15 @@ To perform a network reset:
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
 
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Perform a System Restore
 
@@ -141,6 +137,10 @@ To perform a restore point:
 3. In the**System Protection** dialog, click the**System Restore** button.  
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
 4. In the**System Restore** dialog, click**Next** to view all the available restore points. Additionally, check the**Show more restore points** option to view older restore points.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Select the most recent restore point and click**Next** .  
 ![system properties system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-properties-system-restore.jpg)
@@ -168,24 +168,20 @@ To perform a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-beyondonecam-testing-are-there-better-options-for-2024/"><u>[New] BeyondOneCam Testing Are There Better Options for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-veiled-glance-at-digital-diary-fb-for-2024/"><u>[New] Veiled Glance at Digital Diary (FB) for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[Updated] How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-whirling-installer-range/"><u>2024 Approved Whirling Installer Range</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo F23 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/company-ekwb-faces-backlash-offers-public-remorse-over-payment-delays-vows-reform/"><u>Company EKWB Faces Backlash; Offers Public Remorse Over Payment Delays, Vows Reform</u></a></li>
-<li><a href="https://win11.techidaily.com/condensed-explore-streamline-your-file-explorer-layout/"><u>Condensed Explore: Streamline Your File Explorer Layout</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/initiating-powershell-as-admin-in-windows-11-operating-system/"><u>Initiating PowerShell as Admin in Windows 11 Operating System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-terminal-tricks-for-accessing-concealed-files-easily/"><u>MacOS Terminal Tricks for Accessing Concealed Files Easily</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-your-files-like-a-pro-with-win-11s-auto-transfer/"><u>Navigate Your Files Like a Pro with Win 11’S Auto-Transfer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-file-consolidation-feature/"><u>Overcoming Disabled File Consolidation Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-reestablish-xbox-mic-connection-on-windows-11/"><u>Steps to Reestablish Xbox Mic Connection on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-manage-non-microsoft-app-verification-in-windows/"><u>Strategies to Manage Non-Microsoft App Verification in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/sudo-and-windows-a-symbiotic-relationship-unveiled/"><u>Sudo and Windows: A Symbiotic Relationship Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-navigate-win11s-bluescreen-by-adopting-these-tips/"><u>Swiftly Navigate Win11's Bluescreen by Adopting These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/the-5-steps-to-access-windows-startup-zone/"><u>The 5 Steps to Access Windows Startup Zone</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-power-of-advanced-taskbar-options-in-windows-11-ui/"><u>Unlocking the Power of Advanced Taskbar Options in Windows 11 UI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-30-pathways-to-unique-metaverse-meme-production/"><u>[New] 30 Pathways to Unique Metaverse Meme Production</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-calculating-the-sequence-length-of-a-20mb-file/"><u>[New] Calculating the Sequence Length of a 20MB File</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-maximize-zooms-value-triad-of-conversion-mastery/"><u>[New] In 2024, Maximize Zoom's Value Triad of Conversion Mastery</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-ranking-of-free-accurate-srt-translators/"><u>[Updated] 2024 Approved The Ultimate Ranking of Free, Accurate SRT Translators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-transforming-mobile-devices-into-business-and-personal-video-platforms/"><u>[Updated] 2024 Approved Transforming Mobile Devices Into Business & Personal Video Platforms</u></a></li>
+<li><a href="https://win11.techidaily.com/advancing-windows-experience-the-significance-of-16gb-ram/"><u>Advancing Windows Experience: The Significance of 16GB RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/biometric-management-for-windows-11-domain-based/"><u>Biometric Management for Windows 11, Domain-Based</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-geforce-gtx-460-drivers-on-windows/"><u>Easy Installation Guide: GeForce GTX 460 Drivers on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-prohibited-application-red-flag-in-windows/"><u>Fixing the Prohibited Application Red Flag in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account On iPhone 15 Pro?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-tactics-for-spotify-ad-mastery/"><u>In 2024, Innovative Tactics for Spotify Ad Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-resolution-of-windows-activation-flaw-0x803f700f/"><u>Mastering the Resolution of Windows Activation Flaw 0X803F700f</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-device-engagement-in-power-save-mode/"><u>Maximizing Device Engagement in Power Save Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-error-xc0000142-in-microsoft-oses/"><u>Remedying Error XC0000142 in Microsoft OSes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-directx-device-creation-issues-step-by-step-guide/"><u>Resolving DirectX Device Creation Issues: Step-by-Step Guide</u></a></li>
 </ul></div>
 

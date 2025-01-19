@@ -1,7 +1,7 @@
 ---
 title: "Lockout Logic: How to Swiftly Disable a Win11 User Account"
-date: 2025-01-16T16:52:17.283Z
-updated: 2025-01-18T21:32:29.294Z
+date: 2025-01-15T19:13:45.257Z
+updated: 2025-01-19T09:22:24.954Z
 tags:
   - windows10
   - windows11
@@ -40,10 +40,6 @@ To disable user accounts via Settings:
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![windows 11 settings account family allow sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-allow-sign-in-1.jpg)
 6. If you need to enable the user account again, click the**Allow sign in** button and click**Allow** to confirm the action.
 
@@ -61,10 +57,6 @@ To disable a user account using PowerShell:
 ![powerhsell user account list view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-list-view.jpg)
 4. Next, type the following command to find all the user accounts on your PC:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `Get-LocalUser`
 5. Locate the user account name in the**Name** column.
 
@@ -78,6 +70,10 @@ To disable a user account using PowerShell:
 5. In the above command replace NewUser with your user account name.
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -94,17 +90,13 @@ To disable a user account using Command Prompt:
 5. Next, type the following command to disable the specified user account:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
@@ -124,12 +116,20 @@ To disable a user account using Command Prompt:
 ![computer management local users groups users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users.jpg)
 4. Next, locate and select**Local Users and Groups.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Users** folder**.**
 
 1. In the right pane, you can view all the user accounts on your PC.
 2. To disable a user account, right-click on the**User Account Name** and select**Properties** .  
 ![computer management local users groups users account is disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/computer-managemnet-local-users-groups-users-account-is-disabled.jpg)
 3. In the**Properties** dialog, select the**Account is disabled** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click**Apply** and**OK** to save the changes.
 5. To enable the account gain, uncheck the**Account is disabled** option and click**Apply** and**OK** .
@@ -146,16 +146,16 @@ To disable a user account using Command Prompt:
 ![run lusrmgr exe file edit account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account.jpg)
 4. Next, open the**Account** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
@@ -179,19 +179,21 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-game-on-with-more-space-topping-10-hddssds-for-2024/"><u>[New] Game On with More Space Topping 10 HDD/SSDs for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sound-waves-instagrams-musical-blueprint/"><u>[New] In 2024, Sound Waves Instagram's Musical Blueprint</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[Updated] 2024 Approved Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[Updated] Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
-<li><a href="https://win11.techidaily.com/conquer-win-11-challenges-the-seamless-gameplay-upgrade-plan-of-7-steps/"><u>Conquer Win 11 Challenges: The Seamless Gameplay Upgrade Plan of 7 Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/dive-deep-into-wintoys-the-essential-walkthrough-for-windows-users/"><u>Dive Deep Into 'WinToys': The Essential Walkthrough for Windows Users</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-ryzen-amoledcameoimagesfavicon-32x32-precomposedpngryzen52400g-drivers-now/"><u>Download Ryzen amoled_cameo/images/favicon-32x32-precomposed.pngryzen5_2400g Drivers Now!</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-guide-fixing-non-operational-mailcalender-in-w11/"><u>Essential Guide: Fixing Non-Operational Mail/Calender in W11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-forex-top-3-entry-level-strategies-guaranteed-to-earn-on-mt4/"><u>Mastering Forex: Top 3 Entry-Level Strategies Guaranteed to Earn on MT4</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-10-top-rated-music-video-makers/"><u>New In 2024, Unleash Your Creativity 10 Top-Rated Music Video Makers</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-installation-access-issues-on-windows-1011/"><u>Overcoming Installation Access Issues on Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-recalibrating-windows-energy-mode/"><u>Tips for Recalibrating Windows Energy Mode</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-phantom-v-flip-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Phantom V Flip Device</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-art-of-steady-selfies-and-photos/"><u>[New] 2024 Approved The Art of Steady Selfies & Photos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-turbo-charge-your-playlist-exposure-youtube-style/"><u>[New] 2024 Approved Turbo-Charge Your Playlist Exposure, YouTube Style</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>[New] In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-pushing-the-boundaries-animated-fb-ads-that-increase-return-on-investment-for-2024/"><u>[Updated] Pushing the Boundaries Animated FB Ads That Increase Return on Investment for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-drafting-a-powerful-post-for-online-fundraising/"><u>2024 Approved Drafting a Powerful Post for Online Fundraising</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-masterclass-uploading-without-complications-on-social-media/"><u>2024 Approved Masterclass Uploading Without Complications on Social Media</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-static-speakers-after-disabling-default-sounds/"><u>Fix Static Speakers After Disabling Default Sounds</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mcuicntexe-entry-point-not-found-error-on-windows/"><u>How to Fix the “McUICnt.exe Entry Point Not Found” Error on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/key-steps-for-efficiently-engaging-recovery-tool/"><u>Key Steps for Efficiently Engaging Recovery Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-strategies-for-windows-11-cc-issues/"><u>Quick-Fix Strategies for Windows 11 CC Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/quicker-battlenet-file-syncing-on-windows-devices/"><u>Quicker Battle.net File Syncing on Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/refinement-of-visuals-windows-11-dpi-tweaks/"><u>Refinement of Visuals: Windows 11 DPI Tweaks</u></a></li>
+<li><a href="https://win-latest.techidaily.com/streaming-battle-royale-analyzing-deezers-edge-over-spotify-in-the-digital-age/"><u>Streaming Battle Royale: Analyzing Deezer's Edge Over Spotify in the Digital Age</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/supreme-creation-studio-test/"><u>Supreme Creation Studio Test</u></a></li>
+<li><a href="https://win11.techidaily.com/uncluttered-windows-desktop-at-a-glance/"><u>Uncluttered Windows Desktop at a Glance</u></a></li>
 </ul></div>
 

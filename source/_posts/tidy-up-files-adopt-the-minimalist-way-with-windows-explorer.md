@@ -1,7 +1,7 @@
 ---
 title: "Tidy Up Files: Adopt the Minimalist Way with Windows Explorer"
-date: 2024-08-16T00:46:54.693Z
-updated: 2024-08-17T00:46:54.693Z
+date: 2025-01-16T03:46:46.674Z
+updated: 2025-01-18T19:36:54.714Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
  So, we'll share three ways you can enable the compact view in File Explorer on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
  That's it. You might need to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
  If the compact view option is missing in the command bar, you can use Folder options to get the work done. There are [multiple ways to open the Folder option](https://www.makeuseof.com/windows-10-open-folder-options/), but the quickest is to use the Run dialog box.
@@ -46,29 +51,28 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
  and click **OK** to launch the Folder option.
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that, you should have less space between your files in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
 
@@ -82,23 +86,17 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 5. Search for and double-click on the **UseCompactMode** entry in the right pane.
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Change the File Explorer Look Anytime
 
  The new revamped File Explorer is good, but many users still prefer the old layout with less padding. If you want to remove extra spacing between items in File Explorer, you can enable the compact view option using either of the above methods.
 
  Meanwhile, you might be interested in adding Google Drive to File Explorer.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +105,23 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-artisans-choice-a-curated-list-of-the-8-premier-drawing-apps-for-iphones/"><u>[Updated] 2024 Approved The Artisan’s Choice A Curated List of the 8 Premier Drawing Apps for iPhones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-traffic-on-youtube-mastering-the-art-of-video-outros/"><u>[Updated] In 2024, Boosting Traffic on YouTube Mastering the Art of Video Outros</u></a></li>
+<li><a href="https://win11.techidaily.com/breakthrough-restore-microsofts-pc-manager-on-win/"><u>Breakthrough: Restore Microsoft's PC Manager on Win</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-into-windows-11-a-guide-to-taskbar-search-functionality/"><u>Dive Into Windows 11: A Guide to Taskbar Search Functionality</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/editmaster-insights-extensive-coverage/"><u>EditMaster Insights – Extensive Coverage</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-handle-printmanagement-service-failure/"><u>Essential Tips to Handle 'PrintManagement' Service Failure</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-troubleshoot-common-issues-with-closed-captioning-in-windows-11/"><u>How to Troubleshoot Common Issues with Closed Captioning in Windows 11</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-guide-setting-up-your-pc-as-a-dlna-media-streamer-on-windows-11/"><u>How-To Guide: Setting Up Your PC as a DLNA Media Streamer on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-widget-integration-into-windows-11/"><u>Mastering the Art of Widget Integration Into Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/moving-between-streaming-giants-transferring-playlists-from-apple-music-to-youtube-music-and-back/"><u>Moving Between Streaming Giants: Transferring Playlists From Apple Music to YouTube Music and Back</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-network-barriers-reviving-spotify-streams/"><u>Overcoming Network Barriers: Reviving Spotify Streams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/seamless-solutions-resolving-imessage-disruptions-on-your-ios-gadgets/"><u>Seamless Solutions: Resolving iMessage Disruptions on Your iOS Gadgets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/splash-to-fame-surfers-choice-camera-picks-2e3/"><u>Splash to Fame Surfer's Choice Camera Picks (2E3)</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-stopping-bsod-from-vmware-on-windows-11/"><u>Strategies for Stopping BSOD From VMware on Windows 11</u></a></li>
+<li><a href="https://solve-info.techidaily.com/techniques-faciles-a-succes-pour-sauvegarder-vos-contacts-de-mail-sur-tous-les-plateformes-dont-outlook-and-gmail/"><u>Techniques Faciles À Succès Pour Sauvegarder Vos Contacts D'E-Mail Sur Tous Les Plateformes, Dont Outlook & Gmail</u></a></li>
+</ul></div>
 

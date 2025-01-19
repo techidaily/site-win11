@@ -1,7 +1,7 @@
 ---
 title: "Reinforcing Windows Safety: Expanding Context Menu with Firewall Filters"
-date: 2025-01-14T22:06:58.375Z
-updated: 2025-01-18T23:40:21.830Z
+date: 2025-01-16T17:12:47.612Z
+updated: 2025-01-19T03:09:06.173Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Firewall Block Options With OneClickFirewall
 
  OneClickFirewall is a freely available software that adds a couple of firewall context menu options. One is a**Block Internet Access** option that establishes a rule blocking the right-clicked program. The other option removes the rule when selected. This is how you can add those firewall block options to the context menu with OneClickFirewall.
@@ -36,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extract-all-option2.jpg)
 5. Bring up the extracted OneClickFirewall folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select the**OneClickFirewall-1.0.0.2.exe** to bring up its setup wizard.  
 ![The OneClickFirewall setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/oneclickfirewall-window.jpg)
 7. Click**Next** \>**Install** to add new firewall options to the context menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Select**Finish** to exit the OneClickFirewall wizard.
 
@@ -53,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 ![Outbound rules in the Windows Defender With Advanced Security app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/outbound-rules.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can remove the outbound rule by right-clicking it in the Windows Defender Firewall window and selecting**Disable Rule** . However, now you can also remove the rule via Explorer’s context menu.
@@ -76,23 +80,19 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 7. Select the**Add Right Click Menu** option, and click**OK** on the dialog box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now it’s time to check out the new**Tweaking - Windows Firewal** l submenu on the context menu. Right-click any software to apply a firewall block and select Show more options. Move the cursor over the**Tweaking – Allow in Windows Firewall** submenu. Selecting**Block in Windows Firewall** will apply an outbound rule in the Windows Defender Firewall app the same as OneClickFirewall.
 
 ![The Tweaking.com - Windows Firewall submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/tweaking-com-windows-firewall-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can remove the Tweaking firewall context menu options within the window you selected to add them. Double-click**Right\_Click\_Options.exe** again to view that window. Then select the**Remove Right Click Menu** option there.
 
  You’ll also need to restart File Explorer for the change to take effect. To do this, perform one of the many[ways to open the Task Manager on Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and select its**Processes** tab. Right-click the Windows Explorer process and select**Restart** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apply Firewall Blocks to Software via the Context Menu
@@ -116,19 +116,20 @@ thumbnail: https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-find-your-way-the-insider-guide-to-youtube-video-management-hub-for-2024/"><u>[New] Find Your Way The Insider Guide to YouTube Video Management Hub for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-snapchat-like-stories-adding-movement-to-instagram-texts/"><u>[New] Snapchat-Like Stories Adding Movement to Instagram Texts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-audiophiles-choice-premium-asmr-recording-mics/"><u>[Updated] In 2024, Audiophiles' Choice Premium ASMR Recording Mics</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlock-free-power-learn-to-edit-videos-on-vimeo/"><u>[Updated] Unlock FREE Power Learn to Edit Videos on Vimeo</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-windows-generic-device-halt-a-guide/"><u>Bypassing Windows Generic Device Halt: A Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/creating-a-personalized-windows-speech-to-text-app-using-whisper-and-ahk/"><u>Creating a Personalized Windows Speech-to-Text App Using Whisper & AHK</u></a></li>
-<li><a href="https://win11.techidaily.com/managing-disk-space-wisely-recognizing-huge-file-and-folder-use/"><u>Managing Disk Space Wisely: Recognizing Huge File & Folder Use</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/no-budget-no-problem-free-animation-software-for-windows-and-mac/"><u>No Budget? No Problem! Free Animation Software for Windows and Mac</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-k11-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo K11 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-weather-software-for-w10w11-pcs/"><u>Prime Weather Software for W10/W11 PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-tricks-to-accelerate-a-slow-online-connection/"><u>Quick Tricks to Accelerate a Slow Online Connection</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-changing-landscape-of-online-multiplay-games/"><u>The Changing Landscape of Online Multiplay Games</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unleashing-graphic-power-step-by-step-tutorial-on-gpu-overclocking-for-novices/"><u>Unleashing Graphic Power: Step-by-Step Tutorial on GPU Overclocking for Novices</u></a></li>
-<li><a href="https://win11.techidaily.com/winx-fix-guide-for-geforce-xs-cant-retrieve-settings/"><u>WinX Fix Guide for GeForce X's Can’t Retrieve Settings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-building-applications-with-azure-speech-to-text-for-2024/"><u>[New] Building Applications with Azure Speech to Text for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-snapchat-for-income-for-2024/"><u>[New] Leveraging Snapchat for Income for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-meizu-21-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Meizu 21 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/beginners-blueprint-to-victory-in-original-diablo/"><u>Beginner’s Blueprint to Victory in Original Diablo</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-safety-measures-include-trusted-sites-on-windows-11/"><u>Boost Safety Measures: Include Trusted Sites on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/explore-versatility-the-best-10-uses-for-windows-powertoys-tools/"><u>Explore Versatility: The Best 10 Uses for Windows PowerToys Tools</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-scanjet-driver-updates-available-install-now-for-enhanced-performance-on-windows-systems/"><u>HP Scanjet Driver Updates Available - Install Now for Enhanced Performance on Windows Systems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-combating-content-id-blocks-on-youtube-with-knowledge/"><u>In 2024, Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-realme-c55-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme C55 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-photo-viewer-a-step-by-step-guide-for-11-users/"><u>Reviving Windows Photo Viewer: A Step-by-Step Guide for 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-beast-high-cpu-usage-in-setups/"><u>Taming the Beast: High CPU Usage in Setups</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essence-of-version-numbering-in-windows/"><u>The Essence of Version Numbering in Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-techniques-for-expert-use-of-anthropics-new-claude-3-prompt-engine/"><u>Tips and Techniques for Expert Use of Anthropic's New Claude 3 Prompt Engine</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y56-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y56 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/uniting-android-and-windows-11-with-webcam-capabilities/"><u>Uniting Android and Windows 11 with Webcam Capabilities</u></a></li>
 </ul></div>
 

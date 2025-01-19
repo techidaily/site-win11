@@ -1,7 +1,7 @@
 ---
 title: "Conquering Multiple Mail Systems: Merge Gmail and Outlook, Windows"
-date: 2024-08-16T00:47:07.058Z
-updated: 2024-08-17T00:47:07.058Z
+date: 2025-01-17T16:30:35.349Z
+updated: 2025-01-19T06:03:08.004Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
  More importantly, it supports an improved Gmail integration that allows users to directly access their email, contacts, and calendar through the Outlook for Windows preview app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Outlook for Windows Preview App
 
  Before we get Gmail accounts into Outlook, we need to get the preview version of the app. The Outlook for Window preview app is available to users who have signed up for the Microsoft 365 Insider (formerly Office Insider) program. The latest version of Outlook aims to help users work more efficiently through a rich design and many new features.
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -43,47 +48,42 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
 
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
 ![outlook prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The New Outlook App Is Getting Better
 
  Millions of users have trusted Microsoft Outlook for over two decades, and to ensure its continuity, Microsoft has completely revamped the desktop Outlook experience for the better. Outlook is on its way to being a reliable desktop companion for the next generation of its users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -92,4 +92,26 @@ thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-elevating-vision-a-compre-written-by-jovita-lara-msn-student-arizona-state-university-for-2024/"><u>[Updated] Elevating Vision A Compre Written By Jovita Lara, MSN Student (Arizona State University) for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-premier-selection-of-apple-watch-bands-thoroughly-tested-and-analyzed-techsavvyreview/"><u>2024'S Premier Selection of Apple Watch Bands: Thoroughly Tested and Analyzed | TechSavvyReview</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-note-taking-software-the-winning-seven/"><u>Essential Note-Taking Software: The Winning Seven</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits-for-2024/"><u>From Basics to Brilliance The Ultimate Guide to HDR Portraits for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-straighten-out-window-corners/"><u>How to Straighten Out Window Corners</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-11-calendar-a-step-by-step-guide/"><u>Mastering Windows 11 Calendar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-nuances-of-winstall-for-grouped-windows-11-installs/"><u>Navigate the Nuances of Winstall for Grouped Windows 11 Installs</u></a></li>
+<li><a href="https://win11.techidaily.com/pivot-to-new-life-for-your-outdated-tech-without-windows/"><u>Pivot to New Life for Your Outdated Tech Without Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-guide-capturing-your-ppt-slide-show-for-2024/"><u>Quick Guide Capturing Your PPT Slide Show for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/snap-edit-and-assemble-a-rapid-google-collage-how-to-for-2024/"><u>Snap, Edit & Assemble A Rapid Google Collage How-To for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-notes-with-obsidians-visual-approach/"><u>Streamlining Notes with Obsidian's Visual Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-checks-a-guide-for-updating-context-menus/"><u>Streamlining System Checks: A Guide for Updating Context Menus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/superior-websites-promoting-youtube-media-for-2024/"><u>Superior Websites Promoting YouTube Media for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-file-sync-in-multiple-windows-systems-using-aoemi/"><u>The Essential Guide to File Sync in Multiple Windows Systems Using AOEMi</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-guide-to-the-most-reliable-mac-recorders-for-2024/"><u>The Ultimate Guide to the Most Reliable Mac Recorders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tidy-up-your-pictures-top-10-online-unblur-tools-for-2024/"><u>Tidy Up Your Pictures Top 10 Online Unblur Tools for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-guide-resolving-multiple-irp-completion-requests-causing-blue-screen-of-death-bsod/"><u>Troubleshooting Guide: Resolving Multiple IRP Completion Requests Causing Blue Screen of Death (BSoD)</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-rdp-access-quickly-in-the-latest-windows/"><u>Unlock RDP Access Quickly in the Latest Windows</u></a></li>
+</ul></div>
 

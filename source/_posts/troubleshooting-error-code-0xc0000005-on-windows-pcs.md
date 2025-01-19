@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error Code 0xC0000005 on Windows PCs
-date: 2024-08-16T00:43:22.296Z
-updated: 2024-08-17T00:43:22.296Z
+date: 2025-01-12T19:55:45.594Z
+updated: 2025-01-19T08:20:05.265Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6644f0a2d74892fa3a39d2d46d9f44395a7ca3377
 
  We have rounded up a variety of methods you can try your luck with. Let's look at how you can fix the error Code 0xc0000005 on Windows for good.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Deactivate Data Execution Prevention (DEP)
 
 [Data Execution Prevention](https://www.makeuseof.com/data-execution-prevention-explained/) is a security feature on Windows that prevents damage to your PC from malware and other malicious attacks on your PC. It does this by blocking out specific memory regions so that code cannot be executed from those locations, which in the absence of DEP, would be used for buffer attacks.
@@ -36,14 +40,14 @@ bcdedit.exe /set {current} nx AlwaysOff
 
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 2\. Check Your App's and PC Version and Compatibility
 
  One of the more common reasons for getting hit with the 0xc0000005 error is when your computer cannot process the files or settings necessary to your PC. While the causes of this can vary, a common one is that you've been using an outdated version of the app.
@@ -64,15 +68,17 @@ Similarly, to check the app's version, follow the steps below:
 * If it's a Microsoft app, click on the Settings option (three dots) next to it and select**Advanced options** .
 
 ![installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/installed-apps.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now check if the app and your operating system are compatible with each other.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Apply Some Generic Fixes for Fixing Errors on Windows
 
  While the methods we have discussed have targeted the error code 0xc0000005 in particular, there are some quick fixes that come recommended for pretty much all Windows errors. Note that it's not the case that these solutions are bound to fix any particular error you are facing at a point in time, but if you have tried all the different methods from above, then the below methods are definitely worth a go.
@@ -87,24 +93,20 @@ Let's go over all of them one by one.
 6. [Perform a Factory Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) : A Factory reset is, as I sometimes like to call it, the "all pulverizer" all Windows problems. It removes your operating system and reinstalls it so you can start again with a clean slate. It's a drastic measure, but sometimes it's the only way to get a Windows error fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixing the Error Code 0xc0000005 on a Windows PC
 
  Like most abrupt Windows errors, the 0xc0000005 error code can cause a sharp break in your workflow. Hopefully, using one of the methods from above, you managed to get rid of the Windows error for good.
 
  However, it's a fact that Windows gets plagued by many such simple errors from time to time, that more often than not, can be fixed with little to no effort. So, make sure you keep tabs on all such errors, along with their solutions.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +115,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-navigating-through-your-new-m1-max-clip-world/"><u>[New] Navigating Through Your New M1 Max Clip World</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-download-instagram-highlights-in-2-ways/"><u>[Updated] In 2024, How to Download Instagram Highlights in 2 Ways?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-conquerors-of-the-past-the-prime-7-battle-simulations/"><u>2024 Approved Conquerors of the Past The Prime 7 Battle Simulations</u></a></li>
+<li><a href="https://win11.techidaily.com/accelerating-workflow-microsofts-innovative-ai-integration-for-windows-11-taskbar/"><u>Accelerating Workflow: Microsoft's Innovative AI Integration for Windows 11 Taskbar</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-performance-boosting-your-site-with-smart-analytics/"><u>Cookiebot-Driven Performance: Boosting Your Site with Smart Analytics</u></a></li>
+<li><a href="https://win11.techidaily.com/from-windows-to-kali-an-installation-journey/"><u>From Windows to Kali: An Installation Journey</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/optimal-upgrades-techniques-for-ensuring-optional-components-on-windows-os/"><u>Optimal Upgrades: Techniques for Ensuring Optional Components on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-your-command-prompt-experience-win11/"><u>Resetting Your Command Prompt Experience (Win11)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/unleash-your-creativity-a-beginners-guide-to-online-video-editing-for-2024/"><u>Unleash Your Creativity A Beginners Guide to Online Video Editing for 2024</u></a></li>
+</ul></div>
 

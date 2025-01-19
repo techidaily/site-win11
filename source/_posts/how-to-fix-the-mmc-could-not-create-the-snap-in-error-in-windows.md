@@ -1,7 +1,7 @@
 ---
 title: How to Fix the MMC Could Not Create the Snap-In Error in Windows
-date: 2025-01-14T16:12:37.037Z
-updated: 2025-01-19T00:32:22.683Z
+date: 2025-01-14T16:52:49.503Z
+updated: 2025-01-19T05:01:45.487Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Fix the Broken Registry Configuration for the Snap-In
 
 ![delete-registry-key-mmc-snap-in-windows-registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-registry-key-mmc-snap-in-windows-registry.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the registry configuration for the affected snap-in is broken, it may trigger the "MMC could not create the snap-in" error. To fix the issue, you’ll need to delete the corrupt registry entry associated with the snap-in. Here’s how to do it.
 
@@ -50,13 +50,13 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also fix this error by enabling .NET Framework 3.5\. The idea is that one of the snap-ins on your PC may need .NET Framework 3.5 to work. So, if the feature is disabled, you may encounter an error.
 
@@ -71,12 +71,16 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -137,22 +137,24 @@ thumbnail: https://thmb.techidaily.com/db39cf974b891a971b269fa1b5c545ac5598c4412
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/updated-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas/"><u>[Updated] Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-erasing-your-instagram-identity-step-by-step-guidebook-for-2024/"><u>[Updated] Erasing Your Instagram Identity Step-by-Step Guidebook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/charge-all-your-gadgets-on-the-go-with-this-140w-multi-device-companion-lasts-until-next-charge/"><u>Charge All Your Gadgets on the Go with This 140W Multi-Device Companion - Lasts Until Next Charge</u></a></li>
-<li><a href="https://win11.techidaily.com/expensive-shortcuts-why-skimping-on-windows-auth-keys-is-not-ideal/"><u>Expensive Shortcuts: Why Skimping on Windows Auth Keys Is Not Ideal</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-planning-superior-dietary-choices/"><u>GPT: Planning Superior Dietary Choices</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-safeguard-your-data-avoiding-privacy-risks-with-chatgpt/"><u>How to Safeguard Your Data: Avoiding Privacy Risks with ChatGPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/instagrams-role-in-distributing-your-podcast-episodes/"><u>Instagram's Role in Distributing Your Podcast Episodes</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-macos-security-effective-strategies-for-retrieve-keystore-passwords-cybersolutions-blog/"><u>Mastering macOS Security: Effective Strategies for Retrieve Keystore Passwords | CyberSolutions Blog</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-ram-identification-on-your-computer-system/"><u>Mastering RAM Identification on Your Computer System</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-semaphore-fix-overcome-timer-expiry-on-windows/"><u>Mastering Semaphore Fix: Overcome Timer Expiry on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/powering-your-projects-github-desktop-tips-for-windows-enthusiasts/"><u>Powering Your Projects: GitHub Desktop Tips for Windows Enthusiasts</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-wmp-server-execution-failed/"><u>Strategies for WMP 'Server Execution Failed'</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-workflow-with-uwp-app-shortcuts-in-windows-11/"><u>Streamlining Workflow with UWP App Shortcuts in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-missing-bluetooth-on-device-hub-win/"><u>Uncover Missing Bluetooth on Device Hub WIN</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11s-new-ui-elements-widgets-explored/"><u>Windows 11'S New UI Elements - Widgets Explored</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sound-recorder-quality-overview/"><u>[Updated] 2024 Approved Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-transforming-your-footage-into-shareable-youtube-stories/"><u>[Updated] Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/15-best-luts-to-enhance-gopro-action-camera-footage-for-2024/"><u>15 Best LUTs To Enhance GoPro Action Camera Footage for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/activating-windows-11-writable-driver-verifier/"><u>Activating Windows 11' Writable Driver Verifier</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-14-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 14 - 4 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-vpn-network-disconnection-on-a-remote-work-pc/"><u>Fixing VPN Network Disconnection on a Remote Work PC</u></a></li>
+<li><a href="https://win11.techidaily.com/from-iphone-to-desktop-syncing-ios-calendar-with-windows-1011/"><u>From iPhone to Desktop: Syncing iOS Calendar with Windows 10/11</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/high-resolution-toucan-wallpaper-downloads-stunning-hd-backgrounds-and-imagery-by-yl-computing/"><u>High-Resolution Toucan Wallpaper Downloads: Stunning HD Backgrounds & Imagery by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-11-and-11-desktop-context-menu-not-working/"><u>How to Fix the Windows 11 & 11 Desktop Context Menu Not Working</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-detailed-review-optimal-screen-recorders-for-live-broadcasts/"><u>In 2024, Detailed Review Optimal Screen Recorders for Live Broadcasts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-accelerate-your-videos-top-10-free-speed-changer-apps-for-ios-and-android/"><u>New Accelerate Your Videos Top 10 Free Speed Changer Apps for iOS and Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/professional-insights-enhancing-digital-videos-and-photos-online/"><u>Professional Insights Enhancing Digital Videos & Photos Online</u></a></li>
+<li><a href="https://win11.techidaily.com/separate-onedrive-and-microsoft-accounts-on-desktop-windows/"><u>Separate OneDrive & Microsoft Accounts on Desktop Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-troubleshooting-xbox-audio-failures-in-pcs/"><u>Steps for Troubleshooting Xbox Audio Failures in PCs</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/streamline-your-mixes-a-curated-list-of-the-top-5-dynamic-audio-ducking-tools-for-producers-for-2024/"><u>Streamline Your Mixes A Curated List of the Top 5 Dynamic Audio Ducking Tools for Producers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-supercharge-video-memory-on-windows-devices/"><u>Tips to Supercharge Video Memory on Windows Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-xiaomi-redmi-note-12-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Xiaomi Redmi Note 12 Pro 5G Phone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-remedying-windows-11-app-error-afc/"><u>Understanding and Remedying Windows 11 APP Error AFC</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-eliminate-auto-change-backgrounds/"><u>Windows 11: Eliminate Auto-Change Backgrounds</u></a></li>
 </ul></div>
 

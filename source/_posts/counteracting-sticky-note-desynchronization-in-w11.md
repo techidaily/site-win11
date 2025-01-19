@@ -1,7 +1,7 @@
 ---
 title: Counteracting Sticky Note Desynchronization in W11
-date: 2024-08-16T00:43:24.472Z
-updated: 2024-08-17T00:43:24.472Z
+date: 2025-01-15T20:04:23.709Z
+updated: 2025-01-18T23:23:42.061Z
 tags:
   - windows10
   - windows11
@@ -38,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 5. Press **Win + S** to open Windows Search. Type Sticky Notes and press the **Enter** key to relaunch the app.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Perform a Complete Shutdown
 
  Modern versions of Windows OS use [Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) which hibernates kernel-level processes and aids the PC to boot up quickly. But if these processes glitch, you can face issues with apps and services.
@@ -52,10 +53,12 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 2. The User Account Control window will launch. Click on the **Yes** button to open Command Prompt.
 3. Now, type the following command and press the **Enter** key to execute it: **shutdown /s /f /t 0**  
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Your PC will take slightly longer than usual to shut down.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Power on your PC and log in. Check if the Sticky Notes app and its sync feature work properly or not.
 
  If the app now works fine, check out [what Fast Startup is and how to disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) so you can turn it off.
@@ -73,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 6. Select the Microsoft account you use on your PC and click on the **Continue** button.  
 ![Sign Out and Sign In Again 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, make changes to any note in the app and check if the sync issues persist or not.
 
 ## 5\. Allow Sticky Notes Through the Windows Firewall
@@ -84,11 +91,17 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 3. Click on the **Change settings** button.
 4. Locate the Microsoft Sticky Notes entry in the list. **Click** on both the **checkboxes** under the **Public** and Private columns.  
 ![Allow Sticky Notes in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-sticky-notes-in-the-windows-firewall.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 5. Lastly, click on the **OK** button to apply the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. **Close** the Control Panel window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Manually Sync Your Sticky Notes
 
@@ -98,10 +111,11 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 2. Scroll down to the **Help and feedback** section.
 3. Click on the **Sync now** button.  
 ![Manually Sync the Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-sync-the-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 4. Check if the notes sync and are available on another device or by opening the Outlook account in the web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Update Sticky Notes
 
@@ -122,19 +136,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 2. Click on the **Other troubleshooters** option.
 3. Scroll down and find the **Windows Store Apps troubleshooter**. Click on the **Run** button.  
 ![Run the Microsoft Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Wait for the troubleshooter to find and fix issues with installed apps.  
 ![Run the Microsoft Store Apps Troubleshooter 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Close the troubleshooter window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Repair or Reset Sticky Notes
 
  Sticky Notes comes pre-installed inWindows and also has an advanced settings page. So, you can repair the app to fix issues with it or reset it to wipe its cache and personal data. Here’s how to do it:
@@ -145,9 +150,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 4. Launch Sticky Notes and check if the app is able to sync the notes or not.
 5. If you still face sync issues with the app, revisit the Advanced options page and click on the **Reset** button.  
 ![Repair or Reset Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-or-reset-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Reinstall Sticky Notes
 
@@ -157,21 +159,21 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 2. Find the Sticky Notes app in the list and click on the **dots** button. Click on the **Uninstall** option.
 3. Now, click on the **Uninstall** button.  
 ![Reinstall sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reinstall-sticky-notes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 4. Visit the [Microsoft Sticky Notes page on the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW). Download and install it on your PC and then sign in to your account.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Make the Sticky Notes Sync Feature Functional Again
 
  These were the best methods to resolve the sync issues with Sticky Notes. Start with preliminary fixes and rule out network and firewall issues. Manually sync your data and update the app. Lastly, try out the advanced options and reinstall the app.
 
  But some users face an issue with the app, and their notes do not automatically sync in Windows 11\. The potential reasons for this issue can be internet issues, misconfigured app settings, or a corrupt or outdated app version. Try these methods to make the Sticky Notes sync feature functional again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -179,3 +181,18 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-notch-visual-chronology-creator/"><u>[New] In 2024, Top-Notch Visual Chronology Creator</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-iphone-silhouette-photography-tips/"><u>[New] IPhone Silhouette Photography Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhancing-trust-through-effective-client-videography-for-2024/"><u>Enhancing Trust Through Effective Client Videography for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ideal-vm-picks-to-enhance-your-windows-11-experience/"><u>Ideal VM Picks to Enhance Your Windows 11 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-win-11s-network-proxy-configuration/"><u>Learn Win 11'S Network Proxy Configuration</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-ad-ds-printer-glitches-on-windows-11/"><u>Solving AD DS Printer Glitches on Windows 11</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/step-by-step-guide-accessing-and-downloading-ooyala-content-for-windows-and-macos-users/"><u>Step-by-Step Guide: Accessing and Downloading Ooyala Content for Windows and MacOS Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-science-of-scheduling-perfect-times-for-your-ig-posts-for-2024/"><u>The Science of Scheduling Perfect Times for Your IG Posts for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-photos-shortcuts-for-the-savvy-editor/"><u>Windows Photos Shortcuts for the Savvy Editor</u></a></li>
+</ul></div>
+

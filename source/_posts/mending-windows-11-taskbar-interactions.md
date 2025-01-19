@@ -1,7 +1,7 @@
 ---
 title: Mending Windows 11 Taskbar Interactions
-date: 2025-01-17T18:58:08.118Z
-updated: 2025-01-18T17:27:13.756Z
+date: 2025-01-13T11:38:03.767Z
+updated: 2025-01-19T02:16:35.590Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,10 @@ To restart a Windows Explorer service:
 4. Click the**Restart** task button in the top right corner. Alternatively, right-click on**Windows Explorer** and select**Restart** .
 5. Your screen may flicker for a moment as the Windows Explorer restarts. Your taskbar should start working now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall and Re-Register All Windows Apps for All Accounts
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
@@ -57,11 +61,19 @@ To reinstall and register all Windows apps:
 `PS C:\Users\Administrator>`
 5. Close PowerShell and restart your computer. If you don’t want to perform a system reboot, restart Windows Explorer in Task Manager.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall the Recently Installed Windows Update
 
  If the taskbar starts to act up after installing a Windows update, uninstall the update to see if it helps fix the issue. Feature Windows updates can sometimes break more things they intend to fix.
 
  Fortunately, you can[uninstall updates in Windows 11](https://www.makeuseof.com/windows-11-uninstall-updates/) using the update history feature. Update history shows all the recent updates installed for Windows 11\. You may need to dig around a bit to find an update that coincides with when the taskbar stopped working. Next, uninstall the update and restart your PC to see if the taskbar is working again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Close Conflicting System Services
 
@@ -84,7 +96,7 @@ To restart system services in Task Manager:
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable XAML for Start Menu Using Registry Editor
@@ -107,15 +119,7 @@ To make the Start menu use XAML:
 ![registry editor advanced new dword value data 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value-data-0.jpg)
 7. Type**0** in the**Value data** field and click**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Close Registry Editor and restart your PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Run System File Checker and DISM
 
@@ -136,16 +140,12 @@ To make the Start menu use XAML:
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the most recent one but created before the date of the taskbar issue and click**Next** . If you want to view which programs will be affected, click on**Scan for affected programs.**
@@ -153,15 +153,15 @@ To make the Start menu use XAML:
 
  Your system may restart a few times when system restore is in progress. Leave the system idle and wait for the process to complete. When the system restarts, you’ll see a success message. If not, try again with the same or another restore point if available.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Create a New User Account
 
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
 
@@ -184,21 +184,22 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-mastering-windows-11-video-creation-and-editing-techniques/"><u>[New] 2024 Approved Mastering Windows 11 Video Creation & Editing Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-communication-integrating-emoji-15-in-win11/"><u>Elevate Communication: Integrating Emoji 15 in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-onedrive-0x80070194-error-in-windows-11-and-windows-10/"><u>How to Fix the OneDrive 0X80070194 Error in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/hue-alignment-assistant/"><u>Hue Alignment Assistant</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-15-pro-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 15 Pro i Do? Get Answers here</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-aliases-enhancing-developer-efficiency/"><u>Mastering Aliases: Enhancing Developer Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/reinforcing-windows-safety-expanding-context-menu-with-firewall-filters/"><u>Reinforcing Windows Safety: Expanding Context Menu with Firewall Filters</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrockets-ethernet-speeds-bypassing-windows-100mbps-cap/"><u>Skyrockets Ethernet Speeds: Bypassing Windows' 100Mbps Cap</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speedy-conversion-techniques-how-to-turn-youtube-footage-into-avi-files-seamlessly/"><u>Speedy Conversion Techniques: How to Turn YouTube Footage Into AVI Files Seamlessly</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210483212-9780141938240-the-magus-of-strovolos/"><u>The Magus of Strovolos | Free Book</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-size-solution-to-boost-your-videos-online-performance/"><u>The Ultimate Size Solution to Boost Your Video's Online Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-essential-elements-warning-on-windows-11win11/"><u>Troubleshooting 'Essential Elements' Warning on Windows 11/Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-solving-lsassexe-issue-on-pc/"><u>Understanding and Solving lsass.exe Issue on PC</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-videos-like-a-pro-microsoft-video-editor-for-windows-1087/"><u>Updated Edit Videos Like a Pro Microsoft Video Editor for Windows 10/8/7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-150-2023-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 150 (2023) Phone Network-Ready</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-discerning-true-from-false-insta-pals/"><u>[Updated] 2024 Approved Mastering the Art of Discerning True From False Insta Pals</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-adsense-on-youtube-a-beginners-guide-for-2024/"><u>[Updated] Mastering AdSense on YouTube A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-reels-expertise-from-a-ninja-perspective/"><u>2024 Approved Instagram Reels Expertise From a Ninja Perspective</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-browser-speed-discrepancy-across-devices/"><u>Bridging Browser Speed Discrepancy Across Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/decades-of-designs-the-windows-taskbars-journey/"><u>Decades of Designs: The Windows Taskbar's Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/deceleration-dilemnas-quick-fixes-for-discord-lag/"><u>Deceleration Dilemnas: Quick Fixes for Discord Lag</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-strategies-for-dispelling-blue-screen-of-operation-requires-elevation-in-winos/"><u>Efficient Strategies for Dispelling Blue Screen of Operation Requires Elevation in WINOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-visual-fidelity-in-ar-utilizing-custom-luts/"><u>Enhancing Visual Fidelity in AR Utilizing Custom LUTs</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-methods-unlocking-computer-management-on-windows-11/"><u>Essential Methods: Unlocking Computer Management on Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-memory-hurdles-4-tips-for-better-windows-ram/"><u>Overcoming Memory Hurdles: 4 Tips for Better Windows RAM</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-quiet-slack-signals-on-windows-11-pcs/"><u>Reviving Quiet Slack Signals on Windows 11 PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shine-bright-with-these-simple-android-video-steps/"><u>Shine Bright with These Simple Android Video Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/sleek-arenas-2022s-olympic-skating/"><u>Sleek Arenas 2022'S Olympic Skating</u></a></li>
+<li><a href="https://win11.techidaily.com/stabilizing-visual-studio-code-on-windows-11/"><u>Stabilizing Visual Studio Code on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/tv/"><u>エムオンTV画像保存プロセス詳しく解説</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repairing Restrictive Windows Shield on Win 11
-date: 2025-01-15T21:59:06.469Z
-updated: 2025-01-18T19:04:36.789Z
+date: 2025-01-17T05:30:53.439Z
+updated: 2025-01-18T20:04:51.305Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn on Windows Security
 
  In rare cases when a PC undergoes a malicious attack one of the first things that the malicious program does is [turn off all the antivirus defenses like Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/). If your PC has undergone such an attack recently, then it might be possible that you're facing the same issue.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 3. A new dialog box will pop up asking you to confirm if you want to go ahead with the changes; click on **Yes** to proceed.
 
 ![security at glance menu in windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-security.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Windows Security app will be enabled instantly.
 
@@ -68,15 +68,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Reset the Windows Security App
 
@@ -94,10 +86,14 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![reset and repair option in the windows security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/reset-and-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also try the **Repair** option if you don't want to reset the app right off. It’s right there above the **Reset** option. As soon you click on **Repair**, the process will begin. When the Repair is complete, it’ll leave a tick option adjacent to **Repair** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run an SFC and DISM Scan
 
@@ -116,7 +112,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 ![execution of sfc scan in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/sfc-scan-in-command-prompt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the SFC tool doesn't work, don't fret just yet. Another tool that you can try your luck with is the DISM; it's not the same as SFC, but it works almost similarly. You can check out the [differences between SFC and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) if you'd like to learn more.
@@ -128,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 `DISM /Online /Cleanup-Image /ScanHealth`
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
@@ -147,7 +147,7 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your PC
@@ -185,21 +185,18 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-ae-lifesavers-budget-friendly-template-assortment-for-2024/"><u>[New] AE Lifesavers Budget-Friendly Template Assortment for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-instagrams-legal-framework-for-musicians-for-2024/"><u>[New] Decoding Instagram's Legal Framework for Musicians for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-find-your-digital-companion-the-top-6-youtube-personality-puzzles-for-2024/"><u>[Updated] Find Your Digital Companion The Top 6 YouTube Personality Puzzles for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/configuring-revamped-widget-picker-in-win11/"><u>Configuring Revamped Widget Picker in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-windows-hello-login-fingerprint-failure/"><u>Eliminating Windows Hello Login Fingerprint Failure</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-windows-microcomputers-reviewed/"><u>Essential Windows Microcomputers Reviewed</u></a></li>
-<li><a href="https://network-issues.techidaily.com/hassle-free-intel-graphics-3000-win11-upgrade/"><u>Hassle-Free Intel Graphics 3000 Win11 Upgrade</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-7-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 7 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lava-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Lava Without PUK Codes</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-navigating-google-chromes-picture-in-picture-feature/"><u>In 2024, Navigating Google Chrome's Picture In Picture Feature</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-peace-of-mind-with-these-5-family-safety-fixes/"><u>Restore Peace of Mind with These 5 Family Safety Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-clipchamp-install-on-windows-11-with-these-steps/"><u>Secure ClipChamp Install on Windows 11 with These Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-error-codes-when-installing-windows-apps/"><u>Understanding Error Codes When Installing Windows Apps</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/whats-behind-yourphoneexe-in-modern-windows-systems/"><u>What's Behind YourPhone.exe in Modern Windows Systems?</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/whats-next-key-enhancements-in-pioneer-club-dex-version-38/"><u>What's Next: Key Enhancements in Pioneer Club DEX Version 3.8</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tips-for-making-facebook-ad-videos-memorable/"><u>[New] 2024 Approved Tips for Making Facebook Ad Videos Memorable</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-error-code-0x800704b3-on-windows-pcs/"><u>Addressing Error Code 0X800704B3 on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-elevate-needed-errors-with-ease-in-windows-os/"><u>Bypassing 'Elevate Needed' Errors with Ease in Windows OS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-access-your-iphone-contacts-fix-them-with-these-3-proven-methods/"><u>Can't Access Your iPhone Contacts? Fix Them With These 3 Proven Methods!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-audio-excellence-with-5-free-windows-apps/"><u>Elevate Audio Excellence with 5 Free Windows Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-screen-capture-without-breaking-the-bank-our-top-picks/"><u>In 2024, Screen Capture Without Breaking the Bank Our Top Picks</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-net-safety-for-personal-photos-at-meta/"><u>Navigating Net Safety for Personal Photos at Meta</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pigments-and-palettes-the-artists-guidebook/"><u>Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://win11.techidaily.com/repairing-non-functional-installation-of-ccleaner-on-windows-1011/"><u>Repairing Non-Functional Installation of CCleaner on Windows 10/11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-procedure-mf4770n-in-win-11-8-and-7/"><u>Update Procedure: MF4770n in Win 11, 8 & 7</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-this-article-will-recommend-you-with-3-best-dvd-burning-tools-to-let-you-easily-burn-video-to-dvd-for-2024/"><u>Updated This Article Will Recommend You with 3 Best DVD Burning Tools to Let You Easily Burn Video to DVD for 2024</u></a></li>
 </ul></div>
 
