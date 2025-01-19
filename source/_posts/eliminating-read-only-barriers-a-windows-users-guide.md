@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Read-Only Barriers: A Windows User's Guide"
-date: 2025-01-10T05:48:45.442Z
-updated: 2025-01-12T19:18:39.135Z
+date: 2025-01-14T17:15:50.223Z
+updated: 2025-01-19T00:04:24.881Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  If you don't use any folder lock software or turning off the protection doesn't help, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Rule Out a Folder-Specific Issue
 
  Is only one folder reverting to read-only mode? If so, follow the below steps to remove the read-only attribute manually for that folder:
@@ -51,17 +47,9 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 4. Click **Apply** and hit **OK**.  
 ![Unchecking the Box for Read-Only Option in the General Tab of Properties Window of the File on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Unchecking-the-Box-for-Read-Only-Option-in-the-General-Tab-of-Properties-Window-of-the-File-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If removing the attribute this way does not solve the problem, or if the problem involves multiple files, keep applying the remaining fixes.
 
  If you have encountered the issue on a work computer, you may not be able to apply a few fixes mentioned below. Thus, if you encounter an error saying you don't have permission to make any changes, it's best to let your IT admin handle it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Ensure an Administrator Hasn't Imposed Any Restrictions
 
@@ -72,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 3. Choose your username from the available options.
 4. Check the **Permissions for Users** section after selecting your account.  
 ![Checking the Permissions Window in the Security Tab in the File’s Properties on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-2-Checking-the-Permissions-Window-in-the-Security-Tab-in-the-File’s-Properties-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can't make changes to the files if you only have read-only permissions. If you believe the access was restricted by mistake, ask the administrator to grant you access.
 
@@ -88,11 +72,23 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Clicking on Edit Button under Security Tab in Properties Window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Clicking-on-Edit-Button-under-Security-Tab-in-Properties-Window-on-Windows.jpg)
 5. Choose the user you want to grant access to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the **Permissions for Users** window, check the box next to **Full control** under **Allow** column.  
 ![Checking the Box Next to Full Control under Allow Column in the Permissions for Users Window in Security Tab on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-4-Checking-the-Box-Next-to-Full-Control-under-Allow-Column-in-the-Permissions-for-Users-Window-in-Security-Tab-on-Windows.jpg)
 7. After clicking **Apply**, hit **OK**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have multiple personal accounts on your computer, you can change permissions for each account using the administrator account similarly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable Ransomware Protection in the Windows Security Settings
 
@@ -110,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  If disabling this feature doesn't resolve the problem, you may need to reset the entire Windows Defender Firewall settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reset the Windows Defender Firewall Settings
 
  Have you recently made changes to your Windows Defender Firewall settings and encountered this problem? If so, there's a good chance you've done something wrong. Therefore, resetting them may help you resolve the issue. Follow the below steps to reset Windows Defender Firewall settings:
@@ -124,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 6. When the confirmation pop-up appears, select **Yes**.  
 ![Clicking on the Yes Button after Clicking on the Restore Defaults Button on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-8-Clicking-on-the-Yes-Button-after-Clicking-on-the-Restore-Defaults-Button-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Antivirus and Other Security Software
 
  If the folders that revert to read-only mode reside on the same drive where your operating system is installed, Microsoft Defender might temper the folder permissions.
@@ -131,10 +135,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  To rule out this potential cause, temporarily [turn off the Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) and see if your folders stop reverting to read-only mode after that. If they do, whitelist those folders from Microsoft Defender and turn on the security suite again. If you use any third-party security software, disable that as well since it can also restrict your access.
 
  Whether disabling the built-in or third-party security suites fixes the issue or not, you should enable them again to keep your device protected from viruses.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Forcefully Remove the Read-Only Attribute
 
@@ -147,11 +147,11 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 ![Removing the Read-Only Attribute by Running the Command in Windows Command Prompt App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-9-Removing-the-Read-Only-Attribute-by-Running-the-Command-in-Windows-Command-Prompt-App-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Run the SFC and CHKDSK Scans
@@ -159,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
  Corrupted system files and bad hard drive sectors can also alter the folder's permission access. Run the SFC and Chkdsk scans to ensure that's not the case. SFC can help you search for and fix corrupted system files, whereas Chkdsk can find bad sectors on your hard drive that could be causing the issue.
 
  If you've never run these scans before, check out our guide on [how to run SFC](https://www.makeuseof.com/system-file-checker-sfc-windows/) and [Chkdsk scans](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/). Hopefully, running these scans will fix the underlying issue with your files and folders. If neither of these scans finds any problems, proceed to the next step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Uninstall Any Recent Windows Updates
 
@@ -176,10 +180,6 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
  If you're unfamiliar with the process, check out our article that explains [how to perform a system restore in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/#how-to-use-restore-point-to-restore-your-windows-11-system). For Windows 10, the process is nearly the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Keep Your Files and Folders Editable
 
  Hopefully, applying the fixes mentioned in the article will help you prevent your folder from reverting to read-only mode. Moreover, to stop files from opening in read-only mode in a specific app, such as OneNote, you'll have to change the app settings.
@@ -196,24 +196,22 @@ thumbnail: https://thmb.techidaily.com/9416939e5407a18ea81200cd7e119e61ff04e31fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-elevate-streams-using-youtubes-av1-settings/"><u>[New] 2024 Approved Elevate Streams Using YouTube's AV1 Settings</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-night-avenger-black-vs-day-defender-silver/"><u>[New] Night Avenger (Black) VS Day Defender (Silver)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-the-action-a-twitch-broadcasters-handbook-for-2024/"><u>Capturing the Action A Twitch Broadcaster's Handbook for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808255967-discover-your-motherboard-type-with-simple-steps/"><u>Discover Your Motherboard Type with Simple Steps!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/elite-image-processor-upgrade-your-viewing-experience-for-2024/"><u>Elite Image Processor Upgrade Your Viewing Experience for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-chromes-webp-save-guide-to-image-format-changes-pc-wise/"><u>Halt Chrome’s WebP Save: Guide to Image Format Changes PC-Wise</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/learn-how-to-create-compelling-youtube-closures-economically-for-2024/"><u>Learn How To Create Compelling YouTube Closures Economically for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/managing-persistent-edges-windows-11-user-guide/"><u>Managing Persistent Edges: Windows 11 User Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-blue-screen-code-xc0000142/"><u>Overcoming Blue Screen Code XC0000142</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-net-issue-deciphering-error-0x800704b3/"><u>Overcoming Windows Net Issue - Deciphering Error 0X800704B3</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-tip-how-to-fire-up-windows-media-player/"><u>Quick Tip: How to Fire Up Windows Media Player</u></a></li>
-<li><a href="https://win11.techidaily.com/regaining-control-restore-tab-functionality-on-windows/"><u>Regaining Control: Restore Tab Functionality on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/restore-basic-file-organization-in-windows-explorer/"><u>Restore Basic File Organization in Windows Explorer</u></a></li>
-<li><a href="https://win11.techidaily.com/shadow-play-with-microsofts-miniature-artist/"><u>Shadow Play with Microsoft's Miniature Artist</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/shrinking-volume-levels-seamlessly-in-lumafusion/"><u>Shrinking Volume Levels Seamlessly in Lumafusion</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-process-for-silencing-junk-texts-on-apple-phones/"><u>Step-by-Step Process for Silencing Junk Texts on Apple Phones</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-persistent-edge-desktop-widgets/"><u>Troubleshooting Persistent Edge Desktop Widgets</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-xp-pen-artist-16-pro-an-expert-review-of-this-top-tier-drawing-tablet/"><u>Unboxing the XP-Pen Artist 16 Pro: An Expert Review of This Top-Tier Drawing Tablet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlock-the-best-top-9-gamers-hubs/"><u>Unlock the Best Top 9 Gamers' Hubs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-comprehensive-approach-to-video-assisted-instruction-for-2024/"><u>[Updated] A Comprehensive Approach to Video-Assisted Instruction for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>[Updated] The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oppo-a56s-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Oppo A56s 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-gathering-the-good-times-easy-steps-to-download-and-store-twitters-animated-tweets/"><u>2024 Approved Gathering the Good Times Easy Steps to Download and Store Twitter's Animated Tweets</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/elevate-your-tiktok-game-essential-analytics-tools-countdown/"><u>Elevate Your TikTok Game - Essential Analytics Tools Countdown</u></a></li>
+<li><a href="https://win11.techidaily.com/elevated-note-management-smarter-strategies-for-windows-users/"><u>Elevated Note Management: Smarter Strategies for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installation-guide-logitech-pro-high-definition-webcam-software-for-windows-os/"><u>Installation Guide: Logitech Pro High-Definition Webcam Software for Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-drawing-pads-dominating-the-digital-canvas/"><u>Leading Edge Drawing Pads Dominating the Digital Canvas</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-art-of-note-saving-windows/"><u>Navigating the Art of Note-Saving Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-sound-failure-resolving-error-xc00d36b4/"><u>Tackling Sound Failure: Resolving Error XC00D36B4</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-challenge-of-application-crashes-due-to-unhandled-errors/"><u>Tackling the Challenge of Application Crashes Due to Unhandled Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-advanced-ai-search-solutions-for-internet-exploration/"><u>The Ultimate List of Advanced AI Search Solutions for Internet Exploration</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-your-device-usage-mastering-samsungs-dex-application/"><u>Transform Your Device Usage: Mastering Samsung's DeX Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/utilizing-windows-11s-auto-hdr-effectively/"><u>Utilizing Windows 11'S Auto HDR Effectively</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-honor-magic-5-lite-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Honor Magic 5 Lite Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-comparison-discovering-the-ideal-edition-fit-homepro/"><u>Windows 11 Comparison: Discovering the Ideal Edition Fit (Home/Pro)</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-phone-link-why-disable-yourphoneexe/"><u>Windows Phone Link: Why Disable YourPhoneExe?</u></a></li>
 </ul></div>
 

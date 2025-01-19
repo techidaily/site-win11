@@ -1,7 +1,7 @@
 ---
 title: Refining Non-Admin Access on Your Windows Machine
-date: 2025-01-09T05:33:26.401Z
-updated: 2025-01-12T20:41:58.566Z
+date: 2025-01-11T17:30:42.590Z
+updated: 2025-01-18T22:41:10.407Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
  The default UAC behavior for standard user accounts is **Prompt for credentials**, but Microsoft recommends you change it to **Automatically deny elevation requests**. That way, only users with administrator accounts can decide how the UAC behaves and make choices that will keep the computer safe.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change the UAC Behavior for Standard Users in the Local Group Policy Editor
 
  The easiest way to change the way UAC behaves for standard users is to tweak the **User Account Control: Behavior of the elevation prompt for standard users** policy. To do that, [open the Local Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) and follow the steps below.
@@ -51,14 +47,14 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 3. Expand the dropdown and choose a different UAC behavior.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
@@ -72,12 +68,17 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 1. Copy **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System** and paste it into the address bar at the top of the Registry Editor.  
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
@@ -86,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
  Now restart your computer to allow the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
@@ -105,19 +106,20 @@ thumbnail: https://thmb.techidaily.com/b419546ab6fdd218d829eb22a844376fcf0d2afcf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>[New] The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premiers-top-12-gps-enhanced-surveillance-cameras/"><u>[Updated] 2024 Approved Premier's Top 12 GPS-Enhanced Surveillance Cameras</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>[Updated] 2024 Approved USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-10-best-add-ons-to-boost-your-gopro/"><u>[Updated] In 2024, Top 10 Best Add-Ons to Boost Your GoPro</u></a></li>
-<li><a href="https://win11.techidaily.com/disable-microsofts-assistant-service-on-pc/"><u>Disable Microsoft's Assistant Service on PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/elite-144hz-ultrawide-displays-for-immersive-games/"><u>Elite 144Hz Ultrawide Displays for Immersive Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/google-stadia-reviewed-key-aspects-requiring-developmental-progress/"><u>Google Stadia Reviewed - Key Aspects Requiring Developmental Progress</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-resource-monitoring-ram-cpu-and-gpu-data-in-windows-11/"><u>Mastering Resource Monitoring: RAM, CPU & GPU Data in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-sound-dynamics-fixing-low-volume-woes/"><u>Maximizing Sound Dynamics: Fixing Low-Volume Woes</u></a></li>
-<li><a href="https://win11.techidaily.com/pocket-sized-windows-patches-offline-methods/"><u>Pocket-Sized Windows Patches: Offline Methods</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-solutions-for-continuous-restarting-on-windows-11/"><u>Quick Solutions for Continuous Restarting on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-troubleshooting-for-rdp-internal-error-on-windows-11/"><u>Streamlining Troubleshooting for RDP Internal Error on Windows 11</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-future-of-customer-relationships-on-facebooks-newsfeed/"><u>Unveiling the Future of Customer Relationships on Facebook's Newsfeed</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-maximizing-social-reach-with-tiktok-to-facebook-integration/"><u>[New] In 2024, Maximizing Social Reach with TikTok to Facebook Integration</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-tunes-heres-how-to-download-safely-and-free/"><u>[Updated] Youtube Tunes? Here's How to Download Safely & Free</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-iphone-experience-by-merging-ai-talents-of-chatgpt-and-siri/"><u>Boost Your iPhone Experience by Merging AI Talents of ChatGPT and Siri</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1720600668019-bring-back-your-files-faster-than-ever-with-us/"><u>Bring Back Your Files Faster than Ever with Us</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-11-defense-integrating-firewall-filters-via-context-menu/"><u>Enhancing Windows 11 Defense: Integrating Firewall Filters via Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-to-reactivating-windows-update-features/"><u>Fast Track to Reactivating Windows Update Features</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-halo-infinity-from-skipping-frames-and-freezing-up/"><u>How to Stop Halo Infinity From Skipping Frames and Freezing Up</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-techniques-for-youtube-video-format-switching/"><u>In 2024, Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-spatial-sound-in-windows-11/"><u>Mastering Spatial Sound in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oculus-quest-gets-its-first-ever-language-app-mondlyback-buttonfilter-button/"><u>Oculus Quest Gets Its First-Ever Language App: MondlyBack ButtonFilter Button</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-internet-connection-via-vpn/"><u>Overcoming No Internet Connection via VPN</u></a></li>
+<li><a href="https://win11.techidaily.com/power-on-performance-dispel-windows-11-sluggishness-quickly/"><u>Power on Performance: Dispel Windows 11 Sluggishness Quickly</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/prepise-mp4-do-gif-sestupne-a-kliknutelny-movavi-konverzer-na-internetu/"><u>Přepíše MP4 Do GIF Sestupně a Kliknutelný: Movavi Konverzér Na Internetu</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolving-problems-with-the-realtek-rtl8811au-network-adapter-drivers/"><u>Resolving Problems with the Realtek RTL8811AU Network Adapter Drivers</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-power-best-windows-apps-for-elevating-your-productivity-game/"><u>Unleash Power: Best Windows Apps for Elevating Your Productivity Game</u></a></li>
 </ul></div>
 

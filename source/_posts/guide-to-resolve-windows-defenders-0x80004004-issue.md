@@ -1,7 +1,7 @@
 ---
 title: Guide to Resolve Windows Defender's 0X80004004 Issue
-date: 2025-01-05T20:35:33.867Z
-updated: 2025-01-06T16:41:25.294Z
+date: 2025-01-17T23:18:51.063Z
+updated: 2025-01-19T00:40:09.529Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Understanding the Problem Behind Error Code 0x80004004
 
  The Microsoft Defender error code 0x80004004 occurs when there is an issue with the tool’s functionality, such as when launching the app, trying to update it, or during a scan. When this error occurs, it can cause the following problems:
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
 ![The Real-time protection option in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There can be a number of reasons why this error might be occurring on your system. Here are some of the most common ones:
@@ -49,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/d04592384de68d589b01721c4dc554252c1ab00ca
  Regardless of what might be causing the problem in your case, the solutions we have discussed below are sure to help you fix the problem. Proceed with them one by one to fix the problem once and for all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Restart the Microsoft Defender Services
@@ -68,10 +72,6 @@ Here is how you can do that:
 7. Click**Apply** \>**OK** to save the changes.
 
  Perform the same steps for the Microsoft Defender Firewall service and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Uninstall Conflicting Software
 
@@ -96,7 +96,7 @@ Here is how you can do that:
 ![manual updates for defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/manual-update-defender-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If running the troubleshooter does not help, and you are still unable to install the updates, you can also try installing them manually. We already have a guide on[the different ways to update Microsoft Defender manually](https://www.makeuseof.com/microsoft-defender-manually-update/) that you can head over to for this purpose.
@@ -104,7 +104,7 @@ Here is how you can do that:
  However, please note that while using this workaround may allow you to install updates, it may not address the root cause of the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Change Your Antivirus Program
@@ -132,22 +132,24 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-copyright-freedom-tunes-best-free-melodies-for-zen/"><u>[Updated] 2024 Approved Copyright-Freedom Tunes - Best Free Melodies for Zen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-overwatch-gameplay-captured-step-by-step-guide/"><u>[Updated] 2024 Approved Overwatch Gameplay Captured - Step by Step Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-ishowu-audio-capture-download-and-review/"><u>[Updated] IShowU Audio Capture Download and Review</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-securing-a-stable-stream-of-earnings-on-youtube/"><u>[Updated] Securing a Stable Stream of Earnings on YouTube</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-1132-in-windows-11-for-smooth-zoom-operations/"><u>Fixing Error 1132 in Windows 11 for Smooth Zoom Operations</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-wsl-2-docker-operations-a-comprehensive-guide/"><u>Improving WSL 2 Docker Operations: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-realme-12-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Realme 12 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100i-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100i Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/losungen-fur-abspielfehler-von-dvds-auf-der-xbox-one-reparatursanleitungen-finden-sie-hier/"><u>Lösungen Für Abspielfehler Von DVDs Auf Der Xbox One - Reparatursanleitungen Finden Sie Hier!</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-your-machine-customize-active-hours-to-sidestep-surprises-in-windows-11/"><u>Mastering Your Machine: Customize Active Hours to Sidestep Surprises in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/re-establishing-microphone-communication-with-xbox-app-windows-11/"><u>Re-Establishing Microphone Communication with Xbox App Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-functionality-repairing-a-stalled-virtual-disk-service/"><u>Restoring Functionality: Repairing a Stalled Virtual Disk Service</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-setup-of-win11-on-airplane-mode/"><u>Seamless Setup of Win11 on Airplane Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-elevate-your-taskbar-in-win11/"><u>Step-by-Step: Elevate Your Taskbar in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-advantages-of-sudo-for-windows-enthusiasts/"><u>The Advantages of Sudo for Windows Enthusiasts</u></a></li>
-<li><a href="https://driver-install.techidaily.com/update-canon-mx870-to-work-with-windows-8-7/"><u>Update Canon MX870 to Work with Windows 8-7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-meeting-fundamentals-for-the-uninitiated-for-2024/"><u>[New] Zoom Meeting Fundamentals for the Uninitiated for 2024</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1725289937287-mp4avi/"><u>「MP4に簡単に変換できる無料AVIファイル方法」</u></a></li>
+<li><a href="https://win11.techidaily.com/5-ways-to-stop-infinite-data-depletion-in-windows/"><u>5 Ways to Stop Infinite Data Depletion in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/movaviaiffogg/"><u>使用Movavi免费在线将AIFF文件转换为OGG - 专业解决方案与详细指南</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-alternative-methods-in-windows-exploration-no-ls/"><u>Deciphering Alternative Methods in Windows Exploration (No LS)</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-clipboard-problems-in-windows-11/"><u>Diagnosing Clipboard Problems in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-runtime-broker-enhances-system-efficiency-and-security/"><u>How Runtime Broker Enhances System Efficiency & Security</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-individual-gpo-settings-for-windows-users-1111-edition/"><u>Implementing Individual GPO Settings for Windows Users 11/11 Edition</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-guide-for-audio-editors-using-garageband/"><u>In 2024, The Ultimate Guide for Audio Editors Using GarageBand</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/locate-vanished-settings-a-guide-to-finding-them-on-win11/"><u>Locate Vanished Settings: A Guide to Finding Them on Win11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/msis-steam-deck-can-it-compete-and-thrive-in-the-competitive-world-of-portable-gaming-a-deep-dive/"><u>MSI's Steam Deck: Can It Compete and Thrive in the Competitive World of Portable Gaming? A Deep Dive</u></a></li>
+<li><a href="https://review-topics.techidaily.com/new-iphone-8-plus-restore-from-icloud-stuck-on-time-remaining-estimating-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>New iPhone 8 Plus Restore from iCloud Stuck on Time Remaining Estimating | Stellar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimal-mov-recording-settings-for-windows-11/"><u>Optimal MOV Recording Settings for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-0x80d03801-issue-in-windows-shop/"><u>Remedying 0X80D03801 Issue in Windows Shop</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-your-visuals-the-most-efficient-face-masking-apps-for-2024/"><u>Secure Your Visuals The Most Efficient Face-Masking Apps for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-memory-dump-files-in-windows-10/"><u>Step-by-Step Guide: Removing Memory Dump Files in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/sweeping-away-windows-access-errors-effectively/"><u>Sweeping Away Windows' Access Errors Effectively</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-unresponsive-windows-11-printer-ports-and-devices/"><u>Tackling Unresponsive Windows 11 Printer Ports & Devices</u></a></li>
 </ul></div>
 

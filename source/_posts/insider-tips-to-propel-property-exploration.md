@@ -1,7 +1,7 @@
 ---
 title: Insider Tips to Propel Property Exploration
-date: 2025-01-11T17:12:12.070Z
-updated: 2025-01-12T17:28:37.482Z
+date: 2025-01-13T00:44:45.541Z
+updated: 2025-01-18T21:17:51.991Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -39,11 +43,7 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -52,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -68,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 4. The file properties window will launch on your system.
 
  Keep in mind that the right-click context menu will look a bit different from the older versions of Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Using the File Explorer
 
@@ -92,7 +92,11 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -104,10 +108,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 3. Replace “**File Path** ” with the actual storage location like you did in the fifth method.  
 ![View File Properties using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-powershell.jpg)
 4. Press the**Enter** key to execute the command.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
 
@@ -128,21 +128,22 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-impressive-analysis-and-rival-proposals/"><u>[New] 2024 Approved Impressive Analysis & Rival Proposals</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-ms-edges-picture-in-picture-magic/"><u>[New] In 2024, Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unite-video-files-into-playlist-assembly/"><u>[Updated] Unite Video Files Into Playlist Assembly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-incor-written-by-sarah-johnson/"><u>2024 Approved Advanced Techniques for Incor Written By Sarah Johnson</u></a></li>
-<li><a href="https://win11.techidaily.com/conquering-win1011-recycle-error-step-by-step-fixes/"><u>Conquering WIN10/11 Recycle Error: Step-by-Step Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-techniques-for-uac-prompt-snaps/"><u>Essential Techniques for UAC Prompt Snaps</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-your-unmatched-bumble-account-expert-advice-for-success/"><u>Fixing Your Unmatched Bumble Account: Expert Advice for Success</u></a></li>
-<li><a href="https://win11.techidaily.com/harnessing-power-windows-task-scheduler-for-batches/"><u>Harnessing Power: Windows Task Scheduler for Batches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-nvidia-graphics-output-problems-when-cable-is-loose/"><u>How To Resolve Nvidia Graphics Output Problems When Cable Is Loose</u></a></li>
-<li><a href="https://win11.techidaily.com/integrating-ios-mapping-within-a-windows-framework/"><u>Integrating iOS Mapping Within a Windows Framework</u></a></li>
-<li><a href="https://win11.techidaily.com/priced-too-low-the-reality-behind-cheap-windows-licenses/"><u>Priced Too Low: The Reality Behind Cheap Windows Licenses</u></a></li>
-<li><a href="https://win-web3.techidaily.com/professioneel-hoe-begeven-en-definieren-van-invalide-instellingen-op-windows-1011/"><u>Professioneel Hoe Begeven en Definieren Van Invalide Instellingen Op Windows 10/11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-your-playstation-4-from-locking-up-with-these-simple-repair-steps/"><u>Stop Your PlayStation 4 From Locking Up with These Simple Repair Steps!</u></a></li>
-<li><a href="https://win11.techidaily.com/the-connoisseurs-guide-navigating-and-tweaking-windows-registry-through-cli/"><u>The Connoisseur’s Guide: Navigating & Tweaking Windows Registry Through CLI</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-ace-2-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus Ace 2 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/unpacking-the-application-couldnt-start-hexadecimal-problem/"><u>Unpacking The Application Couldn't Start Hexadecimal Problem</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-best-youtube-to-gif-makers-how-to-create-gif-from-youtube-video/"><u>[New] 10 Best YouTube To GIF Makers How to Create GIF From YouTube Video?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-flat-to-fantastic-animated-text-transformations/"><u>[New] 2024 Approved From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-iconic-photographs-the-true-story-for-2024/"><u>[New] Iconic Photographs The True Story for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-saving-gifs-from-twitter-ios-and-android-guide/"><u>[New] Saving GIFs From Twitter IOS & Android Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cutting-edge-cameras-for-4khd-live-performance-shootouts/"><u>[Updated] Cutting-Edge Cameras for 4K/HD Live Performance Shootouts</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-users-through-fixing-audio-driver-unsupported-issue/"><u>Guiding Users Through Fixing Audio Driver Unsupported Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-sonic-frontiers-crashing-when-going-full-screen-on-windows-11/"><u>How to Fix Sonic Frontiers Crashing When Going Full-Screen on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-platforms-creating-movies-from-photo-galleries-for-2024/"><u>Ideal Platforms Creating Movies From Photo Galleries for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-motorola-moto-g84-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Motorola Moto G84 5G FRP Bypass</u></a></li>
+<li><a href="https://win11.techidaily.com/keep-your-tasks-at-the-forefront-top-notifications-techniques/"><u>Keep Your Tasks at the Forefront: Top Notifications Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11-printer-connection-challenges/"><u>Navigating Windows 11 Printer Connection Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/realigning-the-skewed-discord-game-detector-for-windows-users/"><u>Realigning the Skewed Discord Game Detector for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-non-functional-webcam-on-windows/"><u>Solutions for Non-Functional Webcam on Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-disappeared-iphone-applications-find-them-with-these-tips/"><u>Struggling with Disappeared Iphone Applications: Find Them With These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-smart-purchasing-of-win-devices/"><u>The Ultimate Guide to Smart Purchasing of Win Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor X50 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-windows-preemptive-ram-use/"><u>Unraveling the Mysteries of Windows’ Preemptive RAM Use</u></a></li>
 </ul></div>
 

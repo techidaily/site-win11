@@ -1,7 +1,7 @@
 ---
 title: "Tackling Common System Crashes: Code 0xC0000001"
-date: 2025-01-11T09:57:45.764Z
-updated: 2025-01-13T01:07:39.211Z
+date: 2025-01-12T18:13:23.629Z
+updated: 2025-01-18T18:48:26.907Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Run the Startup Repair Tool
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/6f98ed833e99780ec633017bfd02ba19a6f592b21
 
 ![advanced options windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Startup Repair tool will sift through your PC for possible issues with your Windows 10 or 11 and then start fixing them one by one. After the scan and repair are complete, give your PC a quick reboot and see if this fixes the error code 0xc0000001 on your Windows computer.
 
 ## 2\. Use the Command Prompt
@@ -58,12 +62,16 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Unplug All External Devices
@@ -73,10 +81,6 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  External devices can sometimes stir up errors in your Windows. It happens for a variety of reasons: maybe the driver didn’t get installed well the first time, some USB port issues occurred, and so on.
 
  So, unplug the devices, save your keyboard and mouse, and see if you still face the Windows error code 0xc0000001\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Boot Into Safe Mode
 
@@ -92,25 +96,21 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Malware Scan
 
  As is always the case with anything tech, malware can lead to all sorts of problems with the functioning of your PC. Indeed, malware can appear out of nowhere and raise all kinds of havoc on your Windows; and the booting issues by a BSOD are one of many such issues.
 
  A [quick malware scan by Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is a surefire way to rule out this possibility for good.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Perform a CHDSK Scan
 
  Another handy utility to carry in your Windows fix-it toolkit, the CHKDSK utility works by scanning—and then fixing—a variety of issues with your Windows hard drive.
 
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your Windows
 
@@ -134,24 +134,14 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-prime-screen-recording-tools-for-no-ad-android-for-2024/"><u>[New] Prime Screen Recording Tools for No-Ad Android for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-code-0x0000004e-on-win11-hardware/"><u>Correcting Code 0X0000004E on Win11 Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/digitizing-the-decade-old-games-with-dosbox-x/"><u>Digitizing the Decade: Old Games with DOSBox-X</u></a></li>
-<li><a href="https://win11.techidaily.com/efficiently-reactivate-printer-service/"><u>Efficiently Reactivate Printer Service</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-disappeared-battery-life-meter-for-windows-11-computers/"><u>Fixing Disappeared Battery Life Meter for Windows 11 Computers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-13t-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on 13T</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-prevent-and-resolve-video-crash-on-win1110-pcs/"><u>How to Prevent and Resolve Video Crash on Win11/10 PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-huawei-nova-y91-by-drfone-android/"><u>In 2024, How to Bypass FRP on Huawei Nova Y91?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leaders-in-video-to-file-transformation-the-best-ios-and-pc-tools-8/"><u>In 2024, Leaders in Video to File Transformation The Best iOS & PC Tools #8</u></a></li>
-<li><a href="https://win11.techidaily.com/profit-patterns-of-windows-11-at-microsoft/"><u>Profit Patterns of Windows 11 at Microsoft</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-solve-windows-11-upgrade-issue-0x800f0922/"><u>Quick Guide to Solve Windows 11 Upgrade Issue 0X800f0922</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-savings-on-w11-pro-exclusive-deals-inside/"><u>Secure Savings on W11 Pro - Exclusive Deals Inside</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/swift-installation-of-hp-speaker-drivers-free-version-available/"><u>Swift Installation of HP Speaker Drivers - FREE Version Available</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-list-of-the-5-best-photoshop-alternatives-for-pcmac-editing/"><u>Ultimate List of the 5 Best Photoshop Alternatives for PC/Mac Editing</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-record-super-slow-motion-videos-on-your-huaweisamsungiphone/"><u>Updated How to Record Super Slow Motion Videos on Your Huawei/Samsung/iPhone?</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/what-to-do-when-windows-cant-use-powershell/"><u>What to Do When Windows Can’t Use PowerShell</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-irql-discrepinasy-bsod-solved/"><u>Windows IRQL Discrepinasy [BSOD] Solved</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rise-to-greatness-the-best-inspiring-movies/"><u>[New] Rise to Greatness The Best Inspiring Movies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/chocolatey-vs-windows-package-manager-which-is-the-better-tool-to-download-software-on-windows/"><u>Chocolatey Vs. Windows Package Manager: Which Is the Better Tool to Download Software on Windows?</u></a></li>
+<li><a href="https://win11.techidaily.com/easing-the-fatal-javascript-issue-on-windows-11s-discord-app/"><u>Easing the Fatal Javascript Issue on Windows 11'S Discord App</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-win11s-network-settings/"><u>Guiding Through Win11's Network Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-k11x-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo K11x Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-with-manycam-top-quality-software-and-virtual-camera-solutions/"><u>Live Streaming with ManyCam: Top-Quality Software and Virtual Camera Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-not-writable-file-problems-in-windows-11/"><u>Solutions for Not Writable File Problems in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reviving Broken Registry Elements on Windows 11
-date: 2024-08-16T00:51:19.269Z
-updated: 2024-08-17T00:51:19.269Z
+date: 2025-01-13T18:47:04.761Z
+updated: 2025-01-18T16:00:40.501Z
 tags:
   - windows10
   - windows11
@@ -28,17 +28,14 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 
  However, the Windows Registry isn’t impervious to errors. These errors can arise due to malware infestations, unexpected power failures, and corrupt or outdated entries.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Broken Registry Items in Windows 11
 
  Try out the following methods to fix the broken registry items on your Windows 11 system:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Use the Disk Cleanup Tool
 
  Rather than installing a third-party cleanup tool, try the Windows Disk Cleanup utility. It is an old yet trustworthy utility included with every copy of Windows OS. You can use it to clear system clutter which also clears registry associations of some apps. Repeat the following steps:
@@ -47,9 +44,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Disk Cleanup tool will launch. Select the**C drive** and click on the**OK** button.
 3. Navigate down and click on the**Clean up system files** button.  
 ![Run Disk Cleanup tool in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-disk-cleanup-tool-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 4. The Disk Cleanup tool will launch again. Keep the Drive selection as**OS (C:)** and click on the**OK** button.
 5. Wait for the utility to scan the system. Then, click on the**OK** button.
 6. Disk Cleanup will reconfirm your decision. Click on the**Delete files** button.
@@ -65,6 +59,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Using Startup Repair in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/using-startup-repair-in-windows-11.jpg)
 5. The utility will begin diagnosing your system and attempt repairs. After that,**restart** your system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Run an SFC Scan
 
  SFC is an inbuilt windows utility that can scan your system for corrupt or missing system files. It will then replace all the corrupt or missing files with a fresh copy. Here’s how you can scan your system with SFC:
@@ -73,11 +71,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. A command prompt window will launch with administrator privileges.
 3. Now, type**sfc /scannow** and press**enter** to execute the command.  
 ![Run the SFC Utility in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-the-sfc-utility-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Patiently wait for the utility to scan and replace files on your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. **Close** the command prompt window and restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Try a DISM Scan
 
@@ -86,11 +90,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Press**Win + S** to launch Windows search. Search for**CMD** , and select the**Run as administrator** option from the right pane.
 2. Once CMD launches with elevated permissions, type**DISM /Online /Cleanup-Image /RestoreHealth** command and press the**enter** key.  
 ![Run a DISM Scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-a-dism-scan-in-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Wait for the tools to scan and repair the problems with the system image.
 4. Finally,**close** the command prompt and restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Import an Old Registry Backup
 
@@ -116,9 +121,6 @@ Here’s how you can import an old backup in Windows Registry:
 4. Select the**Full Scan** radio button and then click on the**Scan Now** button.
 5. Windows Security will execute a deep scan of all the files on your disk. If it finds any traces of malware, manually remove them from your system.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 7\. Do a System Restore
 
  The System Restore tool saves all Windows system files and drivers including the registry contents. If none of the above methods work, you can revert to a last known good system configuration using a restore point.
@@ -130,30 +132,15 @@ Repeat the following steps to perform a system restore:
 3. You will see a list of all the available restore points created by program installations or Windows updates.
 4. **Select** the most recent restore point from the list and then click on the**Scan for affected programs** button. Note down these programs or take a screenshot because you will have to reinstall them again.  
 ![Restore Windows 11 to an old but working state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restore-windows-11-to-an-old-but-working-state.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 5. Click on the**Close** button. In the System Restore window click on the**Next** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Confirm your restore point selection and click on the**Finish** button.
 7. Your system will restart automatically to apply the restore point. It will then automatically boot to the desktop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 8\. Reset Your PC
 
  If System Restore fails to do the trick, you are left with the last arrow in your troubleshooting quiver:[performing a factory reset on Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) . It will wipe all the drivers and programs and revert the system to a clean state. However, you can save your files and documents if you pick the**Keep my files** option while resetting your Windows 11 computer.
@@ -162,14 +149,11 @@ Key features:
 
  If your Windows Registry has seen better days, start by running disk cleanup and SFC and DISM scans. Then scan your system for malware infestation and import an old registry backup (if you have one). Lastly, leverage the system restore utility or reset your Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -178,4 +162,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-vlc-uncovering-hidden-streaming-gems/"><u>[New] Beyond VLC Uncovering Hidden Streaming Gems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-key-players-transforming-vr-landscape-for-2024/"><u>[New] Key Players Transforming VR Landscape for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-haven-guide-top-3-non-youtube-video-portals-for-2024/"><u>[New] The Haven Guide Top 3 Non-Youtube Video Portals for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gopro-hero-5-black-vs-nikon-keymission-170-action-camera-which-is-better-for-2024/"><u>[Updated] GoPro Hero 5 Black vs Nikon Keymission 170 Action Camera Which Is Better for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-installation-of-adobe-on-microsoft-platform/"><u>Easy Installation of Adobe on Microsoft Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-resource-usage-visibility-via-windows-tiles/"><u>Enhancing Resource Usage Visibility via Windows Tiles</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-a14-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy A14 5G online without jailbreak</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unmatched-download-experience-with-our-top-tools-list/"><u>In 2024, Unmatched Download Experience with Our Top Tools List</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-smooth-transitions-in-win11s-upgrades/"><u>Mastering Smooth Transitions in Win11's Upgrades</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-error-code-0x8007000f/"><u>Navigating Through Windows Error Code: 0X8007000F</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/oodle-unveiled-topnotch-local-deals-and-promotions-without-the-price-tag/"><u>Oodle Unveiled: Topnotch Local Deals and Promotions Without the Price Tag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-resolving-the-missing-d3dx928dll-error/"><u>Step-by-Step Guide: Resolving The Missing d3dx9_28.dll Error</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-tips-for-printer-connectivity-problems/"><u>Troubleshooting Tips for Printer Connectivity Problems</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-and-review-the-mirari-childrens-alarm-clock-that-ticks-all-boxes/"><u>Unboxing & Review: The Mirari Children's Alarm Clock That Ticks All Boxes</u></a></li>
+</ul></div>
 

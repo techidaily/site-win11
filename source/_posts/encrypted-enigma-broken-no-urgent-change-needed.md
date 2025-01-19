@@ -1,7 +1,7 @@
 ---
 title: Encrypted Enigma Broken? No Urgent Change Needed
-date: 2025-01-03T18:29:40.005Z
-updated: 2025-01-06T18:40:19.360Z
+date: 2025-01-17T17:26:19.699Z
+updated: 2025-01-19T01:12:31.641Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 * [Is It Time to Ditch BitLocker?](#is-it-time-to-ditch-bitlocker)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Microsoft's BitLocker is one of the most popular full-disk encryption tools, and is built into Windows 10 and 11 Pro providing an easy encryption option for millions of Windows users worldwide. But BitLocker's reputation as a leading encryption tool could be under threat after a YouTuber successfully stole encryption keys and decrypted private data in just 43 seconds—using a Raspberry Pi Pico costing $6\.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Was BitLocker's Encryption Broken?
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  Tools like the [Raspberry Pi Pico, the minute $6 single-board computer](https://www.makeuseof.com/raspberry-pi-pico-projects/) that has a bunch of uses. In this case, Stacksmashing connected a Raspberry Pi Pico to unused connectors on a test laptop and managed to read the binary data as the machine booted. The resulting data contained the Volume Master Key stored on the TPM, which he could then use to decrypt other data.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is It Time to Ditch BitLocker?
@@ -84,18 +84,18 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-next-level-livestream-selecting-the-best-360-cameras/"><u>[New] 2024 Approved Next-Level Livestream Selecting the Best 360° Cameras</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-snapscreen-scrutiny-a-deep-dive-into-recorders/"><u>[New] 2024 Approved SnapScreen Scrutiny A Deep Dive Into Recorders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-superlative-action-video-snapshot-review/"><u>[New] In 2024, Superlative Action Video Snapshot Review</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-master-class-extracting-and-saving-vimeo-videos-for-2024/"><u>[New] Master Class Extracting and Saving Vimeo Videos for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-trending-beats-navigating-the-world-of-viral-tiktok-raps/"><u>[New] Trending Beats Navigating the World of Viral TikTok Raps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-art-of-gathering-free-photo-display-videos/"><u>[Updated] 2024 Approved The Art of Gathering Free Photo Display Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-magix-vpx-the-ultimate-software-showdown/"><u>[Updated] Magix VPX The Ultimate Software Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-newest-compatible-cameras-to-match-samsung-gear-360/"><u>2024 Approved Newest Compatible Cameras to Match Samsung Gear 360</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-and-rectifying-error-0x8007251d-on-pcs/"><u>Deciphering and Rectifying Error 0X8007251d on PCs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/essential-recording-gear-for-environmentalists/"><u>Essential Recording Gear for Environmentalists</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-for-pinning-software-on-win11-desktop/"><u>Essential Steps for Pinning Software on Win11 Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-steam-loss-of-color-issue/"><u>Overcoming Windows Steam Loss of Color Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-workspace-hiccups-office-issue-fixes/"><u>Overcoming Windows Workspace Hiccups: Office Issue Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-megadron-mastery-industrys-top-heavy-loaders/"><u>[New] 2024 Approved Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-all-you-need-to-know-about-adding-apple-music-to-video/"><u>[New] All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-harness-your-footage-potential-with-vimeo-record/"><u>[Updated] 2024 Approved Harness Your Footage Potential with Vimeo Record</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fight-like-a-warrior-5-intense-martial-arts-rpgs-for-2024/"><u>[Updated] Fight Like a Warrior 5 Intense Martial Arts RPGs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-wacatacbml-understanding-and-neutralizing-threats-on-windows/"><u>Breaking Down Wacatac.B!ml: Understanding and Neutralizing Threats on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/ceasing-erratic-mouse-movement-in-windows/"><u>Ceasing Erratic Mouse Movement in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-strategies-for-console-recording-on-personal-devices-for-2024/"><u>Cutting-Edge Strategies for Console Recording on Personal Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-management-using-mspcm-toolbar-in-w11-os/"><u>Efficient Management Using MSPCM Toolbar in W11 OS</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-rectify-invalid-label-error-on-windows-11/"><u>Guide to Rectify 'Invalid Label' Error on Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-m6-pro-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco M6 Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-accurate-game-detection-failure-in-discord-windows-pc/"><u>Solutions for Accurate Game Detection Failure in Discord (Windows PC)</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/toms-tech-insights-comprehensive-reviews-and-advice/"><u>Tom's Tech Insights: Comprehensive Reviews & Advice</u></a></li>
 </ul></div>
 

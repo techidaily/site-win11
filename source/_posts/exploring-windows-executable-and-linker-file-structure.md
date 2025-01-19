@@ -1,7 +1,7 @@
 ---
 title: Exploring Windows Executable & Linker File Structure
-date: 2025-01-02T18:23:12.223Z
-updated: 2025-01-06T20:01:02.104Z
+date: 2025-01-11T23:57:23.707Z
+updated: 2025-01-18T23:31:27.596Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
  Linux also has its own iteration of the COFF; it's called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the**file command** on Linux with the filename as the first argument.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Structure of a Windows Portable Executable
 
 ![Windows portable executable structure diagram](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Portable Executable file format consists of several components, each with a specific purpose. These components include:
 
@@ -59,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let's learn exactly what each component does.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DOS Header
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  This code is also called the MS-DOS stub and is used to throw an error message on systems that don't support the PE file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PE Header
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Section Headers
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
  The sections themselves comprise the executable's real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know All About the Windows Portable Executable File Format
@@ -115,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-grateful-choices-comprehensive-otu-guide/"><u>[New] 2024 Approved Grateful Choices Comprehensive OTU Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-nocturnal-world-through-your-iphone-lens/"><u>[New] In 2024, Exploring the Nocturnal World Through Your iPhone Lens</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/feast-your-eyes-on-9-whole-film-winter-wonders-no-charge-for-2024/"><u>Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-pixel-capture-reimagined/"><u>In 2024, Pixel Capture Reimagined</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-prime-portals-select-4k-ready-laptops-for-visionary-artists/"><u>In 2024, Prime Portals Select 4K-Ready Laptops for Visionary Artists</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-disk-identification-in-modern-windows/"><u>Navigate Disk Identification in Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-turbo-valorant-downloads-in-windows/"><u>Quick Fixes to Turbo Valorant Downloads in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-err-87-unmatched-library-loading-in-windows/"><u>Tackling Err 87: Unmatched Library Loading in WIndows</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/ultimate-guide-restoring-accidentally-erased-files-on-nikon-cameras/"><u>Ultimate Guide: Restoring Accidentally Erased Files on Nikon Cameras</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-9-strengths-that-make-pcs-preferable-to-macs/"><u>Unveiling 9 Strengths That Make PCs Preferable to Macs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-powerful-combination-of-style-and-flexibility-in-the-dell-xps-13-7390-ultrabook-review/"><u>Unveiling the Powerful Combination of Style & Flexibility in the Dell XPS 13 (7390) Ultrabook Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-efficient-content-curation-steps-towards-a-well-organized-watch-later-playlist/"><u>[New] 2024 Approved Efficient Content Curation Steps Towards a Well-Organized 'Watch Later' Playlist</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-stealthy-techniques-to-skip-online-classroom-vids/"><u>2024 Approved Stealthy Techniques to Skip Online Classroom Vids</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-methods-for-bulk-folder-formation-in-windows-1011/"><u>Efficient Methods for Bulk Folder Formation in Windows 10/11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-on-perfecting-zoom-video-conferencing-for-youtube-for-2024/"><u>Expert Tips on Perfecting Zoom Video Conferencing for YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-easy-timekeepers-without-a-price-tag-for-2024/"><u>Expertly Easy Timekeepers Without a Price Tag for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-tutorial-adding-emotional-depth-with-the-ken-burns-effect-updated-2023/"><u>Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-unveiled-the-science-and-companies-leading-its-integration/"><u>Generative AI Unveiled: The Science & Companies Leading Its Integration</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-permission-restrictions-and-open-hidden-folders/"><u>How to Disable Permission Restrictions and Open Hidden Folders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/o-get-your-youtube-video-seen-6-easy-steps-for-2024/"><u>How to Get Your YouTube Video Seen - 6 Easy Steps for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-wwe-2k2-learn-how-with-our-troubleshooting-guide-for-pc-gamers/"><u>No More Crashes in WWE 2K2#! Learn How with Our Troubleshooting Guide for PC Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-power-user-permissions-issues-in-windows-os/"><u>Resolving Power-User Permissions Issues in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/silence-windows-software-update-messages/"><u>Silence Windows Software Update Messages</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-overcome-common-airplay-setup-challenges/"><u>Step-by-Step Fixes to Overcome Common AirPlay Setup Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-mitigate-application-crashes-unhandled-exception-error/"><u>Steps to Mitigate Application Crashes: Unhandled Exception Error</u></a></li>
+<li><a href="https://win11.techidaily.com/why-excel-fails-to-open-in-windows-notepad/"><u>Why Excel Fails to Open in Windows Notepad?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-10plus-users-unlocking-the-secrets-of-your-ram-type/"><u>Windows 10+ Users: Unlocking the Secrets of Your RAM Type</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-struggles-lack-of-drive-letters-explained-and-cured/"><u>Windows Struggles: Lack of Drive Letters Explained & Cured</u></a></li>
 </ul></div>
 

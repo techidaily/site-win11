@@ -1,7 +1,7 @@
 ---
 title: Maximizing System Efficiency Through CPU Settings
-date: 2024-08-16T00:49:01.593Z
-updated: 2024-08-17T00:49:01.593Z
+date: 2025-01-15T17:19:41.435Z
+updated: 2025-01-18T17:55:54.327Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
 ![Cmd in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/win11-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To show the minimum processor state, enter the below command:
 
 `powercfg -attributes SUB_PROCESSOR 893dee8e-2bef-41e0-89c6-b55d0929964c -ATTRIB_HIDE`
@@ -44,9 +48,6 @@ To hide the maximum processor state, enter the below command:
 
  After you have typed in the command you want in the CMD window, hit the**Enter** key on your keyboard to run it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Show or Hide the Minimum or Maximum Processor State Using the Registry Editor
 
  You can also show or hide these options using the Registry Editor. However, before you do so, create a restore point as a backup in case you make a mistake and need to return your Windows computer to a previously-working state. Check out[how to create a restore point in Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) for more information.
@@ -54,8 +55,9 @@ To hide the maximum processor state, enter the below command:
  After creating the system restore point, press**Win + R** to open the Run dialog box. Then, enter**regedit** in the text box and hit the**Enter** key to open the Registry Editor.
 
 ![Regedit in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/regedit-11-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the UAC prompt, click**Yes** to continue.
@@ -67,15 +69,17 @@ To hide the maximum processor state, enter the below command:
  Right-click the**Attributes** value in the right panel and select**Modify** .
 
 ![modifying the attributes value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-modify-attributes.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, set**Value data** to**1** to hide the minimum processor state. To show it, set**Value data** to**2** .
 
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For the maximum processor state, enter the below file path in the Registry Editor's address bar to get to its key:
@@ -85,20 +89,18 @@ To hide the maximum processor state, enter the below command:
  Double-click the**Attributes** entry to modify it, and then change**Value data** to**1** to hide the maximum processor state or**2** to show it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Add or Remove the Minimum and Maximum Processor States From Power Options
 
  Setting the minimum or maximum processor state on your Windows computer is vital to helping you get the performance you want from it. If you can’t see these options in the Power Options menu, you can easily reveal them with either Command Prompt or the Registry Editor. And after you’re done tweaking the states, you can hide them for their protection.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +109,18 @@ To hide the maximum processor state, enter the below command:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-navigate-with-precision-the-complete-guide-to-idevice-podcast-downloads/"><u>[New] In 2024, Navigate with Precision The Complete Guide to iDevice Podcast Downloads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-pictorial-perfection-your-premier-guide-to-saving-tweeted-gifs/"><u>[Updated] In 2024, Pictorial Perfection Your Premier Guide to Saving Tweeted GIFs</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/windows-11-windows-10-pc/"><u>「Windows 11 / Windows 10 上で安全な PC間でのシステムイメージ複製手順」</u></a></li>
+<li><a href="https://win11.techidaily.com/ejecting-the-onedrive-microsoft-identity-connection-on-pcs/"><u>Ejecting the OneDrive-Microsoft Identity Connection on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-windows-with-smart-intelligence-systems/"><u>Innovating Windows with Smart Intelligence Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/mastering-insta-photo-watermarks-a-step-by-step-guide-for-2024/"><u>Mastering Insta Photo Watermarks A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/obs-versus-wirecast-assessing-the-best-for-live-broadcasts/"><u>OBS Versus Wirecast Assessing the Best for Live Broadcasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/overcoming-common-issues-with-the-realtek-alc887-hd-audio-driver-in-windows/"><u>Overcoming Common Issues with the Realtek ALC887 HD Audio Driver in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/securely-managing-windows-11-registry-access/"><u>Securely Managing Windows 11 Registry Access</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-steps-resolving-unknown-device-scan-error-on-your-windows-pc-tips-from-yl-computing/"><u>Troubleshooting Steps: Resolving 'Unknown Device' Scan Error on Your Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-full-scale-development-with-wsl-in-windows-10/"><u>Unleashing Full-Scale Development with WSL in Windows 10</u></a></li>
+</ul></div>
 

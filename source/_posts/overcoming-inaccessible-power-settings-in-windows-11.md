@@ -1,7 +1,7 @@
 ---
 title: Overcoming Inaccessible Power Settings in Windows 11
-date: 2025-01-05T19:16:25.480Z
-updated: 2025-01-12T20:19:51.906Z
+date: 2025-01-14T16:41:22.769Z
+updated: 2025-01-19T01:10:15.640Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Change the Power Mode in Windows 11?
 
  Several factors can prevent you from changing the power mode in Windows. Here are the most common reasons behind this problem:
@@ -34,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 * A corruption issue within the system is causing the problem. The best way to rule out such problems is by running the Power troubleshooter built into Windows.
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
 
@@ -52,7 +52,7 @@ Here is how you can proceed:
 4. Now, look for**Power options** and click on it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
@@ -61,7 +61,7 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
@@ -83,15 +83,11 @@ Here is how you can run the troubleshooter:
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -130,6 +126,10 @@ Hopefully, this will resolve the issue.
 
  In this case, you can choose a state where the current issue is not present.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Switch Power Modes Easily
 
  By now, you should be able to switch the power modes successfully. However, if you are still experiencing the problem and cannot find a way around it, then you can contact the official Microsoft team and report the issue to them. They will likely be able to find the root cause of the issue and suggest a fix.
@@ -151,21 +151,22 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-creating-a-captivating-experience-with-your-first-facebook-live/"><u>[New] Creating a Captivating Experience with Your First Facebook Live</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-blur-facesbackgroundimages-in-photoshop/"><u>[New] How to Blur Faces/Background/Images in Photoshop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-unlocking-vlcs-full-potential-an-overview/"><u>[New] Unlocking VLC's Full Potential An Overview</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-expert-tips-for-removing-persistent-youtube-channels-mobilepc/"><u>[Updated] In 2024, Expert Tips for Removing Persistent Youtube Channels (Mobile/PC)</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok-for-2024/"><u>[Updated] The Next Big Thing in Short Form Videos Who'll Take the Lead, Likes or TikTok for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-hevc-transcoding-tools-efficient-h2e5-video-convertersencoders-for-windows-11-and-mac-os-x/"><u>Best HEVC Transcoding Tools: Efficient H.2e5 Video Converters/Encoders for Windows 11 and Mac OS X</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-fixing-dism-issue-0x800f082f/"><u>Comprehensive Guide to Fixing DISM Issue 0X800F082F</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-sharing-problems-with-geforce-experience-in-windows/"><u>Eradicating Sharing Problems with GeForce Experience in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-turn-off-hyper-v-in-windows-11-pro/"><u>Guide to Turn Off Hyper-V in Windows 11 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-x90s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo X90S Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/localize-chatgpt-on-pc-free-and-simple-with-gpt4all/"><u>Localize ChatGPT on PC - Free & Simple With GPT4All.</u></a></li>
-<li><a href="https://win11.techidaily.com/simplify-your-system-the-best-windows-apps-to-drop/"><u>Simplify Your System: The Best Windows Apps to Drop</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-powertoys-to-win11/"><u>Step-by-Step Guide: Adding PowerToys to Win11</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unraveling-the-latest-computer-innovations/"><u>Tom's Tech Insights: Unraveling the Latest Computer Innovations</u></a></li>
-<li><a href="https://win-unique.techidaily.com/top-rated-photo-slideshow-applications-compatible-with-windows-11/"><u>Top-Rated Photo Slideshow Applications Compatible with Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-hidden-threats-a-user-guide-to-pc-security/"><u>Unveiling Hidden Threats: A User Guide to PC Security</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-saving-powerpoint-presentation-to-video/"><u>[New] 2024 Approved Saving PowerPoint Presentation to Video</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ideo-editing-mastery-leveraging-youtube-then-expanding-beyond-for-2024/"><u>[New] Video Editing Mastery Leveraging YouTube, Then Expanding Beyond for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-spotlight-on-the-top-8-authentic-video-promotion-methods/"><u>2024 Approved Spotlight on the Top 8 Authentic Video Promotion Methods</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-5200-printer-drivers-for-windows-11-10-and-8-free-and-easy-guide/"><u>Download HP LaserJet 5200 Printer Drivers for Windows 11, 10 & 8 - Free and Easy Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-failed-capture-on-your-pc-writes/"><u>Eliminating Failed Capture on Your PC' Writes</u></a></li>
+<li><a href="https://win11.techidaily.com/empowering-offline-windows-maintenence-and-improvement/"><u>Empowering Offline Windows Maintenence and Improvement</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-windows-conflicting-camera-use-0xa00f4243/"><u>Eradicating Windows' Conflicting Camera Use (0xA00F4243)</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-on-applying-diskusage-commands-for-storage-assessment/"><u>Essential Tips on Applying DiskUsage Commands for Storage Assessment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-10-best-youtube-makeup-artists-you-must-have-heard/"><u>In 2024, 10 Best YouTube Makeup Artists You Must Have Heard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reboot-to-rejuvenate-drag-and-drop-on-win11-pcs/"><u>Reboot to Rejuvenate Drag & Drop on Win11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-family-safety-overcoming-common-windows-hurdles/"><u>Revitalize Family Safety: Overcoming Common Windows Hurdles</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-depleted-windows-time-servers-essential-strategies/"><u>Reviving Depleted Windows Time Servers: Essential Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-disabling-impending-license-expiry-in-windows/"><u>Solutions for Disabling Impending License Expiry in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/telechargement-gratuit-de-mac-x-dvd-ripper-professional-sur-internet/"><u>Téléchargement Gratuit De Mac X DVD Ripper Professional Sur Internet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a56s-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A56s 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-windows-edition-toolkit-for-videos-for-2024/"><u>Ultimate Windows Edition Toolkit for Videos for 2024</u></a></li>
 </ul></div>
 

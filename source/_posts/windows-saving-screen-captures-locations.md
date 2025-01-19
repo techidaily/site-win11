@@ -1,7 +1,7 @@
 ---
 title: "Windows: Saving Screen Captures Locations"
-date: 2025-01-04T18:46:18.863Z
-updated: 2025-01-06T18:36:44.367Z
+date: 2025-01-12T19:17:59.939Z
+updated: 2025-01-19T00:08:18.392Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
  There are several built-in tools for [taking screenshots on Windows](https://www.makeuseof.com/take-screenshot-windows-11/), including the Print Screen key (typically abbreviated **Prt Sc** on your keyboard) and Snipping Tool. Depending on which one you use, you might have to save it yourself after taking it, or navigate to a specific folder to grab it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prt Sc Key
 
  Where do print screens go? The answer is simple: to the clipboard. If you want to access the screenshot, you have to save the it manually in an image editor like Paint. You can even paste the screenshots into programs that allow you to insert images, such as Microsoft Word or Google Docs.
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
  When you use the **Win + Prt Sc** shortcut, the screenshot goes to the clipboard. Windows also saves it on your computer; you can access it by heading to **Pictures > Screenshots** in File Explorer.
 
 ![The Screenshots folder on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshots-folder-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The screenshot will be saved in PNG format with a generic name like "Screenshot (2)."
 
@@ -60,15 +72,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ![The Snipping Tool on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/snipping-tool-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make sure you select a location you can easily remember so you don't forget where you placed it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Xbox Game Bar (Windows Key + G)
 
@@ -77,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![The Captures folder highlighted in the Videos folder on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/captures-folder-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the file path, replace **\[your username\]** with the name of the user account you've logged into. That means if the account username is Jack, then the file path will be **This PC > Local Disk (C:) > Users > Jack > Videos > Captures**.
@@ -101,14 +105,10 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![Navigating to the Screenshots folder in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/steam-view-screenshots.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you can't figure out where the app saved the screenshots, open File Explorer and check the **Pictures** and **Documents** folders. For instance, Lightshot saves the screenshots in **Documents > Lightshot**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can You Change Where Screenshots Are Saved on Windows?
 
@@ -123,7 +123,7 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 ![A screenshot in the Recent section of the File Explorer Home tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/file-explorer-home-recent.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another thing you can do, on top of looking in the **Pictures** and **Documents** folders, is [check the installation location of the program](https://www.makeuseof.com/windows-ways-to-find-programs-install-location/) you use for screenshots. Look for folders with names like **Screenshots** or **Captures**. Using Windows Search for these common terms could help you locate them.
@@ -140,24 +140,18 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-high-speed-windows-photo-explorer-tool/"><u>[New] 2024 Approved High-Speed Window's Photo Explorer Tool</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-beginners-guide-choosing-your-first-film-camera/"><u>[New] A Beginner's Guide Choosing Your First Film Camera</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-bank-balance-crafting-commercial-video-content/"><u>Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comparing-high-end-drone-and-camera-tech/"><u>Comparing High-End Drone & Camera Tech</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-an-invisible-window-bar/"><u>Crafting an Invisible Window Bar</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-iphone-drivers-on-windows-10-step-by-step-guide/"><u>Download & Install Latest iPhone Drivers on Windows 10 - Step-by-Step Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/francais-des-semaines/"><u>Français Des Semaines</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-android-and-ios-wedding-timer-apps-top-10-selection-revealed/"><u>In 2024, Android & iOS Wedding Timer Apps Top 10 Selection Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/maximize-device-longevity-charge-and-regulate-temperature-of-apple-tech-using-the-all-in-one-magsafe-dock-s-review/"><u>Maximize Device Longevity: Charge & Regulate Temperature of Apple Tech Using the All-in-One MagSafe Dock 'S Review</u></a></li>
-<li><a href="https://win11.techidaily.com/offscreen-wonderland-revive-windows-on-your-1011-device/"><u>Offscreen Wonderland: Revive Windows on Your 10/11 Device</u></a></li>
-<li><a href="https://win11.techidaily.com/revitalizing-file-explorer-secrets-of-window-11/"><u>Revitalizing File Explorer: Secrets of Window 11</u></a></li>
-<li><a href="https://win11.techidaily.com/shielding-game-progress-a-comprehensive-backup-approach/"><u>Shielding Game Progress: A Comprehensive Backup Approach</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-win-printer-linkups-for-easy-access/"><u>Streamlining Win-Printer Linkups for Easy Access</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-shutdown-of-superfluous-software-on-windows-11/"><u>Swift Shutdown of Superfluous Software on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/the-webs-wallpaper-7-efficient-methods-to-unlock-your-browsers-in-win-os/"><u>The Web's Wallpaper: 7 Efficient Methods to Unlock Your Browsers in Win OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-6s-plus-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 6s Plus</u></a></li>
-<li><a href="https://win11.techidaily.com/waking-up-lost-window-panes-easy-fixes-for-win11/"><u>Waking Up Lost Window Panes: Easy Fixes for Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-iscsi-initiator-and-how-do-you-access-it/"><u>What Is the Windows iSCSI Initiator, and How Do You Access It?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/et-a-cleaner-look-in-your-videos-quickly-and-easily/"><u>[New] Get a Cleaner Look in Your Videos Quickly and Easily</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-swiftly-excise-your-youtube-comment-spam/"><u>[New] How to Swiftly Excise Your Youtube Comment Spam</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-get-more-from-instagram-reels-top-8-downloaders-at-no-cost/"><u>[New] In 2024, Get More From Instagram Reels - Top 8 Downloaders at No Cost</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-most-innovative-voice-altering-mobile-apps/"><u>[Updated] 2024 Approved Most Innovative Voice-Altering Mobile Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-is-screening-youtube-footage-illegal-in-2024/"><u>[Updated] Is Screening YouTube Footage Illegal, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-masterpiece-makers-leading-ios-draw-tools/"><u>[Updated] Masterpiece Makers Leading iOS Draw Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-direct-digital-delivery-streamlined-steps-for-files/"><u>2024 Approved Direct Digital Delivery Streamlined Steps for Files</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-volume-adjustment-issues-in-windows-os/"><u>Mastering Volume Adjustment Issues in Windows OS</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-elevate-your-video-game-best-1080p-editing-software-for-creators/"><u>New 2024 Approved Elevate Your Video Game Best 1080P Editing Software for Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-galaxy-performance-through-seamless-integration-in-windows-11/"><u>Optimizing Galaxy Performance Through Seamless Integration in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-thumbnails-dimensions-on-desktop/"><u>Personalize Thumbnails: Dimensions on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-pc-data-access-everythingapp-utilization/"><u>Rapid PC Data Access: EverythingApp Utilization</u></a></li>
+<li><a href="https://win11.techidaily.com/the-clear-sight-crusade-nine-methods-to-sharpen-your-monitor/"><u>The Clear Sight Crusade: Nine Methods to Sharpen Your Monitor</u></a></li>
 </ul></div>
 

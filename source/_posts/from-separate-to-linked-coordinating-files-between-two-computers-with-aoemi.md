@@ -1,7 +1,7 @@
 ---
 title: "From Separate to Linked: Coordinating Files Between Two Computers with AOEMi"
-date: 2024-08-16T00:49:19.214Z
-updated: 2024-08-17T00:49:19.214Z
+date: 2025-01-13T22:47:25.766Z
+updated: 2025-01-19T00:32:35.567Z
 tags:
   - windows10
   - windows11
@@ -27,8 +27,9 @@ thumbnail: https://thmb.techidaily.com/2cb259c465a86a9d87c2ab8ed232a243225880491
 ![AOMEI Home Screen UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Home-Screen-UI.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Basic Sync
 
  An AOMEI basic sync allows you to easily sync changed files from a given source directory to the destination directory.
@@ -39,27 +40,24 @@ To perform a basic sync:
 2. Select**Basic Sync** .
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.
 5. ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)  
  For a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.  
 ![AOMEI Folder Share](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Folder-Share.jpg)
 6. You can also click**Options** to configure various settings for your backup such as email notifications, comments, pre- and post-backup scripts to be run as well as options to sync deletions between the source and destination directories.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. You can click on**Schedule Sync** to set the backup as a scheduled task to be run whenever you desire.  
 ![AOMEI Schedule Sync](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Schedule-Sync.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 8. Finally, click**Start Sync** .
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Set Up AOMEI Two-Way Sync
 
  AOMEI two-way sync allows you to automatically sync any changes in either the source or the destination directories. This is sometimes referred to as a bidirectional data sync. This is the perfect solution if you are working independently between two computers and what to keep both of them synced at all times.
@@ -72,10 +70,12 @@ To perform a two-way sync:
 2. Select**Two-Way Sync** .
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
@@ -86,13 +86,14 @@ To perform a two-way sync:
  To test this out, let's put the source and destination side by side and create a new file in the source directory.
 
 ![AOMEI Sync Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Sync-Test.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Then let's manually run the sync operation.
 
 ![Two Way Sync Manual Operation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Two-Way-Sync-Manual-Operation.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Within a few seconds, our file appears in the destination folder.
 
@@ -108,12 +109,14 @@ Within a few seconds, our file appears in the destination folder.
 2. Select**Real-Time Sync** .
 3. Specify a source folder by clicking the**Add Folder** button.  
 ![AOMEI Add Source Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Add-Source-Folder.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the dropdown to specify either a local path, folder share or NAS device, or cloud drive as the destination.  
 ![AOMEI Specify Destination](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/AEOMI-Specify-Destination.jpg)
 5. Once again, for a separate Windows machine, click**Add Share or NAS devices** and input the IP address and folder path of the destination computer and click the blue button on the right. Input a username and password if you are prompted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. You have the same options as before to create a scheduled sync or set up email notifications, comments, or scripts.
 7. Select**Start Sync** .
 
@@ -123,14 +126,11 @@ Within a few seconds, our file appears in the destination folder.
 
  AOMEI is quite the comprehensive package for your data sync needs. In just a few simple steps we were able to set up a "set and forget" data sync between either your local backup, NAS, or other dedicated Windows PC. What's more, AOMEI offers up more than just data sync out of the box. It also has options for backup, cloning, restoring, and recovery, making it a great tool to have on-hand on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -139,4 +139,26 @@ Within a few seconds, our file appears in the destination folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-fun-on-a-budget-meme-creators-handbook/"><u>[New] Fun on a Budget – Meme Creator’s Handbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-chasing-the-best-deals-on-chinese-vr-helmets/"><u>[New] In 2024, Chasing the Best Deals on Chinese VR Helmets</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-perfect-iphone-mp3-conversion-top-6-software-recommendations/"><u>[New] In 2024, Perfect iPhone MP3 Conversion Top 6 Software Recommendations</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-preparing-for-facebooks-updated-marketing-strategy/"><u>2024 Approved Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-windows-11-task-management-pro-filters-and-personalized-themes-setup/"><u>Conquer Windows 11 Task Management: Pro Filters & Personalized Themes Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-nvidia-disp-settings-not-present-fault/"><u>Correcting Nvidia Disp Settings Not Present Fault</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-12-artificial-intelligence-image-generators-by-movavi/"><u>Discover the Leading 12 Artificial Intelligence Image Generators by Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-phone-media-saving-problems/"><u>Eliminating Windows Phone Media Saving Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-weather-tech-for-win-pcs-w10w11/"><u>Innovative Weather Tech for Win PCs (W10/W11)</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-steam-interface-failure-issue/"><u>Remedying Steam Interface Failure Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-frame-rate-drops-in-resident-evil-village-on-pc/"><u>Resolved: Troubleshooting Frame Rate Drops in Resident Evil Village on PC</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/robust-data-retrieval-software/"><u>Robust Data Retrieval Software</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/secure-transfer-of-a-windows-7-system-between-two-computers/"><u>Secure Transfer of a Windows 7 System Between Two Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reset-and-stabilize-windows-post-restart/"><u>Steps to Reset and Stabilize Windows Post-Restart</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-failures-repairing-windows-11s-cloud-functionality/"><u>Tackling Failures: Repairing Windows 11'S Cloud Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-timeline-on-windows-toolbars/"><u>Tailor Your Timeline on Windows Toolbars</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-error-3-in-nvidia-opengl-for-win1011/"><u>Troubleshooting Error 3 in NVIDIA OpenGL for Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-pc-performance-a-practical-approach-to-finding-and-fixing-error-codes-in-command-prompt/"><u>Unlocking PC Performance: A Practical Approach to Finding & Fixing Error Codes in Command Prompt</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/user-insights-on-vllo/"><u>User Insights on VLLO</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips to Improve Windows Roblox Performance Speed
-date: 2025-01-11T19:38:08.593Z
-updated: 2025-01-13T06:38:26.563Z
+date: 2025-01-14T18:38:11.632Z
+updated: 2025-01-18T16:38:12.067Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Ensure the Frame Rate Is Actually Low
 
  First, ensure that the frame rate is actually low in Roblox; you can check this using Roblox's in-game FPS counter. To check the game's FPS, you simply have to press the**Shift + F5** keys.
@@ -50,7 +46,11 @@ thumbnail: https://thmb.techidaily.com/c2364ce1ce1631cf3307292a0e382081e93d8f200
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Free Up System Resources to Support Roblox
@@ -65,6 +65,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
 4. To end these processes, right-click on them and click**End task** .  
 ![Close Microsoft Teams Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-microsoft-teams-using-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change Graphics Quality
 
  Lowering the graphics quality in the Roblox settings is the easiest way to reduce lag and improve FPS. While it will inevitably degrade the visual quality, it will significantly improve overall game performance.
@@ -73,12 +77,16 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Settings in the Roblox App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-in-the-roblox-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, change the**Graphics Mode** to**Manual** and reduce the**Graphics Quality** by clicking on the minus sign.
 
 ![Change Graphics Settings in Roblox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-change-graphics-settings-in-roblox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reducing the graphics quality will undoubtedly improve FPS and reduce lag in Roblox. However, avoid reducing the quality too low, as it will negatively impact your gaming experience.
@@ -91,17 +99,9 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If Roblox is not already listed here, click**Browse** , and select Roblox's EXE file. Once added, click on Roblox and then**Options** . After that, select**High performance** in the**Graphics preference** window.
 
 ![Select High Performance in the Graphics Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-select-high-performance-in-the-graphics-preferences-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Change the Power Plan Settings
 
@@ -112,10 +112,6 @@ To remove this unnecessary burden from your GPU, follow these steps:
 1. Type**"Choose a Power Plan"** in Windows Search and open the power plan settings.
 2. If it isn't already selected, check the circle beside**High Performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Some GPU manufacturers also offer custom power plans, so if such a plan is listed as an additional option in your power plan settings, you can also select that. Just remember that high-performance plans consume more power.
 
@@ -134,7 +130,7 @@ To remove this unnecessary burden from your GPU, follow these steps:
  Doing so will disable all visual effects, but you'll immediately see a good FPS boost.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Check for Internet Issues
@@ -145,6 +141,10 @@ To remove this unnecessary burden from your GPU, follow these steps:
 * Disconnect other devices connected to your internet connection. This will ensure that your device receives the maximum bandwidth possible.
 * Even though there isn't much evidence to support this, changing the DNS settings can reduce latency slightly, which can reduce lag in online games.[Change the DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) and see if it improves Roblox's performance.
 * If available, use an Ethernet cable to connect your device to the internet, as it helps establish a stable connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Play Roblox Lag-Free and Get Better FPS on Windows
 
@@ -167,24 +167,24 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-economical-sky-craftsmen-top-5-budget-friendly-drones/"><u>2024 Approved Economical Sky Craftsmen Top 5 Budget-Friendly Drones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-motivating-hr-chronicles-the-best-ten-vids/"><u>2024 Approved Motivating HR Chronicles - The Best Ten Vids</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/5-fast-methods-to-build-a-booting-windows-11-usb-from-an-iso-file/"><u>5 Fast Methods to Build a Booting Windows 11 USB From an ISO File</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-samsung-and-lg-unveiling-the-best-alternative-qled-tvs-for-ultimate-picture-quality/"><u>Beyond Samsung & LG: Unveiling the Best Alternative QLED TVs for Ultimate Picture Quality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Motorola Moto G84 5G ?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comparative-analysis-of-best-win-driven-art-tools-for-2024/"><u>Comparative Analysis of Best Win-Driven Art Tools for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/covert-snapcapture-stealthy-tactics-for-unseen-picture-recording-for-2024/"><u>Covert SnapCapture Stealthy Tactics for Unseen Picture Recording for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-a-seamless-experience-with-enhanced-window-11-menus/"><u>Crafting a Seamless Experience with Enhanced Window 11 Menus</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-windows-11s-secrets-to-mac-retrieval/"><u>Decoding Windows 11'S Secrets to MAC Retrieval</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-non-authentic-adobe-app-alerts/"><u>Disabling Non-Authentic Adobe App Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-erratic-screens-on-win-1011/"><u>Eliminating Erratic Screens on WIN 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-reduce-wait-time-for-epic-games-on-pc/"><u>How to Reduce Wait Time for Epic Games on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-nokia-c32-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Nokia C32 Screen | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-offers-wisely-master-w11-pro-saving-strategies/"><u>Navigate Offers Wisely: Master W11 Pro Saving Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/supercharged-productivity-while-flipping-audio-switches/"><u>Supercharged Productivity While Flipping Audio Switches</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-windows-excel-freeze-up-during-slide-viewing/"><u>Tackle Windows Excel Freeze-Up During Slide Viewing</u></a></li>
-<li><a href="https://win11.techidaily.com/top-4-windows-11-password-protectors-secure-mastery-in-five-words-or-less/"><u>Top 4 Windows 11 Password Protectors: Secure Mastery in Five Words or Less</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-pro-tactics-in-mcp-free-old-manager-game/"><u>Unlocking Pro Tactics in MCP: Free Old Manager Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-finest-accessible-switch-replicas/"><u>[New] Finest Accessible Switch Replicas</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-yt-bidirectional-navigating-the-queue-from-the-conclusion-backwards/"><u>[Updated] In 2024, YT Bidirectional Navigating the Queue From the Conclusion Backwards</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-facile-daiff-a-mp3-grace-a-loutil-de-conversion-avance-de-movavi/"><u>Conversion Facile D'AIFF À MP3 Grâce À L'outil De Conversion Avancé De Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/correct-the-dimmed-extend-option-on-windows-explorer/"><u>Correct the Dimmed Extend Option on Windows Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-connection-to-unreachable-windows-11-printer/"><u>Enabling Connection to Unreachable Windows 11 Printer</u></a></li>
+<li><a href="https://win11.techidaily.com/enriching-old-directx-software-via-dxvk-conversion/"><u>Enriching Old DirectX Software via DXVK Conversion</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-on-apple-iphone-12-pro-by-drfone-ios/"><u>How to Fix Locked Apple ID on Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-examining-ffmpeg-written-by-user/"><u>In 2024, Examining FFmpeg' Written by User</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-harmonizing-sound-dynamics-in-ableton/"><u>In 2024, Harmonizing Sound Dynamics in Ableton</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-hypervisor-bsos-quick-solutions-on-winxose/"><u>Mastering Hypervisor BSOS: Quick Solutions on WINXOSE</u></a></li>
+<li><a href="https://win-latest.techidaily.com/mastering-the-art-of-syncing-two-extreme-drives-a-guide-to-both-manual-and-auto-techniques/"><u>Mastering the Art of Syncing Two Extreme Drives: A Guide to Both Manual & Auto Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/methodical-approach-for-backup-of-snippets/"><u>Methodical Approach for Backup of Snippets</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-windows-with-a-side-of-kali-linux/"><u>Securing Windows with a Side of Kali Linux</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-restoring-network-link-in-windows/"><u>Steps for Restoring Network Link in Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg-for-2024/"><u>The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-huawei-nova-y91-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Huawei Nova Y91 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-your-pc-from-the-windows-11-compatibility-shackles/"><u>Unlocking Your PC From the Windows 11 Compatibility Shackles</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-three-pivotal-technological-advancements/"><u>Unveiling the Three Pivotal Technological Advancements</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-wi-fi-data-metric-control-guide/"><u>Win11 Wi-Fi Data Metric Control Guide</u></a></li>
 </ul></div>
 

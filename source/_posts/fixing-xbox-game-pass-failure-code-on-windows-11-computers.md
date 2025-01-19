@@ -1,7 +1,7 @@
 ---
 title: Fixing Xbox Game Pass Failure Code on Windows 11 Computers
-date: 2024-08-16T00:51:22.873Z
-updated: 2024-08-17T00:51:22.873Z
+date: 2025-01-14T16:48:03.339Z
+updated: 2025-01-19T00:02:01.824Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,16 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 5. The troubleshooter may apply some fixes automatically. If it suggests any potential solutions, select to apply them.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-apps-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To access the same troubleshooter in Windows 10, click**Update & Security** \>**Troubleshoot** . You can bring up the troubleshooting tool list by clicking**Additional troubleshooters** . Then click Windows Store Apps’**Run the troubleshooter** option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Repair and Reset the Xbox, Microsoft Store, and Gaming Services Apps
 
  The Xbox, Microsoft Store, and Game Services apps are three that can feasibly cause error 0x00000001 when they’re corrupted. Repairing and resetting all those apps via Settings could clear any issues with them and resolve 0x00000001 with that. You can clear all those apps’ data as instructed in our guide to[resetting apps on Windows 10 and 11](https://www.makeuseof.com/windows-reset-app/) .
@@ -55,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 4. Input and execute this command for removing Gaming Services:  
 `get-appxpackage Microsoft.GamingServices | remove-Appxpackage -allusers`  
 ![The uninstall Gaming Services command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-remove-app-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. To reinstall Gaming Services, enter the following PowerShell command and press**Return** :  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
 ![The start MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-ms-store-command.jpg)
@@ -74,10 +76,12 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 3. Double-click**Xbox Live Auth Manager** to access the properties window for that service.
 4. Set the service’s startup type to**Automatic** by selecting that option on the**Startup type** menu.  
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-automatic-startup-type-option.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click Xbox Live Auth Manager’s**Start** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. To save the settings, select**Apply** .
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
@@ -87,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
  Internet connection instability generated by corrupted or outdated DNS data is another potential cause for error 0x00000001\. Flushing the DNS via Command Prompt will address such an issue. Our guide to[how to flush the DNS on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) covers clearing the cache with an ipconfig command.
 
 ![The flush DNS command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-flush-dns-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run the Windows Image and System File Scans
@@ -101,20 +106,15 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 2. First, run the Deployment Image Servicing and Management tool by executing this command:  
 `DISM.exe /Online /Cleanup-image /Restorehealth`  
 ![The Deployment Image and Servicing Management command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-repair-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Then start a System File Checker scan by inputting this text and hitting**Enter** :  
 `sfc /scannow`  
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Xbox App
 
  If repairing and resetting the Xbox app didn’t do the trick, try reinstalling it instead. Applying this potential resolution will refresh all the Xbox app’s files. You can uninstall and reinstall Xbox as follows:
@@ -127,8 +127,13 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
 5. Click the**Get in Store** and**Open Microsoft Store** options.
 6. Reinstall Xbox by clicking its**Get** button.  
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install and Play Your Xbox Game Pass Titles Again
@@ -143,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +155,24 @@ thumbnail: https://thmb.techidaily.com/cb7e8a3ea1400b28d57368d581f169474fb4983f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-tactics-for-transforming-youtube-list-layouts/"><u>[New] In 2024, Tactics for Transforming YouTube List Layouts</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/onedrive3/"><u>削除されたOneDriveファイルを簡単に取り戻す！一流テクニックトップ3</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nt-creators-preferences-vimeo-or-youtube-for-2024/"><u>Content Creators' Preferences Vimeo or YouTube for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-methods-to-convert-jpg-images-into-mp4-videos-on-any-device/"><u>Efficient Methods to Convert JPG Images Into MP4 Videos on Any Device</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-management-of-terminals-focus-mode-entryexit-rituals/"><u>Effortless Management of Terminal's Focus Mode Entry/Exit Rituals</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-live-mastery-4-key-tv-broadcast-tips-for-2024/"><u>FB Live Mastery 4 Key TV Broadcast Tips for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-a05s-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel A05s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ink-your-window-world-windows-1011-art-guide/"><u>Ink Your Window World: Windows 10/11 Art Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/learn-how-to-flawlessly-move-mp4-videos-onto-your-iphone-without-losing-any-data-ultimate-guide/"><u>Learn How To Flawlessly Move MP4 Videos Onto Your iPhone Without Losing Any Data: Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/master-your-workflow-setting-up-shortcuts-near-the-power-button-in-win11/"><u>Master Your Workflow: Setting Up Shortcuts Near the Power Button in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-your-window-11-capabilities-quickly/"><u>Maximize Your Window 11 Capabilities Quickly</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-fully-utilize-your-systems-ram-on-windows/"><u>Strategies to Fully Utilize Your System's RAM on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-display-troubles-head-on-with-simple-fixes/"><u>Tackle Windows Display Troubles Head-On with Simple Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/the-costly-shortcuts-of-substandard-windows-auth-codes-explored/"><u>The Costly Shortcuts of Substandard Windows Auth Codes Explored</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubled-by-the-0x80072efd-mistake-on-your-pc-heres-how-to-resolve-it/"><u>Troubled by the 0X80072EFD Mistake on Your PC? Here’s How to Resolve It!</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-mending-event-log-in-windows-11/"><u>Understanding and Mending Event Log in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/utilizing-b-roll-in-video-production-effectively-for-2024/"><u>Utilizing B-Roll in Video Production Effectively for 2024</u></a></li>
+</ul></div>
 

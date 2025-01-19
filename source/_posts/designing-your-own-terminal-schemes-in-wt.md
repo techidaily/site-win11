@@ -1,7 +1,7 @@
 ---
 title: Designing Your Own Terminal Schemes in WT
-date: 2025-01-11T16:53:05.201Z
-updated: 2025-01-13T09:12:07.405Z
+date: 2025-01-11T23:40:32.026Z
+updated: 2025-01-18T19:28:49.430Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Edit a Color Scheme in Windows Terminal?
@@ -37,12 +37,12 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![opening windows terminal from the power menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-open-start.jpg)
 2. In the tab bar at the top, click on the**dropdown arrow** and select**Settings** from the menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![opening the settings of windows terminal from the title bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/git-bash-tab-settings.jpg)
 3. On the left side menu, select**Color Schemes** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Click on the**dropdown menu** in the right panel and select the color scheme you want to edit.
 5. Under**Terminal colors** or**System colors** , you’ll see several options, such as**Black** ,**Red** ,**White** ,**Foreground** , and**Background** , with a color next to them. Click on the color to bring up the editor.  
@@ -50,15 +50,11 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 6. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value in the text box below. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the color completely.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![the color editor for a color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-terminal-edit-scheme-color.jpg)
 7. When you’re done, click**Save** in the bottom right corner to save your changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Do I Create a Color Scheme in Windows Terminal?
 
@@ -71,11 +67,15 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 5. Click on the**Rename** button next to the**dropdown** , give the custom scheme a name, and then click the**blue checkmark** to save it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![a custom color scheme in windows terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/custom-10-color-scheme-windows-terminal.jpg)
 6. Change the colors in the**Terminal colors** and**System colors** sections to something you like by clicking on them to bring up the editor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. In the color editor, you can adjust the**slider** to make the color lighter or darker or enter a new hexadecimal color value. You can also click the**dropdown** , select either**RGB** or**HSV** in the menu that appears, and enter new values to change the colors completely.
@@ -116,18 +116,20 @@ thumbnail: https://thmb.techidaily.com/a5dde8e23432eb9faea6481b1841af4ec33dc75da
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-process-of-converting-gifs-into-sticker-form-for-multi-platform-use/"><u>[Updated] The Complete Process of Converting GIFs Into Sticker Form for Multi-Platform Use</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-srt-a-complete-reference-guide-for-conversion/"><u>2024 Approved Transforming SRT A Complete Reference Guide for Conversion</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-drones-pairing-perfectly-with-gopros/"><u>Cutting-Edge Drones Pairing Perfectly with GoPros</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-high-contrast-effectiveness-in-windows/"><u>Eliminate High Contrast Effectiveness in Windows</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/exceptional-14-visual-text-motion-examples-for-2024/"><u>Exceptional 14 Visual Text Motion Examples for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-idea-to-action-founding-your-consumer-product-assessment-site/"><u>From Idea to Action Founding Your Consumer Product Assessment Site</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-computer-controls-internationally-using-powertoys-capabilities/"><u>Master Your Computer Controls Internationally Using PowerToys' Capabilities</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-your-intel-unison-errors-with-these-tips-for-win11/"><u>Overcome Your Intel Unison Errors with These Tips for Win11</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/prime-action-cameras-with-superior-mics-for-2024/"><u>Prime Action Cameras with Superior Mics for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/the-insiders-guide-enabling-imessage-for-non-ios-devices/"><u>The Insider’s Guide: Enabling iMessage for Non-iOS Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-internet-router-control-panel/"><u>Troubleshooting No Internet Router Control Panel</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-vs-yi-updated-battle-for-ultimate-action-recording/"><u>[New] GoPro Vs. YI Updated Battle for Ultimate Action Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-digital-artistry-stripping-background-in-photos-simplified-for-2024/"><u>[Updated] Digital Artistry Stripping Background in Photos Simplified for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-smooth-processes-for-recording-online-meetings-with-gotomeeting/"><u>[Updated] Smooth Processes for Recording Online Meetings with GoToMeeting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-the-future-of-vlogging-top-12-camera-innovations-for-2024/"><u>[Updated] Unveiling the Future of Vlogging Top 12 Camera Innovations for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-approach-to-revamping-your-videos-cover-images-on-fb/"><u>2024 Approved Innovative Approach to Revamping Your Videos' Cover Images on FB</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-a-step-by-step-guide-to-win-registry-alteration/"><u>Command Line: A Step-by-Step Guide to Win Registry Alteration</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-drives-type-recognition-for-your-pc/"><u>Decoding Drives: Type Recognition for Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/five-effective-strategies-for-firewall-management/"><u>Five Effective Strategies for Firewall Management</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-secrets-of-successful-ps3-game-recording-tactics/"><u>In 2024, Secrets of Successful PS3 Game Recording Tactics</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-closed-captions-in-windows-10/"><u>Master the Art of Fixing Closed Captions in Windows 10</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-error-code-31-restoring-your-internet-connection/"><u>Navigate Through Error Code 31: Restoring Your Internet Connection</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disconnect-errors-from-failed-windows-discord-updates/"><u>Resolving Disconnect Errors From Failed Windows Discord Updates</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-guide-converting-dall-e-nputs-from-webp-format-to-jpegpng/"><u>Simple Guide: Converting DALL-E Nputs From WebP Format to JPEG/PNG</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-dealing-with-missing-comctl32dll-errors-in-windows/"><u>The Ultimate Fix: Dealing with Missing Comctl32.dll Errors in Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-the-most-effective-movie-downloaders-in-2ve-been-asked-not-to-create-new-content-but-to-provide-information-as-per-my-current-knowledge-wh15/"><u>Ultimate Guide to the Most Effective Movie Downloaders in 2Ve Been Asked Not to Create New Content but to Provide Information as per My Current Knowledge Which Ended in September 2021).</u></a></li>
 </ul></div>
 

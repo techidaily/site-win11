@@ -1,7 +1,7 @@
 ---
 title: Command Prompt Strategies for Effective Data Management
-date: 2024-08-16T00:48:25.795Z
-updated: 2024-08-17T00:48:25.795Z
+date: 2025-01-12T02:17:56.962Z
+updated: 2025-01-18T23:22:00.010Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,11 @@ Here's how to zip files using Command Prompt:
 `cd Place`  
 ![Place of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/place.jpg)
 4. Type**dir** and press**Enter** . It'll show the files inside the selected folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Dir command in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dir.jpg)
 5. To zip all the files inside the selected folder, type the following command and press**Enter** . Replace '**Compressed** ' with the name you want to give your folder where the zip file will be stored. Also, replace '**FileExt** ' with the extension of the file you're zipping.  
 `tar -a -c -f Compressed.zip *.FileExt`  
@@ -40,9 +45,6 @@ Here's how to zip files using Command Prompt:
 `tar -a -c -f Compressed.zip FileName.FileExt`  
 ![Compressing one file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/compressing-one-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Zip Files Using Windows PowerShell
 
  There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
@@ -53,8 +55,9 @@ Here's how to zip files using Windows PowerShell:
 2. In the console, type the following command and press**Enter** . Ensure to replace**file destination** and**target location** with the location of the file and the place where you want the file to be zipped, respectively. Also, replace**file name** with the name of the file you want to zip and**destination name** with the destination folder name.  
 `Compress-Archive -LiteralPath 'file destination\file name' -DestinationPath 'target location\destination name'`  
 ![Zipping command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to zip multiple files, execute the following command. Replace**file destination** and**file destination 1** with the location of the first and second files, respectively. And replace**file name** and**file name 2** with the first and second file names.
@@ -63,8 +66,13 @@ Here's how to zip files using Windows PowerShell:
 `
 
 ![Zipping 2 files at once](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/zipping-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unzip Files Using Command Prompt
@@ -76,8 +84,9 @@ Here's how to zip files using Windows PowerShell:
 3. Type the following command and press**Enter** . Replace '**Name** ' with the name of the zip file.  
 `tar -xf Name.zip`  
 ![Unzipping file in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping-file.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You've successfully unzipped the file.
@@ -90,27 +99,18 @@ You've successfully unzipped the file.
 2. Type the following command and press**Enter** . Make sure to replace <**file** **destination** \> and <**target** **location** \> with the location of the zip file and the place where you want the file to be unzipped, respectively.  
 `Expand-Archive -LiteralPath <file destination> -DestinationPath <target location>`  
 ![Unzipping file in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unzipping.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Up Space on Windows 11 by Zipping Your Files
 
  As a Windows user, you will always come across situations where you want to zip or unzip files. However, if you don't want to use a third-party tool, you can use Command Prompt and Windows PowerShell to quickly zip and unzip files on Windows using the above methods.
 
  Meanwhile, you might be interested in learning a few important Command Prompt commands.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +119,20 @@ You've successfully unzipped the file.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-effortless-audio-extraction-best-youtube-to-mp3-tools-list/"><u>[New] Effortless Audio Extraction Best YouTube to MP3 Tools List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording/"><u>[New] From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-the-full-potential-of-snapkit-in-business-ads/"><u>[New] Unlock the Full Potential of SnapKit in Business Ads</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-building-your-own-youtube-organization-toolkit-the-watch-later-way/"><u>[Updated] Building Your Own YouTube Organization Toolkit The Watch Later Way</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/62232491-updated-in-2024-pro-gamers-and-casters-to-subscribe-now/"><u>[Updated] In 2024, Pro Gamers & Casters to Subscribe Now</u></a></li>
+<li><a href="https://win11.techidaily.com/command-mastery-positioning-custom-shortcuts-by-power-button-in-windows-11/"><u>Command Mastery: Positioning Custom Shortcuts by Power Button in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/comprehensive-list-of-superior-screenshot-tools-excluding-windows/"><u>Comprehensive List of Superior Screenshot Tools Excluding Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicate-chromes-file-upload-issues-a-windows-fix-guide/"><u>Eradicate Chrome's File Upload Issues: A Windows Fix Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oppo-a58-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Oppo A58 4G? Try These Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-dual-monitor-configuration-a-compre-written-by-michael-nguyen-phd/"><u>Mastering Dual Monitor Configuration: A Compre Written by Michael Nguyen, PhD</u></a></li>
+<li><a href="https://win11.techidaily.com/old-tech-in-new-waves-mastering-windows-11-installation-on-vintage-pcs/"><u>Old Tech in New Waves: Mastering Windows 11 Installation on Vintage PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/smart-collaboration-at-your-fingertips-microsofts-ai-copilot-for-windows-11/"><u>Smart Collaboration at Your Fingertips: Microsoft's AI Copilot for Windows 11</u></a></li>
+</ul></div>
 

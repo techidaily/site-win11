@@ -1,7 +1,7 @@
 ---
 title: Eliminating Server Unreachable for EA Games
-date: 2024-08-16T00:48:22.589Z
-updated: 2024-08-17T00:48:22.589Z
+date: 2025-01-17T19:57:59.602Z
+updated: 2025-01-18T16:33:55.736Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,11 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 2. Navigate to the**Games** menu in the top-left corner of the screen, find the game giving you the error, and click on it.  
 ![Select a Game From Games Menu to Check Its Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-a-game-from-games-menu-to-check-its-status-on-ea-website.jpg)
 3. Wait a few seconds and click on the**Server Status** link on the right side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on the Server Status Link to Check FIFA 23 Server Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-the-server-status-link-to-check-fifa-23-server-status-on-ea-website.jpg)
 
  If you see a**red circle with an arrow pointing downwards** next to the device you're playing the game on, the game servers for that platform are down. If this is the case, wait until the server goes back up, and the issue should resolve itself.
@@ -36,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
 ![Check the Server Status of FIFA 23 for All Gaming Platforms on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-the-server-status-of-fifa-23-for-all-platforms-on-ea-website-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Internet Connection
 
  Your device needs to be connected to a reliable internet connection to connect to EA servers successfully. Before investigating the issue further, check whether the internet is even connected.
@@ -43,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
  If it is, check the stability of your internet connection. Try any of the[best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  If there is a huge difference between the speed test results versus what you "should" get, your connection is probably unstable. In that case, take these steps (if applicable):
 
@@ -57,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  However, if your device is connected to the internet and the connection is stable, it's time to try other things.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 3\. Ensure Your Account Hasn't Been Banned
 
  EA can temporarily suspend or permanently ban your account if you violate the terms of the User Agreement you signed when you created it. Once the ban has been imposed, you can't use many game features, which include online gaming.
@@ -73,14 +76,23 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 ![EA Website Showing No Ban History of an Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ea-website-showing-no-ban-history-on-a-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Rule Out Other Issues With Your Account
 
  Aside from getting an account ban, here are a few minor account issues that can prevent you from connecting to EA servers:
 
 * You won't be able to run EA games if your EA Play membership expires. Hence, if the membership is not active, you should renew it.
 * If you have a child account, you may not be able to use the online gameplay features. In such a case, getting an account without restrictions is the solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Perform Some Basic Fixes
 
@@ -92,17 +104,10 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  If none of the above checks resolves the problem, it's time for some Windows-based fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 6\. Perform Some Generic Windows-Based Networking Fixes
 
  Now that we know your internet is fine and your EA account is in good standing, it's time to try some Windows-based fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Change Your DNS
 
  A bad DNS server can cause internet connectivity issues. If you've never changed the DNS on your device, you're probably using the one assigned by your ISP. So, try changing it to see if it fixes the problem.
@@ -111,9 +116,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  We recommend switching to Google DNS (8.8.8.8, 8.8.4.4) because it's more stable and offers faster response times. However, you can choose any DNS server that you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Ensure the Time and Date Are Configured Correctly
 
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
@@ -132,8 +134,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,19 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-minecraft-black-screen-issue-2024-tips/"><u>[SOLVED] Minecraft Black Screen Issue – 2024 Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-auto-play-youtube-keep-it-hidden-stay-connected/"><u>[Updated] 2024 Approved Auto-Play YouTube - Keep It Hidden, Stay Connected</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-financial-race-between-dailymovement-and-youtube-channels/"><u>2024 Approved The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-exclusive-security-on-pcs-with-self-designed-pins/"><u>Crafting Exclusive Security on PCs with Self-Designed Pins</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installation-updated-netgear-a6100-windows-drivers-to-improve-your-routers-performance/"><u>Easy Installation: Updated Netgear A6100 Windows Drivers to Improve Your Router's Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/handling-disruptions-caused-by-new-windows-software-upgrades/"><u>Handling Disruptions Caused by New Windows Software Upgrades</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c51-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme C51 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-12-mini-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 12 mini</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-setup-glitches-a-guide-to-finding-lost-configs/"><u>Overhauling Setup Glitches: A Guide to Finding Lost Configs</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-discords-automatic-activation-at-pc-boot-up/"><u>Stop Discord's Automatic Activation at PC Boot-Up</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-the-multilingual-magic-of-saint-nick/"><u>Unveiling The Multilingual Magic of Saint Nick</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-to-a-working-windows-pen/"><u>Unveiling the Secrets to a Working Windows Pen</u></a></li>
+</ul></div>
 

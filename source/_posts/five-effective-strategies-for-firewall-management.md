@@ -1,7 +1,7 @@
 ---
 title: Five Effective Strategies for Firewall Management
-date: 2025-01-08T05:51:48.142Z
-updated: 2025-01-12T18:12:19.886Z
+date: 2025-01-14T17:24:50.045Z
+updated: 2025-01-19T01:07:30.645Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,11 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Clicking the Restore defaults option on the Windows Defender Firewall screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-defaults-option-on-the-windows-defender-firewall-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use the Command Prompt
@@ -66,10 +66,6 @@ netsh advfirewall reset
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
 
  Here’s how to reset the firewall settings using PowerShell:
@@ -83,7 +79,7 @@ netsh advfirewall reset
  Wait for the process to complete, and then restart your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Use the Windows Security App
@@ -101,7 +97,7 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use the "Firewall with Advanced Security" Tool
@@ -129,6 +125,10 @@ netsh advfirewall reset
 
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Restoring the Firewall Settings to Their Default Settings
 
  It’s quite frustrating when the firewall settings prevent you from accessing the apps on your PC. But the good news is that you can simply resolve such issues by resetting these settings.
@@ -150,16 +150,22 @@ netsh advfirewall reset
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-8-websites-for-3d-graffiti-fonts/"><u>[New] 2024 Approved Top 8 Websites for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] In 2024, From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-streamlining-the-acquisition-of-background-visual-content-for-2024/"><u>[New] Streamlining the Acquisition of Background Visual Content for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>[Updated] 2024 Approved Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhance-your-visuals-the-best-text-editors-reviewed/"><u>[Updated] In 2024, Enhance Your Visuals The Best Text Editors Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-error-code-0x80d03801-in-windows-app-store/"><u>Fixing Error Code 0X80D03801 in Windows App Store</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-data-retrieval-tool-restore-lost-data-from-lava-by-fonelab-android-recover-data/"><u>Lava Data Retrieval tool – restore lost data from Lava</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-computer-setup-mass-folder-formation-in-win11plus11/"><u>Transform Your Computer Setup: Mass Folder Formation in Win11+11</u></a></li>
-<li><a href="https://win11.techidaily.com/what-is-the-windows-11-insider-program-and-how-do-you-join-it/"><u>What Is the Windows 11 Insider Program and How Do You Join It?</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-a-comprehensive-look-at-customizing-themes/"><u>Windows 11: A Comprehensive Look at Customizing Themes</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-protocol-port-assessment-techniques/"><u>Windows Protocol Port Assessment Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-guide-to-adding-effects-in-tiktok-videos-for-2024/"><u>[New] The Ultimate Guide to Adding Effects in TikTok Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-budget-friendly-bundles-startup-channels-for-newcomers/"><u>[Updated] Budget-Friendly Bundles Startup Channels for Newcomers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-the-art-of-posting-on-snapchat-15-tips-for-2024/"><u>[Updated] Perfect the Art of Posting on Snapchat (15 Tips) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-ultimate-pathway-from-webp-files-to-jpegs/"><u>[Updated] The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/d-vidcon-top-50-youtube-celebrations/"><u>Beyond VidCon Top 50 YouTube Celebrations</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-no-installed-devices-in-windows-os/"><u>Correcting 'No Installed Devices' In Windows OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-efficiency-reducing-memorycpu-load-in-windows-10/"><u>Enhance Efficiency: Reducing Memory/CPU Load in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-metro-exodus-game-crash-issues-on-windows/"><u>Fixes for Metro Exodus Game Crash Issues on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-activatedisable-internet-safety-filter-in-win-11/"><u>How to Activate/Disable Internet Safety Filter in Win 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-pova-6-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Pova 6 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-file-selection-activating-windows-11-checkboxes/"><u>Maximize File Selection: Activating Windows 11 Checkboxes</u></a></li>
+<li><a href="https://win11.techidaily.com/no-cords-just-games-setting-up-ps3-controller/"><u>No Cords, Just Games: Setting Up PS3 Controller</u></a></li>
+<li><a href="https://win11.techidaily.com/opt-for-windows-10-why-it-still-wins-over-win11/"><u>Opt for Windows 10: Why It Still Wins Over Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/permanent-progress-mastering-the-save-file-security-in-epic-launcher/"><u>Permanent Progress: Mastering the Save File Security in Epic Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-integration-of-chatgpt-into-windows/"><u>Seamless Integration of ChatGPT Into Windows</u></a></li>
 </ul></div>
 

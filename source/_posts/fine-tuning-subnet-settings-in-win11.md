@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Subnet Settings in Win11
-date: 2025-01-01T18:47:32.342Z
-updated: 2025-01-06T21:00:01.139Z
+date: 2025-01-16T17:18:28.551Z
+updated: 2025-01-18T19:05:28.519Z
 tags:
   - windows10
   - windows11
@@ -35,21 +35,17 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 4. Scroll and look for**Subnet Mask.** It'll be under the**Wireless LAN adapter Wi-Fi** section.  
 ![Finding the Subnet mask in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/finding-the-subnet-mask.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The steps to do it using Windows PowerShell are similar to the Command Prompt. To do it,[open Windows PowerShell with admin rights](https://www.makeuseof.com/windows-11-powershell-administrator/) , type the ipconfig /all command, and press Enter.
 
  In the result that appears, you can see the subnet mask under the Wireless LAN adapter Wi-Fi section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Change the Subnet Mask in Windows 11
 
  Now that you know how to find the subnet mask on your computer, let's check out how to change it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Change the Subnet Mask Using the Windows Settings
 
@@ -79,22 +75,18 @@ Here's how to do it:
 5. Choose**Properties** from the window that appears.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Select the IP version you're using. For instance, if you're using IPv4, select**Internet Protocol Version 4 (TCP/IPv4)** and click the**Properties** button.  
 ![IPv4 properties option in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ipv4-properties.jpg)
 7. Select the**Use the following address** option and enter the details.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Changing the Subnet Mask in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/changing-the-subnet-mask.jpg)
 8. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Change the Subnet Mask Using Windows PowerShell
@@ -111,6 +103,14 @@ Here's how to do it:
 `Set-NetIPAddress -InterfaceIndex 3 -PrefixLength 24`
 
 ![Command to change the subnet mask in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/command-to-change-the-subnet-mask.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changing the Subnet Mask in Windows 11
 
@@ -133,16 +133,16 @@ Here's how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-accelerated-editing-seamless-laptoppc-videos-with-inshot/"><u>[Updated] Accelerated Editing Seamless Laptop/PC Videos with Inshot</u></a></li>
-<li><a href="https://facebook.techidaily.com/accessing-ancestral-social-ties-in-facebook-timeline/"><u>Accessing Ancestral Social Ties in Facebook Timeline</u></a></li>
-<li><a href="https://win11.techidaily.com/comprerant-windows-activate-classic-photo-viewer-with-this-step-by-step-guide-for-1111/"><u>Compreran't Windows? Activate Classic Photo Viewer with This Step-By-Step Guide for 11/11</u></a></li>
-<li><a href="https://win11.techidaily.com/embrace-the-past-playing-old-pc-games-through-dosbox-x/"><u>Embrace the Past: Playing Old PC Games Through DOSBox-X</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/excellence-on-demand-1-blu-ray-players-for-home/"><u>Excellence on Demand #1 Blu-Ray Players for Home</u></a></li>
-<li><a href="https://win11.techidaily.com/halt-windows-11-security-guard-deactivate-firewall/"><u>Halt Windows 11 Security Guard: Deactivate Firewall</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-automatic-subtitles-for-instagram-stories-and-reels/"><u>In 2024, Mastering Automatic Subtitles for Instagram Stories & Reels</u></a></li>
-<li><a href="https://driver-install.techidaily.com/modernizing-the-intel-82579lm-with-new-drivers-for-pcs/"><u>Modernizing the Intel 82579LM with New Drivers for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/sidestep-connect-now-bluetooth-frustration-on-your-system/"><u>Sidestep 'Connect Now' Bluetooth Frustration on Your System</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-qt-engine-not-loaded-issue-on-application-bootup/"><u>Solving Qt Engine Not Loaded Issue on Application Bootup</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-cpm-rates-how-much-do-youtubers-make/"><u>YouTube CPM Rates How Much Do YouTubers Make</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-streaming-aerial-adventures-on-fb-from-dji-drone/"><u>[New] Streaming Aerial Adventures on FB From DJI Drone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hevch265h264/"><u>無料でプレミアム！HEVCもしくはH.265ファイルを優れた品質のH.264に変換方法</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/crucial-techniques-for-documenting-lol-wars-for-2024/"><u>Crucial Techniques for Documenting LOL Wars for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/eye-catching-laptops-exhibited-at-ifa-2023/"><u>Eye-Catching Laptops Exhibited at IFA 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/freeze-frame-fun-the-complete-guide-to-xbox-one-snapshots/"><u>Freeze Frame Fun The Complete Guide to Xbox One Snapshots</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-premier-guide-to-filmed-action-preservation/"><u>In 2024, Premier Guide to Filmed Action Preservation</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-on-windows-thwarting-the-downloading-dilemma/"><u>Opera on Windows: Thwarting the Downloading Dilemma</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-memory-and-cpu-for-streamers-on-w11/"><u>Optimizing Memory & CPU for Streamers on W11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-local-devices-avoid-in-use-names-errors/"><u>Overcoming Windows' Local Devices: Avoid In-Use Names Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/security-straightforward-quick-ways-to-suspend-user-accounts-in-win11/"><u>Security Straightforward: Quick Ways to Suspend User Accounts in Win11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/strategic-approaches-to-maximize-impact-with-spotify-ads/"><u>Strategic Approaches to Maximize Impact with Spotify Ads</u></a></li>
 </ul></div>
 

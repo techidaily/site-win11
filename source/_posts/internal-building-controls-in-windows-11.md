@@ -1,7 +1,7 @@
 ---
 title: Internal Building Controls in Windows 11
-date: 2025-01-04T17:06:51.500Z
-updated: 2025-01-06T18:48:53.699Z
+date: 2025-01-13T23:01:35.130Z
+updated: 2025-01-19T00:02:01.194Z
 tags:
   - windows10
   - windows11
@@ -25,17 +25,9 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Stop Users From Getting Insider Preview Builds in Windows 11
 
  If you share your computer with others and don't want them to get the newer build, you need to prevent them from getting Insider Preview Builds in Windows 11\. There are basically three ways to achieve this, using System Settings, Group Policy Editor, or Registry Editor. For a detailed explanation of each, please see the following.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use the System Settings
 
@@ -48,13 +40,13 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 4. Now toggle the **Unenroll this device when the next version of Windows releases** switch to disable it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will prevent the device from downloading further Insider builds even if someone initiates it manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use the Local Group Policy Editor
@@ -76,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![Toggle user control over Insider builds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Toggle-user-control-over-Insider-builds.jpg)
 7. After you've made your changes, click **Apply** and **OK** to save them
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have completed the steps above, you will need to restart your computer to ensure the changes are applied. After doing that, you'll no longer be able to install or receive Insider builds. If you ever need to give users access to Insider builds on your computer, open the Local Group Policy Editor again.
 
  Then, set "Toggle user control over Insider builds" either to the **Not Configured** or **Enabled** option. When you have finished making the changes, click Apply > OK.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Tweak the Registry Editor
 
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 10. Set the value data to **0** and choose the Hexadecimal base.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Click **OK** to save the changes.
@@ -144,18 +144,22 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-maximize-mobile-shots-the-top-iphone-photography-apps-7plus/"><u>[New] Maximize Mobile Shots The Top iPhone Photography Apps (7+)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-slumber-screen-chronicles-evaluations/"><u>[New] Slumber Screen Chronicles Evaluations</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-strategic-thinking-keywords-that-lead-to-online-victory/"><u>[Updated] 2024 Approved Strategic Thinking Keywords that Lead to Online Victory</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-to-performing-a-clean-install-of-windows-11-using-system-restore/"><u>Complete Guide to Performing a Clean Install of Windows 11 Using System Restore</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-copy-features-in-windows-11-os/"><u>Enhancing Copy Features in Windows 11 OS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-the-ultimate-guide-to-time-lapses-with-iphone/"><u>In 2024, The Ultimate Guide to Time-Lapses with iPhone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-look-at-elgoog-reviewing-the-worlds-most-entertaining-mirror-site/"><u>Inside Look at elgooG - Reviewing the World’s Most Entertaining Mirror Site</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-quick-language-translation-on-windows-1011-via-keyboard-shortcuts/"><u>Mastering Quick Language Translation on Windows 10/11 via Keyboard Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-system-recovery-the-win11-registry-edition/"><u>Mastering System Recovery: The Win11 Registry Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/realigning-secure-authentication-tokens-a-guide-to-overcoming-errors-in-win11/"><u>Realigning Secure Authentication Tokens: A Guide to Overcoming Errors in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/safe-heat-levels-managing-your-game-laptops-temperature/"><u>Safe Heat Levels: Managing Your Game Laptop's Temperature</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/schritt-fur-schritt-anleitung-zum-auffinden-und-wiederherstellen-von-temporaren-dateien/"><u>Schritt-Für-Schritt-Anleitung Zum Auffinden Und Wiederherstellen Von Temporären Dateien</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-dealing-with-network-adapter-error-31-in-windows/"><u>The Ultimate Guide to Dealing with Network Adapter Error 31 in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-complete-motion-evaluation-2023-for-2024/"><u>[New] Complete Motion Evaluation 2023 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-chat-room-to-screen-step-by-step-google-meet-youtube-streams-for-2024/"><u>[New] From Chat Room to Screen Step-by-Step Google Meet YouTube Streams for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-highlight-effects-assessment-essential-or-excessive-for-2024/"><u>[New] Highlight Effects Assessment Essential or Excessive for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-discovering-the-fusion-of-color-and-clarity-in-4k-blade-cameras/"><u>[New] In 2024, Discovering the Fusion of Color and Clarity in 4K Blade Cameras</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-elevating-4k-video-output-on-your-devices/"><u>[New] In 2024, Elevating 4K Video Output on Your Devices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engage-audiences-writing-magical-youtube-description-templates-for-higher-views/"><u>[Updated] 2024 Approved Engage Audiences Writing Magical YouTube Description Templates for Higher Views</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-application-failures-due-to-net-not-installed/"><u>Addressing Application Failures Due to .NET Not Installed</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-the-tech-epochs-windows-7-key-to-boot-windows-11/"><u>Bridging the Tech Epochs: Windows 7 Key to Boot Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/cutting-down-resource-drains-in-windows-managing-multimedia-consumption/"><u>Cutting Down Resource Drains in Windows: Managing Multimedia Consumption</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-gaming-and-graphics-with-the-latest-nvidia-rtx-2070-super-drivers-on-windows-11/"><u>Enhance Gaming & Graphics with the Latest Nvidia RTX 2070 Super Drivers on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-photos-app-background-blur-feature-on-windows-11/"><u>How to Use the Photos App Background Blur Feature on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/identifying-high-space-consumers-on-your-windows-machine/"><u>Identifying High-Space Consumers on Your Windows Machine</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-superior-apple-watch-series-4/"><u>In-Depth Look at the Superior Apple Watch Series 4</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-maze-of-mass-unzipping-on-your-pc/"><u>Navigating the Maze of Mass Unzipping on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/time-travel-in-gameplay-implementing-retroarchs-shader-effects/"><u>Time Travel in Gameplay: Implementing RetroArch's Shader Effects</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-windows-11-success/"><u>Unlocking the Secrets to Windows 11 Success</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Workflows: Incorporating Additional Folders in Windows"
-date: 2025-01-06T23:12:44.107Z
-updated: 2025-01-12T21:05:53.781Z
+date: 2025-01-11T22:33:36.567Z
+updated: 2025-01-18T17:08:53.827Z
 tags:
   - windows10
   - windows11
@@ -36,16 +36,8 @@ thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e43
 ![The Setup - MyFolders window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/setup-myfolder-option.jpg)
 7. Select**Next** two more times, and then click MyFolders’**Install** option.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-install-option.jpg)
 8. Click the**Yes** ,**restart the computer now radio** button, and select**Finish** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once your PC has restarted:
 
@@ -55,6 +47,10 @@ Once your PC has restarted:
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Done** to exit the MyFolders window.
 
 ### How to Use MyFolders
@@ -63,6 +59,10 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
@@ -70,7 +70,7 @@ Once your PC has restarted:
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
@@ -93,15 +93,11 @@ Once your PC has restarted:
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 11. Exit the 7-Zip software.
 
@@ -121,6 +117,10 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -136,7 +136,7 @@ Once your PC has restarted:
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
@@ -158,19 +158,16 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-top-picks-superior-iphone-tone-creators/"><u>[New] Top Picks Superior iPhone Tone Creators</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-capturing-clarity-the-elite-list-of-online-gridding-services/"><u>[Updated] Capturing Clarity The Elite List of Online Gridding Services</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-create-youtube-intros-and-end-cards-free-and-easy/"><u>[Updated] In 2024, How to Create YouTube Intros & End Cards - Free and Easy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-voiceover-dynamics-for-stellar-ppt-presentations-for-2024/"><u>[Updated] Voiceover Dynamics for Stellar PPT Presentations for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-fixes-for-stalled-clipchamp-installs-in-windows-11/"><u>Easy Fixes for Stalled ClipChamp Installs in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gray-zone-warfare-gzc-game-stability-hacks-for-a-seamless-pc-experience/"><u>Gray Zone Warfare (GZC) Game Stability Hacks for a Seamless PC Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/reconnect-yourself-to-a-windows-shared-space/"><u>Reconnect Yourself to a Windows Shared Space</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/screen-based-strategies-to-speak-more-fluently/"><u>Screen-Based Strategies to Speak More Fluently</u></a></li>
-<li><a href="https://win11.techidaily.com/seven-ways-to-address-absentee-windows-functionality/"><u>Seven Ways to Address Absentee Windows Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/surface-studio-review-almost-flawless-for-the-creative-mind/"><u>Surface Studio Review: Almost Flawless for the Creative Mind</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ivotal-point-in-view-count-for-online-earning/"><u>The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-correcting-overestimated-cpu-metrics-in-windows-task-manager/"><u>Tips for Correcting Overestimated CPU Metrics in Windows Task Manager</u></a></li>
-<li><a href="https://win11.techidaily.com/win-fix-guide-reclaiming-razer-synapse-integrity/"><u>Win Fix Guide: Reclaiming Razer Synapse Integrity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-crafting-calm-conclusions-fading-out-audio-effects-in-adobe-premiere-pro/"><u>[New] In 2024, Crafting Calm Conclusions Fading Out Audio Effects in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/designing-your-own-terminal-schemes-in-wt/"><u>Designing Your Own Terminal Schemes in WT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-utorrent-performance-ensuring-stable-peer-connections-and-continuous-downloads/"><u>Mastering uTorrent Performance: Ensuring Stable Peer Connections and Continuous Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-system-restore-a-guide-to-rollbacks/"><u>Mastering Windows' System Restore: A Guide to Rollbacks</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-windows-11-taskbar-interactions/"><u>Mending Windows 11 Taskbar Interactions</u></a></li>
+<li><a href="https://win11.techidaily.com/re-establishing-windows-11-taskbar-connectivity/"><u>Re-Establishing Windows 11 Taskbar Connectivity</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-securing-your-settings-against-unintentional-loss-by-cp/"><u>Strategies for Securing Your Settings Against Unintentional Loss by CP</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlined-strategies-for-powerpoint-recordings-for-2024/"><u>Streamlined Strategies for PowerPoint Recordings for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-solving-common-glitches-via-dfu-mode-technique/"><u>Troubleshoot Your iPhone: Solving Common Glitches via DFU Mode Technique</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-personalized-clock-settings-bypass-automatic-windows-change/"><u>Unlock Personalized Clock Settings, Bypass Automatic Windows Change</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-critical-appraisal-of-sound-forge-pros-cons-and-potentials/"><u>Updated In 2024, Critical Appraisal of Sound Forge Pros, Cons, and Potentials</u></a></li>
 </ul></div>
 

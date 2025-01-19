@@ -1,7 +1,7 @@
 ---
 title: Master Easy Steps for Managing Sounds on Your Windows 11 PC
-date: 2025-01-12T05:58:56.746Z
-updated: 2025-01-13T03:18:23.788Z
+date: 2025-01-13T18:09:16.371Z
+updated: 2025-01-18T20:29:13.375Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Open Sound Settings Using Windows Search
@@ -50,10 +50,6 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 2. Type **ms-settings:sound** in the dialog box and click **OK** to open Sound Settings.  
 ![Open Sound Settings Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-run-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. How to Open Sound Settings Through the Taskbar
 
  The taskbar acts as the main launchpad for essential Windows applications. It provides quick access to apps, programs, and settings via the Start menu. If you’d like to open Sound Settings from here, follow these steps:
@@ -63,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 ![Open Sound Settings Through Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-through-taskbar.jpg)
 
  The Sound Settings window will open, and you can make the desired changes from here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Sound Settings Using Task Manager
 
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 3. Input **start ms-settings:sound** on the command line and press Enter.  
 ![Open Sound Settings Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This opens the Sound Settings window on your computer. Make the necessary changes then close it.
 
 ## 6\. How to Open Sound Settings Using Windows PowerShell
@@ -102,13 +106,17 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 4. In the PowerShell window, type the following command:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `start-process ms-settings:sound`
 5. Now press Enter to execute it.
 
  This opens the Sound Settings window where you can customize your audio settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Sound Settings Using System Settings
 
@@ -119,11 +127,11 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 3. Click **Sound** on the right side of the window.  
 ![Open Sound Settings Using System Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/open-sound-settings-using-system-settings.jpg)
 
- This opens up the Sound Settings page with options to adjust output, input, and system sounds.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This opens up the Sound Settings page with options to adjust output, input, and system sounds.
 
 ## 8\. How to Open Sound Settings Using a Desktop Shortcut
 
@@ -137,21 +145,9 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 ![Create Desktop Shortcut of Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-desktop-shortcut-of-sound-settings.jpg)
 4. Now name your shortcut, such as **Sound Settings,** and click **Finish**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Name Sound Settings Shortcut Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/name-sound-settings-shortcut-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A new shortcut appears on the desktop. Double-click it to open Sound Settings directly. This is a great way to quickly access this setting instead of using the search bar or other methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. How to Open Sound Settings Using a Shortcut Key
 
@@ -169,6 +165,10 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
  Your shortcut key is now ready to use. Press **Ctrl + Alt** **\+ the keystroke you just assigned** to open Sound Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quick Access to the Windows Sound Settings
 
  This guide has explained several ways to access Windows Sound Settings. It allows you to customize your sound preferences and control your audio settings conveniently. If you frequently use the settings, then create a desktop shortcut or hotkey for it.
@@ -185,24 +185,14 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-disseminating-tweeted-videos-on-the-worlds-biggest-social-site/"><u>[New] Disseminating Tweeted Videos on the World's Biggest Social Site</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-your-content-strategies-for-youtube-success-for-2024/"><u>[New] Elevate Your Content Strategies for YouTube Success for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>[Updated] In 2024, Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-segmented-screen-success-is-splitcam-superior/"><u>[Updated] Segmented Screen Success Is SplitCam Superior?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-savvy-seekers-guide-to-spotting-superb-photos-on-pexels/"><u>[Updated] The Savvy Seeker's Guide to Spotting Superb Photos on Pexels</u></a></li>
-<li><a href="https://win11.techidaily.com/defending-your-windows-11-with-the-best-four-password-savers/"><u>Defending Your Windows 11 with the Best Four Password Savers</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-try-connection-issue-in-windows-pcs/"><u>Eliminate 'Try Connection' Issue in Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-bypass-defenders-block-on-third-party-virus-tools/"><u>How to Bypass Defender's Block on Third-Party Virus Tools</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to update hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-camera-app-correction-for-error-a00f425d-in-win11/"><u>Mastering Camera App Correction for Error A00F425D in Win11</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-of-unshutting-a-windows-10-operating-system-on-your-pc/"><u>Solving the Issue of Unshutting a Windows 10 Operating System on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-detecting-and-eliminating-spyware-on-mobile-devices-tips-from-zdnet/"><u>Step-by-Step Guide: Detecting & Eliminating Spyware on Mobile Devices - Tips From ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-chromium-enhancing-youtube-performance/"><u>Tackling Chromium: Enhancing YouTube Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-keyboard-glitches-on-your-win10-pclaptop/"><u>Tackling Keyboard Glitches on Your WIN10 PC/Laptop</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-missing-thumbnails-a-remedy-guide-for-window-11-users/"><u>Tackling Missing Thumbnails: A Remedy Guide for Window 11 Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-stabilizing-tech-for-youtube-creators-success/"><u>Top 10 Stabilizing Tech for YouTube Creators' Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-clicker-article-titles-maker-for-2024/"><u>Top Clicker Article Titles Maker for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-implementing-login-change-replace-your-windows-11-pin-with-a-password/"><u>Understanding and Implementing Login Change: Replace Your Windows 11 PIN With a Password</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-troubleshooting-guide-for-offline-printers/"><u>Win11 Troubleshooting Guide for Offline Printers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-prime-10-editors-seamless-image-transformation-pro-for-2024/"><u>[Updated] Prime 10 Editors Seamless Image Transformation Pro for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciphering-ai-driven-nvidias-dlss-35-features/"><u>Deciphering AI-Driven Nvidia's DLSS 3.5 Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-12-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 12</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-t2-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo T2 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win11.techidaily.com/native-windows-methods-to-emulate-data-existence/"><u>Native Windows Methods to Emulate Data Existence</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-build-secure-hardware-removal-icon/"><u>Step-by-Step to Build Secure Hardware Removal Icon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-struggle-in-a-galaxy-far-far-away-resolving-battlefront-iis-pc-freezing-problems/"><u>Stop Struggle in a Galaxy Far, Far Away: Resolving Battlefront II's PC Freezing Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-system-capacity-analysis/"><u>Streamlining System Capacity Analysis</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-group-policies-for-specific-users-stepwise-approach/"><u>Tailored Group Policies for Specific Users: Stepwise Approach</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Five Command Line Charades for a Chuckle
-date: 2025-01-01T20:05:16.717Z
-updated: 2025-01-06T21:12:03.805Z
+date: 2025-01-17T23:43:35.378Z
+updated: 2025-01-18T19:44:47.900Z
 tags:
   - windows10
   - windows11
@@ -23,13 +23,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Customize Your Look
 
 ![screenshot of a customized command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_customized_cmd.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You may know this one already, as it can be a great tool to play around with for accessibility purposes. Command Prompt can be fully customized, from background and text color, font, opacity, and more.
 
@@ -41,13 +41,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  You can make some pretty ridiculous Command Prompts this way, or further refine the window to your exact needs. The features are so extensive that it might be worth brushing up on [customizing the command prompt](https://www.makeuseof.com/windows-customize-command-prompt/) if it's something that interests you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch Star Wars on Command Prompt
 
 ![screenshot of the cmd telnet star wars recreation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_starwars_recreation.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This one has the potential to lead to a lot of fun, and even some curious looks from anyone who might not be privy to how Command Prompt works.
 
@@ -64,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Lean back and enjoy a bizarre recreation of Star Wars!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. More Telnet Fun: Command Prompt Aquarium
 
 ![screenshot of a cmd window showing telnet aquarium](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_telnet_aquarium.jpg)
@@ -76,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
  Input this command instead of **starwars** from the previous section to be treated to an ASCII aquarium so nice, it may as well be your screen saver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Change the Window Title
 
 ![screenshot of the title command renaming a command prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_cmd_renamed_title.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Let's move away from the weirdness of ASCII recreations and look at something more low-key.
 
@@ -106,10 +110,6 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 ![screenshot of the shutdown command in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot_of_shutdown_command_cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This one might not be the most glamorous, but did you know that you can shut down your computer directly through the command prompt?
 
  All it requires is inputting the command **shutdown /s**. If you're feeling fancy, you can restart your device the same way using **shutdown /r.**
@@ -117,7 +117,7 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
  Is there much purpose to this command? If you're working with batch files, maybe, but the average user might just prefer to shut down their computer the usual way. This command might not have much practical use, but it's a fun trick all the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fun With Command Prompt
@@ -136,22 +136,22 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-breathing-life-into-your-ig-story-text-with-animation/"><u>[Updated] 2024 Approved Breathing Life Into Your IG Story Text with Animation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-spotlight-techniques-for-android-videography/"><u>[Updated] 2024 Approved Spotlight Techniques for Android Videography</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-wealth-dissection-of-the-elusive-mr-beast/"><u>[Updated] In 2024, Wealth Dissection of the Elusive Mr. Beast</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversion-en-ligne-convertissez-votre-video-mpeg-en-m4a-pour-rien-solutions-facile-dacces-de-movavi/"><u>Conversion en Ligne : Convertissez Votre Vidéo MPEG en M4A Pour Rien - Solutions Facile D'accès De Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-playstation-network-disruption-in-windows-os/"><u>Correcting PlayStation Network Disruption in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-an-inactive-window-control-center/"><u>Fixing an Inactive Window Control Center</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-same-user-ms-account-error-on-desktop/"><u>Fixing Same-User MS Account Error on Desktop</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-sidestep-the-vac-rejected-issue-in-gaming/"><u>How to Sidestep the “VAC Rejected” Issue in Gaming</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-narzo-n55-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme Narzo N55 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/legal-yet-cost-free-ultimate-soundtracks-sites-for-2024/"><u>Legal, Yet Cost-Free Ultimate Soundtracks Sites for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/qbittorrent-relocation-from-one-pc-to-another-seamless-move/"><u>QBittorrent Relocation: From One PC, To Another Seamless Move</u></a></li>
-<li><a href="https://win11.techidaily.com/regain-default-windows-options-after-restart/"><u>Regain Default Windows Options After Restart</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-correct-chrome-edge-firefox-pasting-problems/"><u>Steps to Correct Chrome, Edge, Firefox Pasting Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-securely-locate-lost-windows-1011-serial-numbers/"><u>Strategies to Securely Locate Lost Windows 10/11 Serial Numbers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/streamline-your-workflow-with-speedy-downloads-of-dell-latitude-e6420-essential-drivers/"><u>Streamline Your Workflow with Speedy Downloads of Dell Latitude E6420 Essential Drivers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-elevating-execution-the-fonts-of-after-effects/"><u>[New] 2024 Approved Elevating Execution The Fonts of After Effects</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-video-upload-your-guide-to-igtv/"><u>[New] In 2024, Mastering Video Upload Your Guide to IGTV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-seamless-transitions-for-youtube-videos-in-adobe-premiere/"><u>[Updated] In 2024, Seamless Transitions for YouTube Videos in Adobe Premiere</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-techniques-for-in-meet-zooming-excellence-google-meet-for-2024/"><u>[Updated] Techniques for In-Meet Zooming Excellence (Google Meet) for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/assessing-the-impact-do-widgets-streamline-win-11s-usage/"><u>Assessing the Impact: Do Widgets Streamline Win 11'S Usage?</u></a></li>
+<li><a href="https://win11.techidaily.com/cleaning-slates-in-windows-the-3-reset-routes/"><u>Cleaning Slates in Windows: The 3 Reset Routes</u></a></li>
+<li><a href="https://win11.techidaily.com/fingerprint-fiasco-can-you-still-count-on-windows-hello/"><u>Fingerprint Fiasco: Can You Still Count on Windows Hello?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-potential-10-top-motivational-gems/"><u>In 2024, Unleash Potential 10 Top Motivational Gems</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-group-policy-changes-on-a-windows-system/"><u>Navigating Group Policy Changes on a Windows System</u></a></li>
+<li><a href="https://win11.techidaily.com/power-tools-for-pc-mastery-command-prompt-edition-of-win-registry-edits/"><u>Power Tools for PC Mastery: Command Prompt Edition of Win Registry Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premium-free-ticking-counters/"><u>Premium Free Ticking Counters</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrect-dead-audio-a-step-by-step-guide-to-tech-sound/"><u>Resurrect Dead Audio: A Step-by-Step Guide to Tech Sound</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-tutorial-on-liberating-your-ebooks-unlock-drm-protection-from-epub-pdf-and-azw-files/"><u>Step-by-Step Tutorial on Liberating Your eBooks: Unlock DRM Protection From ePUB, PDF, and AZW Files</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-blue-screen-bsos-quick-fix-strategies-for-win11/"><u>Stop Blue Screen BSOS: Quick Fix Strategies for Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-top-7-no-cost-player-titles-for-pcs-and-viewing/"><u>The Top 7 No-Cost Player Titles for PCs & Viewing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-tech-reviews-with-a-focus-on-alternatives/"><u>Top Tech Reviews with a Focus on Alternatives</u></a></li>
 </ul></div>
 

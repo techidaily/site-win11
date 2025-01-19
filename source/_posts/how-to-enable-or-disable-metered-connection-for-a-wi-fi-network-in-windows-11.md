@@ -1,7 +1,7 @@
 ---
 title: How to Enable or Disable Metered Connection for a Wi-Fi Network in Windows 11
-date: 2025-01-04T17:36:28.318Z
-updated: 2025-01-06T16:16:59.597Z
+date: 2025-01-12T02:12:33.294Z
+updated: 2025-01-18T21:48:53.741Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable or Disable Metered Connections for a Wi-Fi Network Using the Settings App
 
  The**Network & internet** section in the Settings app serves as a central location for all the network-related settings on Windows. You can visit that section to quickly enable or disable a metered connection for your computer's Wi-Fi network. Here are the steps for the same.
@@ -37,14 +41,10 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 6. Enable the toggle next to**Metered connection** to set the Wi-Fi network as metered. If you want to set the network as an unmetered connection, disable the toggle.  
 ![Enable or Disable Metered Connection in Windows 11 Using Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-or-disable-metered-connection-in-windows-11-using-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Note that you'll have to repeat the above steps for each Wi-Fi network separately. Following that, Windows will remember your network preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable or Disable Wi-Fi Metered Connections via the Command Prompt
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 5. Note down the Wi-Fi network name for which you want to enable or disable the metered connection option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Next, run the following command to determine whether your connection is metered or unmetered.  
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 ![Disable Metered Connection in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-metered-connection-in-windows-11-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want to disable the metered connection for a network, run the following command instead.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
  Aside from the above, you can view important details about your Wi-Fi network using the Command Prompt. If you're interested in doing that, check our guide on[the best commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Efficiently Manage Your Data With Metered Connection
@@ -108,21 +108,22 @@ thumbnail: https://thmb.techidaily.com/e68430bcb106e10e6ed671e16682f01d022f0799c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-pixart-video-editor/"><u>[New] In 2024, Pixart Video Editor</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-camtasia-tutorial-implementing-the-classic-ken-burns-effect-for-2024/"><u>[Updated] Camtasia Tutorial Implementing the Classic Ken Burns Effect for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-moto-g-5g-2023-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Moto G 5G (2023) Phone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1726030040741-musescore/"><u>完璧なサウンド出力: MuseScoreで高解像度オーディオを作成するためのテクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminate-read-only-folders-in-win11/"><u>Eliminate Read-Only Folders in Win11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-f04-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy F04 Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1724766013466-macx-video-converter-pro/"><u>MacX Video Converter Pro - 享受网上轻松购买体验</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-pc-repair-accessibility-mapping-custom-keys-for-win-11-tools/"><u>Optimize PC Repair Accessibility: Mapping Custom Keys for Win 11 Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-for-an-erratic-discord-overlay-in-windows/"><u>Quick Fixes for an Erratic Discord Overlay in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/repairing-failed-ccleaner-installation-in-windows-1011/"><u>Repairing Failed CCleaner Installation in Windows 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-remedy-for-error-0x8000fffd-on-pcs/"><u>Step-by-Step Remedy for Error 0X8000FFFD on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-email-attachment-handling-with-ms-word-reading-mode/"><u>Streamline Email Attachment Handling with MS Word Reading Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-insights-into-data-space-usage-via-the-power-of-windows-diskusage-command/"><u>Unlocking Insights Into Data Space Usage via the Power of Windows DiskUsage Command</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/viewer-recognition-the-play-button-reward-ribbon/"><u>Viewer Recognition The Play Button Reward Ribbon</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-an-intro-to-digital-realms-vr-simplified-for-2024/"><u>[Updated] An Intro to Digital Realms VR Simplified for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-expert-recommendations-for-efficient-gif-makers-for-2024/"><u>[Updated] Expert Recommendations for Efficient GIF Makers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-trending-upwards-todays-most-effective-instagram-tags-for-2024/"><u>[Updated] Trending Upwards Today's Most Effective Instagram Tags for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-dxgi-failures-on-windows-1011/"><u>Addressing DXGI Failures on Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/amazons-top-picks-for-savings-exclusive-deals-from-august-202-cuy-2024-insights-by-zdnet/"><u>Amazon's Top Picks for Savings: Exclusive Deals From August 202 Cuy 2024 | Insights by ZDNet</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comment-resoudre-les-difficultes-de-lapplication-handbrake-sous-windows-10-solutions-avancees-et-options-alternatifs-disponibles/"><u>Comment Résoudre Les Difficultés De L'application HandBrake Sous Windows 10 : Solutions Avancées Et Options Alternatifs Disponibles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cutting-edge-recording-nintendo-switch-edition-for-2024/"><u>Cutting-Edge Recording Nintendo Switch Edition for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-typing-managing-filter-keys-on-pcs/"><u>Elevate Your Typing: Managing Filter Keys on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-overcoming-the-problem-of-steam-store-failing-to-load/"><u>Expert Tips: Overcoming the Problem of Steam Store Failing to Load</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-culinary-compass-navigating-through-global-gastronomy/"><u>In 2024, Culinary Compass Navigating Through Global Gastronomy</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-unrecognizable-hardware-in-windows-1011/"><u>Overcoming Unrecognizable Hardware in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/rectify-microsoft-office-365-fault-code-30015-26/"><u>Rectify Microsoft Office 365 Fault: Code 30015-26</u></a></li>
+<li><a href="https://win11.techidaily.com/running-task-manager-administrative-command-for-windows-11/"><u>Running Task Manager: Administrative Command for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-clearly-write-exactly-using-whisper-in-windows/"><u>Speak Clearly, Write Exactly: Using Whisper in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-steam-network-failure-on-modern-pc-win11/"><u>Tackling Steam Network Failure on Modern PC, Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-post-update-linux-subsystem-challenges-on-windows-11/"><u>Unraveling Post-Update Linux Subsystem Challenges on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Uncovering 5 Surprising Visual Discrepancies"
-date: 2025-01-01T18:36:24.604Z
-updated: 2025-01-06T18:47:53.709Z
+date: 2025-01-17T16:13:26.058Z
+updated: 2025-01-18T16:28:55.382Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Let's start off with one you very well may have noticed already. Found in the Windows 11 control panel is an option to backup and restore Windows 7.
@@ -52,12 +52,16 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  One would think such a minor text element would be an easy fix, but here we are.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Menu Differences on Lock Screen
 
 ![screenshot of the differences between menus on the windows 11 lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_lockscreen_differences.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here's another one that's hard to miss. On the lock screen, the network menu has a nice dark shade, regardless of if your system is in dark mode or not.
 
@@ -71,19 +75,23 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. UI Ignoring Dark Mode
 
 ![screenshot of windows 11 control panel and task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_control_panel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When Windows 11 is set to dark mode, many default apps don't care.
 
  Elements such as the control panel, the task manager, troubleshooting apps and more have no dark mode equivalent. They will continue to display a bright white color scheme, clashing against the rest of your system.
 
  This is a prevalent issue that will show itself in other elements on this list. It's worth learning[how to enable and customize dark mode on Windows 11 yourself](https://www.makeuseof.com/windows-11-dark-mode/) to see how many default programs and apps don't behave.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Settings Is a Mess
 
@@ -95,13 +103,13 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
  From Disk Management resembling something from XP, to Device Manager still showing signs of the Windows 10 days, you can find something a little different in every submenu of the Windows 11 settings menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Different Context Menus
 
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
 
@@ -110,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  The spacing and general sizing of the context menu is different, but it doesn't stop there.
 
  Right-clicking on a taskbar icon will produce yet a different looking context menu. Even more, depending on your version of Windows 11, you can see a different context menu in the file explorer and even on different desktop icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. On-Screen Keyboard
 
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
  There's another layer to this inconsistency, though. The window header itself uses spacing and design principles from Windows 10 while ignoring the system theme and always appearing in light mode.
 
  So you have a light mode header clashing with the dark mode program, neither of which supports light or dark mode to begin with.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Windows 11 Could Use Some Tidying Up
 
@@ -150,16 +150,20 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iphone-photo-management-guide-for-albums-and-cloud-storage/"><u>[New] 2024 Approved IPhone Photo Management Guide for Albums & Cloud Storage</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-aviation-companions-the-drones-guide-to-following/"><u>[New] Aviation Companions The Drone's Guide to Following</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-softening-audio-fl-basics/"><u>[Updated] 2024 Approved Softening Audio FL Basics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>[Updated] In 2024, Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-limitless-creativity-with-free-after-effects-samples/"><u>In 2024, Unlock Limitless Creativity with Free After Effects Samples</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-halo-infinites-black-screen-issues-a-step-by-step-guide/"><u>Overcoming Halo Infinite's Black Screen Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/pinnacle-task-organizers-winning-windows-to-dos/"><u>Pinnacle Task Organizers: Winning Windows To-Dos</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-stalled-windows-event-log-service/"><u>Reviving Stalled Windows Event Log Service</u></a></li>
-<li><a href="https://win11.techidaily.com/tweaking-the-visual-appearance-of-winterm/"><u>Tweaking the Visual Appearance of WinTerm</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-service-reset-a-comprehensive-guide/"><u>Windows Time Service Reset: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-gameplay-reasons-to-prefer-windows-over-linux/"><u>Winning Gameplay: Reasons to Prefer Windows Over Linux</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-noise-reduction-software-for-video-editing/"><u>[New] Professional Noise-Reduction Software for Video Editing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-tiktoks-wonders-the-ultimate-macbook-setup/"><u>[Updated] 2024 Approved Explore TikTok's Wonders The Ultimate MacBook Setup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-iphones-full-screen-memories/"><u>2024 Approved Utilizing iPhone's Full-Screen Memories</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-common-obstacles-when-installing-java/"><u>Addressing Common Obstacles When Installing Java</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developer-decisions-github-copilot-versus-chatgpt-prospects/"><u>Developer Decisions: GitHub Copilot Versus ChatGPT Prospects</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-all-purpose-linksys-max-stream-ac1900-router-exceeds-expectations/"><u>In-Depth Analysis of the All-Purpose Linksys Max-Stream AC1900 Router – Exceeds Expectations</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-window-11-reinitializing-unwanted-apps/"><u>Mastering Window 11: Reinitializing Unwanted Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/redefining-computing-10-top-alternatives-to-windows-defaults/"><u>Redefining Computing: 10 Top Alternatives to Windows' Defaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-memory-efficiency-for-device-interaction-windows/"><u>Streamlining Memory Efficiency for Device Interaction Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-film-makers-quick-guide-to-perfect-sea-scenes/"><u>The Film-Maker’s Quick Guide to Perfect Sea Scenes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-innovative-voice-tweaks-9-ways-to-spark-laughter-in-your-conversations-for-2024/"><u>Updated Innovative Voice Tweaks 9 Ways to Spark Laughter in Your Conversations for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win1011-quick-solutions-for-cursor-on-black-screen/"><u>Win10/11: Quick Solutions for Cursor on Black Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-image-adjustment-the-six-essential-techniques/"><u>Windows 11 Image Adjustment: The Six Essential Techniques</u></a></li>
 </ul></div>
 

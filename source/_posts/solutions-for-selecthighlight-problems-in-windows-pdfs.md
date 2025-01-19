@@ -1,7 +1,7 @@
 ---
 title: Solutions for Select/Highlight Problems in Windows PDFs
-date: 2024-08-16T00:49:07.002Z
-updated: 2024-08-17T00:49:07.002Z
+date: 2025-01-13T17:10:02.684Z
+updated: 2025-01-19T00:52:37.410Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,22 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  Are you having trouble selecting or highlighting text in a PDF document? Don't fret; it's simple to fix. In this article, you'll learn what may cause text selection or highlighting to stop working on a PDF and how to fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can't You Select or Highlight Text in a PDF?
 
  In most cases, you won't be able to select or highlight text if you're dealing with a scanned PDF rather than a regular one. Other possible causes include the highlight feature being disabled in your PDF editor, the file being restricted or fully encrypted by someone else, and, last but not least, issues with your PDF viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 6 Ways to Fix the Select and Highlight Features Not Working on PDFs
 
  As mentioned above, several factors could contribute to the issue. So, let's discuss how to find the root cause and fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Perform Some Preliminary Checks
 
  Before moving on to the main fixes, perform the following preliminary checks first:
@@ -47,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  If the above checks fail to pinpoint the problem, move on to the following major fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Ensure It's Not a Scanned File
 
  Not all PDFs are created by following general norms, creating a PDF file from scratch, or converting an existing text document into PDF format. Sometimes, scanned images are bundled and merged into a PDF file. Such a file can be described as a scanned PDF. They differ from standard PDFs in that editing them is usually not possible.
@@ -58,10 +64,12 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 1. Visit[PDF24](https://tools.pdf24.org/en/ocr-pdf) or a similar site that uses OCR to recognize the text in files.
 2. Click on the**Choose files** button.  
 ![Clicking on the Choose File Button on PDF OCR Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/1-6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Upload the scanned PDF file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Allow the tool to complete its processing.
 5. Download the converted version of the PDF file.  
 ![Downloading the Converted Version of the PDF File From the PDF OCR Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/2-8.jpg)
@@ -73,17 +81,9 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
  So, confirm whether the PDF's author has placed certain restrictions on it. If he has, request an unrestricted version of the PDF file. Alternatively, you can remove the restrictions set on the PDF on your own. Several online tools allow you to remove constraints, such as[Online2pdf](https://online2pdf.com/remove-pdf-restrictions) .
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Check the Software for Issues
 
  Despite this being fairly obvious, you may occasionally be unable to highlight text in PDF files because of a deep-rooted issue in your PDF viewer. To confirm this, open up a different PDF and select the text to highlight. If it doesn't work on the other file, too, it's a software issue.
@@ -92,18 +92,12 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 
  Restart the software, update it, repair corrupt files, and apply other relevant fixes depending on the software you have to resolve the primary issue. Once the primary problem with the software is resolved, the feature will resume working normally.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Reinstall the PDF Viewer Software
 
  Did switching the PDF viewer resolve the issue? If so, there is a problem with your primary software. To fix the unforeseen problem the software is experiencing, you should uninstall and reinstall it. Reinstalling the software may undo any customizations you have already made. So, keep that in mind before you do that.
 
  Need help uninstalling software? Refer to our guides on[uninstalling software on Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and[Windows 10](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Highlight Your PDF Text Again on Windows
 
  Being unable to highlight text can seriously affect our productivity. Hopefully, with the fixes mentioned in the article, you'll resolve this annoying issue and highlight the text again. When nothing works, there will always be the option to switch PDF viewers.
@@ -114,8 +108,6 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +115,23 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-enthusiasts-rejoice-the-ultimate-freestyle2-blue-mac-app-review/"><u>Apple Enthusiasts Rejoice: The Ultimate Freestyle2 Blue Mac App Review!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/blue-screen-woes-heres-how-you-can-repair-stop-0x0000007b-errors-easily/"><u>Blue Screen Woes? Here's How You Can Repair STOP 0X0000007B Errors Easily</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/einfache-und-automatische-sicherung-veranderter-dateien-jeden-tag-tipps-and-tricks-zum-optimalen-datenschutz/"><u>Einfache Und Automatische Sicherung Veränderter Dateien Jeden Tag: Tipps & Tricks Zum Optimalen Datenschutz</u></a></li>
+<li><a href="https://fox-links.techidaily.com/from-amateurs-to-experts-shooting-spectacentic-photos-and-videos-for-2024/"><u>From Amateurs to Experts Shooting Spectacentic Photos & Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-scrutinizing-and-eliminating-windows-11-chronicles/"><u>Guide to Scrutinizing & Eliminating Windows 11 Chronicles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-gionee-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Gionee FRP In 3 Different Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>IPhone Strategies Preserving & Enjoying GIFs at Their Best</u></a></li>
+<li><a href="https://win11.techidaily.com/microsofts-new-era-accelerated-team-collaboration/"><u>Microsoft's New Era: Accelerated Team Collaboration</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-effective-fixes-for-common-windows-bsod/"><u>Quick & Effective Fixes for Common Windows BSOD</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-directory-not-empty-issue-with-error-code-0x80070091-in-windows-11/"><u>Rectifying Directory Not Empty Issue with Error Code: 0X80070091 in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/setup-guide-for-outlook-preview-on-windows-11/"><u>Setup Guide for Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-launch-issues-with-necromunda-hired-gun-for-windows-users/"><u>Troubleshooting Persistent Launch Issues with Necromunda: Hired Gun for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-hosting-your-own-home-karaoke-event/"><u>Ultimate Guide: Hosting Your Own Home Karaoke Event</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-power-of-notation-in-windows-11s-explorer/"><u>Unveiling the Power of Notation in Windows 11'S Explorer</u></a></li>
+<li><a href="https://win11.techidaily.com/winsec-fix-overcoming-limited-admin-access-alert/"><u>WinSec Fix: Overcoming 'Limited Admin Access' Alert</u></a></li>
+</ul></div>
 

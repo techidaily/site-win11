@@ -1,7 +1,7 @@
 ---
 title: "Navigate Through Error Code 31: Restoring Your Internet Connection"
-date: 2025-01-09T08:33:27.952Z
-updated: 2025-01-13T07:24:13.120Z
+date: 2025-01-11T18:45:07.626Z
+updated: 2025-01-18T22:35:09.281Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8
 
  Additionally, you can also find new drivers using your manufacturer's proprietary system management tool. For example, with Lenovo and HP computers, you can use the Lenovo Vantage and HP Support Assistant utility to find and install new drivers for your network adapter and other devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Perform a Driver Roll Back
 
  If you believe a recent driver update is causing the error, you can use the**Roll Back Driver** option to perform a rollback and reinstall the previous version of the network adapter driver.
@@ -49,10 +45,6 @@ To perform a network driver rollback:
 ![device manager network adapter properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-adapter-properties.jpg)
 4. Right-click on your network device and select**Properties** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. In the**Properties** dialog, open the**Driver** tab.  
 ![device manager network driver roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/device-manager-network-driver-roll-back-driver-1.jpg)
 6. Click the**Roll Back Driver** button. If the option is**greyed out** , your computer doesn't have an older driver to perform a rollback. Check your manufacturer's website to see if they have older drivers in an archive.
@@ -61,7 +53,7 @@ To perform a network driver rollback:
 8. Once the driver rollback is complete, check if the problem is resolved. If not, check if you can perform another rollback for the network device driver to see if that helps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Perform a Network Reset
@@ -78,12 +70,12 @@ To perform a network reset:
 5. ![advanced network settings windows 11 network reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset.jpg)  
  Click on**Reset now** and click**Yes** to rest your network settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![advanced network settings windows 11 network reset reset now](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/advanced-network-settings-windows-11-network-reset-reset-now.jpg)
 6. Your PC will restart during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Delete the Corrupted Network Config File on Older Machines
 
@@ -105,6 +97,10 @@ To perform a network reset:
 
  Note that modifications to some registry entries may fail due to insufficient permission issues. If you get an error when deleting the Config value, take full ownership of the registry key and then try again. Our guide on[how to take full ownership of registry keys on Windows 10](https://www.makeuseof.com/windows-10-full-ownership-registry/) will work on older systems too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall Your Network Adapter Driver
 
  You can manually uninstall your network adapter device and driver to perform a network reset on older Windows versions. You can use the reliable Device Manager to uninstall your network devices.
@@ -116,19 +112,23 @@ To perform a network reset:
 4. In the confirmation dialog, check the**Attempt to remove the driver for this device** option.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![uninstall network driver device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-network-driver-device-device-manager.jpg)
 5. Click**Uninstall** to confirm the action.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once uninstalled, restart your PC. After the restart, Windows will automatically detect connected but unrecognized devices and install the necessary drivers.
 
  If Windows fails to install the driver, open**Device Manager** , right-click on your network adapter and select**Update driver** . You can also download the latest drivers from your computer manufacturer's website, as shown in step one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Perform a System Restore
 
@@ -168,22 +168,24 @@ To perform a restore point:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[New] 2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-live-play-and-log-mobile-gaming-with-samsung/"><u>[Updated] Live, Play & Log Mobile Gaming with Samsung</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-breaking-top-tiktok-videos-making-twitter-shout/"><u>2024 Approved Breaking Top TikTok Videos Making Twitter Shout</u></a></li>
-<li><a href="https://driver-download.techidaily.com/corporate-governance-transparency-and-anti-corruption-measures/"><u>Corporate Governance Transparency and Anti-Corruption Measures</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expertise-in-transition-techniques-adobe-edition-for-2024/"><u>Expertise in Transition Techniques, Adobe Edition for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/fast-track-to-group-policy-in-windows-11/"><u>Fast Track to Group Policy in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-disableuninstall-ms-edge-in-win11/"><u>How to Disable/Uninstall MS Edge in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-fixing-unauthorized-logins-in-windows/"><u>Mastering the Art of Fixing Unauthorized Logins in Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-facebook-connectivity-with-apps-and-websites/"><u>Navigating Facebook Connectivity with Apps & Websites</u></a></li>
-<li><a href="https://win11.techidaily.com/optimized-pc-exploration-utilizing-everythingapp/"><u>Optimized PC Exploration: Utilizing EverythingApp</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/professional-setup-for-screen-capture-during-games/"><u>Professional Setup for Screen Capture During Games</u></a></li>
-<li><a href="https://win11.techidaily.com/prolonging-windows-11-shutdown-managing-live-operationstasks/"><u>Prolonging Windows 11 Shutdown: Managing Live Operations/Tasks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/radiant-recording-two-simple-steps-for-enhanced-iphone-video-lighting-for-2024/"><u>Radiant Recording Two Simple Steps for Enhanced iPhone Video Lighting for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-problem-unsupported-intelamd-drivers-not-supported-by-premiere-pro/"><u>Resolved Problem: Unsupported Intel/AMD Drivers Not Supported by Premiere Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-try-connecting-your-device-issue-in-win-11/"><u>Resolving 'Try Connecting Your Device' Issue in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-video-limitation-errors-in-the-school-of-witchcraft-and-wizardry-game/"><u>Solving Video Limitation Errors in the School of Witchcraft & Wizardry Game</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-countering-dxgierror-in-windows-11/"><u>Strategies for Countering DXGI_Error in Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-beyondonecam-testing-are-there-better-options-for-2024/"><u>[New] BeyondOneCam Testing Are There Better Options for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-veiled-glance-at-digital-diary-fb-for-2024/"><u>[New] Veiled Glance at Digital Diary (FB) for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-blur-faces-or-objects-in-youtube-videos-for-2024/"><u>[Updated] How to Blur Faces or Objects in YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-whirling-installer-range/"><u>2024 Approved Whirling Installer Range</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/company-ekwb-faces-backlash-offers-public-remorse-over-payment-delays-vows-reform/"><u>Company EKWB Faces Backlash; Offers Public Remorse Over Payment Delays, Vows Reform</u></a></li>
+<li><a href="https://win11.techidaily.com/condensed-explore-streamline-your-file-explorer-layout/"><u>Condensed Explore: Streamline Your File Explorer Layout</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/initiating-powershell-as-admin-in-windows-11-operating-system/"><u>Initiating PowerShell as Admin in Windows 11 Operating System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-terminal-tricks-for-accessing-concealed-files-easily/"><u>MacOS Terminal Tricks for Accessing Concealed Files Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-your-files-like-a-pro-with-win-11s-auto-transfer/"><u>Navigate Your Files Like a Pro with Win 11’S Auto-Transfer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-disabled-file-consolidation-feature/"><u>Overcoming Disabled File Consolidation Feature</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reestablish-xbox-mic-connection-on-windows-11/"><u>Steps to Reestablish Xbox Mic Connection on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-manage-non-microsoft-app-verification-in-windows/"><u>Strategies to Manage Non-Microsoft App Verification in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/sudo-and-windows-a-symbiotic-relationship-unveiled/"><u>Sudo and Windows: A Symbiotic Relationship Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-navigate-win11s-bluescreen-by-adopting-these-tips/"><u>Swiftly Navigate Win11's Bluescreen by Adopting These Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/the-5-steps-to-access-windows-startup-zone/"><u>The 5 Steps to Access Windows Startup Zone</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-power-of-advanced-taskbar-options-in-windows-11-ui/"><u>Unlocking the Power of Advanced Taskbar Options in Windows 11 UI</u></a></li>
 </ul></div>
 

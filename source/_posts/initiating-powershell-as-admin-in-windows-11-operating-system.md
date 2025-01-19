@@ -1,7 +1,7 @@
 ---
 title: Initiating PowerShell as Admin in Windows 11 Operating System
-date: 2025-01-06T03:14:17.169Z
-updated: 2025-01-13T06:22:20.536Z
+date: 2025-01-17T01:09:06.030Z
+updated: 2025-01-19T00:16:08.158Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Open Windows PowerShell as an Administrator Using the Power User Menu
 
  The Power User Menu is a great way to quickly access important system tools and settings in Windows 11\. To open Windows PowerShell using the Power User Menu, do the following:
@@ -37,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 2. From the menu list, select**Terminal (Admin)** .  
 ![Open Windows PowerShell Using Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-power-user-menu.jpg)
 3. If UAC appears on the screen, click**Yes** to grant permission.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Windows PowerShell as an Administrator From the Windows Search Tool
 
@@ -48,11 +48,11 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 ![Open Windows PowerShell Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-windows-search.jpg)
 4. If User Account Control prompts you, click**Yes** to grant admin privileges.
 
- PowerShell will now open with administrative privileges. Here you can type any PowerShell command you want to execute. To exit PowerShell, type "Exit" and press**Enter** .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ PowerShell will now open with administrative privileges. Here you can type any PowerShell command you want to execute. To exit PowerShell, type "Exit" and press**Enter** .
 
 ## 3\. How to Open Windows PowerShell as an Administrator Through the Run Command
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 2. From here, type in "PowerShell" and press**Ctrl + Shift + Enter** key combination.  
 ![Open Windows PowerShell Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-run-command.jpg)
 3. If a confirmation prompt pops up, click**Yes** to continue. This will launch PowerShell as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Open Windows PowerShell as an Administrator From Windows File Explorer
 
@@ -76,7 +80,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 5. When UAC appears, click**Yes** to grant admin rights.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Open Windows PowerShell as an Administrator Using Command Prompt
@@ -90,10 +94,6 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  As soon as you type the above command line in the elevated command prompt window, Windows PowerShell will start running as an administrator.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. How to Open Windows PowerShell as an Administrator From the Start Menu
 
  The Start Menu contains a wide range of software programs and files that provide a central place for launching applications and other tasks. Start Windows PowerShell with these steps:
@@ -106,7 +106,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 5. The UAC will appear on the screen. If it does, click**Yes** to grant administrative privileges.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. How to Open Windows PowerShell as an Administrator Through Task Manager
@@ -145,10 +145,14 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 ![Open Windows PowerShell With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-with-desktop-shortcut.jpg)
 4. Type in a name for the shortcut and click Finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, whenever you want to open PowerShell as an administrator, simply double-click on the shortcut.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. How to Open Windows PowerShell as an Administrator Using a Batch File
@@ -164,10 +168,6 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 ![Open Windows PowerShell With a Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-with-a-batch-file.jpg)
 
  This will create the Windows PowerShell batch file. To open Windows PowerShell with administrator access, double-click the batch file. When the UAC prompt appears, click**Yes** to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get an Elevated Windows PowerShell Running
 
@@ -188,17 +188,24 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint-for-2024/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-years-round-showcase-of-best-zero-toll-livestream-utilities/"><u>2024 Approved Year's Round Showcase of Best Zero-Toll LiveStream Utilities</u></a></li>
-<li><a href="https://media-tips.techidaily.com/creazione-di-un-server-dlna-su-un-computer-basato-su-windows-10-guida-dettagliata/"><u>Creazione Di Un Server DLNA Su Un Computer Basato Su Windows 10: Guida Dettagliata</u></a></li>
-<li><a href="https://win11.techidaily.com/effective-strategies-for-registry-repair-in-win11/"><u>Effective Strategies for Registry Repair in Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-graphics-problem-code-3-windows-and-nvidia/"><u>Eradicating Graphics Problem Code 3: Windows & NVidia</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hasten-your-windows-doc-analysis-process-for-2024/"><u>Hasten Your Windows Doc Analysis Process for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-iphone-video-editing-shorten-crop-and-resize-basics/"><u>In 2024, IPhone Video Editing Shorten, Crop & Resize Basics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-s17t-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo S17t FRP Bypass</u></a></li>
-<li><a href="https://win11.techidaily.com/premier-aid-compendium-free-essential-tools-for-win11-pcs/"><u>Premier Aid Compendium: Free, Essential Tools for Win11 PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/retweet-vs-re-tweet-do-they-mean-the-same-thing-on-social-media/"><u>Retweet Vs. Re-Tweet: Do They Mean the Same Thing on Social Media?</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-the-secrets-of-windows-history-for-easy-management/"><u>Unlock the Secrets of Windows History for Easy Management</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>[New] 2024 Approved Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-effortless-production-of-fb-ad-videos-with-complimentary-kit/"><u>[New] 2024 Approved Effortless Production of FB Ad Videos with Complimentary Kit</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-get-paid-on-youtube-from-adsense-to-your-bank-account/"><u>[New] In 2024, How To Get Paid on YouTube - From AdSense to Your Bank Account</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/clearstream-2v-all-weather-hdtv-antenna-evaluation-exceptional-functionality-in-a-less-attractive-design/"><u>ClearStream 2V All-Weather HDTV Antenna Evaluation: Exceptional Functionality in a Less Attractive Design</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/consistent-print-quality-with-balanced-ink-cartridges-expert-tips-from-yl-software/"><u>Consistent Print Quality with Balanced Ink Cartridges: Expert Tips From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-and-resolving-pc-error-code-0x8000fffd/"><u>Decoding and Resolving PC Error Code 0X8000FFFD</u></a></li>
+<li><a href="https://win11.techidaily.com/demystifying-the-windows-iscsi-initiator-process/"><u>Demystifying the Windows iSCSI Initiator Process</u></a></li>
+<li><a href="https://win11.techidaily.com/dynamic-display-driven-next-windows-chapter/"><u>Dynamic Display Driven: Next Windows Chapter</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-recurring-freezes-of-microsoft-teams-in-ws11ws10/"><u>How to Stop Recurring Freezes of Microsoft Teams in WS11/WS10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-7-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 7 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-motorola-moto-g13-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Motorola Moto G13 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-transformative-tactics-for-impeccable-hue-correction/"><u>In 2024, Transformative Tactics for Impeccable Hue Correction</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-intel-network-driver-setup-in-windows/"><u>Mastering Intel Network Driver Setup in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/opening-the-system32-folder-win11-guide/"><u>Opening the System32 Folder: Win11 Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-overcoming-steam-display-failure/"><u>Quick Guide to Overcoming Steam Display Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/tailored-instructions-for-microsoft-office-to-handle-email-content-in-reading-mode/"><u>Tailored Instructions for Microsoft Office to Handle Email Content in Reading Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/techniques-for-rectifying-system-call-failed-errors/"><u>Techniques for Rectifying 'System Call Failed' Errors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-earning-on-youtube-shorts-for-2024/"><u>The Ultimate Guide to Earning on Youtube Shorts for 2024</u></a></li>
 </ul></div>
 

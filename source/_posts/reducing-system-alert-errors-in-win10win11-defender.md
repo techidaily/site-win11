@@ -1,7 +1,7 @@
 ---
 title: Reducing System Alert Errors in Win10/Win11 Defender
-date: 2025-01-12T08:57:58.844Z
-updated: 2025-01-13T08:28:41.682Z
+date: 2025-01-13T18:48:48.352Z
+updated: 2025-01-18T20:06:19.095Z
 tags:
   - windows10
   - windows11
@@ -25,23 +25,11 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Check for New Windows Updates
 
  First, check for and install available Windows patch updates. Microsoft releases many patches to update Microsoft Defender. So, a patch update could feasibly resolve a Windows Security bug. Our[guide to manually updating Windows](https://www.makeuseof.com/update-windows-manually/#:~:text=Press%20the%20Win%20%2B%20I%20hotkeys,the%20Check%20for%20updates%20button.) tells you how to check for and install new updates in Settings.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Run System File and Image Scans
 
@@ -60,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
@@ -79,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-edit-dword-window.jpg)
 7. Select**OK** to confirm the value for the DWORD.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Reset the Windows Security App
 
  Resetting Windows Security is worth trying whenever that app isn’t working right. In this case, something is up with the antivirus component of that app. You can reset that app within Settings or by executing a PowerShell command. Our article about[resetting Windows Security](https://www.makeuseof.com/windows-11-reset-windows-security/) tells you how to apply this potential resolution in three different ways.
@@ -86,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
@@ -102,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-button-for-malwarebytes.jpg)
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
@@ -112,12 +108,16 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 ![The Scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-option.jpg)
 13. Press the**Quarantine** button after the scan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
 
  The Microsoft Safety Scanner is an alternative to Malwarebytes you can run a malware scan with as well. However, that’s only a temporary scanning utility that expires after 10 days. You can download that utility from this[Microsoft page](https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/safety-scanner-download?view=o365-worldwide) . Check out[our Microsoft Safety Scanner guide](https://www.makeuseof.com/microsoft-safety-scanner-guide/) for details about to purge malware with that tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Check the "Turn Off Microsoft Defender Antivirus" Group Policy Setting
@@ -142,13 +142,13 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-this-pc-tool.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  An in-place upgrade is an alternative troubleshooting method to resetting Windows. Performing an in-place upgrade will reinstall Windows by installing the latest build version. So, it’s like a reset, but the advantage is that an in-place upgrade preserves the apps you’ve installed. This guide to[performing an in-place upgrade on Windows](https://www.makeuseof.com/in-place-upgrade-windows-11/) provides full instructions for upgrading Windows 11 in such a way.
 
  However, you could feasibly upgrade to a new Windows version via Settings. Open**Windows Update** in the Settings app to see if there’s a version upgrade available. If so, select to upgrade to the latest Windows build from there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Run a Scan With Windows Security Again
 
@@ -169,21 +169,22 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-becoming-an-instagram-reel-prodigy/"><u>[New] 2024 Approved Becoming an Instagram Reel Prodigy</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-video-lighting-techniques/"><u>[New] Mastering Video Lighting Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-endless-eradication-guide-bypassing-youtubes-snappy-content/"><u>[Updated] In 2024, Endless Eradication Guide Bypassing YouTube's Snappy Content</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-podcasting-made-simple-easy-steps-to-capture-live-streams/"><u>[Updated] In 2024, Podcasting Made Simple Easy Steps to Capture Live Streams</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-virtual-realms-in-retroperusia-facebooks-image-inversion/"><u>[Updated] Navigating Virtual Realms in Retroperusia Facebook's Image Inversion</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-path-to-youtube-wealth-top-revenue-tactics/"><u>[Updated] The Path to YouTube Wealth Top Revenue Tactics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-oppo-reno-11f-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Oppo Reno 11F 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-auditory-experience-on-win11-setting-up-your-shortcuts/"><u>Enhance Auditory Experience on Win11: Setting Up Your Shortcuts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-find-x7withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Find X7with/without a PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-bengali-skills-upgrade/"><u>Quick Bengali Skills Upgrade</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-the-blue-screen-overcoming-wins-exception-issue/"><u>Remedying the Blue Screen: Overcoming Win's Exception Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/reviving-unresponsive-volume-slider-on-pc/"><u>Reviving Unresponsive Volume Slider on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-the-0x800700e9-error-xbox-live-troubleshooting-guide/"><u>Solving the 0X800700E9 Error: Xbox Live Troubleshooting Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/speedy-voice-recordings-made-simple-with-win-11s-shortcuts/"><u>Speedy Voice Recordings Made Simple with Win 11'S Shortcuts</u></a></li>
-<li><a href="https://win11.techidaily.com/unblocking-copy-and-paste-on-chrome-edge-firefox-os/"><u>Unblocking Copy & Paste on Chrome, Edge, Firefox OS</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-new-directions-for-improved-past-content-retrieval/"><u>Windows 11: New Directions for Improved Past Content Retrieval</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-crafting-flawless-subtitles-with-precision-and-tips/"><u>[Updated] 2024 Approved Crafting Flawless Subtitles with Precision and Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagrams-backstage-pass-top-covert-strategies-revealed/"><u>[Updated] In 2024, Instagram’s Backstage Pass Top Covert Strategies Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-visionarys-list-the-finest-26-video-to-text-converters-available/"><u>2024 Approved The Visionary’s List The Finest 26 Video-to-Text Converters Available</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-driven-insights-boost-your-sites-performance/"><u>Cookiebot-Driven Insights: Boost Your Site's Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-remote-access-in-windows-11-bypassing-passwords/"><u>Easy Remote Access in Windows 11, Bypassing Passwords</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-quality-and-stability-of-live-steam-on-pc/"><u>Enhancing Quality and Stability of Live Steam on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-updates-and-drivers-for-your-geforce-gtx-1660-super-gpu/"><u>Get the Latest Updates and Drivers for Your GeForce GTX 1660 Super GPU</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-avoid-window-roundness-in-win11/"><u>How to Avoid Window Roundness in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/keyboard-kinks-how-to-awaken-sleeping-windows-1011-pcs/"><u>Keyboard Kinks: How to Awaken Sleeping Windows 10/11 PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/no-more-upgrades-try-these-windows-solutions/"><u>No More Upgrades? Try These Windows Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/online-mp3-en-webm-converteren-met-ooitiefkrachtig-movavi-vrij/"><u>Online MP3 en Webm Converteren Met Ooitiefkrachtig Movavi - Vrij!</u></a></li>
+<li><a href="https://win11.techidaily.com/prose-perfection-best-writing-software-for-windows-users/"><u>Prose Perfection: Best Writing Software for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-roblox-crashes-on-pc/"><u>Resolving Roblox Crashes on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-zerosevenerror/"><u>Resolving Windows ZeroSevenError</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978072391-up-to-date-geforce-gt-710-video-card-driver-windows-get-your-free-copy-now/"><u>Up-to-Date GeForce GT #710 Video Card Driver (Windows) - Get Your Free Copy Now!</u></a></li>
 </ul></div>
 

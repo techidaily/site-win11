@@ -1,7 +1,7 @@
 ---
 title: Efficient PC Revamp with These Three Windows Steps
-date: 2025-01-12T01:02:44.665Z
-updated: 2025-01-13T07:20:24.349Z
+date: 2025-01-12T19:27:23.568Z
+updated: 2025-01-18T20:28:29.224Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Make sure you [know what to back up from your computer](https://www.makeuseof.com/tag/backup-windows-files-folders/), then see our [Windows data backup guide](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/). Once you have a safe copy of everything, you can proceed with reinstalling Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Factory Reset Windows 10 or Windows 11 Using the Built-In Method
 
  Factory resetting Windows was once an inconvenient process, but Microsoft introduced a much easier way to do so starting in Windows 8\. As this is also included in Windows 10 and Windows 11, it's the best way to factory reset a Windows computer in most cases.
@@ -42,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  To access this Windows reinstall option on Windows 10, head to **Settings > Update & Security > Recovery**. You'll see a **Reset this PC** header; click the **Get started** button underneath this to begin.
 
 ![Windows 10 Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-10-Reset-This-PC.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're on Windows 11, head to **Settings > System > Recovery**. Click **Reset PC** next to **Reset this PC** to get started. The steps from here are the same for Windows 11 and Windows 10\. If you run into trouble, see how to [factory reset Windows 11 without an admin password](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/).
 
@@ -64,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![Windows 11 Factory Reset Keep Files Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-11-Factory-Reset-Keep-Files-Option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cloud Download vs. Local Reinstall
@@ -79,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 ![Windows 10 Cloud Reinstall Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Cloud-Reinstall-Option.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Options When Resetting Windows 10 and 11
 
  Next, you'll see an **Additional settings** menu that has a **Current settings** section, containing a summary of what you've chosen to do so far. There's also a **Change settings** link you can click for more options.
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
  There are additional choices when you pick **Remove everything**. Enabling **Clean data?** will obliterate everything on the drive to reduce the chance of someone recovering it later. Though this process takes some time, you should use it if you're getting rid of your computer. It's not necessary if you're keeping your machine.
 
 ![Windows 10 Reset PC Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/Windows-10-Reset-PC-Options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turn on **Delete files from all drives?** to erase everything on all drives you have connected to your computer. This includes external hard drives and recovery drives. Because you probably have backups and other important files on those drives, you shouldn't use this unless you want to permanently erase everything associated with your computer. Be careful with this option!
 
@@ -103,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
  Make sure you [take the recommended steps after reinstalling Windows 10](https://www.makeuseof.com/tag/post-installation-windows-10/) if you're sticking with that OS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Reinstall Windows Manually Using Windows Installation Media
 
  If you're not using Windows 10 or 11, want to factory reset Windows 10 or 11 without the Settings menu, or don't want to use the other methods for some reason, you can always factory reset Windows using installation media. This allows you to install a fresh copy of Windows on your computer and wipe out everything currently on it.
@@ -113,15 +117,15 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 ![Create installation media for Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/muo-windows-install-usb-media2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need to reinstall Windows 8.1 from scratch for some reason, you can use [Microsoft's Windows 8.1 download tool](https://www.microsoft.com/en-us/software-download/windows8ISO). This lets you download an [ISO to burn onto a flash drive](https://www.makeuseof.com/tag/10-tools-make-bootable-usb-iso-file/) or DVD so you can reinstall Windows. Simply insert the USB drive or disc containing your installation media, then [boot from the removable device](https://www.makeuseof.com/tag/how-to-change-the-boot-order-on-your-pc-so-you-can-boot-from-usb/). You'll be greeted with the Windows setup screen, which you can proceed through to install a clean copy. Remember that doing this will remove everything currently on the drive where you install Windows.
 
  Since Windows 7 has been out of support for years, Microsoft no longer offers an official Windows 7 download. We recommend that you [upgrade to a modern version of Windows](https://www.makeuseof.com/why-you-shouldnt-use-old-windows/); don't download Windows 7 from a random website, as it may contain malware.
 
  Note that the methods in #1 above allow you to reinstall Windows in effectively the same way without manually creating a USB installer, so they're much more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Factory Reset Windows 10 or 11 From Boot Using Advanced Methods
 
@@ -154,11 +158,7 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 ![Windows 10 Security Fresh Start](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/04/Windows-10-Security-Fresh-Start.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Now You Know How to Factory Reset Your Windows Computer
@@ -179,24 +179,19 @@ thumbnail: https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expert-strategies-for-efficient-funimate-use/"><u>[New] Expert Strategies for Efficient Funimate Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-simplified-top-choices-for-easy-video-making/"><u>[Updated] Screen Capture Simplified Top Choices for Easy Video Making</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-fix-for-win10win11-error-0x0000004e/"><u>Comprehensive Fix for Win10/Win11 Error 0X0000004E</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/future-google-pixel-wrist-device-cost-estimates-availability-date-and-hardware-details-gathering-insights/"><u>Future Google Pixel Wrist Device: Cost Estimates, Availability Date & Hardware Details – Gathering Insights</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lenovo-thinkphone-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lenovo ThinkPhone Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-windows-filename-date-management/"><u>Mastering the Art of Windows Filename Date Management</u></a></li>
-<li><a href="https://win11.techidaily.com/remedy-for-absence-of-notification-badges/"><u>Remedy for Absence of Notification Badges</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-your-gameplay-on-win-11-with-these-essential-seven-strategies/"><u>Revolutionize Your Gameplay on Win 11 with These Essential Seven Strategies</u></a></li>
-<li><a href="https://win-info.techidaily.com/step-by-step-tutorial-how-to-recover-lost-data-from-your-windows-10-backups/"><u>Step-by-Step Tutorial: How to Recover Lost Data From Your Windows 10 Backups</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-mend-unloading-issues-in-windows-discord-application/"><u>Steps to Mend Unloading Issues in Windows Discord Application</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-windows-11s-software-removal-hurdles/"><u>Strategies to Overcome Windows 11'S Software Removal Hurdles</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-system-fixes-with-10-windows-actions/"><u>Streamlining System Fixes with 10 Windows Actions</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-stubborn-0x800f0831-problem-in-win11/"><u>Tackling the Stubborn 0X800F0831 Problem in Win11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-comprehensive-toms-computing-resource/"><u>The Comprehensive Tom's Computing Resource</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-streamers-pathway-embracing-twitch-app-mobile/"><u>The Streamer's Pathway - Embracing Twitch App (Mobile)</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-low-usb-resources-in-windows-os/"><u>Troubleshooting Low USB Resources in Windows OS</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-file-wipe-tool-stellar-file-eraser-5-with-easy-to-set-windows-cleaning-schedule/"><u>Ultimate File Wipe Tool: Stellar File Eraser 5 with Easy-to-Set Windows Cleaning Schedule</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-restrict-viewership-of-your-youtube-content/"><u>[New] In 2024, How to Restrict Viewership of Your YouTube Content</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-enhance-smarts-with-these-premier-15-science-yts/"><u>[Updated] Enhance Smarts with These Premier 15 Science YTs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-video-engagement-pinnacle-techniques-in-zoom-editing/"><u>[Updated] In 2024, Enhance Video Engagement Pinnacle Techniques in Zoom Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/disconnecting-onedrive-from-your-windows-microsoft-profile/"><u>Disconnecting OneDrive From Your Windows Microsoft Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-myths-does-chatgpt-lose-its-edge-over-time/"><u>Exploring the Myths: Does ChatGPT Lose Its Edge Over Time?</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-startup-items-vanished/"><u>Fixing Windows Error: Startup Items Vanished</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/in-depth-look-at-what-you-should-know-about-samsungs-tv-app-ecosystem/"><u>In-Depth Look at What You Should Know About Samsung's TV App Ecosystem</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-methods-to-log-gaming-sessions-for-2024/"><u>Innovative Methods to Log Gaming Sessions for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-reestablishing-access-to-pc-management-in-windows-11/"><u>Mastery Guide: Reestablishing Access to PC Management in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-swiftly-restoring-failed-operations-in-winos-office/"><u>Steps for Swiftly Restoring Failed Operations in WinOS Office</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-dismissing-winos-hardware-acceleration-scheduling/"><u>Strategies for Dismissing WinOS Hardware Acceleration Scheduling</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-components-overview-expert-insights-on-hardware-choices/"><u>Tom's Components Overview: Expert Insights on Hardware Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-nostalgic-twist-retaining-7-old-school-features/"><u>Windows 11’S Nostalgic Twist: Retaining 7 Old-School Features</u></a></li>
 </ul></div>
 

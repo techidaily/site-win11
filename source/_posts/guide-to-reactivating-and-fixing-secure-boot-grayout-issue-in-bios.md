@@ -1,7 +1,7 @@
 ---
 title: Guide to Reactivating and Fixing Secure Boot Grayout Issue in BIOS
-date: 2024-08-16T00:47:38.772Z
-updated: 2024-08-17T00:47:38.772Z
+date: 2025-01-13T22:41:00.846Z
+updated: 2025-01-19T01:15:18.332Z
 tags:
   - windows10
   - windows11
@@ -33,17 +33,24 @@ To set an administrator password in BIOS:
 3. In the BIOS Setup Utility, use the right and left arrow keys to open the**Security** tab.  
 ![bios set administrator password 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bios-set-administrator-password-1.jpg)
 4. Next, select**Administrator Password** and press**Enter** . On other computers, you may see the**Set Supervisor Password** option instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Here, type your new administrator password and then repeat the password in the**Confirm New Password** field.
 6. Press**Enter** to save the password.  
 ![bios set administrator password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bios-set-administrator-password.jpg)
 7. Next, press**F10** to save the changes and exit**BIOS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Boot into**BIOS** again, and**Secure Boot** should be available for use.
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Fast Boot in BIOS
 
  Fast Boot is a UEFI/BIOS feature. When enabled, it skips the check for a USB device, such as a bootable drive to speed up the boot process. However, the same can also prevent you from enabling secure boot in BIOS.
@@ -62,23 +69,6 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -90,25 +80,33 @@ To restore BIOS Security settings to factory defaults:
 3. Use the down arrow keys and select**Restore Security settings to factory defaults** .  
 ![restore bios factory settings default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default.jpg)
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update BIOS
 
 ![system information bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Prepare Your Computer for a BIOS Update
 
  Before you update your BIOS, you'll need to[suspend BitLocker protection](https://www.makeuseof.com/windows-10-disable-or-suspend-bitlocker/) . You may also need to[temporarily turn off Windows Security protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and third-party antivirus.
@@ -125,16 +123,9 @@ To restore BIOS Security settings to factory defaults:
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 5\. Load the BIOS Defaults Settings
 
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -150,14 +141,11 @@ To load BIOS defaults settings:
 
  Secure Boot in BIOS is greyed out if the administrator password is not set. In other instances, incorrect BIOS security settings and outdated BIOS can cause the issue. As a last resort, try to restore BIOS settings to factory defaults to restore Secure Boot in BIOS.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -166,4 +154,26 @@ To load BIOS defaults settings:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-create-standout-videos-with-these-top-7-free-thumbnail-builders-for-2024/"><u>[New] Create Standout Videos with These Top 7 Free Thumbnail Builders for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/potlight-series-the-top-10-women-of-video-content-for-2024/"><u>[New] Spotlight Series The Top 10 Women of Video Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-direct-the-degrees-cutting-edge-youtube-video-manipulation/"><u>[Updated] In 2024, Direct the Degrees Cutting-Edge YouTube Video Manipulation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beyond-balancing-sheets-discover-4-everyday-uses-of-excel-outside-the-office/"><u>Beyond Balancing Sheets: Discover 4 Everyday Uses of Excel Outside the Office</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-windows-snapshot-dilemmrancies/"><u>Deciphering Windows Snapshot Dilemmrancies</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-warhammer-gaming-on-windows-eradicate-latency-problems/"><u>Elevate Warhammer Gaming on Windows - Eradicate Latency Problems</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-epic-games-login-with-ease-on-windows-pcs/"><u>Enabling Epic Games Login with Ease on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-1011s-error-code-0x8007045d/"><u>Fixing Windows 10/11'S Error Code: 0X8007045D</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-your-logitech-mouse-working-on-windows-10-again-a-step-by-step-guide-to-fixing-the-problem/"><u>Get Your Logitech Mouse Working on Windows 10 Again - A Step by Step Guide to Fixing the Problem</u></a></li>
+<li><a href="https://win11.techidaily.com/homemade-hardware-duplication-strategies/"><u>Homemade Hardware Duplication Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-10-proplus-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 10 Pro+ 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/lenovo-mouse-pad-failure-on-windows-10-8-and-7-ultimate-fix-guide/"><u>Lenovo Mouse Pad Failure on Windows 10, 8 & 7: Ultimate Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/rapid-recovery-steps-for-windows-11s-safe-mode-access/"><u>Rapid Recovery Steps for Windows 11'S Safe Mode Access</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/rectified-initialization-mishap-of-the-display-engine-with-latest-fixes-year-2pressure-on-rendering-engines-we-can-create-titles-that-communicate-a-successf111/"><u>Rectified Initialization Mishap of the Display Engine with Latest Fixes (Year 2Pressure on Rendering Engines, We Can Create Titles that Communicate a Successful Resolution to an Initial Problem While Still Hinting at Improvements or Fixes Made</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-cloud-desync-bug-solutions-and-fixes-at-hand/"><u>Steam Cloud Desync Bug – Solutions and Fixes at Hand</u></a></li>
+<li><a href="https://win11.techidaily.com/stepwise-guide-to-managing-user-groups-on-win1110-home-editions/"><u>Stepwise Guide to Managing User Groups on WIN11/10 Home Editions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-fix-for-wpcpdll-not-found-errors-effective-solutions-inside/"><u>The Ultimate Fix for 'WPCP.DLL Not Found' Errors: Effective Solutions Inside</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-list-for-pen-tablet-users-on-windows-os/"><u>Ultimate List for Pen Tablet Users on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-bsod-interrupt-fix-a-step-by-step-guide/"><u>Win11's BSOD Interrupt Fix: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

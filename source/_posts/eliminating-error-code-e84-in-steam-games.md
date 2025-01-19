@@ -1,7 +1,7 @@
 ---
 title: Eliminating Error Code E84 in Steam Games
-date: 2024-08-16T00:51:47.559Z
-updated: 2024-08-17T00:51:47.559Z
+date: 2025-01-17T17:19:06.723Z
+updated: 2025-01-18T23:48:20.170Z
 tags:
   - windows10
   - windows11
@@ -34,9 +34,9 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
  If the issue persists after applying the above checks and fixes, start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Log Out of Your Steam Account on Other Devices
 
  Even though using the same Steam account on multiple devices is not forbidden, doing so often leads to sign-in errors like e84\. If your Steam account is currently logged in on other devices, log out of your Steam account from all of them. After that, open the Steam client again and see if you can sign in successfully this time.
@@ -50,12 +50,19 @@ The ultimate burning program for all your needs!</a>
 1. Go to the[Steam website](https://store.steampowered.com/) .
 2. Click on**login** in the top-right corner.  
 ![Click on the Login Button on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-login-button-on-steam-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Enter your username, and without entering your password (even if you remember it), click on**Help, I can't sign in** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
 4. Then, click on**I forgot my Steam Account name or password** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter the email address or phone number linked to your account, verify Captcha, and click on**Search** .  
 ![Click on Search Button on the Steam Support Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-search-button-on-the-steam-support-pag.jpg)
 6. By selecting the appropriate option, receive a verification code to your email address or phone number.
@@ -67,17 +74,9 @@ The ultimate burning program for all your needs!</a>
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Add or Remove Launch Parameters
 
  Adding the**"-noreactlogin"** parameter in Steam's executable file can also resolve this issue. In technical terms, adding this flag disables the ReactJS-based login window and restores the old one. Follow these steps to add this extra flag:
@@ -86,32 +85,25 @@ The ultimate burning program for all your needs!</a>
 ![Open Steam Properties in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-steam-properties-in-windows.jpg)
 2. Go to the**Shortcut** tab in the**Steam Properties** window.  
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Apply** and then hit**OK** .  
 ![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
 
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. When Nothing Else Works…
 
  The above fixes should resolve this annoying error. However, if they don't work in your favor, here are a few final fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Make a New Steam Account and Try Logging In With it
 
  To confirm that the issue isn't with your Steam account, sign in to Steam using a different account (If you don't have another account, create one). If you successfully log in using the other account, it indicates that your primary account has an issue. So, contact Steam support through their[official Steam Support website](https://help.steampowered.com/en/) and ask them to investigate it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Whitelist Steam in All Active Security Apps
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
@@ -120,14 +112,11 @@ The ultimate burning program for all your needs!</a>
 
  Getting an error code 84 means Steam has failed to log you in. Hopefully, the above fixes will help you resolve the main issue and allow you to sign in successfully. Reinstalling the Steam client should be your last resort if nothing else works. Ensure you create a backup of your game files before uninstalling Steam to avoid losing your progress.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -136,4 +125,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-choosing-between-tiktok-and-youtube-shorts-a-users-guide/"><u>[Updated] 2024 Approved Choosing Between TikTok and YouTube Shorts A User's Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-quick-route-to-joy-embracing-the-ifunny-meme-app/"><u>[Updated] The Quick Route to Joy Embracing the iFunny Meme App</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-run-time-exception-guide-for-windows-users/"><u>Eliminating 'Run-Time Exception': Guide for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/embracing-change-ais-role-in-future-windows/"><u>Embracing Change: AI's Role in Future Windows</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-showdown-top-10-royale-warriors-games/"><u>In 2024, Ultimate Showdown Top 10 Royale Warriors' Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlock-creative-potential-image-curve-magic-in-ps/"><u>In 2024, Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-onedrive-local-access-blueprint-for-windows/"><u>Mastering the Art of OneDrive: Local Access Blueprint for WINDOWS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-securing-windows-file-permissions/"><u>Mastering the Art of Securing Windows File Permissions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-all-available-screen-configurations-on-gpu/"><u>Reactivating All Available Screen Configurations on GPU</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-electric-lawn-blower-picks-for-2e23-a-comprehensive-review-by-zdnet/"><u>Top-Rated Electric Lawn Blower Picks for 2E23 - A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-guide-to-macro-videography-techniques/"><u>Ultimate Guide to Macro Videography Techniques</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unraveling-the-process-of-stripping-beat-tracks-from-online-compositions/"><u>Unraveling the Process of Stripping Beat Tracks From Online Compositions</u></a></li>
+</ul></div>
 

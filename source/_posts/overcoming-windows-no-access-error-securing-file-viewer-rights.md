@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows' No Access Error: Securing File Viewer Rights"
-date: 2025-01-10T07:14:16.966Z
-updated: 2025-01-13T06:49:46.831Z
+date: 2025-01-17T00:02:48.647Z
+updated: 2025-01-18T21:51:58.808Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
  Now you know what causes this error, let's explore the solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Grant Full Control Permissions
 
  It looks like the main issue causing this error is that Windows doesn’t have sufficient permissions to access the file. To fix this, you must grant full control permissions to the account or user accessing the file. Here are the steps to follow:
@@ -43,10 +47,14 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Take Ownership of the Folder
 
@@ -61,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
@@ -73,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 5. Once done, click **OK** and close the window.
 
  After that, restart your computer and try accessing the folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Photos App
 
@@ -84,19 +92,15 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ![Microsoft Photos App in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-photos-app-in-settings.jpg)
 4. Click on the three dots and select **Advanced options**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, try to open photos on your external hard drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable UAC Temporarily
 
@@ -105,10 +109,6 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 ## 5\. Run the Program Compatibility Troubleshooter
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Open Files Without a Problem Again on Windows
 
@@ -126,17 +126,14 @@ thumbnail: https://thmb.techidaily.com/78fb29d7c7c4ae85074c8c2f79b68b4f70a966926
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-pro-video-enhancements-grasping-green-screen-artistry-through-4-youtube-demos/"><u>[New] In 2024, Pro Video Enhancements Grasping Green Screen Artistry Through 4 YouTube Demos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-compelling-freefire-vids-with-strategy-guide/"><u>[Updated] 2024 Approved Crafting Compelling FreeFire Vids with Strategy Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-essential-guide-8-excellent-priceless-3d-video-experience/"><u>[Updated] Essential Guide 8 Excellent, Priceless 3D Video Experience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-the-illustrators-journey-navigating-for-success-in-designing/"><u>[Updated] The Illustrator's Journey Navigating for Success in Designing</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-radiance-visionaries-report-on-studio-25-2023/"><u>2024 Approved Radiance Visionaries Report on Studio 25, 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-screencentral-exclusive-global-views-with-homeside-links/"><u>2024 Approved ScreenCentral Exclusive Global Views with Homeside Links</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-taskmanager-takes-the-lead/"><u>Ensuring TaskManager Takes the Lead</u></a></li>
-<li><a href="https://win11.techidaily.com/game-ready-or-studio-which-nvidia-driver-is-right-for-you/"><u>Game Ready or Studio: Which Nvidia Driver Is Right for You?</u></a></li>
-<li><a href="https://win11.techidaily.com/guidelines-for-upholding-windows-system-time-standards/"><u>Guidelines for Upholding Windows System Time Standards</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-gionee-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Gionee</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unexpected-errors-in-windows-defender/"><u>Overcoming Unexpected Errors in Windows Defender</u></a></li>
-<li><a href="https://win11.techidaily.com/push-past-blocks-efficient-fixes-for-steady-windows-setup-stalls/"><u>Push Past Blocks: Efficient Fixes for Steady Windows Setup Stalls</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-srt-editing-on-macos-a-comprehensive-guide/"><u>[Updated] Mastering SRT Editing on macOS A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-the-future-of-wireless-earbuds-googles-pixel-buds-pro-rumored-launch-dates-prices-and-tech-breakdown/"><u>Decoding the Future of Wireless Earbuds - Google's Pixel Buds Pro ² Rumored Launch Dates, Prices, and Tech Breakdown!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-latest-hp-officejet-3830-printer-driver-for-microsoft-windows-systems/"><u>Easy Installation: Latest HP OfficeJet 3830 Printer Driver for Microsoft Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-pcs-gaming-win-11-edition-a-guide-to-7-tips/"><u>Elevating Your PC's Gaming: Win 11 Edition - A Guide to 7 Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/encrypted-enigma-broken-no-urgent-change-needed/"><u>Encrypted Enigma Broken? No Urgent Change Needed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieve-peak-collaboration-a-complete-guide-to-slack-and-filmora-integration/"><u>In 2024, Achieve Peak Collaboration A Complete Guide to Slack & Filmora Integration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-and-easy-windows-setup-on-steam-deck/"><u>Quick & Easy Windows Setup on Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-fixing-profile-issues-windows-1111-edition/"><u>Quick Guide to Fixing Profile Issues: Windows 11/11 Edition</u></a></li>
 </ul></div>
 

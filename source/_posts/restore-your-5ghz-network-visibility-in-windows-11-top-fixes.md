@@ -1,7 +1,7 @@
 ---
 title: Restore Your 5GHz Network Visibility in Windows 11 - Top Fixes
-date: 2024-08-16T00:47:58.273Z
-updated: 2024-08-17T00:47:58.273Z
+date: 2025-01-15T16:56:03.343Z
+updated: 2025-01-18T23:29:37.008Z
 tags:
   - windows10
   - windows11
@@ -42,27 +42,26 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 `netsh wlan show drivers`
 4. Scroll down and look for the section named**"Number of** **supported bands."**  
 ![Check supported bands in CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-supported-bands.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If this section shows both 2.4GHz and 5GHz, then it indicates your computer is compatible with the 5GHz band. But if it only shows 2.4GHz, then it means that your device doesn't support a 5GHz connection.
 
  Another method to confirm your computer's compatibility is by checking the radio types.
 
 ![Radio Types using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/radio-types.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the radio type shows**802.11a 802.11g 802.11n** , then your computer is compatible with both 2.4GHz and 5GHz connections. But if it shows**802.11g 802.11n** or**802.11n 802.11g 802.11b** as available network modes, then your device only supports the 2.4GHz Wi-Fi band.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Restart Your Router
 
  Your computer might fail to detect the 5GHz connection if there's something wrong with your router. Restarting the router is one of the best ways you can try to get rid of most of the network issues, including this one. Hence, check out our guide on[how to restart your router](https://www.makeuseof.com/how-to-reset-router/) and check if it makes any difference.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Manually Enable the 5GHz Wi-Fi Band
 
  Windows lets you manually enable or disable the 5GHz Wi-Fi band on your computer. You can do it with the help of the Device Manager. Here are the steps you need to follow:
@@ -73,14 +72,12 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 4. Select the**5G Wireless Mode** and click the drop-down icon under**Value.**
 5. Choose**IEEE 802.11a/n** from the list.  
 ![Enable 5GHz in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-5ghz.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable and Re-Enable the Wi-Fi Adapter
 
  A Wi-Fi adapter is an important component that lets your device connect to a network. Sometimes, a temporary glitch with the Wi-Fi adapter can stop Windows from recognizing a particular band.
@@ -93,10 +90,11 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 4. Click**Change adapter settings** in the left panel.
 5. Right-click on the Wi-Fi adapter and click**Disable.**  
 ![Disable Network Adapter using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-network-adapter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Wait for a minute or so, and then right-click on the Wi-Fi adapter again and choose**Enable.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now check if your computer is showing a 5GHz connection.
 
@@ -109,11 +107,12 @@ thumbnail: https://thmb.techidaily.com/5cbaf66469602d9e14b1e36573f2e9339160b8c34
 3. Head towards**Troubleshoot** \>**Other troubleshooters** .
 4. Click the**Run** button next to**Internet Connection** .  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The troubleshooter will scan your network adapter for issues. If it finds any, follow the on-screen instructions to apply the recommended fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Download the Latest Network Driver Update
 
@@ -145,14 +144,11 @@ Reboot your computer after executing the above commands.
 
  But in the worst-case scenario, if the problem continues, you can consider resetting your network settings.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +157,26 @@ Reboot your computer after executing the above commands.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-master-strategies-for-reaching-a-million-view-goal/"><u>[New] 2024 Approved Master Strategies for Reaching a Million-View Goal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rom-capture-to-share-proven-methods-for-live-360-video-on-youtube-for-2024/"><u>[New] From Capture to Share Proven Methods for Live 360° Video on Youtube for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/does-windows-subsystem-enhance-linux-presence/"><u>Does Windows Subsystem Enhance Linux Presence?</u></a></li>
+<li><a href="https://win11.techidaily.com/drag-and-drop-not-working-in-windows-11-try-these-fixes/"><u>Drag and Drop Not Working in Windows 11? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-bluetooth-speaker-usability-volume-control-restored/"><u>Enhancing Windows Bluetooth Speaker Usability: Volume Control Restored</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-xiaomi-redmi-13c-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Xiaomi Redmi 13C 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/getting-your-windows-media-player-running/"><u>Getting Your Windows Media Player Running</u></a></li>
+<li><a href="https://win11.techidaily.com/ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme GT 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/old-hardware-new-horizons-reviving-pcs-with-windows-11-to-go-and-rufus/"><u>Old Hardware, New Horizons - Reviving PCs with Windows 11 To Go & Rufus</u></a></li>
+<li><a href="https://win11.techidaily.com/override-non-met-requirements-alert-in-win-11/"><u>Override Non-Met Requirements Alert in Win 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/photographers-guide-to-effective-watermarking/"><u>Photographers' Guide to Effective Watermarking</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-civi-3-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Civi 3</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ricca-funzionalita-on-line-per-la-trasformazione-di-file-wav-gratis-da-usare-sul-sito-web-di-movavi/"><u>Ricca Funzionalità On-Line per La Trasformazione Di File WAV - Gratis Da Usare Sul Sito Web Di Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-overcoming-black-display-glitches-with-epic-games-platform/"><u>Solutions for Overcoming Black Display Glitches with Epic Games Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-tackle-microsoft-store-error-on-xbox-app/"><u>Steps to Tackle Microsoft Store Error on Xbox App</u></a></li>
+<li><a href="https://win11.techidaily.com/unpacking-and-remedying-windows-1011-update-errors-0xc1900101/"><u>Unpacking & Remedying Windows 10/11 Update Errors (0xC1900101)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unveiling-a-pros-approach-to-time-stamping-for-youtube-enthusiasts/"><u>Unveiling a Pro's Approach to Time Stamping for YouTube Enthusiasts</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-storage-cleanup-removing-microsoft-app/"><u>Win11 Storage Cleanup: Removing Microsoft App</u></a></li>
+</ul></div>
 

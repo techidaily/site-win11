@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Altering Your Digital Signature: UserName Change"
-date: 2025-01-11T00:05:27.346Z
-updated: 2025-01-13T08:11:47.843Z
+date: 2025-01-15T21:34:05.209Z
+updated: 2025-01-18T20:48:58.096Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
  So, if you want to change your Microsoft account username, we recommend directly using the last method—changing your username from Microsoft's website. However, if you want to change the username of a local user account, you can use one of the first four methods mentioned below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Change Your Username Using the Control Panel
 
  The Control Panel serves as the central hub in the Windows operating system. From changing the operating system's appearance to configuring the connected hardware, the Control Panel allows users to tailor the entire OS. Among other customizations, users can change their usernames and manage their user accounts effectively.
@@ -53,7 +49,7 @@ To change your username using the Control Panel, follow these steps:
 8. For this change to take effect, you need to sign out of your account and sign back in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Change Your Username Using the Run Command
@@ -95,11 +91,11 @@ To change your username using the Run command, follow these steps:
 ![Click Rename by Right-clicking on the Account Name in the Local User and Group Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/8-click-rename-by-right-clicking-on-the-account-name-in-the-local-user-and-group-management-tool.jpg)
 7. Enter the new username you want to use.
 
- Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Afterward, close the local user and group management tool, sign out of your account once, and you'll see your new username on the sign-in screen.
 
 ## 4\. How to Change Your Username Using Windows PowerShell
 
@@ -119,7 +115,11 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 5. Then, log back into your account after logging out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. How to Change Your Profile Username From the Microsoft Website
@@ -133,17 +133,17 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 ![Click on Your info and Edit name to Change Username of a Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-your-info-and-edit-name-to-change-username-of-a-microsoft-account.jpg)
 5. Remove your current username and add the one you wish to switch to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. After that, click**Save** .  
 ![Click on Save to Change the Username of Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-save-to-change-the-username-of-microsoft-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Changing the username associated with your Microsoft account may not take effect immediately. Sometimes, you may not see the new username after signing out from your account once, as we do in the other methods. To prevent that from happening, we recommend[restarting your device](https://www.makeuseof.com/windows-restart-methods/) instead of just signing out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change Your Username With Ease
@@ -167,18 +167,17 @@ Rename-LocalUser -Name "Enter your current username" -NewName "Enter the new use
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-amazon-prime-series-most-liked-and-watched-on-twitter/"><u>[New] In 2024, The Ultimate Amazon Prime Series Most Liked & Watched on Twitter</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-uniting-fandoms-top-20-best-anime-songs-for-2024/"><u>[New] Uniting Fandoms Top 20 Best Anime Songs for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-diverse-and-outstanding-tiktok-profile-photos/"><u>[Updated] In 2024, Diverse and Outstanding TikTok Profile Photos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>[Updated] Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-uninitialized-messages-on-windows-disks/"><u>Decoding 'Uninitialized' Messages on Windows Disks</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/dynamic-scripting-for-videos-for-2024/"><u>Dynamic Scripting for Videos for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-unlock-and-open-an-inactive-nvidia-cp-on-w11/"><u>How to Unlock and Open an Inactive Nvidia CP on W11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-firefoxs-social-media-edge-top-downloader-extensions-and-addons-for-fb-content/"><u>In 2024, FireFox's Social Media Edge Top Downloader Extensions and Addons for FB Content</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-leaving-s-mode-in-windows/"><u>Mastering the Art of Leaving S Mode in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-missing-wi-fi-a-fix-guide-for-windows-11-users/"><u>Remedying Missing Wi-Fi: A Fix Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/resolving-the-windows-server-2016-startup-cycle-issues-post-update-top-5-methods/"><u>Resolving the Windows Server 2016 Startup Cycle Issues Post-Update: Top 5 Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/storytellers-sanctum-summit-selections/"><u>Storytellers Sanctum – Summit Selections</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-zte-nubia-z60-ultra-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 ZTE Nubia Z60 Ultra Android SIM Unlock APK</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/"><u>[New] A Picture's Worth Top 12 Websites for Exquisite Stock Photography Downloads</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-pixelated-panoramas-instaslideshow/"><u>[New] In 2024, Pixelated Panoramas InstaSlideShow</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-apple-m1-demystified-the-tech-leap-forward/"><u>[Updated] Apple M1 Demystified The Tech Leap Forward</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>Comparing Streaming Tools The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-nonexistent-hardware-reference-in-win-11/"><u>Correcting Nonexistent Hardware Reference in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-game-chat-functionality-for-valorant-windows/"><u>Enhancing Game Chat Functionality for Valorant (Windows)</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-user-experience-maximizing-taskbar-symbol-size/"><u>Enhancing User Experience - Maximizing Taskbar Symbol Size</u></a></li>
+<li><a href="https://win11.techidaily.com/from-lost-to-found-reinstating-deleted-files-on-pcs/"><u>From Lost to Found: Reinstating Deleted Files on PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-functional-keys-in-snipping-tool/"><u>Overcoming Non-Functional Keys in Snipping Tool</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-13-pro-max-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-android-smartwatch-application-choices/"><u>Top-Rated Android Smartwatch Application Choices</u></a></li>
 </ul></div>
 

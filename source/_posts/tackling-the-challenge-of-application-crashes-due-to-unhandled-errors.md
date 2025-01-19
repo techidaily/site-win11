@@ -1,7 +1,7 @@
 ---
 title: Tackling the Challenge of Application Crashes Due to Unhandled Errors
-date: 2025-01-11T05:25:34.870Z
-updated: 2025-01-12T16:01:06.631Z
+date: 2025-01-12T20:56:04.078Z
+updated: 2025-01-19T00:39:47.496Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  To ensure that, check out the ways how you can[install Windows updates on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-updates/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan for Malware Using Microsoft Defender or Your Antivirus
 
  There is a possibility that the "Unhandled exception has occurred in your application" error could be caused by malware. To rule that out, you should scan your computer with the inbuilt Microsoft Defender antivirus.
@@ -66,18 +70,22 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![.NET Framework Repair Tool License Terms](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-tool-license-terms.jpg)
 3. The tool will start**Detecting issues** and then a window with**Recommended Changes** will open up. Review the recommended changes and click**Next** to apply them.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Recommended Changes by .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes.jpg)
 4. Once the changes are made, the**Changes complete** window will appear. Click on**Finish** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Changes Complete Window of .NET Framework Repair Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/net-framework-repair-tool-changes-complete.jpg)
 5. Now, restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enable the .NET Framework
@@ -88,16 +96,8 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Turn-Windows-Features-On-Or-Off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-windows-features-on-or-off.jpg)
 2. In the Windows Features window, you'll see the**.NET Framework 3.5** and**.NET Framework 4.8** **Advanced Services** . If the box next to .NET Framework 3.5 is not filled, click in the checkbox to fill it and then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Enable. NET Framework 3.5 in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-net-framework-1.jpg)
 3. The next window might alert you that **Windows needs some files from Windows Updates to finish installing some features** . Select the option**Let Windows Update download the files for you** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Let Windows Update Download Files For You Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/let-windows-update-download.jpg)
 4. The files will then download and the**Applying changes** window will appear afterward. Finally, you'll see the message**Windows completed the requested changes** . Close the window and restart your PC.  
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Windows Completed Requested Changes Message](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-completed-requested-changes.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Use System File Checker on Windows
@@ -133,21 +133,17 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-pinnacle-of-new-zooids-in-panzoids/"><u>[New] 2024 Approved The Pinnacle of New Zooids in Panzoids</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-fastest-path-to-amazing-iphone-time-lapses/"><u>[New] In 2024, The Fastest Path to Amazing iPhone Time-Lapses</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[New] In 2024, Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/treamlining-quality-youtubes-best-video-improvement-strategies/"><u>[New] Streamlining Quality YouTube's Best Video Improvement Strategies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-share-screen-on-skype-when-working-at-home/"><u>2024 Approved How to Share Screen on Skype When Working at Home</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-and-mending-windows-netflix-problems/"><u>Diagnosing and Mending Windows Netflix Problems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-gaming-performance-free-sapphire-driver-downloads-and-patches-for-windows-users/"><u>Enhance Gaming Performance: Free Sapphire Driver Downloads and Patches for Windows Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/future-tech-on-display-at-apples-worldwide-developer-conference-wwdc-2025/"><u>Future Tech on Display at Apple's Worldwide Developer Conference (WWDC) 2025</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-steelseries-engine-compatible-with-windows-11-free-downloads-available/"><u>Get Your SteelSeries Engine Compatible With Windows 11 - Free Downloads Available</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-redo-installation-of-unavailable-windows-add-ons/"><u>How to Redo Installation of Unavailable Windows Add-Ons</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-windows-shift-glitch/"><u>Overcome Windows Shift Glitch</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-activate-clipboard-features-with-shielded-applications-edge-on-w11-platform/"><u>Steps to Activate Clipboard Features with Shielded Applications (Edge) on W11 Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/top-tier-temperature-trackers-for-windows-11-users/"><u>Top-Tier Temperature Trackers for Windows 11 Users</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-windows-11-audio-landscape-with-dolby-atmos/"><u>Transform Your Windows 11 Audio Landscape with Dolby Atmos</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-windows-11-search-with-custom-configurations/"><u>Upgrade Your Windows 11 Search with Custom Configurations</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/webm-to-m4v-file-transformation-made-simple-with-our-free-online-tools-by-movavi/"><u>WebM to M4V File Transformation Made Simple with Our Free Online Tools by Movavi</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-masterful-edits-highest-rated-video-tools-for-youtube/"><u>[New] In 2024, Masterful Edits Highest Rated Video Tools For YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-from-imagination-to-shares-mastering-metaverse-memes-for-2024/"><u>[Updated] From Imagination to Shares Mastering Metaverse Memes for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seasons-finest-ice-artistry-2022-highlights/"><u>2024 Approved Season's Finest Ice Artistry - 2022 Highlights</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-newbies-blueprint-to-mastering-av1/"><u>A Newbie's Blueprint to Mastering AV1</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-browser-desktop-applications-on-pc/"><u>Crafting Browser Desktop Applications on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-stop-chrome-warnings-on-windows-10/"><u>How to Stop Chrome Warnings on Windows 10</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-cool-youtube-video-intro-in-imovie/"><u>In 2024, How to Make a Cool YouTube Video Intro in iMovie?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-guide-to-easy-content-making-10-basic-youtube-videos/"><u>In 2024, The Ultimate Guide to Easy Content Making 10 Basic YouTube Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pace-profiles-analyzing-chatgpt-4-and-its-predecessor-35/"><u>Pace Profiles: Analyzing ChatGPT-4 and Its Predecessor, 3.5</u></a></li>
+<li><a href="https://win11.techidaily.com/purge-outdated-wallpapers-simple-trio-techniques/"><u>Purge Outdated Wallpapers: Simple Trio Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-scheduling-pc-shutdown-in-windows-11/"><u>Quick Guide: Scheduling PC Shutdown in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-note-taking-simplified-no-software/"><u>Windows 11 Note-Taking Simplified, No Software</u></a></li>
 </ul></div>
 

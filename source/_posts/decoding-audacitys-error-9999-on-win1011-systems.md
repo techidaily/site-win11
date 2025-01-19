@@ -1,7 +1,7 @@
 ---
 title: Decoding Audacity's Error 9999 on WIN10/11 Systems
-date: 2024-08-16T00:50:21.319Z
-updated: 2024-08-17T00:50:21.319Z
+date: 2025-01-16T20:35:57.931Z
+updated: 2025-01-18T17:38:36.975Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 
  Users have mostly reported error 9999 happening on Windows 10 PCs. However, that doesn’t mean that issue can’t arise in Microsoft’s latest desktop platform. This is how you can fix Audacity error code 9999 in Windows 11/10.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Run the Recording Audio Troubleshooter
 
  It makes sense to run the Recording Audio troubleshooter since error code 9999 is a recording issue. Running that troubleshooter isn’t widely confirmed to fix error code 9999, but it’s worth a try as it can resolve a variety of recording issues on Windows. You can run the Recording Audio troubleshooter from the Windows 11/10 Control Panel as follows:
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![The Recording Audio troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-recording-audio-troubleshooter.jpg)
 7. Then press**Next** to start the Recording Audio troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Close All Communication Apps Before Running Audacity
 
  Error 9999 can arise because of other messaging and video conference apps, such as Skype, Teams, Google Meet, and Zoom, using the microphone. Such apps can run in the background when you’re utilizing Audacity on the taskbar. If you have other communication apps installed that can potentially conflict with Audacity, try closing them like this:
@@ -51,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 ![The Quit option for Teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/quit-option.jpg)
 6. Then open Audacity and try recording something again.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Microphone Access for Audacity
 
  Error 9999 often occurs because Audacity is denied microphone access. Enabling microphone access for Windows apps is among the most widely acknowledged error 9999 resolutions to work. This is how you can enable apps to access your microphone in Windows 11/10:
@@ -62,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 2. Click the**Privacy** tab or category.
 3. Select**Microphone** to access those app permission settings.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-navigation-option2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 4. Toggle on the**Microphone access** option if it’s disabled. In Windows 10, turn on the**Allow apps to access your microphone** setting.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-microphone-access-option.jpg)
 5. Then scroll through the list of apps below that setting and click Audacity’s toggle button to enable microphone access.
 
@@ -79,23 +78,23 @@ thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a6
 3. Right-click your microphone and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-device-option.jpg)
 4. Click the confirmation dialog’s**Uninstall** option.  
-![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Uninstall Device confirmation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-device-option.jpg)
 5. Select**Action** \>**Scan for hardware changes** to reinstall the microphone driver.  
 ![The Action menu in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-action-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Turn Off Host Intrusion Protection in Kaspersky Security Software
 
  Audacity users have confirmed disabling Host Intrusion Protection in Kaspersky antivirus (security) software fixes error 9999\. Host Intrusion Protection is a feature that regulates apps’ activities in Windows 11/10\. That component is enabled by default in Kaspersky security software.
@@ -108,20 +107,22 @@ No advertising on the website.
 
  However, some antivirus utilities have special features that monitor microphones, which can block mic access for certain apps. For example, Bitdefender has a**Microphone monitor** setting. Disabling your antivirus utility’s shield might not turn off such a microphone security feature. So, have a look through your security software’s tabs to see if they include any feature setting that could affect microphone access and disable it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Perform a Clean Boot
 
  Clean booting is a troubleshooting method for disabling third-party apps and services that start with Windows. Performing a clean boot is a potential error 9999 resolution because it might eliminate a background program or service interfering with Audacity. Our guide on[how to clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to apply this potential error 9999 resolution with MSConfig and Task Manager.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-tab.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you’ve set a clean boot and restarted Windows, try recording in Audacity. If recording works thereafter, you can leave the boot configuration as it is. However, users who prefer to re-enable startup apps and services will need to identify what one is causing error 9999.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 8\. Reinstall Audacity
 
  Reinstalling Audacity is the last resort if none of the potential error 9999 solutions work for you. In this case, that sound editor app could have corrupted or missing files. You can remove Audacity within the Control Panel as instructed for method one in our guide to[uninstalling software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -140,8 +141,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +148,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-essential-new-tiktok-hits-and-challenges-for-2024/"><u>[New] Essential New TikTok Hits & Challenges for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/03118992-updated-2024-approved-discovering-if-quick-youtube-subscriptions-really-work/"><u>[Updated] 2024 Approved Discovering if Quick YouTube Subscriptions Really Work.</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-building-a-business-from-blogs-and-video-reviews/"><u>[Updated] Building a Business From Blogs and Video Reviews</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-mastering-live-online-broadcasts-recording-techniques/"><u>[Updated] In 2024, Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-online-communities-eclipsing-twitterenasity/"><u>[Updated] Prime Online Communities Eclipsing Twitter'enasity</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-play-fine-tuning-amd-gpu-performance/"><u>Elevating Play: Fine-Tuning AMD GPU Performance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-guide-software-free-techniques-for-vimeo-downloads/"><u>Essential Guide Software-Free Techniques for Vimeo Downloads</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-enlightenment-identifying-disks-in-windows/"><u>Hardware Enlightenment: Identifying Disks in Windows</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-hololens-unravelled-microsofts-augmented-future-insight/"><u>In 2024, HoloLens Unravelled Microsoft’s Augmented Future Insight</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/next-level-display-tech-comparing-neo-qled-to-oled-in-todays-market/"><u>Next-Level Display Tech: Comparing Neo QLED to OLED in Today's Market</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sound-challenges-expert-tips-for-recording-audio-in-obs/"><u>Overcoming Sound Challenges: Expert Tips for Recording Audio in OBS</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-directory-is-damaged-error-x70-in-windows-xp-sky/"><u>Overcoming the Directory Is Damaged Error X70 in Windows XP-Sky</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-windows-11s-def5-error-0x8004/"><u>Quick Fixes for Windows 11'S Def5 Error: 0X8004</u></a></li>
+<li><a href="https://fox-search.techidaily.com/ruckgewinnung-von-dateien-wie-man-daten-wiederholt-die-aus-dem-papierkorb-entfernt-wurden/"><u>Rückgewinnung Von Dateien – Wie Man Daten Wiederholt, Die Aus Dem Papierkorb Entfernt Wurden</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-heic-to-jpeg-batch-process-in-windows-11/"><u>Step-by-Step Heic to JPEG Batch Process in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-constant-edge-on-your-windows-11-pc/"><u>Tackling Constant Edge on Your Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-window-clutter-reduction-in-win11/"><u>The Ultimate Guide to Window Clutter Reduction in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/transition-with-precision-upgrading-from-virtualbox-v6-to-v7-in-win11-computers/"><u>Transition with Precision: Upgrading From VirtualBox v6 to v7 in Win11 Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-battleyfield-2042-continuous-crashes-on-windowsmacos-pcs/"><u>Troubleshooting Tips for Battleyfield 2042 Continuous Crashes on Windows/MacOS PCs</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Windows Scrolling By Itself? Here's How to Fix It
-date: 2024-08-16T00:48:28.004Z
-updated: 2024-08-17T00:48:28.004Z
+date: 2025-01-12T16:02:17.523Z
+updated: 2025-01-18T22:01:07.388Z
 tags:
   - windows10
   - windows11
@@ -40,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1c
  Let's apply the above solutions to fix this strange auto scroll issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. First, Perform Some Preliminary Checks
 
  If you start with a few basic checks, you may fix the issue without performing any major fixes:
@@ -64,6 +65,10 @@ If the above basic checks don't help, apply the remaining fixes.
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Next, check for potential hardware problems. By checking them first, you can save yourself from the unnecessary labor of applying software fixes.
@@ -76,11 +81,16 @@ If the above basic checks don't help, apply the remaining fixes.
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Check for Touchpad Issues
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
@@ -94,17 +104,20 @@ If the above basic checks don't help, apply the remaining fixes.
 2. Go to the**View** tab and click**Show hidden devices** . If you see a checkmark next to this option, hidden devices are already visible. So, there is no need to click on this option since doing so will disable it again.  
 ![Clicking on the Show Hidden Devices Option in the View Tab of Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-clicking-on-the-show-hidden-devices-option-in-the-view-tab-of-device-manager.jpg)
 3. Expand the**Mice and other pointing devices** category.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 5\. Change Your Mouse Settings
 
  Have you recently tweaked your mouse settings? If you have made any changes, the settings may have been misconfigured. Therefore, make sure that the mouse scroll settings are set correctly. To do that, follow these steps:
@@ -117,32 +130,20 @@ If the above basic checks don't help, apply the remaining fixes.
 5. Ensure the**Multiple lines at a time** option is selected in the**Roll the mouse wheel to scroll** dropdown menu.
 6. Make sure the**Lines to scroll at a time** slider isn't set too high.  
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 7. After that, click on the**Additional mouse settings** link.  
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Auto-Scrolling on Windows, Fixed
 
  When Windows starts to scroll down its display automatically, it gets challenging to click on a single item accurately. We hope the fixes covered in the article fix the auto-scrolling issue on Windows and keep your display stable. Thus, you'll be able to restore your device to its normal state.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +152,24 @@ If the above basic checks don't help, apply the remaining fixes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>[New] 2024 Approved Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-become-a-travel-vlogger-guide-of-travel-vlogging/"><u>[Updated] How To Become A Travel Vlogger | Guide of Travel Vlogging</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-high-quality-360-cameras-for-youtube-and-facebook-coverage/"><u>[Updated] In 2024, High-Quality 360° Cameras for YouTube & Facebook Coverage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-effortless-repetition-replay-your-youtube-videos-via-tv-connection/"><u>2024 Approved Effortless Repetition Replay Your YouTube Videos via TV Connection</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/expert-guide-to-optimal-tripod-setup-for-high-quality-vlogs/"><u>Expert Guide to Optimal Tripod Setup for High-Quality Vlogs</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-non-functional-filespace-optimization-tool/"><u>Fixing Non-Functional Filespace Optimization Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/invisible-interaction-hide-controls-with-precision/"><u>Invisible Interaction: Hide Controls with Precision</u></a></li>
+<li><a href="https://win11.techidaily.com/masterclass-elevating-desktop-image-standards-on-windows-11/"><u>Masterclass: Elevating Desktop Image Standards on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-unreachable-setup-options-in-windows-control-panel/"><u>Remedying Unreachable Setup Options in Windows Control Panel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-solutions-when-you-cant-find-mapi32dll-file/"><u>Resolving the Issue: Solutions When You Can't Find MAPI32.DLL File</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sonys-vision-captured-complete-review-of-fdr-x1000v-for-2024/"><u>Sony's Vision Captured - Complete Review of FDR-X1000V for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211247325-9781507209738-the-little-book-of-self-care-for-leo/"><u>The Little Book of Self-Care for Leo | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-mass-directory-crafting-in-windows-1011/"><u>The Ultimate Guide to Mass Directory Crafting in Windows 10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-xcover-7-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy XCover 7 Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-xp-error-0x80300024/"><u>Troubleshooting Windows XP Error 0X80300024</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-the-power-of-photo-rotation-with-these-6-tips-for-w11/"><u>Unlock the Power of Photo Rotation with These 6 Tips for W11</u></a></li>
+<li><a href="https://win11.techidaily.com/which-is-better-google-share-or-windows-share-for-collaborators/"><u>Which Is Better, Google Share or Windows Share for Collaborators?</u></a></li>
+</ul></div>
 

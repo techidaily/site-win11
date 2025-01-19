@@ -1,7 +1,7 @@
 ---
 title: Setting up Oculus Quest 2 in Windows PC Environment
-date: 2025-01-07T01:46:17.376Z
-updated: 2025-01-13T03:53:00.319Z
+date: 2025-01-16T02:14:49.941Z
+updated: 2025-01-18T20:13:44.229Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
  You’ll also need a long link cable for connecting the Oculus Quest 2 to your desktop or laptop. There is an alternative wireless Air Link option, but here we’re looking at how to connect headsets with a cable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download and Install the Oculus Windows Software
 
  The only other thing you’ll need aside from the VR-ready PC and Oculus Link cable is the Oculus Desktop software for Windows. Oculus Desktop is freely available software with which you can connect Oculus headsets and manage your PC VR apps in Windows 11/10\. It’s big software that consumes about 9.26 gigabytes of drive space. You can download and install the Oculus app as follows:
@@ -45,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 3. Double-click the**OculusSetup** file once it's downloaded.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click the**Get started** and**Agree** buttons.
@@ -54,11 +58,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 6. You’ll be prompted to either set up an Oculus account or sign in with an existing one. Select to sign in with the account you use for your Oculus Quest 2 headset.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Set Up Oculus Link
@@ -85,14 +85,6 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 7. The second prompt asks you to enable Oculus Quest Link. Select the**Enable** option.  
 
 ![The Enable Oculus Link prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-quest-link.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Get Into Oculus Dash on the Oculus Quest 2
 
@@ -126,7 +118,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![The Home customization menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/home-customize-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Virtual Desktop is another notable feature of Dash that enables you to see and access your Windows desktop within the Quest 2 headset – when it works right. However, many users have reported seeing a blank, black screen when they try to utilize that feature.
@@ -141,9 +133,17 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ![The Store tab in the Oculus Windows software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/store-tab-in-quest2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove apps, click**Library** in the Oculus Windows software; select the**Apps** tab to view your library. Click the menu button for an app to select**Uninstall** .
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-app-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Oculus software also includes library location options, with which you can set the default path for installing Rift Store apps. To access those options, click**Settings** \>**General** . Then press the**Edit** button for the**Library Location** .
 
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 ![Audio settings for PC VR in the Oculus software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/audio-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Upgrade the Oculus Quest 2 With Your Windows PC
@@ -178,22 +178,18 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-streamlining-tiktok-production-zooms-role/"><u>[New] 2024 Approved Streamlining TikTok Production Zoom's Role</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-capitalizing-on-hairstyle-demonstrations/"><u>[New] In 2024, Capitalizing on Hairstyle Demonstrations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-fading-out-the-art-of-ebbing-audio-energy-in-fl-studio/"><u>[New] In 2024, Fading Out The Art of Ebbing Audio Energy in FL Studio</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-ioss-leading-edge-the-top-5-emulators-for-psp-games/"><u>[New] IOS's Leading Edge The Top 5 Emulators for PSP Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/5-unbeatable-chatgpt-plugins-to-transform-your-site-today/"><u>5 Unbeatable ChatGPT Plugins to Transform Your Site Today</u></a></li>
-<li><a href="https://fox-search.techidaily.com/bridging-continents-through-peace-china-and-africa-unite-at-the-3rd-national-defense-forum-exclusive-coverage-by-yl-software/"><u>Bridging Continents Through Peace: China & Africa Unite at the 3Rd National Defense Forum - Exclusive Coverage by YL Software</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/decoding-bitcoin-and-altcoin-equity-monitoring-a-deep-dive-into-yl-software-solutions/"><u>Decoding Bitcoin & Altcoin Equity Monitoring: A Deep Dive Into YL Software Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-printer-removal-methods-in-windows-11-os/"><u>Efficient Printer Removal Methods in Windows 11 OS</u></a></li>
-<li><a href="https://win11.techidaily.com/empowering-system-health-hardware-checks-with-live-tiles/"><u>Empowering System Health: Hardware Checks with Live Tiles</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-auto-updates-for-windows-and-swap-amd-gpu-drivers/"><u>Enable Auto-Updates for Windows & Swap AMD GPU Drivers</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-telnet-three-steps-for-win-1011/"><u>Enabling Telnet: Three Steps for Win 10/11</u></a></li>
-<li><a href="https://win11.techidaily.com/enlighten-your-mac-embrace-windows-11-via-parallels/"><u>Enlighten Your Mac: Embrace Windows 11 via Parallels</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-apples-magic-mouse-driver-a-step-by-step-tutorial-for-windows-users/"><u>Installing Apple's Magic Mouse Driver: A Step-by-Step Tutorial for Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-on-reaching-protected-windowsapps-location/"><u>Masterclass on Reaching Protected WindowsApps Location</u></a></li>
-<li><a href="https://win11.techidaily.com/masterclass-making-mouseclicklock-easier-in-windows/"><u>Masterclass: Making MouseClickLock Easier in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-preventing-vscode-freeze-on-w11/"><u>Solutions for Preventing VSCode Freeze on W11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-15-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 15 Pro Max from iCloud</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-2024s-excellent-frames-for-your-pics/"><u>[New] 2024'S Excellent Frames for Your Pics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-smiles-on-signal-best-humorous-tones-online-for-2024/"><u>[Updated] Smiles on Signal Best Humorous Tones Online for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/effortlessly-copy-pictures-onto-a-hard-drive-from-your-mac-with-these-two-techniques/"><u>Effortlessly Copy Pictures Onto a Hard Drive From Your Mac with These Two Techniques</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-converter-pgm-naar-tiff-professioneel-online-image-konvertiering-mit-movavi/"><u>Gratis Converter PGM Naar TIFF: Professioneel Online Image Konvertiering Mit Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-lengthen-the-wait-before-closing-managing-running-tasks-on-windows-10/"><u>How to Lengthen the Wait Before Closing: Managing Running Tasks on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/improve-avi-video-quality-while-downsizing-discover-the-power-of-avi-video-resizer/"><u>Improve AVI Video Quality While Downsizing - Discover the Power of AVI Video Resizer</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-your-snipping-tool-not-working-here-are-9-ways-to-fix-it/"><u>Is Your Snipping Tool Not Working? Here Are 9 Ways to Fix It</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-fix-windows-rdp-black-screens/"><u>Methods to Fix Windows RDP Black Screens</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/resolving-failed-to-install-dependency-issues-in-kodi-proven-fixes/"><u>Resolving 'Failed to Install Dependency' Issues in Kodi - Proven Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/time-tested-techniques-bringing-back-lost-windows-time-services/"><u>Time-Tested Techniques: Bringing Back Lost Windows Time Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-epic-launcher-on-w11-solutions-present/"><u>Uninstalling Epic Launcher on W11 - Solutions Present</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-your-dvd-player-remove-region-locks-for-dvds-in-windows-os/"><u>Unlocking Your DVD Player: Remove Region Locks for DVDs in Windows OS</u></a></li>
 </ul></div>
 

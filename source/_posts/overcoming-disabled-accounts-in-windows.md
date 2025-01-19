@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disabled Accounts in Windows
-date: 2025-01-02T18:54:53.323Z
-updated: 2025-01-06T17:45:29.662Z
+date: 2025-01-16T00:33:40.656Z
+updated: 2025-01-18T16:47:05.850Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  That said, if you can't wait for two hours, try to log in using an alternate sign-in option, such as a password or biometric authentication. To use the alternate sign-in option, click the dotted icon under the Sign-in options in the error screen to log in with your password.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Reset the Account Password from the Sign-In Screen
@@ -62,11 +66,15 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Press **Enter** to sign-in to your user account.
@@ -111,10 +119,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
 'takeown /f C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC /r /d y'  
@@ -129,7 +133,7 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. Next, click the **Save as type** drop-down and select **All files**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click **Save** to create the batch script.
@@ -137,6 +141,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
  To execute the script, double-click on it and click Yes when prompted by User Account Control.
 
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the Account Lockout Threshold Policy
 
@@ -156,10 +164,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
 
@@ -186,10 +190,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
 
  Windows 10 and 11 computers can act up and lock you out of your system due to a glitch or system malfunction. However, you can bypass this cooling period by signing in with an account password or a PIN reset.
@@ -206,20 +206,24 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-top-8-choices-mirrorless-cameras-for-excellent-vlogs/"><u>[New] 2024 Approved The Top 8 Choices Mirrorless Cameras for Excellent Vlogs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-tips-for-pop-culture-meme-success/"><u>[New] In 2024, Top Tips for Pop Culture Meme Success</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-removing-obstacles-a-guide-to-pristine-visual-backgrounds-in-canva/"><u>[New] Removing Obstacles A Guide to Pristine Visual Backgrounds in Canva</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>2024 Approved Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/pciphonedvd/"><u>写真家のためのテクニック：PC/iPhone用写真の安全な保管に最適なDVD選びガイド</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-old-games-adding-new-glory-tips-on-incorporating-trophies-using-retroarch/"><u>Enhancing Old Games, Adding New Glory: Tips on Incorporating Trophies Using Retroarch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-apples-vision-the-introduction-of-a-domestic-robot-helper-a-glimpse-into-tomorrow/"><u>Exploring Apple's Vision: The Introduction of a Domestic Robot Helper - A Glimpse Into Tomorrow</u></a></li>
-<li><a href="https://win11.techidaily.com/how-application-instance-names-facilitate-development/"><u>How Application Instance Names Facilitate Development</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-top-picks-excellent-fb-lite-video-downloaders-of-2023/"><u>In 2024, The Top Picks Excellent FB Lite Video Downloaders of 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-around-pin-issues-for-secure-windows-logins/"><u>Navigating Around PIN Issues for Secure Windows Logins</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-the-trouble-with-windows-missing-file-updates-error-0x80070003/"><u>Navigating Through the Trouble with Windows' Missing File Updates (Error: 0X80070003)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/silencing-speaker-distortions-top-5-simple-solutions-for-audio-clarity/"><u>Silencing Speaker Distortions: Top 5 Simple Solutions for Audio Clarity</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-resolving-bios-secure-boot-grayout-issues-in-windows/"><u>Tips for Resolving BIOS Secure Boot Grayout Issues in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-resolving-nvidias-disconnect-issue-on-pcs/"><u>Troubleshooting: Resolving Nvidia's Disconnect Issue on PCs</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-choice-the-greatest-11-multi-angle-cams/"><u>Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-sales-select-from-these-top-15-facebook-analytics-pros/"><u>[New] In 2024, Mastering Sales Select From These Top 15 Facebook Analytics Pros</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-speech-clarity-mastering-googles-translation-technology-for-2024/"><u>[New] Speech Clarity Mastering Google’s Translation Technology for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-seamless-fb-video-to-mp3-audio-conversion-techniques/"><u>[Updated] 2024 Approved Seamless FB Video to MP3 Audio Conversion Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-art-and-craft-of-documentary-writing/"><u>[Updated] 2024 Approved The Art and Craft of Documentary Writing</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728467422698-windows-server-2022/"><u>利用Windows Server 2022的排程工具：详细学习自动重新启动</u></a></li>
+<li><a href="https://games-able.techidaily.com/achieve-quick-installation-of-discord-for-mac-devices/"><u>Achieve Quick Installation of Discord for Mac Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-signal-failures-windows-steam-fix-guide/"><u>Addressing Signal Failures: Windows Steam Fix Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/best-practices-for-addressing-system-call-failed-on-pcs/"><u>Best Practices for Addressing System Call Failed on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/dealing-with-video-reset-error-on-windows-systems/"><u>Dealing with Video Reset Error on Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-walkthrough-restoring-default-search-features-in-windows-11/"><u>Detailed Walkthrough: Restoring Default Search Features in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-gaming-experience-with-these-ultimate-strategies-for-win-11/"><u>Elevate Your Gaming Experience with These Ultimate Strategies for Win 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/eloquence-in-expression-battling-the-most-complicated-words/"><u>Eloquence in Expression: Battling the Most Complicated Words</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-excel-2007-files-on-mac-complete-guide-by-stellar-guide/"><u>How to Recover Deleted Excel 2007 Files on Mac Complete Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-get-free-green-screen-effects-from-4-youtube-channels/"><u>In 2024, Get Free Green Screen Effects From 4 YouTube Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-volume-mixer-to-default-after-errors-occurred/"><u>Resetting Volume Mixer to Default After Errors Occurred</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-windows-clippy-with-compatibility-fixes/"><u>Revamp Windows Clippy with Compatibility Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/supercharge-your-tasks-with-the-magic-of-flow-launcher/"><u>Supercharge Your Tasks with the Magic of Flow Launcher</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-utilizing-apples-messaging-service-on-pc/"><u>Understanding and Utilizing Apple's Messaging Service on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-pcs-cooling-game-lamptrons-st0ns-cpu-cooler-now-includes-a-six-inch-lcd-display-similar-in-size-to-the-proposed-iphone-15/"><u>Upgrade Your PC's Cooling Game - Lamptron's ST0nS CPU Cooler Now Includes a Six-Inch LCD Display Similar in Size to the Proposed iPhone 15!</u></a></li>
 </ul></div>
 

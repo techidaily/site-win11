@@ -1,7 +1,7 @@
 ---
 title: Reinstating Delete Functionality on Windows Systems
-date: 2024-08-16T00:48:45.511Z
-updated: 2024-08-17T00:48:45.511Z
+date: 2025-01-12T20:29:38.868Z
+updated: 2025-01-18T19:44:31.040Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 
  If your keyboard is not physically damaged, [reboot your Windows computer](https://www.makeuseof.com/windows-restart-methods/). This general troubleshooting tip often repairs minor glitches and refreshes your system. Once your computer restarts, see if the Delete key works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Run the Hardware and Devices Troubleshooter
 
  Hardware and Devices troubleshooter is an inbuilt Windows program that diagnoses and solves hardware-related issues. So, if restarting the computer didn't work, try this tool. It will scan your system for problems and suggest fixes.
@@ -42,10 +46,11 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 2. In the text field, type **msdt.exe -id DeviceDiagnostic** and press Enter. The Hardware and Devices troubleshooter will open.
 3. Click **Advanced** and check **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 4. Now click **Next** and it'll scan for hardware problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the end, it will suggest possible fixes. Follow the instructions and see if that resolves the issue.
 
@@ -60,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
 3. Scroll down and locate the **Keyboard** troubleshooter.  
 ![Run the Keyboard Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-keyboard-troubleshooter.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Next, click **Run**. You'll see a prompt asking for your consent to run diagnostics and attempt automated steps to resolve the issue.
 5. Click on **Yes**, and the troubleshooter starts scanning.
 
@@ -76,14 +77,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Press **Win + X** on your keyboard and select **Device Manager** from the menu.
 2. Expand the **Keyboards** section and right-click on your keyboard driver.  
 ![Update the Keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/update-the-keyboard-driver.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3. Select Update driver from the context menu. You'll see two options: **Search automatically for drivers** and **Browse my computer for drivers**.  
 ![Search automatically for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/search-automatically-for-drivers.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 4. Choose the first option and let Windows search for available updates. If it finds one, follow the prompts to install it.
 5. After that, restart your computer and see if the Delete key works.
 
@@ -94,8 +89,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  After that, restart your computer and Windows will automatically reinstall the driver. Check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Try a Different Keyboard Layout
 
  Sometimes, the issue is with your keyboard layout settings. Your Delete key may be mapped to another function or disabled altogether. To check this, switch to a different keyboard layout and see if it works. Here's how:
@@ -104,28 +100,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. From the left sidebar, select **Time & language**.  
 ![Language & region in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-region-in-settings.jpg)
 3. In the right pane, click on **Language & region**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under **Preferred languages**, click the three dots next to the language you're using and select **Language options**.  
 ![Language Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/language-options.jpg)
 5. Next, scroll down to the **Keyboards** section and click **Add a keyboard**. Then choose a different layout from the list.  
 ![Add a keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-a-keyboard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After adding the new layouts, switch to them and see if the Delete key works. To switch between layouts, press **Win + Space** on your keyboard. If switching to a different layout solves the Delete key issue, you can remove the added layouts and stick to the one that works for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Check for Malware or Software Conflicts
 
  Windows OS is also prone to malware attacks. It could disrupt the normal functioning of your keyboard. So, if none of the methods above work, [try running a malware scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
 
  For this, you must use [antivirus software that provides real-time protection](https://www.makeuseof.com/tag/best-antivirus-for-windows-10/). If you don't have one, we recommend Windows Defender. It's a free and reliable alternative. You can also try [Windows PowerShell to scan and remove malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/). After running a full system scan, see if the Delete key works correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## 8\. Try the On-Screen Keyboard
 
  Digital technologies make life easier. The on-screen keyboard is one of them.
@@ -136,7 +128,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Type **osk** in the text box and press **Enter**. This will pop up an on-screen keyboard.  
 ![Try On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/try-on-screen-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use the mouse or touchpad to click on the Delete key and see if it works. If it does, you can continue using the on-screen keyboard until you find a permanent solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Your Delete Key Is Now Working Again
 
@@ -144,11 +144,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This guide walks you through possible fixes for a non-functioning Delete key on a Windows PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-learn-the-insider-tricks-of-screening-instagram-stories/"><u>[New] In 2024, Learn the Insider Tricks of Screening Instagram Stories</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-tracing-the-evolutionary-path-of-windows-movie-maker/"><u>[New] Tracing the Evolutionary Path of Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-videos-youtube-tools-and-more/"><u>[Updated] Crafting Videos YouTube Tools and More</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-live-obs-video-on-instagram/"><u>[Updated] In 2024, Live OBS Video on Instagram</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-precision-playbacks-mastering-4-methods-of-recording-on-xbox/"><u>[Updated] In 2024, Precision Playbacks Mastering 4 Methods of Recording on Xbox</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-feed-instagram-collages-made-simple/"><u>2024 Approved Boost Your Feed Instagram Collages Made Simple</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-the-windows-11-bar-a-comprehensive-approach/"><u>Conquer the Windows 11 Bar: A Comprehensive Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/drive-discretion-masterclass-windows-edition/"><u>Drive Discretion Masterclass: Windows Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-exception-breakpoint-hit-issue-on-your-pc/"><u>Fixing The Exception Breakpoint Hit Issue on Your PC</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/guia-paso-a-paso-para-exportar-archivo-de-oficina-365-en-formato-pst/"><u>Guía Paso a Paso Para Exportar Archivo De Oficina 365 en Formato PST</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-smoothly-add-apods-episodes-on-devices-for-2024/"><u>How to Smoothly Add APods Episodes on Devices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-your-android-phone-as-a-webcam-on-windows-11/"><u>How to Use Your Android Phone as a Webcam on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-access-to-your-gaming-hardware-information-in-win11/"><u>Quick Access to Your Gaming Hardware Information in Win11</u></a></li>
+<li><a href="https://driver-error.techidaily.com/rectifying-erroneous-inf-section-for-service-installation/"><u>Rectifying Erroneous INF Section for Service Installation</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-task-managers-empty-startup-section/"><u>Resolving Task Manager's Empty Startup Section</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-wi-fiethernet-coexistence-for-windows-users/"><u>Seamless Wi-Fi/Ethernet Coexistence for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-server-unavailable-for-ea-on-windows/"><u>Tackling Server Unavailable for EA on Windows</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unlock-seamless-edits-audio-video-syncing-in-fcpx-2024-explaine/"><u>Unlock Seamless Edits Audio-Video Syncing in FCPX 2024 Explaine</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-and-fixing-the-usb-not-recognized-error-on-virtualbox/"><u>Unveiling and Fixing the 'USB Not Recognized Error' On VirtualBox</u></a></li>
+</ul></div>
+

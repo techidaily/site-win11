@@ -1,7 +1,7 @@
 ---
 title: Quick Keyboard Mastery - TypingAid's Way
-date: 2024-08-16T00:48:36.605Z
-updated: 2024-08-17T00:48:36.605Z
+date: 2025-01-14T20:38:25.359Z
+updated: 2025-01-18T21:05:44.572Z
 tags:
   - windows10
   - windows11
@@ -34,21 +34,19 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
  What's best is that TypingAid "learns" new words and adds them to its database after you type them X times (the number is configurable). Thus, the more you use it, the better it becomes at recommending terms you use based on your vocabulary and writing style.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download & Install TypingAid
 
  Download the script/app from[TypingAid's official Github page](https://github.com/ManiacDC/TypingAid) . By default, it comes in a compressed archive. Extract it in any folder you like, and run the executable among the rest of the files to use TypingAid.
 
 ![TypingAid GitHub Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-github-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that TypingAid is also available in its original AutoHotkey script format. If you download this version, you'll also need to have AutoHotkey installed to use it. You'll find that at[AutoHotkey's official site](https://www.AutoHotkey.com/) .
 
 ![AutoHotkey Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/autohotkey-official-site.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With AutoHotkey installed, extract the archive with the AHK version of TypingAid. In this case, instead of an executable, the file from which you can launch the app is**TypingAid.ahk** .
 
@@ -66,30 +64,26 @@ thumbnail: https://thmb.techidaily.com/bed92abb4b13bfb35e12a54bfe3958abc331bc994
 
 Then, run TypingAid.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## How to Configure TypingAid
 
  TypingAid will be idle in the Windows tray after you run it and spring to life once you begin typing in any window. However, it's best to spend a few minutes setting it up to your preferences before you start using it. Right-click on its Windows tray icon and select**Settings** .
 
 ![TypingAid Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Let's see the essential settings worth tweaking in TypingAid.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. General Settings
 
  On the**General Settings** page, you can tweak TypingAid's "behavior".
 
 ![TypingAid Settings General](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-general.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * If you turn**Learn new words as you type** to off, TypingAid will only offer suggestions that already exist in the loaded Wordlist. Leave the option turned on to have TypingAid learn new words that you type.
@@ -99,13 +93,18 @@ Let's see the essential settings worth tweaking in TypingAid.
 * If TypingAid can't "send" text to some apps, change the**Send Method** with which it "pushes" text to the active window.
 * By changing**Type space after autocomplete** to On, TypingAid will also add a "space" character after any word it sends to an app so that you can immediately start typing the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Wordlist Box
 
  The options on the**Wordlist Box** page affect how TypingAid presents its suggestions.
 
 ![TypingAid Settings Wordlist Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-wordlist-box.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Change the number under**Maximum number of results** to show to the number of suggestions you'd like to see.
@@ -113,14 +112,15 @@ Let's see the essential settings worth tweaking in TypingAid.
 * It's best if you leave**Show learned words first** to On, as it will ensure the words TypingAid learned from you will appear before the words that already existed in its generic Wordlist.
 * The rest of the options affect the appearance of the suggestion box that pops up as you're typing. You can tweak them to change where the box appears (**List appears X pixels below cursor**), its font, its opacity, and so on. You can leave them as they are since their effects are primarily aesthetic.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Programs
 
  The**Programs** page lets you choose the apps and windows where TypingAid will be active.
 
 ![TypingAid Settings Programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-programs.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are separate fields for defining where TypingAid will be either enabled or disabled.
 
@@ -133,8 +133,9 @@ Let's see the essential settings worth tweaking in TypingAid.
  We suggest you skip this section, except for the rare case where you want to customize TypingAid's**Terminating Characters** . If that term sounds alien, that's precisely why most people won't have to tweak anything here!
 
 ![TypingAid Settings Advanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/typingaid-settings-advanced.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In other words, if you need the options here, you'll also know how to tweak them. If not, leave them as they are.
@@ -165,8 +166,6 @@ Let's see the essential settings worth tweaking in TypingAid.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +173,22 @@ Let's see the essential settings worth tweaking in TypingAid.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-rhythm-reviews-sound-innovations-for-2024/"><u>[New] Rhythm Reviews Sound Innovations for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-visual-joke-maker-snapsnicker/"><u>[New] Visual Joke Maker SnapSnicker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-snagit-screen-recorder-review-and-alternatives-for-2024/"><u>[Updated] Snagit Screen Recorder Review and Alternatives for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-crafting-audio-identity-the-art-of-adding-your-own-tones-to-android/"><u>In 2024, Crafting Audio Identity The Art of Adding Your Own Tones to Android</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-the-art-of-storytelling-on-ig-for-higher-engagement/"><u>In 2024, Mastering the Art of Storytelling on IG for Higher Engagement</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-defy-2-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Defy 2 Phones</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-art-of-concealing-windows-11s-bar/"><u>Mastering the Art of Concealing Windows 11'S Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/peeking-behind-the-curtain-windows-version-nomenclature/"><u>Peeking Behind the Curtain: Windows Version Nomenclature</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-and-repairing-renderer-failures-in-overwatch-2/"><u>Preventing and Repairing Renderer Failures in Overwatch 2</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-read-only-accessibility-on-windows-11-drives/"><u>Remedying Read-Only Accessibility on Windows 11 Drives</u></a></li>
+<li><a href="https://win11.techidaily.com/simple-steps-to-revise-login-credentials-in-windows-11/"><u>Simple Steps to Revise Login Credentials in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smart-navigation-ais-emergence-on-digital-landscapes/"><u>Smart Navigation: AI's Emergence on Digital Landscapes</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-old-user-credentials-error-in-windows-1011/"><u>Tackling Old User Credentials Error in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-checklist-for-windows-11-in-place-upsizing/"><u>The Essential Checklist for Windows 11, In-Place Upsizing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-the-latest-a-closer-look-at-the-updated-microsoft-surface-pro-7-performance-review/"><u>Unboxing the Latest: A Closer Look at the Updated Microsoft Surface Pro 7 Performance Review</u></a></li>
+</ul></div>
 

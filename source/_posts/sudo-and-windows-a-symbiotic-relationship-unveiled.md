@@ -1,7 +1,7 @@
 ---
 title: "Sudo and Windows: A Symbiotic Relationship Unveiled"
-date: 2025-01-08T02:37:43.619Z
-updated: 2025-01-13T05:04:46.105Z
+date: 2025-01-16T01:54:01.877Z
+updated: 2025-01-18T23:13:30.615Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does the sudo Command Do?
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
  This means that the sudo command is roughly equivalent to right-clicking on the Command Prompt app, selecting **Run as administrator**, and running a command, like `do_something`. With the help of the sudo command, you don't need to worry about remembering to run the Command Prompt as administrator. Instead, simply type `sudo do_something`, and the command will work in exactly the same way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which Windows Versions Can Run the sudo Command?
 
  Microsoft is adding the sudo command to Windows 11, and considering that support for Windows 10 is winding down, we don't expect to see the command coming there anytime soon. At the time of writing, the sudo command is only available for Windows Insider participants (builds 26045 and later), specifically those on the Developer and [Windows Canary channels](https://www.makeuseof.com/what-is-windows-insider-canary-channel/).
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
  Unlike some features that Microsoft tests in these versions, it seems fairly likely that sudo is going to arrive on the operating system soon.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable the sudo Command on Windows
@@ -64,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Window in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-window-in-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Enable sudo via the Command Prompt
@@ -78,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 ![Enabling sudo on Windows via PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/enabling-sudo-on-windows-via-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Use the sudo Command on Windows
@@ -91,10 +95,6 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 `
 
 ![Running a command on Windows via sudo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/running-a-command-on-windows-via-sudo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This feature may seem a tad unnecessary—and for many people, it is. That said, if you spend your day running command after command on Windows and wish for the simplicity of the sudo command, its addition will make your life easier.
 
@@ -112,16 +112,17 @@ thumbnail: https://thmb.techidaily.com/c4f624b3f2bccad5b6da118fee2e7df55a3a17201
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-discover-the-top-8-services-to-amplify-video-content-for-2024/"><u>[New] Discover the Top 8 Services to Amplify Video Content for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-tools-for-every-videographers-kit-for-2024/"><u>[New] Essential Tools for Every Videographer's Kit for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-beats-and-rhythms-capturing-sounds-with-mac/"><u>[Updated] Beats & Rhythms Capturing Sounds with Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-picks-for-online-classical-tone-downloads/"><u>[Updated] Top Picks for Online Classical Tone Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/alaw-mp3-online-alaw-mp3-file-converter-for-free-with-movavi/"><u>Alaw MP3 영구제 - Online Alaw MP3 File Converter for Free with Movavi</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-overlay-solutions-for-your-videos/"><u>Best Overlay Solutions for Your Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-start-saving-memories-using-lunapic-for-beginners/"><u>In 2024, Start Saving Memories Using LunaPic for Beginners</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-complex-concepts-obsidian-canvas-tips/"><u>Simplifying Complex Concepts: Obsidian Canvas Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/stealthy-switching-master-control-invisibility/"><u>Stealthy Switching: Master Control Invisibility</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-combat-non-functional-speech-feature-in-word-2013plus/"><u>Tips to Combat Non-Functional Speech Feature in Word 2013+</u></a></li>
-<li><a href="https://win11.techidaily.com/virtual-readiness-webcammic-validation-steps-windows/"><u>Virtual Readiness: Webcam/Mic Validation Steps (Windows)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-ultimate-guide-to-add-srt-to-mp4-2024/"><u>[New] Ultimate Guide to Add SRT to MP4 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-guide-to-adobe-cloud-storage-and-best-alternatives/"><u>[Updated] Full Guide to Adobe Cloud Storage and Best Alternatives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-eyesharp-record-chromeos-native-cam/"><u>[Updated] In 2024, EyeSharp Record ChromeOS Native Cam</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-essential-steps-to-update-your-macos-sierra-system/"><u>2024 Approved Essential Steps to Update Your macOS Sierra System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hear-the-vibe-no-cost-online-tempo-trackers/"><u>2024 Approved Hear the Vibe – No Cost Online Tempo Trackers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-visionary-solutions-top-1-ward-video-recorders-on-the-web/"><u>2024 Approved Visionary Solutions Top 1 Ward Video Recorders on the Web</u></a></li>
+<li><a href="https://win11.techidaily.com/historical-hack-windows-11s-journey-back-to-98/"><u>Historical Hack: Windows 11'S Journey Back to 98</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nokia-c12-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Nokia C12 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-runner-failures-understanding-error-0x8007000f/"><u>Overcoming Windows Runner Failures: Understanding Error 0X8007000f</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-invisible-hdd-in-pcs/"><u>Remedy for Invisible HDD in PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-the-search-bar-fix-guide-in-windows-11/"><u>Restoring Functionality: The Search Bar Fix Guide in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-displayhide-folders-on-windows-11/"><u>Unlocking Secrets: Display/Hide Folders on Windows 11</u></a></li>
 </ul></div>
 

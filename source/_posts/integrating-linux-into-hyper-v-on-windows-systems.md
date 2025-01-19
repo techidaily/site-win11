@@ -1,7 +1,7 @@
 ---
 title: Integrating Linux Into Hyper-V on Windows Systems
-date: 2025-01-04T19:13:38.851Z
-updated: 2025-01-06T17:54:55.524Z
+date: 2025-01-14T18:47:11.472Z
+updated: 2025-01-19T02:32:25.359Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Prerequisites for Running a Linux Virtual Machine Inside Hyper-V
 
  Firstly, you will need a Windows virtual machine that is completely functional inside VMware. We would suggest Windows 10 or 11 virtual machines for this project. Moreover, you must pick either Windows Pro or Enterprise edition because Hyper-V isn’t available for Windows Home edition.
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Also, update the VMware Workstation Player to the latest version before you begin the installation method.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Create a Linux Virtual Machine Inside Windows Virtual Machine Using Hyper-V
 
  We will break the steps into three parts. Firstly, you must enable the virtualization features for the Windows virtual machine. Then you need to enable Hyper-V on this virtual machine. Lastly, you need to create a Linux virtual machine using Hyper-V.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Enable Virtualization for Windows Virtual Machine in VMware
 
@@ -55,6 +51,10 @@ To enable Virtualization, do as follows:
 4. Locate the V**irtualize engine section** and click on**Virtualize Intel VT-x/EPT or AMD-V/RV** option.  
 ![Enable Virtualization for Windows Virtual Machine in VMware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-virtualization-for-windows-virtual-machine-in-vmware.jpg)
 5. Click on the**OK** button to apply changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Virtualization features are now active for the above Windows virtual machine. Next, you need to install Hyper-V.
 
@@ -70,17 +70,9 @@ To enable Virtualization, do as follows:
 ![Install Hyper-V on the Windows Virtual Machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-hyper-v-on-the-windows-virtual-machine.jpg)
 6. Click on the**OK** button to install the feature on your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. **Restart** your system to apply changes when the installation completes.
 
  Hyper-V is now active on your Windows virtual machine. Next, you need to create a Linux virtual machine it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Create a Linux Virtual Machine Using Hyper-V
 
@@ -94,13 +86,17 @@ To create an Ubuntu virtual machine, do as follows:
 3. Click on the**Next** button. Enter the name of the virtual machine and click on**Next** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click on the**Generation 1** radio button and click on Next.
 5. Keep the**Startup Memory** as**2GB** and enable the**Use Dynamic memory for this virtual machine** option.  
 ![Create a Linux Virtual Machine Using Hyper-V 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-2.jpg)
 6. Then, click on**Next** button and select the**Default switch** option in the Configure Networking section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Click on the**Create a virtual hard disk** option and allocate**20GB** to the virtual hard disk. Move to the next section.  
 ![Create a Linux Virtual Machine Using Hyper-V 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/create-a-linux-virtual-machine-using-hyper-v-3.jpg)
@@ -130,6 +126,10 @@ To create an Ubuntu virtual machine, do as follows:
 
  Also, uninstall the Hyper-V feature if you don’t need it any further in your Windows virtual machine. Check out our guide on[how to disable or remove Hyper-V in Windows 11](https://www.makeuseof.com/windows-11-disable-hyper-v/) for more information.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use Virtual Machine Inside a Virtual Machine With Hyper-V
 
  VMware supports hardware virtualization and can extend the feature to its virtual machines. VirtualBox is yet to catch up in this aspect because Hyper-V doesn’t work in a VirtualBox virtual machine as of writing this post. Make sure that you turn off virtualization features for the Windows virtual machine when you no longer need it.
@@ -149,24 +149,22 @@ To create an Ubuntu virtual machine, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-discovering-instagram-de-follows-quickly/"><u>[Updated] Discovering Instagram De-Follows Quickly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-approaches-to-integrating-vocal-elements-into-video-storytelling/"><u>[Updated] Innovative Approaches to Integrating Vocal Elements Into Video Storytelling</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhance-cinematography-with-obs-studios-lut-features-and-downloads/"><u>2024 Approved Enhance Cinematography with OBS Studio's LUT Features and Downloads</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-premiere-tips-youtube-video-uploads-for-2024/"><u>Adobe Premiere Tips YouTube Video Uploads for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/bringing-tiktok-videos-directly-to-your-living-room-screen/"><u>Bringing TikTok Videos Directly to Your Living Room Screen</u></a></li>
-<li><a href="https://media-tips.techidaily.com/converting-h2n-codec-to-mp4-a-guide-through-5-different-strategies/"><u>Converting H.2n Codec to MP4: A Guide Through 5 Different Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-your-photo-editing-convert-cr2-images-to-jpgs-in-windows/"><u>Enhance Your Photo Editing: Convert CR2 Images to JPGs in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/fix-grayscale-on-windows-volume-extend-option/"><u>Fix Grayscale on Windows' Volume Extend Option</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gpu-excellence-in-4k-gameplay-experience/"><u>GPU Excellence in 4K Gameplay Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-grammarly-not-working-on-windows/"><u>How to Fix Grammarly Not Working on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/is-windows-update-not-working-try-these-7-fixes/"><u>Is Windows Update Not Working? Try These 7 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/link-onedrive-to-windows-microsoft-id-easily/"><u>Link OneDrive to Windows Microsoft ID Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/recovering-a-disabled-instagram-account-essential-tips-and-tricks/"><u>Recovering A Disabled Instagram Account: Essential Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-overcome-virtual-disk-errors-in-disk-management/"><u>Solutions to Overcome Virtual Disk Errors in Disk Management</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/transitioning-from-pin-based-login-on-windows-11-to-traditional-passwords/"><u>Transitioning From PIN-Based Login on Windows 11 to Traditional Passwords</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-missing-windows-update-installation/"><u>Troubleshooting Missing Windows Update Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/turning-photos-right-effective-rotation-methods-for-windows-11/"><u>Turning Photos Right: Effective Rotation Methods for Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/uncovering-lan-ghosts-in-microsoft-writings/"><u>Uncovering LAN Ghosts in Microsoft' Writings</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-custom-snap-maneuvers-using-powertoys/"><u>Unleashing Custom Snap Maneuvers Using PowerToys</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>[Updated] 2024 Approved Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-viewing-voids-to-viral-videos-the-top-ten-reasons-and-cures-for-zero-traffic-for-2024/"><u>[Updated] From Viewing Voids to Viral Videos The Top Ten Reasons & Cures for Zero Traffic for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/beginning-your-art-with-ms-paint-windows-11-way/"><u>Beginning Your Art with MS Paint - Windows 11 Way</u></a></li>
+<li><a href="https://win11.techidaily.com/christmas-edition-enhance-windows-11/"><u>Christmas Edition: Enhance Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/command-line-how-to-execute-system-file-checker-sfc/"><u>Command Line: How to Execute System File Checker (SFC)</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-why-your-windows-11-icons-are-diminishing/"><u>Discover Why Your Windows 11 Icons Are Diminishing</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-overcome-common-flaws-in-windows-applications/"><u>Essential Tips to Overcome Common Flaws in Windows Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-tips-on-accessing-windows-11-homescreen/"><u>Expert Tips on Accessing Windows 11 Homescreen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-gameplay-disruptions-in-bloodhunt-steps-to-resolve-stutters-and-crashes-on-pc/"><u>Fixing Gameplay Disruptions in BloodHunt: Steps to Resolve Stutters & Crashes on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-captivating-livestreams-with-zoom-for-youtube-audiences/"><u>In 2024, Crafting Captivating Livestreams with Zoom for YouTube Audiences</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-streamers-toolkit-for-captivating-sessions/"><u>In 2024, OBS Streamer’s Toolkit for Captivating Sessions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-lip-syncing-5-essential-apps-you-need/"><u>New The Ultimate Guide to Lip Syncing 5 Essential Apps You Need</u></a></li>
+<li><a href="https://win11.techidaily.com/non-light-no-problem-master-five-cures-for-backlit-keyboard-failure/"><u>Non-Light, No Problem: Master Five Cures for Backlit Keyboard Failure</u></a></li>
+<li><a href="https://fox-place.techidaily.com/optimizing-user-experience-with-effective-data-dialogue-management-tools/"><u>Optimizing User Experience with Effective Data Dialogue Management Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-iphone-x-handbook-for-users/"><u>The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/troubleshooting-airdrop-issues-iphoneipadmac-solutions/"><u>Troubleshooting Airdrop Issues IPhone/iPad/Mac Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11s-moment-update-a-treasure-trove-of-features/"><u>Windows 11'S Moment Update - A Treasure Trove of Features?</u></a></li>
 </ul></div>
 

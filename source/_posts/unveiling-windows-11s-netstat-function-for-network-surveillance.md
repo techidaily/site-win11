@@ -1,7 +1,7 @@
 ---
 title: Unveiling Windows 11'S Netstat Function for Network Surveillance
-date: 2024-08-16T00:49:12.315Z
-updated: 2024-08-17T00:49:12.315Z
+date: 2025-01-15T21:24:35.932Z
+updated: 2025-01-18T17:17:17.785Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 * Connections and processes using the internet.
 * Any suspicious connections from unknown applications or services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the Netstat Command on Windows
 
  As mentioned before, the netstat command is accessible only from the Command Prompt. If you don't know the steps, follow the ones given below to run netstat from the Command Prompt:
@@ -44,18 +48,15 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![netstat Command Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-command-output.jpg)
 4. If you need to share the output with a tech support team, for example, use this command to copy the results in a text file: "**netstat > Path\\FileName.txt**". In this command, **Path** is any folder's location where you want to save the file and **FileName.txt** is your exported file's name.  
 ![netstat Output Export Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-output-export-command-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The highlighting part of netstat is that you can further use it with some parameters (or syntaxes) to filter the generated output. We'll show you some useful parameters that you can use with the "**netstat -parameter**" format in the next section.
 
  If you're eager to learn more about other such commands, check our list of useful [Windows commands to manage your network](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Useful Netstat Parameters for Windows Users
 
  In layman's terms, parameters mean some symbols or alphabets that allow you to modify what the netstat command displays. When you use a parameter with the "netstat -parameter" format, it helps you view detailed information about the traffic and different connections on a local area network.
@@ -66,20 +67,25 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![netstat -a Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-a-command.jpg)
 * **netstat -b:** The **\-b** parameter displays the executable (.EXE) involved in creating each connection or listening port. It is mainly useful for those who deal with network troubleshooting in a Windows server or a computer part of a domain.  
 ![netstat -b Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-b-command.jpg)
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * **netstat -e:** If you use an Ethernet connection rather than Wi-Fi, the **\-e** parameter can show you detailed Ethernet statistics, like link speed, total send/receive bytes, and some other technical statistics.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![netstat -e Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-e-command.jpg)
 * **netstat -o:** Suppose you installed an application (from an untrusted website), in that case, you can check whether the application is doing something suspicious with the connection or not. This is because the **\-o** parameter shows the Process ID (PID) of every connection that you can match from the Task Manager.  
-![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![netstat -o Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-o-command.jpg)
 * **netstat -s:** This shows statistics by a protocol like packets sent/received, errors, discarded packets, etc. It's useful if you want to understand per-protocol-based bandwidth usage.  
 ![netstat -s Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/netstat-s-command.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that you have an idea of some useful commands, try running them in the Command Prompt. Note that we recommend running Command Prompt as an administrator only as some connections are only visible with admin privileges.
@@ -88,9 +94,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Above all, netstat is just one command for troubleshooting. If you're interested, check the [Windows network connections tool](https://www.makeuseof.com/windows-open-network-connections-tool/) to learn about another handy tool.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Troubleshooting Your Networks Made Easy With Netstat
 
  Unlike utilities you need to download separately, netstat is ready to use in Command Prompt on all Windows versions. This makes it the go-to tool for getting a snapshot of network status right from your PC.
@@ -99,11 +102,31 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If all this sounds too technical to you, don't worry; we'll explain everything simply as you read further in the article. First, let's take a look at what netstat is and how to use netstat on Windows to monitor your network.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-drone-sweet-spots-for-peak-gopro-video-performance-for-2024/"><u>[Updated] Drone Sweet Spots for Peak GoPro Video Performance for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-secretive-approach-to-watching-insta-stories/"><u>[Updated] Secretive Approach to Watching Insta-Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-internet-experience-step-by-step-guide-to-disabling-youtube-on-devices/"><u>[Updated] Simplify Your Internet Experience Step-by-Step Guide to Disabling Youtube on Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-video-quality-at-its-best-webcams-for-superior-podcasting-for-2024/"><u>[Updated] Video Quality at Its Best Webcams for Superior Podcasting for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-syncing-with-symphonies-music-on-whatsapp-status/"><u>2024 Approved Syncing with Symphonies Music on WhatsApp Status</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-11-camera-error-no-image-save/"><u>Correcting Windows 11 Camera Error: No Image Save</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-instructions-on-how-to-fresh-install-driver-packs-for-the-hp-envy-laptop-gen89-models/"><u>Easy Instructions on How to Fresh Install Driver Packs for the HP ENVY Laptop Gen8/9 Models</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-win-cs-go-frames-per-second-strategies/"><u>Enhancing Win CS GO Frames Per Second Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/husqvarna-h501s-drone-unboxed-review-essentials/"><u>Husqvarna H501S Drone Unboxed - Review Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/key-techniques-to-activate-windows-repair-mode/"><u>Key Techniques to Activate Windows Repair Mode</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-webcams-designed-for-smooth-zoom-conferencing-for-2024/"><u>Optimal Webcams Designed for Smooth Zoom Conferencing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-reliable-colors-in-the-windows-ecosystem/"><u>Restoring Reliable Colors in the Windows Ecosystem</u></a></li>
+<li><a href="https://win11.techidaily.com/shattering-100mbps-ethernet-constraint-in-windows/"><u>Shattering 100Mbps Ethernet Constraint in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/speak-up-start-out-engaging-windows-11-voices/"><u>Speak Up, Start Out: Engaging Windows 11 Voices</u></a></li>
+<li><a href="https://win11.techidaily.com/the-basics-of-windows-hardware-memory-set-aside/"><u>The Basics of Windows Hardware Memory Set-Aside</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-picks-the-best-teen-centric-films-streaming-on-netflix/"><u>Top Picks: The Best Teen-Centric Films Streaming on Netflix</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-group-policies-the-gpresult-approach/"><u>Unlocking Group Policies: The GPResult Approach</u></a></li>
+</ul></div>
+

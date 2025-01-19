@@ -1,7 +1,7 @@
 ---
 title: Managing Reset Account Lockout Value After Failed Sign-Ins on W10/W11
-date: 2025-01-03T16:29:16.366Z
-updated: 2025-01-06T18:27:37.673Z
+date: 2025-01-16T21:21:34.776Z
+updated: 2025-01-18T23:07:33.599Z
 tags:
   - windows10
   - windows11
@@ -34,24 +34,20 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![Opening security policy via Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/01-windows-run-security-policy.jpg)
 3. On the left pane, navigate to **Account Lockout Policy** under the **Account Policies** folder.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Change Windows account lockout in Security Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/02-windows-account-policies.jpg)
 4. On the right pane, double-click on the **Reset account lockout counter after** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Windows account logon counter setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/03-reset-windows-account-logon-counter.jpg)
 5. Choose a number between one and 99,999, and hit **OK** to change how long the system will require to automatically reset any failed logon attempts.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Set Windows account logon reset timer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/04-choose-windows-account-logon-reset-timer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Change Account Lockout Counter Reset Time via Command Prompt
@@ -65,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 3. This will pull up information on how long a user has to wait before their account lockout counter is reset. It will be under the heading **Lockout observation window**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. To change the account lockout counter reset duration on Windows 10 and 11, type the following command into the console and hit **Enter**:  
@@ -73,12 +69,16 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 ![Use the command prompt to change account lockout counter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/06-change-account-lockout-counter-command-prompt.jpg)
 5. Replace the number “60” in the command with any other number from one to 99,999 to set how many minutes a user will have to wait before their failed logon attempts are reset.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A related setting, the [account lock-out duration](https://www.makeuseof.com/change-lockout-duration-windows/), must equal or exceed the time for the system to automatically reset the number of failed login attempts. If you want, you can [change the account lock-out duration on Windows](http://www.makeuseof.com/change-lockout-duration-windows/) to something that suits you best.
 
  You can also [limit the number of failed logon attempts on Windows](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) with a similar setting change.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Control How Long Before the Incorrect Logon Counter Is Reset
@@ -97,20 +97,20 @@ thumbnail: https://thmb.techidaily.com/3485122afbd86c9e9c462c3f4114e1a2939bb988f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unrecognizable-images-with-picarts-feature/"><u>[New] 2024 Approved Unrecognizable Images with PicArt's Feature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlock-advanced-editing-text-insertion-tips-on-images-in-microsofts-photos/"><u>[New] Unlock Advanced Editing Text Insertion Tips on Images in Microsoft's Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/conceal-or-reveal-the-taskbars-time-display/"><u>Conceal or Reveal the Taskbar's Time Display</u></a></li>
-<li><a href="https://win11.techidaily.com/crafting-individualized-gpo-settings-a-windows-11-masterclass/"><u>Crafting Individualized GPO Settings: A Windows 11 Masterclass</u></a></li>
-<li><a href="https://techtrends.techidaily.com/diagnosing-and-correcting-horizontal-streaks-in-monitor-images/"><u>Diagnosing and Correcting Horizontal Streaks in Monitor Images</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-for-common-windows-11-issues/"><u>Essential Tips for Common Windows 11 Issues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-3gp-file-transformation-from-mpeg-online-with-moveavi-tool/"><u>Free 3GP File Transformation From MPEG Online with MoveAVI Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-steam-issues-preventing-game-launch-on-windows-11/"><u>How to Mend Steam Issues Preventing Game Launch on Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-face-fluidity-techniques-implementing-motion-blur-effects/"><u>In 2024, Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-screen-magnification-in-ms-teams/"><u>In 2024, Navigating Screen Magnification in MS Teams</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-your-win-11-screen-with-symbol-restoration/"><u>Reclaim Your Win 11 Screen with Symbol Restoration</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-starter-strategy-for-original-diablo/"><u>The Ultimate Starter Strategy for Original Diablo</u></a></li>
-<li><a href="https://win11.techidaily.com/unblock-windows-shared-drive-with-ease/"><u>Unblock Windows Shared Drive with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-secrets-6-premier-destinations-for-music-video-enthusiasts/"><u>Unlock the Secrets: 6 Premier Destinations for Music Video Enthusiasts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unveiling-the-process-of-batched-tiktok-content-extraction/"><u>Unveiling the Process of Batched TikTok Content Extraction</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-viral-beats-cutting-edge-music-for-youtube-short-videos/"><u>[Updated] Viral Beats Cutting-Edge Music for YouTube Short Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721939430769-bargain-alert-get-your-new-phone-at-half-price-and-learn-how-to-fight-ransomware-hacks-today/"><u>Bargain Alert! Get Your New Phone at Half-Price & Learn How to Fight Ransomware Hacks Today.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-techniques-how-to-record-and-edit-windows-10-webcam-footage-with-quality-audio/"><u>Best Techniques: How to Record and Edit Window's 10 Webcam Footage With Quality Audio</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/eloquentaiartisan-the-ai-empowered-editor/"><u>EloquentAIArtisan The AI-Empowered Editor</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-sudden-invisibility-issues-in-pc-gaming/"><u>Eradicating Sudden Invisibility Issues in PC Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-lsa-error-on-windows-systems/"><u>Fixing LSA Error on Windows Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/from-ground-to-sky-expert-and-beginners-guide-to-editing-drones-for-2024/"><u>From Ground to Sky - Expert and Beginner's Guide to Editing Drones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/graphics-correction-step-by-step-windows-11/"><u>Graphics Correction: Step-by-Step Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-guide-skipping-pin-on-windows-win11-cast/"><u>Mastery Guide: Skipping PIN on Window's Win11 Cast</u></a></li>
+<li><a href="https://win11.techidaily.com/probing-into-windows-11s-potential-for-phone-synergy/"><u>Probing Into Windows 11’S Potential for Phone Synergy</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-your-steam-vr-experience-quick-fixes-if-its-not-detected-by-system/"><u>Revive Your Steam VR Experience: Quick Fixes if It's Not Detected by System</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-more-disk-room-with-this-roundup-of-cheap-volume-enhancers/"><u>Unlock More Disk Room with This Roundup of Cheap Volume Enhancers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-x-fold-2-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo X Fold 2 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/winrars-file-consistency-fixing-summation-discrepancies/"><u>WinRAR's File Consistency: Fixing Summation Discrepancies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Solving Windows Steam's E84 Glitches
-date: 2024-08-16T00:47:37.687Z
-updated: 2024-08-17T00:47:37.687Z
+date: 2025-01-11T19:44:45.248Z
+updated: 2025-01-18T22:13:08.542Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  If you are experiencing this error, fret not. Here are some solutions you can employ to resolve the error and sign in successfully.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Perform Some Preliminary Checks
 
  First, you should perform these basic fixes, as they may resolve the problem immediately:
@@ -34,19 +38,15 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
  If the issue persists after applying the above checks and fixes, start applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Log Out of Your Steam Account on Other Devices
 
  Even though using the same Steam account on multiple devices is not forbidden, doing so often leads to sign-in errors like e84\. If your Steam account is currently logged in on other devices, log out of your Steam account from all of them. After that, open the Steam client again and see if you can sign in successfully this time.
 
  If you don't encounter any errors this time, this confirms that using your account on multiple devices simultaneously caused the error. In the future, always log out of your Steam account before using it on another device. However, if logging out of your account from all other devices makes no difference, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 3\. Reset Your Account Password
 
  Some users in a[Steam community thread](https://steamcommunity.com/discussions/forum/1/3392923906944531423/) have mentioned that they have successfully fixed this error by simply resetting their password. Therefore, you should also reset your account password. To do that, follow these steps:
@@ -54,14 +54,8 @@ The powerful video editing program for your Windows PC</a>
 1. Go to the[Steam website](https://store.steampowered.com/) .
 2. Click on**login** in the top-right corner.  
 ![Click on the Login Button on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-login-button-on-steam-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Enter your username, and without entering your password (even if you remember it), click on**Help, I can't sign in** .  
 ![Click on Help I Can’t Sign In Option From the Login Page on Steam Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-click-on-help-i-can-t-sign-in-option-from-the-login-page-on-steam-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Then, click on**I forgot my Steam Account name or password** .
 5. Enter the email address or phone number linked to your account, verify Captcha, and click on**Search** .  
 ![Click on Search Button on the Steam Support Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-search-button-on-the-steam-support-pag.jpg)
@@ -73,28 +67,27 @@ The powerful video editing program for your Windows PC</a>
 
  After changing your password, restart your device once and try to sign in again with the new password. Hopefully, this time you won't encounter any errors. If resetting the account password does not resolve the issue, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Add or Remove Launch Parameters
 
  Adding the**"-noreactlogin"** parameter in Steam's executable file can also resolve this issue. In technical terms, adding this flag disables the ReactJS-based login window and restores the old one. Follow these steps to add this extra flag:
 
 1. Right-click on Steam's shortcut icon and select**Properties** .  
 ![Open Steam Properties in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-open-steam-properties-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 2. Go to the**Shortcut** tab in the**Steam Properties** window.  
 ![Go to Shortcut Tab in the Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-shortcut-tab-in-the-steam-properties-window.jpg)
 3. To modify the**Target** field, click at its end, add a space, and type**"-noreactlogin** .**"**
 4. Click**Apply** and then hit**OK** .  
 ![Click on OK Button After Adding a Launch Parameter in Steam Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/7-click-on-ok-button-after-adding-a-launch-parameter-in-steam-properties-window.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see that some launch parameters are already added to the Target field, consider removing them. According to some users on[GitHub](https://github.com/ValveSoftware/steam-for-linux/issues/9031) , Steam no longer supports the**"noreactlogin"** flag and suggests removing it. Remove this flag if it is already there. Taking this step will ensure that this extra parameter is not contributing to the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. When Nothing Else Works…
 
@@ -104,6 +97,10 @@ The powerful video editing program for your Windows PC</a>
 
  To confirm that the issue isn't with your Steam account, sign in to Steam using a different account (If you don't have another account, create one). If you successfully log in using the other account, it indicates that your primary account has an issue. So, contact Steam support through their[official Steam Support website](https://help.steampowered.com/en/) and ask them to investigate it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Whitelist Steam in All Active Security Apps
 
  Valve recommends whitelisting Steam's executable files in Windows' built-in or third-party security suites. So, go to Steam's installation folder, filter out all the executable files, and[whitelist them from Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) or any other third-party antivirus software you use.
@@ -112,14 +109,11 @@ The powerful video editing program for your Windows PC</a>
 
  Getting an error code 84 means Steam has failed to log you in. Hopefully, the above fixes will help you resolve the main issue and allow you to sign in successfully. Reinstalling the Steam client should be your last resort if nothing else works. Ensure you create a backup of your game files before uninstalling Steam to avoid losing your progress.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +122,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-top-6-networks-fueling-business-innovation-and-growth/"><u>[New] In 2024, Top 6 Networks Fueling Business Innovation and Growth</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-jokejigsaw-crafting-comedy-graphics/"><u>[Updated] JokeJigsaw Crafting Comedy Graphics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-screen-recorder-test-active-vs-top-contenders/"><u>[Updated] The Ultimate Screen Recorder Test Active vs Top Contenders</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-your-easy-guide-to-revisiting-your-lately-watched-fb-videos/"><u>[Updated] Your Easy Guide to Revisiting Your Lately Watched FB Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/actors-availability-downloadable-content-terms-for-2024/"><u>Actors' Availability Downloadable Content Terms for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/discount-heaven-11-sites-for-finding-cheap-video-games/"><u>Discount Heaven: 11 Sites for Finding Cheap Video Games</u></a></li>
+<li><a href="https://win11.techidaily.com/effective-techniques-for-disabling-wsl/"><u>Effective Techniques for Disabling WSL</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-w11s-writing-space-using-intelligence/"><u>Elevate W11's Writing Space Using Intelligence</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-app-locations-remain-constant-in-windows/"><u>Ensuring App Locations Remain Constant in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-dodge-world-of-warcraft-crash-tackle-fatal-132/"><u>How to Dodge World of Warcraft Crash: Tackle Fatal #132</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resume-print-spooler-on-windows-systems-after-a-hiccup/"><u>How to Resume Print Spooler on Windows Systems After a Hiccup</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-and-cons-of-inshot-is-it-the-ultimate-editor/"><u>In 2024, Pros and Cons of InShot Is It the Ultimate Editor?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/incorporating-slug-lines-into-headlines-and-titles-for-2024/"><u>Incorporating Slug Lines Into Headlines & Titles for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/photo-resurrection-mastery-navigating-two-strategies-to-retrieve-pictures-from-icloud/"><u>Photo Resurrection Mastery: Navigating Two Strategies to Retrieve Pictures From iCloud</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-overcome-discord-setup-error-on-windows-11/"><u>Steps to Overcome Discord Setup Error on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-studio-software-adobe-ps-not-opening-on-windows/"><u>Unlocking Studio Software: Adobe PS Not Opening on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/vanishing-act-hide-windows-11-search-from-taskbar/"><u>Vanishing Act: Hide Windows 11 Search From Taskbar</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-launch-calculator-quickly/"><u>Windows 11: Launch Calculator Quickly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Intuitive Shorthand for Power Buttons on Modern Windows 11
-date: 2024-08-16T00:50:32.381Z
-updated: 2024-08-17T00:50:32.381Z
+date: 2025-01-15T16:36:35.595Z
+updated: 2025-01-19T00:29:57.028Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
 
  So, let's look at how to add these quick shortcuts to your Windows menu. Let's get started!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
 
  Now that we've peeked into the benefits of adding shortcuts next to Power Buttons on Windows 11, let's look at how you can do it as well.
@@ -49,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
  You'll see a total of nine icons that you can add to your Start menu. Toggle the switch for all the icons you want to add next to the Power button.
 
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
@@ -58,25 +64,24 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
  For instance, in this example, we'll toggle on the switches for**File Explorer** ,**Documents** , and**Music** folder. This is how your customized Windows 11 Start menu will look like:
 
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Adding Shortcuts Next to Power Buttons on Windows 11
 
  And that's how you can easily tweak your Start menu and drop in shortcuts next to the Power button on your Windows. After you've made the changes, make sure you verify it by clicking on the Start menu.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -85,4 +90,20 @@ thumbnail: https://thmb.techidaily.com/ff7dea50eb587133c9c080dfe92ef9382e6bba6ee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-tips-for-vimeo-video-logging/"><u>[Updated] 2024 Approved Essential Tips for Vimeo Video Logging</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-tailoring-composite-results-blend-mode-proficiency-for-2024/"><u>[Updated] Tailoring Composite Results Blend Mode Proficiency for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-pubg-savings-on-windows-1011-a-step-by-step-guide/"><u>Ensuring PUBG Savings on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-updater-failure-code-0x8024a205/"><u>Fixing Updater Failure: Code 0X8024a205</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-upgrade-easily-update-your-logitech-mk710-drivers-today/"><u>Get the Newest Upgrade: Easily Update Your Logitech MK710 Drivers Today!</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-you-through-secure-boot-and-tpm-control-in-virtualbox/"><u>Guiding You Through Secure Boot & TPM Control in VirtualBox</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-adjust-windows-11-taskbar-dimensions/"><u>How to Adjust Windows 11 Taskbar Dimensions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/making-the-most-of-your-phones-camera-in-video-production-for-2024/"><u>Making the Most of Your Phone's Camera in Video Production for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ralink-driver-solutions-seamless-download-and-upgrade-processes-for-windows-users/"><u>Ralink Driver Solutions: Seamless Download & Upgrade Processes for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/rapid-rendering-of-facebook-videos-tips-and-tricks-for-2024/"><u>Rapid Rendering of Facebook Videos Tips & Tricks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/separate-icons-simplify-win-11-ui/"><u>Separate Icons, Simplify Win 11 UI</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-activate-controlled-folder-access/"><u>Step-by-Step Guide to Activate Controlled Folder Access</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-prestigious-discord-groups/"><u>Unlock the Secrets of Prestigious Discord Groups</u></a></li>
+</ul></div>
 

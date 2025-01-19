@@ -1,7 +1,7 @@
 ---
 title: Debugging Java Virtual Machine Creation Failure on Windows
-date: 2025-01-12T06:50:51.144Z
-updated: 2025-01-13T08:08:42.845Z
+date: 2025-01-17T00:25:49.024Z
+updated: 2025-01-18T20:27:50.560Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/405adc45ebf84824c8425ce7d2ecb9e77863385d3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Verify Your Java Installation
@@ -46,23 +46,19 @@ To check the Java version installed on Windows:
 4. The output will list the JDK version installed on your computer and the installation date.
 5. If you have recently installed an update, check if the information checks out. If not, try to install the latest version available from the[Java website](https://www.oracle.com/in/java/technologies/downloads/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. End the Java Process in Task Manager
 
 ![end java process task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/end-java-process-task-manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the error is triggered when installing Java, check if a Java process is running in the background. You can use Task Manager to find and end background processes that may prevent you from installing the Java Runtime Environment or the development kit.
 
 1. Press**Win + X** to open the**WinX menu** and select**Task Manager** .
 2. In Task Manager, open the**Processes** tab and locate instances of**Java Virtual Machine** .
 3. Select and click**End Task** to close the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Run Java as an Administrator
 
@@ -84,6 +80,10 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![edit the system environmental variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-the-system-environmental-variables.jpg)
 2. Next, select**Edit the system environment variables** to open**System Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. In the**Advanced** tab, click**Environment Variables** .  
 ![The Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/environment-variables-button.jpg)
 4. In the**System Variables** section, click**New** . It is important to select the correct section.  
@@ -92,17 +92,13 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 5. Type**\-JAVA\_OPTIONS** in the**Variable name** field.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Next, type**\-Xmx512M** in the**Variable value** field. Here,**\-Xmx512M** defines the amount of memory you want to allocate. In this case, it is**512MB** of system memory.
 7. Click**OK** , and**OK** once more to save the changes.
 
  Next, launch the app that shows the error and check if the error is resolved. If not, open**Environmental Variables** again. Select the -**JAVA\_OPTIONS** variable and click**Edit** . In the**Value data** field, type**\-Xmx1024M** to increase the memory size to 1**024 MB (1GB)** . Click**OK** and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Increase Java Heap Size Using the Java Control Panel
 
@@ -114,13 +110,13 @@ To change Java heap size by modifying the \_JAVA\_OPTIONS variable:
 ![windows control panel Java 32 bit programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-control-panel-java-32-bit-programs.jpg)
 4. In the**Java Control Panel** dialog, open the**Java** tab.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click the**View** button.  
 ![java control panel java tab view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-control-panel-java-tab-view.jpg)
 6. Double-click on the**Runtime Parameters** column and type**\-Xmx512m** to assign 512 MB memory for the Java apps.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Java runtime environment settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/java-runtime-environment-settings.jpg)
 7. Click**OK** to save the changes.
@@ -145,6 +141,10 @@ To clean install Java:
 
  In Clean Boot State, Windows starts with only essential Microsoft services and apps. It’s a troubleshooting method to determine and find third-party app conflicts causing system errors. If you continue to see the error when installing Java,[start your Windows computer in a clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) and try installing it again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixing the "Could Not Create the Java Virtual Machine" Error on Windows
 
  Insufficient Java heap size is what often triggers the Java virtual machine error. To fix the issue, modify the default heap size to be able to run Java apps without any problems.
@@ -166,15 +166,21 @@ To clean install Java:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/trategic-youtube-content-publishing-to-boost-view-counts-for-2024/"><u>[New] Strategic YouTube Content Publishing to Boost View Counts for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ideal-termination-immersive-reality/"><u>[Updated] Ideal Termination Immersive Reality</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-detailed-look-at-the-latest-lg-360-camera-tech/"><u>[Updated] In 2024, Detailed Look at the Latest LG 360 Camera Tech</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-drone-frontier-deconstructing-djis-mavic-pro-masterpiece/"><u>[Updated] In 2024, Drone Frontier - Deconstructing DJI's Mavic Pro Masterpiece</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-your-gslides-to-life-with-youtube-media-for-2024/"><u>Bring Your GSlides to Life with YouTube Media for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/distinguish-between-high-availability-fault-tolerance-and-redundancy/"><u>Distinguish Between High Availability, Fault Tolerance & Redundancy</u></a></li>
-<li><a href="https://win11.techidaily.com/festive-glamour-in-designed-windowscapes-unveiled/"><u>Festive Glamour in Designed Windowscapes Unveiled</u></a></li>
-<li><a href="https://win11.techidaily.com/jingle-bells-and-system-settings-holiday-windows-11-ideas/"><u>Jingle Bells and System Settings: Holiday Windows 11 Ideas</u></a></li>
-<li><a href="https://win11.techidaily.com/revive-failed-scans-in-your-geforce-experience-windows-edition/"><u>Revive Failed Scans in Your GeForce Experience Windows Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-unsuccessful-picture-saving-on-win11/"><u>Solutions for Unsuccessful Picture Saving on Win11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-top-free-software-for-turning-videos-into-files/"><u>[Updated] 2024 Approved Top Free Software for Turning Videos Into Files</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-network-insights-with-windows-11s-netstat-utility/"><u>Decoding Network Insights with Windows 11'S Netstat Utility</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/detecting-memory-issues-on-your-pc-a-guide-tips-from-yl-computings-expertise/"><u>Detecting Memory Issues on Your PC: A Guide - Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-efficiency-with-window-tabbing-windows-11-essentials/"><u>Enhancing Efficiency with Window Tabbing: Windows 11 Essentials</u></a></li>
+<li><a href="https://discover-help.techidaily.com/erstellen-sie-unter-windows-11-mit-einfachem-schritt-fur-schritt-leitfaden-eine-bootable-usb-laufwerk-aus-einer-iso-datei/"><u>Erstellen Sie Unter Windows 11 Mit Einfachem Schritt-Für-Schritt-Leitfaden Eine Bootable USB-Laufwerk Aus Einer ISO-Datei</u></a></li>
+<li><a href="https://win11.techidaily.com/fix-excel-wont-display-in-notepad-on-windows/"><u>Fix: Excel Won't Display in Notepad on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/gain-control-over-cursor-cadence-turn-off-mouse-boost-in-win-11/"><u>Gain Control Over Cursor Cadence: Turn Off Mouse Boost in Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-find-your-current-desktop-wallpapers-file-location-in-windows-11/"><u>How to Find Your Current Desktop Wallpaper’s File Location in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/implementing-divine-window-controls-in-windows-11/"><u>Implementing Divine Window Controls in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launch-free-portable-dvd-software-today-for-2024/"><u>Launch Free, Portable DVD Software Today for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-division-n-2-solutions-updated/"><u>Overcoming Launch Obstacles: Division N 2 Solutions Updated</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/reliable-power-bank-thats-lasted-decades-get-it-for-less-than-half-price-today-with-zdnet-exclusive-deal/"><u>Reliable Power Bank That's Lasted Decades – Get It for Less Than Half Price Today with ZDNET Exclusive Deal!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-instructions-adding-video-content-to-pdf-files/"><u>Step-by-Step Instructions: Adding Video Content to PDF Files</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-distributed-video-workflow-windows-and-tdarr-synergy/"><u>Streamline Distributed Video Workflow: Windows & Tdarr Synergy</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/synergy-of-style-and-functionality-in-ae-plugins-for-2024/"><u>Synergy of Style and Functionality in AE Plugins for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-journey-to-disabling-user-account-control-uac-in-windows-11/"><u>The Journey to Disabling User Account Control (UAC) in WIndows 11</u></a></li>
 </ul></div>
 

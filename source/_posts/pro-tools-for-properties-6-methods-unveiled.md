@@ -1,7 +1,7 @@
 ---
 title: "Pro Tools for Properties: 6 Methods Unveiled"
-date: 2025-01-11T01:01:00.079Z
-updated: 2025-01-13T02:56:28.439Z
+date: 2025-01-16T20:25:32.319Z
+updated: 2025-01-18T23:06:38.745Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Open File or Folder Properties in Windows
 
  Here are some easy ways to view the file or folder properties on a Windows PC. These methods will work for Windows 11 and older versions of Windows OS too.
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Using the Mouse and Keyboard Shortcut
@@ -48,10 +52,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 1. Open the File Explorer app and navigate to the folder location.
 2. Now, hold the**Alt** key and**double-click** on the file to display its properties.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Using the Context Menu
 
@@ -76,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![View File Properties using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/view-file-properties-using-file-explorer.jpg)
 5. The Properties window will launch on your system. Press**Alt + F4** to close it after you no longer need it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Using the CMD Tool
 
  The above-mentioned shortcuts launch the Properties window which shows the GUI version of File Properties. But, you can also view the properties of a folder or file using the command prompt on Windows. Repeat the following steps to view file properties using the command prompt utility:
@@ -92,7 +88,11 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 5. Scroll down to check the file properties such as size, creation date, and more attributes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Using PowerShell
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 4. Press the**Enter** key to execute the command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Quickly View File or Folder Properties on Windows
@@ -128,18 +128,22 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-edit-your-way-to-success-iosandroid-apps-for-youtube-shorts/"><u>[New] 2024 Approved Edit Your Way to Success IOS/Android Apps for YouTube Shorts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-introducing-10-elusive-instagram-story-visionaries/"><u>[New] Introducing 10 Elusive Instagram Story Visionaries</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-metaverse-versus-multimeva-defining-their-differences-clearly/"><u>[Updated] Metaverse Versus Multimeva Defining Their Differences Clearly</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-time-warp-in-media-youtube-content-upside-down/"><u>2024 Approved Time Warp in Media YouTube Content Upside Down</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-overscan-for-optimal-screen-fit/"><u>Fixing Windows Overscan for Optimal Screen Fit</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-icon-alert-disappearances/"><u>How To Fix Icon Alert Disappearances</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-check-the-pin-bluetooth-pairing-error-on-windows-1110/"><u>How to Fix the “Check the PIN” Bluetooth Pairing Error on Windows 11/10</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-galaxy-s23-ultra-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Galaxy S23 Ultra.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-hot-30-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Hot 30 5G Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/perfect-text-magic-for-striking-video-scenes/"><u>Perfect Text Magic for Striking Video Scenes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/transformation-made-simple-convert-your-ogv-videos-into-gif-format-at-no-cost-movavi/"><u>Transformation Made Simple: Convert Your OGV Videos Into GIF Format at No Cost - Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/turbocharged-windows-content-assessment/"><u>Turbocharged Windows Content Assessment</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-aid-evolution-with-new-tools/"><u>Windows 10 Aid Evolution with New Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-access-full-range-of-groups-shared-media/"><u>[Updated] 2024 Approved How to Access Full Range of Group's Shared Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>2024 Approved Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>2024 Approved Your 2023 Guide Best Applications for Downloading Lite Facebook Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-6-task-assistants-that-work-with-windows-11/"><u>Discover the Leading 6 Task Assistants That Work with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-unfreeze-steam-game-server-status-in-windows-environments/"><u>How to Unfreeze Steam Game Server Status in Windows Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/hyper-v-layers-virtualizing-linux-within-windows/"><u>Hyper-V Layers: Virtualizing Linux Within Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-elite-mp4-media-sender/"><u>In 2024, Elite MP4 Media Sender</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-e13-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto E13 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-to-extract-device-info/"><u>Navigating Through Windows to Extract Device Info</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-crash-woes-in-remnant-from-the-ashes-avoidance-tactics-and-stability-enhancements-discovered/"><u>Persistent Crash Woes in 'Remnant: From the Ashes' - Avoidance Tactics and Stability Enhancements Discovered</u></a></li>
+<li><a href="https://article-files.techidaily.com/scheduling-podcast-drops-with-peak-engagement-times-for-2024/"><u>Scheduling Podcast Drops with Peak Engagement Times for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-tecno-spark-20-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Tecno Spark 20 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win11.techidaily.com/the-quintet-of-top-tier-write-enhancers-windows-edition/"><u>The Quintet of Top-Tier Write Enhancers (Windows Edition)</u></a></li>
+<li><a href="https://win11.techidaily.com/top-9-new-enhancements-in-windows-11-feb-update/"><u>Top 9 New Enhancements in Windows 11 Feb Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-issues-expert-fixes-and-tips/"><u>Troubleshooting iPhone Display Issues: Expert Fixes & Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-selecthighlight-functionality-window-edition/"><u>Unblock Select/Highlight Functionality, Window Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-the-battle-top-windows-11-fps-trackers/"><u>Winning the Battle: Top Windows 11 FPS Trackers</u></a></li>
 </ul></div>
 

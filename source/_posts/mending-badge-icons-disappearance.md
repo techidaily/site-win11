@@ -1,7 +1,7 @@
 ---
 title: Mending Badge Icons Disappearance
-date: 2025-01-09T01:38:28.932Z
-updated: 2025-01-13T09:50:35.659Z
+date: 2025-01-11T20:17:02.889Z
+updated: 2025-01-19T00:32:56.945Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Modify the Taskbar Behavior
 
  To start, you need to ensure that the taskbar is configured to show notification badges on your computer. Here are the steps for doing the same.
@@ -40,11 +36,11 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 5. Tick the checkbox that reads**Show badges on taskbar apps** .  
 ![Enable Badges on Taskbar Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-badges-on-taskbar-apps-on-windows.jpg)
 
- Following this, apps should display notification badges on the taskbar.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Following this, apps should display notification badges on the taskbar.
 
 ## 2\. Make Sure App Notifications Are Enabled
 
@@ -57,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Allow Apps to Run in the Background
@@ -70,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 4. Click the**three-dot menu icon** next to the app and select**Advanced options** .
 5. Use the drop-down menu under**Background apps permissions** to select**Always** .  
 ![Allow Xbox to Run in the Background on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/allow-xbox-to-run-in-the-background-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
@@ -95,15 +87,19 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 4. Select**Pin to taskbar** from the right pane.  
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 7. In the**Value data** field, enter**1** .
 8. Click**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
 
@@ -146,19 +146,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-from-large-files-to-tiny-previews-crafting-stunning-thumbnails/"><u>[New] In 2024, From Large Files to Tiny Previews Crafting Stunning Thumbnails</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-tiktok-number-modification-easy-to-follow-steps/"><u>[New] TikTok Number Modification Easy to Follow Steps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-labeling-101-how-to-make-yourself-hard-to-ignore/"><u>[Updated] 2024 Approved Channel Labeling 101 How to Make Yourself Hard to Ignore</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mememolding-cutter/"><u>[Updated] 2024 Approved MemeMolding Cutter</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-become-a-youtube-partner/"><u>[Updated] How to Become A YouTube Partner</u></a></li>
-<li><a href="https://win11.techidaily.com/dualshock-without-plugs-win-compatibility-tips/"><u>DualShock Without Plugs: Win Compatibility Tips</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-your-ctrl-key-not-working-on-windows-11/"><u>How to Fix Your Ctrl Key Not Working on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/improve-system-insights-with-hardware-monitoring-tiles/"><u>Improve System Insights with Hardware Monitoring Tiles</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-photo-enhancing-apps-for-smartphones-with-overlays-top-10/"><u>In 2024, Best Photo-Enhancing Apps for Smartphones with Overlays (Top 10)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-fast-track-your-periscope-broadcasting/"><u>In 2024, Fast-Track Your Periscope Broadcasting</u></a></li>
-<li><a href="https://win11.techidaily.com/jumpstart-windows-11-activation-via-windows-7-key/"><u>Jumpstart Windows 11 Activation via Windows 7 Key</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-devices-not-unlocking-on-win11s-sleep/"><u>Troubleshooting Devices Not Unlocking on Win11's Sleep</u></a></li>
-<li><a href="https://win11.techidaily.com/win1011-recycle-fix-guide-for-corrupted-files/"><u>Win10/11 Recycle Fix Guide for Corrupted Files</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-make-a-photo-video-with-pixiz/"><u>[New] How to Make a Photo Video with Pixiz ?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-masterful-descriptions-for-impactful-podcast-intros/"><u>[New] In 2024, Masterful Descriptions for Impactful Podcast Intros</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-find-and-buy-premium-youtube-ringtone-videos-easily/"><u>2024 Approved Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
+<li><a href="https://win11.techidaily.com/audio-amplifiers-4-essential-tools-that-push-pc-sounds-past-100/"><u>Audio Amplifiers: 4 Essential Tools that Push PC Sounds Past 100%</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-motorola-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Motorola</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-typing-efficiency-with-w11-bespo-points/"><u>Elevate Typing Efficiency with W11, Bespo Points</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-a-missing-battery-time-estimate-in-windows-11/"><u>How to Fix a Missing Battery Time Estimate in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/inside-outlook-a-study-of-vivavideo-functionality/"><u>Inside Outlook A Study of VivaVideo Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-startup-process-quick-fix-guide-for-stardew-valley-loading-issues/"><u>Master the Startup Process - Quick Fix Guide for Stardew Valley Loading Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/master-your-recordings-best-no-fee-windows-editors/"><u>Master Your Recordings: Best No-Fee Windows Editors</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-data-flow-optimize-your-windows-11-hdd/"><u>Mastering Data Flow: Optimize Your Windows 11 HDD</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-install-failed-messages-on-discord/"><u>Navigating Through Install Failed Messages on Discord</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/official-downloads-install-logitech-steering-wheel-g29-pro-drivers-for-windows-xp-vista-7810/"><u>Official Downloads: Install Logitech Steering Wheel (G29 Pro) Drivers for Windows XP, Vista, 7/8/10</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-recovery-methods-for-frozen-mouse-clicks/"><u>Quick Recovery Methods for Frozen Mouse Clicks</u></a></li>
+<li><a href="https://win11.techidaily.com/rewind-records-key-tools-to-modify-files-creation-dates/"><u>Rewind Records: Key Tools to Modify File's Creation Dates</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-regain-control-over-non-operational-media-playback/"><u>Strategies to Regain Control Over Non-Operational Media Playback</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-finest-text-to-speech-male-voice-tools-for-natural-output-for-2024/"><u>Updated Finest Text-to-Speech Male Voice Tools for Natural Output for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/win-friendly-tools-the-8-best-video-editing-picks/"><u>Win-Friendly Tools: The 8 Best Video Editing Picks</u></a></li>
 </ul></div>
 

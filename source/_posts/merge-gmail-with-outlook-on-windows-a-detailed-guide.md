@@ -1,7 +1,7 @@
 ---
 title: "Merge Gmail with Outlook on Windows: A Detailed Guide"
-date: 2024-08-16T00:48:38.739Z
-updated: 2024-08-17T00:48:38.739Z
+date: 2025-01-11T20:21:04.492Z
+updated: 2025-01-18T20:41:49.374Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  More importantly, it supports an improved Gmail integration that allows users to directly access their email, contacts, and calendar through the Outlook for Windows preview app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Outlook for Windows Preview App
 
  Before we get Gmail accounts into Outlook, we need to get the preview version of the app. The Outlook for Window preview app is available to users who have signed up for the Microsoft 365 Insider (formerly Office Insider) program. The latest version of Outlook aims to help users work more efficiently through a rich design and many new features.
@@ -33,8 +37,9 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -43,52 +48,43 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
 1. From the**Start** menu, launch the**Mail** app and slide the**Try the new Outlook** toggle button.  
 ![enable outlook preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-outlook-preview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 2. Alternatively, if you’ve set up Microsoft 365 Insider, launch the**Outlook** app and enable the**Try the new Outlook** toggle button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Wait for the app to relaunch and quickly walk through the quick start guide.
 4. In the folder pane on the right, scroll to the bottom and select**Add account** .  
 ![add account outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-outlook.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 1. Enter your Gmail account and press**Continue.**  
 ![outlook-preview-account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-preview-account.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
 4. Once you’ve signed in, press**Open Outlook** when prompted to add your Gmail account to Outlook for Windows preview.  
 ![outlook prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/outlook-prompt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The New Outlook App Is Getting Better
 
  Millions of users have trusted Microsoft Outlook for over two decades, and to ensure its continuity, Microsoft has completely revamped the desktop Outlook experience for the better. Outlook is on its way to being a reliable desktop companion for the next generation of its users.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -97,4 +93,24 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-structuring-stories-that-resonate-in-docu-cinema/"><u>[New] Structuring Stories That Resonate in Docu-Cinema</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools-for-2024/"><u>[Updated] Transform Your Team Sessions Masterful Use of Slack & Filmora Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-hot-40i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Hot 40i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/closer-look-techniques-for-microsoft-teams/"><u>Closer Look Techniques for Microsoft Teams</u></a></li>
+<li><a href="https://win11.techidaily.com/combatting-windows-11-tackling-issues-head-on/"><u>Combatting Windows 11: Tackling Issues Head-On</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-windows-utilities-aiding-mac-to-windows-changeover/"><u>Critical Windows Utilities Aiding Mac to Windows Changeover</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fitbit-inspire-hr-evaluation-the-ultimate-wristband-for-nonstop-activity-and-wellness-tracking/"><u>Fitbit Inspire HR Evaluation: The Ultimate Wristband for Nonstop Activity and Wellness Tracking</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-f15-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-zte-axon-40-lite-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor ZTE Axon 40 Lite Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-overcoming-handheld-vibration-secure-your-gopro-movies/"><u>In 2024, Overcoming Handheld Vibration Secure Your GoPro Movies</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-crash-0x800f0831-explained/"><u>Navigating Through Windows Crash: 0X800F0831 Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-optimal-performance-in-win11-learn-the-top-availability-verification-steps/"><u>Secure Optimal Performance in Win11 - Learn the Top Availability Verification Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-address-dxgidll-file-lack-in-windows-11/"><u>Steps to Address Dxgi.dll File Lack in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/sticky-notes-mastery-entering-the-world-of-win11/"><u>Sticky Notes Mastery: Entering the World of Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/successful-guide-viewing-and-playing-videots-folders-across-windows-10-mac-tv-and-android/"><u>Successful Guide: Viewing and Playing Video_TS Folders Across Windows 10, Mac, TV & Android</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-correcting-system-calls-in-windows-1111/"><u>Unraveling and Correcting System Calls in Windows 11/11</u></a></li>
+<li><a href="https://win11.techidaily.com/workarounds-for-package-incompatibility-in-windows-os/"><u>Workarounds for Package Incompatibility in Windows OS</u></a></li>
+</ul></div>
 

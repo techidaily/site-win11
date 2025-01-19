@@ -1,7 +1,7 @@
 ---
 title: Remedy for Invisible HDD in PCs
-date: 2024-12-31T20:12:57.395Z
-updated: 2025-01-06T16:22:50.687Z
+date: 2025-01-12T02:01:19.510Z
+updated: 2025-01-18T17:09:26.080Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 ![external hard drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/external-hard-drive.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have recently connected a new external hard drive to your PC, it can lead you to all sorts of problems. Indeed, the hard drive detection error on your Windows might be caused just because of that. While plugging in external devices to Windows is second nature to most of us, it can definitely leave us at a hard drive failure for various reasons: an incompatibility issue, driver conflicts, hardware faults, and so on.
 
  So, in cases like this, we recommend you unplug the external hard drive and plug it back in again later.
@@ -40,19 +36,23 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  If your hard drive starts working as soon as you pull out your external drive, then that means there was some issue with the hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Check the Hardware Connection
 
 ![man fixing a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/man-fixing-a-computer-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Like any technical system, the hardware connections in your PC can go awry at times. In the case of your hard drive, a loose wire or a faulty port can leave you with a defective hard drive connection on your PC.
 
  So we suggest you check all the connections to your hard drive. Give it a thorough look and ensure you fit everything into its proper place.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Change the Drive's Formatting to NTFS
@@ -62,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  In this case, we recommend you format your hard drive to NTFS and see if you still face the "hard drive not detected" error on your Windows computer.
 
  Also, we'd like to add that your Windows can also work well enough on an exFat or FAT32 file system, even though they might come with reduced or subpar features. So, if you're using or choose to use one of these file systems, then you shouldn't face any technical difficulties either.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Update Your Windows Driver
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
  Click on **Finish** to finalize the setup and then see if you are still left with your hard drive error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Format an Allocated Partition
 
  Only see this as a sort of nuclear option, as you will lose all your previous data from the selected drive. To begin the format, right-click on the partition and choose **Format**.
@@ -124,7 +124,7 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
  Follow the rest of the on-screen instructions and your partition will be wiped clean in a few minutes. If your hard drive detection error was indeed caused by a corrupted partition, it will be gone by the end of the formatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixing Your Hard Drive Detection Issues on Your Windows
@@ -145,21 +145,18 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rom-freezing-points-to-inviting-landscapes/"><u>[New] From Freezing Points to Inviting Landscapes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-newbies-necessities-for-capturing-with-gopro/"><u>[New] In 2024, Newbies Necessities for Capturing with GoPro</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-drone-selections-on-a-budget-affordable-options-above/"><u>[Updated] Drone Selections on a Budget Affordable Options Above</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-perfecting-your-presence-share-screen-mastery-in-meet/"><u>[Updated] In 2024, Perfecting Your Presence Share Screen Mastery in Meet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-leading-portals-for-virtual-graffiti-fonts-for-2024/"><u>[Updated] Leading Portals for Virtual Graffiti Fonts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-transition-turning-mac-videos-into-discs/"><u>2024 Approved Seamless Transition Turning Mac Videos Into Discs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-honor-90-lite-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Honor 90 Lite Phone Hassle-Free</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-folder-maintenance-in-windows-11-distro-and-catroot2/"><u>Optimizing Folder Maintenance in Windows 11: Distro & Catroot2</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagine-windows-look-using-personalized-photographs/"><u>Reimagine Windows' Look Using Personalized Photographs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-logitech-g35-experience-latest-drivers-for-windows-781abf-safe-and-easy-download/"><u>Seamless Logitech G35 Experience: Latest Drivers for Windows 7/8/1Abf - Safe & Easy Download!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-secured-browsing-on-firefox-after-failures/"><u>Step-by-Step Guide: Restoring Secured Browsing on Firefox After Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-clear-up-darkened-remote-workspace-on-win/"><u>Steps to Clear Up Darkened Remote Workspace on Win</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-collection-of-effective-windows-to-dos/"><u>The Ultimate Collection of Effective Windows To-Dos</u></a></li>
-<li><a href="https://win11.techidaily.com/unlock-maximum-gpu-potential-increasing-win1011-vram/"><u>Unlock Maximum GPU Potential: Increasing Win10/11 VRAM</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-store-repair-guide-to-eliminate-error-code-x00000000/"><u>Win 11 Store Repair Guide to Eliminate Error Code X00000000</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-time-trial-unify-your-digital-chronoscope/"><u>Windows Time-Trial: Unify Your Digital Chronoscope</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-archive-essentials-top-15-downloader-tools/"><u>[New] In 2024, Instagram Archive Essentials Top 15 Downloader Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-androids-highest-rated-portable-gba-simulator-guide/"><u>[Updated] Android's Highest-Rated Portable GBA Simulator Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-premium-hdr-camera-options/"><u>[Updated] Navigating Through Premium HDR Camera Options</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>2024 Approved Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://win11.techidaily.com/accessing-and-configuring-windows-data-sources-by-odbc/"><u>Accessing and Configuring Windows Data Sources by ODBC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/beginners-guide-to-perfecting-gopro-footage-for-2024/"><u>Beginner's Guide to Perfecting GoPro Footage for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-friendly-chinese-innovations-in-vr-for-2024/"><u>Budget-Friendly Chinese Innovations in VR for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/create-professional-captions-on-any-video-for-free-top-web-based-solutions-explored/"><u>Create Professional Captions on Any Video for Free – Top Web-Based Solutions Explored</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-dark-mode-in-notepad-on-windows-11-and-11/"><u>How to Enable Dark Mode in Notepad on Windows 11 & 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y78plus-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-realme-gt-neo-5-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Realme GT Neo 5 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-approach-to-disable-unnecessary-windows-11-services/"><u>Proactive Approach to Disable Unnecessary Windows 11 Services</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-crowded-taskbar-image-space-in-windows-11/"><u>Resetting Crowded Taskbar Image Space in Windows 11</u></a></li>
 </ul></div>
 

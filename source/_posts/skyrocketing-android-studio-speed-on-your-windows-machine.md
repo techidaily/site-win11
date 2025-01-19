@@ -1,7 +1,7 @@
 ---
 title: Skyrocketing Android Studio Speed on Your Windows Machine
-date: 2024-08-16T00:51:11.853Z
-updated: 2024-08-17T00:51:11.853Z
+date: 2025-01-16T22:39:59.741Z
+updated: 2025-01-18T21:44:54.467Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
  If you’re one of them, keep reading to learn some helpful tips for optimizing your Android Studio experience on a low-end computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Increase Memory Allocation for Android Studio
 
  Memory allocation means assigning a specific amount of memory, or RAM, to Android Studio in order to improve its efficiency. By default, Android Studio is allowed to use up to 1.28GB of RAM, but if your computer has more RAM available, you can increase this amount.
@@ -32,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 2. From the left-hand side menu, select **Appearance & Behavior > System Settings > Memory Settings** .  
 ![Memory Settings In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-memory-settings.jpg)
 3. Increase the**IDE max heap size** to at least**2048MB** or**4096MB** , depending on whether your computer has 4GB or 6GB of RAM, respectively.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![IDE Heap Size In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-ide-heap-size.jpg)
 4. Click**Apply** and then**OK** to save the changes.
 5. Restart Android Studio for the changes to take effect.
@@ -63,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/f49bc8cad6beb9dab5f0418b9b2ef89c1f57811a0
 
 ![Android Studio Installer Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installer.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Installing Android Studio on an SSD will provide a noticeable boost in performance, making it easier and faster to develop your apps.
 
 ## 4\. Disable Unnecessary Plugins in Android Studio
@@ -74,21 +87,16 @@ Here's how to disable unnecessary plugins in Android Studio:
 1. Open Android Studio and go to**File > Settings** or press**Ctrl + Alt + S** .
 2. Select**Plugins** from the left-side navigation pane.  
 ![Plugin Menu In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-plugin-menu.jpg)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Uncheck the boxes next to the plugins you wish to disable and click**Disable** and then**OK** .  
 ![Installed Plugins List In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installed-plugins-list.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 4. Click**File > Restart IDE** for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you complete these steps, the plugins you disabled will no longer work and will not appear in the menus or be accessible within Android Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## 5\. Configure Lint in Android Studio
 
  Lint is a static code analysis tool in Android Studio that helps detect potential errors and performance issues in your code.
@@ -100,14 +108,19 @@ Follow the below steps to configure Lint in Android Studio:
 1. Press**Ctrl + Alt + S** to open Android Studio's settings.
 2. Click**Editor > Inspections** , and then check the box for**Android Lint** or**Lint** . If you're unable to find it, use the search box and type**Android Lint** in it.  
 ![Lint Settings In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-lint-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 3. Click the**Apply** button, and then**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition to configuring Lint for all your projects, you can also enable or disable specific Lint checks as well as configure the severity level for each check. To view suggestions for your current project, go to the**Project** window and click**Code > Inspect Code** .
 
  You can also configure the scope of the lint checks, such as whether to check only the current file or the entire project. This can help decrease build time and generate your APK file much faster in Android Studio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Update the GPU driver
 
@@ -119,9 +132,6 @@ Follow the below steps to configure Lint in Android Studio:
 
  If you want to go further, check out[ways to boost Windows' performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) for more tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Add Android Studio to the Graphics Performance Preference
 
  Graphics Performance Preferences is a Windows feature that allows you to choose which software you want to give permission to use a high-performance GPU or GPU to save power and improve performance.
@@ -132,14 +142,8 @@ Follow the below steps to configure Lint in Android Studio:
 2. Select the**Display** option, and then select the**Graphics settings** option in the right pane.
 3. Click on the**Browse** button, navigate to the folder containing Android Studio, i.e.,**C:\\Program Files\\Android\\Android Studio\\bin** , and double-click on the**studio-64.exe** file.  
 ![Android Studio Files Overview In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-files-overview.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 4. Select**Android Studio > Options > High Performance** , and then click**Save** to add it to the Graphics Performance Preference list.  
 ![Android Studio Graphics Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-graphics-settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  Additionally, you can also enable**Hardware-accelerated GPU scheduling** in order to improve the performance of Android Studio.
 
@@ -157,8 +161,6 @@ Follow the below steps to configure Lint in Android Studio:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +168,20 @@ Follow the below steps to configure Lint in Android Studio:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-breaking-the-streak-code-proven-techniques/"><u>[New] In 2024, Breaking the Streak Code Proven Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-techniques-for-unlinking-youtube-videos-from-devices/"><u>[New] Techniques for Unlinking YouTube Videos From Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-scrutinizing-the-economics-behind-short-video-earnings/"><u>2024 Approved Scrutinizing the Economics Behind Short Video Earnings</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-for-unreachable-windows-lock-via-pin/"><u>Easy Fixes for Unreachable Windows Lock via PIN</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-file-restoration-guide-unveiling-the-powerful-functions-of-recuva-for-data-rescue/"><u>Efficient File Restoration Guide: Unveiling the Powerful Functions of Recuva for Data Rescue</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-on-enhancing-the-stability-of-windows-notepad/"><u>Guidelines on Enhancing the Stability of Windows Notepad</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/innovative-document-management-with-the-fujitsu-scansnap-ix1400-a-must-have-scanner-for-small-business-owners-and-home-offices/"><u>Innovative Document Management with the Fujitsu ScanSnap iX1400 - A Must-Have Scanner for Small Business Owners and Home Offices</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-neon-text-generators-the-9-easiest-online-tools-to-use-this-year/"><u>New In 2024, Neon Text Generators The 9 Easiest Online Tools to Use This Year</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-non-adjacent-windows-partitions-alignment/"><u>Optimizing Non-Adjacent Windows Partitions Alignment</u></a></li>
+<li><a href="https://win11.techidaily.com/simplify-advanced-control-with-group-policies-in-windows-11/"><u>Simplify Advanced Control with Group Policies in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-ultimate-troubleshooting-manual-to-stop-crashes-in-your-frostpunk-adventure/"><u>The Ultimate Troubleshooting Manual to Stop Crashes in Your Frostpunk Adventure</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-to-downscaling-4k-footage-with-leading-converters-from-4k-to-full-hd-1080p/"><u>Ultimate Guide to Downscaling 4K Footage with Leading Converters From 4K to Full HD (1080P)</u></a></li>
+</ul></div>
 

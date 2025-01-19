@@ -1,7 +1,7 @@
 ---
 title: Tackling Unsuccessful File Transfers in Windows
-date: 2025-01-09T19:12:59.878Z
-updated: 2025-01-13T07:38:18.390Z
+date: 2025-01-13T20:40:59.187Z
+updated: 2025-01-18T20:58:14.104Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
  The SFC tool patches up corrupted files and DISM addresses system image issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Select a Different Download Location in Your Browser
 
  Most Windows browsers download files to the Downloads user folder by default. There could be an issue with that folder. In this case, selecting a different download location with browser settings might work for some users.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  Our article about [changing the default download location in browsers](https://www.makeuseof.com/change-default-download-location-popular-browsers/) tells you how to apply this potential resolution with Firefox, Chrome, Edge, Opera, and Vivaldi.
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Change the Current Location in the Website Data Settings
 
@@ -66,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7. Then click **Yes** on the logoff prompt.
 
@@ -88,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
@@ -95,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
@@ -106,11 +114,11 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
- If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 ## 8\. Reset Your Browser Software
 
@@ -126,14 +134,10 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 3. Press the **Restore settings** button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Click **Reset** inside the confirmation prompt.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
 
@@ -142,10 +146,6 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
 
@@ -165,22 +165,18 @@ thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c30
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-choosing-prime-top-8-budget-friendly-srt-translator-tools/"><u>[New] Choosing Prime Top 8 Budget-Friendly SRT Translator Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nhance-video-magic-find-your-favorite-mobile-edit-apps/"><u>[New] Enhance Video Magic Find Your Favorite Mobile Edit Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-tools-for-youtube-to-webm-conversion/"><u>[New] In 2024, Top 10 Tools for YouTube to WebM Conversion</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-skype-the-top-10-audio-capture-tools-for-2024/"><u>[New] Skype The Top 10 Audio Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-virtual-worlds-in-action-essential-360-shooting-advice-top-9/"><u>[New] Virtual Worlds in Action Essential 360 Shooting Advice (Top 9)</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-leading-intro-editors-for-device-applications/"><u>[Updated] In 2024, Leading Intro Editors for Device Applications</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-building-competence-with-lut-software/"><u>2024 Approved Building Competence with LUT Software</u></a></li>
-<li><a href="https://win11.techidaily.com/fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable.</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-itel-p55-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-your-inboxes-add-gmail-to-outlook-on-windows-pcs/"><u>Navigate Your Inboxes: Add Gmail to Outlook on Windows PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-and-correcting-defenders-error-code-0x80004004/"><u>Navigating & Correcting Defender’s Error Code: 0X80004004</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-monitor-settings-in-latest-os-version/"><u>Optimize Monitor Settings in Latest OS Version</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-power-usage-solutions-for-unrealcefsubprocess-in-windows/"><u>Optimizing Power Usage: Solutions for UnrealCEFSubprocess in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/pinpointing-windows-shots-hideaway/"><u>Pinpointing Windows Shots' Hideaway</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-and-fixing-admin-controlled-windows-settings/"><u>Understanding and Fixing Admin-Controlled Windows Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-secrets-to-processor-state-displayment/"><u>Unlocking the Secrets to Processor State Displayment</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-clear-photography-archives-legal-purchase-tactics/"><u>[New] In 2024, Clear Photography Archives Legal Purchase Tactics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-resolving-social-media-puzzle-zippy-fb-videos-not-in-view/"><u>[New] In 2024, Resolving Social Media Puzzle Zippy FB Videos Not in View</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-list-of-cinematic-color-adjustments/"><u>[Updated] In 2024, The Ultimate List of Cinematic Color Adjustments</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-trick-how-to-store-instagram-content-on-pc-and-macos/"><u>2024 Approved Unveiling the Trick How to Store Instagram Content on PC and macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/context-menu-innovations-adding-program-troubleshooting-aids/"><u>Context Menu Innovations: Adding Program Troubleshooting Aids</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exploring-the-creme-de-la-creme-of-android-mobas-10-for-2024/"><u>Exploring the Crème De La Crème of Android MOBAs (#10) for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/free-visual-treasury-select-10-sites-included/"><u>Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-advanced-graphics-in-application-guard-for-edge-in-windows-11/"><u>How to Enable Advanced Graphics in Application Guard for Edge in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-windows-update-error-0x80190001/"><u>How to Fix the Windows Update Error 0X80190001</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-through-fonts-with-win11s-tool/"><u>Navigate Through Fonts with Win11's Tool</u></a></li>
 </ul></div>
 

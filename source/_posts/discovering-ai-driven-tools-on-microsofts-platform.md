@@ -1,7 +1,7 @@
 ---
 title: Discovering AI-Driven Tools on Microsoft's Platform
-date: 2024-08-16T00:48:16.144Z
-updated: 2024-08-17T00:48:16.144Z
+date: 2025-01-11T20:04:04.672Z
+updated: 2025-01-18T20:07:34.747Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
 
  Read on as we discuss why Microsoft is adapting AI and what the all-new AI Hub is all about.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is the AI Hub on the Microsoft Store?
 
  The AI Hub is the dedicated section of the Microsoft Store that will showcase the [best AI apps](https://www.makeuseof.com/best-ai-web-apps/) built by the developer community and Microsoft.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
  The Microsoft Store hosts apps like Luminar Neo and Lensa, allowing [AI-based creative photo editing](https://www.makeuseof.com/best-free-ai-online-photo-editors/). Similarly, you can even build resumes with AI tools such as Kickresume.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is Microsoft Integrating AI Into the Microsoft Store?
 
  Artificial Intelligence (AI) is changing our daily lives as we know it. Powerful AI models such as OpenAI’s GPT4 have evolved several tasks already, such as text generation, translation, web searching, and more.
@@ -42,15 +47,14 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
  According to [Windows Blogs](https://blogs.windows.com/windowsdeveloper/2023/05/23/welcoming-ai-to-the-microsoft-store-on-windows/), the Microsoft Store will no longer be just a place to download apps, but instead, it will aim to guide users on becoming more productive and achieving their tasks in a better way.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Microsoft Store Gets An AI Upgrade
 
  We’re excited to see how the Microsoft Store experience will change for Windows users now that Microsoft is integrating new AI features. To make things even better, Windows 11 is also getting a centralized AI assistant called Windows Copilot.
 
  Read on as we discuss why Microsoft is adapting AI and what the all-new AI Hub is all about.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -58,3 +62,20 @@ thumbnail: https://thmb.techidaily.com/4f7677089ce9d876fde36aa600317f042b44ee73a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-5-best-finger-tech-for-virtual-reality-mastery/"><u>[New] 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-overlay-techniques-for-video-and-image-enhancement-with-windows-10/"><u>[New] Mastering Overlay Techniques for Video and Image Enhancement with Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-high-quality-webcam-capture-made-easy-review/"><u>[Updated] High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-7-essential-secrets-for-delectable-cooking-clips/"><u>2024 Approved 7 Essential Secrets for Delectable Cooking Clips</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-calculating-your-commercial-break-even-as-a-podcaster/"><u>2024 Approved Calculating Your Commercial Break-Even as a Podcaster</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-error-code-0xca00a009-in-windows-update/"><u>Eliminating Error Code: 0XCA00A009 in Windows Update</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/real-time-speech-to-text-unlocking-with-whisper/"><u>Real Time Speech to Text: Unlocking with Whisper</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-absent-screen-glitches-fix-windows-rdp-issue/"><u>Resolving Absent Screen Glitches: Fix Windows RDP Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/sidestep-error-0x80242016-in-windows-update/"><u>Sidestep Error 0X80242016 in Windows Update</u></a></li>
+<li><a href="https://win11.techidaily.com/winrar-summation-accuracy-methods-to-rectify-errors-effectively/"><u>WinRAR Summation Accuracy: Methods to Rectify Errors Effectively</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/youtube-and-brands-united-strategic-collaborative-titles/"><u>YouTube & Brands United Strategic Collaborative Titles</u></a></li>
+</ul></div>
+

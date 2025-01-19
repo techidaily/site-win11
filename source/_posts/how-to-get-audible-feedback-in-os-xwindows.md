@@ -1,7 +1,7 @@
 ---
 title: How to Get Audible Feedback in OS X/Windows
-date: 2025-01-07T01:13:10.371Z
-updated: 2025-01-12T22:15:30.305Z
+date: 2025-01-15T23:06:47.072Z
+updated: 2025-01-18T19:34:37.976Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 ![A Windows PC Getting Started](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restarting-a-windows-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To restart your computer, close any running applications. After that, press **Alt + F4**, or right-click the **Start** menu and select **Shut down or sign out** \> **Shut down**.
 
 ## 2\. Run the Audio Troubleshooter
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Open Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-windows-audio-service.jpg)
 3. Once found, double-click it to open its Properties window.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. In the General tab, click on the **Start type** drop down menu and select **Automatic**.  
 ![Restart Windows Audio Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-windows-audio-service.jpg)
 5. Now go to the **Service status** section and click on **Stop**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Wait for a few moments, then press **Start** to restart the service.
 7. Click **Apply** \> **OK** to save the changes.
@@ -83,11 +87,11 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Disable Audo Enhancements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-audo-enhancements.jpg)
 8. Now click **Apply > OK** to save the changes.
 
- Audio enhancements should now be disabled, and you may find your sound issues resolved. If you have multiple audio devices, repeat the process for each device. Once you have completed these steps, restart your computer and check if your audio issues have been resolved.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Audio enhancements should now be disabled, and you may find your sound issues resolved. If you have multiple audio devices, repeat the process for each device. Once you have completed these steps, restart your computer and check if your audio issues have been resolved.
 
 ## 5\. Update the Audio Driver
 
@@ -110,10 +114,14 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Search automatically for drivers-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-automatically-for-drivers-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait until Windows downloads and installs the latest driver version. Once done, restart your device and check if the test tone is now playing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reinstall the Audio Drivers
 
@@ -126,10 +134,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 3. Right-click your audio device and select **Uninstall device**.  
 ![Uninstall Audio driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-audio-driver.jpg)
 4. If a warning pops up, click **Uninstall** to continue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Now follow the on-screen instructions to uninstall the audio driver.
 
@@ -149,11 +153,11 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 ![Try Different Audio Formats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/try-different-audio-formats.jpg)
 6. Now try playing a test tone and see if it works.
 
- If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this solution works, you should leave the settings at their current values. If it doesn't work, go back and select a different sample rate. Once you find the correct settings, click **Apply** \> **OK** to save the changes.
 
 ## 8\. Perform a Few General Fixes
 
@@ -163,10 +167,6 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 * [Updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/).
 * You can also [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). It disables unnecessary third-party software running in the background, which may cause the issue. I
 * If the problem persists, [use the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/). This utility scans all protected system files and replaces them if they are corrupted.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Playing the Test Tone Again on Windows
 
@@ -184,20 +184,22 @@ thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c525
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>[New] Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lightning-flicker-viewer-windows-photos/"><u>[Updated] Lightning Flicker Viewer - Windows Photos</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-the-win-11-store-freeze-with-error-code-x00000000/"><u>Combatting the Win 11 Store Freeze with Error Code X00000000</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-non-essential-windows-11-feedback-alerts/"><u>Disabling Non-Essential Windows 11 Feedback Alerts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g13-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G13 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-mini-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-quick-access-on-windows-11-the-taskbars-search-tool/"><u>Mastering Quick Access on Windows 11: The Taskbar’s Search Tool</u></a></li>
-<li><a href="https://win11.techidaily.com/power-up-windows-11-selecting-the-best-productivity-tools/"><u>Power Up Windows 11: Selecting the Best Productivity Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/premium-capture-programs-leading-alternatives-to-microsofts-snipping-feature/"><u>Premium Capture Programs: Leading Alternatives to Microsoft's Snipping Feature</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rise-to-greatness-with-the-totobay-2nd-generation-wake-up-light-the-best-economical-alarm-clock-reviewed/"><u>Rise to Greatness with the Totobay 2Nd Generation Wake-Up Light - The Best Economical Alarm Clock Reviewed</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-mystery-of-windows-update-failed-understanding-and-fixing-error-code-0x80070643/"><u>Solving the Mystery of 'Windows Update Failed' - Understanding and Fixing Error Code 0X80070643</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-11s-opengl-failures-code-3-insights/"><u>Tackling Windows 11'S OpenGL Failures: Code #3 Insights</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-messages-into-memorable-video-experienits/"><u>Transforming Messages Into Memorable Video Experienits</u></a></li>
-<li><a href="https://win11.techidaily.com/winmaintenance-clarity-deciphering-chkdsk-sfc-dissect/"><u>WinMaintenance Clarity: Deciphering CHKDSK, SFC, Dissect</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-ensuring-privacy-when-documenting-whatsapp-voice-calls/"><u>[New] 2024 Approved Ensuring Privacy When Documenting WhatsApp Voice Calls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-seamless-access-watching-fb-videos-on-apple-tv-explained/"><u>[New] 2024 Approved Seamless Access Watching FB Videos on Apple TV Explained</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-echoes-of-excellence-10-strategies-for-superior-sound-quality/"><u>2024 Approved Echoes of Excellence 10 Strategies for Superior Sound Quality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-your-messaging-keywords-that-drive-marketing/"><u>2024 Approved Enhance Your Messaging Keywords that Drive Marketing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-copy-text-exploring-the-backstory-behind-its-responses/"><u>Does ChatGPT Copy Text? Exploring The Backstory Behind Its Responses</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-0x0000011b-error-on-win11-operations/"><u>Eliminating the 0X0000011B Error on Win11 Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-windows-error-x7e1-step-by-written-guide/"><u>Fixing Windows Error X7E1: Step-By Written Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/iis-insiders-top-8-tricks-for-accessing-the-manager/"><u>IIS Insider's Top 8 Tricks for Accessing the Manager</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-x8b-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor X8b?</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-tackle-unsuccessful-sync-with-onedrive-win1011/"><u>Methods to Tackle Unsuccessful Sync with OneDrive Win10/11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro-for-2024/"><u>New The Ultimate Showdown After Effects vs Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-discord-installation-hurdles-on-pc-and-laptops/"><u>Overcoming Discord Installation Hurdles on PC & Laptops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211025595-quick-fixes-for-windows-10s-delayed-shutdown-bug-get-started/"><u>Quick Fixes for Windows 10'S Delayed Shutdown Bug - Get Started!</u></a></li>
+<li><a href="https://win11.techidaily.com/refine-windows-defense-measures-add-ons-and-filters-for-context-menu/"><u>Refine Window's Defense Measures: Add-Ons and Filters for Context Menu</u></a></li>
+<li><a href="https://win11.techidaily.com/switching-off-high-contrast-in-windows-os/"><u>Switching Off High Contrast in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-system-repairs-with-keyboard-shortcuts-on-windows-11/"><u>Unlock System Repairs with Keyboard Shortcuts on Windows 11</u></a></li>
 </ul></div>
 

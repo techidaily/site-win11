@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Google Drive Not Syncing in Windows
-date: 2025-01-05T20:26:30.218Z
-updated: 2025-01-06T19:31:08.893Z
+date: 2025-01-16T18:37:33.711Z
+updated: 2025-01-18T18:03:01.510Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your Computer
 
  Restarting the computer is an ideal and recommended way to solve almost all Windows-related errors.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/88bfebb08e4cbb8d0a68e78c0297b8f1e363343f3
  For restarting your computer, click the**Windows** icon on the taskbar and then the**Power** button. Finally, click**Restart** to restart your computer. Once your computer boots up properly, try downloading a file or uploading one via Google Drive for desktop.
 
 ![Restart Option In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/restart-option-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Disconnect and Reconnect Your Google Account
 
@@ -52,12 +52,13 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Preferences Options In Drive For Desktop Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/preferences-options-in-google-drive.jpg)
 3. On the**Preferences** window, click**Disconnect account** next to your Google account.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Google Drive Preferences Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/google-drive-preferences-window.jpg)
 4. Again, click**Disconnect** to confirm your action. Once done, open Google Drive from the start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Sign in with browser** and reconnect your Google account.  
 ![Sign In Option In Google Drive's Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-in-option-in-google-drive.jpg)
 
@@ -66,7 +67,7 @@ Follow the below steps to disconnect your Google account from Drive:
  Once you login again, it'll take some time to fetch all your files from the cloud, depending on the files you've stored in Google Drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Clear Temporary Files
@@ -78,7 +79,7 @@ Follow the below steps to disconnect your Google account from Drive:
  If you run into problems with Windows programs often, you should know[how to delete temporary files in Windows](https://www.makeuseof.com/windows-11-delete-temporary-files/) . By deleting the temporary files, you force all the Windows programs to recreate them at startup. This removes all the corrupted files and fixes some common sync errors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Examine the Internet Connection
@@ -92,7 +93,7 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Ipconfig Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ipconfig-in-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your issue is still not resolved, keep reading, as you may need to jump on to some advanced troubleshooting methods.
@@ -125,10 +126,6 @@ Follow the below steps to disconnect your Google account from Drive:
 ![Drive For Desktop Installer Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/drive-for-desktop-installer.jpg)
 3. Click**Sign in with browser** and log in with your desired Google account.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Once you’ve signed into Google Drive, click**Close** to exit the installer.
 5. Now you can view all your files stored in your drive from the Windows File Explorer.
 
@@ -143,6 +140,10 @@ Follow the below steps to disconnect your Google account from Drive:
 * **Check your Drive’s Storage:** Google Drive offers only 15GB of storage to normal users. If you have low cloud storage, you may not be able to upload any new files because of storage limits.
 * **Tweak Sync option:** Google Drive will stop syncing any files if you’ve modified the sync options. To revert it, click the**Settings (gear)** icon in Google Drive and select**Resume syncing** .
 * **Restart Google Drive:** To restart the Drive for desktop, click the**Google Drive** icon on the bottom right of the taskbar, and then click**Settings > Quit** . Now, reopen it from the search or start menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Restore Google Drive Sync on Windows
 
@@ -165,24 +166,20 @@ Follow the below steps to disconnect your Google account from Drive:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-top-tips-for-effective-tiktok-usage-on-a-mac/"><u>[New] 2024 Approved Top Tips for Effective TikTok Usage on a Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-access-yt-comments-desktopiosandroid-edition-explained-for-2024/"><u>[Updated] Access YT Comments Desktop/iOS/Android Edition Explained for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-exclusive-ig-edits-for-apple-and-android-users/"><u>[Updated] In 2024, Exclusive IG Edits for Apple & Android Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/approach-apply-knowledge-of-the-relationship-between-voltage-and-arc-blow-suscepteility/"><u>Approach: Apply Knowledge of the Relationship Between Voltage and Arc Blow Suscepteility.</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-restore-run-commands-past-actions/"><u>How to Restore Run Command's Past Actions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-lava-blaze-curve-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Lava Blaze Curve 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-art-of-computers-unconscious-state/"><u>Mastering the Art of Computers' Unconscious State</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ize-traffic-essential-youtube-seo-equipment/"><u>Maximize Traffic - Essential YouTube SEO Equipment</u></a></li>
-<li><a href="https://win11.techidaily.com/mobile-must-haves-android-and-windows-desktop-users/"><u>Mobile Must-Haves: Android and Windows Desktop Users</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-networking-activating-telnet-in-windows-os-x-and-y/"><u>Optimizing Networking: Activating Telnet in Windows OS X and Y</u></a></li>
-<li><a href="https://win11.techidaily.com/preventing-and-fixing-unresponsive-windows-software-problems/"><u>Preventing and Fixing Unresponsive Windows Software Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/protecting-pc-integrity-managing-removable-storage-risks/"><u>Protecting PC Integrity: Managing Removable Storage Risks</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-fix-guide-resolve-error-code-0x800f0831-with-simple-windows-update-steps/"><u>Quick Fix Guide: Resolve Error Code 0X800f0831 with Simple Windows Update Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/rectifying-microsoft-store-error-0x80073cf3-in-windows-11/"><u>Rectifying Microsoft Store Error 0X80073cf3 in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-file-detection-failures-on-windows-11/"><u>Resolving File Detection Failures on Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/send-a-wave-of-happiness-steps-to-sending-gifs-in-snapchat-for-2024/"><u>Send a Wave of Happiness Steps to Sending Gifs in Snapchat for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-showdown-of-slates-assessing-quality-and-capabilities-between-android-tablets-and-ipads/"><u>The Showdown of Slates: Assessing Quality and Capabilities Between Android Tablets and iPads</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-eight-exceptional-apps-for-savvy-travelers/"><u>The Ultimate List: Eight Exceptional Apps for Savvy Travelers</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-the-full-potential-of-your-iphones-calendar-in-windows-1011/"><u>Unlocking the Full Potential of Your iPhone's Calendar in Windows 10/11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-tints-and-tonality-applying-theoretical-insight/"><u>[New] 2024 Approved Tints & Tonality Applying Theoretical Insight</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-streamlight-solutions-best-for-video-illumination/"><u>[Updated] 2024 Approved Streamlight Solutions Best for Video Illumination</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-become-a-science-whiz-with-these-prime-15-youtube-picks/"><u>[Updated] Become a Science Whiz with These Prime 15 YouTube Picks</u></a></li>
+<li><a href="https://win11.techidaily.com/batch-terminate-programs-in-windows-effortlessly/"><u>Batch Terminate Programs in Windows Effortlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-steps-to-rectify-hiberflattening-windows/"><u>Easy Steps to Rectify HiberFlattening Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/efficient-use-estimating-windows-app-size/"><u>Efficient Use: Estimating Windows App Size</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-0x8004def5-onedrive-hurdle-on-win11/"><u>Eradicating 0X8004DEF5 Onedrive Hurdle on Win11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elevate-your-visual-storytelling-mastering-pixizs-video-capabilities/"><u>In 2024, Elevate Your Visual Storytelling Mastering Pixiz's Video Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/master-subtitles-management-with-prime-and-windows-11/"><u>Master Subtitles Management with Prime and Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-screen-snafus-with-sonic-frontiers-securing-smooth-play-on-w11/"><u>Navigating Screen Snafus with Sonic Frontiers - Securing Smooth Play on W11</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-15-soundtracks-without-copyrights-for-montage-projects/"><u>New Top 15 Soundtracks Without Copyrights for Montage Projects</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/optimal-iso-tool-selection-for-pcs-and-macbooks-complimentary-download-options/"><u>Optimal ISO Tool Selection for PCs & MacBooks - Complimentary Download Options</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-rectify-slow-windows-app-connections-for-peak-performance/"><u>Swiftly Rectify Slow Windows App Connections for Peak Performance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-hubs-for-creative-exchange-in-the-ai-landscape/"><u>Top Hubs for Creative Exchange in the AI Landscape</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cable-vs-streaming-tivo-and-comcast-duke-it-out-for-dvr-supremacy/"><u>Updated In 2024, Cable vs Streaming TiVo and Comcast Duke It Out for DVR Supremacy</u></a></li>
 </ul></div>
 

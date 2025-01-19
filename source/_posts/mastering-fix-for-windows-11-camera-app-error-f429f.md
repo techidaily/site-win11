@@ -1,7 +1,7 @@
 ---
 title: Mastering Fix for Windows 11 Camera APP - Error F429F
-date: 2025-01-08T21:11:29.690Z
-updated: 2025-01-13T08:36:34.308Z
+date: 2025-01-13T01:01:54.145Z
+updated: 2025-01-18T22:05:36.746Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Enable Webcam Access for the Affected Apps
 
  You can’t use your PC’s webcam with Windows Camera if camera access for apps is disabled. So, check the basic camera access settings for apps are enabled in Windows before anything else. You can enable webcam app access within Windows 11' Settings like this:
@@ -40,14 +36,14 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 4. Turn on**Camera** **access** if that setting isn’t enabled.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Camera access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-access-option.jpg)
 5. Then toggle on the Windows Camera app access setting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Settings app’s layout is a little different in Windows 10, but you can still configure camera access much the same. Click**Privacy** \>**Camera** in Windows 10’s Settings app to reach the required options. Then click the**Change** button to turn on the**Camera** access for this device option.
@@ -62,20 +58,16 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Press the Windows Camera Frame Server service’s**Apply** button.
 8. Click**OK** to exit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Edit the Platform Registry Key
 
@@ -87,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 3. Right-click the**Platform** key and select**New** \>**DWORD (32-bit) Value** .  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enableframeservermode-dword.jpg)
 4. Then input**EnableFrameServerMode** in the DWORD’s name box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Double-click the**EnableFrameServerMode** DWORD.
 6. Set the**EnableFrameServerMode** value to**0** and click**OK** .  
@@ -106,7 +94,11 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Allow the Camera App Through Windows Defender Firewall
@@ -117,7 +109,15 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
@@ -165,24 +165,19 @@ thumbnail: https://thmb.techidaily.com/f4454436a06ba033a7b99f5b7a9f44fe470868599
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets-for-2024/"><u>[Updated] From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-where-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>[Updated] Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-revive-your-phone-top-tips-for-missing-iphone-x/"><u>2024 Approved Revive Your Phone Top Tips for Missing iPhone X</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-file-handling-w11s-autohandling-system-guide/"><u>Efficient File Handling: W11’s Autohandling System Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-ais-challenges-the-eight-core-problems-with-gpt/"><u>Exploring AI's Challenges: The Eight Core Problems with GPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/highly-rated-philips-somneo-the-ultimate-choice-in-advanced-alarm-clocks/"><u>Highly Rated Philips Somneo: The Ultimate Choice in Advanced Alarm Clocks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-professional-recordings-ensuring-flawless-gameplay-footage-of-roblox-on-macs/"><u>In 2024, Professional Recordings Ensuring Flawless Gameplay Footage of Roblox on Macs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-how-you-make-presentations-with-our-picks-of-the-top-7-artificial-intelligence-tools/"><u>Revolutionize How You Make Presentations with Our Picks of the Top 🌟7 Artificial Intelligence Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/seamless-productivity-microsofts-incorporation-of-ai-into-the-windows-11-taskbar/"><u>Seamless Productivity: Microsoft's Incorporation of AI Into the Windows 11 Taskbar</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ts-to-profitability-on-youtube-shorts-fundamentals-and-future-earnings-for-2024/"><u>Secrets to Profitability on YouTube Shorts Fundamentals & Future Earnings for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-win11-performance-the-ultimate-five-step-uptime-guide/"><u>Securing Win11 Performance: The Ultimate Five-Step Uptime Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/should-you-opt-for-the-constrained-scope-of-windows-11-s-mode/"><u>Should You Opt for the Constrained Scope of Windows 11 S Mode?</u></a></li>
-<li><a href="https://win-help.techidaily.com/solucion-integral-como-reconstruir-la-tabla-de-particiones-en-versiones-actuales-de-windows/"><u>Solución Integral: Cómo Reconstruir La Tabla De Particiones en Versiones Actuales De Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-banish-microsoft-edge-from-w11/"><u>Step-by-Step Guide: Banish Microsoft Edge From W11</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-and-configure-your-pc-audio-output-windows-11-mixer-guide/"><u>Streamline and Configure Your PC Audio Output: Windows 11 Mixer Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-audacitys-windows-audio-issue/"><u>Troubleshooting Audacity's Windows Audio Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-blocked-resources-on-windows-systems-149-chars/"><u>Unlocking Blocked Resources on Windows Systems (149 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-closed-captioning-issues-in-win-10/"><u>Unraveling Closed Captioning Issues in Win 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-inshots-ecosystem-a-detailed-editor-app-study/"><u>[New] InShot’s Ecosystem A Detailed Editor App Study</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-methods-to-store-mov-on-your-windows-pc/"><u>[New] Streamlined Methods to Store .mov on Your Windows PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-elevating-your-social-media-presence-with-igtv-videos-for-2024/"><u>[Updated] Elevating Your Social Media Presence with IGTV Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastery-over-instagrams-integration-with-music-emoji-features/"><u>2024 Approved Mastery Over Instagram's Integration with Music Emoji Features</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-frozen-discord-widgets-on-your-pcs-display/"><u>Enabling Frozen Discord Widgets on Your PC's Display</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/guide-complet-creation-dune-image-systeme-avec-sauvegarde-and-restauration-sous-windows-7-explicatif/"><u>Guide Complet : Création D'une Image Système Avec Sauvegarde & Restauration Sous Windows 7 Explicatif</u></a></li>
+<li><a href="https://win11.techidaily.com/guidelines-to-rectify-google-chrome-downloads-problem-on-windows-os/"><u>Guidelines to Rectify Google Chrome Downloads Problem on Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-enable-camera-and-microphone-in-application-guard-for-edge-in-windows-11/"><u>How to Enable Camera and Microphone in Application Guard for Edge in Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/lunar-endeavors-elevated-by-red-hat-the-role-of-tech-in-nasas-artemis-quest-zdnet-insight/"><u>Lunar Endeavors Elevated by Red Hat: The Role of Tech in NASA's Artemis Quest | ZDNET Insight</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-the-disappearing-msconfigs-gpeditmsc/"><u>Quick Fixes for the Disappearing Msconfig's Gpedit.msc</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-for-absence-of-startup-applications-window/"><u>Solutions for Absence of Startup Applications Window</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-take-when-powershell-wont-show-up-in-windows/"><u>Steps to Take When PowerShell Won't Show Up in Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-nokia-105-classic-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Nokia 105 Classic Phone Network-Ready</u></a></li>
 </ul></div>
 

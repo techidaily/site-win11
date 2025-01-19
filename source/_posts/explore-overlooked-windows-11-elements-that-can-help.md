@@ -1,7 +1,7 @@
 ---
 title: Explore Overlooked Windows 11 Elements That Can Help
-date: 2025-01-03T16:48:16.745Z
-updated: 2025-01-06T21:09:35.720Z
+date: 2025-01-17T18:00:02.659Z
+updated: 2025-01-18T19:12:25.774Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
  Here are a few features of Windows 11 we think you should know about and use more often:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Get Familiar With Snap Layouts
 
  This is one of the most effective ways to boost your productivity in Windows 11, and frankly, everyone should be using this neat feature. Microsoft introduced a new set of layout options to snap windows side-by-side or in a tiled format on your screen. This tool is so powerful and simple to use—it’s built into the OS—that it seems obvious Microsoft will expand on it in the next iteration of their desktop operating system.
 
 ![windows 11 snap layouts three windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/windows-11-snap-layouts-three-windows.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We’ve covered[how to use Snap Layouts in Windows 11](https://www.makeuseof.com/how-to-use-snap-layouts-in-windows-11/) in a separate article that also explains customizing them to best suit how you work.
 
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
  They are so easy to use and so terribly useful, that we suggest[getting started with Windows 11 widgets](https://www.makeuseof.com/windows-11-widgets-starter-tips/) right away. And there’s an easy fix if your[Windows 11 widgets are not working](https://www.makeuseof.com/windows-11-widgets-not-working/) —a frustrating situation indeed to find yourself in.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Get More Productive With Focus Sessions
@@ -67,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ![The Clipboard history tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/the-clipboard-history-tab.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Even though it may seem overwhelming, there’s nothing complicated about[using the improved clipboard manager in Windows 11](https://www.makeuseof.com/how-to-use-clipboard-manager-in-windows-11/) .
 
 ### 5\. Quicker Text Capture With Voice Typing
@@ -80,7 +76,7 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 [Microsoft’s voice typing tool on Windows](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/) can be powerful if used correctly, and it is not difficult to[set up voice access on Windows 11](https://www.makeuseof.com/windows-11-enable-voice-access/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use Taskbar Hotkeys for Fast Switching
@@ -89,17 +85,21 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 ![Taskbar keyboard shortcut numbers for pinned apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/keyboard-shortcut-numbers-1.jpg)
 
- You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can quickly switch to a specific window or application by using the Windows key in conjunction with a number key that corresponds to the position of the pinned item. Especially for lower numbers, this shaves off seconds when switching between windows and apps.
 
 ### 7\. Android / Linux Emulators
 
  This may not be a feature that everyone is comfortable with or even needs, which is why it languishes in last place. While it is an interesting add-on, you probably won’t be using it unless it is a work-related necessity.
 
  The process to[install Windows Subsystem for Android](https://www.makeuseof.com/windows-11-sideload-android-apps/) and[for Linux](https://www.makeuseof.com/windows-11-install-run-bash/) isn’t all that straightforward, so it might keep the everyday Windows 11 user away. But keep in mind that[running Android apps on Windows](https://www.makeuseof.com/windows-11-android-system-requirements/) will need a PC with top-notch specs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## It Would Be Best to Familiarize Yourself With These Windows 11 Features
 
@@ -120,24 +120,18 @@ thumbnail: https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-transforming-social-media-sounds-into-practical-mobile-alerts/"><u>[New] In 2024, Transforming Social Media Sounds Into Practical Mobile Alerts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-hidden-potential-a-deep-dive-into-background-eraser-in-ps/"><u>[New] In 2024, Unveiling Hidden Potential A Deep Dive Into Background Eraser in PS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-comedy-and-emotions-the-cutest-instagram-meme-groups/"><u>[Updated] In 2024, Comedy & Emotions The Cutest Instagram Meme Groups</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-meme-gurus-list-of-the-best-designs-10/"><u>[Updated] The Meme Guru's List of the Best Designs #10</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/a-deeper-dive-into-vsdc-plus-its-top-alternatives-for-2024/"><u>A Deeper Dive Into VSDC, Plus Its Top Alternatives for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/embracing-change-the-influence-of-copilot-key-on-windows-11-pcs/"><u>Embracing Change: The Influence of Copilot Key on Windows 11 PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-for-merging-onedrive-with-microsoft-id/"><u>Expert Tips for Merging OneDrive with Microsoft ID</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-and-correcting-windows-alt-defects-53-characters/"><u>Identifying and Correcting Windows Alt Defects (53 Characters)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-vivo-y100t-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Vivo Y100t Phone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-lens-legends-library-your-query-guide/"><u>In 2024, Lens Legends' Library Your Query Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/mac-enthusiasts-stellars-phoenix-tool-shines-brightly-against-jpeg-scars/"><u>Mac Enthusiasts, Stellar's Phoenix Tool Shines Brightly Against JPEG Scars</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-maze-of-uninstalling-windows-software-entries/"><u>Navigating the Maze of Uninstalling Windows Software Entries</u></a></li>
-<li><a href="https://win11.techidaily.com/protect-user-data-while-increasing-windows-drive-size/"><u>Protect User Data While Increasing Windows Drive Size</u></a></li>
-<li><a href="https://win11.techidaily.com/smooth-device-transition-windows-and-android-via-flow-seamlessly/"><u>Smooth Device Transition: Windows & Android via Flow Seamlessly</u></a></li>
-<li><a href="https://win11.techidaily.com/solve-your-windows-hello-a-quick-guide-to-fixing-errors/"><u>Solve Your Windows Hello: A Quick Guide to Fixing Errors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-no-internet-access-issue-top-10-windows-11-troubleshooting-steps-for-wi-fi-connectivity/"><u>Solving 'No Internet Access' Issue: Top 10 Windows 11 Troubleshooting Steps for Wi-Fi Connectivity</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-mute-explore-tabs-on-microsoft-os/"><u>Steps to Mute Explore Tabs on Microsoft OS</u></a></li>
-<li><a href="https://win11.techidaily.com/take-control-of-your-user-experience-mastering-8-bubbleui-techniques/"><u>Take Control of Your User Experience - Mastering 8 BubbleUI Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tep-by-step-setting-up-your-business-youtube-channel-on-mobile-for-2024/"><u>[New] Step-by-Step Setting Up Your Business YouTube Channel on Mobile for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-google-stadia-with-recommendations-for-progress/"><u>A Comprehensive Review of Google Stadia with Recommendations for Progress</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-down-windows-11-overcoming-5ghz-wi-fi-barriers/"><u>Breaking Down Windows 11: Overcoming 5GHz Wi-Fi Barriers</u></a></li>
+<li><a href="https://win11.techidaily.com/commanding-control-navigating-the-windows-print-hub/"><u>Commanding Control: Navigating the Windows Print Hub</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-f5-5g-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from F5 5G.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/epson-stylus-artisan-1430-driver-download-compatible-with-windows-11108/"><u>Epson Stylus Artisan 1430 Driver Download: Compatible with Windows 11/10/8</u></a></li>
+<li><a href="https://win11.techidaily.com/faster-booting-window-11s-boot-delay-adjustment-explained/"><u>Faster Booting: Window 11'S Boot Delay Adjustment Explained</u></a></li>
+<li><a href="https://win11.techidaily.com/master-windows-integration-with-steam-deck/"><u>Master Windows Integration with Steam Deck</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-app-size-metrics-in-windows/"><u>Navigating Through App Size Metrics in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/prime-windows-10-and-11-apps-temp-and-forecast-picks/"><u>Prime Windows 10 & 11 Apps: Temp & Forecast Picks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-unpacked-the-definitive-gadget-review-destination/"><u>Tom's Hardware Unpacked: The Definitive Gadget Review Destination</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unpacking-the-tiny-tech-giant-a-full-review-on-the-latest-echo-dot-gen-n-with-alexa-capabilities/"><u>Unpacking the Tiny Tech Giant: A Full Review on the Latest Echo Dot (Gen N) with Alexa Capabilities</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206386076-your-invisible-sd-no-more-anxiety/"><u>Your Invisible SD? No More Anxiety!</u></a></li>
 </ul></div>
 

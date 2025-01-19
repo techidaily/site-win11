@@ -1,7 +1,7 @@
 ---
 title: How to Sidestep Windows 11 Screensaver Quickly
-date: 2024-08-16T00:51:05.554Z
-updated: 2024-08-17T00:51:05.554Z
+date: 2025-01-13T18:47:11.063Z
+updated: 2025-01-18T19:14:52.017Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
 
  Call it a personal observation, but the lock screen adds an extra step to the login process. So, if you want to remove the lock screen and go directly to the logon screen in Windows 11, this post will offer many methods to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Consider Disabling Your Lock Screen?
 
  The Windows lock screen is the first barrier to getting to the desktop. It displays a background image, date and time, and app notifications. But if you don't want to see any of those things, then disabling it makes sense. After removing the lock screen, you can go straight to the desktop after entering your PIN/Password. You can also set up a lock screen-free computer for a public computer.
@@ -29,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/7893aa47861abae86c2201349f48204a58f66be5a
  Now, you are aware of the pros and cons of disabling the lock screen. Here are the four easy methods to disable the lock screen on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1\. Use the Group Policy Editor
 
  The Group Policy Editor is an essential Windows administration tool. You can adjust password requirements, startup programs, and other features. Note that GPE is only available for the Professional, Ultimate, and Enterprise Windows versions. You can refer to our complete[Group Policy Editor guide](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
@@ -42,9 +47,6 @@ Here's how to disable the lock screen using Group Policy:
 3. Then go to the left-hand side panel. Navigate to **Computer Configuration > Administrative Templates > Control Panel > Personalization** .
 4. Double-click on the**Do not display the lock screen** option in the Personalization options.  
 ![Group policy editor window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. A new window with detailed settings for the option will open. The**enabled** option will be active by default which means that the lock screen is active.
 6. Click on the**Disabled** Radio button to disable the lock screen on your system.  
 ![Disable lock screen settings in Group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Group-policy-editor-2.jpg)
@@ -68,9 +70,9 @@ Here's how to remove the lock screen through the registry:
 7. To bring back the lock screen, revert the**NoLockScreen** key value to**0** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Use Winaero Tweaker
 
  You can try the Winaero Tweaker app if you find registry tweaking cumbersome. It is a free app that allows you to customize Windows beyond the basic options. The app offers a GUI interface with detailed information about what each option does.
@@ -80,13 +82,19 @@ Follow these steps to remove the lock screen with this tool:
 1. Go to the[Winaero website](http://winaero.com/download-winaero-tweaker/) and download the app.**Install** the app and launch it.  
 ![Winaero tweaker home window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-1.jpg)
 2. Now, go to the**Boot and Logon** option on the left-hand side menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Find the**Disable Lock Screen** option under the**Boot and Logon** section. Click on the**Disable Lock Screen** checkbox.  
 ![Disable lock screen in Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Winaero-tweaker-2.jpg)
 4. Now,**Restart** your system to apply the changes. You will notice that the lock screen doesn't appear anymore.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Use Ultimate Windows Tweaker
 
  Like Winaero Tweaker, Ultimate Windows Tweaker is a Windows customization app with a GUI interface. You can disable Windows 11 lock screen with this app with just one click. However, make sure to create a system restore point to avoid breaking an operating system feature.
@@ -98,17 +106,11 @@ Follow these steps to remove the lock screen with this tool:
 3. Now, right-click on the**UltimateWindowsTweaker.exe** file, and select the**Run as administrator** option.
 4. Click on the**Search for Tweaks** option. Type**disable lock screen** and press the**Enter** key.  
 ![Ultimate Windows Tweaker Search tool running on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ultimate-windows-tweaker-search-tool.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on the search result and the corresponding setting will appear in the app. Close the search window.
 6. Click on the**Disable Lock Screen** checkbox. Then, click on the**Apply Tweaks** button and close the program.  
 ![Disabling Lock Screen in Ultimate Windows Tweaker on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-lock-screen-in-ultimate-windows-tweaker.jpg)
 7. Press**Win + L** to log off. The Windows logon screen will appear instead of the usual lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Disable the Lock Screen and Log In Faster
 
  Using the Group Policy Editor is a bit of a learning curve. Moreover, Windows Home users do not have access to it. So, you can try out the registry tweak to disable the lock screen on Windows 11\. But if you want a GUI tool that helps you customize Windows, then Winaero Tweaker and Ultimate Windows Tweaker are both useful free app alternatives.
@@ -119,8 +121,6 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,18 @@ Follow these steps to remove the lock screen with this tool:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/updated-timeless-stop-motion-films-a-celebratory-15-list/"><u>[Updated] Timeless Stop-Motion Films - A Celebratory 15 List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-the-art-of-youtube-teaser-videos/"><u>2024 Approved Mastering the Art of YouTube Teaser Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/affordable-beginners-guide-to-building-the-perfect-home-theatre/"><u>Affordable Beginner's Guide to Building the Perfect Home Theatre</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apple-intelligence-unveiled-why-investing-in-an-iphone-16-may-not-be-worth-it-insights/"><u>Apple Intelligence Unveiled: Why Investing in an iPhone 16 May Not Be Worth It - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-terminal-commands-for-effective-win-registry-editing/"><u>Leveraging Terminal Commands for Effective Win Registry Editing</u></a></li>
+<li><a href="https://win11.techidaily.com/personalizing-your-point-of-interest-pointer-in-windows/"><u>Personalizing Your Point-of-Interest Pointer in Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/simultaneous-zip-file-handling-a-windows-users-guide/"><u>Simultaneous ZIP File Handling: A Windows User's Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-deleting-programs-on-a-mac-computer/"><u>Step-by-Step Instructions for Deleting Programs on a Mac Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/stop-movable-windows-from-changing-in-taskmanager/"><u>Stop Movable Windows From Changing in TaskManager</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-giants-a-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants: A Guide to Facebook, Twitter, Instagram, & YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/zero-cost-strategies-for-altering-game-characters-vocal-presence-in-free-fire-for-2024/"><u>Zero-Cost Strategies for Altering Game Characters' Vocal Presence in Free Fire for 2024</u></a></li>
+</ul></div>
 

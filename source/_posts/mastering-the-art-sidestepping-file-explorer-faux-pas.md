@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art: Sidestepping File Explorer Faux Pas"
-date: 2025-01-05T19:56:57.419Z
-updated: 2025-01-13T06:21:53.639Z
+date: 2025-01-12T21:22:39.074Z
+updated: 2025-01-18T23:14:48.324Z
 tags:
   - windows10
   - windows11
@@ -25,13 +25,13 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disregarding the Power of Tabs in File Explorer
 
 ![Windows 11 File Explorer with so many tabs open and scroll arrow buttons showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-explorer-title-bar-scroll-buttons.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're running Windows 11, version 22H2 with Moment 3 update, you can open multiple tabs in File Explorer, just like in a web browser. When you don't use the feature, you have multiple folders that are opened in multiple windows, making switching between folders inconvenient.
 
@@ -53,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 * Press **Alt** \+ **P** to display the preview pane.
 * Press **Alt** \+ **Enter** to open the properties of the selected file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Avoiding Recent and Favorites Sections
 
 ![Screenshot showing File Explorer Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/file-explorer-home.jpg)
@@ -70,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 ![Search files using syntax commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/search-files-using-syntax-commands.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you type something in the File Explorer search box, it will show you a complete list of files containing what you typed. Many of us spend more time finding the one on that long list.
@@ -80,12 +84,16 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
  If you type "name:" followed by the file's name, it will only display the exact file you typed. You can also use "kind," "size," and "date." as syntax, too. For example, typing "size: 84 KB" in the File Explorer search box will display only a list of files that are of that size.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Relying on Both Keyboard and Mouse To Select Multiple Files
 
 ![man using keyboard and mouse on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keyboard-and-mouse-on-desk.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
@@ -95,17 +103,9 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
  You can check out how to [enable checkboxes in File Explorer](https://www.makeuseof.com/how-to-enable-checkboxes-select-files-windows-11/) to select multiple items more easily. This is the easiest way to select multiple files using your mouse or trackpad.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Not Knowing How To Name a File or Folder in File Explorer
 
 ![rename atig6pxx dll file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-atig6pxx-dll-file.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One of the reasons you're facing challenges in finding files or folders could be that you aren't naming them properly. And if you have many of them, it can get messy.
 
@@ -139,18 +139,18 @@ Image Credit: Orin Ryan/[Flickr](https://flic.kr/p/Ly9qKi)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-assessing-the-real-benefits-of-paying-for-youtube-premium/"><u>[Updated] 2024 Approved Assessing the Real Benefits of Paying for YouTube Premium</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>[Updated] 2024 Approved Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-strategies-for-constructing-mcc-homes/"><u>[Updated] Prime Strategies for Constructing MCC Homes</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-an-overheating-windows-11-computer/"><u>How to Fix an Overheating Windows 11 Computer</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-adding-background-melodies-to-vimeo-filmography/"><u>In 2024, Adding Background Melodies to Vimeo Filmography</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-enhancing-engagement-creating-top-tier-fb-ad-videos/"><u>In 2024, Enhancing Engagement Creating Top-Tier FB Ad Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>In 2024, Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/master-guide-setting-up-outlook-preview-app/"><u>Master Guide: Setting Up Outlook Preview App</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-windows-host-for-better-performance/"><u>Optimizing Windows Host for Better Performance</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-audio-flaw-in-win11-error-0xc00d36b4/"><u>Overcoming Audio Flaw in Win11 - Error 0XC00D36B4</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-frozen-wow-updates-on-windows-xp/"><u>Resolving Frozen WoW Updates on Windows XP</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-oneplus-by-drfone-android/"><u>Universal Unlock Pattern for OnePlus</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-with-tomtom-actioncam-new-year/"><u>[Updated] 2024 Approved Exploring with TomTom ActionCam New Year</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-echo-chamber-best-online-spots-for-free-skype-music-for-2024/"><u>[Updated] Echo Chamber Best Online Spots for Free Skype Music for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-no-cost-substitutes-for-openain-sora-top-6-picks-revealed/"><u>Explore the Best No-Cost Substitutes for OpenAI'n Sora: Top 6 Picks Revealed!</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-no-network-windows-notification/"><u>Fixes for 'No Network' Windows Notification</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-x-flip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Vivo X Flip Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sounds-in-apex-legends-heres-how-you-can-resolve-it/"><u>No Sounds in Apex Legends? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-the-blank-cursor-dilemma-in-win11-quickly/"><u>Overcome the Blank Cursor Dilemma in Win11, Quickly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/path-of-exile-instance-connection-troubleshooting-tips-and-fixes-edition/"><u>Path of Exile Instance Connection Troubleshooting Tips and Fixes: Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secrets-to-capturing-and-reloading-previous-chatgpt-exchanges-whenever-you-need-them/"><u>Secrets to Capturing and Reloading Previous ChatGPT Exchanges Whenever You Need Them</u></a></li>
+<li><a href="https://win11.techidaily.com/steering-device-activation-through-pc-sleep-states/"><u>Steering Device Activation Through PC Sleep States</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-overcome-unrecognized-interface-in-windows-os/"><u>Swiftly Overcome Unrecognized Interface in Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/unregistered-package-solutions-for-windows-photos-errors/"><u>Unregistered Package Solutions for Windows Photos Errors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-poco-c65-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Poco C65 Phone Network-Ready</u></a></li>
 </ul></div>
 

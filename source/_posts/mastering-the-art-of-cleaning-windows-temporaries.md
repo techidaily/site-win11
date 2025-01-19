@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Windows' Temporaries
-date: 2025-01-12T10:08:11.288Z
-updated: 2025-01-13T02:37:08.892Z
+date: 2025-01-12T23:29:54.206Z
+updated: 2025-01-19T01:03:47.588Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/8eb93e1b1b19fd0df7a5c4a69b010fd291b98c2d5
 
  Wait for a few moments until the Disk Cleanup tool clears all the temporary files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Use Command Prompt
 
  If the Disk Cleanup utility fails to delete some or all of the temporary files on Windows, you can try using the Command Prompt instead. Don’t worry, the process isn’t as complex as it might sound.
@@ -55,14 +59,10 @@ del /q /f /s %temp%\* && del /s /q C:\Windows\temp\*
 ![Delete Temp Files Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/delete-temp-files-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the above command to run and delete the temporary files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Empty the SoftwareDistribution Folder
 
@@ -83,7 +83,7 @@ C:\Windows\SoftwareDistribution\Download
  If you run into issues while emptying the SoftwareDistribution folder, you can [force delete files in Windows](https://www.makeuseof.com/windows-11-delete-stubborn-files/) using Command Prompt or a third-party tool.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Edit Registry Files
@@ -101,11 +101,11 @@ C:\Windows\SoftwareDistribution\Download
 7. Click **OK**.  
 ![Edit DWORD in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/edit-dword-in-registry.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your PC after this and try to delete temporary files once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Boot Into Safe Mode
 
@@ -114,7 +114,7 @@ C:\Windows\SoftwareDistribution\Download
  Use one of the many ways to [boot into safe mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) and try to delete temporary files one more time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Get Rid of Temporary Files on Windows
@@ -135,24 +135,18 @@ C:\Windows\SoftwareDistribution\Download
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-devices-needed-for-documenting-trips/"><u>[New] 2024 Approved Devices Needed for Documenting Trips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-high-revenue-video-visionaries/"><u>[New] In 2024, High-Revenue Video Visionaries</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-exploring-platform-variations-youtube-vs-dailymention/"><u>[Updated] 2024 Approved Exploring Platform Variations YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[Updated] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-edge-tips-for-enhanced-dns-configuration-in-windows-11/"><u>Cutting-Edge Tips for Enhanced DNS Configuration in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-nokia-xr21-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Nokia XR21 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-install-voice-assistant-powered-chatgpt-on-your-android-device-with-voicegpt-app/"><u>How to Install Voice Assistant Powered ChatGPT on Your Android Device with VoiceGPT App</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-program-resizing-techniques-via-pc-keys-on-windows-11/"><u>Mastering Program Resizing Techniques via PC Keys on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-file-management-tools-enhancements/"><u>Mastering Windows File Management Tools Enhancements</u></a></li>
-<li><a href="https://win11.techidaily.com/method-for-ceasing-copilot-functionality/"><u>Method for Ceasing Copilot Functionality</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-to-find-wordpad/"><u>Navigating Through Windows to Find WordPad</u></a></li>
-<li><a href="https://win11.techidaily.com/revolutionize-windows-experience-overcome-incompatibilities-now/"><u>Revolutionize Windows Experience: Overcome Incompatibilities Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/rising-sea-levels-are-not-just-coastal-concerns/"><u>Rising Sea Levels Are Not Just Coastal Concerns</u></a></li>
-<li><a href="https://win11.techidaily.com/setting-up-chrome-on-windows-11-with-ease/"><u>Setting Up Chrome on Windows 11 with Ease</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-reversing-roblox-software-failures/"><u>Techniques for Reversing Roblox Software Failures</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/ultimate-tutorial-mastering-optical-media-burning-using-yls-windows-tools/"><u>Ultimate Tutorial: Mastering Optical Media Burning Using YL's Windows Tools</u></a></li>
-<li><a href="https://win11.techidaily.com/unleash-your-full-potential-the-ultimate-windows-productivity-pack/"><u>Unleash Your Full Potential: The Ultimate Windows Productivity Pack</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-smirk-spawners-identifying-premium-meme-tools-for-2024/"><u>[New] Smirk Spawners Identifying Premium Meme Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-whats-the-real-cost-of-youtube-paid-engagement/"><u>[New] What's the Real Cost of Youtube Paid Engagement?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-8-free-and-online-facebook-link-downloaders-for-2024/"><u>[Updated] 8 Free And Online Facebook Link Downloaders for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/accelerate-your-system-top-ranked-applications-for-speeding-up-computers/"><u>Accelerate Your System: Top-Ranked Applications for Speeding Up Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-robot-generated-passwords-for-win-11-access/"><u>Bypassing Robot-Generated Passwords for Win 11 Access</u></a></li>
+<li><a href="https://win11.techidaily.com/circumnavigating-the-challenges-of-itunes-on-windows-pcs/"><u>Circumnavigating the Challenges of iTunes On Windows PCs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/cortanas-farewell-windows-future-awaits/"><u>Cortana's Farewell, Windows' Future Awaits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-tech-marvel-of-lg-ud88-w-monitors/"><u>In 2024, Exploring the Tech Marvel of LG UD88-W Monitors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/mastering-media-craft-debate-between-filmora-and-democracy-creator-for-2024/"><u>Mastering Media Craft Debate Between Filmora & Democracy Creator for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/maximize-android-studio-efficiency-on-windows-dev-environment/"><u>Maximize Android Studio Efficiency on Windows Dev Environment</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-windows-1110-onedrive-errors/"><u>Troubleshooting Windows 11/10 OneDrive Errors</u></a></li>
 </ul></div>
 

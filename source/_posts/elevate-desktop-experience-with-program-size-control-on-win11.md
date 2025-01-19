@@ -1,7 +1,7 @@
 ---
 title: Elevate Desktop Experience with Program Size Control on Win11
-date: 2025-01-09T17:53:30.165Z
-updated: 2025-01-12T17:37:48.098Z
+date: 2025-01-12T18:59:28.345Z
+updated: 2025-01-18T23:21:00.161Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,15 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 2. Select the software in the**Currently open windows** box and click the**AutoSize** button to bring up the window shown directly below.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Action to perform drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/autosize-window.jpg)
 3. Then select the**Resize** /**Position** option on the**Action to perform** drop-down menu.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click the**Set size** checkbox.
 5. Input the window width and height values in the two text boxes. The left box sets the width and the right one is for height.
@@ -58,13 +62,13 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 
 ![General options for AutoSizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/general-autosize-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
  And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Set Custom Sizes for Software With WinSize2
 
@@ -81,10 +85,6 @@ thumbnail: https://thmb.techidaily.com/c76014f183cb941dddc5e361ad7d0edd6dead041e
 5. ![The Extract all button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-extract-all-option3.jpg)
 6. Make sure**Show extracted files** is selected within the extraction utility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Click**Extract** to bring up the WinSize2\_2.38.04 folder.
 
 Now it's time to use WinSize2 to size our windows:
@@ -92,10 +92,6 @@ Now it's time to use WinSize2 to size our windows:
 1. Double-click the**WinSize2.exe** file to launch WinSize2.  
 ![The WinSize2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/winsize2-window.jpg)
 2. Then open the software window for which to set the size.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Make sure the software window you’ve opened is the selected (active) window.
 4. Resize the window to a size you want to save.
@@ -105,6 +101,10 @@ Now it's time to use WinSize2 to size our windows:
  The**always** checkbox for width and height will be selected by default, which locks the window's size so you can’t resize it with the cursor. If you prefer that option to be disabled, deselect the**always** box. Press the**Change** button, and click**OK** to apply.
 
 ![The Complete Title of the Window drop-down menu in WinSize2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-wintitle-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The window you set the preset size for will always open with its saved dimensions, so long as WinSize2 is running. Try it out by opening the software, resizing its window, and closing the program. The software’s window will still open at the size set when you launch it again.
 
@@ -119,7 +119,7 @@ Now it's time to use WinSize2 to size our windows:
 ![The define a new Hotkey box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-define-a-hotkey-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Open Your Software at Your Preferred Window Sizes
@@ -141,16 +141,22 @@ Now it's time to use WinSize2 to size our windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tapping-into-igtvs-potential-a-hashtag-guide-to-growth/"><u>[New] 2024 Approved Tapping Into IGTV's Potential A Hashtag Guide to Growth</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-asus-unleashed-the-mg28uq-review-of-high-definition-vision/"><u>2024 Approved ASUS Unleashed - The MG28UQ Review of High-Definition Vision</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-toolwiz-app-reviewed-the-ultimate-photo-editor/"><u>2024 Approved Toolwiz App Reviewed The Ultimate Photo Editor?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1728481238063-usb4/"><u>最適な自動バックアップUSBドライブトップ4品種：データ保護に不可欠！</u></a></li>
-<li><a href="https://win11.techidaily.com/eliminating-game-crashes-wow-issue-132-fix-guide/"><u>Eliminating Game Crashes: WOW Issue #132 Fix Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pushing-boundaries-in-media-text-curve-concepts/"><u>Pushing Boundaries in Media Text Curve Concepts</u></a></li>
-<li><a href="https://win11.techidaily.com/shatter-wired-network-cap-of-100mbps-on-windows-systems/"><u>Shatter Wired Network Cap of 100Mbps on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-wintools-guide-for-windows-performance-gains/"><u>The Ultimate WinTools Guide for Windows Performance Gains</u></a></li>
-<li><a href="https://win-unique.techidaily.com/unable-to-locate-webpage-error-code-404-displayed/"><u>Unable to Locate Webpage: Error Code 404 Displayed</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-gpu-potential-maximizing-system-vram-on-win1011/"><u>Unlocking GPU Potential: Maximizing System VRAM on Win10/11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-cutting-edge-method-quick-erasure-of-youtube-comments/"><u>[New] Cutting-Edge Method Quick Erasure of Youtube Comments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-video-editing-mastery-leveraging-youtube-then-expanding-beyond/"><u>[New] In 2024, Video Editing Mastery Leveraging YouTube, Then Expanding Beyond</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hidden-methods-for-dodging-digital-study-vids/"><u>[Updated] Hidden Methods for Dodging Digital Study Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-identifying-optimal-frame-rate-in-slow-motion-film-production-for-2024/"><u>[Updated] Identifying Optimal Frame Rate in Slow Motion Film Production for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-the-secrets-of-professional-gopro-video-filming/"><u>2024 Approved Unveiling the Secrets of Professional GoPro Video Filming</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-role-of-windows-aggregatehostexe-in-systems/"><u>Decoding the Role of Windows AggregateHost.exe in Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-official-brother-hl-2280dw-driver-setup-for-your-windows-pc-windows-11-10-8-and-7/"><u>Get the Official Brother HL-2280DW Driver Setup for Your Windows PC (Windows 11, 10, 8 & 7)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-premier-general-knowledge-trivia-hubs/"><u>In 2024, Premier General Knowledge Trivia Hubs</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/master-the-art-of-audio-format-shifting-a-step-by-step-guide-on-switching-from-soundcloud-to-mp4/"><u>Master the Art of Audio Format Shifting: A Step-by-Step Guide on Switching From SoundCloud to MP4</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fix-for-windows-11-camera-app-error-f429f/"><u>Mastering Fix for Windows 11 Camera APP - Error F429F</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-barriers-caused-by-error-30005-on-file-creation/"><u>Overcoming Barriers Caused by Error 30005 on File Creation</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-voice-transcription-tips-from-whisper-desktop/"><u>Quick Voice Transcription Tips From Whisper Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaim-your-keyboard-resolve-windows-snipping-command-issue/"><u>Reclaim Your Keyboard: Resolve Windows Snipping Command Issue</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-invisible-controls-in-your-windows-11-system-panel/"><u>Revive Invisible Controls in Your Windows 11 System Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-avoid-no-more-space-error/"><u>Strategies To Avoid 'No More Space' Error</u></a></li>
+<li><a href="https://win11.techidaily.com/surging-vm-speed-on-windows-implement-these-top-6-strategies/"><u>Surging VM Speed on Windows: Implement These Top 6 Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
 </ul></div>
 

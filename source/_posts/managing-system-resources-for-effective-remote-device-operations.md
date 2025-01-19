@@ -1,7 +1,7 @@
 ---
 title: Managing System Resources for Effective Remote Device Operations
-date: 2025-01-02T17:20:49.548Z
-updated: 2025-01-06T18:07:02.785Z
+date: 2025-01-14T22:31:14.942Z
+updated: 2025-01-18T18:04:06.508Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Disable Connected Devices Platform User Service
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
  Now, check Task Manager to see if the service is still consuming too much RAM.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Remove the ActivitiesCache.db file
 
  Some users have reported that deleting the ActivitiesCache.db file on their computer has helped solve the problem. To delete it, start by disabling the Connected Devices Platform User Service, as discussed above. Then, press **Win + R** to open Windows Run, copy and paste **%localappdata%\\ConnectedDevicesPlatform\\** in the text, and then hit the **Enter** key.
@@ -58,14 +54,10 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 ![the-activitiescab-file-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-activitiescab-file-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Check for Issues With Your Computer's Hardware
 
@@ -73,18 +65,26 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 ![devmgmt.msc in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/devmgmt-msc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Device Manager, double-click the device you suspect is causing issues. This will open its properties window.
 
  In the **General** tab of the Properties window, make sure it says **This device is working properly** under **Device status**.
 
 ![the-properties-window-of-a-device-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-properties-window-of-a-device-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
@@ -103,22 +103,16 @@ thumbnail: https://thmb.techidaily.com/c856d755f3f7d2c0f103fd6d2cd384857bef4cae5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-auroras-hdv-does-it-elevate-your-home-cinema/"><u>[New] 2024 Approved Aurora's HDV Does It Elevate Your Home Cinema?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-leveraging-obs-for-top-notch-social-media-streaming/"><u>[Updated] Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free-for-2024/"><u>[Updated] Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-definition-excellence-selecting-the-top-youtube-converters/"><u>2024 Approved High Definition Excellence Selecting the Top YouTube Converters</u></a></li>
-<li><a href="https://win11.techidaily.com/digital-doodles-your-desktop-art-journey-in-windows-11/"><u>Digital Doodles: Your Desktop Art Journey in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/dxgidll-missing-solve-it-with-these-win11-fixes/"><u>Dxgi.dll Missing? Solve It with These Win11 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-gateway-to-managing-printers-in-windows/"><u>Exploring the Gateway to Managing Printers in Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-customize-win11-connection-protocols/"><u>How to Customize Win11 Connection Protocols</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y28-5g-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y28 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/introducing-the-revolutionary-apple-airpods-pro-now-with-enhanced-tracking-and-usb-c-charging-features-detailed-review/"><u>Introducing the Revolutionary Apple AirPods Pro: Now with Enhanced Tracking & USB-C Charging Features - Detailed Review</u></a></li>
-<li><a href="https://win11.techidaily.com/minimizing-wmi-service-resource-consumption/"><u>Minimizing WMI Service Resource Consumption</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211385531-9798368815183-moon-man-3/"><u>Moon Man #3 | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-failed-system-call-in-windows-devices/"><u>Resolving 'Failed System Call' In Windows Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-issue-of-dark-pixels-on-windows-steam/"><u>Tackling the Issue of Dark Pixels on Windows Steam</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-list-of-windows-best-webp-image-viewers/"><u>The Ultimate List of Windows' Best WebP Image Viewers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-by-drfone-android/"><u>Three Ways to Sim Unlock Honor</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/ultimate-list-of-iphone-text-backup-apps-learn-how-stellar-leads-the-way/"><u>Ultimate List of iPhone Text Backup Apps – Learn How Stellar Leads the Way!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[Updated] In 2024, Chill Music Playlist 20 Relaxing Country Melodies (TikTok Version)</u></a></li>
+<li><a href="https://win11.techidaily.com/ace-file-moves-with-advanced-auto-transfer-techniques-on-win-11/"><u>Ace File Moves with Advanced Auto-Transfer Techniques on Win 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/boost-productivity-and-comfort-with-ergodriven-topo-a-detailed-insight-into-the-anti-fatigue-standing-desk-accessory/"><u>Boost Productivity and Comfort with Ergodriven Topo - A Detailed Insight Into the Anti-Fatigue Standing Desk Accessory</u></a></li>
+<li><a href="https://win11.techidaily.com/chronology-clash-wintime-harmony-guide/"><u>Chronology Clash? WinTime Harmony Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-windows-update-failure-0x8024800c/"><u>Correcting Windows Update Failure: 0X8024800C</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/discrepancies-in-video-repair-effectiveness/"><u>Discrepancies in Video Repair Effectiveness.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-with-ease-selecting-the-top-5-iphone-gps-navigation-tools/"><u>Explore with Ease: Selecting the Top 5 iPhone GPS Navigation Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-clear-past-security-checks-on-your-wins-system/"><u>How to Clear Past Security Checks on Your Wins System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-exploring-essential-gif-sources-for-latest-iphones/"><u>In 2024, Exploring Essential GIF Sources for Latest iPhones</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-vivo-y77t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Vivo Y77t? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-email-apps-0x800713f-issue-on-win11/"><u>Navigating Through Email App's 0X800713F Issue on Win11</u></a></li>
 </ul></div>
 

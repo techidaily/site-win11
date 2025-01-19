@@ -1,7 +1,7 @@
 ---
 title: Windows Glitches? End Self-Scrolling Panels Here
-date: 2024-08-16T00:50:04.442Z
-updated: 2024-08-17T00:50:04.442Z
+date: 2025-01-12T20:33:58.112Z
+updated: 2025-01-18T20:33:27.111Z
 tags:
   - windows10
   - windows11
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
  So, how do you fix WIndows when it scrolls by itself? Let's explore the solutions you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes Windows to Scroll By Itself?
 
 ![Person using a mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/person-using-a-mouse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're experiencing automatic scrolling on your Windows PC, these might be the reasons:
 
@@ -35,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 
  Now that you know the reasons behind this issue, let's discuss how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Fix Automatic Scrolling on Windows
 
  Let's apply the above solutions to fix this strange auto scroll issue.
@@ -61,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/b855ebe51b5189358ef7af65d06591503136d0471
 If the above basic checks don't help, apply the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Check for Hardware Issues
 
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
@@ -78,15 +84,6 @@ If the above basic checks don't help, apply the remaining fixes.
 
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### 3\. Check for Touchpad Issues
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
@@ -95,9 +92,6 @@ If the above basic checks don't help, apply the remaining fixes.
 
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Remove or Uninstall Ghost Devices
 
  Ghost devices are devices that Windows OS detects as connected even after you have disconnected them. Detection of these extra devices by your Windows operating system can also cause auto-scroll, so you'll need to remove them. Follow these steps to do that:
@@ -106,11 +100,13 @@ If the above basic checks don't help, apply the remaining fixes.
 2. Go to the**View** tab and click**Show hidden devices** . If you see a checkmark next to this option, hidden devices are already visible. So, there is no need to click on this option since doing so will disable it again.  
 ![Clicking on the Show Hidden Devices Option in the View Tab of Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-clicking-on-the-show-hidden-devices-option-in-the-view-tab-of-device-manager.jpg)
 3. Expand the**Mice and other pointing devices** category.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
 
@@ -126,30 +122,30 @@ If the above basic checks don't help, apply the remaining fixes.
 5. Ensure the**Multiple lines at a time** option is selected in the**Roll the mouse wheel to scroll** dropdown menu.
 6. Make sure the**Lines to scroll at a time** slider isn't set too high.  
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 7. After that, click on the**Additional mouse settings** link.  
-![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
-8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
-![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
+8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
+
 ## Auto-Scrolling on Windows, Fixed
 
  When Windows starts to scroll down its display automatically, it gets challenging to click on a single item accurately. We hope the fixes covered in the article fix the auto-scrolling issue on Windows and keep your display stable. Thus, you'll be able to restore your device to its normal state.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +154,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-balancing-dimensions-the-ultimate-guide-to-social-media-video-sizes-on-fb-for-2024/"><u>[Updated] Balancing Dimensions The Ultimate Guide to Social Media Video Sizes on FB for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-10-memetic-artistry-codes-for-2024/"><u>[Updated] Top 10 Memetic Artistry Codes for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-androids-lightroom-app-decoded-a-complete-analysis/"><u>2024 Approved Android's Lightroom App Decoded A Complete Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-iphone-tricks-adjusting-picture-size-efficiently/"><u>2024 Approved IPhone Tricks Adjusting Picture Size Efficiently</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/control-data-cost-monitoring-on-your-wi-fi-network-with-win11/"><u>Control Data Cost Monitoring on Your Wi-Fi Network with Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/geforce-scan-woes-on-windows-try-these-fixes-now/"><u>GeForce Scan Woes on Windows? Try These Fixes Now</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-iphone-14-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On iPhone 14 Pro How to Bypass?</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-lost-configuration-in-nvidias-windows-software/"><u>Restoring Lost Configuration in NVIDIA's Windows Software</u></a></li>
+<li><a href="https://win11.techidaily.com/show-and-tell-accessible-features-in-win11/"><u>Show and Tell: Accessible Features in Win11</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uninterrupted-streaming-now-post-win10s-revamp/"><u>Uninterrupted Streaming Now, Post Win10's Revamp</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-unveiling-magix-samplitudes-capabilities-are-they-superseding-competitors/"><u>Updated 2024 Approved Unveiling MAGIX Samplitudes Capabilities Are They Superseding Competitors?</u></a></li>
+</ul></div>
 

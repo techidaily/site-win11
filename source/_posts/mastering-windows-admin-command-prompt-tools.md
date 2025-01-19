@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Admin: Command Prompt Tools"
-date: 2025-01-02T18:45:06.514Z
-updated: 2025-01-06T20:41:00.222Z
+date: 2025-01-15T16:28:16.750Z
+updated: 2025-01-19T01:51:29.360Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. List All User Accounts
@@ -57,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Once you run the command, you'll be able to see, the user's full name, when their password expires, when they last logged in, whether they're an administrator, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Add and Delete a User Account
 
  To add a new user in Command Prompt, you need to use the **net user** command followed by the name of the new account, the desired password you wish to set, and the **/add** switch (this tells **net user** that you're adding a user). Here's the basic syntax of the command:
@@ -77,12 +73,16 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
  Now net user will remove the account from the computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enable and Disable a User Account
 
 ![deactivating an account with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/deactivating-an-account-with-net-user.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there's a user you wish to temporarily restrict so they can't access their account, you can simply disable it instead of deleting it. Here's the basic syntax of that action, making sure to use the **/active:no** switch at the end of the command to tell **net user** you're disabling it:
@@ -155,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 ![setting an account policy with net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/09/setting-account-policy-with-net-user.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need a particular user to change the password during their next login, you can use the **net user** command along with the **/passwordchg:yes** parameter (by default, the parameter is **/passwordchg:no**). Here's the basic syntax:
 
 `net user Username /passwordchg:yes`
@@ -166,7 +170,7 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
  So, the next time Jack logs into the computer, he will get a prompt asking him to change his password before he can access his user account.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 11\. Set a Home Directory for Users
@@ -180,10 +184,6 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 `net user Jack Pa$w0rd /add /homedir:D:\Other Users\Jack`
 
  The above command will place the home directory of **Jack**, as it creates the account, in the **D:\\Other Users\\Jack** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Take Control of Your Computer's Users Accounts With the Net User Command
 
@@ -203,24 +203,17 @@ thumbnail: https://thmb.techidaily.com/b11b88dbc857a31124bdb8c315da86bb5d3837eab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/asy-effective-strategy-immediate-clearance-of-unwanted-youtube-comments-for-2024/"><u>[New] Easy, Effective Strategy Immediate Clearance of Unwanted YouTube Comments for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nnovate-on-screen-imagery-with-youtubes-green-screens-edge/"><u>[New] Innovate On-Screen Imagery with YouTube’s Green Screens Edge</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-beyond-reality-the-top-10-sci-fi-movies-with-metaverse-travels-for-2024/"><u>[Updated] Beyond Reality The Top 10 Sci-Fi Movies with Metaverse Travels for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-vlc-use-manual-for-mac-users/"><u>[Updated] Comprehensive VLC Use Manual for Mac Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quality-control-vll-approach-to-apps/"><u>[Updated] Quality Control VLL Approach to Apps</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/capturing-moments-with-full-screen-movies-on-iphones/"><u>Capturing Moments with Full-Screen Movies on iPhones</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722842383478-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-ux-with-windows-11s-advanced-widget-system/"><u>Enhance UX with Windows 11'S Advanced Widget System</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-proplus-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi Note 13 Pro+ 5G Without PUK Codes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-how-to-manage-youtube-video-comments-for-enhanced-privacy/"><u>In 2024, How to Manage YouTube Video Comments for Enhanced Privacy</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-youtube-regulations-on-personal-recordings/"><u>In 2024, YouTube Regulations on Personal Recordings</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-access-to-windows-11-without-lock-screen/"><u>Instant Access to Windows 11 without Lock Screen</u></a></li>
-<li><a href="https://win11.techidaily.com/making-sense-of-device-interconnectivity-with-nearby/"><u>Making Sense of Device Interconnectivity with Nearby</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-web-interface-of-windows-11/"><u>Mastering the Web Interface of Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-new-horizons-in-pc-operating-systems-homes-vs-pro-win11/"><u>Navigating New Horizons in PC Operating Systems: Homes Vs. Pro Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-access-denied-to-windows-registry-editor/"><u>Overcoming Access Denied to Windows Registry Editor</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-non-active-system-temp-directive/"><u>Reinstating Non-Active System Temp Directive</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-dxgierrordeviceremoved-in-win-oses/"><u>Tackling DXGI_ERROR_DEVICE_REMOVED in Win OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/transform-your-files-in-windows-quickly-and-correctly/"><u>Transform Your Files in Windows Quickly & Correctly</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-downloading-igtv-made-simple-iphone-and-android-users-bible-for-2024/"><u>[New] Downloading IGTV Made Simple IPhone & Android Users' Bible for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-great-debate-continues-is-bandicam-or-camtasia-better/"><u>[New] The Great Debate Continues Is Bandicam or Camtasia Better?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential/"><u>[Updated] 2024 Approved Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-discover-5-premier-apps-for-effortless-download-of-videos-and-sounds-from-fb/"><u>[Updated] In 2024, Discover 5 Premier Apps for Effortless Download of Videos and Sounds From FB</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tune-monitor-settings-in-latest-os-version/"><u>Fine-Tune Monitor Settings in Latest OS Version</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-z-flip-5-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy Z Flip 5 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-quick-windows-11-logins-restoration/"><u>Mastering Quick Windows 11 Logins Restoration</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimizing-windows-grope-to-combat-excessive-resource-use-by-microsoft-compatibility-telemetry/"><u>Optimizing Windows Grope to Combat Excessive Resource Use by Microsoft Compatibility Telemetry</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-of-linking-a-printer-to-your-windows-10-pc/"><u>The Complete Walkthrough of Linking a Printer to Your Window's 10 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-enhance-vintage-cursor-colors/"><u>Tips to Enhance Vintage Cursor Colors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/win11s-aural-ascension-convex-audio-driver-update-required/"><u>Win11's Aural Ascension - Convex Audio Driver Update Required</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Speedy Multilingual Navigation on Windows 10/11 with Keys
-date: 2025-01-10T05:02:22.371Z
-updated: 2025-01-13T07:21:23.918Z
+date: 2025-01-12T01:21:02.703Z
+updated: 2025-01-18T21:21:58.056Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Translate Text in Windows Software With QTranslate
@@ -41,6 +41,11 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
 7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
@@ -52,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  To view your translation history, press the**Ctrl** +**H** hotkey. That keyboard shortcut opens a window that displays a list of text passages you’ve translated in QTranslate. There you can select to save translations or clear the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Customise QTranslate
 
  You can reconfigure QTranslate’s hotkeys via its**Options** window. Right-click the**QTranslate** system tray icon and select**Options** . Select the**Hotkeys** tab on the setting window. Then double-click an action there to bring up a keyboard shortcut window for it. Press a different key combination, and click the**OK** \>**Apply** buttons.
@@ -59,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 ![The Hotkey tab in QTranslate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-hotkey-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you want the software to start with Windows, click the**Basics** tab. Selecting the**Start with Windows** checkbox will add QTranslate to the startup apps. You can also change the software’s first, second, and interface languages from that tab.
@@ -67,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
  QTranslate also incorporates some**Appearance** settings with which you can customize its user interface. Click the**Theme** drop-down menu there to choose a different window style. You can customize the software’s colors by clicking the**Text** and**Frame Color** options.
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
@@ -85,27 +98,15 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
  There you can select different languages to translate by clicking the drop-down menu on the right side of the DeepL window. You can also look up translations for specific words. Select a word with the cursor and click**Dictionary entries** at the bottom of the window to look it up.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Translate Files With DeepL
 
  DeepL also enables you to select files to translate. Click the**Translate Files** tab at the top of its window. Then press the**Browse** button to select a file for translation and click the**Open** .
 
 ![The Translate files tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-translate-files-tab.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Ctrl** +**F9** is an alternative hotkey you can press for DeepL translations. Selecting text and pressing**Ctrl** +**F9** will bring up a smaller quick translate window. There you can click a**Copy** option to add the translation to your clipboard for pasting elsewhere.
 
 ![The main QTranslate translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-main-qtranslate-window.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you would like to change the keyboard shortcuts, click the menu button at the top right of DeepL’s window. Select Settings to view hotkey options for the software. There you can select alternative**Alt** ,**Ctrl** ,**Key** , and**Shift** keys for each hotkey. Click in the boxes to set combination keys by pressing them.
 
@@ -132,20 +133,14 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-free-mobile-overlay-tools-top-10-innovative-photo-enhancers-for-2024/"><u>[New] Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-hero5-review-capturing-extreme-sports/"><u>[New] Hero5 Review Capturing Extreme Sports</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok/"><u>[Updated] 2024 Approved The Next Big Thing in Short Form Videos Who'll Take the Lead, Likes or TikTok?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/captioning-made-easy-enhancing-your-instagram-narratives/"><u>Captioning Made Easy: Enhancing Your Instagram Narratives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comment-reduire-efficacement-une-video-sans-encombrement-de-resultats-avec-nos-top-10-methodes-gratuits-et-facilement-accessibles/"><u>Comment Réduire Efficacement Une Vidéo Sans Encombrement De Résultats Avec Nos Top 10 Méthodes Gratuits Et Facilement Accessibles</u></a></li>
-<li><a href="https://win11.techidaily.com/exclusive-access-to-recently-opened-files-on-windows/"><u>Exclusive Access to Recently Opened Files on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-unidentified-component-error-in-windows-system/"><u>Fixing Unidentified Component Error in Windows System</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-halt-automatic-cmd-surface-appearances/"><u>How to Halt Automatic CMD Surface Appearances</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-realme-c33-2023-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Realme C33 2023 Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-dynamics-behind-tseries-youtube-earning-patterns/"><u>In 2024, The Dynamics Behind TSeries' YouTube Earning Patterns</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-windows-experience-with-2023-leaders/"><u>Master Your Windows Experience with 2023 Leaders</u></a></li>
-<li><a href="https://win11.techidaily.com/top-8-solutions-for-disallowed-login-attempts-in-windows/"><u>Top 8 Solutions for Disallowed Login Attempts in Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-lag-problems-in-rainbow-six-siege-for-a-smoother-gaming-experience/"><u>Troubleshooting Lag Problems in Rainbow Six Siege for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-1011-command-guide-for-ip-location/"><u>Windows 10/11 Command Guide for IP Location</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-fbx-gaming-a-complete-video-guide/"><u>[New] 2024 Approved FBX Gaming A Complete Video Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unlock-your-fcp-potential-with-these-10-plugs/"><u>2024 Approved Unlock Your FCP Potential with These 10 Plugs</u></a></li>
+<li><a href="https://win11.techidaily.com/halt-spontaneous-terminal-flashes-in-windows/"><u>Halt Spontaneous Terminal Flashes in Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-charting-a-path-to-youtube-wealth-cpm-analysis/"><u>In 2024, Charting a Path to YouTube Wealth CPM Analysis</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-remedies-for-overcome-freezing-glitches-on-apple-devices/"><u>Quick Remedies for Overcome Freezing Glitches on Apple Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-unavailable-value-error-in-windows-operations/"><u>Resolving Unavailable Value Error in Windows Operations</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-spending-leverage-windows-11-pro-discounts/"><u>Revolutionize Spending: Leverage Windows 11 Pro Discounts</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-eliminating-windows-generic-sound-problem/"><u>Steps for Eliminating Windows Generic Sound Problem</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

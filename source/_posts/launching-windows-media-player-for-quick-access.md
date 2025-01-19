@@ -1,7 +1,7 @@
 ---
 title: Launching Windows Media Player for Quick Access
-date: 2025-01-08T19:18:36.206Z
-updated: 2025-01-13T04:56:01.411Z
+date: 2025-01-15T19:03:23.222Z
+updated: 2025-01-19T02:17:00.820Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/b84b835099bbd2f060100cf1ff53df1a6537fd5a4
 ![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
 2. From here, type “**Windows Media Player Legacy** ” into the search bar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
 
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
@@ -60,10 +56,14 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-task-manager.jpg)
 4. Now in the text box, type**wmplayer.exe** and press Enter on your keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Windows Media Player From File Explorer
@@ -72,10 +72,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. How to Open Windows Media Player With the Start Menu
 
@@ -86,6 +82,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Then scroll down and click**Windows Tools** in the list.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Double-click**Windows Media Player Legacy** on the next page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Windows Media Player Using Control Panel
 
@@ -99,6 +99,10 @@ To open Windows Media Player using Task Manager, follow these steps:
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
  Creating a desktop shortcut for Windows Media Player is one of the most convenient and efficient ways to start playing audio and video files. This can be very useful if you frequently open the Windows Media Player application on your computer. This way, you can quickly access the application without having to search your hard drive or a search engine.
@@ -110,7 +114,7 @@ To open Windows Media Player using Task Manager, follow these steps:
 2. In the text box, type the following path and click**Next** or press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
@@ -135,10 +139,6 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 ![Create Shortcut key for Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-shortcut-key-for-windows-media-player.jpg)
 3. Type any letter or number in the shortcut field.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Next, click**Apply > OK** to save the changes
 
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
@@ -162,20 +162,20 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>[New] In 2024, Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-over-20-unique-collages-for-brightening-spaces-for-2024/"><u>[Updated] Over 20 Unique Collages for Brightening Spaces for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[Updated] Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-mechanics-of-windows-shutdown-practices/"><u>Decoding the Mechanics of Windows Shutdown Practices</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-smart-file-sorting-in-the-latest-windows-11/"><u>Discover Smart File Sorting in the Latest Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-tracking-and-managing-your-online-data-use/"><u>Guide: Tracking and Managing Your Online Data Use</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1782736-9781493036639-haunted-cemeteries-2nd-ed/"><u>Haunted Cemeteries (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-8t-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 8T to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-switching-file-extensions-for-your-mac-snapshots/"><u>In 2024, Switching File Extensions for Your Mac Snapshots</u></a></li>
-<li><a href="https://win11.techidaily.com/optimized-outcomes-top-fixes-to-tame-latency-in-your-video-streams/"><u>Optimized Outcomes: Top Fixes to Tame Latency in Your Video Streams</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Realme 11 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/strategic-upgrades-extending-pin-sizes-on-modern-windows/"><u>Strategic Upgrades: Extending Pin Sizes on Modern Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-clear-up-robloxs-code-403-on-windows/"><u>Strategies to Clear Up Roblox's Code 403 on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-oculus-quest-2-for-windows-based-vr-use/"><u>Switching Oculus Quest 2 for Windows-Based VR Use</u></a></li>
-<li><a href="https://win11.techidaily.com/the-essential-guide-to-customizing-win-11s-input-methods/"><u>The Essential Guide to Customizing Win 11'S Input Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-your-macos-sierra-easy-instructions/"><u>[New] Optimizing Your macOS Sierra Easy Instructions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-photoslideshow-pro-on-insta/"><u>[New] PhotoSlideshow Pro on Insta</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-your-guide-to-affordable-quality-live-streaming-on-smartphones/"><u>[Updated] 2024 Approved Your Guide to Affordable, Quality Live Streaming on Smartphones</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-apex-screen-capture-tools-the-elite-line-up-for-2024/"><u>[Updated] Apex Screen Capture Tools The Elite Line-Up for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/an-effective-guide-to-fix-error-0xc0000001-on-windows-pcs/"><u>An Effective Guide to Fix Error 0XC0000001 on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/cease-alerts-for-unrequested-system-recommendations/"><u>Cease Alerts for Unrequested System Recommendations</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/choosing-between-bandicam-and-camtasia-for-video-capture-for-2024/"><u>Choosing Between Bandicam and Camtasia for Video Capture for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/creating-a-personalized-calendar-experience-with-windows-outlook/"><u>Creating a Personalized Calendar Experience with Windows Outlook</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-thwarting-vr-discomfort-tips-for-a-smooth-experience/"><u>In 2024, Thwarting VR Discomfort Tips for a Smooth Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/method-for-pushing-twitter-videos-through-whatsapp-channels/"><u>Method for Pushing Twitter Videos Through WhatsApp Channels</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-windows-11s-camera-issue-fixing-a00f425d-error/"><u>Tackling Windows 11'S Camera Issue: Fixing A00F425D Error</u></a></li>
+<li><a href="https://win11.techidaily.com/unleash-more-disk-room-in-windows-here-are-the-7-best-aids/"><u>Unleash More Disk Room in Windows - Here Are the 7 Best Aids</u></a></li>
+<li><a href="https://win11.techidaily.com/win11s-dns-cache-how-to-clear-and-maintain-efficiency/"><u>Win11's DNS Cache: How to Clear and Maintain Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/winexe-enhancement-convert-batch-to-powerful-formats/"><u>WinEXE Enhancement: Convert Batch to Powerful Formats</u></a></li>
 </ul></div>
 

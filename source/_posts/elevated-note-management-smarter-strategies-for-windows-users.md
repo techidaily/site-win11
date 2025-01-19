@@ -1,7 +1,7 @@
 ---
 title: "Elevated Note Management: Smarter Strategies for Windows Users"
-date: 2025-01-07T19:20:11.521Z
-updated: 2025-01-12T16:13:16.722Z
+date: 2025-01-13T20:22:59.341Z
+updated: 2025-01-19T01:05:26.477Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Use Microsoft PowerToys to Keep Sticky Notes Always on Top
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 4. Next, toggle the**Enable Always on Top** switch and set it to**On** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Next, under**Activation** , note down the**Activation shortcut** . By default, it is set to**Win + Ctrl + T** . To change the shortcut combo, click the**Edit** button (Pencil icon) and make changes.  
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/e83f983f9af6b6adf732e263161638d4efc710da8
 6. Under**Appearances & behavior** , toggle the**Shows a border around the Pinned window** to disable the highlighted border for the pinned app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7. Next, open the Sticky Notes app. To do this, press the**Win** key**,** type**sticky notes** and open the app.
@@ -81,19 +81,19 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the**Pin** icon to unpin the window.
 
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -114,19 +114,21 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-importance-of-tracking-igtv-conversion-rates/"><u>[New] In 2024, The Importance of Tracking IGTV Conversion Rates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-taming-soundtracks-audio-capture-in-windows-10/"><u>[New] Taming Soundtracks Audio Capture in Windows 10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-reducing-loudness-gradually-techniques-for-logic-pro-users/"><u>[Updated] Reducing Loudness Gradually Techniques for Logic Pro Users</u></a></li>
-<li><a href="https://win-forum.techidaily.com/a-guide-to-the-big-4-of-social-networks-mastering-interaction-on-facebook-twitter-instagram-and-youtube/"><u>A Guide to the Big 4 of Social Networks: Mastering Interaction on Facebook, Twitter, Instagram, and YouTube</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/easy-audio-extractor-from-soundcloud-quick-and-simple-music-downloads/"><u>Easy Audio Extractor From SoundCloud – Quick and Simple Music Downloads.</u></a></li>
-<li><a href="https://win11.techidaily.com/guiding-through-windows-event-log-problems/"><u>Guiding Through Windows Event Log Problems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>In 2024, Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-a23-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy A23 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>In 2024, Trailblazing Through Time-Era Images Explore 3 Inverse Techniques on Facebook</u></a></li>
-<li><a href="https://win11.techidaily.com/insightful-hardware-analysis-using-windows-widgets/"><u>Insightful Hardware Analysis Using Windows Widgets</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-windows-steam-efficiency-eliminating-zero-rate-incidents/"><u>Maximize Windows Steam Efficiency: Eliminating Zero-Rate Incidents</u></a></li>
-<li><a href="https://win11.techidaily.com/restoring-missing-panes-win11s-top-6-fixes/"><u>Restoring Missing Panes: Win11's Top 6 Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-login-success-in-epic-launcher-issues/"><u>Securing Login Success in Epic Launcher Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-accelerate-engagement-implementing-the-top-12-video-growth-strategies/"><u>[New] In 2024, Accelerate Engagement - Implementing the Top 12 Video Growth Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-best-captures-of-macs-visual-display-under-156-characters/"><u>[Updated] 2024 Approved Best Captures of Mac's Visual Display (Under 156 Characters)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/amd-gpu-install-new-rx-5700-driver-version/"><u>AMD GPU: Install New RX 5700 Driver Version</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-persistence-of-custom-sound-adjustments-on-pc/"><u>Ensuring Persistence of Custom Sound Adjustments on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-12-mini-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 12 mini Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-strategies-to-maximize-win11-usage/"><u>In 2024, Top Strategies to Maximize Win11 Usage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-compatible-oculus-drivers-for-windows-11-10-8-and-7-get-your-free-copy-today/"><u>Latest Compatible Oculus Drivers for Windows 11, 10, 8 & 7 - Get Your Free Copy Today</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-lose-and-gain-photo-dimensions-in-windows-11-seamlessly/"><u>Learn to Lose and Gain Photo Dimensions in Windows 11 Seamlessly</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-inaccessible-fingerprint-scanner-errors-on-windows/"><u>Overcoming Inaccessible Fingerprint Scanner Errors on Windows</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728471717781-ps4/"><u>PS4ディスク修復ガイド: 初期化前にデータを保存する方法</u></a></li>
+<li><a href="https://win11.techidaily.com/speed-up-windows-11-speech-capture-using-shortcuts/"><u>Speed Up Windows 11 Speech Capture Using Shortcuts</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-smoothing-out-ms-store-disruptions-in-1011/"><u>Strategies for Smoothing Out MS Store Disruptions in 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/transferring-powertoys-configurations-without-losing-data/"><u>Transferring PowerToys Configurations Without Losing Data</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-mysteries-of-frequent-rainmeter-complications/"><u>Unraveling the Mysteries of Frequent Rainmeter Complications</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi Civi 3 won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/be-to-igtv-migration-step-by-step-guide-for-2024/"><u>YouTube-to-IGTV Migration Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 

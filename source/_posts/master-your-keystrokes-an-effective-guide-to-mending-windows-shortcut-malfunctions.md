@@ -1,7 +1,7 @@
 ---
 title: "Master Your Keystrokes: An Effective Guide to Mending Windows Shortcut Malfunctions"
-date: 2024-08-16T00:47:39.894Z
-updated: 2024-08-17T00:47:39.894Z
+date: 2025-01-14T22:42:03.673Z
+updated: 2025-01-18T18:18:02.135Z
 tags:
   - windows10
   - windows11
@@ -20,20 +20,25 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
 
  If you can’t use the keyboard shortcuts advantage on your Windows 10 device, we have put together some quick fixes in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Keyboard Hardware
 
  Let’s start by ensuring that keyboard shortcuts aren’t working because of a hardware problem. Try and use a different keyboard shortcut to make sure it’s not just a [broken key that you should fix](https://www.makeuseof.com/how-to-fix-keyboard-keys/).
 
  If you’ve tried multiple keyboard shortcuts and still had no success, use a different USB port and or connect it to a different computer and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Turn Off the Keyboard’s Gaming Mode
 
  If you're [using a gaming keyboard](https://www.makeuseof.com/best-tkl-mechanical-keyboards-gaming/), it may automatically disable specific keys, such as the **Windows** key. This way, you can’t accidentally hit a keyboard shortcut while playing.
 
  Launch the keyboard’s app and turn off any mode that could stop keyboard shortcuts from working.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update Keyboard Drivers
 
@@ -42,13 +47,16 @@ thumbnail: https://thmb.techidaily.com/454a5d400e77a7a30fc6fb5cf37376c887407a08a
  Go to Device Manager and extend the **Keyboards** list. There, right-click the keyboard driver and select **Update driver**.
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -60,9 +68,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 4. Select **Run the troubleshooter** to start the scan.
 
 ![Running keyboard troubleshooter in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/keyboard-troubleshooter-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable Sticky Keys
 
@@ -75,9 +80,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Turn on the toggle below **Use Sticky Keys**.
 
 ![Sticky keys settings in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/sticky-keys-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to turn on or off Sticky Keys using a keyboard shortcut, check the box next to **Allow the shortcut key to start Sticky Keys**. This will allow you to turn it on or off by pressing **Shift** five times.
 
@@ -93,9 +95,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Reset the Keyboard Settings
 
  Keyboard shortcuts could’ve stopped working because you took [customizing your keyboard layout](https://www.makeuseof.com/tag/create-custom-keyboard-layout-windows/) too far. In this case, resetting your keyboard to its default settings should fix the problem.
@@ -120,16 +119,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 5. Right-click it again and select **Refresh**.
 
 ![Human interface service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/human-interface-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Check Third-Party Apps
 
  If you’re using a third-party app to configure your keyboard, you should take a look at its customization options. Even if you don’t own a gaming keyboard, certain apps such as [Windows' built-in PowerToys](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/), can change your keyboard layout.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Make Your Keyboard Shortcuts Work Again
 
@@ -141,11 +142,31 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If you can’t use the keyboard shortcuts advantage on your Windows 10 device, we have put together some quick fixes in this guide.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-swiveling-screens-mastering-video-rotation-on-instagram/"><u>[New] 2024 Approved Swiveling Screens Mastering Video Rotation on Instagram</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reakdown-of-earnings-how-much-does-a-clicky-make/"><u>[New] Breakdown of Earnings How Much Does a Clicky Make?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-green-tech-in-the-world-of-screen-capture-for-2024/"><u>[Updated] Elite Green Tech in the World of Screen Capture for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-set-up-a-dynamic-fb-cover/"><u>[Updated] Set Up a Dynamic FB Cover</u></a></li>
+<li><a href="https://solve-info.techidaily.com/cookiebot-driven-data-collection-optimizing-user-experience/"><u>Cookiebot-Driven Data Collection: Optimizing User Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-navigate-forbidden-errors-on-windows/"><u>How to Navigate Forbidden Errors on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gaming-experience-managing-and-decreasing-cpu-utilization-in-cyberpunk-2077/"><u>Improve Gaming Experience: Managing and Decreasing CPU Utilization in Cyberpunk 2077</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audience-favorites-outstanding-vr-gaming-with-google-cardboard/"><u>In 2024, Audience Favorites Outstanding VR Gaming with Google Cardboard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Lenovo ThinkPhone? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-system-written-to-err-on-the-proper-side/"><u>Mastery Over System' Written to Err on the Proper Side</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-low-audio-resonance-in-windows-11-devices/"><u>Overcoming Low Audio Resonance in Windows 11 Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/reestablishing-control-over-screen-brightness-using-function-keys-on-win-11/"><u>Reestablishing Control Over Screen Brightness Using Function Keys on Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-for-cmd-administrator-mode/"><u>Step-by-Step for CMD Administrator Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-the-error-when-importing-iphones-to-windows-pclaptop/"><u>Tackling the Error When Importing iPhones to Windows PC/Laptop</u></a></li>
+<li><a href="https://win11.techidaily.com/these-5-apps-made-my-switch-from-mac-to-windows-possible/"><u>These 5 Apps Made My Switch From Mac to Windows Possible</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-wi-fi-mice-in-windows-systems/"><u>Troubleshooting: Non-Responsive Wi-Fi Mice in Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-enhanced-features-with-the-chatgpt-desktop-app-vs-website/"><u>Unlocking Enhanced Features with the ChatGPT Desktop App Vs. Website</u></a></li>
+</ul></div>
+

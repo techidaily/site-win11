@@ -1,7 +1,7 @@
 ---
 title: Personalizing PC Shortcuts in Windows 11
-date: 2025-01-08T08:32:16.295Z
-updated: 2025-01-12T23:51:14.464Z
+date: 2025-01-12T23:28:05.846Z
+updated: 2025-01-18T23:32:55.140Z
 tags:
   - windows10
   - windows11
@@ -36,12 +36,20 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![The WinHotKey setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/WinHotKey-setup-wizard.png)
 5. Select the **Next** option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Click the **I accept the agreement** radio button, and press the **Next** button again.
 7. Press the **Browse** button to choose an installation folder.  
 ![The Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/The-Browse-button.png)
 8. Select the **Next** option to install the software.
 
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Software Hotkeys
 
@@ -51,23 +59,19 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
 ![Along with the key drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/along-with-the-key-drop-down-menu.png)
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
 ![The Launch: Advanced window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/launch-advanced-window.png)
@@ -101,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -121,7 +125,7 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 2. Press the **…** (ellipses) button for the **Command** box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. Select a program’s EXE (application) file for the hotkey to open.
@@ -140,16 +144,12 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
@@ -168,22 +168,17 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chuckling-chords-and-clever-cuts-10-parody-classics/"><u>[New] 2024 Approved Chuckling Chords & Clever Cuts 10 Parody Classics</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-role-of-authenticity-in-online-self-portraits-for-2024/"><u>[New] Unveiling the Role of Authenticity in Online Self-Portraits for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-discerning-podcasters-average-incomes/"><u>2024 Approved Discerning Podcasters' Average Incomes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-strategies-for-sourcing-video-content-with-google-trends/"><u>2024 Approved Strategies for Sourcing Video Content with Google Trends</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dragon-quest-continuity-watching-how-to-train-your-dragon-films-from-beginning-to-end/"><u>Dragon Quest Continuity: Watching How to Train Your Dragon Films From Beginning to End</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ensure-optimal-performance-update-your-sas-drives-on-windows-1187/"><u>Ensure Optimal Performance: Update Your SAS Drives on Windows 11/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-astra-pilot-on-new-horizons-windows-11-guide/"><u>Finding Astra Pilot on New Horizons: Windows 11 Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-amass-wealth-the-art-of-vimeo-video-monetization-for-2024/"><u>How to Amass Wealth The Art of Vimeo Video Monetization for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-cinematography-on-the-go-top-smartphones-with-ois/"><u>In 2024, Perfecting Cinematography on the Go Top Smartphones with OIS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/journey-through-time-the-transformative-story-behind-electric-cars/"><u>Journey Through Time: The Transformative Story Behind Electric Cars</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-music-on-windows-by-ironing-out-irqs/"><u>Master Your Music on Windows by Ironing Out IRQs</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-the-complexities-of-win-registry-alteration-from-cmd/"><u>Navigating the Complexities of Win Registry Alteration From CMD</u></a></li>
-<li><a href="https://win11.techidaily.com/quieting-file-explorer-tab-activity-on-win11/"><u>Quieting File Explorer Tab Activity on Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/skyrocket-ssd-speeds-through-windows-plus-fresh-integration/"><u>Skyrocket SSD Speeds Through Windows + Fresh Integration</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-installation-integrating-microsofts-defender-for-edge-security/"><u>Step-By-Step Installation: Integrating Microsoft's Defender for Edge Security</u></a></li>
-<li><a href="https://win11.techidaily.com/the-functionality-and-security-implications-of-deleting-pagefilesys/"><u>The Functionality & Security Implications of Deleting Pagefile.sys</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-privacy-avoid-displaying-email-on-logon/"><u>Winning Privacy: Avoid Displaying Email on Logon</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>[New] In 2024, Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/"><u>[New] Simplify Your Edits Mastering the Art of Vimeo Video Snipping in 5 Ways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-lens-legends-6-choices-the-finest-4k-dslrs-revealed/"><u>[Updated] Lens Legends' 6 Choices The Finest 4K DSLRs Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-understanding-user-generated-music-rights-on-instagram/"><u>[Updated] Understanding User-Generated Music Rights on Instagram</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/compact-vixia-hf-captures-minus-premium-specs/"><u>Compact VIXIA HF Captures Minus Premium Specs</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-11-a-detailed-look-at-the-registry/"><u>Delving Into Windows 11: A Detailed Look at the Registry</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-a-quick-checkup-menu-option-to-win1111-systems/"><u>Introducing a Quick Checkup Menu Option to Win11/11 Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-browser-experience-chrome-for-windows-11-users/"><u>Optimizing Browser Experience: Chrome for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/regulating-shifting-printers-on-desktop-systems/"><u>Regulating Shifting Printers on Desktop Systems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-visibility-enhanced-issue-resolved/"><u>Shorts Visibility Enhanced – Issue Resolved</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/sound-blaster-z-driver-download-easily-for-windows-11/"><u>Sound Blaster Z Driver Download Easily for Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-sluggishness-in-windows-app-internet-connectivity-today/"><u>Tackle Sluggishness in Windows App Internet Connectivity Today</u></a></li>
 </ul></div>
 

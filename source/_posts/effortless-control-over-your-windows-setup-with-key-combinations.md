@@ -1,7 +1,7 @@
 ---
 title: Effortless Control Over Your Windows Setup with Key Combinations
-date: 2025-01-10T05:52:34.484Z
-updated: 2025-01-12T20:39:39.185Z
+date: 2025-01-18T02:24:06.653Z
+updated: 2025-01-19T00:35:12.490Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,15 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Remember, you can't use the redo command without undoing an action first.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Undo on Windows With a Keyboard Shortcut
 
@@ -48,22 +56,14 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Redo in a Snap With Redo Hotkeys
 
@@ -73,18 +73,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
@@ -106,17 +106,18 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-edit-like-a-pro-title-and-description-tips-for-igtv-success-for-2024/"><u>[Updated] Edit Like a Pro Title & Description Tips for IGTV Success for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-online-marketplaces-for-yt-channel-sales/"><u>[Updated] Navigating Online Marketplaces for YT Channel Sales</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-mystery-of-windows-parse-mishap/"><u>Decoding the Mystery of Windows' Parse Mishap</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-steps-to-jumpstart-your-windows-update-process/"><u>Essential Steps to Jumpstart Your Windows Update Process</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-captivatescreen-scrutiny-platform/"><u>In 2024, CaptivateScreen Scrutiny Platform</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-professional-tips-designing-youtube-trailers-in-filmora/"><u>In 2024, Professional Tips Designing YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-visual-virtuoso-enhancing-photos-with-text-os-based-techniques/"><u>In 2024, The Visual Virtuoso Enhancing Photos with Text, OS-Based Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor X7b? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-portaudio-glitches-in-audacity-on-windows-11/"><u>Resolving PortAudio Glitches in Audacity on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-reading-excel-in-windows-notepad/"><u>Solutions for Reading Excel in Windows Notepad</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-writer-cookbook-tips-for-authentic-screenplay-writing-for-2024/"><u>The Writer’ Cookbook Tips for Authentic Screenplay Writing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win11-and-spotify-fixing-connection-flubs-quickly/"><u>Win11 & Spotify: Fixing Connection Flubs Quickly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-archival-artifacts-radeons-revamp-for-2024/"><u>[New] Archival Artifacts Radeon's Revamp for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>[Updated] Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-early-edge-tabs-in-win11/"><u>Eliminating Early Edge Tabs in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-audio-quality-utilizing-windows-11s-action-center-mixing/"><u>Enhance Audio Quality: Utilizing Windows 11'S Action Center Mixing</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-win-pc-epic-games-logins-offline/"><u>Fixing Win PC: Epic Games Logins Offline</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/definition-ready-enabling-av1-on-youtube-for-2024/"><u>High Definition Ready Enabling AV1 on YouTube for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g24-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G24 by Name | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-professionals-selection-top-5-drones-ranked/"><u>In 2024, The Professionals' Selection Top 5 Drones Ranked</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-to-decode-and-track-your-connections-with-win11s-netstat/"><u>Learn to Decode and Track Your Connections with Win11's Netstat</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-microsoft-outlooks-notification-woes-a-clear-path-forward/"><u>Navigating Microsoft Outlook's Notification Woes: A Clear Path Forward</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-chromes-filesync-obstructions-a-fix-for-win-users/"><u>Overcome Chrome's Filesync Obstructions: A Fix for WIN Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-accurate-measurements-made-easy-on-android-phones/"><u>Step-by-Step Tutorial: Accurate Measurements Made Easy on Android Phones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
 

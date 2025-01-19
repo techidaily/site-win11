@@ -1,7 +1,7 @@
 ---
 title: Essential Windows Filing Techniques (Max 156)
-date: 2024-08-16T00:50:50.415Z
-updated: 2024-08-17T00:50:50.415Z
+date: 2025-01-17T16:59:00.598Z
+updated: 2025-01-19T00:44:23.340Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  It is essential to keep in mind specific rules before you begin naming files on Windows. To help you stay organized and prevent you from getting unpleasant surprises, we're providing a list of important tricks you should know to name files on the operating system.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Do Not Use Any Punctuation at the Start of a Filename
 
  You can use a period and other supported characters like parentheses, dash, commas, and underscore at the beginning of a filename. However, just because they are supported does not mean you should use them.
@@ -27,11 +31,16 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  You should always start your filename with the most important identifiers of the file, such as a date. Remember, when you sort your files by filename, Windows will arrange them in alphabetical/numerical order, so think about how you can take advantage of that when naming files.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Do Not Use Specific Punctuation Marks Anywhere in the Filename
 
 ![unsupported characters in filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/unsupported-characters-in-filenames.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  While you can name a file the way you want, there are some limitations to what characters you can use. Windows operating system does not allow certain characters in filenames, which include:
 
@@ -47,23 +56,25 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 
  You can use spaces anywhere in the filename, but be mindful of the fact that some software does not recognize files with spaces. Instead of spaces, you can use underscores, dashes, and Camel case (e.g., FileName instead of File Name).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Keep Your Filenames Short and Snappy
 
 ![Length of filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/length-of-filenames.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Windows 10 and 11 support up to 260 characters in a filename, meaning you can stuff many details into a filename. However, you should not aim to reach that 260 characters limit. Ideally, a filename should not be longer than 35 characters.
 
  With all that said, sometimes it might be worth it to keep the filename lengthy. And if you think you benefit more from a long filename than a shorter one, you should not hesitate but make sure it's unique and consistently structured.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Don't Use Specific, Reserved Words in Filenames
 
 ![The speified device name is invalid dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-speified-device-name-is-invalid-dialogue.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  While naming files in Windows 11 and 10, you should keep in mind that you can not use certain reserved words in filenames:
 
@@ -89,37 +100,25 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  If you think you were committing all sorts of mistakes while naming files on Windows and now want to fix your mistakes, you can easily[batch rename files in Windows](https://www.makeuseof.com/tag/batch-rename-mass-delete-files-windows/) using File Explorer, Command Prompt, or PowerShell. You can also batch rename the file extensions if you think you made mistakes there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. You Can Use Emojis in Filenames to Spice Things up
 
 ![Emojis in Filenames](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/emojis-in-filenames.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
  One of the coolest ways you can name files on Windows is by choosing emojis instead of words. You can[use whatever emojis you want in the name of your Windows files](https://www.makeuseof.com/windows-emoji-file-folder-drive-names/) . You can also mix words and emoticons if that works best for you; there is no limitation on using emojis anywhere in the filename.
 
  While emojis may not be hugely beneficial, they can make filenames more expressive if used properly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 8\. Include Dates in Filenames to Make Them Descriptive
 
  You can use dates in filenames on Windows. Some of the most common ways to write dates are in YYYY-MM-DD, YYYYMMDD, YYMMDD, and YYMM formats. However, you can not use YYYY/MM/DD because the forward slash character is not supported in a filename.
 
 ![Filename in DD-MM-YYYY format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/filename-in-dd-mm-yyyy-format.jpg)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can choose any format that suits you the best from the supported ones. But to ensure that you do not struggle with finding the exact filename, you should use the most significant date and time component first. If the year is your most important component, you should use that first.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 9\. Ensure Your Filenames Include Enough Context
 
  Different people will likely have different opinions about what makes a suitable filename. But broadly speaking, a good filename is short but descriptive enough to help you quickly understand what is in it. If you have a PC for everyone in your family to use, You also need to name them in such a way that anyone else in your family can understand its content and context.
@@ -140,14 +139,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  People often ignore the importance of getting filenames right on their PCs. But with the tips above, you can be a pro at naming files. It will take some time to get used to everything we just shared. And it is certainly worth remembering them because they can make you more productive and certainly help you create a more organized environment in File Explorer or any other third-party file management tool you may be using.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +152,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-direct-transition-from-youtube-to-instagram-reels/"><u>[New] In 2024, Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-quick-clip-art-creator-seamless-image-to-cartoon-conversion/"><u>[New] Quick Clip-Art Creator Seamless Image-to-Cartoon Conversion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-a-step-by-step-guide-to-soundtracks-on-social-feeds-for-2024/"><u>[Updated] A Step-by-Step Guide to Soundtracks on Social Feeds for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-selection-top-156-characters-nintendo-switch-simulators/"><u>Elite Selection: Top 156 Characters Nintendo Switch Simulators</u></a></li>
+<li><a href="https://win11.techidaily.com/exploring-storage-solutions-the-role-of-windows-iscsi-initiator/"><u>Exploring Storage Solutions: The Role of Windows iSCSI Initiator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-the-best-video-transcoding-solution-macx-hd-converter-pro-on-windows-marketplace/"><u>Find the Best Video Transcoding Solution - MacX HD Converter Pro on Windows Marketplace</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-overcoming-windows-net-core-demand/"><u>Guide to Overcoming Windows' .NET Core Demand</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-apple-iphone-12-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From Apple iPhone 12 - 4 Easy Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-pin-inaccessibility-after-windows-11-software-errors/"><u>Restoring PIN Inaccessibility After Windows 11 Software Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simple-instructions-transferring-your-pc-view-to-tv-using-a-chromecast-adapter/"><u>Simple Instructions: Transferring Your PC View to TV Using a Chromecast Adapter</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-fixing-hulus-rununk13-error-code-successfully/"><u>Step-by-Step Guide: Fixing Hulu's RUNUNK13 Error Code Successfully</u></a></li>
+</ul></div>
 

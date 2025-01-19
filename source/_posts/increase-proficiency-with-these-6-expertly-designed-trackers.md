@@ -1,7 +1,7 @@
 ---
 title: Increase Proficiency with These 6 Expertly Designed Trackers
-date: 2024-08-16T00:50:05.488Z
-updated: 2024-08-17T00:50:05.488Z
+date: 2025-01-12T23:29:19.892Z
+updated: 2025-01-18T16:43:50.519Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
 ![Activity Watch Dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/activity-watch-dashboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ActivityWatch is a great app to [measure your productivity](https://www.makeuseof.com/apps-to-measure-productivity/) and analyze usage patterns on Windows. The app offers many visual ways to view your usage, including a bar chart and a category sunburst diagram.
 
  To help ActivityWatch assign apps to different categories, you can set up rules in the app’s Category Builder. There are two pages to view your PC usage: the **Timeline** tab and the **Activity** tab. The timeline option provides the most basic view. You can adjust the time range and rename entries by clicking on them.
@@ -47,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 **Download**: [ActivityWatch](https://redirect.viglink.com/?format=go&jsonp=vglnk%5F169417154004110&key=eac202ea7a96cf485281d6c4ffa2069e&libId=lmah9uh40103es17000ULblys45y6&loc=https%3A%2F%2Fwww.makeuseof.com%2Fbest-tools-to-help-focus-studying-online%2F&gdprConsent=CPeeA8APeeA8AAJAEBENDVCsAP%5FAAH%5FAACiQI9tV%5FH%5F%5FbW9j8X5%5Faft0eY1P9%5Fjz7uQxBhfJk-4F3LvW%5FJwXx2E5NF36pqoKmRoEu1JBIQNlHIHUDUmwaokVryHsak2cpSNKJ6BEkFMRMydYCF5PmxtjeQKY5%5Fp%5Fd3bx2D-t7dv039z3z8VXn3dpf2-0-PCdU589Dfn9fRfb89IP9958v8v8%5Fl%5Frk2%5FeT13%5Fp4I9gEmGhcQBdkQEBNoGEUCIEYVhARQKAAAACBogIAHBgU7IwCXWACAAAKAAwIAQgAowABAAAJAAhEAEgRQIAAABAIAAQAIAAIAGBgAFABYCAQAAgGgYohQACBIQJEBEQpgQBQJBAS2VCCUFQgphAEWWAFAIjYKABAEgIpAAEBYOAYAkBKxIIEmINoAACABAKIUIAAAA.f%5FgAD%5FgAAAAA&ccpaConsent=1---&gdprApplies=true&v=1&opt=true&optExText=false&out=https%3A%2F%2Fgithub.com%2FActivityWatch%2Factivitywatch%2Freleases%2Fdownload%2Fv0.12.2%2Factivitywatch-v0.12.2-windows-x86%5F64-setup.exe&ref=https%3A%2F%2Fwww.google.com%2F&title=The%206%20Best%20Tools%20to%20Help%20You%20Stay%20Focused%20While%20Studying%20Online&txt=Windows) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. RescueTime
 
 ![Resuce Time activities goal page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/resuce-time-activities-goal-page.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  RescueTime is an automatic time-tracking tool for Windows to help you better understand your productivity online. Getting started is simple—create an account, download the free assistant tool, and let RescueTime run in the background.
 
@@ -63,15 +72,9 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
 **Download**: [RescueTime](https://www.rescuetime.com/download%5Fwindows) (Free, premium version available)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 4\. Toggl
 
 ![Toggl Reports page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/toggl-reports-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Toggl offers a versatile and detailed approach to tracking your time spent on different activities. You can create projects, add tasks, and set time estimates. Toggl offers a speedy solution to track your time on Windows thanks to its keyboard shortcuts and a quick search tool.
 
@@ -84,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 ## 5\. Pendulums
 
 ![Pendulums projects storing activities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pendulums.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  Pendulums is a free open-source app to help you track your computer usage and view long-term statistics. The app offers a range of customization features to help you manage your time and separate your time at work from your leisure time.
 
@@ -97,14 +97,12 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 **Download**: [Pendulums](https://pendulums.io/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Timely
 
 ![Timely timeline view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/timely-timeline-view.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Timely is an [AI-powered productivity app](https://www.makeuseof.com/best-productivity-apps-powered-by-ai/) that offers an efficient solution to record your PC usage. Its detailed history section lists activities from both browser tabs and Windows apps.
 
@@ -114,13 +112,15 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
 **Download**: [Memory](https://timelyapp.com/downloads) for Timely (Subscription required, free trial available)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Build a Better Understanding of Your PC Usage With These Apps
 
  If you don’t know where your time goes, try out these apps to record your PC usage effortlessly. Time tracking is beneficial for anyone, whether you’re limiting time spent on distractions or need a clear way of recording your work hours. Know where your time goes and build better productivity habits with these apps.
 
  Don’t waste any time—get a clear idea of your time management habits on Windows using these apps.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +128,27 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-21-innovative-solutions-for-free-recording-of-online-meetings/"><u>[New] 21 Innovative Solutions for Free Recording of Online Meetings</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-secrets-to-composing-compelling-video-blogging-plots-for-2024/"><u>[New] Secrets to Composing Compelling Video Blogging Plots for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-3-techniques-to-retrieve-and-save-youtubes-iconic-images/"><u>[Updated] 2024 Approved 3 Techniques to Retrieve & Save YouTube's Iconic Images</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-simplifying-age-confirmation-on-tiktok/"><u>[Updated] 2024 Approved Simplifying Age Confirmation on TikTok</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-gaming-capture-with-intels-pc-graphics-hub/"><u>Effortless Gaming Capture with Intel's PC Graphics Hub</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-photocapture-errors-on-win11-system/"><u>Eliminating PhotoCapture Errors on Win11 System</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhance-your-story-game-applying-fun-sticker-themes/"><u>Enhance Your Story Game Applying Fun Sticker Themes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-apples-ai-revolution-essential-insights-into-new-ai-capabilities-for-ios-and-macos-devices/"><u>Exploring Apple's AI Revolution: Essential Insights Into New AI Capabilities for iOS & macOS Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-150-2023-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia 150 (2023) to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-set-up-custom-volume-control-hotkeys-in-windows-11/"><u>How to Set Up Custom Volume Control Hotkeys in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/imessage-on-desktop-the-ultimate-tutorial-for-windows-users-zdnet-tech-blog/"><u>IMessage on Desktop: The Ultimate Tutorial for Windows Users | ZDNet Tech Blog</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-apex-legends-freezescrashes/"><u>Mastering Fixes for Apex Legends Freezes/Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-windows-ssd-with-ssd-fresh-tips/"><u>Optimize Your Windows' SSD with SSD Fresh Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/preventing-display-disruptions-on-windows-11/"><u>Preventing Display Disruptions on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-for-dual-programs-error-in-windows-os/"><u>Remedy for 'Dual Programs Error in Windows OS'</u></a></li>
+<li><a href="https://win11.techidaily.com/solidify-your-linux-subsystem-with-win-11s-arrival/"><u>Solidify Your Linux Subsystem with Win 11'S Arrival</u></a></li>
+<li><a href="https://win11.techidaily.com/tailor-your-windows-11-taskbar-placement/"><u>Tailor Your Windows 11 Taskbar Placement</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-razer-headsets-microphone-5-simple-fixes/"><u>Troubleshooting Your Razer Headset's Microphone - 5 Simple Fixes</u></a></li>
+</ul></div>
+

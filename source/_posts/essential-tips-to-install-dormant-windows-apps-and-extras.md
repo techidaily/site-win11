@@ -1,7 +1,7 @@
 ---
 title: Essential Tips to Install Dormant Windows Apps & Extras
-date: 2025-01-12T07:27:03.969Z
-updated: 2025-01-13T09:23:45.641Z
+date: 2025-01-17T00:42:16.538Z
+updated: 2025-01-19T01:35:12.861Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,6 @@ To use the DISM tool, follow these steps:
 
  Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Run the System File Checker or SFC Utility
 
  Another tool you can use to fix issues with optional feature installation is the System File Checker (SFC) utility.
@@ -60,7 +56,7 @@ To check your system using SFC, follow these steps:
 3. Once SFC scans for errors, make sure to restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Want to know the best part?
@@ -91,10 +87,6 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -108,12 +100,24 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
 
@@ -126,6 +130,10 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -147,10 +155,6 @@ Here's how you can update Windows to the latest version:
 
  Once the service restarts, try installing the optional feature again, and it should work now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows Features Using PowerShell
 
  If all the above methods fail to work, restoring Windows features is your last resort. So, if you are unable to use or install an optional Windows feature, you might be able to fix the problem by using PowerShell to restore a particular feature.
@@ -164,24 +168,20 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
  This method only allows you to restore a specific feature and, not all the features at once. So, you need to copy and paste the same command and edit the**FEATURENAME** every time.
 
  If these steps don't fix the problem, you may need to ask Microsoft or a technical support professional for more help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Back the Windows Optional Features
 
@@ -202,18 +202,24 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-high-definition-capturing-for-switch-gamers-for-2024/"><u>[New] High Definition Capturing for Switch Gamers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-virtual-cosmos-navigating-10-cinematic-worlds-in-science-fiction/"><u>[New] Virtual Cosmos Navigating 10 Cinematic Worlds in Science Fiction</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-guide-to-adding-creative-closure-in-vimeo-videos/"><u>[Updated] In 2024, Guide to Adding Creative Closure in Vimeo Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-tech-best-drone-gimbals-reviewed/"><u>[Updated] Top Tech Best Drone Gimbals Reviewed</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-your-folder-navigation-in-windows-11-integrating-new-commands/"><u>Elevate Your Folder Navigation in Windows 11 - Integrating New Commands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-mastering-the-use-of-chatgpt-for-creative-world-design/"><u>From Ideas to Epics: Mastering the Use of ChatGPT for Creative World Design</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-mend-the-missing-link-top-9-ways-to-reconnect-bluetooth-in-win-11/"><u>How to Mend the Missing Link: Top 9 Ways to Reconnect Bluetooth in Win 11</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-for-repairing-non-working-windows-alt-keys/"><u>Methods for Repairing Non-Working Windows ALT Keys</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-cutting-avi-files-made-easy-tips-tricks-and-tools-for-video-editing/"><u>New Cutting AVI Files Made Easy Tips, Tricks, and Tools for Video Editing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/photograph-entire-screen-area/"><u>Photograph Entire Screen Area</u></a></li>
-<li><a href="https://win11.techidaily.com/surge-into-success-7-key-methods-for-enhanced-windows-11-use/"><u>Surge Into Success: 7 Key Methods for Enhanced Windows 11 Use</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/red-broadcasting-strategies-for-various-platforms-yt-fb-twitch/"><u>Tailored Broadcasting Strategies for Various Platforms (YT, FB, Twitch)</u></a></li>
-<li><a href="https://win11.techidaily.com/which-windows-fits-the-bill-analyzing-home-versus-pro-features/"><u>Which Windows Fits the Bill? Analyzing Home Versus Pro Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-strategies-for-capturing-webinars-effectively/"><u>[New] 2024 Approved Top Strategies for Capturing Webinars Effectively</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-connected-platforms-sharing-videos-between-twitter-and-tumblr/"><u>[New] Connected Platforms Sharing Videos Between Twitter & Tumblr</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-frame-your-life-with-iphones-top-10-photo-rules-for-2024/"><u>[New] Frame Your Life with iPhone's Top 10 Photo Rules for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-a-step-by-step-approach-to-fb-video-retrieval/"><u>[Updated] In 2024, A Step-by-Step Approach to FB Video Retrieval</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[Updated] Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-windows-wi-fi-protocols-making-up-for-missing-steps/"><u>Enhancing Windows Wi-Fi Protocols: Making Up for Missing Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-delete-win11s-built-in-applications/"><u>How to Delete Win11's Built-In Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-tackle-device-not-present-warning-on-your-pc/"><u>How to Tackle 'Device Not Present' Warning on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/insights-into-user-complaints-about-windows-11/"><u>Insights Into User Complaints About Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gaming-speeds-resolve-lag-and-stuttering-issues-in-the-latest-game-releases/"><u>Master Gaming Speeds: Resolve Lag and Stuttering Issues in the Latest Game Releases</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-account-lockout-frequency-post-failed-login-attempts-windows-11/"><u>Overriding Account Lockout Frequency Post Failed Login Attempts (Windows 11)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ssionalizing-slides-with-youtube-videos-for-2024/"><u>Professionalizing Slides with YouTube Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-files-on-windows-why-regular-saves-count/"><u>Protecting Files on Windows: Why Regular Saves Count</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/time-trends-hourly-top-10-youtube-pickers-for-2024/"><u>Real-Time Trends Hourly Top 10 YouTube Pickers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/regaining-functionality-of-windows-11-menu-bar/"><u>Regaining Functionality of Windows 11 Menu Bar</u></a></li>
+<li><a href="https://win11.techidaily.com/unmask-hidden-hardware-your-pcs-undisclosed-cameras/"><u>Unmask Hidden Hardware: Your PC's Undisclosed Cameras</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-arm-on-your-system-iso-download-and-install-guide/"><u>Windows 11 ARM on Your System: ISO Download & Install Guide</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-data-retrieval-tool-restore-lost-data-from-xiaomi-redmi-13c-5g-by-fonelab-android-recover-data/"><u>Xiaomi Data Retrieval tool – restore lost data from Xiaomi Redmi 13C 5G</u></a></li>
 </ul></div>
 

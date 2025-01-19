@@ -1,7 +1,7 @@
 ---
 title: "Fresh Start From Past Protection: 4 Key Windows Cleanup Tips"
-date: 2025-01-07T19:50:17.199Z
-updated: 2025-01-12T22:19:22.084Z
+date: 2025-01-13T23:42:49.703Z
+updated: 2025-01-18T16:10:35.446Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
  Now let's see four easy ways to clear Protection History in Windows 10 and 11\.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Clear the Microsoft Defender's Protection History Folder
 
  You can manually clear the Protection History by deleting the contents of the Service folder in the Windows Defender folder using File Explorer. Here's how:
@@ -49,6 +45,11 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 2. Copy and paste the path below and click on **OK** or hit **enter:** **C:\\ProgramData\\Microsoft\\Windows Defender\\Scans\\History**  
 ![Defender History Folder Path Typed in Run Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-defender-history-folder-via-run.jpg)
 3. You can also paste the **C:\\ProgramData\\Microsoft\\Windows Defender\\Scans\\History** path in the File Explorer navigation bar and then hit **enter**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Defender History Folder Path in File Explorer Navigation Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/defender-history-folder-path-in-file-explorer.jpg)  
  Alternatively, you can navigate to the **Defender Protection History** folder using the above path in File Explorer. If you don't see the **ProgramData** folder when you open the Local Drive, select **View** and then tick the box next to **Hidden items**.  
 
@@ -58,16 +59,12 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Select Files in History Folder and Delete Them](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Select-Files-in-History-Folder-and-Delete-Them.jpg)
 5. Next, search for **Windows Security** and open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Under **Virus & threat protection** click on **Manage settings**.  
 ![Virus and Threat Protection Settings in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Virus-and-Threat-Protection-in-Windows-Security.jpg)
 7. Finally, toggle the button to **Off** and then to **On** again, for **Real-Time protection** and **Cloud-delivered protection**.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Clear the Microsoft Defender Protection History Using the Event Viewer
@@ -86,18 +83,18 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Open Operational Option to View Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Operational-Option-to-View-Defender-Logs.jpg)
 8. Now you can right-click on **Operational** in the left pane and choose **Clear Log**. Or click on **Clear Log** on the right pane under **Actions**.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Options to Clear Log from Left Pane or Under Actions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Options-to-Clear-Log-Of-Windows-Defender.jpg)
 9. Select **Clear** to clear the protection history. If you wish to save the protection history logs for future reference before clearing them, select **Save and Clear**.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Options to Clear Logs or Save and Clear Defender Logs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Clear-and-Save-and-Clear-Options-for-Defender-Logs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Clear the Microsoft Defender Protection History via PowerShell
 
@@ -111,11 +108,11 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Command to Clear Protection History in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-Command-to-Clear-Protection-History.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The number **7** at the end of the command is the number of days after which the protection history logs will be cleared. Just change that number to specify when you want the protection history to be cleared. And it will be cleared automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. How to Clear the Microsoft Defender Protection History Using the Group Policy Editor
 
@@ -134,10 +131,14 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ![Specify Number of Days to Remove Scan Items in Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Set-Number-of-Days-to-Remove-Scan-Items.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you won't need to manually clear Protection History every time—the items in the scan history folder would be deleted automatically after the days you've specified.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clear the Microsoft Defender Protection History Whenever You Want
 
@@ -155,16 +156,22 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-your-ultimate-guide-to-best-free-game-recording-apps-for-2024/"><u>[Updated] Your Ultimate Guide to Best Free Game Recording Apps for 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/digital-detox-for-your-jpeg-files/"><u>Digital Detox for Your JPEG Files</u></a></li>
-<li><a href="https://win11.techidaily.com/experts-tips-investigating-and-clearing-window-history/"><u>Expert's Tips: Investigating & Clearing Window History</u></a></li>
-<li><a href="https://win-great.techidaily.com/ford-bronco-desktop-backgrounds-and-screensaver-pack-by-yl-computing-innovative-imagery-collection/"><u>Ford Bronco Desktop Backgrounds & Screensaver Pack by YL Computing: Innovative Imagery Collection</u></a></li>
-<li><a href="https://win11.techidaily.com/identifying-wins-best-performance-analyzers-of-choice/"><u>Identifying Win's Best Performance Analyzers of Choice</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-next-level-techniques-outperforming-fbx-recording/"><u>In 2024, Next-Level Techniques Outperforming FBX Recording</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>In 2024, The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-gaming-potential-on-windows-os/"><u>Maximizing Gaming Potential on Windows OS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/navigate-the-world-of-digital-humor-with-our-gif-guide/"><u>Navigate the World of Digital Humor with Our GIF Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstallation-guide-for-windows-feature-absence/"><u>Reinstallation Guide for Windows Feature Absence</u></a></li>
-<li><a href="https://win11.techidaily.com/winfixer-overcoming-unreachable-wi-fi-connection-on-windows-11/"><u>Winfixer: Overcoming Unreachable Wi-Fi Connection on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-creative-channel-titling-techniques-for-growth-for-2024/"><u>[New] Creative Channel Titling Techniques for Growth for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ignite-your-brands-success-with-a-10-step-blueprint-for-smm-dominance/"><u>[New] Ignite Your Brand's Success with a 10-Step Blueprint for SMM Dominance</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nleash-creativity-crafting-your-own-youtube-shorts-thumbnails-for-2024/"><u>[New] Unleash Creativity Crafting Your Own YouTube Shorts Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-what-is-filmora-certified-creative-program-and-how-to-become-an-fcc/"><u>[Updated] In 2024, What Is Filmora Certified Creative Program and How to Become an FCC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-borderlands-3-performance-expert-fixes-for-lagging-frame-rates-on-pc/"><u>Boost Your Borderlands 3 Performance: Expert Fixes for Lagging Frame Rates on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-gaming-with-new-logitech-g910-software-free-download-for-windows-computers/"><u>Enhance Your Gaming with New Logitech G910 Software - Free Download for Windows Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-your-hidden-windows-version-identification/"><u>How to Access Your Hidden Windows Version Identification</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-average-payout-for-a-million-view-youtube-video/"><u>In 2024, Average Payout for a Million-View YouTube Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-image-editing-online-cropping-essentials/"><u>In 2024, Immersive Image Editing Online Cropping Essentials</u></a></li>
+<li><a href="https://win11.techidaily.com/introducing-ai-copilot-microsofts-taskbar-innovation-for-windows-11-users/"><u>Introducing AI Copilot: Microsoft's Taskbar Innovation for Windows 11 Users</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-compatibility-rejection-on-your-pc/"><u>Overcoming Windows 11 Compatibility Rejection on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-fixed-or-frozen-menu-bar-on-windows-11-pc/"><u>Rectifying Fixed or Frozen Menu Bar on Windows 11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/surgical-steps-for-error-code-fix-0x80072f8f-0x20000/"><u>Surgical Steps for Error Code Fix: 0X80072f8f-0x20000</u></a></li>
+<li><a href="https://win11.techidaily.com/top-3-steps-for-identifying-your-pcs-gpu-in-windows-11/"><u>Top 3 Steps for Identifying Your PC's GPU in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/transform-your-photos-to-searchable-text-on-ios-using-scannerplusocr-by-docuscan-technologies/"><u>Transform Your Photos to Searchable Text on iOS Using Scanner+OCR by DocuScan Technologies</u></a></li>
+<li><a href="https://win11.techidaily.com/unseen-windows-hide-taskbar-search-in-window-11/"><u>Unseen Windows: Hide Taskbar Search in Window 11</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-settings-for-spatial-sound-optimization/"><u>Windows 11 Settings for Spatial Sound Optimization</u></a></li>
 </ul></div>
 

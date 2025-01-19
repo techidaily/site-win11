@@ -1,7 +1,7 @@
 ---
 title: Mastering File Server Connection in the Latest Win11 Version
-date: 2025-01-10T16:33:12.619Z
-updated: 2025-01-12T16:05:19.254Z
+date: 2025-01-12T23:19:09.883Z
+updated: 2025-01-19T01:42:04.800Z
 tags:
   - windows10
   - windows11
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c774dca3ab72d0dd337e416f6694c83a3258e5704
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Configure Network Discovery in Windows
 
  Windows has a feature called[network discovery](https://www.makeuseof.com/windows-network-discovery-turn-on-off/) that allows your computer to discover and access other devices on the same network, such as computers, servers, and printers.
@@ -44,6 +48,10 @@ Follow the sets below to enable network discovery on Windows:
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. If you're looking to access a printer on the network, make sure to enable**File and printer sharing** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you turn on network discovery, other devices on the same network can see your computer and access it.
 
  Select**Private networks** if you are connected to a trusted network, such as your home network. But if you're connected to an unfamiliar network, you should select the**Public networks** option.
@@ -53,7 +61,7 @@ Follow the sets below to enable network discovery on Windows:
  Therefore, it's crucial to ensure that you have a strong password and[customize your default Windows Firewall](https://www.makeuseof.com/windows-firewall-control-guide/) to protect your device in case something goes wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Map a Network Drive Using File Explorer
@@ -71,7 +79,7 @@ Here's what you need to do to use File Explorer for mapping:
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Finish** to complete the mapping process.  
@@ -80,10 +88,6 @@ Here's what you need to do to use File Explorer for mapping:
  Once you have completed these steps, it'll map the folder to the specified drive letter in File Explorer. You can access the shared folder at any time by double-clicking on the drive.
 
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Windows PowerShell for Mapping
 
@@ -102,10 +106,6 @@ New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Cred
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Use Command Prompt for Mapping
 
@@ -134,11 +134,11 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Map Network Drives Easily in Windows 11
 
@@ -161,18 +161,20 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-windows-instant-file-review-techniques/"><u>[New] Windows Instant File Review Techniques</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimal-orientation-for-fb-content-creation/"><u>[Updated] 2024 Approved Optimal Orientation for FB Content Creation</u></a></li>
-<li><a href="https://win-web.techidaily.com/1-troubleshooting-tips-reviving-your-non-responsive-scanner-expert-advice-by-yl-computing/"><u>1. Troubleshooting Tips: Reviving Your Non-Responsive Scanner - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/defeating-the-error-steps-to-ensure-call-of-duty-black-ops-4-proper-launch/"><u>Defeating the Error: Steps to Ensure Call of Duty: Black Ops 4 Proper Launch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-secure-asrock-ab350-pro4-driver-updates-for-windows-without-spending-a-penny/"><u>How to Secure ASRock AB350 Pro4 Driver Updates for Windows Without Spending a Penny</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optic-oasis-discover-the-top-10-lenses/"><u>In 2024, Optic Oasis Discover the Top 10 Lenses</u></a></li>
-<li><a href="https://win11.techidaily.com/master-your-workspace-positioning-gmail-bar-for-quick-access/"><u>Master Your Workspace: Positioning Gmail Bar for Quick Access</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigate-the-world-of-video-conferencing-for-2024/"><u>Navigate the World of Video Conferencing for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-through-6-premier-performance-trackers-for-pcs/"><u>Navigate Through 6 Premier Performance Trackers for PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/prime-6-engagement-realms-critical-for-corporate-networks/"><u>Prime 6 Engagement Realms Critical for Corporate Networks</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-typical-rainmeter-glitches-on-pc/"><u>Solutions for Typical Rainmeter Glitches on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-for-dealing-with-immutable-windows-energy-modes/"><u>Tips for Dealing with Immutable Windows Energy Modes</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-windows-update-error-code-0x800736cc/"><u>Troubleshooting Windows Update: Error Code 0X800736CC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/asf2024/"><u>「ASFファイル再生エラーを解消する2024対策手順マニュアル」</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-shortcuts-you-should-know/"><u>2024 Approved YouTube Shortcuts You Should Know</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-5-apple-podcast-services-for-ios-users/"><u>Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-memory-overuse-by-microsoft-edge-webview2/"><u>Fixing Memory Overuse by Microsoft Edge WebView2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-x-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone X | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-wacom-intuos-pro-drivers-running-on-windows-11-a-hassle-free-guide/"><u>How to Get the Latest Wacom Intuos Pro Drivers Running on Windows 11 - A Hassle-Free Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-clear-skies-in-video-learn-to-trim-logitech-feeds/"><u>In 2024, Clear Skies in Video – Learn to Trim Logitech Feeds</u></a></li>
+<li><a href="https://win11.techidaily.com/insiders-tactics-secrets-to-mac-acquisition-on-windows-11/"><u>Insider's Tactics: Secrets to MAC Acquisition on WIndows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/maintain-efficient-use-windows-11-idle-shutdown-tips-and-tricks/"><u>Maintain Efficient Use: Windows 11 Idle Shutdown Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/maximizing-windows-11-using-windows-to-go-and-rufus-on-vintage-computers/"><u>Maximizing Windows 11: Using Windows To Go & Rufus on Vintage Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-your-environment-adding-tasks-to-windows-explorer-menus/"><u>Personalize Your Environment: Adding Tasks to Windows Explorer Menus</u></a></li>
+<li><a href="https://win11.techidaily.com/prolonging-windows-11-shutdown-handling-running-jobs/"><u>Prolonging Windows 11 Shutdown - Handling Running Jobs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-vivo-v27-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Vivo V27 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/revamp-your-esc-experience-simple-fixed-for-your-windows-pc/"><u>Revamp Your Esc Experience: Simple Fixed For Your Windows PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/savvy-shoppers-guide-to-cheap-240hz-panels/"><u>Savvy Shoppers' Guide to Cheap 240Hz Panels</u></a></li>
 </ul></div>
 

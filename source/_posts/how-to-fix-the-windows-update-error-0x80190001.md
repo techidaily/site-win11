@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Windows Update Error 0X80190001
-date: 2025-01-07T23:15:50.921Z
-updated: 2025-01-13T10:13:39.939Z
+date: 2025-01-15T02:21:21.936Z
+updated: 2025-01-18T23:11:11.980Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Causes Windows Update Error 0x80190001?
 
  Windows Update Error 0x80190001 occurs most often when trying to download and install Windows Updates. It can make your computer feel outdated, slow, and unresponsive since it won't receive important security updates.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/aa55be7c2a41a4441a2d4709614981b2cbcf720fe
  Common causes of this error may include incorrect time and date settings, corrupted or faulty system files, and incompatible third-party security software. In this article, we'll discuss each of these issues in more detail so that you can get your Windows Updates running again.
 
 Here are a few things you can try if you encounter this error.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -61,10 +53,6 @@ To try it, follow these steps:
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Run-Windows-Update-Troubleshooter.jpg)
 4. Click the**Run** option next to Windows Update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take some time for troubleshooting to be completed, so don't worry if it takes longer than expected. After completing the above steps, try installing updates on Windows.
 
 ## 3\. Check Your Date & Time
@@ -79,7 +67,7 @@ To try it, follow these steps:
  You should also double-check your time zone so that Windows knows when the updates should be installed - otherwise, it may ignore them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Run an SFC and DISM Scan
@@ -96,6 +84,10 @@ To try it, follow these steps:
 4. Then press**Enter** on your keyboard.  
 ![SFC and DISM Scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/SFC-and-DISM-Scan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process will take a few minutes to complete. If you wish, you can do other things while the system scans the data. Once the process is completed, try updating Windows again.
 
  If the problem persists, you should run the Deployment Image Servicing and Management command line tool to restore system files and repair any corrupted system images. Here are the steps to follow:
@@ -105,6 +97,10 @@ To try it, follow these steps:
 DISM /Online /Cleanup-Image /ScanHealthDism.exe /online /cleanup-image /restorehealth
 
  You may have to wait for a while for the process to complete. After you run the DISM command, restart your computer to see if the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Clear the SoftwareDistribution Folder
 
@@ -142,13 +138,14 @@ net start msiserver`
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 5. Remove the check mark from**Load startup items** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. On the Services tab, select**Hide all Microsoft services** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 2. Then click**Disable all** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Apply** to save your changes.
 4. Now switch to the Startup tab and click the**Open Task Manager** link.  
 ![Open Task Manager Via Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Task-Manager-Via-Startup-tab.jpg)
@@ -157,6 +154,10 @@ net start msiserver`
 6. To save your changes, click**OK** in the System Configuration window,
 
  Once you have finished the steps above, restart your computer and try updating Windows again. If you find this method helpful, it means the problem lies with one of the services you disabled. As such, enable each service one by one and identify the one causing the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixing Windows Update Error 0x80190001
 
@@ -177,20 +178,18 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-beginner-to-maestro-a-comprehensive-gif-tutorial-for-snapchat/"><u>[New] 2024 Approved From Beginner to Maestro A Comprehensive Gif Tutorial for Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ial-in-the-ideal-aspect-ratio-for-stunning-youtube-videos-for-2024/"><u>[New] Dial in the Ideal Aspect Ratio for Stunning YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>[Updated] 2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-audio-enthusiasts-guide-to-the-best-10-spotify-recorders/"><u>2024 Approved Audio Enthusiast's Guide to the Best 10 Spotify Recorders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-dynamic-musical-journeys-with-crossfading/"><u>Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
-<li><a href="https://win11.techidaily.com/embracing-change-with-these-9-outlook-upgrade-benefits/"><u>Embracing Change with These 9 Outlook Upgrade Benefits</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/guide-pratique-pour-recuperer-automatiquement-des-fichiers-supprimes-sur-windows-1011/"><u>Guide Pratique Pour Récupérer Automatiquement Des Fichiers Supprimés Sur Windows 10/11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-pc-efficiency-handling-unrealcefsubprocess-resource-usage/"><u>Improving PC Efficiency: Handling UnrealCEFSubprocess Resource Usage</u></a></li>
-<li><a href="https://win11.techidaily.com/instant-fix-resetting-key-software-directories-on-ws11-system/"><u>Instant Fix: Resetting Key Software Directories on WS11 System</u></a></li>
-<li><a href="https://win11.techidaily.com/reinstating-windows-optimal-performance-mode/"><u>Reinstating Windows Optimal Performance Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-windows-game-bars-spec-deficiencies/"><u>Remedying Windows Game Bar's Spec Deficiencies</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-psx-w11-issue-with-2021-2023-adobe-photoshop/"><u>Resolving PSX: W11 Issue with 2021-2023 Adobe Photoshop</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-tips-for-preparedness-before-clean-installing-windows-os/"><u>Top 10 Tips for Preparedness Before Clean Installing Windows OS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-spark-ars-full-potential-with-personalized-lut-implementations/"><u>Unlock Spark AR's Full Potential with Personalized LUT Implementations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ise-to-editing-greatness-with-our-top-10-youtube-tips/"><u>[New] Rise to Editing Greatness with Our Top 10 YouTube Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-8-plus-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 8 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-to-the-device-not-migrated-challenge-on-windows-10-systems/"><u>Comprehensive Solutions to the 'Device Not Migrated' Challenge on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-privacy-share-exclusive-youtube-clips-through-gmail/"><u>Elevating Privacy Share Exclusive YouTube Clips Through Gmail</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-guide-to-preventing-and-fixing-alan-wake-2-freezes-updates/"><u>Expert Guide to Preventing and Fixing Alan Wake 2 Freezes - Updates</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>How to identify malfunctioning drivers with Windows Device Manager in Windows 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/make-text-work-again-in-windows-pdf-documents/"><u>Make Text Work Again in Windows' PDF Documents</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-windows-crash-dumps/"><u>Navigating Through Windows' Crash Dumps</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-barriers-to-microsoft-store-usage-in-windows-11/"><u>Overcoming Barriers to Microsoft Store Usage in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/straightforward-wireless-linking-win-plus-playstation-3-pad/"><u>Straightforward Wireless Linking: Win + PlayStation 3 Pad</u></a></li>
+<li><a href="https://win11.techidaily.com/taking-control-from-bat-to-winexe-mastery/"><u>Taking Control: From .bat to WinEXE Mastery</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-multitasking-shutdown-many-at-once/"><u>The Ultimate Guide to Multitasking: Shutdown Many at Once</u></a></li>
 </ul></div>
 

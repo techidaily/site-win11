@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Regain Access to Microsoft OneDrive via PC"
-date: 2024-08-16T00:49:40.661Z
-updated: 2024-08-17T00:49:40.661Z
+date: 2025-01-11T23:15:06.877Z
+updated: 2025-01-19T00:35:30.117Z
 tags:
   - windows10
   - windows11
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
  There was a time when managing Windows files was daunting. With the advent of cloud storage services such as Microsoft’s OneDrive, storage and sharing have become easier. However, sometimes you may face sign-in issues with OneDrive on Windows devices. Read on to learn more about Microsoft OneDrive and how to resolve sign-in problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Can’t You Sign Into OneDrive?
 
  There are several reasons why your Windows device may not sign in to OneDrive. It includes faulty installations, incorrect credentials, and outdated software.
@@ -29,18 +33,12 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 3. You're running an older Windows version.
 4. There are corrupted cache files within OneDrive.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  Your device needs an active internet connection to stay connected to Microsoft’s servers. So, if you’re having trouble signing in to your Microsoft OneDrive account, check your internet connection. To do this, open the default web browser and load a page. If the page fails to load, your internet connection is likely the problem.
 
  If you're getting unreliable internet service, check out this guide on [fixing unstable internet connections](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Clear the OneDrive Cache
 
  Like any other application, OneDrive stores certain data locally to improve performance. If this data becomes corrupted, you may experience sign-in problems. In this case, clearing the OneDrive cache should help.
@@ -54,6 +52,10 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
 3. Once you’re in the OneDrive folder, press **Ctrl + A** to select all items and hit the **Delete** key.
 
  Doing so will reset all OneDrive settings on your computer, including stored sign-in information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Unlink and Re-Link Your OneDrive Account
 
@@ -70,6 +72,10 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
 6. If prompted, click **Unlink account** to confirm the action.  
 ![Unlink OneDrive Account on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unlink-onedrive-account-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve unlinked OneDrive, you can re-link your account. To do this, go back to the **Account** tab in OneDrive Settings and click the **Add an account** button. Enter your Microsoft account credentials to sign in and re-link your account.
 
 ## 4\. Reset the OneDrive App
@@ -79,15 +85,9 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
  To reset the OneDrive app, press **Win + X** on your keyboard and select **Installed apps** from the power user menu. Under Installed apps, click the three dots icon next to **OneDrive** and select **Advanced options**. You can also use the search bar to find OneDrive.
 
 ![Reset OneDrive app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-onedrive-app.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
  On the next screen, scroll down to the **Reset** section and click **Reset**. If prompted, click the **Reset** button again to confirm the action. After OneDrive is reset, you can now sign in with your Microsoft account and access your files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable Any Active Proxy or VPN Connections
 
  If you're using a proxy or virtual private network (VPN) connection, try disabling it. Sometimes proxies and VPNs can interfere with OneDrive's authentication process, so disabling them could solve the problem.
@@ -108,6 +108,10 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
 
  After disabling both the Proxy and VPN, restart your computer and try signing in to OneDrive again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Reinstall OneDrive
 
  You can also try uninstalling and reinstalling the application. This will re-create the local files and resolve any sign-in issues. This will re-create the local files and resolve any sign-in issues.
@@ -119,12 +123,13 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
 3. Scroll down to **OneDrive** and click the three dots next to it.
 4. Click **Uninstall** from the context menu.  
 ![Uninstall OneDrive-3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-onedrive-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If a popup menu appears, click **Uninstall** again and follow the instructions to complete the process. You don't need to worry about your files since they’ll be synced once you sign in.
 
  After uninstalling, you can [download OneDrive from Microsoft’s official website](https://www.microsoft.com/en-us/microsoft-365/onedrive/download). Once the application is installed, try signing in to OneDrive and seeing if it solves the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Check for a New Windows Update
 
@@ -136,26 +141,22 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
 2. Select **Windows Update** from the left sidebar.
 3. Now go to the right and click **Check for updates**.  
 ![Check for updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If there’s a newer Windows version available, the computer will automatically download it for you. Once updated, restart your computer and try signing in to OneDrive again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Verify Your Microsoft Account
 
  No matter how many times you try, OneDrive won't sign in if it is suspended or locked. This can happen due to suspicious activities, such as an unauthorized login attempt.
 
  To make sure this isn’t the case, [verify your Microsoft account](https://www.makeuseof.com/microsoft-account-recovery-form/). Once verified, try signing in to OneDrive again and it should work now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Get Easy Access to OneDrive on Windows
 
  OneDrive login problems can be frustrating, and solving them isn't always straightforward. However, in this article, we have provided solutions that will guide you through fixing it. Use these tips to troubleshoot your OneDrive Sign in issues.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +164,23 @@ C:\Users\Username\AppData\Local\Microsoft\OneDrive
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-conclusion/"><u>[New] 2024 Approved Conclusion</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astering-filmmaking-on-youtube-and-substitutes-for-2024/"><u>[New] Mastering Filmmaking on YouTube & Substitutes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fbs-flash-video-frontier/"><u>[Updated] In 2024, FB's Flash Video Frontier</u></a></li>
+<li><a href="https://win-web3.techidaily.com/aomei-tpbackup-configurer-le-sysreq-pour-une-sauvegarde-centralisee/"><u>AOMEI TPBackUp: Configurer Le SysReq Pour Une Sauvegarde Centralisée</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breeze-through-successful-discord-installation-after-initial-failure/"><u>Breeze Through Successful Discord Installation After Initial Failure</u></a></li>
+<li><a href="https://win11.techidaily.com/convenient-accessibility-incorrancing-desktop-with-this-pc/"><u>Convenient Accessibility: Incorrancing Desktop with 'This PC'</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-reliable-copy-functionality-in-windows-11/"><u>Ensuring Reliable Copy Functionality in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-7-5-ways-to-get-into-a-locked-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 7? 5 Ways to get into a Locked iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovating-explore-key-modifications-in-windows-11-filesystem/"><u>Innovating Explore: Key Modifications in Windows 11 Filesystem</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lgs-revolutionary-lightweight-laptop-showdown-gram-pro-17-vs-earlier-model-exclusive-sale-for-prime-day-tech-insights/"><u>LG's Revolutionary Lightweight Laptop Showdown: Gram Pro 17 Vs. Earlier Model, Exclusive Sale for Prime Day | Tech Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-more-efficiently-with-enhanced-mouseclicklock-functionality/"><u>Navigating More Efficiently with Enhanced MouseClickLock Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/pro-wls-2-usage-cutting-edge-practices-for-windows-users/"><u>Pro WLS 2 Usage: Cutting-Edge Practices for Windows Users</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-images-windows-generative-erase-mastery/"><u>Reimagining Images: Windows Generative Erase Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-fifa-20s-directx-issues-with-easy-solutions/"><u>Resolving FIFA 20'S DirectX Issues with Easy Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/inal-touch-youtube-outro-essentials-plus-premier-creator-list-for-2024/"><u>The Final Touch YouTube Outro Essentials + Premier Creator List for 2024</u></a></li>
+</ul></div>
+

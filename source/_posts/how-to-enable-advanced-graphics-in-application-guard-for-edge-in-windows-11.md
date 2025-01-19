@@ -1,7 +1,7 @@
 ---
 title: How to Enable Advanced Graphics in Application Guard for Edge in Windows 11
-date: 2025-01-07T10:03:00.243Z
-updated: 2025-01-12T23:23:52.630Z
+date: 2025-01-14T00:56:19.008Z
+updated: 2025-01-18T21:40:53.573Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Enable Advanced Graphics via Windows Settings
 
  The Settings app is a great way to quickly enable advanced graphics for your Application Guard in Microsoft Edge. To do this, follow these steps:
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 5. Select**Change Applications Guard settings** from the Isolated browsing section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Then, on the Application Guard settings page, toggle**Advanced graphics** on.  
@@ -45,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 7. If you see a UAC prompt, click**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you follow the above steps, close the Settings window and restart your computer. Application Guard will now be enabled with advanced graphics support. If you ever want to turn off this feature, just follow the same steps and turn off Advanced graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. How to Enable Advanced Graphics via Registry Editor
@@ -69,14 +73,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 ![Enable Advanced Graphics in Application Guard Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-advanced-graphics-in-application-guard-using-registry.jpg)
 6. In the Value data field, type**1** and click**OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After completing the above steps, close the Registry window and restart your computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Application Guard for Edge Now Works With Advanced Graphics
@@ -98,14 +98,18 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-astute-selection-of-12-motion-cameras-with-onboard-positioning/"><u>[New] In 2024, Astute Selection of 12 Motion Cameras With Onboard Positioning</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-what-is-igtv-and-how-to-use-it-everything-you-need-to-know/"><u>[Updated] What Is IGTV and How to Use It Everything You Need to Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/boost-site-performance-with-the-help-of-cookiebot-technology/"><u>Boost Site Performance with the Help of Cookiebot Technology</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-k70-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi K70 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-lack-of-microphone-feedback-in-pc-gaming-sessions/"><u>Resolving Lack of Microphone Feedback in PC Gaming Sessions</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-fun-best-free-media-tools-for-pcs/"><u>Streamline Fun: Best Free Media Tools for PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/tackle-no-server-woes-top-strategies-for-a-smooth-gaming-experience-on-windows-(156-chars/"><u>Tackle No-Server Woes: Top Strategies for a Smooth Gaming Experience on Windows (<156 Chars)</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-10-or-11-wont-wake-from-sleep-with-keyboard-or-mouse-what-to-do/"><u>Windows 10 or 11 Won't Wake From Sleep With Keyboard or Mouse? What to Do</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-electronic-conference-logging/"><u>[New] In 2024, Electronic Conference Logging</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-navigating-the-seo-maze-a-guide-to-youtube-keywords/"><u>[New] Navigating the SEO Maze A Guide to YouTube Keywords</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-chromeos-top-free-screen-capture-software/"><u>[Updated] ChromeOS Top Free Screen Capture Software</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-frosty-ambiance-cozy-cinematics-best-bgs-ideas/"><u>[Updated] Frosty Ambiance, Cozy Cinematics Best Bgs Ideas</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-non-tripod-techniques-for-still-cameras/"><u>2024 Approved Non-Tripod Techniques for Still Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/browse-or-plugin-deciding-on-the-ideal-chatgpt-experience-for-your-needs/"><u>Browse or Plugin? Deciding on the Ideal ChatGPT Experience for Your Needs</u></a></li>
+<li><a href="https://win11.techidaily.com/finding-zen-in-windows-sleep-mode/"><u>Finding Zen in Windows Sleep Mode</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-and-adjust-touch-layout-in-microsofts-latest-os-win-11/"><u>How to Reset and Adjust Touch Layout in Microsoft's Latest OS, Win 11</u></a></li>
+<li><a href="https://win11.techidaily.com/mastery-over-microsofts-dism-error-0x800f082f/"><u>Mastery over Microsoft's DISM Error: 0X800F082F</u></a></li>
+<li><a href="https://win11.techidaily.com/the-hidden-meanings-of-windows-update-ids/"><u>The Hidden Meanings of Windows Update IDs</u></a></li>
+<li><a href="https://win11.techidaily.com/unblock-bluetooth-pairing-failure-on-windows-1011/"><u>Unblock Bluetooth Pairing Failure on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/unknown-device-recognition-solutions-for-windows-11/"><u>Unknown Device Recognition - Solutions for Windows 11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unleash-hd-playback-with-av1-on-youtube/"><u>Unleash HD Playback with AV1 on YouTube</u></a></li>
 </ul></div>
 

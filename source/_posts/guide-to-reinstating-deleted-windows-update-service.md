@@ -1,7 +1,7 @@
 ---
 title: Guide to Reinstating Deleted Windows Update Service
-date: 2024-08-16T00:47:46.328Z
-updated: 2024-08-17T00:47:46.328Z
+date: 2025-01-15T02:03:15.103Z
+updated: 2025-01-19T01:22:04.124Z
 tags:
   - windows10
   - windows11
@@ -46,15 +46,13 @@ To run the Windows Update troubleshooter:
 5. To run the SFC scan, input the following command and press**Enter** :  
 `sfc /scannow`  
 ![Run SFC Scan on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-sfc-scan-on-windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC. Following that,[open the Services app](https://www.makeuseof.com/windows-11-open-services-app/) and see if you can find the Windows Update service.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Scan for Malware
 
  If the Windows Update service is still missing, you might be dealing with a virus or malware infection. To check for this possibility, you'll have to run a full system scan using the built-in Windows Security app. Here are the steps for the same.
@@ -68,9 +66,6 @@ To run the Windows Update troubleshooter:
 
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
  It's possible that a recent update or system change has messed up some of the registry files, causing the Windows Update service to go missing. If that's the case, you can try restoring the Windows Update service manually by editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . However, you should only do this if you're comfortable editing registry files.
@@ -86,10 +81,12 @@ To run the Windows Update troubleshooter:
 5. Within the**Services** key, locate the**wuauserv** key. If you can’t find it, skip to step number 9.
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 7. Right-click the**wuauserv** again and select**Delete** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
 10. Right-click anywhere on an empty spot on the desktop and select**New > Text Document** . This will open a blank Notepad document.
@@ -168,6 +165,11 @@ To run the Windows Update troubleshooter:
 12. Click the**File** menu in the top left corner and select**Save as** .  
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
 13. Save the file with**.reg** extension.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
@@ -184,8 +186,9 @@ To reset your Windows computer:
 4. In the "Reset this PC" wizard, select**Keep my files** if you want to retain your personal files. Otherwise, select**Remove everything** .
 
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
@@ -193,8 +196,9 @@ To reset your Windows computer:
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Restoring the Missing Windows Update Service
 
  It is vital to keep your Windows computer updated to the most recent version. However, you might have trouble doing so if the Windows Update service vanishes from your computer. Hopefully, one or more fixes in this guide have helped restore the missing Windows Update service, and you are able to install updates as before.
@@ -205,8 +209,6 @@ To reset your Windows computer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +216,21 @@ To reset your Windows computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-digital-darlings-facebooks-favorites/"><u>[New] Digital Darlings Facebook's Favorites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>[New] In 2024, Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-techniques-to-halt-live-streams-in-qt-player/"><u>[New] In 2024, Techniques to Halt Live Streams in QT Player</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-seamlessly-observe-the-most-praised-youtube-comments/"><u>[Updated] How to Seamlessly Observe the Most Praised YouTube Comments</u></a></li>
+<li><a href="https://win-news.techidaily.com/cut-costs-get-15-off-your-favorite-dj-and-karaoke-programs-at-dex-shop/"><u>Cut Costs: Get 15% Off Your Favorite DJ and Karaoke Programs at DEX Shop</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cutting-edge-chrome-vocal-transforming-apps-top-5-choices-for-2024/"><u>Cutting-Edge Chrome Vocal Transforming Apps Top 5 Choices for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-windows-experience-8-customizations-with-bubble-ui/"><u>Enhance Your Windows Experience: 8 Customizations with Bubble UI</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y100i-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y100i? Try These Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-reclaim-pre-set-touch-key-positions-in-windows-11/"><u>Method to Reclaim Pre-Set Touch Key Positions in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-event-viewer-malfunctions/"><u>Resolving Windows Event Viewer Malfunctions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screen-to-streamer-effortlessly-reviewed-for-2024/"><u>Screen to Streamer, Effortlessly Reviewed for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essential-guide-to-fine-tuning-ntfs-file-compression/"><u>The Essential Guide to Fine-Tuning NTFS File Compression</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/transnational-tongues-turkish-korean-twine/"><u>Transnational Tongues: Turkish-Korean Twine</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-netstat-command-your-gateway-to-network-analysis/"><u>Windows 11 Netstat Command: Your Gateway to Network Analysis</u></a></li>
+</ul></div>
 

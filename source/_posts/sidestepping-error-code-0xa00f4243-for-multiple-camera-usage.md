@@ -1,7 +1,7 @@
 ---
 title: "Sidestepping Error Code: 0XA00F4243 for Multiple Camera Usage"
-date: 2024-08-16T00:48:17.206Z
-updated: 2024-08-17T00:48:17.206Z
+date: 2025-01-11T17:43:42.195Z
+updated: 2025-01-18T19:30:03.529Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,11 @@ To view your camera's recent activity:
 2. In the left pane, open the**Privacy & security** tab.  
 ![windows 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera.jpg)
 3. Next, scroll down to the**App permissions** section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on the**Camera** option to view more options.  
 ![windows 11 camera recent access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera-recent-access.jpg)
 5. Click on**Recent activity** to view a full list of apps that have accessed your camera in the past seven days. It shows the app's name with the date and time.
@@ -48,6 +53,11 @@ To view your camera's recent activity:
 2. In Task Manager, open the**Process** tab.  
 ![end task manager camera app teams](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-manager-camera-app-teams.jpg)
 3. Next, locate and select any app that may have access to your camera. Often meeting apps such as Teams are what causes the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click on**End Task** to close the app and release the camera access.
 
  If the issue persists,[perform a quick restart of your Windows computer](https://www.makeuseof.com/windows-restart-methods/) to force close any glitchy apps and process to fix the error. If the app continues to hijack your camera, you can restrict the camera permission for the app. Here's how to do it.
@@ -56,8 +66,17 @@ To view your camera's recent activity:
 2. Scroll down and click on**Camera** .  
 ![windows 11 camera](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera.jpg)
 3. Expand the**Let apps access your camera** option.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![windows 11 camera limit apps access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-camera-limit-apps-access.jpg)
 4. Next, locate the app and toggle the switch to restrict the app from accessing your webcam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Restart the Camera Service (CamSvc)
 
@@ -72,16 +91,9 @@ To restart the Capability Access Manager Service (CamSvc):
 3. In the Service snap-in, locate the**Capabilities Access Manager Service.**
 4. Next, right-click on the**Capabilities Access Manager Service** and select**Restart** .  
 ![restart capabilities access manager service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restart-capabilities-access-manager-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. As the service restarts, relaunch your**Camera** and check for any improvements.
 6. If the error returns after a system restart, right-click on**Capabilities Access Manager Service** and select**Properties** .  
 ![startup type automatic capabilities access manager service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/startup-type-automatic-capabilities-access-manager-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 7. Click the**Startup type** drop-down and select**Automatic** .
 8. Click**Apply** and**OK** to save the changes.
 
@@ -94,32 +106,25 @@ To install Windows updates:
 1. Click on**Start** and select**Settings** .
 2. Scroll down and open the**Windows Update** tab.  
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Next, click on**Check for updates** . Windows will scan for new updates and list them accordingly.
 4. Check if any update for the camera is available. Also, look for firmware updates from your manufacturer. If yes, download and install all the updates and restart your PC.
 5. If not, click on**Advanced Options.**  
 ![windows 11 update advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 6. Next, open**Optional updates.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![windows 11 update advanced options optional update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update-advanced-options-optional-update.jpg)
 7. Check for any driver updates for the camera to install. Install all the updates and restart your PC.
 
  You can also find new updates on the computer manufacturer's website. For example, if you use an HP computer, go to the[HP Support Driver page](https://support.hp.com/in-en/drivers) . Next, select your product type, select your product model, and provide other necessary information.
 
 ![hp download firmware update driver website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hp-download-firmware-update-driver-website.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Next, expand the**All drivers** section and look if new drivers are available for your BIOS-System Firmware and the camera. Download and install the drivers and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Switch the USB Port Where Your Camera Is Connected
 
  If you're using an external camera connected to a USB hub, try connecting it directly to a different USB port on your computer. External devices connected to a USB hub can sometimes stop working due to insufficient power and compatibility issues.
@@ -146,11 +151,17 @@ To roll back the camera driver:
 1. In Device**Manager** , right-click on your camera device and select**Properties** .  
 ![properties camera device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager.jpg)
 2. Open the**Driver** tab in the**Properties** dialog.  
-![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
 3. Next, click on**Roll Back Driver** and confirm the action. If the option is grayed out, you don't have any older drivers to restore.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get Your Webcam Working Again
 
@@ -164,8 +175,6 @@ To roll back the camera driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +182,26 @@ To roll back the camera driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-your-step-by-step-apk-to-funimate-play/"><u>[New] 2024 Approved Your Step-by-Step APK to Funimate Play</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-media-non-xsplit-options-revealed-for-2024/"><u>[New] Mastering Media Non-Xsplit Options Revealed for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-simplified-social-syncing-from-instagram-to-facebook-for-2024/"><u>[New] Simplified Social Syncing From Instagram To Facebook for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-rule-sets-with-three-methodologies/"><u>Dissecting Windows Rule Sets with Three Methodologies</u></a></li>
+<li><a href="https://facebook.techidaily.com/english-footballers-withdraw-from-digital-platforms-amid-cyberbullying-concerns/"><u>English Footballers Withdraw From Digital Platforms Amid Cyberbullying Concerns</u></a></li>
+<li><a href="https://win11.techidaily.com/ensuring-successful-utorrent-installation-after-failure-on-windows/"><u>Ensuring Successful uTorrent Installation After Failure on Windows</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-23-key-metaverse-implementations-unveiling-future-prospects/"><u>In 2024, 23 Key Metaverse Implementations Unveiling Future Prospects</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-version-of-mpow-bluetooth-drivers-for-improved-compatibility-with-windows-1187-download-here/"><u>Install the Latest Version of MPOW Bluetooth Drivers for Improved Compatibility with Windows 11/8/7 - Download Here</u></a></li>
+<li><a href="https://win11.techidaily.com/modify-image-positioning-on-windows-pcs/"><u>Modify Image Positioning on Windows PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-samsung-galaxy-a34-5g-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Samsung Galaxy A34 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-vscode-closure-issues-in-w11/"><u>Overcoming VSCode Closure Issues in W11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-complete-guide-to-help-you-convert-srt-to-xml-ssa-ttml-and-other-formats/"><u>The Complete Guide to Help You Convert SRT to XML, SSA, TTML, and Other Formats</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-essential-guide-to-enhancing-ar-with-lut-knowledge/"><u>The Essential Guide to Enhancing AR with LUT Knowledge</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-directdraw-errors-in-w10w11/"><u>Troubleshooting DirectDraw Errors in W10/W11</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-msresourceapptext-error-in-win11/"><u>Troubleshooting MsResource/AppText Error in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/unboxed-an-in-depth-look-at-the-latest-tech-the-samsung-galaxy-note2eby-with-5g-technology/"><u>Unboxed: An In-Depth Look at the Latest Tech - The Samsung Galaxy Note2eby with 5G Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/unleashing-the-power-to-repair-widespread-rainmeter-disruptions/"><u>Unleashing the Power to Repair Widespread Rainmeter Disruptions</u></a></li>
+<li><a href="https://win11.techidaily.com/winos-protocols-to-prevent-unwanted-shrinkage/"><u>WinOS Protocols to Prevent Unwanted Shrinkage</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Streamlining Windows 11 Menu with Additional Folders
-date: 2024-12-30T17:14:27.581Z
-updated: 2025-01-06T18:01:59.247Z
+date: 2025-01-17T18:48:31.373Z
+updated: 2025-01-18T17:01:28.781Z
 tags:
   - windows10
   - windows11
@@ -46,14 +46,10 @@ Once your PC has restarted:
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-add-button.jpg)
 4. Choose a directory to add to the context menu and select the**OK** option.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Click**Done** to exit the MyFolders window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use MyFolders
@@ -62,21 +58,17 @@ Once your PC has restarted:
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Folders to Windows 11’s Context Menu With Right Click Context Menu Adder
 
@@ -95,11 +87,15 @@ Once your PC has restarted:
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
 10. Press the**OK** button to extract the RAR archive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 11. Exit the 7-Zip software.
@@ -132,12 +128,16 @@ Once your PC has restarted:
 ![The Enable Aero Glass checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-enable-aero-glass-setting.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -158,22 +158,24 @@ Once your PC has restarted:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-boosting-your-stream-quality-with-zoom-and-fb-live-for-2024/"><u>[New] Boosting Your Stream Quality with ZOOM & FB Live for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-download-harmony-free-music-from-fb-for-2024/"><u>[Updated] Download Harmony Free Music From FB for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tips-for-producing-high-quality-youtube-videos/"><u>[Updated] In 2024, Essential Tips for Producing High-Quality YouTube Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-unbeatable-deals-economical-gopro-camera-shopping-for-2024/"><u>[Updated] Unbeatable Deals Economical GoPro Camera Shopping for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/definitive-fixes-to-get-past-fortnites-incessant-load-screen-problem/"><u>Definitive Fixes to Get Past Fortnite's Incessant Load Screen Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/directx-12-the-comprehensive-guide-to-system-updates-and-installation/"><u>DirectX 12: The Comprehensive Guide to System Updates & Installation</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-authenticity-alert-from-adobe-software/"><u>Fixing Authenticity Alert From Adobe Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-nokia-c32-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Nokia C32</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-elite-preview-screenplay-series/"><u>In 2024, Elite Preview Screenplay Series</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-disk-type-verification-hdd-vs-ssd-in-windows-os/"><u>Navigating Disk Type Verification: HDD vs SSD in Windows OS</u></a></li>
-<li><a href="https://fox-that.techidaily.com/speed-up-your-iphone-now-with-these-6-troubleshooting-steps/"><u>Speed Up Your iPhone Now with These 6 Troubleshooting Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-mend-internal-audio-problems-with-audacity-windows-11/"><u>Strategies to Mend Internal Audio Problems with Audacity (Windows 11)</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-installing-adobe-reader-via-microsoft-platform/"><u>Streamline Installing Adobe Reader via Microsoft Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-upgraded-operating-systems-achieving-harmony-with-wsl/"><u>Streamlining Upgraded Operating Systems: Achieving Harmony with WSL</u></a></li>
-<li><a href="https://win11.techidaily.com/the-os-command-center-steps-to-access/"><u>The OS Command Center: Steps to Access</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-update-components-must-be-repaired-fixed/"><u>Windows Update Components Must Be Repaired [FIXED]</u></a></li>
-<li><a href="https://win11.techidaily.com/wsls-influence-on-desktop-linux-statistics/"><u>WSL's Influence on Desktop Linux Statistics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-turbocharge-your-photos-windows-11-edition-for-2024/"><u>[New] Turbocharge Your Photos Windows 11 Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-journey-to-digital-mastery-explore-best-10-android-drawing-apps/"><u>[Updated] 2024 Approved Journey to Digital Mastery Explore Best 10 Android Drawing Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts/"><u>[Updated] 2024 Approved Maximize Impact with Custom Icons and Graphics on Your Instagram Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-android-and-ios-leading-titles-mimicking-playstation-games-for-2024/"><u>[Updated] Android & iOS Leading Titles Mimicking PlayStation Games for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-an-easy-to-follow-guide-to-applying-cc-license-types/"><u>[Updated] In 2024, An Easy-to-Follow Guide to Applying CC License Types</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-photoshops-role-in-crafting-stunning-hdr-visuals/"><u>[Updated] In 2024, Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://win11.techidaily.com/break-free-from-google-chrome-glitch-on-windows-11-now/"><u>Break Free From Google Chrome Glitch on Windows 11 Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/converting-from-pin-to-password-a-windows-11-users-guide-for-enhanced-security/"><u>Converting From PIN to Password: A Windows 11 User's Guide for Enhanced Security</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-hp-deskjet-2700-printer-driver-software-updated-version/"><u>Download Latest HP DeskJet 2700 Printer Driver Software: Updated Version</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-user-sign-in-after-windows-authentication-issues/"><u>Enabling User Sign-In After Windows Authentication Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/flush-your-steam-dns-data-a-windows-user-guide/"><u>Flush Your Steam DNS Data - A Windows User Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-keep-windows-open-avoid-lockout-feature/"><u>How To Keep Windows Open: Avoid Lockout Feature</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-penning-plots-for-big-screens/"><u>In 2024, Penning Plots for Big Screens</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/sly-settings-shuffle-disguising-power-buttons-on-desktop/"><u>Sly Settings Shuffle: Disguising Power Buttons on Desktop</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-integrating-secondary-antivirus-without-defenders-hindrance/"><u>Tips for Integrating Secondary Antivirus Without Defender’s Hindrance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-viewing-and-modifying-a-pages-file-on-desktop-pcs/"><u>Ultimate Guide: Viewing and Modifying a Pages File on Desktop PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/unrestricted-windows-dialogue-embrace-freedomgpt/"><u>Unrestricted Windows Dialogue: Embrace FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/utilizing-terminal-in-quake-mode-on-windows/"><u>Utilizing Terminal in Quake Mode on Windows</u></a></li>
 </ul></div>
 

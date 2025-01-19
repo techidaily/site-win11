@@ -1,7 +1,7 @@
 ---
 title: "Condensed Explore: Streamline Your File Explorer Layout"
-date: 2025-01-11T07:40:19.498Z
-updated: 2025-01-13T07:25:21.959Z
+date: 2025-01-11T17:31:20.510Z
+updated: 2025-01-18T19:38:24.307Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable Compact View in File Explorer Using the Command Bar
 
  The easiest way to enable or disable the compact view in File Explorer is to use the command bar. Here's what you need to do:
@@ -33,11 +37,11 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 2. Choose the **Compact view** option to enable it.  
 ![Compact view option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/comapct-view-option.jpg)
 
- That's it. You might need to restart your computer for the changes to take effect.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ That's it. You might need to restart your computer for the changes to take effect.
 
 ## 2\. Enable Compact View in File Explorer Using Folder Options
 
@@ -53,26 +57,22 @@ thumbnail: https://thmb.techidaily.com/ef4f7364eb178269ce5e333115e1834d8d6af4b37
 
 ![Control folders command in the Run dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/control-folders-command.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Folder option, switch to the **View** tab and check the **Decrease space between item (compact view)** box. Then, click **Apply** \> **OK** to save the changes.
 
 ![Decrease space between item (compact view) option in the Folder Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/decrease-space-between-item-compact-view-option.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  With that, you should have less space between your files in File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Enable Compact View in File Explorer Using the Registry Editor
 
 ![Enabling Compact view in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enabling-compact-view.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Registry files on your system contain important settings for Windows. If you're an advanced Windows user, you can enable the compact view in File Explorer using the Registry Editor.
@@ -88,7 +88,7 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 6. Type **1** in **Value data** and click OK. This will enable the Compact View. To disable, type **0** in the **Value data** and click **OK.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Change the File Explorer Look Anytime
@@ -112,16 +112,24 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pro-game-documentation-capturing-roblox-experiences-with-a-mac-in-focus/"><u>[New] 2024 Approved Pro Game Documentation Capturing Roblox Experiences with a Mac in Focus</u></a></li>
-<li><a href="https://win11.techidaily.com/cutting-down-memory-and-cpu-peaks-for-news-and-interest-apps/"><u>Cutting Down Memory & CPU Peaks for News & Interest Apps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-update-brings-an-end-to-laggy-playback-performance-tweaks-explained/"><u>Cyberpunk 2077 Update Brings an End to Laggy Playback - Performance Tweaks Explained</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/dota-tangled-unstuck-your-game-from-the-load-screen-nightmare/"><u>Dota Tangled: Unstuck Your Game From the Load Screen Nightmare!</u></a></li>
-<li><a href="https://win11.techidaily.com/enliven-winter-hues-magical-window-themes/"><u>Enliven Winter Hues: Magical Window Themes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-lava-blaze-2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Lava Blaze 2 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-12-pro-max-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 12 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaiming-windows-team-video-sharing/"><u>Reclaiming Windows Team Video Sharing</u></a></li>
-<li><a href="https://win11.techidaily.com/remove-faded-appearance-of-windows-volume-extend/"><u>Remove Faded Appearance of Windows' Volume Extend</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-pre-purchase-checklist-crucial-factors-for-win-pcs/"><u>The Ultimate Pre-Purchase Checklist: Crucial Factors for Win PCs</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/trasforma-file-mxf-a-formato-wav-senza-costi-movavi/"><u>Trasforma File MXF a Formato WAV Senza Costi - Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-final-farewell-to-your-instagram-world-process-and-steps/"><u>[New] A Final Farewell to Your Instagram World Process & Steps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-glide-in-the-cold-highlighting-precision-in-snowboard-cross-events-22/"><u>[New] In 2024, Glide in the Cold Highlighting Precision in Snowboard Cross Events, '22</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-exploring-browsing-anomalies-where-are-my-fb-video-suggestions/"><u>[Updated] In 2024, Exploring Browsing Anomalies Where Are My FB Video Suggestions?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimizing-gameplay-streamlining-your-minecraft-recording-experience-on-mac-for-2024/"><u>[Updated] Optimizing Gameplay Streamlining Your Minecraft Recording Experience on Mac for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2024s-top-contenders-the-creme-de-la-creme-list-of-computer-manufacturers/"><u>2024'S Top Contenders: The Crème De La Crème List of Computer Manufacturers</u></a></li>
+<li><a href="https://win11.techidaily.com/confronting-and-correcting-directdraw-mistakes-in-win1011-systems/"><u>Confronting and Correcting DirectDraw Mistakes in Win10/11 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/get-a-new-look-for-windows-three-clearing-ways/"><u>Get a New Look for Windows: Three Clearing Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-vivo-y27s-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Vivo Y27s Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-key-feature-gone-missing-on-the-new-2020-samsung-galaxy-tab-a/"><u>In-Depth Review: Key Feature Gone Missing on the New 2020 Samsung Galaxy Tab A</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/maximizing-iphone-to-mac-file-transfer-for-large-videos-for-2024/"><u>Maximizing iPhone-to-Mac File Transfer for Large Videos for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-error-0xc0000001-solutions/"><u>Overcoming Windows 11 Error 0xC0000001: Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/powershell-vs-windows-terminal-delving-into-their-distinctive-features/"><u>PowerShell Vs. Windows Terminal: Delving Into Their Distinctive Features</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-search-bar-inactivity-on-windows-11/"><u>Resolving Search Bar Inactivity on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/seasons-greetings-with-free-windows-store-apps/"><u>Season's Greetings with Free Windows Store Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-windows-interface-8-winbubble-ideas-unveiled/"><u>Transforming Windows Interface: 8 WinBubble Ideas Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-the-dual-programming-conflict-in-win-10/"><u>Unraveling the 'Dual Programming Conflict' In Win 10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-covert-wi-fi-chips-enabling-smart-home-features-on-macs-and-ipads-is-yours-equipped-insights/"><u>Unveiling Covert Wi-Fi Chips Enabling Smart Home Features on Macs and iPads | Is Yours Equipped? Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-feature-switch-on-wsl-integration-mode/"><u>Windows Feature Switch: On WSL Integration Mode</u></a></li>
 </ul></div>
 

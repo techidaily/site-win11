@@ -1,7 +1,7 @@
 ---
 title: "Deciphering System Repair: Exploring Distinctions Between CHKDSK, SFC, and DISM"
-date: 2025-01-12T05:55:16.883Z
-updated: 2025-01-13T02:25:50.170Z
+date: 2025-01-17T21:35:24.381Z
+updated: 2025-01-18T16:29:30.922Z
 tags:
   - windows10
   - windows11
@@ -21,16 +21,16 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CHKDSK and When Should You Use It?](#what-is-chkdsk-and-when-should-you-use-it)
 * [What Is SFC Scannow and When Should You Use It?](#what-is-sfc-scannow-and-when-should-you-use-it)
 * [What Is DISM and When Should You Use It?](#what-is-dism-and-when-should-you-use-it)
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is CHKDSK and When Should You Use It?
 
  CHKDSK (Check Disk) is the first Windows diagnostic tool you should try if your PC starts acting strangely. For example, if it hangs while shutting down or becomes frustratingly slow.
@@ -56,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Run CHKDSK Through File Explorer
 
  You can run CHKDSK from the command prompt. If you're uncomfortable using the Command Prompt, open **File Explorer**, click **This PC**, right-click the drive you want to check and select **Properties**.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 5. Press **Enter** to scan for errors in read-only mode, which means no changes will be made.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make changes, you can use parameters with the CHKDSK command. Here are two you can use to fix problems:
@@ -118,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -135,6 +131,10 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 `Dism /Online /Cleanup-Image /CheckHealth`
 
 ![windows dism check in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-dism-check-in-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The scan should only take a few seconds. If no corruption is detected, you can run a more advanced scan to determine if the component store is healthy and repairable, again without making any changes, by typing:
 
@@ -169,20 +169,19 @@ thumbnail: https://thmb.techidaily.com/62d72eb39093270995757df1adc43019ed0e362b7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-lg-bp350-monitors-unique-features/"><u>[New] Exploring the LG BP350 Monitor's Unique Features</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-13-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 13? How to Fix it?</u></a></li>
-<li><a href="https://common-error.techidaily.com/best-practices-to-eliminate-fallout-flet-faekst-lag-latency-and-improve-gameplay-2022/"><u>Best Practices to Eliminate Fallout ˈfɔːləʊt Fˈækst Lˈaɪg/ Latency and Improve Gameplay - 2022</u></a></li>
-<li><a href="https://win11.techidaily.com/free-ways-to-expand-your-pcs-hard-drive-space-on-windows/"><u>Free Ways to Expand Your PC's Hard Drive Space on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/google-collage-made-fast-and-easy-essential-tips-unveiled/"><u>Google Collage Made Fast & Easy - Essential Tips Unveiled</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-xiaomi-redmi-12-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Xiaomi Redmi 12 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-soundbots-sb210-audio-device-solid-performance-when-operational/"><u>In-Depth Analysis of Soundbot's SB210 Audio Device - Solid Performance When Operational</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-art-of-windows-tweaks-with-hotkeys-in-minutes/"><u>Master the Art of Windows Tweaks with Hotkeys in Minutes</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-over-net-problems-eliminating-error-0x800704b3/"><u>Mastery Over Net Problems: Eliminating Error 0X800704B3</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mp4-versus-mov-files-an-in-depth-look-at-resolution-storage-requirements-and-device-support/"><u>MP4 versus MOV Files: An In-Depth Look at Resolution, Storage Requirements & Device Support</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-your-music-tackling-spotify-connection-issues/"><u>Streamline Your Music: Tackling Spotify Connection Issues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-ultimate-4k-aerial-photography-guide-mi-drone-review/"><u>The Ultimate 4K Aerial Photography Guide MI Drone Review</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-missing-hypervisor-in-windows-sandbox-setup/"><u>Troubleshooting Missing Hypervisor in Windows Sandbox Setup</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-insider-tips-swiftly-remove-temporary-files/"><u>Windows Insider Tips: Swiftly Remove Temporary Files</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/world-words-whirlwind-search-for-longest-one/"><u>World Words Whirlwind Search for Longest One</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[New] 2024 Approved Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord/"><u>[New] A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[New] In 2024, Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-your-sandbox-a-win-11-guide/"><u>Configure Your Sandbox: A Win 11 Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/crown-jewel-ios-recorders-for-phones-for-2024/"><u>Crown Jewel iOS Recorders for Phones for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-conversion-of-avi-video-formats-to-mp4-with-vlc-top-tips-and-tricks/"><u>Effortless Conversion of AVI Video Formats to MP4 with VLC - Top Tips and Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-google-nearby-to-link-devices-easily/"><u>Leveraging Google Nearby to Link Devices Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-typography-changing-your-windows-11-default-text-style/"><u>Mastering Typography: Changing Your Windows 11 Default Text Style</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-to-connect-to-a-network/"><u>Navigating Windows to Connect to a Network</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y78plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y78+</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-devices-in-sleep-mode-of-win11-pc/"><u>Resurrecting Devices in Sleep Mode of Win11 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/seamless-android-windows-webcam-transition-techniques/"><u>Seamless Android-Windows Webcam Transition Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/time-saving-hacks-for-recording-instagram-stories/"><u>Time-Saving Hacks for Recording Instagram Stories</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo V27 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

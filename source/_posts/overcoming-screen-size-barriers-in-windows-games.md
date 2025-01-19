@@ -1,7 +1,7 @@
 ---
 title: Overcoming Screen Size Barriers in Windows Games
-date: 2025-01-04T19:19:12.772Z
-updated: 2025-01-06T20:36:30.893Z
+date: 2025-01-14T20:47:36.945Z
+updated: 2025-01-18T20:21:38.732Z
 tags:
   - windows10
   - windows11
@@ -31,15 +31,15 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
  Pressing **Alt + Enter** again will [switch your game back to windowed mode](https://www.makeuseof.com/windows-10-11-windowed-mode-games/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Check the In-Game Display Settings
 
  Most games include a dedicated display settings menu that lets you specify whether you want to run the game in full screen or windowed mode. You need to review this setting for your games to ensure that full screen mode is selected.
 
 ![In-Game Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/in-game-settings-menu.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable Full Screen Optimizations in Windows
 
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 4. Hit **Apply** followed by **OK**.  
 ![Disable Fullscreen Optimization on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fullscreen-optimization-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Set the Display Scale to 100%
 
  Certain games may face difficulties entering full screen mode when the display scale on Windows is set higher than 100%. Setting the display scale at the recommended value can help ensure that the game is rendered at the native resolution of your monitor, without any scaling or resizing applied by Windows.
@@ -62,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
  To change the display scale on Windows, open the **Settings** app and navigate to **Display**. Click the drop-down menu next to **Scale** to select **100%**.
 
 ![Change Display Scale on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-display-scale-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Use the Compatibility Mode
 
@@ -78,12 +70,20 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 5. Click **Apply** followed by **OK** and then open your game again.  
 ![Run Game in Compatiblity Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-game-in-compatiblity-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Disable Any Apps With Overlays
 
  Occasionally, overlays from apps like Discord, Steam, or GeForce Experience can disrupt the full screen functionality of certain games, resulting in issues. To check for this possibility, you can temporarily [disable the GeForce overlay](https://www.makeuseof.com/windows-geforce-overlay-disable/), the Discord overlay, or any other software that shows overlays to see if this works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Perform Some Basic Windows Fixes
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 * **Run the Game as an Administrator:** In some cases, running the game as an administrator can also help fix the problem. If this method proves effective, you can configure your game to [always run as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Experience Gaming Like Never Before With a Full Screen Advantage
@@ -113,18 +113,18 @@ thumbnail: https://thmb.techidaily.com/024ced9c2dfad0404f5ee91e1efddba3dce2978ad
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[Updated] In 2024, Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-app-performance-review/"><u>2024 Approved Expertise in App Performance Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-art-of-introducing-your-podcast/"><u>2024 Approved The Art of Introducing Your Podcast</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-onedrive-placement-in-microsoft-windows-11/"><u>Customize OneDrive Placement in Microsoft Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/gamers-guide-to-avoiding-high-system-throttling-issues/"><u>Gamers' Guide to Avoiding High System Throttling Issues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-affordable-yet-high-quality-cameras-list/"><u>In 2024, Affordable Yet High-Quality Cameras List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/incredible-inexpensive-stopwatch-solutions-for-2024/"><u>Incredible Inexpensive Stopwatch Solutions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-the-potential-of-powershell-for-storage-sizing/"><u>Leveraging the Potential of PowerShell for Storage Sizing</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-switching-your-desktops-dynamic-wallpaper-on-windows/"><u>Quick Guide: Switching Your Desktop's Dynamic Wallpaper on Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a70-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on A70</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-excessive-wmi-cpu-demands/"><u>Resolving Excessive WMI CPU Demands</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/streamlining-video-conferencing-on-chrome-os-for-2024/"><u>Streamlining Video Conferencing on Chrome OS for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win-backup-strategies-for-cortana-information/"><u>Win Backup Strategies for Cortana Information</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-vr-beyond-boundaries-top-tech-and-accessories-unveiled/"><u>[Updated] 2024 Approved VR Beyond Boundaries Top Tech and Accessories Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-revealing-the-best-of-both-worlds-1-tiktoks-on-twitter/"><u>[Updated] In 2024, Revealing the Best of Both Worlds #1 TikToks on Twitter</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-obscure-audio-alchemists-top-6-android-and-ios-recording-tools-for-2024/"><u>[Updated] Obscure Audio Alchemists Top 6 Android & iOS Recording Tools for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-senior-accessibility-on-legacy-computers/"><u>Enhancing Senior Accessibility on Legacy Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/improving-troubleshooting-tools-for-smooth-windows-performance/"><u>Improving Troubleshooting Tools for Smooth Windows Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-iphone-11-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On iPhone 11 Pro Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-note-13-proplus-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi Note 13 Pro+ 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/myrecover-professionelle-anleitung-zur-reparatur-und-wiederherstellung-verlorener-partitionen-in-windows-seven/"><u>MyRecover - Professionelle Anleitung Zur Reparatur Und Wiederherstellung Verlorener Partitionen in Windows ˈSeven</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-system-for-crisp-uninterrupted-gameplay-in-warzone/"><u>Optimizing Your System for Crisp, Uninterrupted Gameplay in Warzone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-white-screen-on-logging-into-win1011/"><u>Overcoming White Screen on Logging Into Win10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-windows-event-viewer-fixes/"><u>Strategies for Windows Event Viewer Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-networking-essentials-managing-arp-cache/"><u>Windows Networking Essentials: Managing ARP Cache</u></a></li>
 </ul></div>
 

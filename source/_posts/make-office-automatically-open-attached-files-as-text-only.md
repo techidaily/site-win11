@@ -1,7 +1,7 @@
 ---
 title: Make Office Automatically Open Attached Files as Text Only
-date: 2025-01-11T23:22:48.892Z
-updated: 2025-01-12T21:11:47.338Z
+date: 2025-01-12T00:49:21.514Z
+updated: 2025-01-18T16:32:05.536Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. How to Change Microsoft Word Startup Settings to Always Open Email Attachments in Reading View
@@ -41,10 +41,14 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Word Startup Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Word-Startup-Options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Word will open email attachments in reading view by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 5. Select the**Enabled** option.
 6. Hit**Apply** followed by**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Opening Email Attachments in Microsoft Word's Reading View
@@ -108,19 +108,20 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-stay-steady-with-the-right-tripod-techniques-for-top-notch-video-content/"><u>[New] In 2024, Stay Steady with the Right Tripod Techniques for Top-Notch Video Content</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-make-the-most-of-your-tunes-top-5-tools-for-converting-spotify-to-youtube-playlists/"><u>[New] Make the Most of Your Tunes Top 5 Tools for Converting Spotify to YouTube Playlists</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-your-content-reach-the-expert-guide-to-youtubes-featured-channels/"><u>[Updated] In 2024, Boost Your Content Reach The Expert Guide to Youtube's Featured Channels</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximizing-engagement-with-dual-screen-broadcasting-techniques-in-facebook/"><u>2024 Approved Maximizing Engagement with Dual-Screen Broadcasting Techniques in Facebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/chorus-closet-capture-download-and-listen-to-tunes-for-2024/"><u>Chorus Closet Capture, Download & Listen to Tunes for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-upgrade-opt-for-cleaner-win11/"><u>Effortless Upgrade: Opt for Cleaner Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-accessibility-with-simple-key-filter-adjustments/"><u>Enhance Accessibility with Simple Key Filter Adjustments</u></a></li>
-<li><a href="https://win11.techidaily.com/hide-and-seek-discreet-start-menu-controls/"><u>Hide and Seek: Discreet Start Menu Controls</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-nokia-c12-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Nokia C12 Pro</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/"><u>In 2024, The Path to Success Integrating Past Recordings in Real Time on Social Media</u></a></li>
-<li><a href="https://win11.techidaily.com/opening-disk-management-in-windows-1011-with-ease/"><u>Opening Disk Management in Windows 10/11 with Ease</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/rapid-typing-mastery-through-typingaid/"><u>Rapid Typing Mastery Through TypingAid</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-resource-occupancy-issues-in-windows-1011-153-chars/"><u>Tackling Resource Occupancy Issues in Windows 10/11 (153 Chars)</u></a></li>
-<li><a href="https://win-docs.techidaily.com/1728508699350-windows-server/"><u>ネットワーク上の共有ディレクトリへのWindows Serverセグメントバックアップ: ステップバイステップガイド</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-honing-hertz-gameplay-tactics-in-free-fire/"><u>[New] Honing Hertz Gameplay Tactics in Free Fire</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-navigating-lut-application-in-adobe-premiere/"><u>[New] In 2024, Navigating LUT Application in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-key-steps-to-composing-engaging-youtube-video-plans/"><u>[New] The Key Steps to Composing Engaging YouTube Video Plans</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-youtube-to-avi-perfect-conversion-tools-revealed/"><u>[Updated] 2024 Approved From YouTube to AVI Perfect Conversion Tools Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/cure-your-systems-dragging-anomalies-in-win11/"><u>Cure Your System's Dragging Anomalies in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-fixes-for-google-drive-not-syncing-in-windows/"><u>Essential Fixes for Google Drive Not Syncing in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/jollyjingles-top-sites-to-stream-laugh-rich-rhythms-for-2024/"><u>JollyJingles Top Sites to Stream Laugh-Rich Rhythms for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-free-quicktime-video-editing-software-top-10-choices/"><u>New In 2024, Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-error-code-0x80300024/"><u>Resolving Windows Error Code: 0X80300024</u></a></li>
+<li><a href="https://win11.techidaily.com/triumph-with-win-graphics-by-using-these-1-6-tools/"><u>Triumph with Win Graphics by Using These #1-#6 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-typing-techniques-via-powertoys/"><u>Turbo Typing Techniques via PowerToys</u></a></li>
+<li><a href="https://win11.techidaily.com/unexpected-freezes-resolved-for-players-of-tribes-of-midgard/"><u>Unexpected Freezes Resolved for Players of 'Tribes of Midgard'</u></a></li>
+<li><a href="https://win11.techidaily.com/unfreezing-the-user-interface-a-windows-guide/"><u>Unfreezing the User Interface: A Windows Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-meta-quest-3-ai-capabilities-before-apple-vision-pro-activation-tutorial-tech-insights/"><u>Unveiling the Meta Quest 3 AI Capabilities Before Apple Vision Pro – Activation Tutorial | Tech Insights</u></a></li>
 </ul></div>
 

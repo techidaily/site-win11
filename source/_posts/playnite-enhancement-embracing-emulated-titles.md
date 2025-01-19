@@ -1,7 +1,7 @@
 ---
 title: "Playnite Enhancement: Embracing Emulated Titles"
-date: 2024-08-16T00:51:00.357Z
-updated: 2024-08-17T00:51:00.357Z
+date: 2025-01-11T23:03:41.075Z
+updated: 2025-01-18T19:55:24.631Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,14 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![Playnite Menu Add Ons Entry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-add-ons-entry.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Metadata Sources
 
  In Playnite, metadata sources are online databases the app can query to "pull in" information about your games.
@@ -45,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  To install one of them, click on its entry and then the **install** button on the details pane on the right of Playnite's add-ons window.
 
 ![Playnite Add Ons Browse For More Metadata Sources Wikipedia Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-metadata-sources-wikipedia-selected.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Since we are dealing with emulated content and retro games, we suggest you install the following metadata sources:
@@ -59,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  You can click on each one in Playnite and check the details pane to learn more about them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The "Generic" Page
 
  Although we won't use them for this article, Playnite has some emulation-related add-ons, making your retro-gaming life easier.
@@ -70,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![Playnite Add Ons Browse For More Generic Emulation Toolbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-add-ons-browse-for-more-generic-emulation-toolbox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The ones we suggest you check are the following:
 
 * Emulation Toolbox
@@ -77,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 * MAME Utility
 
  With Playnite ready to play nice with emulated content, we are prepared to add some retro games to its library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Configure Emulators With Playnite
 
@@ -99,12 +113,9 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Then, select **Updating** in the navigational tree on the left of that window. Use the drop-down menu on the right of **Scan emulation folders** to change its value to **Only manually**. Then, click **Save** to register your tweak and exit that window.
 
 ![Playnite Settings Updating Emulation Folders Only Manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-settings-updating-emulation-folders-only-manually.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With that out of the way, it's time to add some emulators to Playnite.
@@ -112,14 +123,6 @@ No advertising on the website.
  Click on **Playnite's icon** on the top left of its window again to access its menu, and select **Library** \> **Configure Emulators**. It's probably quicker if you press Ctrl + T on your keyboard, though.
 
 ![Playnite Menu Library Configure Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-library-configure-emulators.jpg)
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Download Emulators in Playnite
 
@@ -128,9 +131,6 @@ No advertising on the website.
  While on the **Emulators** tab of the **Configure Emulators** window, click on **Download Emulators** on the bottom right. Playnite will show you a list of supported emulators and some information about them. Still, it cannot automatically download and install them for you.
 
 ![Playnite Configure Emulators Download Emulators](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-download-emulators.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  So, that's where we will take a short break while you check that list, choose the ones you want, visit their sites, download, and install them. After doing that, you are ready to move to the next step.
 
@@ -145,9 +145,6 @@ No advertising on the website.
  With those flags, and depending on the emulator, you can, for example, set a specific resolution for launching your games, change the input device you'll use for playing, etc.
 
 ![Playnite Configure Emulators Duckstation Default Profile Arguments](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-configure-emulators-duckstation-default-profile-arguments.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also create more profiles with alternative configurations for each emulator. Still, we won't go over this in this article.
 
@@ -157,9 +154,6 @@ No advertising on the website.
 
  Depending on how you keep your game ROMs stored and the chosen emulator, you can also select if you want to import those titles using a relative path, scan the chosen platform's folder for more games within subfolders, scan inside archives, and if all files related to a title should be presented individually or "merged" into a single library entry.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Importing ROMs With Auto-Scan Configuration
 
  With your emulators and Auto-scan Configurations set up, you can now add your emulated games to your Playnite library. This painfully complicated process consists of the following steps:
@@ -169,13 +163,14 @@ No advertising on the website.
 
 ![Playnite Menu Update Game Library Update Emulated Folders Update All](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-menu-update-game-library-update-emulated-folders-update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Playnite might ask you from which metadata source to "pull" details for a title. The app may also ask you to ensure it identified some games correctly, presenting a list of titles for them it deems similar.
 
  After a while, your Playnite library should present all your emulated titles for all the emulators and platforms you've added among your "native" PC games.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Navigating Your Emulated Games in Playnite
 
  You can treat your emulated games through Playnite like your installed "native" PC games. You can use Playnite's **Search** functionality, accessible from the field on the top left of its interface, to seek a particular title based on its name.
@@ -189,16 +184,13 @@ No advertising on the website.
  To play a game, since thanks to your actions above Playnite knows which emulator to use to launch it, you can simply click on its **play icon**.
 
 ![Playnite Seeking God Of With God Of War III Selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/playnite-seeking-god-of-with-god-of-war-iii-selected.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If, even after you have access to every single game on your PC through Playnite, it still doesn't cut it for you, there are alternatives worth trying. Check [our list of the best game launchers to launch and organize PC games](https://www.makeuseof.com/tag/pc-game-launchers/), but keep in mind that many of them are less emulation-friendly.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Retro Gaming Made Easier With Playnite
 
  Playnite's major pro is how it can unify all your titles from all your libraries, no matter the digital store you bought them from, and present them through an easy-to-navigate interface. Thanks to everything we saw here, you can add all your emulated games to the mix.
@@ -207,11 +199,31 @@ No advertising on the website.
 
  Let's see how you can have Playnite detect them, scan your emulated games, and include them in your unified game library.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-accurate-and-automatic-video-recording-on-diverse-computing-systems/"><u>[New] 2024 Approved Accurate and Automatic Video Recording on Diverse Computing Systems</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-reel-mastery-made-simple-with-these-free-apps-to-manage-instagram-videos-for-2024/"><u>[New] Reel Mastery Made Simple with These Free Apps to Manage Instagram Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-perfect-timing-for-instagram-loops-key-strategies-revealed/"><u>[Updated] In 2024, Perfect Timing for Instagram Loops Key Strategies Revealed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/audiovisual-decision-making-is-podcast-or-youtube-more-appealing-in-2024/"><u>Audiovisual Decision-Making Is Podcast or YouTube More Appealing, In 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/comprehensive-assessment-of-digital-entertainers-for-2024/"><u>Comprehensive Assessment of Digital Entertainers for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-your-cs-go-experience-through-better-framing/"><u>Elevating Your CS Go Experience Through Better Framing</u></a></li>
+<li><a href="https://win11.techidaily.com/from-ordinary-to-celestial-activating-higher-power-on-windows-11/"><u>From Ordinary to Celestial: Activating Higher Power on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/investment-returns-on-youtuber-promotions/"><u>Investment Returns on Youtuber Promotions</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-windows-11s-error-code-resolution-guide/"><u>Navigating Windows 11'S Error Code Resolution Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/prepare-to-engage-with-the-ultimate-ai-friend/"><u>Prepare to Engage with the Ultimate AI Friend</u></a></li>
+<li><a href="https://win11.techidaily.com/reconciling-incompatible-drivers-with-windows-11/"><u>Reconciling Incompatible Drivers with Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/redefine-workflow-efficiency-the-benefits-of-new-outlook-on-pcs/"><u>Redefine Workflow Efficiency: The Benefits of New Outlook on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-ease-high-consumption-by-wlanextexe/"><u>Strategies to Ease High Consumption by Wlanext.exe</u></a></li>
+<li><a href="https://win11.techidaily.com/studio-review-microsoft-surface-laptop-studio-2-the-artists-ally/"><u>Studio Review: Microsoft Surface Laptop Studio 2 - The Artist’s Ally</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-the-wandering-file-explorer-on-pcs/"><u>Taming the Wandering File Explorer on PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-poco-f5-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Poco F5 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/understanding-negatives-a-step-by-step-guide-with-raspberry-pi-zero-and-monitor-combo/"><u>Understanding Negatives: A Step-by-Step Guide with Raspberry Pi Zero & Monitor Combo</u></a></li>
+</ul></div>
+

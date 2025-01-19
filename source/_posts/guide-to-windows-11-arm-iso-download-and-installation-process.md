@@ -1,7 +1,7 @@
 ---
 title: Guide to Windows 11 ARM ISO Download and Installation Process
-date: 2024-08-16T00:51:13.946Z
-updated: 2024-08-17T00:51:13.946Z
+date: 2025-01-17T21:40:45.797Z
+updated: 2025-01-18T18:22:06.518Z
 tags:
   - windows10
   - windows11
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 
  If you have an ARM-based device that hasn't officially received the upgrade yet or want to install Windows 11 on your ARM-based Mac, you can do so using the Windows 11 ARM64 ISO file. That said,[Windows 11 and M1 Macs bring some additional challenges](https://www.makeuseof.com/will-windows-11-work-on-mac/) to the table that you should be aware of.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What are the Limitations of a Windows 11 ARM-based PC?
 
  The biggest limitation of Windows 10 ARM-based PC was its incompatibility with 64-bit Windows applications. Microsoft has resolved this issue by ditching Compiled Hybrid Portable Executable (CHPE) for the new ARM64EC ABI in Windows 11.
@@ -42,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/6631d02aad6297e4d6f700e032b5f1a6df7f0a482
 * Games using OpenGL version 3.4 or above will not work unless the developers have developed ARM-specific drivers for the app.
 * Peripherals and devices will only work if the required drivers are built into Windows 11 or if your device manufacturer has developed drivers for ARM devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Download Windows 11 ARM64 ISO
 
  To install Windows 11 on your ARM-compatible device, you will need the ARM version of Windows 11\. You can use UUP Dump to download the Windows 11 ARM64 ISO for the latest and older builds. You can also use it to[download Windows 11 Insider ISO without joining the insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
@@ -51,30 +52,32 @@ To download the Windows 11 ARM ISO:
 1. Go to the[UUP Dump page](https://uupdump.net/) .
 2. Type**Windows 11** in the search bar and hit**Enter** to view the search results.  
 ![uup dump upgrade windows 11 arm64](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uup-dump-upgrade-windows-11-arm64.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 3. When the search page appears, look for the**Windows 11 ARM64** build and click on the build you want to download. You can press**Ctrl + F** to open**Finder** and type**Upgrade to Windows 11** to locate all the builds. Make sure it is an**arm64** build and not the standard x64.
-4. ![select language uup download windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/select-language-uup-download-windows-11-arm-.jpg)
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. ![select language uup download windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/select-language-uup-download-windows-11-arm-.jpg)
 5. On the next page, click the**Language** drop-down and select your preferred language. If you want**English** , leave it as default.
 
 1. Click**Next** .  
 ![choose edition uup dump windows 11 arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/choose-edition-uup-dump-windows-11-arm.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 2. Now you need to select the edition to download. Select**Windows Home** and click**Next** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Next, under the**Download method,** select**Download and convert to ISO.**  
 ![download options windows 11arm](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-options-windows-11arm.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Next, under**Conversion options** , select**Include updates** and leave other options as default.
 5. In the right pane, you can view the information about the ISO package, including the total download size, etc.  
 ![download package uup dump conversion option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/download-package-uup-dump-conversion-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. To download the ISO file, click on**Create download package** . UUP Dump will download a zip file containing the ISO download package to your hard drive.
 2. Extract the zip file to locate the files inside.
@@ -85,8 +88,9 @@ To download the Windows 11 ARM ISO:
  UUP Dump will save the ISO to your initially extracted folder. You can now use it to[create a bootable USB drive to install Windows 11](https://www.makeuseof.com/windows-11-create-bootable-usb-drive/) to install on a virtual machine. You can also use the Windows 11 ARM ISO to[create a bootable Windows 11 USB with a Mac](https://www.makeuseof.com/how-to-make-a-bootable-windows-11-usb-on-mac/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgrade Your ARM-based PC to Windows 11
 
  If you use an ARM-based device running Snapdragon 850, 7c and above, and 8cx and above, you can likely upgrade to Windows 11 using the ISO. Also, Microsoft Surface Pro devices running the SQ1 and SQ2 chipset may also support the upgrade.
@@ -97,8 +101,6 @@ To download the Windows 11 ARM ISO:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +108,23 @@ To download the Windows 11 ARM ISO:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-masterful-marketing-tactics-11-ways-to-amplify-your-facebook-videography/"><u>[New] Masterful Marketing Tactics 11 Ways to Amplify Your Facebook Videography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-dual-screen-on-apple-devices-via-safari/"><u>2024 Approved Harness the Power of Dual Screen on Apple Devices via Safari</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209088096-audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4movavi-video-files-of-x9b-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of X9b</u></a></li>
+<li><a href="https://games-able.techidaily.com/curtailing-xbox-game-bars-intrusive-activities-in-windows-11/"><u>Curtailing Xbox Game Bar's Intrusive Activities in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-file-management-with-self-extraction-techniques-in-win11/"><u>Elevating File Management with Self-Extraction Techniques in Win11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-visionedit-pro/"><u>In 2024, VisionEdit Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-windows-tools-for-easy-cr2-image-conversion/"><u>Leveraging Windows Tools for Easy CR2 Image Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-pin-security-lengthening-passcodes-for-win1111/"><u>Mastering PIN Security: Lengthening Passcodes for Win11/11</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/probleme-bei-der-verwendung-von-diskpart-5-strategien-zur-behebung-des-nicht-arbeitsalters/"><u>Probleme Bei Der Verwendung Von 'Diskpart': 5 Strategien Zur Behebung Des Nicht-Arbeitsalters</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-disabling-office-updates-on-pc/"><u>Quick Guide to Disabling Office Updates on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-action-plan-for-windows-net-repairing-max-156/"><u>Swift Action Plan for Windows .NET Repairing (Max 156)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/the-mechanics-of-sharing-with-flipbuilder-insights-and-tips/"><u>The Mechanics of Sharing with FlipBuilder: Insights and Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-18-unbeatable-prime-day-offers-on-laptops-from-leading-brands-like-hp-apple-and-razer-exclusive-sneak-peek-by-zdnet/"><u>Top 18 Unbeatable Prime Day Offers on Laptops From Leading Brands Like HP, Apple & Razer - Exclusive Sneak Peek by ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/virtualizing-windows-11-with-vmware-workstation-17-player/"><u>Virtualizing Windows 11 with VMWare Workstation 17 Player</u></a></li>
+<li><a href="https://win11.techidaily.com/winterize-windows-holiday-customization-steps/"><u>Winterize Windows: Holiday Customization Steps</u></a></li>
+</ul></div>
 

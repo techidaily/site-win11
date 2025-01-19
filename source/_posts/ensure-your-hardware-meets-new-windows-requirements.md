@@ -1,7 +1,7 @@
 ---
 title: Ensure Your Hardware Meets New Windows Requirements
-date: 2024-08-16T00:50:22.401Z
-updated: 2024-08-17T00:50:22.401Z
+date: 2025-01-13T22:39:17.873Z
+updated: 2025-01-18T19:59:30.715Z
 tags:
   - windows10
   - windows11
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 * [How to Check Windows 11 Compatibility](#how-to-check-windows-11-compatibility)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Windows 11 is a free upgrade for Windows 10 users. However, it requires more advanced hardware.
@@ -33,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
  Windows 11 offers several improvements over its predecessor, and it's a free upgrade from Windows 10 as long as your PC meets certain requirements. However, unlike Windows 10, which supports older Windows 8 devices, Windows 11 requires more advanced hardware.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Minimum Requirements for Installing Windows 11
 
  If your PC is a few years old, there's a fairly good chance you won't be able to run Windows 11\. [Microsoft's website](https://www.microsoft.com/en-us/windows/windows-11-specifications) lists the following basic hardware requirements. The company makes it clear that Windows users may need to upgrade their PCs if they don't meet the requirements.
@@ -51,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
  Although [Microsoft states](https://support.microsoft.com/en-us/windows/ways-to-install-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e) you can run Windows 11 on systems that support at least TPM 1.2 by bypassing the check for TPM 2.0, the company strictly recommends against taking that route.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check Windows 11 Compatibility
 
  Not everyone knows what hardware they have inside their computers. Thankfully, Microsoft offers a convenient tool to check if your PC meets Windows 11's minimum requirements.
@@ -61,8 +64,9 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
 2. Launch the app and click **Check now** at the top below the "Introducing Windows 11" message.
 
 ![PC Health Check app running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/pc-health-check-app-running-on-windows.png)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll get a pop-up on your screen that lists your hardware specifications and informs you whether they meet the minimum requirements for Windows 11\.
@@ -70,10 +74,9 @@ thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f
  Don't panic just yet if you find that your PC isn't compatible. Many users with modern hardware have faced this problem, but it's mostly TPM or Secure Boot-related. Both of these settings can be changed by [entering the BIOS on your Windows PC](https://www.makeuseof.com/tag/enter-bios-computer/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Enabling AMD fTPM and Intel PTT
 
 * If you have an AMD CPU, set **AMD fTPM** (firmware TPM) to **Enabled** in the Advanced menu within your system's BIOS/UEFI settings.
@@ -83,11 +86,30 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  However, if your PC hardware doesn't meet Windows 11's requirements, know that Microsoft will end support for Windows 10 in October 2025\. After that, you'll need to upgrade to a new PC or pay Microsoft a yearly fee for extended security updates until October 2028\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-10-best-free-youtube-channel-art-makers/"><u>[New] 10 Best Free YouTube Channel Art Makers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-profile-game-strategies-for-fb-success-for-2024/"><u>[New] Elevate Your Profile Game Strategies for FB Success for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-movement-a-look-at-intova-x-for-2024/"><u>[New] Mastering Movement A Look at Intova X for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/emergency-windows-fixes-reanimate-lost-screens-using-6-steps/"><u>Emergency Windows Fixes: Reanimate Lost Screens Using 6 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-the-equivalent-of-the-ls-command-in-windows/"><u>How to Use the Equivalent of the Ls Command in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-honor-70-lite-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Honor 70 Lite 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 4G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-mac/"><u>In 2024, The Ultimate List of Video Editing Software for Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/interpreting-a-crossed-out-icon-on-computer-files/"><u>Interpreting a Crossed-Out Icon on Computer Files</u></a></li>
+<li><a href="https://fox-links.techidaily.com/miniature-film-script-sketch/"><u>Miniature Film Script Sketch</u></a></li>
+<li><a href="https://win-studio.techidaily.com/nanomaterials-are-being-explored-to-further-enhance-the-properties-of-concrete-including-mechanical-strength-durability-and-smart-capabilities-for-health-mo106/"><u>Nanomaterials Are Being Explored to Further Enhance the Properties of Concrete, Including Mechanical Strength, Durability, and Smart Capabilities for Health Monitoring.</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-norm-keyboard-shortcuts-to-optimize-windows/"><u>Navigating the Norm: Keyboard Shortcuts to Optimize Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-video-cinematography-choosing-the-right-lenses/"><u>Pro Video Cinematography Choosing the Right Lenses</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-steam-sync-errors-on-pc/"><u>Rectifying Steam Sync Errors on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/the-new-look-of-windows-11-admin-panel/"><u>The New Look of Windows 11 Admin Panel</u></a></li>
+<li><a href="https://win11.techidaily.com/why-you-shouldnt-switch-7-benefits-from-using-win10/"><u>Why You Shouldn't Switch: 7 Benefits From Using Win10</u></a></li>
+</ul></div>
+

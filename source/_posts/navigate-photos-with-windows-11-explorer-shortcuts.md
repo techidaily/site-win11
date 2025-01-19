@@ -1,7 +1,7 @@
 ---
 title: Navigate Photos with Windows 11 Explorer Shortcuts
-date: 2025-01-07T20:32:43.387Z
-updated: 2025-01-13T02:46:54.319Z
+date: 2025-01-12T20:18:41.460Z
+updated: 2025-01-18T19:48:42.738Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is the Gallery Feature in Windows File Explorer?
 
  File Explorer’s Gallery feature works exactly like it sounds. It categorically lists all the images on your system in a separate section, so you can find and view all the images in one tab. Android File Explorers have had this feature for quite a long, but Windows seems to care about it now.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
  The Gallery section displays images from the Pictures and OneDrive folders and lists them by date. It has nice, rounded corners around each image in the Gallery section, which makes it feel like a part of the overall Windows 11 design. It appears right below the Home option in the left pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Gallery in File Explorer in Windows 11
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  You will also need ViVeTool to enable these experimental features on your system. You can[download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Enabling Gallery in Windows File Explorer
 
  Retrace the following steps to enable the Gallery section on Windows 11:
@@ -64,12 +64,20 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
 5. Now, type the following command and press the enter key:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
 vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id:41969252 vivetool /enable /id:42922424 vivetool /enable /id:42295138
 7. After running all the commands without any error, type**exit** and press the enter key to close the command prompt window.  
 ![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
 8. Restart your computer for the changes made by Vivetool to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
 
@@ -81,6 +89,10 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
  By default, the Gallery selection displays all the images located in the Pictures folder and OneDrive. But you can add or remove a folder from the Gallery section as well.
@@ -88,10 +100,6 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
 1. To add a folder to the Gallery, go to the menu bar and click on the**Locations** option. A new pop-up window will open and list all the folders that the Gallery section is pulling images from. Click on the**Add** button.  
 ![Adding a Folder to Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adding-a-folder-to-gallery-in-windows-file-explorer.jpg)
 2. Now select any folder or sub-folder with images and click on the**Include Folder** button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. The selected folder will appear in the list of available folders. Click on the**OK** button.
 4. File Explorer gallery will now display the images present inside the newly added folder as well.
@@ -104,19 +112,11 @@ To remove a folder from Gallery, repeat the following steps:
 ![Removing a Folder from Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/removing-a-folder-from-gallery-in-windows-file-explorer.jpg)
 4. Lastly, click on the**OK** button to finalize the changes. The Gallery section won’t display any images from the excluded folder from now onwards.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Problems With the Gallery Section in Windows File Explorer
 
  The current preview of the Gallery feature is far from perfect. Firstly, the section works well in finding and categorically listing all the images from the included folders. But the images, despite being big, appear hazy. What’s the point of including a section if the images aren’t visible clearly?
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Find All Your Images in One Place on Windows With Galleries
 
@@ -137,24 +137,21 @@ To remove a folder from Gallery, repeat the following steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-essential-tools-for-perfect-images/"><u>[New] In 2024, Essential Tools for Perfect Images</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nlock-the-power-of-emojis-for-yt-feedback-for-2024/"><u>[New] Unlock the Power of Emojis for YT Feedback for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-deciphering-the-common-thought-on-vllo-for-2024/"><u>[Updated] Deciphering the Common Thought on VLLO for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[Updated] Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-issues-critical-security-advisory-on-specialized-spyware-assaults-aimed-at-iphone-owners-should-you-be-alarmed-now/"><u>Apple Issues Critical Security Advisory on Specialized Spyware Assaults Aimed at iPhone Owners – Should You Be Alarmed Now?</u></a></li>
-<li><a href="https://win11.techidaily.com/decoding-the-secure-key-dilemnium-5-proven-fixes-for-win11-errors/"><u>Decoding the Secure Key Dilemnium: 5 Proven Fixes for Win11 Errors</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-windows-installation-steam-deck-edition/"><u>Easy Windows Installation: Steam Deck Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-routine-to-reinitiate-windows-updates/"><u>Efficient Routine to Reinitiate Windows Updates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-access-to-latest-version-wi-fi-drivers-compatible-with-win11win10win8win7-download-today/"><u>Free Access to Latest-Version Wi-Fi Drivers Compatible with Win11/Win10/Win8/Win7 - Download Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-get-your-windows-11-settings-bar-back-online/"><u>How To Get Your Windows 11 Settings Bar Back Online</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>In 2024, Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-zero-5g-2023-turbo-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Zero 5G 2023 Turbo to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-security-and-convenience-in-windows-oses/"><u>Maximizing Security and Convenience in Windows OSes</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-unsigned-update-file-issue-in-windows/"><u>Overcoming Unsigned Update File Issue in Windows</u></a></li>
-<li><a href="https://extra-support.techidaily.com/previewed-activities-on-facebook-are-you-exposed-for-2024/"><u>Previewed Activities on Facebook Are You Exposed for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-enhancing-pc-lifespan-via-power-settings/"><u>Quick Guide to Enhancing PC Lifespan via Power Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-xbox-game-pass-failure-in-windows-devices/"><u>Resolving Xbox Game Pass Failure in Windows Devices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-examination-of-samsung-photo-editor-features/"><u>The Ultimate Examination of Samsung Photo Editor Features</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-no-connection-with-windows-usb-wi-fi-cards/"><u>Troubleshooting: No Connection with Windows' USB Wi-Fi Cards</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-blueprint-to-youtube-wealth-insights-from-sourav-joshi-2024/"><u>[Updated] The Blueprint to YouTube Wealth Insights From Sourav Joshi, 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/10-ways-to-open-the-system-information-tool-on-windows/"><u>10 Ways to Open the System Information Tool on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-vivo-v27-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nt-composer-arena-for-2024/"><u>Content Composer Arena for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/critical-guide-restoring-lost-logins-in-windows-11/"><u>Critical Guide: Restoring Lost Logins in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/dxgidll-lost-files-restore-with-smart-windows-11-fixes/"><u>Dxgi.dll Lost Files? Restore with Smart Windows 11 Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722977908382-get-the-latest-intel-wireless-ac-9560-driver-software-here/"><u>Get the Latest Intel Wireless AC 9560 Driver Software Here</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-dxgierrordeviceremoved-error-in-windows-11-and-11/"><u>How to Fix the DXGI_ERROR_DEVICE_REMOVED Error in Windows 11 & 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-storm-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Storm 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-nvidia-drivers-for-rtx-2060-on-windows-operating-systems-11-10-8-and-7/"><u>Latest Version of NVIDIA Drivers for RTX 2060 on Windows Operating Systems: 11, 10, 8 and 7</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-nvidia-settings-failure-to-save/"><u>Overcoming NVIDIA Settings Failure to Save</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-fixing-unsupported-devices-warning/"><u>Quick Guide: Fixing Unsupported Devices Warning</u></a></li>
+<li><a href="https://win11.techidaily.com/reimagining-display-technology-an-in-depth-exploration-of-windows-11s-hdr/"><u>Reimagining Display Technology: An In-Depth Exploration of Windows 11'S HDR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-podcast-in-one-ig-swipe/"><u>Spotlight Podcast in One IG Swipe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-66-twitter-travel-influencers-find-amazing-offers-and-insider-tips/"><u>Top 66 Twitter Travel Influencers - Find Amazing Offers and Insider Tips!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-device-guide-to-chilling-by-seapool/"><u>Ultimate Device Guide to Chilling by Sea/Pool</u></a></li>
 </ul></div>
 

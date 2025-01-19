@@ -1,7 +1,7 @@
 ---
 title: Optimize Win11 with Custom Screen Savers
-date: 2025-01-11T03:28:00.150Z
-updated: 2025-01-12T21:54:12.943Z
+date: 2025-01-17T18:46:54.036Z
+updated: 2025-01-18T22:31:13.733Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Customize Windows 11 3D Text and Photos Screensavers with Screen Saver Settings
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The 3D Text Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-settings-window.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below are some motion settings you can alter to change how the 3D text rotates. Click the**Rotation Type** drop-down menu to choose a different rotation style setting. Drag the**Rotation Bar** slider's left and right to change how quickly the text rotates.
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The 3D text screensaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3d-text-screensaver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you choose the Photos screensaver, clicking its**Settings** button will open a window from which you can change the slideshow's folder and speed. Press the**Browse** button on that window to select a different image folder. Choose a**Fast** ,**Medium** , or**Slow** option on the**Slideshow** **speed** drop-down. Then click**Save** to apply the settings.
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 ![The Bubbles screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bubbles-preview.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below the bars, there are some checkbox settings you enable or disable. Selecting**Opaque Bubbles** will display non-transparent bubbles in the screensaver. You can omit the desktop wallpaper from the screensaver by choosing the Don't use**Desktop as Background** checkbox.
@@ -101,15 +101,15 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 ![The Ribbons screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/ribbons-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The ribbons blur and fade in the screensaver by default. However, you can change that by deselecting the**Apply Blur and Fade** checkbox. Then ribbons will fill up the screen without fading away.
 
  To customize Mystify, select that screensaver's tab. You can increase or reduce the number of lines Mystify has by dragging the slider on the**Number of Lines** bar. Drag the**Lines Width** bar's slider to set broader or narrower lines.
 
 ![The Mystify screensaver settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mystify-screensaver-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Mystify, Bubbles, and Ribbons tabs all include**Span Multiple Monitor** checkboxes. That setting is enabled by default so that the screensaver extends across multiple monitors. Deselecting that checkbox will display a set screensaver separately on multiple monitors.
 
@@ -136,20 +136,22 @@ thumbnail: https://thmb.techidaily.com/784db2c82eb1f6eef5af42f9b8546286ae48527dd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-unlocking-the-potential-of-bandicam-your-ultimate-guide/"><u>[New] In 2024, Unlocking the Potential of Bandicam – Your Ultimate Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-tips-and-tricks-perfecting-webcam-recordings-on-macbook-for-2024/"><u>[Updated] Tips & Tricks Perfecting Webcam Recordings on MacBook for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-30-metaverse-meme-creation-tips-and-trends/"><u>[Updated] Top 30 Metaverse Meme Creation Tips & Trends</u></a></li>
-<li><a href="https://facebook.techidaily.com/10-messenger-rooms-tips-and-tricks-for-beginners/"><u>10 Messenger Rooms Tips and Tricks for Beginners</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beginners-guide-to-gopro-extras-for-2024/"><u>Beginner's Guide to GoPro Extras for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-correcting-missing-msvcrt120dll-errors-on-pcs/"><u>Guide to Correcting Missing Msvcrt120dll Errors on PCs</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-regain-access-email-and-calendar-in-windows-11/"><u>How to Regain Access: Email & Calendar in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/instantly-stop-notifications-in-windows-11-ui/"><u>Instantly Stop Notifications in Windows 11 UI</u></a></li>
-<li><a href="https://win11.techidaily.com/launching-printer-from-protected-windows-11-edge-mode/"><u>Launching Printer From Protected Windows 11 Edge Mode</u></a></li>
-<li><a href="https://win11.techidaily.com/ranking-the-peak-fps-counter-apps-for-windows-11/"><u>Ranking the Peak FPS Counter Apps for Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-gt-3-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 3 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210127143-9781950241835-the-gift-of-courage-3rd-ed/"><u>The Gift of Courage (3rd ed.) | Free Book</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-your-potential-best-windows-to-dos/"><u>Unleashing Your Potential: Best Windows To-Dos</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-the-samsung-galaxy-note-9-reigns-as-top-large-display-mobile-device/"><u>Why the Samsung Galaxy Note 9 Reigns as Top Large-Display Mobile Device</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastery-of-screen-recording-top-6-on-mac-systems/"><u>[New] 2024 Approved Mastery of Screen Recording Top 6 on Mac Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-professional-level-editing-at-zero-price-8-exceptional-software-picks/"><u>[Updated] 2024 Approved Professional-Level Editing at Zero Price 8 Exceptional Software Picks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-content-platform-wars-direct-engagement-or-wider-distribution-twitch-vs-youtube/"><u>[Updated] Content Platform Wars Direct Engagement or Wider Distribution? – Twitch Vs YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-fixing-the-mystery-of-d3d11-gpu-errors/"><u>Deciphering and Fixing the Mystery of D3D11 GPU Errors</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-office-hours-on-windows-11-with-these-5-apps/"><u>Elevate Office Hours on Windows 11 with These 5 Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/enable-advanced-security-for-win-11s-edge-with-microsoft-defender-aguard/"><u>Enable Advanced Security for Win 11'S Edge with Microsoft Defender Aguard</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overwatch-graphic-driver-issue-resolved-updated-gameplay-experience/"><u>Overwatch Graphic Driver Issue Resolved - Updated Gameplay Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/prime-interactive-camera-spotlights/"><u>Prime Interactive Camera Spotlights</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-resolution-for-windows-update-error-0x800736cc/"><u>Quick Resolution for Windows Update Error 0X800736CC</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalizing-sleeping-service-wsreset-on-windows-pcs/"><u>Revitalizing Sleeping Service: WSReset on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-it-support-setting-up-keyboard-shortcuts-for-w11-tools/"><u>Streamline IT Support: Setting Up Keyboard Shortcuts for W11 Tools</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-a-frustrated-update-journey/"><u>Swift Solutions for a Frustrated Update Journey</u></a></li>
+<li><a href="https://win11.techidaily.com/the-key-to-grasping-windows-policies-an-in-depth-trio-analysis/"><u>The Key to Grasping Windows Policies: An In-Depth Trio Analysis</u></a></li>
+<li><a href="https://win-info.techidaily.com/upcoming-revolutionary-windows-on-arm-applications-why-you-cant-ignore-them/"><u>Upcoming Revolutionary Windows on ARM Applications: Why You Can't Ignore Them!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-vignette-magic-the-best-free-and-paid-apps-for-iphone-and-android-for-2024/"><u>Updated Vignette Magic The Best Free and Paid Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-computings-stunning-animated-character-designs-for-high-quality-folder-icons/"><u>YL Computing's Stunning Animated Character Designs for High-Quality Folder Icons</u></a></li>
 </ul></div>
 

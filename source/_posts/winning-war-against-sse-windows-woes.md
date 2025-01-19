@@ -1,7 +1,7 @@
 ---
 title: Winning War Against SSE Windows Woes
-date: 2024-08-16T00:51:48.668Z
-updated: 2024-08-17T00:51:48.668Z
+date: 2025-01-16T19:26:32.072Z
+updated: 2025-01-18T16:47:48.979Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  In this article, we will discuss different fixes you can apply to make the Skyrim Script Extender work again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Are You Using a Cracked Version of Skyrim?
 
  If you have been playing Skyrim with a cracked or illegitimate version, the fixes below won't help. If that's the case, get a legitimate copy, and the problem may disappear. However, if you are using a genuine version and experiencing this issue, you should begin applying the fixes.
@@ -31,15 +35,17 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
  So, if the problem has occurred after enabling a new mod, disable it and run the tool again. If disabling it fixes the problem, delete the mod, including files in its installation folder. Nonetheless, if the problem has occurred randomly, try enabling and disabling each mod separately to rule out any mod-related problems.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Run SKSE as an Administrator
 
  By running SKSE as an administrator, you eliminate any possibility of your operating system restricting the tool's access to system files, preventing it from working correctly. You can run the tool as an administrator by right-clicking on its executable file and clicking**Run as administrator.**
 
 ![Running SKSE as as Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-SKSE-as-as-Administrator-in-Windows.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Verify the Integrity of Game Files
@@ -56,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  If an integrity check fails to fix the problem, ensure the compatibility issue is not the cause.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 4\. Rule Out Compatibility Issues
 
  Just like running an incompatible mod can lead to SKSE not working correctly, the same can be said about running SKSE with an incompatible game version. Follow these steps to rule out this possibility:
@@ -69,13 +72,13 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 3. Right-click it, then select**Properties** .
 4. Note the game version under the**Details** tab.  
 ![Checking Product Version in the Details Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Checking-Product-Version-in-the-Details-Tab-of-Properties-Window.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 5. Visit the[SKSE downloads page](https://skse.silverlock.org/) and compare the build you're using with the game version.
 
  If the SKSE's build is compatible with the game version, you can move on to the next fix. Otherwise, download the compatible build to resolve the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Stop Skyrim From Automatically Updating
 
@@ -88,11 +91,17 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 4. On the left sidebar, click the**Updates** tab.
 5. Select**Only update this game when I launch it** from the**Automatic Updates** dropdown.  
 ![Selecting the Only Update This Game When I Launch It Option From the Automatic Updates Dropdown in the Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/7-Selecting-the-Only-Update-This-Game-When-I-Launch-It-Option-From-the-Automatic-Updates-Dropdown-in-the-Updates-Settings-of-a-Game-in-Steam.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. In the**Background Downloads** dropdown menu, select**Never allow background downloads** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Selecting the Never Allow Background Downloads Option from the Background Downloads Dropdown Menu in Updates Settings of a Game in Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/8-Selecting-the-Never-Allow-Background-Downloads-Option-from-the-Background-Downloads-Dropdown-Menu-in-Updates-Settings-of-a-Game-in-Steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Having set the automatic updates to start only when Skyrim is launched, you should never launch the game from Steam again. Doing so may result in the game being updated again, making it incompatible with your current SKSE build. Therefore, you should launch the game with SKSE itself or through a mod organizer.
 
@@ -115,16 +124,10 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 `C:/Program Files (x86)/Steam/steamapps/common`
 2. Copy the Skyrim game folder.  
 ![Copying the Game Folder by Right-clicking on the Skyrim Game Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/9-Copying-the-Game-Folder-by-Right-clicking-on-the-Skyrim-Game-Folder-in-Windows-File-Explorer.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Paste the game files to another location on your computer. You can also use one of the methods in our guide on[how to back up Windows data to the cloud](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) .
 
  That's it. When the compatibility issue arises after an update, go back to the backup location and replace the original game folder in the Steam directory with that backup.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## 8\. Ensure That the Firewalls or Antivirus Aren’t Interfering
 
  Because SKSE directly alters game files, it's common for your antivirus or Windows Defender firewall to consider it a threat. It may result in your firewall or antivirus program interfering with the communication process between SKSE and the game.
@@ -132,27 +135,22 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
  To resolve this issue, you need to allow SKSE exclusive access through your firewall; in other words, whitelist it. Our guide on[how to whitelist files in the Windows Defender firewall](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) will assist you if you are unfamiliar with the process. If you're using a third-party antivirus, refer to its official documentation to learn how to whitelist an app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 9\. Reinstall Steam in a Different Location
 
  If none of the fixes worked, you should reinstall Steam. Make sure you don't install it on the same drive as your operating system. The reason is that Windows security prevents SKSE from modifying game files, thereby blocking communication. Reinstall Steam in a different location; hopefully, doing so will fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try Your New Mods With SKSE64
 
  It can be genuinely deflating when Skyrim Script Extender fails to work when we are all set to try a newly released mod. Hopefully, applying the fixes discussed in this article will fix SKSE64 and allow you to enjoy your new mod. There is no doubt that mods can breathe new life into games, so it is worth trying them out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +159,18 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-understanding-youtubes-revenue-model-one-million-viewer-focus/"><u>[Updated] 2024 Approved Understanding YouTube's Revenue Model One Million Viewer Focus</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cheapest-4k-dslrmirrorless-cameras-and-camcorders/"><u>[Updated] Cheapest 4K DSLR/Mirrorless Cameras and Camcorders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-ignite-views-effective-strategies-for-optimizing-youtube-collaborations/"><u>[Updated] Ignite Views Effective Strategies for Optimizing YouTube Collaborations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-professional-drone-review-best-5-to-consider/"><u>[Updated] Professional Drone Review Best 5 to Consider</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-common-wwinplusp-errors-on-windows-devices/"><u>Fixing the Common WWin+P Errors on Windows Devices.</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-eliminate-the-dreadful-application-didnt-start-error-xc000003e-in-win11/"><u>How to Eliminate the Dreadful Application Didn’t Start: Error Xc000003e in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/identify-and-solve-hidden-disk-space-problems-in-windows/"><u>Identify & Solve Hidden Disk Space Problems in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Phones with/without a PC</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-mending-spotify-errors-in-win11/"><u>Quick Guide to Mending Spotify Errors in Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/window-warrior-mastering-keyboard-shortcuts-in-windows/"><u>Window Warrior: Mastering Keyboard Shortcuts in Windows</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728491230971-windows-1011/"><u>Windows 10/11用の途切れないデータ復元手法</u></a></li>
+</ul></div>
 

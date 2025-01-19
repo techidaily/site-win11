@@ -1,7 +1,7 @@
 ---
 title: Resolving Disconnect Errors From Failed Windows Discord Updates
-date: 2025-01-10T03:38:25.598Z
-updated: 2025-01-12T22:20:27.214Z
+date: 2025-01-18T02:04:36.158Z
+updated: 2025-01-18T21:53:51.440Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Rule Out Any Internet Issues
 
  One of the most common causes for a failed Discord update is a sluggish or inconsistent internet connection. Hence, before trying any advanced troubleshooting tips, you should rule out any issues with your internet connection.
@@ -32,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42b
  Test your internet connection by loading a few websites or visiting one of the[best websites for testing your internet speed](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . Additionally, if you’re using a VPN connection, temporarily disable it to see if that fixes the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Give Discord a Fresh Start
@@ -48,7 +52,7 @@ To force-stop the Discord app:
 ![End Discord Process on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/End-Discord-Process-on-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Check Discord Server Status
@@ -63,11 +67,11 @@ To force-stop the Discord app:
 
 ![Run Discord as Administrator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Discord-as-Administrator.jpg)
 
- If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this helps Discord finish updates, you can configure the app to always run as an administrator. If you need help, refer to our guide on[how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) and follow the steps outlined there.
 
 ## 5\. Allow Discord Through Windows Firewall
 
@@ -90,10 +94,6 @@ To force-stop the Discord app:
 
  After disabling your antivirus program, try to update Discord again. If this works, you'll need to whitelist Discord in your antivirus settings. Alternatively, you can switch to a different antivirus program altogether. There are plenty of[free and paid antivirus apps available for Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Adjust the Date and Time Settings
 
  Discord may have trouble connecting to its server[if your PC is set to an incorrect date or time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) . You can avoid such problems by configuring Windows to use network-provided time. Here’s how.
@@ -104,13 +104,13 @@ To force-stop the Discord app:
 4. Enable the toggles next to**Set time automatically** and**Set time zone automatically** .  
 ![Set Date & Time Automatically on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Set-Date--Time-Automatically-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Restart the Discord app after this and allow it to finish updates.
 
  If you can't seem to set the correct time no matter what you do, check out[how to fix an incorrect time on Windows](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) which has some handy tips you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Rename the Discord Update Executable File
 
@@ -123,7 +123,7 @@ Restart the Discord app after this and allow it to finish updates.
 ![Rename Discord Update File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Rename-Discord-Update-File.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Uninstall and Reinstall Discord
@@ -166,19 +166,22 @@ To uninstall Discord from your PC:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-tweetpic-puller-extract-visuals-from-twitter-feed/"><u>[New] 2024 Approved TweetPic Puller Extract Visuals From Twitter Feed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-role-of-b-roll-in-cinematic-storytelling/"><u>[New] In 2024, The Role of B-Roll in Cinematic Storytelling</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ro-youtuber-essentials-studio-choice-over-beta-alternative-for-2024/"><u>[New] Pro YouTuber Essentials Studio Choice Over Beta Alternative for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-deceptive-consequences-of-genuine-popularity-illusions/"><u>[Updated] The Deceptive Consequences of Genuine Popularity Illusions</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/complete-guide-discovering-every-picture-on-your-pc-with-windows-11/"><u>Complete Guide: Discovering Every Picture on Your PC with Windows 11</u></a></li>
-<li><a href="https://win-web3.techidaily.com/customizing-your-pcs-look-and-feel-tips-from-yl-computing/"><u>Customizing Your PC's Look & Feel - Tips From YL Computing</u></a></li>
-<li><a href="https://win11.techidaily.com/enable-visibility-recognize-unlisted-cameras-in-dm/"><u>Enable Visibility: Recognize Unlisted Cameras in DM</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-list-of-premium-androidpc-video-editors/"><u>In 2024, The Ultimate List of Premium Android/PC Video Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-unraveling-quirks-and-fixes/"><u>Navigating Through WINDOWS 11: Unraveling Quirks & Fixes</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-fixes-to-address-windows-notepad-crashes/"><u>Quick Fixes to Address Windows Notepad Crashes</u></a></li>
-<li><a href="https://win11.techidaily.com/resetting-microsoft-store-on-windows-11-and-11/"><u>Resetting Microsoft Store on Windows 11 & 11</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-1011-updater-error-code-0x80246007-fix-guide/"><u>Resolving Windows 10/11 Updater Error: Code 0X80246007 Fix Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-integrating-onedrive-and-microsoft-id/"><u>Step-by-Step: Integrating OneDrive & Microsoft ID</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-windows-exception-breakpoint-problem/"><u>Troubleshooting Steps for Windows' Exception Breakpoint Problem</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1-fixing-acer-recovery-manager-issues-effective-solution-guide/"><u>1. Fixing Acer Recovery Manager Issues: Effective Solution Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/7-efficaces-strategies-pour-empecher-la-carte-sd-de-perdre-en-visibilite-sur-windows-11/"><u>7 Efficaces Stratégies Pour Empêcher La Carte SD De Perdre en Visibilité Sur Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/boosting-twitch-viewership-5-key-tactics-for-2024/"><u>Boosting Twitch Viewership 5 Key Tactics for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/debugging-java-virtual-machine-creation-failure-on-windows/"><u>Debugging Java Virtual Machine Creation Failure on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-google-play-through-windows-11/"><u>Enabling Google Play Through Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-halt-default-launch-of-windows-11s-snipping-tool-by-pressing-prtscn/"><u>How to Halt Default Launch of Windows 11'S Snipping Tool by Pressing PrtScn</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-moto-g34-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola Moto G34 5G Device</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/instagram-to-twitter-share-content-directly-no-rt/"><u>Instagram to Twitter Share Content Directly (No RT)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m3-macbook-pro-launch-details-pricing-info-and-specifications-unveiled/"><u>M3 MacBook Pro Launch Details: Pricing Info & Specifications Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-server-connection-in-the-latest-win11-version/"><u>Mastering File Server Connection in the Latest Win11 Version</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-scheduling-the-complete-windows-11-calendar-handbook/"><u>Mastering Scheduling: The Complete Windows 11 Calendar Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-non-selectable-text-windows-pdf-guide/"><u>Navigate Non-Selectable Text: Windows' PDF Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigate-the-future-of-gaming-with-optimal-arc-monitors/"><u>Navigate the Future of Gaming with Optimal Arc Monitors</u></a></li>
+<li><a href="https://win11.techidaily.com/speedy-multilingual-navigation-on-windows-1011-with-keys/"><u>Speedy Multilingual Navigation on Windows 10/11 with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mystery-of-mouse-controls-on-windows-11/"><u>Unlock the Mystery of Mouse Controls on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-csgo-on-w11-troubleshooting-non-start-issues/"><u>Winning CS:GO on W11 – Troubleshooting Non-Start Issues</u></a></li>
 </ul></div>
 

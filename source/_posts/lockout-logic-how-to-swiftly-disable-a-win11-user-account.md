@@ -1,7 +1,7 @@
 ---
 title: "Lockout Logic: How to Swiftly Disable a Win11 User Account"
-date: 2025-01-08T02:27:04.518Z
-updated: 2025-01-13T08:37:02.091Z
+date: 2025-01-16T16:52:17.283Z
+updated: 2025-01-18T21:32:29.294Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. How to Disable a User Account in Windows Settings
 
  Windows allows the system administrator to manage user accounts on Windows 11\. Not only can you[add a local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) there, but you can also block sign-in to disable an account temporarily.
@@ -40,16 +36,12 @@ To disable user accounts via Settings:
 ![windows 11 settings account family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-1.jpg)
 3. Next, in the right pane, scroll down and click on**Family** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Under**Your family** , scroll down and click on the account you want to disable.  
 ![windows 11 settings account family block sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-block-sign-in-1.jpg)
 5. Next, click the**Block sign in** button and click**Block** in the confirmation dialog.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![windows 11 settings account family allow sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-11-settings-account-family-allow-sign-in-1.jpg)
@@ -69,6 +61,10 @@ To disable a user account using PowerShell:
 ![powerhsell user account list view](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powerhsell-user-account-list-view.jpg)
 4. Next, type the following command to find all the user accounts on your PC:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `Get-LocalUser`
 5. Locate the user account name in the**Name** column.
 
@@ -82,10 +78,6 @@ To disable a user account using PowerShell:
 5. In the above command replace NewUser with your user account name.
 
  When disabled, the user account will be hidden from your lock screen. To verify the same, press**Win + L** to[lock your Windows 11 computer](https://www.makeuseof.com/windows-11-ways-to-lock/) . Next, double-click on the lock screen to view the login screen. If disabled, the user account will appear on the lower left side of your screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Disable a User Account Using the Command Prompt
 
@@ -101,10 +93,19 @@ To disable a user account using Command Prompt:
 ![command prompt net user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user.jpg)
 5. Next, type the following command to disable the specified user account:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `net user NewUser /active:no`
 6. In the above command, replace**NewUser** with the user account name you want to disable.  
 ![command prompt net user disable account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/command-prompt-net-user-disable-account.jpg)
 7. Next, type**exit** and press Enter to close Command Prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. If you need to enable the account again, execute the following command:  
 `net user NewUser /Active:yes`
 9. Make sure to replace NewUser with the account name you want to enable.
@@ -145,16 +146,16 @@ To disable a user account using Command Prompt:
 ![run lusrmgr exe file edit account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account.jpg)
 4. Next, open the**Account** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Account is disabled** option.  
 ![run lusrmgr exe file edit account disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/run-lusrmgr-exe-file-edit-account-disabled.jpg)
 6. Click**Apply** and**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## There Are Many Ways to Disable a User Account on Windows 11
@@ -178,20 +179,19 @@ To disable a user account using Command Prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-gopro-hero5-black-vs-garmin-virb-ultra-30-which-better-2022-upda/"><u>[New] GoPro Hero5 Black VS Garmin VIRB Ultra 30 Which Better? [2022 Upda]</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-videography-6-tips-for-making-macro-video/"><u>[New] Videography 6 Tips for Making Macro Video</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-premier-editing-software-for-vimeo-streams/"><u>[Updated] 2024 Approved Premier Editing Software for Vimeo Streams</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlocking-high-quality-audio-interpretation-via-google/"><u>[Updated] 2024 Approved Unlocking High-Quality Audio Interpretation via Google</u></a></li>
-<li><a href="https://common-error.techidaily.com/5-proven-strategies-to-thaw-out-a-locked-up-windows-10-taskbar/"><u>5 Proven Strategies to Thaw Out a Locked Up Windows 10 Taskbar</u></a></li>
-<li><a href="https://win11.techidaily.com/evaluating-online-and-offline-file-transfer-google-and-windows-compared/"><u>Evaluating Online and Offline File Transfer: Google & Windows Compared</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-nubia-red-magic-9-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Nubia Red Magic 9 Pro Devices</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-invalid-captcha-on-steam/"><u>How to Rectify Invalid CAPTCHA on Steam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-hdr-techniques-in-modern-photoshoots/"><u>In 2024, Understanding HDR Techniques in Modern Photoshoots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/live-streaming-mastery-with-manycam-professional-video-chat-and-online-webcam-solutions/"><u>Live Streaming Mastery with ManyCam: Professional Video Chat and Online Webcam Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-multi-tasking-boosting-productivity-in-windows-11/"><u>Mastering Multi-Tasking: Boosting Productivity in Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-to-disarming-windows-11s-security-alerts/"><u>Quick Guide to Disarming Windows 11'S Security Alerts</u></a></li>
-<li><a href="https://win11.techidaily.com/solving-utorrent-not-launching-properly-on-windows-desktops/"><u>Solving uTorrent Not Launching Properly on Windows Desktops</u></a></li>
-<li><a href="https://win11.techidaily.com/transforming-admin-routines-a-modern-take-on-user-access-control/"><u>Transforming Admin Routines: A Modern Take on User Access Control</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-enhancing-clarity-in-file-navigating/"><u>Windows 11: Enhancing Clarity in File Navigating</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-game-on-with-more-space-topping-10-hddssds-for-2024/"><u>[New] Game On with More Space Topping 10 HDD/SSDs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-sound-waves-instagrams-musical-blueprint/"><u>[New] In 2024, Sound Waves Instagram's Musical Blueprint</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[Updated] 2024 Approved Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tutorial-triumphant-skyrocketing-your-youtube-presence/"><u>[Updated] Tutorial Triumphant Skyrocketing Your YouTube Presence</u></a></li>
+<li><a href="https://win11.techidaily.com/conquer-win-11-challenges-the-seamless-gameplay-upgrade-plan-of-7-steps/"><u>Conquer Win 11 Challenges: The Seamless Gameplay Upgrade Plan of 7 Steps</u></a></li>
+<li><a href="https://win11.techidaily.com/dive-deep-into-wintoys-the-essential-walkthrough-for-windows-users/"><u>Dive Deep Into 'WinToys': The Essential Walkthrough for Windows Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-ryzen-amoledcameoimagesfavicon-32x32-precomposedpngryzen52400g-drivers-now/"><u>Download Ryzen amoled_cameo/images/favicon-32x32-precomposed.pngryzen5_2400g Drivers Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-guide-fixing-non-operational-mailcalender-in-w11/"><u>Essential Guide: Fixing Non-Operational Mail/Calender in W11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-13-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 13 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-forex-top-3-entry-level-strategies-guaranteed-to-earn-on-mt4/"><u>Mastering Forex: Top 3 Entry-Level Strategies Guaranteed to Earn on MT4</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-10-top-rated-music-video-makers/"><u>New In 2024, Unleash Your Creativity 10 Top-Rated Music Video Makers</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-installation-access-issues-on-windows-1011/"><u>Overcoming Installation Access Issues on Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-for-recalibrating-windows-energy-mode/"><u>Tips for Recalibrating Windows Energy Mode</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-phantom-v-flip-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Phantom V Flip Device</u></a></li>
 </ul></div>
 

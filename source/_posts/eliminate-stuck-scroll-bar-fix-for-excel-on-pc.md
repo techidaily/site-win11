@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Stuck Scroll Bar: Fix for Excel on PC"
-date: 2025-01-09T20:39:14.367Z
-updated: 2025-01-12T18:07:19.968Z
+date: 2025-01-11T18:40:56.971Z
+updated: 2025-01-18T18:32:38.325Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,12 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 ![Windows Print Screen Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-print-screen-key.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you can’t find the Scroll Lock key on your physical keyboard, [use the on-screen keyboard on Windows](https://www.makeuseof.com/windows-10-on-screen-keyboard-type-smarter/) to disable Scroll Lock. For that, press **Win + S** to access the search menu, type **osk** in the search box, and hit **Enter**. Then, click the **ScrLk** key to disable Scroll Lock.
 
 ![Screenshot of On Screen Keyboard with Scroll Lock key highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/scrlk.JPG)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Unfreeze Panes
@@ -58,10 +54,14 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 ![Unfreeze Pane in Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/unfreeze-pane-in-microsoft-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following this, your Excel spreadsheet should scroll as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable the Zoom on Roll With IntelliMouse Option
 
@@ -75,10 +75,6 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 6. Click **OK** to save the changes.  
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Enable Scroll Bars
 
  You may have trouble scrolling through your spreadsheets if Excel does not display the horizontal and vertical scroll bars on your PC. Here’s how you can enable them.
@@ -91,7 +87,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. AutoFit Row Height in Excel
@@ -104,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 4. Select **Format > AutoFit Row Height**.  
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -114,7 +114,7 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
@@ -161,22 +161,21 @@ thumbnail: https://thmb.techidaily.com/50a0e21454dc02c593e958f3f8488f7e3d42941b9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-do-i-schedule-a-screen-recording/"><u>[Updated] In 2024, How Do I Schedule A Screen Recording</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-audio-and-visual-quality-in-youtube-videos/"><u>[Updated] In 2024, Mastering Audio & Visual Quality in YouTube Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-pioneering-free-screen-recorder-applications-for-mac/"><u>[Updated] Top 10 Pioneering Free Screen Recorder Applications for Mac</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-terras-treasures-selecting-the-top-mapping-games/"><u>2024 Approved Terra's Treasures Selecting the Top Mapping Games</u></a></li>
-<li><a href="https://win11.techidaily.com/deciphering-runtime-brokers-functionality-at-runtime/"><u>Deciphering Runtime Broker's Functionality at Runtime</u></a></li>
-<li><a href="https://win11.techidaily.com/discovering-six-superior-aspects-of-win11/"><u>Discovering Six Superior Aspects of Win11</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-performance-how-to-use-all-available-ram-in-windows/"><u>Enhancing Performance: How to Use All Available RAM in Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-insignia-ethernet-to-usb-driver-installation-instructions/"><u>Free Insignia Ethernet-to-USB Driver Installation Instructions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-install-google-maps-on-your-windows-pc/"><u>How to Install Google Maps on Your Windows PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-sync-your-wireless-airpods-with-an-hp-laptop-an-easy-instructional-guide/"><u>How To Sync Your Wireless AirPods With an HP Laptop: An Easy Instructional Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-msvcr120-dll-file-correction-on-windows/"><u>Strategies for MSVCR120 Dll File Correction on Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-mend-windows-11s-camera-app-f429f-error/"><u>Strategies to Mend Windows 11’S Camera APP F429F Error</u></a></li>
-<li><a href="https://win11.techidaily.com/techniques-for-correcting-system-call-errors-on-win1011/"><u>Techniques for Correcting System Call Errors on Win10/11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211472983-9781397665225-the-flying-saucers-are-real/"><u>The Flying Saucers Are Real | Free Book</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-windows-call-journals/"><u>The Ultimate Guide to Windows' Call Journals</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-free-audio-editors-for-m4a-files-2024-edition/"><u>Updated Best Free Audio Editors for M4A Files (2024 Edition)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-beyond-the-skyline-with-yuneecs-typhoon-q500/"><u>[New] Beyond the Skyline with Yuneec's Typhoon Q500</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-capacity-of-64128gb-in-video-storage-an-overview/"><u>[New] Capacity of 64/128GB in Video Storage - An Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-ensuring-longevity-for-androidmac-snapshots/"><u>[New] In 2024, Ensuring Longevity for Android/Mac Snapshots</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nveiling-the-secrets-to-professional-youtube-content-creation-for-2024/"><u>[New] Unveiling the Secrets to Professional YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-demystifying-instagrams-guidelines-for-sharing-songs/"><u>[Updated] Demystifying Instagram’s Guidelines for Sharing Songs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-screen-to-speakers-secrets-to-successful-video-sharing/"><u>[Updated] From Screen To Speakers Secrets to Successful Video Sharing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/abbyy-smart-ocr-speeding-up-your-companys-digital-evolution-with-advanced-scanning-technology/"><u>ABBYY® Smart OCR: Speeding Up Your Company's Digital Evolution with Advanced Scanning Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-your-lost-windows-product-key-quick-guide/"><u>Discover Your Lost Windows Product Key Quick Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-tecno-spark-go-2023-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Tecno Spark Go (2023)?</u></a></li>
+<li><a href="https://win11.techidaily.com/jumpstart-high-speed-play-for-yuzu-windows-ways/"><u>Jumpstart High-Speed Play for Yuzu, Windows Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/labeling-legends-taking-note-of-files-via-comments/"><u>Labeling Legends: Taking Note of Files via Comments</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-control-filter-key-functionality/"><u>Mastering Windows: Control Filter Key Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/nine-tactics-for-a-successful-google-drive-sync-in-windows/"><u>Nine Tactics for a Successful Google Drive Sync in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-problems-with-content-advisory-pop-ups-in-pc-browsers/"><u>Troubleshooting Persistent Problems with Content Advisory Pop-Ups in PC Browsers</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharge-win-outlook-faster-fixes-guide/"><u>Turbocharge Win Outlook: Faster Fixes Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-display-sync-and-configure-two-or-more/"><u>Windows 11 Display: Sync and Configure Two or More</u></a></li>
 </ul></div>
 

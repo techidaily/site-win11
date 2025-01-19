@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Access Denied On Windows 11: Essential Fixes Listed"
-date: 2024-08-16T00:49:24.776Z
-updated: 2024-08-17T00:49:24.776Z
+date: 2025-01-12T23:05:59.100Z
+updated: 2025-01-18T22:01:18.568Z
 tags:
   - windows10
   - windows11
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
  When you encounter the "Access Denied" error in Windows 11, it can feel like you're being locked out of your own computer. While having trouble accessing your files, directories, and folders is frustrating, don't panic—with a few simple tweaks, you can regain access to your system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Why Are You Getting the "Access Denied" Error?
 
  The Access Denied error is a common issue on Windows systems that indicates you don't have permission to view a file or folder. This is because your system has not granted access to that directory for the user account you're currently using. Simply put, you're using an unauthorized account to access paths, folders, and files on your computer or external drives from other computers.
@@ -45,6 +41,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Below are some common fixes for the Access Denied error on Windows 11\.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Filesystem's Permissions
 
  This is a simple solution you can try to ensure your account has the proper access to the file or folder you are opening:
@@ -52,11 +52,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Locate the file, folder, or directory you are trying to access. Right-click on it and choose **Properties** from the menu.
 2. Go to the **Security** tab and click the **Edit**button.  
 ![The Security tab under Properties of a File on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/file-properties.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 3. Choose your username from the list and check the box beside **Full control** in the **Allow** column under the **Permissions for User** section. Then, click **OK**.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot showing the settings for changing permissions for users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/user-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** If your username is not on the list, you have to add it manually and then change its permissions.
 
@@ -70,6 +76,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. On the **User Accounts** window, check the box beside **Users must enter a username and password to use this computer**. If this isn't present, skip this step.  
 ![The users tab displaying users in a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/the-users-tab-displaying-users-in-a-computer.png)
 3. Select your account and click the **Properties** button below it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Next, go to the **Group Membership** tab. Choose **Administrator** from the menu, then click **Apply** and **OK**.  
 ![Group membership tab for selecting standard user or administrator account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/group-membership-tab-for-selecting-standard-user-or-administrator-account.png)
 
@@ -83,17 +94,15 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Next, type **CMD**, right-click Command Prompt, and click **Run as administrator.**
 3. On the Command Prompt, run the following command: **net user administrator /active:yes**. This will unlock the administrator account.  
 ![Prompt for enabling the hidden admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-enabling-the-hidden-admin-account-in-windows.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Log off the current account and switch to the newly enabled Administrator account. Using this account, you won't run into access problems, as it has more privileges than a normal admin account.
 5. Once you're done with the Administrator account, log off and sign into your main account again. Repeat steps 1 and 2, then run this command: **net user administrator /active:no.** This will disable the Administrator account.
 
  Switching back to your main account will cause the error to appear again. If you need to constantly access the files, use the hidden Administrator account to make the necessary changes to your system and fix the ownership or access issue. You might also consider copying the items to another location your usual account can access.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Take Ownership of the File
 
  As mentioned previously, the "Access Denied" error sometimes stems from ownership problems. If this is the cause of the error, [taking ownership of the file](https://www.makeuseof.com/windows-10-11-own-folder/) can instantly give you the access you need:
@@ -101,17 +110,16 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Locate the folder or file you want to access and right-click on it. Click **Properties** from the menu.
 2. Go to the **Security** tab and click the **Advanced** button.  
 ![Security tab in the Properties tab of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/security-tab-in-the-properties-tab-of-a-file-in-windows.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Next, look for the **Owner** section on the top of the window and click **Change**. This will open a new dialog box.  
 ![Permissions page for a file in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/permissions-page-for-a-file-in-windows-11.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the **Select User or Group** window, type your username or **Administrators** in the **Enter the object name** field.  
 ![Select user or group tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab.png)
 5. Then, click the **Check Names** and **OK** buttons to save your changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Select user or group tab for a file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/select-user-or-group-tab-for-a-file.png)
 6. Next, click **Apply.**
 7. You'll see a Windows Security prompt. Click **OK**.
@@ -130,15 +138,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Right-click it and select **Copy as path**.
 3. Replace "path\_to\_folder" with the copied path. For instance, **"C:\\Users\\HP\\Downloads\\Literature review sources"**  
 ![Prompt for taking ownership of a file via CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/prompt-for-taking-ownership-of-a-file-via-cmd.png)
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer once you're done with the steps above to check if the problem is resolved. But usually, after running these commands, you should regain access to the files and folders.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Your Third-Party Antivirus Software
 
  On the off chance that the issue isn't resolved, consider turning off your third-party antivirus software.
@@ -149,11 +151,31 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Resolving the "Access Denied" error is straightforward and does not require a lot of technical steps. You can regain control over your files and system by employing a few key strategies. Simply ensure your user account has the necessary permissions and, if needed, elevate your privileges to an administrator level.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-streamline-your-playtime-with-nvidia/"><u>[New] 2024 Approved Streamline Your Playtime with NVIDIA</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-green-screen-journey-begins-on-yt-ideas-take-flight-for-2024/"><u>[New] Green Screen Journey Begins on YT, Ideas Take Flight for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ioneer-productions-with-your-mac-for-viral-youtube-videos-for-2024/"><u>[New] Pioneer Productions with Your Mac for Viral Youtube Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-quick-start-combining-mac-obs-and-streamlabs-power-for-2024/"><u>[New] Quick Start Combining Mac, OBS & Streamlabs Power for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-innovative-tricks-for-captivating-boomerangs/"><u>2024 Approved Innovative Tricks for Captivating Boomerangs</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/cdwindows-7/"><u>CDレスでも可能!Windows 7ハードディスクの効率的な初回セットアップ方法</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-your-gaming-experience-6-best-gpu-stress-testers-for-win-users/"><u>Enhance Your Gaming Experience: 6 Best GPU Stress Testers for Win Users</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-for-restoring-windows-11-media-software/"><u>Essential Tips for Restoring Windows 11 Media Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>In 2024, Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/masterful-multi-monitor-walls-windows-11-style-guide/"><u>Masterful Multi-Monitor Walls: Windows 11 Style Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/remedy-muted-sound-despite-settings-to-full-volume/"><u>Remedy Muted Sound Despite Settings to Full Volume</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-order-resolving-windows-charmap-dysfunction/"><u>Restoring Order: Resolving Windows CharMap Dysfunction</u></a></li>
+<li><a href="https://win11.techidaily.com/revitalize-your-desktop-effective-steps-for-restoring-missing-windows-in-11/"><u>Revitalize Your Desktop: Effective Steps for Restoring Missing Windows in 11</u></a></li>
+<li><a href="https://win11.techidaily.com/speeding-up-task-manager-refreshes-on-windows-11/"><u>Speeding Up Task Manager Refreshes on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-experts-playbook-top-techniques-for-youtube-to-mpeg-for-2024/"><u>The Expert's Playbook Top Techniques for YouTube-to-MPEG for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/winx-chroma-challenge-overcoming-blacked-out-displays/"><u>WinX Chroma Challenge: Overcoming Blacked-Out Displays</u></a></li>
+</ul></div>
+

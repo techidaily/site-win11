@@ -1,7 +1,7 @@
 ---
 title: Guide to Recovery for Windows 11 Blue Screen with Exception Handlers
-date: 2025-01-09T00:41:13.277Z
-updated: 2025-01-12T22:43:38.565Z
+date: 2025-01-13T16:55:32.750Z
+updated: 2025-01-19T02:10:33.269Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  Now that we know the potential causes, let's look at the solutions that helped several affected users fix the issue. Proceed with the one that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Boot Into WinRe if Your PC Won't Launch
 
  If the BSOD error is preventing you from booting into the system at all, you will need to access the recovery environment of Windows to perform the troubleshooting methods.
@@ -46,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, remember that this key may be different for you, depending on your device. In some devices, it is F9 or F12 key. It is best to check your manufacturer's official website for this information.
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Delete the Problematic Registry Keys
@@ -77,10 +81,6 @@ C:\Windows\System32\
 ![Delete the files in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-file.jpg)
 3. Now, press the Win + R keys together to open Run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Type regedit in Run and click Enter.
 5. Click**Yes** in the User Account Control prompt.
 6. Once you are inside the Registry Editor, navigate to the location mentioned below if you are using a 32-bit system:  
@@ -89,16 +89,12 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MAC
 ![Delete the Registry Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-registry-value.jpg)
 8. If you are using a 64-bit operating system, navigate to the following locate and delete the APOIM value using the same method from here:  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Software Installed\APOIMHKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Creative Tech\Installation\CTRedist\APOIM
 
  Finally, you can close the Registry Editor and restart your computer. Hopefully, you should no longer face the Blue Screen of Death error upon reboot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Remove the Problematic Software
@@ -126,6 +122,10 @@ Here is what you need to do:
 
  Once you've identified the problematic driver, you can update it using the Device Manager utility to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Other Generic Fixes to Try
 
  Apart from the solutions discussed above, several[other troubleshooting methods for BSODs](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) can help you fix blue screen errors such as this one. This includes scanning the critical system files, restoring the system to an older working state, and checking the hardware for problems.
@@ -151,22 +151,24 @@ Here is what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-building-bridges-pathways-for-graphic-design-aspirants/"><u>[New] 2024 Approved Building Bridges Pathways for Graphic Design Aspirants</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-scrutinizing-the-efficacy-of-vidma-for-video-capture-tech-for-2024/"><u>[New] Scrutinizing the Efficacy of Vidma for Video Capture Tech for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-nokia-c210-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Nokia C210? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://win-latest.techidaily.com/a-step-by-step-guide-to-mastering-the-free-swf-video-converter-factory/"><u>A Step-by-Step Guide to Mastering the Free SWF Video Converter Factory</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-guide-setting-up-your-own-wireless-cinema-in-the-dorm/"><u>DIY Guide: Setting Up Your Own Wireless Cinema in the Dorm</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-high-cpu-utilization-in-windows/"><u>Effective Solutions for Resolving High CPU Utilization in Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-the-quick-access-routine-add-onedrive-as-first-step/"><u>Mastering the Quick Access Routine: Add OneDrive as First Step</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-windows-11-and-geforce-nows-error-code-xc0f1103f/"><u>Navigating Through Windows 11 & GeForce Now’s Error Code Xc0f1103f</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-google-pixel-7a-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Google Pixel 7a</u></a></li>
-<li><a href="https://win11.techidaily.com/secure-windows-without-bitlocker-4-workarounds/"><u>Secure Windows Without BitLocker: 4 Workarounds</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-fix-task-execution-failure-error-0x8007000f/"><u>Strategies to Fix Task Execution Failure (Error 0X8007000f)</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-maintain-windows-time-settings/"><u>Strategies to Maintain Windows Time Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-addressing-error-0x0000004e-on-windows-systems/"><u>Swiftly Addressing Error 0X0000004E on Windows Systems</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-onoff-windows-energy-efficient-settings/"><u>Switching On/Off Windows' Energy Efficient Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/unraveling-the-location-of-your-pcs-current-background/"><u>Unraveling the Location of Your PC's Current Background</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/windows-1011-ssd/"><u>Windows 10/11 開始速度改善: SSDへのクローニング完了後の解決策</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exciting-entertainment-top-10-ios-games-ready-for-no-wireless-connection/"><u>[New] In 2024, Exciting Entertainment - Top 10 iOS Games, Ready for No Wireless Connection</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-supercharge-your-games-premium-top-10-drives/"><u>[Updated] 2024 Approved Supercharge Your Games Premium Top 10 Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-insight-into-how-dts-play-fi-transforms-your-music-listening/"><u>An Insight Into How DTS Play-Fi Transforms Your Music Listening</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932812-9781855842731-angels/"><u>Angels | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-chatgpts-bar-based-cocktail-skills/"><u>Assessing ChatGPT's Bar-Based Cocktail Skills</u></a></li>
+<li><a href="https://win11.techidaily.com/free-up-disk-without-deletions-a-guide-to-win11-space-management-max-156-chars/"><u>Free Up Disk without Deletions: A Guide to Win11 Space Management (Max 156 Chars)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-burning-dvd-content-directly-from-your-macs-hardware-library/"><u>Guide: Burning DVD Content Directly From Your Mac's Hardware Library</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/holy-stone-hs1n0-predator-nano-mini-quadcopter-affordable-and-high-flying-drone-unboxing/"><u>Holy Stone HS1n0 Predator Nano Mini Quadcopter - Affordable and High-Flying Drone Unboxing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-oneplus-nord-3-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your OnePlus Nord 3 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-solve-missing-banners-in-taskbars/"><u>How To Solve Missing Banners in Taskbars</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/map-the-world-around-you-top-notch-navigation-and-service-finds-at-your-fingertips/"><u>Map the World Around You - Top-Notch Navigation & Service Finds at Your Fingertips</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-settings-in-windows-11/"><u>Mastering the Settings in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-no-save-photoerror-in-windows-11/"><u>Overcoming the 'No Save' PhotoError in Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-keeping-the-taskbar-ready-while-maximized/"><u>Strategies for Keeping the Taskbar Ready While Maximized</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-windows-irq-issues-for-audio-devices/"><u>Taming Windows' IRQ Issues for Audio Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/uncover-cause-for-windows-11-icon-reduction/"><u>Uncover Cause for Windows 11 Icon Reduction</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-repair-top-10-methods/"><u>Unlocking Windows Repair: Top 10 Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/win-the-battle-against-credential-lockup/"><u>Win the Battle Against Credential Lockup</u></a></li>
 </ul></div>
 

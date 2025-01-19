@@ -1,7 +1,7 @@
 ---
 title: "Unleash Potential: Customizing the Visibility of Mouse Cursors in Win 11"
-date: 2025-01-06T23:42:36.386Z
-updated: 2025-01-12T21:52:24.313Z
+date: 2025-01-14T01:35:01.891Z
+updated: 2025-01-18T22:53:40.748Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Highlight the Cursor by Selecting the Show Location of Pointer Setting
 
  Windows doesn’t include much in the way of cursor-highlighting features. However, it does have a**Show location of pointer** setting that enables you to briefly highlight the cursor’s position with a ring by pressing an activation key. That’s not the kind of color highlighting third-party apps offer, but it still shows where the cursor is. You can select the**Show location of pointer** setting like this:
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 4. Select**Additional mouse settings** (or**Additional mouse options**) in the Windows Settings app.  
 ![The Additional mouse settings navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/additional-mouse-settings-option.jpg)
 5. Then click the**Pointer Options** tab in the Mouse Properties window that opens.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Select the**Show location of pointer** **when I press the Ctrl key** checkbox.  
 ![show-location-of-pointer-setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/show-location-of-pointer-setting.jpg)
@@ -66,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
 ![A mouse click cursor highlight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-click-highlight.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then you can configure that secondary click highlight circle by entering alternative values in the**Size** and**Opacity** boxes much the same. There’s also a**Display Time** box for click highlight. Enter an alternative millisecond value there to change how long the circle appears. The default display time of 800 milliseconds is close to a second.
 
  When you’re done configuring your cursor highlighting, click the**Apply Setting** button. The app must be running for its cursor highlighting to work, but it doesn’t run in the background with a system tray icon. Minimize the app’s window to the taskbar when you’re utilizing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Highlight the Cursor With PowerToys
 
@@ -89,10 +97,6 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 ![The Enable Mouse Highlighter option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-mouse-highligher-option.jpg)
 7. Then press the**Windows** logo key +**Shift** +**H** hotkey to activate the highlighter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  PowerToy’s cursor highlighting only applies to mouse clicking. You’ll see different color circles whenever you right or left-click the mouse. Those circles are set to yellow and blue colors by default.
 
  To customize PowerToy’s cursor highlighting, click**Appearance and Behavior** to view further options. Then you can click the**Primary** or**Secondary** button boxes to bring up palettes from which to select different colors. Drag the**Opacity** bar’s slider lift and right to adjust the highlighting’s transparency level. Click the**Radius** option to select a different size value for the circle.
@@ -100,7 +104,7 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 ![The Appearance & behavior settings in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/appearance-behavior-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Highlight the Cursor in Edge and Chrome With the Cursor Highlighter Extension
@@ -117,21 +121,17 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 ![The Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-cursor-highligher-extension.jpg)
 6. Click the color palette box to choose a color for the highlight and select save.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Now open a new website page in your browser to see your highlighted cursor.
 
 ![The mouse pointer highlight added by the Cursor Highlighter extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-circle-highligher-for-cursor.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that extensions from other stores need to be enabled for Edge users to highlight their cursors with this Chrome add-on. You can access that option in Edge by pressing**Alt** +**F** and selecting**Extensions** \>**Manage Extensions** . Then turn on the**Allow extensions from other stores** setting.
 
 ![The Allow extensions from other stores setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-extensions-from-other-stores-option.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Make the Mouse Cursor Stand Out by Highlighting It in Windows
 
@@ -152,18 +152,22 @@ thumbnail: https://thmb.techidaily.com/e3a22512763a41f8aa30352bd2ecc133cddafc4e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-gopro-studio-tips-the-pathway-to-impressive-time-lapse-video/"><u>[New] 2024 Approved GoPro Studio Tips The Pathway to Impressive Time Lapse Video</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-attracting-audiences-hook-up-hacks-for-hosts/"><u>[Updated] Attracting Audiences Hook-Up Hacks for Hosts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-guide-to-utilizing-morphvox-voice-changers/"><u>2024 Approved Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-why-isnt-my-razor-kraken-mic-working-and-how-to-solve-it/"><u>Expert Advice: Why Isn't My Razor Kraken Mic Working and How to Solve It!</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-make-websites-work-on-windows-like-apps/"><u>How To Make Websites Work on Windows Like Apps</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-challenges-in-win11s-22h2-software-upgrade-pathway/"><u>Overcoming Challenges in WIN11's 22H2 Software Upgrade Pathway</u></a></li>
-<li><a href="https://win11.techidaily.com/reactivating-hidden-windows-update-on-your-os/"><u>Reactivating Hidden Windows Update on Your OS</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-windows-default-safescreensaver-position/"><u>Securing Windows Default SafeScreensaver Position</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-gt-neo-5-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme GT Neo 5 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-process-forcing-reboot-of-iphone-into-recovery-mode-explained/"><u>Step-by-Step Process: Forcing Reboot of iPhone Into Recovery Mode Explained</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-the-beast-troubleshoot-sonic-fullscreen-crashes-in-w11/"><u>Taming The Beast: Troubleshoot Sonic Fullscreen Crashes in W11</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-gptmimicry-a-costless-local-edition-via-gpt4all/"><u>Windows GPTMimicry: A Costless Local Edition via GPT4All</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Civi 3 won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-sparkle-your-streams-top-5-tech-gems-for-videos/"><u>[New] 2024 Approved Sparkle Your Streams Top 5 Tech Gems for Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-best-practices-in-upgrading-to-a-high-end-4k-camera-lens/"><u>[Updated] In 2024, Best Practices in Upgrading to a High-End 4K Camera Lens</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c22-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C22? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/best-practices-for-downloading-and-installing-official-toshiba-printer-drivers-on-windows-systems/"><u>Best Practices for Downloading and Installing Official Toshiba Printer Drivers on Windows Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparative-review-ring-vs-nest-smart-doorbells/"><u>Comparative Review: Ring vs Nest Smart Doorbells</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/harmonious-hearing-eargasm-review-of-earmuffs/"><u>Harmonious Hearing: Eargasm Review of Earmuffs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-admin-command-center-on-windows/"><u>Navigating to Admin Command Center on Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-with-ease-open-mouse-prop-in-win11/"><u>Navigating with Ease: Open Mouse Prop in Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-reno-10-pro-5g-video-recovery-recover-deleted-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Oppo Reno 10 Pro 5G Video Recovery - Recover Deleted Videos from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-no-browser-scenarios-in-new-oss/"><u>Overcoming No-Browser Scenarios in New OSs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-delay-in-windows-11-keys-7-proven-methods/"><u>Reduce Delay in Windows 11 Keys: 7 Proven Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/refreshing-gpu-functionality-in-windows-10-and-11-easy-fixes/"><u>Refreshing GPU Functionality in Windows 10 & 11 Easy Fixes</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-reactivating-a-greyed-out-secure-boot-in-bios/"><u>Steps for Reactivating a Greyed Out Secure Boot in BIOS</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-overcoming-blue-screen-error/"><u>Strategies for Overcoming Blue Screen Error</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-steps-for-hardware-alerts-in-windows/"><u>Troubleshooting Steps for Hardware Alerts in Windows</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/unleash-creative-vibes-with-smokeys-elite-image-selection-powered-by-yl-software-for-ultimate-personalization/"><u>Unleash Creative Vibes with Smokey’s Elite Image Selection – Powered by YL Software for Ultimate Personalization!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Efficiency: Reducing Memory/CPU Load in Windows 10"
-date: 2025-01-09T07:04:29.702Z
-updated: 2025-01-12T20:33:00.669Z
+date: 2025-01-16T02:19:41.872Z
+updated: 2025-01-18T23:57:53.326Z
 tags:
   - windows10
   - windows11
@@ -25,16 +25,12 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install Windows Update Hotfix
 
 ![windows 11 update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Reportedly, the problem occurs due to a Windows bug. To fix the problem, Microsoft released cumulative update KB5010415 for Windows 11 and 10\. So, check if you have any pending updates for your computer and install them to see if that helps resolve the error.
@@ -51,6 +47,10 @@ To install a Windows 11 update:
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Turn Off News and Interests on Windows 10
 
  If you don't use News and Interests, you can turn off the feature from the Taskbar on Windows 10\. To turn off News and Interests on Windows 10:
@@ -58,6 +58,10 @@ To install a Windows 11 update:
 1. Right-click on the**Taskbar** to open the context menu.  
 ![turn off news and interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interestsjpg.jpg)
 2. Next, go to**News and Interests** and select**Turn Off** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it. With the**News and Interests** feature disabled, your memory usage should return to its normal range.
 
@@ -86,15 +90,11 @@ To install a Windows 11 update:
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
 
@@ -123,13 +123,13 @@ To disable the news feed feature using Windows Registry:
 
 5. Close the Registry Editor and restart your computer to apply the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Add and Disable EnableFeeds Using PowerShell
 
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 
@@ -141,7 +141,7 @@ To disable the news feed feature using Windows Registry:
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix the News and Interests Feature's High Memory Usage on Windows
@@ -163,22 +163,18 @@ To disable the news feed feature using Windows Registry:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-becoming-a-wealthy-beauty-channel-host/"><u>[New] In 2024, Becoming a Wealthy Beauty Channel Host</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-visionary-video-conclave/"><u>[Updated] The Visionary Video Conclave</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cinematic-transformation-best-15-gopro-color-correction-look-ups-explored/"><u>2024 Approved Cinematic Transformation Best 15 GoPro Color Correction Look-Ups Explored</u></a></li>
-<li><a href="https://win11.techidaily.com/epochs-in-windows-a-masterclass-guide/"><u>Epochs in Windows: A Masterclass Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-how-does-the-midland-lxt500vp3s-array-of-functions-stack-up-against-actual-usability/"><u>Expert Review: How Does the Midland LXT500VP3's Array of Functions Stack Up Against Actual Usability?</u></a></li>
-<li><a href="https://win11.techidaily.com/exploring-the-distinctions-of-artificial-intelligence-hardware/"><u>Exploring the Distinctions of Artificial Intelligence Hardware</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-windows-bluetooth-audio-alone-no-controls-available/"><u>Fixing Windows Bluetooth Audio Alone - No Controls Available</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-error-code-0x800f0845-during-update-process/"><u>Handling Error Code: 0X800F0845 During Update Process</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-simultaneously-extract-multiple-zip-files-in-windows/"><u>How to Simultaneously Extract Multiple ZIP Files in Windows</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-foremost-companies-pioneering-vr-technology/"><u>In 2024, Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-of-color-mastery-11-tutorials/"><u>In 2024, Unveiling the Secrets of Color Mastery (11 Tutorials)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-list-of-premium-ai-tools-enhancing-note-efficiency/"><u>Master List of Premium AI Tools Enhancing Note Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/mastery-at-a-click-top-tips-for-win11-mouse-settings/"><u>Mastery at a Click: Top Tips for Win11 Mouse Settings</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-winos-for-non-gpu-scheduled-workflows/"><u>Optimizing WinOS for Non-GPU Scheduled Workflows</u></a></li>
-<li><a href="https://win11.techidaily.com/securely-using-app-guard-for-cam-plus-mic-on-edge/"><u>Securely Using App Guard for Cam + Mic on Edge</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/srt-file-open-srt-file-on-windows-or-mac-for-2024/"><u>SRT File Open SRT File on Windows or Mac for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-reset-technique-for-windows-11-systems-using-revo-uninstaller-methods/"><u>Ultimate Reset Technique for Windows 11 Systems Using Revo Uninstaller Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-why-filmora-stands-out-its-top-10-alluring-features/"><u>[New] In 2024, Why Filmora Stands Out Its Top 10 Alluring Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-vlog-presentation-converting-h-footage-for-vertical-display/"><u>[New] Mastering Vlog Presentation Converting H-Footage for Vertical Display</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ditching-the-undesired-backdrop-the-path-less-cluttered/"><u>[Updated] Ditching the Undesired Backdrop The Path Less Cluttered</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools-for-2024/"><u>[Updated] Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-enhancing-beauty-on-streams-via-color-grading/"><u>[Updated] In 2024, Enhancing Beauty on Streams via Color Grading</u></a></li>
+<li><a href="https://win11.techidaily.com/detecting-windows-distress-reboot-or-reset/"><u>Detecting Windows Distress: Reboot or Reset?</u></a></li>
+<li><a href="https://win11.techidaily.com/illuminate-festive-spaces-with-curated-windows/"><u>Illuminate Festive Spaces with Curated Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fullscreen-transitions-in-windows-games/"><u>Mastering Fullscreen Transitions in Windows Games</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-non-functioning-windows-apps-top-7-remedies/"><u>Navigating Non-Functioning Windows Apps: Top 7 Remedies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-itunes-audio-mishaps-a-comprehensive-guide/"><u>Overcoming iTunes Audio Mishaps: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/protecting-your-digital-landscape-with-regular-windows-backups/"><u>Protecting Your Digital Landscape with Regular Windows Backups</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/top-tier-custom-react-native-solutions-for-your-mobile-project-explore-creative-tims-unique-template-library/"><u>Top Tier Custom React Native Solutions for Your Mobile Project – Explore Creative Tim's Unique Template Library</u></a></li>
 </ul></div>
 

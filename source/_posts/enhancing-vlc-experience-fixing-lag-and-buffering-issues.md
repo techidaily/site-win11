@@ -1,7 +1,7 @@
 ---
 title: "Enhancing VLC Experience: Fixing Lag and Buffering Issues"
-date: 2024-08-16T00:51:07.611Z
-updated: 2024-08-17T00:51:07.611Z
+date: 2025-01-12T19:29:28.813Z
+updated: 2025-01-19T01:44:34.584Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/ebd8fd55586bef5fe806c5a6931ae068dd25745cb
 
 Restart the VLC app after this and see if the video plays smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Change Power Plan to High Performance
 
  Enabling a strict power profile on your Windows computer can cause apps to run slowly. As a result, videos in the VLC media player may lag or stutter. To avoid such performance issues, you can change your computer’s power plan to High Performance mode and see if that helps. Here are the steps for the same.
@@ -51,15 +55,9 @@ Restart the VLC app after this and see if the video plays smoothly.
 4. Click on**Power Options** to open that applet.
 5. Select**High performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 
  Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 4\. Disable In-Loop Deblocking Filter
 
  Another thing you can do to fix video lag in VLC is to disable the loop filter for H.264 decoding. Here's how to do it.
@@ -68,6 +66,10 @@ Restart the VLC app after this and see if the video plays smoothly.
 2. Switch to the**Input / Codes** tab.
 3. Click the drop-down menu next to**Skip H.264 in-loop deblocking filter** and select**All** .  
 ![Skip In-Loop Deblocking Filter in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/skip-in-loop-deblocking-filter-in-vlc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the Caching Value
 
@@ -83,13 +85,11 @@ Restart the VLC app after this and see if the video plays smoothly.
 6. Similarly, increase the value for the**Network caching (ms)** as well.
 7. Click the**Save** button.  
 ![Increase File Caching in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/increase-file-caching-in-vlc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Reset the VLC Preferences
 
  VLC allows you to customize a number of settings and preferences that affect its behavior. However, if some of these preferences in the VLC app are not configured correctly, it could cause it to misbehave on Windows. Instead of going through each of your preferences one by one, it's easier to reset them all and start over.
@@ -101,8 +101,9 @@ To reset your VLC media player preferences, use these steps:
 3. In the Interface tab, click the**Reset Preferences** button at the bottom.
 4. Click**OK** when the **Are you sure you want to reset your VLC media player preferences** dialog appears.  
 ![Reset VLC Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-vlc-preferences.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Restart the VLC media player and check if the videos still lag.
@@ -117,6 +118,10 @@ To check for pending updates in the VLC media player:
 2. Click the**Help** menu at the top and select**Check for Updates** .  
 ![Check for Updates in VLC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/check-for-updates-in-vlc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If an update is available, follow the on-screen prompts to install it. After that, videos should play smoothly on Windows.
 
  If updating the VLC media player doesn't help, it's possible that some of its core app files are corrupt. In that case, you can consider uninstalling and reinstalling the VLC media player as a last resort. For that, use the following steps:
@@ -127,30 +132,20 @@ To check for pending updates in the VLC media player:
 4. Scroll through the list or use the search bar at the top to quickly locate**VLC media player** on the list. Click the**three-dot menu icon** next to it and select**Uninstall** .
 5. Select**Uninstall** once again to confirm.  
 ![Uninstall VLC Media Player on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-vlc-media-player-on-windows.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
  Once removed, open Microsoft Store on your PC and search for the VLC app. Then, click the**Install** button to download the app.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Smooth Video Playback in VLC for Windows Again
 
  Such issues with the VLC app can ruin your experience. Hopefully, the solutions above have helped you resolve the video lag issue in VLC for Windows, and you are now at ease.
 
  Although VLC is a popular media player for Windows, it is not your only option. There are plenty of excellent media player apps available for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +154,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-techniques-crafting-unique-boomerangs-on-snapchat/"><u>[New] 2024 Approved Innovative Techniques Crafting Unique Boomerangs on Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-wave-seekers-guide-to-action-cams-of-2023-for-2024/"><u>[New] Wave Seekers’ Guide to Action Cams of 2023 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-allure-of-video-crafting-filmoras-top-edits-explained/"><u>2024 Approved The Allure of Video Crafting Filmora’s Top Edits Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-screen-recording-tools-in-top-8-free-for-your-android-device/"><u>2024 Approved Top Screen Recording Tools in Top 8 FREE FOR YOUR Android Device</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-installer-has-insufficient-privileges-error-on-windows-1110/"><u>How to Fix “The Installer Has Insufficient Privileges” Error on Windows 11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-icons-in-windows-without-dismantling-system-files/"><u>Resetting Icons in Windows Without Dismantling System Files</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-windows-software-glitches-efficiently-7-methods/"><u>Resolving Windows Software Glitches Efficiently (7 Methods)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-tecno-pova-5-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Tecno Pova 5 Device</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essential-tips-for-discarding-unwanted-youtube-files/"><u>The Essential Tips for Discarding Unwanted YouTube Files</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-ignored-windows-start-menu-click/"><u>Troubleshooting: Ignored Windows Start Menu Click</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mpg-aac-movivid/"><u>오픈 소스 공유: MPG 파일을 무료로 AAC로 전환 - MoviVid</u></a></li>
+</ul></div>
 

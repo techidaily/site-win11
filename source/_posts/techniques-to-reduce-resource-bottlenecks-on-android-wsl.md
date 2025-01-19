@@ -1,7 +1,7 @@
 ---
 title: Techniques to Reduce Resource Bottlenecks on Android WSL
-date: 2025-01-09T02:49:56.029Z
-updated: 2025-01-13T07:38:07.139Z
+date: 2025-01-14T16:37:18.866Z
+updated: 2025-01-18T17:27:54.732Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## "As Needed" or "Continuous?" Which One to Choose
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 **Continuous** , on the other hand, keeps WSA running in the background. The benefit is that Android apps will fire up much quicker at the cost of using more of your computer’s resources. You can choose this option if your Windows 11 PC has the resources to spare.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Do I Manage the Way Windows Subsystem for Android Uses Its Resources?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![searching for WSA on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-search-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side menu of Windows Subsystem for Android, make sure you have selected**System** . On the right side, click on the**Subsystem resources** to expand the section. Then, select either**As needed** or**Continuous** by clicking on the appropriate radio button.
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ![the Subsystems resources section of WSA settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsa-windows-subsystem-resources.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now Windows Subsystem for Android will use resources depending on the option you have chosen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best Way For Windows Subsystem for Android to Use Resources
@@ -86,15 +86,17 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-visionary-dialogue-writer/"><u>[New] 2024 Approved Visionary Dialogue Writer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-restore-noise-to-silent-twitter-video-posts/"><u>[Updated] In 2024, Restore Noise to Silent Twitter Video Posts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-winning-the-subscriber-race-on-youtube-for-2024/"><u>[Updated] Winning the Subscriber Race on YouTube for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-windows-automatically-minimizing-programs/"><u>How to Fix Windows Automatically Minimizing Programs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/make-projector-mode-on-win11-no-pin-required/"><u>Make Projector Mode on Win11 No PIN Required</u></a></li>
-<li><a href="https://win11.techidaily.com/systematic-fix-for-windows-flickering-issue/"><u>Systematic Fix for Windows Flickering Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-best-screens-for-playstation-5-gamers-for-2024/"><u>TOP 5 Best Screens for PlayStation 5 Gamers for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-windows-crash-screens-purpose-and-interpretation/"><u>Understanding Windows Crash Screens: Purpose & Interpretation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-solutions-to-stop-blank-spots-in-obs-media/"><u>[New] In 2024, Solutions to Stop Blank Spots in OBS Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069012509-updated-2024-approved-top-sandbox-adventures-not-to-skip/"><u>[Updated] 2024 Approved Top Sandbox Adventures Not To Skip!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-sony-vegas-for-the-aspiring-youtube-editor-a-comprehensive-overview-for-2024/"><u>[Updated] Sony Vegas for the Aspiring YouTube Editor A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-xs-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone XS</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-edges-uninterrupted-operation-on-win11/"><u>Mastering Edge's Uninterrupted Operation on Win11</u></a></li>
+<li><a href="https://win11.techidaily.com/overriding-windows-error-codes-with-amd-solutions/"><u>Overriding Windows Error Codes with AMD Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories-for-2024/"><u>Perfect Picture Spotlights How to Zoom in & Out on Insta Stories for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-error-code-0xc00d36b4-from-windows-devices/"><u>Rectifying Error Code 0xC00D36B4 From Windows Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/releasing-overflow-fixing-caps-on-gpt-chat/"><u>Releasing Overflow: Fixing Caps on GPT Chat</u></a></li>
+<li><a href="https://win11.techidaily.com/unblocking-windows-nvidia-software-links/"><u>Unblocking Windows NVIDIA Software Links</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-5-free-online-video-editors-similar-to-imovie-updated-2023/"><u>Updated 5 Free Online Video Editors Similar to iMovie (Updated 2023)</u></a></li>
 </ul></div>
 
